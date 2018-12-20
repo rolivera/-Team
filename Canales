@@ -932,25 +932,50 @@ http://ss1.domint.net:2302/tu_str/universo/playlist.m3u8
 http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8
 #######################################
 
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B11MDjnDXWY/hq720_live.jpg" group-title="URUGUAY",1000 x HORA (URU)
+http://shacktv.com:8080/grantlaten/349boy2165/105614
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/891330516087164928/KMLvo3-g_400x400.jpg" group-title="URUGUAY",CANAL U (URU)
+http://shacktv.com:8080/grantlaten/349boy2165/105600
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/-fJqMQ32Wh4/maxresdefault.jpg" group-title="URUGUAY",CARDINAL TV (URU)
+http://shacktv.com:8080/grantlaten/349boy2165/105598
+
+#EXTINF:-1 tvg-logo=https://yt3.ggpht.com/a-/AN66SAxZHhm24LmJUWY5O-g4YLs2FIZi9_VIw2_p=s900-mo-c-c0xffffffff-rj-k-no" group-title="URUGUAY",CHARRUA TV (URU)
+http://shacktv.com:8080/grantlaten/349boy2165/105597
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/04/ftc.png?fit=800%2C500" group-title="URUGUAY",FLORIDA TV (URU)
+http://shacktv.com:8080/grantlaten/349boy2165/105596
+
+EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/3o0yyG3Wnsc/maxresdefault.jpg" group-title="URUGUAY",LA RED (URU)
+http://shacktv.com:8080/grantlaten/349boy2165/105612
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/CeZQwaDXIAA_iT-.jpg" group-title="URUGUAY",MONTECARLO (URU)
 http://api.new.livestream.com/accounts/152816/events/4235094/live.m3u8?GrupoTopIptv
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1018854767563608064/3w8EnDBu_400x400.jpg" group-title="URUGUAY",MONTECARLO ALT (URU)
-
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/912770611419783168/O0rCFK49_400x400.jpg" group-title="URUGUAY",MONTEVIDEO PORTAL (URU)
 http://wowza.montevideo.com.uy:1936/live/_definst_/mvdstrem/chunklist_w240300788.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-gXhn1i6LiCM/VKOv0_4IFfI/AAAAAAAAFmw/qoNG1mHsytc/s640/blogger-image--648257053.jpg" group-title="URUGUAY",SAETA 10 (URU)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF-PmzUOj0kOARiroHkus5Er5NyMy9JSwcWEnKY_d0OIHwkHQH" group-title="URUGUAY",RTV (URU)
+http://shacktv.com:8080/grantlaten/349boy2165/105591
 
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-gXhn1i6LiCM/VKOv0_4IFfI/AAAAAAAAFmw/qoNG1mHsytc/s640/blogger-image--648257053.jpg" group-title="URUGUAY",SAETA 10 (URU)
+http://shacktv.com:8080/grantlaten/349boy2165/105583
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/61/Teledoce_logo.png/revision/latest?cb=20140706162325" group-title="URUGUAY",TELEDOCE (URU)
+http://shacktv.com:8080/grantlaten/349boy2165/105582
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1eS8gxcJ1kxicoDvzok6mx560uEa6s41EFmTvdgu00I-kuIPM" group-title="URUGUAY",URUGUAY NATURAL
+http://shacktv.com:8080/grantlaten/349boy2165/105588
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/61/Teledoce_logo.png/revision/latest?cb=20140706162325" group-title="URUGUAY",TELEDOCE HD (URU)
+#EXTINF:-1 tvg-logo="https://store-images.s-microsoft.com/image/apps.62340.9007199266392866.44565621-b2f5-44e6-88a3-3daad7cf1acc.59e0516a-8265-48a5-aab0-4c851618b006?mode=scale&q=90&h=300&w=300" group-title="URUGUAY",VERA + (URU)
+http://shacktv.com:8080/grantlaten/349boy2165/105587
 
+#EXTINF:-1 tvg-logo="https://mlstaticquic-a.akamaihd.net/2android-tv-box-750-canales-de-cable-canales-uruguayos-y-vtv-D_NQ_NP_884222-MLU26628807182_012018-F.jpg" group-title="URUGUAY",VTV SD (URU)
+http://shacktv.com:8080/grantlaten/349boy2165/105585
 
-#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/vtv_uy_plus.jpg" group-title="URUGUAY",VTV+ (URU)
+#EXTINF:-1 tvg-logo="https://mlstaticquic-a.akamaihd.net/2android-tv-box-750-canales-de-cable-canales-uruguayos-y-vtv-D_NQ_NP_884222-MLU26628807182_012018-F.jpg" group-title="URUGUAY",VTV (URU)
+http://shacktv.com:8080/grantlaten/349boy2165/105584
 
 
 ######################################################################################################################################
