@@ -20,6 +20,9 @@ https://stream.vagalume.fm/hls/14660050141766497579/aac.m3u8
 http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8
 #######################################
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzlyFih1v9lvxmH1JYVLmYLLxkwYYTX11Muc6kCLgP71yuP6p7" group-title="ARGENTINA",AMERICA (ARG)
+http://shacktv.com:8080/grantlaten/349boy2165/61210
+
 #EXTINF:-1 tvg-logo="https://img1.androidappsapk.co/300/7/0/6/net.coninfo.admin.trecemaxtelevisin.png" group-title="ARGENTINA",13 MAX (ARG)
 http://kimbogrupol.com:25461/live/123456789/123456789/13186.ts
 
@@ -56,14 +59,9 @@ http://coninfo.net:1935/chacodxdtv/live/chunklist_w1251301598.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/677195098405412864/w1GSVqNs_400x400.png" group-title="ARGENTINA",CN3 (ARG)
 http://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-X11O_T6oygo/VPZxrb-Ej0I/AAAAAAAA3Oc/V4PK4o7ycqo/s1600/CTV%2B-%2BLogos.jpg" group-title="ARGENTINA",CORRIENTES TV (ARG)
 
-
-#EXTINF:-1 tvg-logo="http://revistafibra.info/wp-content/uploads/2014/10/cpe.png" group-title="ARGENTINA",CPE TV (ARG)
-
-
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-RjXsOFCUJa0/WbWZpQWlwZI/AAAAAAAABnA/vAeBWck6LNw4HpNBxdg5unnmIbpYXo1GgCLcBGAs/s1600/cronica-hd.png" group-title="ARGENTINA",CRONICA HD (ARG)
-
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-RjXsOFCUJa0/WbWZpQWlwZI/AAAAAAAABnA/vAeBWck6LNw4HpNBxdg5unnmIbpYXo1GgCLcBGAs/s1600/cronica-hd.png" group-title="ARGENTINA",CRONICA (ARG)
+http://shacktv.com:8080/grantlaten/349boy2165/61197
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/433043324698501120/liWhZUAW_400x400.jpeg" group-title="ARGENTINA",EL GARAGE (ARG)
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL269/PROFILE03.m3u8
@@ -72,18 +70,9 @@ http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL269/PROFILE03.m3u8
 http://186.0.233.76:1935/Garage/garage.smil/chunklist_w846352619_b446000_sleng.m3u8?GrupoTopIptv
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-vkeG0RQIHnE/WGhvc62WN2I/AAAAAAAABVY/BYhPhbmV8PkibYnkoMh4oUswZ2JLVp_7QCLcB/s1600/elnuevenuevo.png" group-title="ARGENTINA",EL NUEVE (ARG)
-
-
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-vkeG0RQIHnE/WGhvc62WN2I/AAAAAAAABVY/BYhPhbmV8PkibYnkoMh4oUswZ2JLVp_7QCLcB/s1600/elnuevenuevo.png" group-title="ARGENTINA",EL NUEVE HD (ARG)
-
+http://shacktv.com:8080/grantlaten/349boy2165/61204
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4d/El-Trece-HD-Logo-2011-2016.png/revision/latest?cb=20170721071837" group-title="ARGENTINA",EL TRECE (ARG)
-
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4d/El-Trece-HD-Logo-2011-2016.png/revision/latest?cb=20170721071837" group-title="ARGENTINA",EL TRECE HD (ARG)
-
-
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/ACSszfHLFI0HqfAgWtjCrL9lZB9Bi4BMKmmgeCk0XQ=s900-mo-c-c0xffffffff-rj-k-no" group-title="ARGENTINA",ENCUENTRO (ARG)
 
 
 #EXTINF:-1 tvg-logo="https://www.unl.edu.ar/wp-content/uploads/2017/02/litus.png" group-title="ARGENTINA",LITUS (ARG)
@@ -104,8 +93,8 @@ http://unlimited2-us.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2016/05/Canal-Siete-Jujuy.png?fit=400%2C260" group-title="ARGENTINA",TELEFE JUJUY (ARG)
 https://5975e06a1f292.streamlock.net:4443/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://digitalmediawire.com/wp-content/uploads/2016/11/Telefe.jpg" group-title="ARGENTINA",TELEFE HD (ARG)
-
+#EXTINF:-1 tvg-logo="https://digitalmediawire.com/wp-content/uploads/2016/11/Telefe.jpg" group-title="ARGENTINA",TELEFE (ARG)
+http://shacktv.com:8080/grantlaten/349boy2165/61193
 
 #EXTINF:-1 tvg-logo="http://photocall.tv/images/nueve.png" group-title="ARGENTINA",TELEVIDA (ARG)
 
