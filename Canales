@@ -838,10 +838,10 @@ http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/p
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUkSlAS1urWXUJmMo6dnaLhBGA8jksVQR3KZcBexbHK0lwAb9M" group-title="PORTUGAL",RTP 1 (PT)
-http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp1_5ch5h264.stream/playlist.m3u8
+http://pina7.ddns.net:8000/aplicacao/scp4ever/2.ch
 
 #EXTINF:-1 tvg-logo="http://www.firstonetv.net/images/logos/pt/RTP2.png" group-title="PORTUGAL",RTP 2 (PT)
-http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp2_5ch3h264.stream/playlist.m3u8
+http://pina7.ddns.net:8000/aplicacao/scp4ever/3.ch
 
 #EXTINF:-1 tvg-logo="https://c1.staticflickr.com/6/5777/21269795073_33032b74e8_b.jpg" group-title="PORTUGAL",RTP 3 (PT)
 http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpn_5ch64h264.stream/playlist.m3u8
@@ -859,7 +859,7 @@ http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/live
 http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpmem_5ch80h264.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/57/200px-LogoSICold.png/revision/latest?cb=20150223193551" group-title="PORTUGAL",SIC (PT)
-
+http://pina7.ddns.net:8000/aplicacao/scp4ever/4.ch
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrt-5ozMwBe8-Zw7_knDXjnxRc5wLIG2jwFrZiJH8IoOzJmsor" group-title="PORTUGAL",SIC CARAS (PT)
 
@@ -874,7 +874,7 @@ http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/live
 
 
 #EXTINF:-1 tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/11596_logo_tv_cine_4.png" group-title="PORTUGAL",TVC 3 (PT)
-
+http://pina7.ddns.net:8000/aplicacao/scp4ever/20.ch
 
 #EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/TVC4.png" group-title="PORTUGAL",TVC 4 (PT)
 
@@ -886,6 +886,7 @@ http://video-auth8.iol.pt:80/live_tvi/live_tvi/playlist.m3u8
 http://video-auth8.iol.pt:80/live_tvi24/live_tvi24/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkatgauayU0C38drSl_UDXMzyJ6RIxZEhL1vuSLh3d3zXpCQe9" group-title="PORTUGAL",TVI FICCAO (PT)
+http://pina7.ddns.net:8000/aplicacao/scp4ever/6.ch
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNK9jEnAW7vBKT6blh6XJeIj1rhG6SWTgQteofDsFqFlGPeSbq3Q" group-title="PORTUGAL",TVI REALITY (PT)
 http://video-auth8.iol.pt:80/live_tvi_direct/live_tvi_direct-3/playlist.m3u8
@@ -2856,7 +2857,7 @@ http://kimbogrupol.com:25461/live/123456789/123456789/16205.ts
 
 
 #EXTINF:-1  tvg-logo="https://www.digitaltveurope.com/files/2017/09/ELEVEN-SPORTS-logo1.png" group-title="DEPORTES/ESPORTES",ELEVEN SPORTS 1 (PT)
-
+http://pina7.ddns.net:8000/aplicacao/scp4ever/17.ch
 
 #EXTINF:-1  tvg-logo="https://b2cproductionsite-be80wkthrgjjkmzuip0.netdna-ssl.com/sites/b2c/files/elevensports_2_icon_20171214.png" group-title="DEPORTES/ESPORTES",ELEVEN SPORTS 2 (PT)
 
@@ -3096,7 +3097,7 @@ http://unionsrv.online:8880/321/321/8010
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL3yGNjg04bArAFATthvYBXJ_TS2UCzLw1rcs-pOBelB0DIWAU" group-title="DEPORTES/ESPORTES",SPORT TV 2 (PT)
-
+http://pina7.ddns.net:8000/aplicacao/scp4ever/11.ch
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8btmXxM-f9rwFEeFGEEYMrdQ5HbjWNGsS_BxRgFWfFihXjfKd" group-title="DEPORTES/ESPORTES",SPORT TV 3 (PT)
 http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=379.m3u8
