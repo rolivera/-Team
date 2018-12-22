@@ -33,7 +33,7 @@ http://kimbogrupol.com:25461/live/123456789/123456789/13186.ts
 http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/playlist.m3u8?GrupoTopIptv
 
 #EXTINF:-1 tvg-logo="http://www.fotosdigitalesgratis.com/noticias/fotos/C5N-Logo.jpg" group-title="ARGENTINA",C5N (ARG)
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=195.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://photocall.tv/images/canal4j.png" group-title="ARGENTINA",CANAL 4 JUJUY (ARG)
 http://190.52.32.13:1935/canal4/smil:manifest.smil/playlist.m3u8
@@ -103,7 +103,7 @@ http://shacktv.com:8080/grantlaten/349boy2165/61193
 http://149.56.98.124:9090/hls/telesol_hi.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/506483696065449984/BATn-jAe.png" group-title="ARGENTINA",TELPIN (ARG)
-http://wowza.telpin.com.ar:1935/telpintv/ttv.stream_720p/playlist.m3u8?GrupoTopIptv
+
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/905781904368119808/NayEUHrO_400x400.jpg" group-title="ARGENTINA",TLX (ARG)
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?iptvgratis?chile.m3u8?GrupoTopIptv
@@ -132,8 +132,8 @@ http://67149o.ha.azioncdn.net/hlsmedium/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/Or3Q4WA.png" group-title="BRASIL",GAZETA (BR)
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="BRASIL",GLOBO SD (BR)
-http://lista.digitalgroup.me:80/live/9213/9213/22356.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="BRASIL",GLOBO HD (BR)
+http://tvservice.pro:80/live/913665001585/GNxfqmXRmlZQuOl/20075.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="BRASIL",GLOBO SP (BR)
 http://painel.tvdigitalsbl.net:80/live/ANDERSON1/ANDERSON1/1065.m3u8
@@ -166,13 +166,13 @@ http://tv01.logicahost.com.br:1935/rbtv/rbtv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/k4haEx6.png" group-title="BRASIL",REDE TV SD (BR)
-http://cdn.iptvbr.tv:8080/apped/BB6phkCUGw/200
+
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/k4haEx6.png" group-title="BRASIL",REDE TV (BR)
 
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="BRASIL",RECORD (BR)
-http://cdn.iptvbr.tv:8080/apped/BB6phkCUGw/242
+
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="BRASIL",RECORD ACRITICA (BR)
 https://slbps-sambatech.akamaized.net/live/3256%2C7930%2C679f501d2054fc8514ea1fc28fe5f167%3Bbase64np%3BS52I5Up2XHDMC-c%21/amlst%3AS51w_Fc9WXHTS2s2/chunklist_b2146304.m3u8
@@ -277,7 +277,7 @@ http://kimbogrupol.com:25461/live/123456789/123456789/453.ts
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSetNpXYP8_CJaxAgqNbHdOyLcyrY9eQx7Dvv7X2RQwmpAWxYm9" group-title="COLOMBIA",CARACOL HD (COL)
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=177.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://static.telus.com/common/cms/images/tv/satellite/new-channel-logos/CityHD.png" group-title="COLOMBIA",CITY TV (COL)
 
@@ -286,7 +286,7 @@ http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&i
 
 
 #EXTINF:-1 tvg-logo="https://www.vidaentv.com/wp-content/uploads/2015/11/rcn-television.jpg" group-title="COLOMBIA",RCN HD (COL)
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=180.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.revistaquetal.com/wp-content/uploads/2013/10/rcn-television.jpg" group-title="COLOMBIA",RCN NOVELAS (COL)
 
@@ -373,22 +373,22 @@ http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/p
 
 
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-63tKIj-faV4/WkY8IgZwNYI/AAAAAAAAEHk/oNhL_ynqIuYCkzFhTGFz69iBDLBp46-9wCLcBGAs/s1600/A%2526E_logo.png" group-title="ESPAÑA",A&E (ESP)
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=85.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/816300858480717825/v59NRx9z_400x400.jpg" group-title="ESPAÑA",A3SERIES (ESP)
 
 
 #EXTINF:-1 tvg-logo="http://static1.yosoyvenezolano.com/wp-content/uploads/2014/07/antena_3_0.jpg" group-title="ESPAÑA",ANTENA 3 (ESP)
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=86.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/ACSszfHmfHe_ojc4vMH08Wd6v7AWshuLYa1S_I8Oew=s900-mo-c-c0xffffffff-rj-k-no" group-title="ESPAÑA",ARAGON TV (ESP)
 http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8?GrupoTopIptv
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDWhX0XLyZlwvJcxyQ05DBiYOKWHwdJcHsNFqKxJfLXISAdt1p" group-title="ESPAÑA",AXN (ESP)
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=87.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvT_mLRqVlU6K-gTB5u37UXXaUno8oQBKYgACr8WVu4g5hNXJ7" group-title="ESPAÑA",AXN WHITE (ESP)
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=88.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY9q1b4f4PzQM5qIF2hXuas2lQexfry2vuMuI2rxvfMjkJuCu5" group-title="ESPAÑA",CALLE 13 (ESP)
 
@@ -406,16 +406,16 @@ http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&i
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAYwLO33dl0ub29frRw4190qo_amUbGlfsLIfn0El3wmI9cuWw" group-title="ESPAÑA",COSMO (ESP)
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=113.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBUBmW2qfnW1l1S35VEUki9e9sUGFGjuybSy7WVNgoBV2VAkks" group-title="ESPAÑA",CRIME & INVESTIGATION (ESP)
 
 
 #EXTINF:-1 tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/cuatro_logo_500_-1_343d.png" group-title="ESPAÑA",CUATRO (ESP)
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=114.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS20F8WdnHWEwTf2LL7DrZS9OH82dHhRnmX52tJ1-9hzhqlwYij" group-title="ESPAÑA",DISCOVERY (ESP)
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=115.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC4JGuUKYNKCOETldx-Rr218VvMW9DGz7Ju9RqVtgy9kw7iOMO" group-title="ESPAÑA",DISNEY CHANNEL (ESP)
 
@@ -427,38 +427,38 @@ http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&i
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9Z3h99lyZYxjwf4_IdlFJtlmheVdKot8raNa8auBNDdltS38e" group-title="ESPAÑA",FOX (ESP)
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=118.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://cdn.i.haymarketmedia.asia/?n=campaign-asia%2Fcontent%2Ffoxlife_1200.png&h=570&w=855&q=100&v=20170226&c=1" group-title="ESPAÑA",FOX LIFE (ESP)
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=117.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVxPGnwuDvUJ7zlXO-JY_Vpw8G1a_ictpvZaYB3JAGjNNyKKI9" group-title="ESPAÑA",HISTORIA (ESP)
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=119.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://adminweb.onlycable.es/img/Canale/small/Hollywood-HD/Hollywood-HD_.jpg" group-title="ESPAÑA",HOLLYWOOD (ESP)
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=120.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/directostv.teleame.com/wp-content/uploads/2016/01/la-1-en-directo-online.png?resize=324%2C235" group-title="ESPAÑA",LA 1 (ESP)
 http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl7/la1_lv3_aosv4_gl7/la1_lv3_aosv4_gl7.isml/la1_lv3_aosv4_gl7.m3u8
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=122.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/899384654259736578/JcRiYU5A.jpg" group-title="ESPAÑA",LA 2 HD (ESP)
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=123.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/0e/LaSexta_2008.jpg/revision/latest?cb=20161022151112" group-title="ESPAÑA",LA SEXTA (ESP)
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=121.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvh7dp7ns5cNJSOZEKUK7_WCBSlGSCB3umYRgrV-Ah9grvpkPi" group-title="ESPAÑA",MEGA (ESP)
 
 
 #EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-accion.jpg.pagespeed.ic.8XNnGybpzf.jpg" group-title="ESPAÑA",MOVISTAR ACCION (ESP)
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=102.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/905382930574446592/MkOL4EEw_400x400.jpg" group-title="ESPAÑA",MOVISTAR CINE (ESP)
 
 
 #EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-comedia.jpg.pagespeed.ic.zZUxRAcn7e.jpg" group-title="ESPAÑA",MOVISTAR COMEDIA (ESP)
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=104.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://verliga1.net/wp-content/uploads/2017/01/drama.png" group-title="ESPAÑA",MOVISTAR DRAMA (ESP)
 
@@ -467,7 +467,7 @@ http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&i
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTQ34MMhpGPSUHW33iXKtDd5Tw-hdSeqkrbvA35W-UPgfn-23E" group-title="ESPAÑA",MOVISTAR ESTRENOS HD (ESP)
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=105.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm7iWk1lo2KULiOYech8O6u9704rQe-w1zlCt2JMZhH3wlE_Jn" group-title="ESPAÑA",MOVISTAR Ñ (ESP)
 
@@ -476,25 +476,25 @@ http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&i
 
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/M/mtv-music-television-espanol-logo-A2C3813C10-seeklogo.com.png" group-title="ESPAÑA",MTV ESPAÑA (ESP)
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=126.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvh7dp7ns5cNJSOZEKUK7_WCBSlGSCB3umYRgrV-Ah9grvpkPi" group-title="ESPAÑA",NAT GEO (ESP)
 
 
 #EXTINF:-1 tvg-logo="https://banner2.kisspng.com/20180711/wty/kisspng-nat-geo-wild-national-geographic-high-definition-t-geo-news-logo-5b45f75b215198.6140388115313119631365.jpg" group-title="ESPAÑA",NAT GEO WILD (ESP)
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=127.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/509064688550694912/WY6A_PqH.jpeg" group-title="ESPAÑA",NEOX (ESP)
 http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_1_av-b.m3u8?GrupoTopIptv
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/01/nova-en-directo-online.png?resize=324%2C235" group-title="ESPAÑA",NOVA (ESP)
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=129.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.audiovisual451.com/wp-content/uploads/Syfy-2017.jpg" group-title="ESPAÑA",SYFY (ESP)
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=130.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/telecinco_circular_500_-1_bda1.png" group-title="ESPAÑA",TELECINCO (ESP)
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=131.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://photocall.tv/images/telemadrid.png" group-title="ESPAÑA",TELEMADRID (ESP)
 
@@ -580,7 +580,7 @@ http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/p
 #######################################
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdtbSe-o6E2YbVLhRNgCKN0rumMBigVhbK7oKLXJoogkfTJMNH" group-title="ITALIA",CANALE 5 (ITA)
-http://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch01)/Stream(04)/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR87rJVqQURbBjes3t9Vx4nDODyvf6JEoHngHuDCcYbkhmGJQ7d" group-title="ITALIA",CANALE 7 (ITA)
 http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8
@@ -640,7 +640,7 @@ http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL169/PROFILE03.m3u8
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL102/PROFILE03.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.paredro.com/wp-content/uploads/2016/08/LOGO-LAS-ESTRELLAS.jpg" group-title="MEXICO",CANAL DE LAS ESTRELLAS HD (MEX)
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=52.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.mvstelevision.com/downloads/52mx/logotipo-jpg.jpg" group-title="MEXICO",CANAL 2 (MEX)
 
@@ -703,7 +703,7 @@ http://live.gvstream.net:1935/e-tv-video/play.stream/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.broadcastingcable.com/.image/t_share/MTU0MjAzNTE1NDI2MTIxMDcw/telemundo-station-group-hi-res_previewjpeg.jpg" group-title="MEXICO",TELEMUNDO (MEX)
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=215.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.alliance4creativity.com/wp-content/uploads/2017/06/GRUPO-TELEVISA-LOGO.png" group-title="MEXICO",TELEVISA (MEX)
 
@@ -712,7 +712,7 @@ http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&i
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL275/PROFILE03.m3u8
 
 #EXTINF:-1 tvg-logo="http://blancolorenz.com/wp-content/uploads/2012/06/TLNovelas.png" group-title="MEXICO",TLNOVELAS HD (MEX)
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=73.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://stick.tv/images/sticktvn1/channel/na/tvmas%20veracruz.png" group-title="MEXICO",TV MAS (MEX)
 
@@ -784,7 +784,7 @@ http://uvodscp-lh.akamaihd.net:80/i/ped001rtmp_1@460473/master.m3u8?GrupoTopIptv
 
 
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-Mcc2xCpSKWQ/UF6PxaiQZYI/AAAAAAAACQU/BLm5ZUhxzfs/s1600/LOGOTVPERU.jpg" group-title="PERU",TV PERU (PER)
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=196.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-Mcc2xCpSKWQ/UF6PxaiQZYI/AAAAAAAACQU/BLm5ZUhxzfs/s1600/LOGOTVPERU.jpg" group-title="PERU",TV PERU HD (PER)
 
@@ -976,103 +976,103 @@ http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/p
 #######################################
 
 #EXTINF:-1 tvg-logo="https://www.cablevisionfibertel.com.ar/dyn/dyn/MEDIA_ProductCatalog/m790054_AMC.png"  group-title="USA",AMC
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=507.m3u8 
+ 
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/ff/28/a0/ff28a096ed24ebd4197f5672392bfab1.png"  group-title="USA",ANIMAL PLANET
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=506.m3u8 
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmFr93M6ofnFwAqI8s_3B4w48gMSNcyEaFV8VuEXOtMFufWmyf" group-title="USA",BLOOMBERG
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=510.m3u8 
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsnZUHja1f3kSIqhJAl5pSrAlVKeMLcVa5T5BzV49YY-qQMSZW" group-title="USA",CARTOON NETWORK 
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=488.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://images.mi.tv/channels/pe_cinemax_m.png"  group-title="USA",CINEMAX EAST
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=321.m3u8 
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsvwF6YcxpZF30ZtTF_lluSH6peMrrm3vM891CgrigJbApcf6v" group-title="USA",CNN
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=493.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-lGdXl2-wba_AKD8ixZe5nPHaE1wuRIriuXJJiWLEcr7NVGXY" group-title="USA",CNBC 
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=511.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiolxIkVhDJc4O56G8Qw-DZs0cbe0c6Fbm2obhdF2RG62C2iK0" group-title="USA",COMEDY CENTRAL
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=492.m3u8 
+
 
 #EXTINF:-1 tvg-logo="https://cdn.firstonetv.eu/images/logos/us/THECW.png"  group-title="USA",CW
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=352.m3u8 
+ 
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/11/Discovery_Channel_2016.png" group-title="USA",DISCOVERY CHANNEL
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=487.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1vjedLDdrON3T0RFb_YN6fGpE_h_NEsv2-gi7oI5vRGc1nbgjkQ"  group-title="USA",DISNEY
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=516.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://oneq.tech/wp-content/uploads/2018/03/9407fa33a1873b022ed3169d51ea6aff-1.png"  group-title="USA",ESPN 1 
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=322.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://zpapi.zetatv.com.uy/media/images/espn2-s.png"  group-title="USA",ESPN 2 
 http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1X-HiKKV6nb4QCXlUhIwcDAiBBPEoRW9PQf0VqXiWq0wRJ7F7"  group-title="USA",FOX SPORTS 1
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=331.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/gallery_8863_7_27936.png"  group-title="USA",FOX SPORTS 2
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=330.m3u8 
+
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/4b/6d/5a/4b6d5a3a5318ea2b7d026e77a3a00fd6.jpg"  group-title="USA",HALLMARK 
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=324.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyRQIfuVoQo_XMRaqfDqSU3n7P4axOlhr9Md7M8n_gvoRfnPWa"  group-title="USA",H2
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=512.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/sv_hbo-2_m.png"  group-title="USA",HBO 2
 http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dishpromotions.com/wp-content/uploads/HBOZ-logo.png"  group-title="USA",HBO ZONE
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=332.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.untamedborders.com/wp-content/uploads/2015/08/NGlogo.png" group-title="USA",NATIONAL GEOGRAPHIC
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=489.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/natgeowild.png"  group-title="USA",NAT GEO WILD
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=497.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://nick.mtvnimages.com/nick-assets/common/nick-logo-200x200.png" group-title="USA",NICK
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=499.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://sc.dish.com/shared/images/station-logos/nbcsp.png" group-title="USA",NBCSN 
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=387.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://cdn.firstonetv.eu/images/logos/us/SHOWCASE.png" group-title="USA",SHOWCASE
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=500.m3u8 
+
 
 #EXTINF:-1 tvg-logo="https://cdn.firstonetv.eu/images/logos/us/SHOWTIME.png"  group-title="USA",SHOWTIME 
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=326.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/SourceLogos/Cleared%20Logos/Showtime/Sho%202.jpg" group-title="USA",SHOWTIME 2 
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=501.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://vimn.ru/images/stories/spike.jpg" group-title="USA",SPIKE
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=517.m3u8 
+
 
 #EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/starz_cinema.png"  group-title="USA",STARZ CINEMA 
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=327.m3u8 
+
 
 #EXTINF:-1 tvg-logo="https://www.tvweek.com/wp-content/uploads/2015/03/starz-encore-logos.png"  group-title="USA",STARZ ENCORE
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=329.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://static-12.sinclairstoryline.com/resources/assets/tennischannel/images/TC-Logo-Mobile-Footer.png" group-title="USA",TENNIS
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=505.m3u8 
+
 
 #EXTINF:-1 tvg-logo="https://images.mi.tv/channels/pe_tbs-veryfunny-pan_m.png"  group-title="USA",TBS
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=504.m3u8 
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSicBVH2bL_86NCTGjy0VvBTW_JvVgks_YEaXx3Eym6RY3Ot6Go"  group-title="USA",TSN SPORT
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=328.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqYRAfpuhs__w0gN8w_9TT0PACDZR2vUoV2zBEsV-CpGWBW_Vl"  group-title="USA",U.S.A NETWORK
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=334.m3u8 
+
 
 #####################################################################################################################################
 ####################################### VENEZUELA
@@ -1103,33 +1103,6 @@ http://stmv2.srvstm.com:1935/tvjsid/tvjsid/playlist.m3u8?GrupoTopIptv
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP_Dx7uNnIgFqoU4L7v6Woz_ULpNeuwHwH1YRpfpbGhUkyaYXt" group-title="CANALES DE CINE",FMHOT PELICULAS (LAT)
 http://fmhot.04.cl.cdnz.cl/fmhot/smil:cdn.smil/playlist.m3u8
-
-######################################################################################################################################
-####################################### CANALES 24/7 LATINO
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd8OUGuimiGpadVZg_Rq5mb-xH_692aV-1lYHsV3tiI4y59Y0R" group-title="CANALES 24/7 LATINO",CANALES 24/7 LATINO
-http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8
-#######################################
-
-#EXTINF:-1 tvg-logo="https://seeklogo.net/wp-content/uploads/2013/05/the-simpsons-eps-vector-logo.png" group-title="CANALES 24/7 LATINO",SIMPSONS
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=183.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-images-1.medium.com/max/1600/1*5FDqv_Jqlk___XP0eFZptQ.png" group-title="CANALES 24/7 LATINO",DINOSAURIOS
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=186.m3u8
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/teniaqueserlawikidelchavo/images/c/c9/Logo.png/revision/latest?cb=20150706011310&format=original&path-prefix=es" group-title="CANALES 24/7 LATINO",EL CHAVO
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=187.m3u8
-
-#EXTINF:-1 tvg-logo="https://assets.metrolatam.com/co/2015/02/05/10932063-1532574413663288-332133250-n-800x800.jpg" group-title="CANALES 24/7 LATINO",CHESPIRITO
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=250.m3u8
-
-#EXTINF:-1 tvg-logo="https://ih1.redbubble.net/image.189569952.1985/raf,750x1000,075,t,fafafa:ca443f4786.jpg" group-title="CANALES 24/7 LATINO",CHAPULIN
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=251.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwBbY3PdQu4IuWk7t2JmId8_8xaDUU0yc_Z-kC1KrSPZ0ZKdbx-w" group-title="CANALES 24/7 LATINO",TOM & JERRY
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=255.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd-QrH8ptxhiXVY9jFPs1WGtdqoCC-OuHjXwWgXDuaQl62sq5w" group-title="CANALES 24/7 LATINO",SCOOBY DOO
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=260.m3u8
 
 ######################################################################################################################################
 ####################################### PREMIUM LATINA 1
@@ -1285,145 +1258,145 @@ http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/p
 #######################################
 
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/062010/AMCHepburn_B.png?itok=18X2cfEC" group-title="PREMIUM LATINA 2",AMC (LAT)
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=2.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/axn.png" group-title="PREMIUM LATINA 2",AXN (LAT)
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=96.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://etb.com/hogares/img1/guia/logos/logo-cinec.jpg" group-title="PREMIUM LATINA 2",CINECANAL (LAT)
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=10.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://s3.castbox.fm/29/e1/43/98e45d48d39a208a4d9dd5c2f0.png" group-title="PREMIUM LATINA 2",CINE LATINO (LAT)
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=384.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://trademarks.justia.com/media/og_image.php?serial=85957958" group-title="PREMIUM LATINA 2",CINE DINAMITA (LAT)
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=444.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cine/16.png" group-title="PREMIUM LATINA 2",CINEMAX (LAT)
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=208.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb2KPJFS7J7dW-Dtn2dozBF3p-873o-JJH5wZbjc9CdRfukM8R" group-title="PREMIUM LATINA 2",COMEDY CENTRAL (LAT)
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=11.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/hn_de-pelicula_m.png" group-title="PREMIUM LATINA 2",DE PELICULA (LAT)
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=12.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://images.mi.tv/channels/cl_dhe_m.png" group-title="PREMIUM LATINA 2",DHE (LAT)
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=441.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://conectateacablevision.mx/projects/commercialofferchannels/img/channels/233.png" group-title="PREMIUM LATINA 2",DISTRITO COMEDIA (LAT)
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=23.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://banner2.kisspng.com/20180329/heq/kisspng-logo-of-nbc-television-channel-fox-fox-5abc8ef9dcbf13.5561782615223068099042.jpg" group-title="PREMIUM LATINA 2",FOX (LAT)
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=30.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/fox/fox-premium-action-oeste.png" group-title="PREMIUM LATINA 2",FOX ACTION (LAT)
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=32.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/fox/fox-premium-cinema.png" group-title="PREMIUM LATINA 2",FOX CINEMA (LAT)
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=33.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/fox/fox-premium-comedy.png" group-title="PREMIUM LATINA 2",FOX COMEDY (LAT)
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=442.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/fox/fox-premium-family-oeste.png" group-title="PREMIUM LATINA 2",FOX FAMILY (LAT)
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=364.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://cdn.i.haymarketmedia.asia/?n=campaign-asia%2Fcontent%2Ffoxlife_1200.png&h=570&w=855&q=100&v=20170226&c=1" group-title="PREMIUM LATINA 2",FOX LIFE (LAT)
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=35.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/fox/fox-premium-movies-hd.png" group-title="PREMIUM LATINA 2",FOX MOVIES (LAT)
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=36.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/fox/fox-premium-series-hd.png" group-title="PREMIUM LATINA 2",FOX SERIES (LAT)
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=31.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/031/original/pic_fx.png?1522177123" group-title="PREMIUM LATINA 2",FX (LAT)
 
 
 #EXTINF:-1 tvg-logo="https://mark.trademarkia.com/logo-images/twentieth-century-fox-film-corporation/fxm-85399565.jpg" group-title="PREMIUM LATINA 2",FXM (LAT)
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=70.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ15I-qMw2afrKrElYPAQ9mmtr6NascIfrntW5T_sv8wHPmDyN" group-title="PREMIUM LATINA 2",GOLDEN (LAT)
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=41.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://vivotvtv.com/wp-content/uploads/2018/04/Golden-Edge-en-vivo-277x156.jpg" group-title="PREMIUM LATINA 2",GOLDEN EDGE (LAT)
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=42.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_12/large.5a2417c8b455b_GoldenPlus(Negro).png.9534b5113b089f65d6e76b2dd7645820.png" group-title="PREMIUM LATINA 2",GOLDEN PLUS (LAT)
 
 
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/co_golden-premier-hd_m.png" group-title="PREMIUM LATINA 2",GOLDEN PREMIER (LAT)
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=210.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2qqrrq69tbnXtGqAxErNZls8cvkG9YvGCguCYIP5hYkbuHD2K" group-title="PREMIUM LATINA 2",HBO (LAT)
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=43.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2qqrrq69tbnXtGqAxErNZls8cvkG9YvGCguCYIP5hYkbuHD2K" group-title="PREMIUM LATINA 2",HBO ARG (LAT)
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=261.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://listaccess.me/Logo/HBO21.png" group-title="PREMIUM LATINA 2",HBO 2 (LAT)
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=44.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://listaccess.me/Logo/HBO21.png" group-title="PREMIUM LATINA 2",HBO 2 ARG (LAT)
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=455.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/hbo-family-logo-320x320-745790760.png" group-title="PREMIUM LATINA 2",HBO FAMILY (LAT)
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=45.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://contenidos.cablevision.com.mx/guia_programacion/channels/634.png" group-title="PREMIUM LATINA 2",HBO PLUS (LAT)
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=46.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/gt_hbo-signature_m.png" group-title="PREMIUM LATINA 2",HBO SIGNATURE (LAT)
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=47.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/_VoHOYEuZjzM/SsANAYXMMWI/AAAAAAAAAhI/7yI4nQHXUvQ/s320/Logo_ISat.jpg" group-title="PREMIUM LATINA 2",I SAT
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=50.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://clarotv.claro.com.br/image/Get/630" group-title="PREMIUM LATINA 2",MAX (LAT)
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=89.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://sky.vteximg.com.br/arquivos/ids/156096/maxprime-hd.png?v=636446344633130000" group-title="PREMIUM LATINA 2",MAX PRIME (LAT)
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=272.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/tvpediabrasil/images/e/e6/Maxup.png/revision/latest?cb=20160922150849&path-prefix=pt-br" group-title="PREMIUM LATINA 2",MAX UP (LAT)
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=54.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfoY9DXKkykRMowbV8iIWeLxeoTCE1NQTg5RBEKHwYv_ei70k5" group-title="PREMIUM LATINA 2",MULTIPREMIER (LAT)
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIhaEIAZlIS-U6e8zSgH3TM_9-9lLO1xQfIcH_vSx5vTRcGkw1" group-title="PREMIUM LATINA 2",PARAMOUNT (LAT)
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=212.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://www.cable10.com/imagenes/programacion/canales_0013s_0006_Layer%2044.jpg" group-title="PREMIUM LATINA 2",SONY (LAT)
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=63.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8.png" group-title="PREMIUM LATINA 2",SPACE (LAT)
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=64.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://mysave.in/v1/images/ij05riqikivcn4arge4.jpg" group-title="PREMIUM LATINA 2",STUDIO UNIVERSAL (LAT)
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=65.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/082015/syfy_0.png?itok=64TT6J8J" group-title="PREMIUM LATINA 2",SYFY (LAT)
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=66.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/011/original/pic_tbs.png?1522176341" group-title="PREMIUM LATINA 2",TBS (LAT)
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=67.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://www.brandemia.org/sites/default/files/sites/default/files/tcm_logo_antes.jpg" group-title="PREMIUM LATINA 2",TCM (LAT)
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=68.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://mareatvcable.com/wp-content/uploads/2017/12/44-tntlogo.png" group-title="PREMIUM LATINA 2",TNT (LAT)
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=74.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/cineframe.mx/wp-content/uploads/2017/08/1498152635.png?fit=660%2C660" group-title="PREMIUM LATINA 2",TNT SERIES (LAT)
 
 
 #http://tv.iptvsensation.com:6500/live/12esun1114q/DCIGu3VVHw/15970.tsEXTINF:-1 tvg-logo="http://s2.glbimg.com/QQ0n7FZJBvKGjcii_aNn4dvq5f0=/200x200/filters:quality(80)/g.glbimg.com/og/gs/gsat3/f/thumbs/programa/2017/03/09/logo-padrao_5GKjBtK.jpg" group-title="PREMIUM LATINA 2",UNIVERSAL CHANNEL (LAT)
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=79.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://television.com.ar/wp-content/uploads/2016/05/wb.jpg" group-title="PREMIUM LATINA 2",WARNER (LAT)
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=84.m3u8
+
 
 ######################################################################################################################################
 ####################################### PREMIUM LATINA 3
@@ -1645,7 +1618,7 @@ http://cdn.iptvbr.tv:8080/apped/BB6phkCUGw/280
 http://cdn.iptvbr.tv:8080/apped/BB6phkCUGw/277
 
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/_VoHOYEuZjzM/SsANAYXMMWI/AAAAAAAAAhI/7yI4nQHXUvQ/s320/Logo_ISat.jpg" group-title="PREMIUM BRASIL 1",I SAT (BR)
-http://cdn.iptvbr.tv:8080/apped/BB6phkCUGw/276
+
 
 #EXTINF:-1 tvg-logo="http://clarotv.claro.com.br/image/Get/630" group-title="PREMIUM BRASIL 1",MAX (BR)
 http://cdn.iptvbr.tv:8080/apped/BB6phkCUGw/269
@@ -1720,118 +1693,118 @@ http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/p
 #######################################
 
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/062010/AMCHepburn_B.png?itok=18X2cfEC" group-title="PREMIUM BRASIL 2",AMC (BR)
-http://painel.tvdigitalsbl.net:80/live/ANDERSON1/ANDERSON1/1813.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/axn.png" group-title="PREMIUM BRASIL 2",AXN (BR)
-http://painel.tvdigitalsbl.net:80/live/ANDERSON1/ANDERSON1/1028.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cine/16.png" group-title="PREMIUM BRASIL 2",CINEMAX (BR)
-http://painel.tvdigitalsbl.net:80/live/ANDERSON1/ANDERSON1/450.m3u8
+http://tvservice.pro:80/live/913665001585/GNxfqmXRmlZQuOl/20093.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb2KPJFS7J7dW-Dtn2dozBF3p-873o-JJH5wZbjc9CdRfukM8R" group-title="PREMIUM BRASIL 2",COMEDY CENTRAL (BR)
-http://painel.tvdigitalsbl.net:80/live/ANDERSON1/ANDERSON1/849.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://banner2.kisspng.com/20180329/heq/kisspng-logo-of-nbc-television-channel-fox-fox-5abc8ef9dcbf13.5561782615223068099042.jpg" group-title="PREMIUM BRASIL 2",FOX (BR)
-http://painel.tvdigitalsbl.net:80/live/ANDERSON1/ANDERSON1/1110.m3u8
+http://tvservice.pro:80/live/913665001585/GNxfqmXRmlZQuOl/20082.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.i.haymarketmedia.asia/?n=campaign-asia%2Fcontent%2Ffoxlife_1200.png&h=570&w=855&q=100&v=20170226&c=1" group-title="PREMIUM BRASIL 2",FOX LIFE (BR)
 
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/59/FOXPremium1.png/revision/latest?cb=20170324170019" group-title="PREMIUM BRASIL 2",FOX PREMIUM 1 (BR)
-http://painel.tvdigitalsbl.net:80/live/ANDERSON1/ANDERSON1/978.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/28/FOXPremium2.png/revision/latest?cb=20170324170127" group-title="PREMIUM BRASIL 2",FOX PREMIUM 2 (BR)
-http://painel.tvdigitalsbl.net:80/live/ANDERSON1/ANDERSON1/1310.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/031/original/pic_fx.png?1522177123" group-title="PREMIUM BRASIL 2",FX (BR)
-http://painel.tvdigitalsbl.net:80/live/ANDERSON1/ANDERSON1/1043.m3u8
+http://tvservice.pro:80/live/913665001585/GNxfqmXRmlZQuOl/20076.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2qqrrq69tbnXtGqAxErNZls8cvkG9YvGCguCYIP5hYkbuHD2K" group-title="PREMIUM BRASIL 2",HBO (BR)
-http://painel.tvdigitalsbl.net:80/live/ANDERSON1/ANDERSON1/1031.m3u8
+http://tvservice.pro:80/live/913665001585/GNxfqmXRmlZQuOl/20069.m3u8
 
 #EXTINF:-1 tvg-logo="http://listaccess.me/Logo/HBO21.png" group-title="PREMIUM BRASIL 2",HBO 2 (BR)
-http://painel.tvdigitalsbl.net:80/live/ANDERSON1/ANDERSON1/1030.m3u8
+http://tvservice.pro:80/live/913665001585/GNxfqmXRmlZQuOl/20071.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/hbo-family-logo-320x320-745790760.png" group-title="PREMIUM BRASIL 2",HBO FAMILY (BR)
-http://painel.tvdigitalsbl.net:80/live/ANDERSON1/ANDERSON1/691.m3u8
+http://tvservice.pro:80/live/913665001585/GNxfqmXRmlZQuOl/20070.m3u8
 
 #EXTINF:-1 tvg-logo="http://contenidos.cablevision.com.mx/guia_programacion/channels/634.png" group-title="PREMIUM BRASIL 2",HBO PLUS (BR)
-http://painel.tvdigitalsbl.net:80/live/ANDERSON1/ANDERSON1/1032.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://contenidos.cablevision.com.mx/guia_programacion/channels/634.png" group-title="PREMIUM BRASIL 2",HBO PLUS*e
 
 
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/gt_hbo-signature_m.png" group-title="PREMIUM BRASIL 2",HBO SIGNATURE (BR)
-http://painel.tvdigitalsbl.net:80/live/ANDERSON1/ANDERSON1/694.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/_VoHOYEuZjzM/SsANAYXMMWI/AAAAAAAAAhI/7yI4nQHXUvQ/s320/Logo_ISat.jpg" group-title="PREMIUM BRASIL 2",I SAT (BR)
 
 
 #EXTINF:-1 tvg-logo="http://clarotv.claro.com.br/image/Get/630" group-title="PREMIUM BRASIL 2",MAX (BR)
-http://painel.tvdigitalsbl.net:80/live/ANDERSON1/ANDERSON1/728.m3u8
+http://tvservice.pro:80/live/913665001585/GNxfqmXRmlZQuOl/20064.m3u8
 
 #EXTINF:-1 tvg-logo="http://sky.vteximg.com.br/arquivos/ids/156096/maxprime-hd.png?v=636446344633130000" group-title="PREMIUM BRASIL 2",MAX PRIME (BR)
-http://painel.tvdigitalsbl.net:80/live/ANDERSON1/ANDERSON1/729.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://sky.vteximg.com.br/arquivos/ids/156096/maxprime-hd.png?v=636446344633130000" group-title="PREMIUM BRASIL 2",MAX PRIME*e (BR)
 
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/tvpediabrasil/images/e/e6/Maxup.png/revision/latest?cb=20160922150849&path-prefix=pt-br" group-title="PREMIUM BRASIL 2",MAX UP (BR)
-http://painel.tvdigitalsbl.net:80/live/ANDERSON1/ANDERSON1/730.m3u8
+http://tvservice.pro:80/live/913665001585/GNxfqmXRmlZQuOl/20063.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.netemnatal.com.br/canais_net/megapix.jpg" group-title="PREMIUM BRASIL 2",MEGAPIX (BR)
-http://painel.tvdigitalsbl.net:80/live/ANDERSON1/ANDERSON1/1026.m3u8
+http://tvservice.pro:80/live/913665001585/GNxfqmXRmlZQuOl/20062.m3u8
 
 #EXTINF:-1 tvg-logo="https://d2xhqqdaxyaju6.cloudfront.net/file/teaser-ci/293920/0/1200-400.jpg" group-title="PREMIUM BRASIL 2",PARAMOUNT (BR)
-http://painel.tvdigitalsbl.net:80/live/ANDERSON1/ANDERSON1/709.m3u8
+http://tvservice.pro:80/live/913665001585/GNxfqmXRmlZQuOl/20055.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cable10.com/imagenes/programacion/canales_0013s_0006_Layer%2044.jpg" group-title="PREMIUM BRASIL 2",SONY (BR)
-http://painel.tvdigitalsbl.net:80/live/ANDERSON1/ANDERSON1/719.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8.png" group-title="PREMIUM BRASIL 2",SPACE (BR)
-http://painel.tvdigitalsbl.net:80/live/ANDERSON1/ANDERSON1/1042.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://mysave.in/v1/images/ij05riqikivcn4arge4.jpg" group-title="PREMIUM BRASIL 2",STUDIO UNIVERSAL (BR)
-http://painel.tvdigitalsbl.net:80/live/ANDERSON1/ANDERSON1/720.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/082015/syfy_0.png?itok=64TT6J8J" group-title="PREMIUM BRASIL 2",SYFY (BR)
-http://painel.tvdigitalsbl.net:80/live/ANDERSON1/ANDERSON1/480.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/06/f2/01/06f201cdd7c0416eddb3a767a9c5cc8d.jpg" group-title="PREMIUM BRASIL 2",TELECINE ACTION (BR)
-http://painel.tvdigitalsbl.net:80/live/ANDERSON1/ANDERSON1/1050.m3u8
+http://tvservice.pro:80/live/913665001585/GNxfqmXRmlZQuOl/20045.m3u8
 
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/br_telecine-cult-1_m.png" group-title="PREMIUM BRASIL 2",TELECINE CULT (BR)
-http://painel.tvdigitalsbl.net:80/live/ANDERSON1/ANDERSON1/685.m3u8
+http://tvservice.pro:80/live/913665001585/GNxfqmXRmlZQuOl/20044.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/54/c8/7f/54c87f894c0d97024ad5f44aec454a32.jpg" group-title="PREMIUM BRASIL 2",TELECINE FUN (BR)
-http://painel.tvdigitalsbl.net:80/live/ANDERSON1/ANDERSON1/1047.m3u8
+http://tvservice.pro:80/live/913665001585/GNxfqmXRmlZQuOl/20043.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.reweb.io/hagah/image/vG87z-TZwPgc2pcoqY4w9ff2e8U=/300x300/top/smart/hagah/5/53/telecine-pipoca-hd-53eee45e.jpg" group-title="PREMIUM BRASIL 2",TELECINE PIPOCA (BR)
-http://painel.tvdigitalsbl.net:80/live/ANDERSON1/ANDERSON1/687.m3u8
+http://tvservice.pro:80/live/913665001585/GNxfqmXRmlZQuOl/20042.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.reweb.io/hagah/image/q4q0F-QvHi5OlEDHC7vIcim3f0s=/150x150/top/smart/hagah/2/2a/telecine-premium-hd-2aadc341.jpg" group-title="PREMIUM BRASIL 2",TELECINE PREMIUM (BR)
-http://painel.tvdigitalsbl.net:80/live/ANDERSON1/ANDERSON1/1049.m3u8
+http://tvservice.pro:80/live/913665001585/GNxfqmXRmlZQuOl/20041.m3u8
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.sempretops.com/wp-content/uploads/telecine-touch-logo-nova-online-ao-vivo.gif" group-title="PREMIUM BRASIL 2",TELECINE TOUCH (BR)
-http://painel.tvdigitalsbl.net:80/live/ANDERSON1/ANDERSON1/1057.m3u8
+http://tvservice.pro:80/live/913665001585/GNxfqmXRmlZQuOl/20046.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/011/original/pic_tbs.png?1522176341" group-title="PREMIUM BRASIL 2",TBS (BR)
-http://painel.tvdigitalsbl.net:80/live/ANDERSON1/ANDERSON1/683.m3u8
+http://tvservice.pro:80/live/913665001585/GNxfqmXRmlZQuOl/20047.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.brandemia.org/sites/default/files/sites/default/files/tcm_logo_antes.jpg" group-title="PREMIUM BRASIL 2",TCM (BR)
-http://painel.tvdigitalsbl.net:80/live/ANDERSON1/ANDERSON1/682.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://mareatvcable.com/wp-content/uploads/2017/12/44-tntlogo.png" group-title="PREMIUM BRASIL 2",TNT (BR)
-http://painel.tvdigitalsbl.net:80/live/ANDERSON1/ANDERSON1/1073.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/cineframe.mx/wp-content/uploads/2017/08/1498152635.png?fit=660%2C660" group-title="PREMIUM BRASIL 2",TNT SERIES (BR)
-http://painel.tvdigitalsbl.net:80/live/ANDERSON1/ANDERSON1/1046.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://s2.glbimg.com/QQ0n7FZJBvKGjcii_aNn4dvq5f0=/200x200/filters:quality(80)/g.glbimg.com/og/gs/gsat3/f/thumbs/programa/2017/03/09/logo-padrao_5GKjBtK.jpg" group-title="PREMIUM BRASIL 2",UNIVERSAL CHANNEL (BR)
-http://painel.tvdigitalsbl.net:80/live/ANDERSON1/ANDERSON1/929.m3u8
+http://tvservice.pro:80/live/913665001585/GNxfqmXRmlZQuOl/20035.m3u8
 
 #EXTINF:-1 tvg-logo="http://television.com.ar/wp-content/uploads/2016/05/wb.jpg" group-title="PREMIUM BRASIL 2",WARNER CHANNEL (BR)
-http://painel.tvdigitalsbl.net:80/live/ANDERSON1/ANDERSON1/1072.m3u8
+
 
 ######################################################################################################################################
 ####################################### PREMIUM BRASIL 3
