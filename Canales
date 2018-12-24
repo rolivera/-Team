@@ -2445,10 +2445,10 @@ http://216.245.204.227:8054/live
 
 
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple18/v4/19/f3/2b/19f32bd3-1a35-08a7-0c7d-729ffa0bce97/pr_source.png/1200x630bb.png" group-title="NOTICIAS",BAND NEWS (BRA)
-http://painel.tvdigitalsbl.net:80/live/ANDERSON1/ANDERSON1/726.m3u8
+http://maxptv.ddns.net:25461/live/MA020/0706/217.ts
 
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple18/v4/19/f3/2b/19f32bd3-1a35-08a7-0c7d-729ffa0bce97/pr_source.png/1200x630bb.png" group-title="NOTICIAS",BAND NEWS ALT (BRA)
-http://cdn.iptvbr.tv:8080/apped/BB6phkCUGw/328
+
 
 #EXTINF:-1 tvg-logo="http://photocall.tv/images/cablenoticias.png" group-title="NOTICIAS",CABLE NOTICIAS
 
@@ -2475,10 +2475,10 @@ http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
 http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master_900.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/926499453158137857/V72h9Tzw_400x400.jpg" group-title="NOTICIAS",GLOBO NEWS (BRA)
-http://painel.tvdigitalsbl.net:80/live/ANDERSON1/ANDERSON1/1108.m3u8
+http://maxptv.ddns.net:25461/live/MA020/0706/139.ts
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/926499453158137857/V72h9Tzw_400x400.jpg" group-title="NOTICIAS",GLOBO NEWS ALT (BRA)
-http://cdn.iptvbr.tv:8080/apped/BB6phkCUGw/289
+
 
 #EXTINF:-1 tvg-logo="http://photocall.tv/images/mnn.png" group-title="NOTICIAS",MEXICO NEWS (MEX)
 
@@ -2490,7 +2490,7 @@ http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_51
 
 
 #EXTINF:-1 tvg-logo="https://tv.i.uol.com.br/televisao/2012/02/27/nova-logomarca-da-record-news-2012-1330350392176_300x300.jpg" group-title="NOTICIAS",RECORD NEWS (BR)
-http://cdn.iptvbr.tv:8080/apped/BB6phkCUGw/243
+
 
 #EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/RAI_News24_2013-1.png" group-title="NOTICIAS",RAI NEWS 24 (ITA)
 http://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews_1800/chunklist.m3u8
@@ -2517,7 +2517,7 @@ http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/p
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL211/PROFILE03.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/020/original/pic_a_e.png?1522180692" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",A&E HD (LAT)
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=1.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/48/Aemundo.jpg/revision/latest?cb=20151005205206&path-prefix=es" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",A&E MUNDO (LAT)
 
@@ -2526,7 +2526,7 @@ http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&i
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL373/PROFILE03.m3u8
 
 #EXTINF:-1 tvg-logo="https://identidaddemarca.files.wordpress.com/2014/02/animal-planet.jpg" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",ANIMAL PLANET HD (LAT)
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=3.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://identidaddemarca.files.wordpress.com/2014/02/animal-planet.jpg" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",ANIMAL PLANET ALT (LAT)
 http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8
@@ -2535,52 +2535,52 @@ http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL371/PROFILE03.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6f/52/26/6f5226d073770afde359a57925bf5d68.jpg" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",DISCOVERY HD (LAT)
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=13.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/co_discovery-civilization_m.png" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",DISCOVERY CIVILIZATION (LAT)
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL382/PROFILE03.m3u8
 
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/co_discovery-civilization_m.png" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",DISCOVERY CIVILIZATION HD (LAT)
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=14.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/027/original/pic_investigactiondisc.png?1522177058" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",DISCOVERY INVESTIGATION (LAT)
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL263/PROFILE03.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/027/original/pic_investigactiondisc.png?1522177058" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",DISCOVERY INVESTIGATION HD (LAT)
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=51.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://cdn.reweb.io/hagah/image/DogXNIjfvnZQ-U6-iKRLtRF8-Vo=/300x300/top/smart/hagah/f/f8/home-and-health-f804aa9c.png" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",DISCOVERY H&H (LAT)
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL374/PROFILE03.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.reweb.io/hagah/image/DogXNIjfvnZQ-U6-iKRLtRF8-Vo=/300x300/top/smart/hagah/f/f8/home-and-health-f804aa9c.png" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",DISCOVERY H&H HD (LAT)
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=49.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logos2/images/f/f2/Discovery_Science_logo.png/revision/latest?cb=20180514182753" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",DISCOVERY SCIENCE (LAT)
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL381/PROFILE03.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logos2/images/f/f2/Discovery_Science_logo.png/revision/latest?cb=20180514182753" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",DISCOVERY SCIENCE HD (LAT)
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=16.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/ar_discovery-hd-theater_m.png" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",DISCOVERY THEATER (LAT)
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL351/PROFILE03.m3u8
 
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/ar_discovery-hd-theater_m.png" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",DISCOVERY THEATER HD (LAT)
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=17.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/728-188x188-948939438.jpg" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",DISCOVERY TURBO (LAT)
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=18.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://protv.ua/imglib/_newimage/news/tv/71239/02a33168dcf786c5cd279576417c816d.jpg" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",DISCOVERY WORLD (LAT)
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL356/PROFILE03.m3u8
 
 #EXTINF:-1 tvg-logo="http://protv.ua/imglib/_newimage/news/tv/71239/02a33168dcf786c5cd279576417c816d.jpg" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",DISCOVERY WORLD HD (LAT)
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=19.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/35/13/17/35131727c2635cec3274d9bd93868db2.png" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",HISTORY (LAT)
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL353/PROFILE03.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/35/13/17/35131727c2635cec3274d9bd93868db2.png" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",HISTORY HD (LAT)
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=48.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO3wZdJpGtSgoimpmTW8L-kTCunf7Lx7f5FKDsGx4t6scZbaPj" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",H2 (LAT)
 
@@ -2589,7 +2589,7 @@ http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&i
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL377/PROFILE03.m3u8
 
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-v4OGeGQcdcQ/U91s7yMEbdI/AAAAAAAAEv8/2PneO2oDeW4/s1600/%D8%AA%D8%B1%D8%AF%D8%AF+%D9%82%D9%86%D8%A7%D8%A9+%D9%86%D8%A7%D8%B4%D9%88%D9%86%D8%A7%D9%84+%D8%AC%D9%8A%D9%88%D8%BA%D8%B1%D8%A7%D9%81%D9%8A%D9%83+%D8%A7%D8%A8%D9%88+%D8%B8%D8%A8%D9%8A.jpg" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",NAT GEO HD (LAT)
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=57.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/496293907886403584/yQYuZTjL.png" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",NAT GEO MUNDO (LAT)
 
@@ -2598,13 +2598,13 @@ http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&i
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL355/PROFILE03.m3u8
 
 #EXTINF:-1 tvg-logo="https://store-images.s-microsoft.com/image/apps.38362.9007199266248558.b38de5e9-b620-4158-96c4-140dbec2fa38.c9a2b00a-fc89-47c9-80e0-9b23a21d4fc6?w=180&h=180&q=60" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",NAT GEO WILD HD (LAT)
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=58.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://cdn.reweb.io/hagah/image/mXBvojVRVzVLXAmTE8j9U0Io8c4=/300x300/top/smart/hagah/2/29/tlc-hd-2988cf2d.jpg" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",TLC (LAT)
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL386/PROFILE03.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.reweb.io/hagah/image/mXBvojVRVzVLXAmTE8j9U0Io8c4=/300x300/top/smart/hagah/2/29/tlc-hd-2988cf2d.jpg" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",TLC HD (LAT)
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=72.m3u8
+
 
 #######################################
 #EXTINF:-1 tvg-logo="https://st2.depositphotos.com/2100659/8236/v/950/depositphotos_82367108-stock-illustration-lion-head-vector-sign-concept.jpg" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTAIS BRASIL",DOCUMENTAIS BRASIL
@@ -2615,91 +2615,91 @@ http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/p
 http://maxptv.ddns.net:25461/live/MA020/0706/230.ts
 
 #EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/020/original/pic_a_e.png?1522180692" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTAIS BRASIL",A&E ALT (BR)
-http://cdn.iptvbr.tv:8080/apped/BB6phkCUGw/334
+
 
 #EXTINF:-1 tvg-logo="https://identidaddemarca.files.wordpress.com/2014/02/animal-planet.jpg" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTAIS BRASIL",ANIMAL PLANET (BR)
 http://maxptv.ddns.net:25461/live/MA020/0706/232.ts
 
 #EXTINF:-1 tvg-logo="https://identidaddemarca.files.wordpress.com/2014/02/animal-planet.jpg" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTAIS BRASIL",ANIMAL PLANET ALT (BR)
-http://cdn.iptvbr.tv:8080/apped/BB6phkCUGw/332
+
 
 #EXTINF:-1 tvg-logo="https://images.bwwstatic.com/columnpic8/2F6BFDD1F-EEB8-AAA9-2B085A8D7135990F.jpg" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTAIS BRASIL",DISCOVERY (BR)
 http://maxptv.ddns.net:25461/live/MA020/0706/189.ts
 
 #EXTINF:-1 tvg-logo="https://images.bwwstatic.com/columnpic8/2F6BFDD1F-EEB8-AAA9-2B085A8D7135990F.jpg" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTAIS BRASIL",DISCOVERY ALT (BR)
-http://cdn.iptvbr.tv:8080/apped/BB6phkCUGw/310
+
 
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/co_discovery-civilization_m.png" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTAIS BRASIL",DISCOVERY CIVILIZATION (BR)
 http://maxptv.ddns.net:25461/live/MA020/0706/187.ts
 
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/co_discovery-civilization_m.png" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTAIS BRASIL",DISCOVERY CIVILIZATION ALT (BR)
-http://cdn.iptvbr.tv:8080/apped/BB6phkCUGw/309
+
 
 #EXTINF:-1 tvg-logo="https://cdn.reweb.io/hagah/image/DogXNIjfvnZQ-U6-iKRLtRF8-Vo=/300x300/top/smart/hagah/f/f8/home-and-health-f804aa9c.png" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTAIS BRASIL",DISCOVERY H&H (BR)
 http://maxptv.ddns.net:25461/live/MA020/0706/185.ts
 
 #EXTINF:-1 tvg-logo="https://cdn.reweb.io/hagah/image/DogXNIjfvnZQ-U6-iKRLtRF8-Vo=/300x300/top/smart/hagah/f/f8/home-and-health-f804aa9c.png" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTAIS BRASIL",DISCOVERY H&H ALT (BR)
-http://cdn.iptvbr.tv:8080/apped/BB6phkCUGw/308
+
 
 #EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/027/original/pic_investigactiondisc.png?1522177058" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTAIS BRASIL",DISCOVERY ID (BR)
 http://maxptv.ddns.net:25461/live/MA020/0706/117.ts
 
 #EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/027/original/pic_investigactiondisc.png?1522177058" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTAIS BRASIL",DISCOVERY ID ALT (BR)
-http://cdn.iptvbr.tv:8080/apped/BB6phkCUGw/275
+
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logos2/images/f/f2/Discovery_Science_logo.png/revision/latest?cb=20180514182753" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTAIS BRASIL",DISCOVERY SCIENCE (BR)
 http://maxptv.ddns.net:25461/live/MA020/0706/181.ts
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logos2/images/f/f2/Discovery_Science_logo.png/revision/latest?cb=20180514182753" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTAIS BRASIL",DISCOVERY SCIENCE ALT (BR)
-http://cdn.iptvbr.tv:8080/apped/BB6phkCUGw/306
+
 
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/ar_discovery-hd-theater_m.png" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTAIS BRASIL",DISCOVERY THEATER (BR)
 http://maxptv.ddns.net:25461/live/MA020/0706/180.ts
 
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/ar_discovery-hd-theater_m.png" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTAIS BRASIL",DISCOVERY THEATER ALT (BR)
-http://cdn.iptvbr.tv:8080/apped/BB6phkCUGw/1691
+
 
 #EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/728-188x188-948939438.jpg" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTAIS BRASIL",DISCOVERY TURBO (BR)
 http://maxptv.ddns.net:25461/live/MA020/0706/177.ts
 
 #EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/728-188x188-948939438.jpg" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTAIS BRASIL",DISCOVERY TURBO ALT (BR)
-http://cdn.iptvbr.tv:8080/apped/BB6phkCUGw/305
+
 
 #EXTINF:-1 tvg-logo="http://protv.ua/imglib/_newimage/news/tv/71239/02a33168dcf786c5cd279576417c816d.jpg" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTAIS BRASIL",DISCOVERY WORLD (BR)
 http://maxptv.ddns.net:25461/live/MA020/0706/175.ts
 
 #EXTINF:-1 tvg-logo="http://protv.ua/imglib/_newimage/news/tv/71239/02a33168dcf786c5cd279576417c816d.jpg" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTAIS BRASIL",DISCOVERY WORLD ALT (BR)
-http://cdn.iptvbr.tv:8080/apped/BB6phkCUGw/1692
+
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/35/13/17/35131727c2635cec3274d9bd93868db2.png" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTAIS BRASIL",HISTORY (BR)
 http://maxptv.ddns.net:25461/live/MA020/0706/119.ts
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/35/13/17/35131727c2635cec3274d9bd93868db2.png" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTAIS BRASIL",HISTORY ALT (BR)
-http://cdn.iptvbr.tv:8080/apped/BB6phkCUGw/222
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO3wZdJpGtSgoimpmTW8L-kTCunf7Lx7f5FKDsGx4t6scZbaPj" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTAIS BRASIL",H2 (BR)
 http://maxptv.ddns.net:25461/live/MA020/0706/133.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO3wZdJpGtSgoimpmTW8L-kTCunf7Lx7f5FKDsGx4t6scZbaPj" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTAIS BRASIL",H2 ALT (BR)
-http://cdn.iptvbr.tv:8080/apped/BB6phkCUGw/283
+
 
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-v4OGeGQcdcQ/U91s7yMEbdI/AAAAAAAAEv8/2PneO2oDeW4/s1600/%D8%AA%D8%B1%D8%AF%D8%AF+%D9%82%D9%86%D8%A7%D8%A9+%D9%86%D8%A7%D8%B4%D9%88%D9%86%D8%A7%D9%84+%D8%AC%D9%8A%D9%88%D8%BA%D8%B1%D8%A7%D9%81%D9%8A%D9%83+%D8%A7%D8%A8%D9%88+%D8%B8%D8%A8%D9%8A.jpg" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTAIS BRASIL",NATIONAL GEOGRAPHIC (BR)
 http://maxptv.ddns.net:25461/live/MA020/0706/93.ts
 
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-v4OGeGQcdcQ/U91s7yMEbdI/AAAAAAAAEv8/2PneO2oDeW4/s1600/%D8%AA%D8%B1%D8%AF%D8%AF+%D9%82%D9%86%D8%A7%D8%A9+%D9%86%D8%A7%D8%B4%D9%88%D9%86%D8%A7%D9%84+%D8%AC%D9%8A%D9%88%D8%BA%D8%B1%D8%A7%D9%81%D9%8A%D9%83+%D8%A7%D8%A8%D9%88+%D8%B8%D8%A8%D9%8A.jpg" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTAIS BRASIL",NATIONAL GEOGRAPHIC ALT (BR)
-http://cdn.iptvbr.tv:8080/apped/BB6phkCUGw/261
+
 
 #EXTINF:-1 tvg-logo="https://store-images.s-microsoft.com/image/apps.38362.9007199266248558.b38de5e9-b620-4158-96c4-140dbec2fa38.c9a2b00a-fc89-47c9-80e0-9b23a21d4fc6?w=180&h=180&q=60" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTAIS BRASIL",NAT GEO WILD (BR)
 http://maxptv.ddns.net:25461/live/MA020/0706/95.ts
 
 #EXTINF:-1 tvg-logo="https://store-images.s-microsoft.com/image/apps.38362.9007199266248558.b38de5e9-b620-4158-96c4-140dbec2fa38.c9a2b00a-fc89-47c9-80e0-9b23a21d4fc6?w=180&h=180&q=60" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTAIS BRASIL",NAT GEO WILD ALT (BR)
-http://cdn.iptvbr.tv:8080/apped/BB6phkCUGw/262
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwDSARUwScqWwvHkma2WwuF5U8xmjq9KSDX-r8qW3xJfKt13KV" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTAIS BRASIL",TLC (BR)
 http://maxptv.ddns.net:25461/live/MA020/0706/21.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwDSARUwScqWwvHkma2WwuF5U8xmjq9KSDX-r8qW3xJfKt13KV" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTAIS BRASIL",TLC ALT (BR)
-http://cdn.iptvbr.tv:8080/apped/BB6phkCUGw/221
+
 
 ######################################################################################################################################
 ####################################### EDUCATIVOS
@@ -2741,7 +2741,7 @@ http://194.67.208.149/hls/110.m3u8
 http://maxptv.ddns.net:25461/live/MA020/0706/215.ts
 
 #EXTINF:-1  tvg-logo="https://imagem.natelinha.uol.com.br/grande/832f3c780c126f99db591aa7e12bcb6c.jpg" group-title="DEPORTES/ESPORTES",BAND SPORTS ALT (BR)
-http://cdn.iptvbr.tv:8080/apped/BB6phkCUGw/326
+
 
 #EXTINF:-1  tvg-logo="https://www.firstonetv.net/images/logos/es/BARCA.png" group-title="DEPORTES/ESPORTES",BARÇA TV (ESP)
 http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=99.m3u8
@@ -2750,7 +2750,7 @@ http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&i
 
 
 #EXTINF:-1  tvg-logo="https://www.comparaiso.es/sites/comparaiso.es/files/images/logos/bein-laliga-200x300.png" group-title="DEPORTES/ESPORTES",BEIN SPORTS HD
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=6.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/899912632249057282/3qTEUbij_400x400.jpg" group-title="DEPORTES/ESPORTES",BFM SPORTS
 
@@ -2759,16 +2759,16 @@ http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&i
 http://btvboliviatv.srfms.com:6568/live/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/PhdBmBVpS3k/hqdefault.jpg" group-title="DEPORTES/ESPORTES",BOX NATION (USA)
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=173.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://images-us.ott.kaltura.com/Service.svc/GetImage/p/313/entry_id/0180e0b8b26a42a692bf5a4304337e7a_1/version/16/width/282/height/158/quality/100" group-title="DEPORTES/ESPORTES",CDF HD
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=98.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/cl_cdf-basico_m.png" group-title="DEPORTES/ESPORTES",CDF BASICO (CHI)
 
 
 #EXTINF:-1 tvg-logo="https://api.dondeloveo.com/api/media/images/1502125045.557Estadio%20CDF%20200x200.png" group-title="DEPORTES/ESPORTES",CDF ESTADIO (CHI)
-http://kimbogrupol.com:25461/live/123456789/123456789/16089.ts
+
 
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-2iO02UEHDaA/Wz3VnYbPSLI/AAAAAAAAA3U/oVfs6Zfm8kk1OQJ4E3VbxcYsecUhf2nWwCLcBGAs/s1600/cdfpremium.png" group-title="DEPORTES/ESPORTES",CDF PREMIUM (CHI)
 http://kimbogrupol.com:25461/live/123456789/123456789/16090.ts
@@ -2786,7 +2786,7 @@ http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://unicablemargarita.com/images/channel/claro_sport.jpg" group-title="DEPORTES/ESPORTES",CLARO SPORTS (LAT)
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=445.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2016_10/large.ClaroSports2.png.56053360e8aac876562fd738f2b7ff59.png" group-title="DEPORTES/ESPORTES",CLARO SPORTS 2 (LAT)
 
@@ -2798,16 +2798,16 @@ http://kimbogrupol.com:25461/live/123456789/123456789/16087.ts
 http://maxptv.ddns.net:25461/live/MA020/0706/195.ts
 
 #EXTINF:-1 tvg-logo="http://s.glbimg.com/es/ge/static/live/combate/img/logo_combate_facebook.jpg" group-title="DEPORTES/ESPORTES",COMBATE ALT (BR)
-http://cdn.iptvbr.tv:8080/apped/BB6phkCUGw/314
+
 
 #EXTINF:-1 tvg-logo="http://www.megaredargentina.com.ar/images/Canales/Deportv.png" group-title="DEPORTES/ESPORTES",DEPORTV (ARG)
 
 
 #EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/969313918727409665/mRvrSacI_400x400.jpg" group-title="DEPORTES/ESPORTES",DIRECTV SPORTS (LAT)
-http://kimbogrupol.com:25461/live/123456789/123456789/16206.ts
+
 
 #EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/969313918727409665/mRvrSacI_400x400.jpg" group-title="DEPORTES/ESPORTES",DIRECTV SPORTS HD (LAT)
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=166.m3u8
+
 
 #EXTINF:-1  tvg-logo="https://2.bp.blogspot.com/-HN8t4AqICTY/WyXsANIos-I/AAAAAAAAAyg/q3q6qyLrMZAhBtF1e6z36WVCztbmxUaQQCLcBGAs/s1600/directvsports2.jpg" group-title="DEPORTES/ESPORTES",DIRECTV SPORTS 2 (LAT)
 http://kimbogrupol.com:25461/live/123456789/123456789/16205.ts
@@ -2834,7 +2834,7 @@ http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL558/PROFILE03.m3u8
 http://kimbogrupol.com:25461/live/123456789/123456789/16086.ts
 
 #EXTINF:-1 tvg-logo="https://bloximages.newyork1.vip.townnews.com/lancasteronline.com/content/tncms/assets/v3/editorial/6/a3/6a33a76a-2aab-11e7-8cfd-2fdf8678edd2/5900e2482259c.image.png" group-title="DEPORTES/ESPORTES",ESPN ALT (LAT)
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=4.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/mx_espn-2_m.png" group-title="DEPORTES/ESPORTES",ESPN 2 (LAT)
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL561/PROFILE03.m3u8
@@ -2843,7 +2843,7 @@ http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL561/PROFILE03.m3u8
 http://kimbogrupol.com:25461/live/123456789/123456789/16085.ts
 
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/mx_espn-2_m.png" group-title="DEPORTES/ESPORTES",ESPN 2 HD ALT (LAT)
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=27.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/co_espn-3-hd_m.png" group-title="DEPORTES/ESPORTES",ESPN 3 (LAT)
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL520/PROFILE03.m3u8
@@ -2852,16 +2852,16 @@ http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL520/PROFILE03.m3u8
 http://kimbogrupol.com:25461/live/123456789/123456789/16084.ts
 
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/co_espn-3-hd_m.png" group-title="DEPORTES/ESPORTES",ESPN 3 HD ALT (LAT)
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=28.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://unimasgo.com/gold-app/gold-uploads/media/espn-mas-en-vivo.jpg" group-title="DEPORTES/ESPORTES",ESPN + (LAT)
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL516/PROFILE03.m3u8
 
 #EXTINF:-1 tvg-logo="http://unimasgo.com/gold-app/gold-uploads/media/espn-mas-en-vivo.jpg" group-title="DEPORTES/ESPORTES",ESPN + HD (LAT)
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=97.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/856564125455065089/MAJ4Buek_400x400.jpg" group-title="DEPORTES/ESPORTES",ESPN (ARG)
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=188.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://bloximages.newyork1.vip.townnews.com/lancasteronline.com/content/tncms/assets/v3/editorial/6/a3/6a33a76a-2aab-11e7-8cfd-2fdf8678edd2/5900e2482259c.image.png" group-title="DEPORTES/ESPORTES",ESPN (BR)
 http://maxptv.ddns.net:25461/live/MA020/0706/159.ts
