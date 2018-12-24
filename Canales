@@ -21,7 +21,7 @@ http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/p
 #######################################
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzlyFih1v9lvxmH1JYVLmYLLxkwYYTX11Muc6kCLgP71yuP6p7" group-title="ARGENTINA",AMERICA (ARG)
-http://shacktv.com:8080/grantlaten/349boy2165/61210
+
 
 #EXTINF:-1 tvg-logo="https://img1.androidappsapk.co/300/7/0/6/net.coninfo.admin.trecemaxtelevisin.png" group-title="ARGENTINA",13 MAX (ARG)
 http://kimbogrupol.com:25461/live/123456789/123456789/13186.ts
@@ -61,7 +61,7 @@ http://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-RjXsOFCUJa0/WbWZpQWlwZI/AAAAAAAABnA/vAeBWck6LNw4HpNBxdg5unnmIbpYXo1GgCLcBGAs/s1600/cronica-hd.png" group-title="ARGENTINA",CRONICA (ARG)
-http://shacktv.com:8080/grantlaten/349boy2165/61197
+
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/433043324698501120/liWhZUAW_400x400.jpeg" group-title="ARGENTINA",EL GARAGE (ARG)
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL269/PROFILE03.m3u8
@@ -70,7 +70,7 @@ http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL269/PROFILE03.m3u8
 http://186.0.233.76:1935/Garage/garage.smil/chunklist_w846352619_b446000_sleng.m3u8?GrupoTopIptv
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-vkeG0RQIHnE/WGhvc62WN2I/AAAAAAAABVY/BYhPhbmV8PkibYnkoMh4oUswZ2JLVp_7QCLcB/s1600/elnuevenuevo.png" group-title="ARGENTINA",EL NUEVE (ARG)
-http://shacktv.com:8080/grantlaten/349boy2165/61204
+
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4d/El-Trece-HD-Logo-2011-2016.png/revision/latest?cb=20170721071837" group-title="ARGENTINA",EL TRECE (ARG)
 
@@ -94,7 +94,7 @@ http://unlimited2-us.dps.live/nettv/nettv.smil/playlist.m3u8
 https://5975e06a1f292.streamlock.net:4443/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://digitalmediawire.com/wp-content/uploads/2016/11/Telefe.jpg" group-title="ARGENTINA",TELEFE (ARG)
-http://shacktv.com:8080/grantlaten/349boy2165/61193
+
 
 #EXTINF:-1 tvg-logo="http://photocall.tv/images/nueve.png" group-title="ARGENTINA",TELEVIDA (ARG)
 
@@ -124,7 +124,7 @@ http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/p
 http://maxptv.ddns.net:25461/live/MA020/0706/219.ts
 
 #EXTINF:0 tvg-logo="http://www.mundocross.com.br/wp-content/uploads/2013/05/band.jpg" group-title="BRASIL",BAND ALT (BR)
-http://cdn.iptvbr.tv:8080/apped/BB6phkCUGw/327
+http://lista.digitalgroup.me:80/9213/9213/1713
 
 #EXTINF:0 tvg-logo="http://i.imgur.com/jtiMetX.png" group-title="BRASIL",CANAL RURAL (BR)
 http://67149o.ha.azioncdn.net/hlsmedium/playlist.m3u8
@@ -133,22 +133,19 @@ http://67149o.ha.azioncdn.net/hlsmedium/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="BRASIL",GLOBO HD (BR)
-
+http://lista.digitalgroup.me:80/9213/9213/22356
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="BRASIL",GLOBO SP (BR)
-http://cdn.iptvbr.tv:8080/apped/BB6phkCUGw/286
+http://lista.digitalgroup.me:80/9213/9213/21800
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="BRASIL",GLOBO RJ (BR)
-
+http://lista.digitalgroup.me:80/9213/9213/22206
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="BRASIL",GLOBO BRASILIA (BR)
-http://cdn.iptvbr.tv:8080/apped/BB6phkCUGw/209
+http://lista.digitalgroup.me:80/9213/9213/2512
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/R/rbs-tv-logo-567F6184F4-seeklogo.com.png" group-title="BRASIL",GLOBO RBS (BR)
-
-
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/R/rbs-tv-logo-567F6184F4-seeklogo.com.png" group-title="BRASIL",GLOBO RBS ALT (BR)
-
+http://lista.digitalgroup.me:80/9213/9213/968
 
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/042013/untitled-1_148.png?itok=ld2drTRm" group-title="BRASIL",NBR (BR)
 
@@ -180,8 +177,8 @@ https://slbps-sambatech.akamaized.net/live/3256%2C7930%2C679f501d2054fc8514ea1fc
 #EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="BRASIL",SBT SP (BR)
 http://maxptv.ddns.net:25461/live/MA020/0706/477.ts
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="BRASIL",SBT CAMPINAS (BR)
-http://cdn.iptvbr.tv:8080/apped/BB6phkCUGw/1717
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="BRASIL",SBT ALT (BR)
+http://lista.digitalgroup.me:80/9213/9213/955
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/381432556/logoterraviva7_400x400.jpg" group-title="BRASIL",TERRA VIVA (BR)
 
@@ -921,22 +918,22 @@ http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/p
 #######################################
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B11MDjnDXWY/hq720_live.jpg" group-title="URUGUAY",1000 x HORA (URU)
-http://shacktv.com:8080/grantlaten/349boy2165/105614
+
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/891330516087164928/KMLvo3-g_400x400.jpg" group-title="URUGUAY",CANAL U (URU)
-http://shacktv.com:8080/grantlaten/349boy2165/105600
+
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/AN66SAw1OzI-uSvA_HamSiFLdd6DxN2cEg9tGET7Vw=s900-mo-c-c0xffffffff-rj-k-no" group-title="URUGUAY",CARDINAL TV (URU)
-http://shacktv.com:8080/grantlaten/349boy2165/105598
+
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/AN66SAxZHhm24LmJUWY5O-g4YLs2FIZi9_VIw2_p=s900-mo-c-c0xffffffff-rj-k-no" group-title="URUGUAY",CHARRUA TV (URU)
-http://shacktv.com:8080/grantlaten/349boy2165/105597
+
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/04/ftc.png?fit=800%2C500" group-title="URUGUAY",FLORIDA TV (URU)
-http://shacktv.com:8080/grantlaten/349boy2165/105596
+
 
 EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/3o0yyG3Wnsc/maxresdefault.jpg" group-title="URUGUAY",LA RED (URU)
-http://shacktv.com:8080/grantlaten/349boy2165/105612
+
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/CeZQwaDXIAA_iT-.jpg" group-title="URUGUAY",MONTECARLO (URU)
 http://api.new.livestream.com/accounts/152816/events/4235094/live.m3u8?GrupoTopIptv
@@ -945,25 +942,25 @@ http://api.new.livestream.com/accounts/152816/events/4235094/live.m3u8?GrupoTopI
 http://wowza.montevideo.com.uy:1936/live/_definst_/mvdstrem/chunklist_w240300788.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF-PmzUOj0kOARiroHkus5Er5NyMy9JSwcWEnKY_d0OIHwkHQH" group-title="URUGUAY",RTV (URU)
-http://shacktv.com:8080/grantlaten/349boy2165/105591
+
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-gXhn1i6LiCM/VKOv0_4IFfI/AAAAAAAAFmw/qoNG1mHsytc/s640/blogger-image--648257053.jpg" group-title="URUGUAY",SAETA 10 (URU)
-http://shacktv.com:8080/grantlaten/349boy2165/105583
+
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/61/Teledoce_logo.png/revision/latest?cb=20140706162325" group-title="URUGUAY",TELEDOCE (URU)
-http://shacktv.com:8080/grantlaten/349boy2165/105582
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1eS8gxcJ1kxicoDvzok6mx560uEa6s41EFmTvdgu00I-kuIPM" group-title="URUGUAY",URUGUAY NATURAL
-http://shacktv.com:8080/grantlaten/349boy2165/105588
+
 
 #EXTINF:-1 tvg-logo="https://store-images.s-microsoft.com/image/apps.62340.9007199266392866.44565621-b2f5-44e6-88a3-3daad7cf1acc.59e0516a-8265-48a5-aab0-4c851618b006?mode=scale&q=90&h=300&w=300" group-title="URUGUAY",VERA + (URU)
-http://shacktv.com:8080/grantlaten/349boy2165/105587
+
 
 #EXTINF:-1 tvg-logo="https://mlstaticquic-a.akamaihd.net/2android-tv-box-750-canales-de-cable-canales-uruguayos-y-vtv-D_NQ_NP_884222-MLU26628807182_012018-F.jpg" group-title="URUGUAY",VTV SD (URU)
-http://shacktv.com:8080/grantlaten/349boy2165/105585
+
 
 #EXTINF:-1 tvg-logo="https://mlstaticquic-a.akamaihd.net/2android-tv-box-750-canales-de-cable-canales-uruguayos-y-vtv-D_NQ_NP_884222-MLU26628807182_012018-F.jpg" group-title="URUGUAY",VTV (URU)
-http://shacktv.com:8080/grantlaten/349boy2165/105584
+
 
 
 ######################################################################################################################################
