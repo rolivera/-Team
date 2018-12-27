@@ -597,6 +597,9 @@ http://livestreaming.videolina.it/live/Videolina/playlist.m3u8
 http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8
 #######################################
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt5Vajs_m05gP1BzGWfu5iJ5GIGi7xWeXpnCgFDhuuFG_Xx9g4" group-title="MEXICO",ADN 40 (MEX)
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL140/PROFILE03.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8nx1IJG-alN8kVZ9TAr15zFOv5IDgWWKi4hpj03wGHytpEaFA" group-title="MEXICO",AZ CINEMA (MEX)
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL425/PROFILE03.m3u8
 
@@ -660,6 +663,7 @@ http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8?GrupoTopIptv
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/ACSszfHaYcwaeji_uan3UaGecxjzD6OvG97xEBfnNA=s900-mo-c-c0xffffffff-rj-k-no" group-title="MEXICO",CANAL 15 ZACATECAS (MEX)
 
 
+
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/mx_xeipn-canal-11_m.png" group-title="MEXICO",CANAL ONCE (MEX)
 
 
@@ -672,11 +676,14 @@ http://23.227.189.81/ciudadtv/abr_ciudadtv/playlist.m3u8?GrupoTopIptv
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/776461277820354560/qlnkXHo8_400x400.jpg" group-title="MEXICO",GALAVISION (MEX)
 
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1057408851253714946/GSxqNEQv.jpg" group-title="MEXICO",FORO TV (MEX)
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL104/PROFILE03.m3u8
+
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/27c8cd87b936a2fcf07fe78c6e5009e1880e23161c8e2046970d1f7baeb25591.png" group-title="MEXICO",IMPACTOVISION (MEX)
 
 
 #EXTINF:-1 tvg-logo="http://www.detec-altech.com/images/page-4_img1.jpg" group-title="MEXICO",MEXIQUENSE (MEX)
-
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL44/PROFILE03.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DHOocZiU0AE30ro.png" group-title="MEXICO",MULTIMEDIOS (MEX)
 http://mdstrm.com/live-stream-playlist_400/57b4dbf5dbbfc8f16bb63ce1.m3u8
@@ -2068,6 +2075,9 @@ http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL221/PROFILE03.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/050/original/pic_sundancetv.png?1522177375" group-title="VARIEDADES" pltv-subgroup="VARIEDADES LATINO",SUNDANCE (LAT)
 
+
+#EXTINF:-1 tvg-logo="https://media.metrolatam.com/2018/11/07/totalplaylogo02-5e8d181d514702d6b1ee0e5b69a85ae4-1200x800.jpg" group-title="VARIEDADES" pltv-subgroup="VARIEDADES LATINO",TOTAL PLAY (LAT)
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL1/PROFILE03.m3u8
 
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/b15356ee-546f-4760-b04c-3772d6949002_m.jpg" group-title="VARIEDADES" pltv-subgroup="VARIEDADES LATINO",TRUTV (LAT)
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL215/PROFILE03.m3u8
