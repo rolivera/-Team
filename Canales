@@ -160,7 +160,7 @@ http://tv01.logicahost.com.br:1935/rbtv/rbtv/playlist.m3u8
 http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/l2Fy8cv.png" group-title="BRASIL",REDE SUPER (BR)
-
+http://api.new.livestream.com/accounts/10205943/events/3429501/live.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/k4haEx6.png" group-title="BRASIL",REDE TV SD (BR)
 http://evpp.mm.uol.com.br:1935/redetv2/redetv2/playlist.m3u8
@@ -175,7 +175,7 @@ http://maxptv.ddns.net:25461/live/MA020/0706/63.ts
 https://slbps-sambatech.akamaized.net/live/3256%2C7930%2C679f501d2054fc8514ea1fc28fe5f167%3Bbase64np%3BS52I5Up2XHDMC-c%21/amlst%3AS51w_Fc9WXHTS2s2/chunklist_b2146304.m3u8
 
 #EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/82/5b/ef/825befdf-21bd-1417-566b-4e404febe370/AppIcon-0-1x_U007emarketing-0-0-85-220-0-10.png/246x0w.jpg" group-title="BRASIL",REDE FAMILIA (BR)
-
+http://srv9.zoeweb.tv:1935/zw901/smil:zw901.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="BRASIL",SBT SP (BR)
 http://maxptv.ddns.net:25461/live/MA020/0706/477.ts
