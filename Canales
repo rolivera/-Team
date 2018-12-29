@@ -124,7 +124,7 @@ http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/p
 http://maxptv.ddns.net:25461/live/MA020/0706/219.ts
 
 #EXTINF:0 tvg-logo="http://www.mundocross.com.br/wp-content/uploads/2013/05/band.jpg" group-title="BRASIL",BAND ALT (BR)
-http://177.139.171.102:27030/live/alvaro/17/34.ts
+
 
 #EXTINF:0 tvg-logo="http://i.imgur.com/jtiMetX.png" group-title="BRASIL",CANAL RURAL (BR)
 http://67149o.ha.azioncdn.net/hlsmedium/playlist.m3u8
@@ -133,16 +133,16 @@ http://67149o.ha.azioncdn.net/hlsmedium/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="BRASIL",GLOBO SP (BR)
-http://177.139.171.102:27030/live/alvaro/17/1.ts
+http://51.68.152.224:8080/GloboSP/mpegts?token=cYW_L52030
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="BRASIL",GLOBO SP ALT (BR)
-http://lista.ontvhdbr.co:25461/live/gpm440/1234567/22021.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="BRASIL",GLOBO RP (BR)
 http://maxptv.ddns.net:25461/live/MA020/0706/700.ts
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="BRASIL",GLOBO SC (BR)
-http://maxptv.ddns.net:25461/live/MA020/0706/696.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="BRASIL",GLOBO RJ (BR)
+http://51.68.152.224:8080/GloboRJ/mpegts?token=cYW_L52030
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="BRASIL",GLOBO SD (BR)
 http://apk26.futeboltvgratis.com/live/17/chunks.m3u8
