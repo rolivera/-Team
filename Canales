@@ -163,7 +163,7 @@ http://tv01.logicahost.com.br:1935/rbtv/rbtv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/k4haEx6.png" group-title="BRASIL",REDE TV SD (BR)
-
+http://evpp.mm.uol.com.br:1935/redetv2/redetv2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/k4haEx6.png" group-title="BRASIL",REDE TV (BR)
 http://maxptv.ddns.net:25461/live/MA020/0706/60.ts
@@ -182,6 +182,9 @@ http://maxptv.ddns.net:25461/live/MA020/0706/477.ts
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="BRASIL",SBT ALT (BR)
 https://5a1c76baf08c0.streamlock.net/z343-live/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="BRASIL",SBT SERRA DOURADA (BR)
+http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/chunklist_w1473487700_b796000.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/381432556/logoterraviva7_400x400.jpg" group-title="BRASIL",TERRA VIVA (BR)
 
