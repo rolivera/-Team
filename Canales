@@ -390,11 +390,14 @@ http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/p
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG2JjP-hf7YsxI93WMMO-SrRLennmUSXK-aHROmORM_BOvn0FZ" group-title="ESPAÑA",24 HORAS (ESP)
 http://msdo.iptvsystem.cloud:8880/live/9oiua87waZ/213eOPlayuza/290.ts
 
+#EXTINF:-1 tvg-logo="http://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="ESPAÑA",T24 HORAS ALT (ESP)
+http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve01_lv3_aosv4_gl0/irtve01_lv3_aosv4_gl0.isml/irtve01_lv3_aosv4_gl0-audio=128000-video=400000.m3u8
+
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-63tKIj-faV4/WkY8IgZwNYI/AAAAAAAAEHk/oNhL_ynqIuYCkzFhTGFz69iBDLBp46-9wCLcBGAs/s1600/A%2526E_logo.png" group-title="ESPAÑA",A&E (ESP)
-http://cem1.ddns.net:8000/sharex0810/1810.m/8949
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-PN9r5zshzt7tbjxwxBBag2zHago0zomhFHYOnYCkiUv_SR3W" group-title="ESPAÑA",A3SERIES (ESP)
-http://cem1.ddns.net:8000/sharex0810/1810.m/8947
+
 
 #EXTINF:-1 tvg-logo="http://static1.yosoyvenezolano.com/wp-content/uploads/2014/07/antena_3_0.jpg" group-title="ESPAÑA",ANTENA 3 (ESP)
 http://msdo.iptvsystem.cloud:8880/live/9oiua87waZ/213eOPlayuza/289.ts
@@ -403,7 +406,7 @@ http://msdo.iptvsystem.cloud:8880/live/9oiua87waZ/213eOPlayuza/289.ts
 http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8?GrupoTopIptv
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDWhX0XLyZlwvJcxyQ05DBiYOKWHwdJcHsNFqKxJfLXISAdt1p" group-title="ESPAÑA",AXN (ESP)
-http://cem1.ddns.net:8000/sharex0810/1810.m/8946
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvT_mLRqVlU6K-gTB5u37UXXaUno8oQBKYgACr8WVu4g5hNXJ7" group-title="ESPAÑA",AXN WHITE (ESP)
 http://cem1.ddns.net:8000/sharex0810/1810.m/8945
@@ -421,19 +424,19 @@ http://cem1.ddns.net:8000/sharex0810/1810.m/8945
 
 
 #EXTINF:-1 tvg-logo="https://picon.space/cazaypesca.png" group-title="ESPAÑA",CAZA Y PESCA (ESP)
-http://cem1.ddns.net:8000/sharex0810/1810.m/8939
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAYwLO33dl0ub29frRw4190qo_amUbGlfsLIfn0El3wmI9cuWw" group-title="ESPAÑA",COSMO (ESP)
-http://cem1.ddns.net:8000/sharex0810/1810.m/8936
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBUBmW2qfnW1l1S35VEUki9e9sUGFGjuybSy7WVNgoBV2VAkks" group-title="ESPAÑA",CRIME & INVESTIGATION (ESP)
-http://cem1.ddns.net:8000/sharex0810/1810.m/8935
+
 
 #EXTINF:-1 tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/cuatro_logo_500_-1_343d.png" group-title="ESPAÑA",CUATRO (ESP)
-http://cem1.ddns.net:8000/sharex0810/1810.m/8934
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS20F8WdnHWEwTf2LL7DrZS9OH82dHhRnmX52tJ1-9hzhqlwYij" group-title="ESPAÑA",DISCOVERY (ESP)
-http://cem1.ddns.net:8000/sharex0810/1810.m/8933
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC4JGuUKYNKCOETldx-Rr218VvMW9DGz7Ju9RqVtgy9kw7iOMO" group-title="ESPAÑA",DISNEY CHANNEL (ESP)
 
@@ -451,7 +454,7 @@ http://cem1.ddns.net:8000/sharex0810/1810.m/8929
 http://cem1.ddns.net:8000/sharex0810/1810.m/8927
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVxPGnwuDvUJ7zlXO-JY_Vpw8G1a_ictpvZaYB3JAGjNNyKKI9" group-title="ESPAÑA",HISTORIA (ESP)
-http://cem1.ddns.net:8000/sharex0810/1810.m/8925
+
 
 #EXTINF:-1 tvg-logo="https://adminweb.onlycable.es/img/Canale/small/Hollywood-HD/Hollywood-HD_.jpg" group-title="ESPAÑA",HOLLYWOOD (ESP)
 
@@ -461,19 +464,19 @@ http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl7/la1_lv3_aosv4
 
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/899384654259736578/JcRiYU5A.jpg" group-title="ESPAÑA",LA 2 HD (ESP)
-http://cem1.ddns.net:8000/sharex0810/1810.m/8923
+
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/0e/LaSexta_2008.jpg/revision/latest?cb=20161022151112" group-title="ESPAÑA",LA SEXTA (ESP)
-http://cem1.ddns.net:8000/sharex0810/1810.m/8922
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvh7dp7ns5cNJSOZEKUK7_WCBSlGSCB3umYRgrV-Ah9grvpkPi" group-title="ESPAÑA",MEGA (ESP)
-http://cem1.ddns.net:8000/sharex0810/1810.m/8921
+
 
 #EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-accion.jpg.pagespeed.ic.8XNnGybpzf.jpg" group-title="ESPAÑA",MOVISTAR ACCION (ESP)
 
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/905382930574446592/MkOL4EEw_400x400.jpg" group-title="ESPAÑA",MOVISTAR CINE (ESP)
-http://cem1.ddns.net:8000/sharex0810/1810.m/8920
+
 
 #EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-comedia.jpg.pagespeed.ic.zZUxRAcn7e.jpg" group-title="ESPAÑA",MOVISTAR COMEDIA (ESP)
 
@@ -491,13 +494,13 @@ http://cem1.ddns.net:8000/sharex0810/1810.m/8920
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIDtdMx5rPrV7rPnOxXZ0A47xg-GRQ8QmmVZcy_4NUikX-PFLX" group-title="ESPAÑA",MOVISTAR SERIES (ESP)
-http://cem1.ddns.net:8000/sharex0810/1810.m/8916
+
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/M/mtv-music-television-espanol-logo-A2C3813C10-seeklogo.com.png" group-title="ESPAÑA",MTV ESPAÑA (ESP)
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvh7dp7ns5cNJSOZEKUK7_WCBSlGSCB3umYRgrV-Ah9grvpkPi" group-title="ESPAÑA",NAT GEO (ESP)
-http://cem1.ddns.net:8000/sharex0810/1810.m/8913
+
 
 #EXTINF:-1 tvg-logo="https://banner2.kisspng.com/20180711/wty/kisspng-nat-geo-wild-national-geographic-high-definition-t-geo-news-logo-5b45f75b215198.6140388115313119631365.jpg" group-title="ESPAÑA",NAT GEO WILD (ESP)
 
@@ -506,7 +509,7 @@ http://cem1.ddns.net:8000/sharex0810/1810.m/8913
 http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_1_av-b.m3u8?GrupoTopIptv
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/01/nova-en-directo-online.png?resize=324%2C235" group-title="ESPAÑA",NOVA (ESP)
-http://cem1.ddns.net:8000/sharex0810/1810.m/8908
+
 
 #EXTINF:-1 tvg-logo="https://www.audiovisual451.com/wp-content/uploads/Syfy-2017.jpg" group-title="ESPAÑA",SYFY (ESP)
 http://cem1.ddns.net:8000/sharex0810/1810.m/8905
@@ -518,16 +521,13 @@ http://cem1.ddns.net:8000/sharex0810/1810.m/8903
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC6UezpPU59eQaXWOKPHMx9bOB_NRPVSjq2hwLpL3jmBrOfN67" group-title="ESPAÑA",TCM (ESP)
-http://cem1.ddns.net:8000/sharex0810/1810.m/8904
+
 
 #EXTINF:-1 tvg-logo="https://www.purezayemocion.com/fotos/1/2880_logo_canal_plus_toros_1.jpg" group-title="ESPAÑA",TOROS (ESP)
 http://msdo.iptvsystem.cloud:8880/live/9oiua87waZ/213eOPlayuza/415.ts
 
 #EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/85/54/ee/8554ee4ac477519e87dd8946d129f3c1.jpg" group-title="ESPAÑA",TVE (ESP)
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL651/PROFILE03.m3u8
 
-#EXTINF:-1 tvg-logo="http://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="ESPAÑA",TVE 24 (ESP)
-http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve01_lv3_aosv4_gl0/irtve01_lv3_aosv4_gl0.isml/irtve01_lv3_aosv4_gl0-audio=128000-video=400000.m3u8
 
 ######################################################################################################################################
 ####################################### HONDURAS
