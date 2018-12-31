@@ -289,7 +289,7 @@ http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/p
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSetNpXYP8_CJaxAgqNbHdOyLcyrY9eQx7Dvv7X2RQwmpAWxYm9" group-title="COLOMBIA",CARACOL HD (COL)
-
+http://msdo.iptvsystem.cloud:8880/live/9oiua87waZ/213eOPlayuza/309.ts
 
 #EXTINF:-1 tvg-logo="https://static.telus.com/common/cms/images/tv/satellite/new-channel-logos/CityHD.png" group-title="COLOMBIA",CITY TV (COL)
 
@@ -727,8 +727,8 @@ http://live.gvstream.net:1935/e-tv-video/play.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnTfYW5smsPNYCODuY31nAo_3knXziFgP4UhILhVTpqqFIyJM5" group-title="MEXICO",RTQ (MEX)
 
 
-#EXTINF:-1 tvg-logo="https://www.broadcastingcable.com/.image/t_share/MTU0MjAzNTE1NDI2MTIxMDcw/telemundo-station-group-hi-res_previewjpeg.jpg" group-title="MEXICO",TELEMUNDO (MEX)
-
+#EXTINF:-1 tvg-logo="https://www.broadcastingcable.com/.image/t_share/MTU0MjAzNTE1NDI2MTIxMDcw/telemundo-station-group-hi-res_previewjpeg.jpg" group-title="MEXICO",TELEMUNDO HD (MEX)
+http://msdo.iptvsystem.cloud:8880/live/9oiua87waZ/213eOPlayuza/493.ts
 
 #EXTINF:-1 tvg-logo="https://www.alliance4creativity.com/wp-content/uploads/2017/06/GRUPO-TELEVISA-LOGO.png" group-title="MEXICO",TELEVISA (MEX)
 
@@ -998,11 +998,17 @@ https://mdstrm.com/live-stream-playlist/5aba9ca777ed89391543b607.m3u8
 http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8
 #######################################
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw6Z5Wq0WEFoRPyfeP8CGhCffAFaKIZPaQpKTh_pY9SFE2OfaB"  group-title="USA",ABC NEWS HD
+http://msdo.iptvsystem.cloud:8880/live/9oiua87waZ/213eOPlayuza/399.ts
+
 #EXTINF:-1 tvg-logo="https://www.cablevisionfibertel.com.ar/dyn/dyn/MEDIA_ProductCatalog/m790054_AMC.png"  group-title="USA",AMC
  
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/ff/28/a0/ff28a096ed24ebd4197f5672392bfab1.png"  group-title="USA",ANIMAL PLANET
 
+
+#EXTINF:-1 tvg-logo="https://fontmeme.com/images/BBC-Logo.jpg"  group-title="USA",BBC NEWS HD
+http://msdo.iptvsystem.cloud:8880/live/9oiua87waZ/213eOPlayuza/518.
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmFr93M6ofnFwAqI8s_3B4w48gMSNcyEaFV8VuEXOtMFufWmyf" group-title="USA",BLOOMBERG
 
@@ -1013,8 +1019,8 @@ http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/p
 #EXTINF:-1 tvg-logo="https://images.mi.tv/channels/pe_cinemax_m.png"  group-title="USA",CINEMAX EAST
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsvwF6YcxpZF30ZtTF_lluSH6peMrrm3vM891CgrigJbApcf6v" group-title="USA",CNN
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsvwF6YcxpZF30ZtTF_lluSH6peMrrm3vM891CgrigJbApcf6v" group-title="USA",CNN HD
+http://msdo.iptvsystem.cloud:8880/live/9oiua87waZ/213eOPlayuza/32.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-lGdXl2-wba_AKD8ixZe5nPHaE1wuRIriuXJJiWLEcr7NVGXY" group-title="USA",CNBC 
 
@@ -1025,17 +1031,25 @@ http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/p
 #EXTINF:-1 tvg-logo="https://cdn.firstonetv.eu/images/logos/us/THECW.png"  group-title="USA",CW
  
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/11/Discovery_Channel_2016.png" group-title="USA",DISCOVERY CHANNEL
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/11/Discovery_Channel_2016.png" group-title="USA",DISCOVERY CHANNEL HD
+http://msdo.iptvsystem.cloud:8880/live/9oiua87waZ/213eOPlayuza/395.ts
 
+#EXTINF:-1 tvg-logo="https://www.discoveryuk.com/content/dam/discovery/neur/uk/discovery/corporate/logos/logo-discovery-science.jpg" group-title="USA",DISCOVERY SCIENCE HD
+http://msdo.iptvsystem.cloud:8880/live/9oiua87waZ/213eOPlayuza/393.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1vjedLDdrON3T0RFb_YN6fGpE_h_NEsv2-gi7oI5vRGc1nbgjkQ"  group-title="USA",DISNEY
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbO3TkqETJwZL9-EkKxAEYObYdLGHqASLKHA2Cw1B7SlojnMKA"  group-title="USA",E! HD
+http://msdo.iptvsystem.cloud:8880/live/9oiua87waZ/213eOPlayuza/392.ts
 
-#EXTINF:-1 tvg-logo="https://oneq.tech/wp-content/uploads/2018/03/9407fa33a1873b022ed3169d51ea6aff-1.png"  group-title="USA",ESPN 1 
-
+#EXTINF:-1 tvg-logo="https://oneq.tech/wp-content/uploads/2018/03/9407fa33a1873b022ed3169d51ea6aff-1.png"  group-title="USA",ESPN 1 HD 
+http://msdo.iptvsystem.cloud:8880/live/9oiua87waZ/213eOPlayuza/391.ts
 
 #EXTINF:-1 tvg-logo="https://zpapi.zetatv.com.uy/media/images/espn2-s.png"  group-title="USA",ESPN 2 
 http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2TCLK4QRCj4llWEK6eIbZTdDScvx984sZX_bfwli5Dtd6582o"  group-title="USA",FOX NEWS HD
+http://msdo.iptvsystem.cloud:8880/live/9oiua87waZ/213eOPlayuza/106.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1X-HiKKV6nb4QCXlUhIwcDAiBBPEoRW9PQf0VqXiWq0wRJ7F7"  group-title="USA",FOX SPORTS 1
 
@@ -1043,14 +1057,23 @@ http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/gallery_8863_7_27936.png"  group-title="USA",FOX SPORTS 2
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwvdAIHwn2AFyoY4HSfzXLEzxsqhuu0d_HEsemshDguFDjdlK_"  group-title="USA",FOOD NETWORK HD
+http://msdo.iptvsystem.cloud:8880/live/9oiua87waZ/213eOPlayuza/390.ts
+
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/4b/6d/5a/4b6d5a3a5318ea2b7d026e77a3a00fd6.jpg"  group-title="USA",HALLMARK 
 
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLW16mg8drE0t0WFWwXbMF8Le4O2DqJEJ1hIMuElBlGRN-3dZz"  group-title="USA",HISTORY HD
+http://msdo.iptvsystem.cloud:8880/live/9oiua87waZ/213eOPlayuza/388.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyRQIfuVoQo_XMRaqfDqSU3n7P4axOlhr9Md7M8n_gvoRfnPWa"  group-title="USA",H2
 
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/sv_hbo-2_m.png"  group-title="USA",HBO 2
 http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSeyow1rdLBRHpiAxI9higJhAcvXIW4LI8vs6A-2QK1MYP75gx"  group-title="USA",HBO COMEDY HD
+http://msdo.iptvsystem.cloud:8880/live/9oiua87waZ/213eOPlayuza/296.ts
 
 #EXTINF:-1 tvg-logo="https://www.dishpromotions.com/wp-content/uploads/HBOZ-logo.png"  group-title="USA",HBO ZONE
 
@@ -1061,14 +1084,14 @@ http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/natgeowild.png"  group-title="USA",NAT GEO WILD
 
 
-#EXTINF:-1 tvg-logo="http://nick.mtvnimages.com/nick-assets/common/nick-logo-200x200.png" group-title="USA",NICK
-
+#EXTINF:-1 tvg-logo="http://nick.mtvnimages.com/nick-assets/common/nick-logo-200x200.png" group-title="USA",NICK HD
+http://msdo.iptvsystem.cloud:8880/live/9oiua87waZ/213eOPlayuza/387.ts
 
 #EXTINF:-1 tvg-logo="https://sc.dish.com/shared/images/station-logos/nbcsp.png" group-title="USA",NBCSN 
 
 
-#EXTINF:-1 tvg-logo="https://cdn.firstonetv.eu/images/logos/us/SHOWCASE.png" group-title="USA",SHOWCASE
-
+#EXTINF:-1 tvg-logo="https://cdn.firstonetv.eu/images/logos/us/SHOWCASE.png" group-title="USA",SHOWCASE HD
+http://msdo.iptvsystem.cloud:8880/live/9oiua87waZ/213eOPlayuza/394.ts
 
 #EXTINF:-1 tvg-logo="https://cdn.firstonetv.eu/images/logos/us/SHOWTIME.png"  group-title="USA",SHOWTIME 
 
@@ -1692,7 +1715,7 @@ http://mypanel.tv:80/live/angelo/angelo1234/6104.m3u8
 http://mypanel.tv:80/live/angelo/angelo1234/6100.m3u8
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.sempretops.com/wp-content/uploads/telecine-touch-logo-nova-online-ao-vivo.gif" group-title="PREMIUM BRASIL 1",TELECINE TOUCH (BR)
-http://mypanel.tv:80/live/angelo/angelo1234/6099.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/011/original/pic_tbs.png?1522176341" group-title="PREMIUM BRASIL 1",TBS (BR)
 http://mypanel.tv:80/live/angelo/angelo1234/6106.m3u8
@@ -3051,8 +3074,8 @@ http://msdo.iptvsystem.cloud:8880/live/9oiua87waZ/213eOPlayuza/612.ts
 #EXTINF:-1  tvg-logo="https://http2.mlstatic.com/2android-tv-box-750-canales-de-cable-canales-uruguayos-y-vtv-D_NQ_NP_884222-MLU26628807182_012018-F.jpg" group-title="DEPORTES/ESPORTES",VTV (URU)
 
 
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-WCfCKAn5UrA/UVoy7xdxDLI/AAAAAAAAAtM/BLvz4QK-J_U/s320/WIN+SPORTS.png" group-title="DEPORTES/ESPORTES",WIN SPORTS (LAT)
-
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-WCfCKAn5UrA/UVoy7xdxDLI/AAAAAAAAAtM/BLvz4QK-J_U/s320/WIN+SPORTS.png" group-title="DEPORTES/ESPORTES",WIN SPORTS HD (LAT)
+http://msdo.iptvsystem.cloud:8880/live/9oiua87waZ/213eOPlayuza/477.ts
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/W/wwe-logo-71A46059D8-seeklogo.com.png" group-title="DEPORTES/ESPORTES",WWE (USA)
 
