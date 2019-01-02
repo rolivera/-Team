@@ -2807,8 +2807,11 @@ http://msdo.iptvsystem.cloud:8880/live/9oiua87waZ/213eOPlayuza/36.ts
 #EXTINF:-1  tvg-logo="https://www.digitaltveurope.com/files/2017/09/ELEVEN-SPORTS-logo1.png" group-title="DEPORTES/ESPORTES",ELEVEN SPORTS 1 (PT)
 http://pina7.ddns.net:8000/aplicacao/scp4ever/17.ch
 
-#EXTINF:-1  tvg-logo="https://b2cproductionsite-be80wkthrgjjkmzuip0.netdna-ssl.com/sites/b2c/files/elevensports_2_icon_20171214.png" group-title="DEPORTES/ESPORTES",ELEVEN SPORTS 2 (PT)
+#EXTINF:-1  tvg-logo="https://www.digitaltveurope.com/files/2017/09/ELEVEN-SPORTS-logo1.png" group-title="DEPORTES/ESPORTES",ELEVEN SPORTS 1 HD (PT)
+http://62.210.124.106:8000/live/aplicacao/scp4ever/16.ts
 
+#EXTINF:-1  tvg-logo="https://b2cproductionsite-be80wkthrgjjkmzuip0.netdna-ssl.com/sites/b2c/files/elevensports_2_icon_20171214.png" group-title="DEPORTES/ESPORTES",ELEVEN SPORTS 2 HD (PT)
+http://62.210.124.106:8000/live/aplicacao/scp4ever/17.ts
 
 #EXTINF:-1 tvg-logo="https://bloximages.newyork1.vip.townnews.com/lancasteronline.com/content/tncms/assets/v3/editorial/6/a3/6a33a76a-2aab-11e7-8cfd-2fdf8678edd2/5900e2482259c.image.png" group-title="DEPORTES/ESPORTES",ESPN (LAT)
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL558/PROFILE03.m3u8
@@ -3042,19 +3045,19 @@ http://maxptv.ddns.net:25461/live/MA020/0706/43.ts
 http://msdo.iptvsystem.cloud:8880/live/9oiua87waZ/213eOPlayuza/104.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYK9-kmfLI9aWUNrqy-vqOGJK-vE39iPrYaYihATMKYyzSN86f" group-title="DEPORTES/ESPORTES",SPORT TV 1 (PT)
-http://painel.tvdigitalsbl.net:80/live/IGOR/IGOR/6225.ts
+http://62.210.124.106:8000/live/aplicacao/scp4ever/10.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL3yGNjg04bArAFATthvYBXJ_TS2UCzLw1rcs-pOBelB0DIWAU" group-title="DEPORTES/ESPORTES",SPORT TV 2 (PT)
-http://painel.tvdigitalsbl.net:80/live/IGOR/IGOR/6223.ts
+http://62.210.124.106:8000/live/aplicacao/scp4ever/11.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8btmXxM-f9rwFEeFGEEYMrdQ5HbjWNGsS_BxRgFWfFihXjfKd" group-title="DEPORTES/ESPORTES",SPORT TV 3 (PT)
-http://painel.tvdigitalsbl.net:80/live/IGOR/IGOR/6221.ts
+http://62.210.124.106:8000/live/aplicacao/scp4ever/12.ts
 
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-kITLJJTtFZc/Tw9nNRMF1YI/AAAAAAAABCo/L9vxFb5rCzc/s400/sport_tv_4.png" group-title="DEPORTES/ESPORTES",SPORT TV 4 (PT)
-http://painel.tvdigitalsbl.net:80/live/IGOR/IGOR/6219.ts
+http://62.210.124.106:8000/live/aplicacao/scp4ever/13.ts
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ekV3wEX.png" group-title="DEPORTES/ESPORTES",SPORT TV 5 (PT)
-http://painel.tvdigitalsbl.net:80/live/IGOR/IGOR/6217.ts
+http://62.210.124.106:8000/live/aplicacao/scp4ever/14.ts
 
 #EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/stadium.png" group-title="DEPORTES/ESPORTES",STADIUM SPORTS (USA)
 https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/0.m3u8
