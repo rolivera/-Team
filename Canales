@@ -824,13 +824,16 @@ http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/p
 #######################################
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2016/09/AXN-logo-neu-300x189.jpg?resize=300%2C189" group-title="PORTUGAL",AXN (PT)
-
+http://62.210.124.106:8000/live/aplicacao/scp4ever/24.ts
 
 #EXTINF:-1 tvg-logo="http://www.firstonetv.net/images/logos/ro/AXNBLACK.png" group-title="PORTUGAL",AXN BLACK (PT)
 
 
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112015/axn_white.png?itok=-PuUuxuu" group-title="PORTUGAL",AXN WHITE (PT)
 
+
+#EXTINF:-1 tvg-logo="https://www.atelevisao.com/wp-content/uploads/2017/08/benfica-tv.png" group-title="PORTUGAL",BENFICA TV (PT)
+http://62.210.124.106:8000/live/aplicacao/scp4ever/15.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX0zy9KQJhUpgk9qOe2-buwori9QjG9z_ulA1U-Uh7oACTWJ5t" group-title="PORTUGAL",CANAL PANDA (PT)
 
@@ -841,6 +844,9 @@ http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/p
 #EXTINF:-1 tvg-logo="https://fotos.web.sapo.io/i/B19029ebe/17411447_tS5Cj.png" group-title="PORTUGAL",CINE MUNDO (PT)
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOcB3FEYpGY91yeE-XQA5opdl0q8t0Fi8eDanO9Ba5JGx8H3a0" group-title="PORTUGAL",CMTV (PT)
+http://62.210.124.106:8000/live/aplicacao/scp4ever/9.ts
+
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/poketuga/images/5/5d/Logo_Biggs.png/revision/latest?cb=20120818084128&path-prefix=pt" group-title="PORTUGAL",BIGGS (PT)
 
 
@@ -848,7 +854,7 @@ http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/p
 
 
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/sv_fox_m.png" group-title="PORTUGAL",FOX (PT)
-
+http://62.210.124.106:8000/live/aplicacao/scp4ever/23.ts
 
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/ar_fox-comedy-hd_m.png" group-title="PORTUGAL",FOX COMEDY (PT)
 
@@ -859,14 +865,20 @@ http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/p
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c9/Fox_Life_India_HD.png/revision/latest?cb=20171101055116" group-title="PORTUGAL",FOX LIFE (PT)
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnyW0KhhuAzZTrVGU-kgFvM08P67LDt7jqjaFmSQAEyTKyK_OZ" group-title="PORTUGAL",HOLLYWOOD (PT)
+http://62.210.124.106:8000/live/aplicacao/scp4ever/22.ts
+
 #EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/e032be33551523.56af8ce558170.jpg" group-title="PORTUGAL",PORTO CANAL (PT)
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUkSlAS1urWXUJmMo6dnaLhBGA8jksVQR3KZcBexbHK0lwAb9M" group-title="PORTUGAL",RTP 1 (PT)
-
+http://62.210.124.106:8000/live/aplicacao/scp4ever/2.ts
 
 #EXTINF:-1 tvg-logo="http://www.firstonetv.net/images/logos/pt/RTP2.png" group-title="PORTUGAL",RTP 2 (PT)
 http://pina7.ddns.net:8000/aplicacao/scp4ever/3.ch
+
+#EXTINF:-1 tvg-logo="http://www.firstonetv.net/images/logos/pt/RTP2.png" group-title="PORTUGAL",RTP 2 ALT (PT)
+http://62.210.124.106:8000/live/aplicacao/scp4ever/3.ts
 
 #EXTINF:-1 tvg-logo="https://c1.staticflickr.com/6/5777/21269795073_33032b74e8_b.jpg" group-title="PORTUGAL",RTP 3 (PT)
 
@@ -884,7 +896,7 @@ http://pina7.ddns.net:8000/aplicacao/scp4ever/3.ch
 
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/57/200px-LogoSICold.png/revision/latest?cb=20150223193551" group-title="PORTUGAL",SIC (PT)
-
+http://62.210.124.106:8000/live/aplicacao/scp4ever/4.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrt-5ozMwBe8-Zw7_knDXjnxRc5wLIG2jwFrZiJH8IoOzJmsor" group-title="PORTUGAL",SIC CARAS (PT)
 
@@ -892,32 +904,38 @@ http://pina7.ddns.net:8000/aplicacao/scp4ever/3.ch
 #EXTINF:-1 tvg-logo="https://www.gmkfreelogos.com/logos/S/img/Sic_Mulher.gif" group-title="PORTUGAL",SIC MULHER (PT)
 
 
-#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tvc1.jpg" group-title="PORTUGAL",TVC 1 (PT)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV28aXDBg7SFf8Y1nlvf5Jxqxh8eZow_8DtLjHv-0__CtvJdJN" group-title="PORTUGAL",SIC NOTICIAS (PT)
+http://62.210.124.106:8000/live/aplicacao/scp4ever/8.ts
 
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tvc1.jpg" group-title="PORTUGAL",TVC 1 (PT)
+http://62.210.124.106:8000/live/aplicacao/scp4ever/18.ts
 
 #EXTINF:-1 tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/11597_logo_tv_cine_3.png" group-title="PORTUGAL",TVC 2 (PT)
-
+http://62.210.124.106:8000/live/aplicacao/scp4ever/19.ts
 
 #EXTINF:-1 tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/11596_logo_tv_cine_4.png" group-title="PORTUGAL",TVC 3 (PT)
-
+http://62.210.124.106:8000/live/aplicacao/scp4ever/20.ts
 
 #EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/TVC4.png" group-title="PORTUGAL",TVC 4 (PT)
-
+http://62.210.124.106:8000/live/aplicacao/scp4ever/21.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-swhxg5t3PGY9LIYedXLfIsBV8OSG8zeO4q2YKqpN4iZ7lNB6" group-title="PORTUGAL",TVI (PT)
 http://video-auth8.iol.pt:80/live_tvi/live_tvi/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-swhxg5t3PGY9LIYedXLfIsBV8OSG8zeO4q2YKqpN4iZ7lNB6" group-title="PORTUGAL",TVI ALT (PT)
+http://62.210.124.106:8000/live/aplicacao/scp4ever/5.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oXF5WTv.png" group-title="PORTUGAL",TVI 24 (PT)
 http://video-auth8.iol.pt:80/live_tvi24/live_tvi24/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkatgauayU0C38drSl_UDXMzyJ6RIxZEhL1vuSLh3d3zXpCQe9" group-title="PORTUGAL",TVI FICCAO (PT)
-
+http://62.210.124.106:8000/live/aplicacao/scp4ever/6.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNK9jEnAW7vBKT6blh6XJeIj1rhG6SWTgQteofDsFqFlGPeSbq3Q" group-title="PORTUGAL",TVI REALITY (PT)
 http://video-auth8.iol.pt:80/live_tvi_direct/live_tvi_direct-3/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNK9jEnAW7vBKT6blh6XJeIj1rhG6SWTgQteofDsFqFlGPeSbq3Q" group-title="PORTUGAL",TVI REALITY CAM 4 (PT)
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNK9jEnAW7vBKT6blh6XJeIj1rhG6SWTgQteofDsFqFlGPeSbq3Q" group-title="PORTUGAL",TVI REALITY ALT (PT)
+http://62.210.124.106:8000/live/aplicacao/scp4ever/7.ts
 
 ######################################################################################################################################
 ####################################### R.DOMINICANA
