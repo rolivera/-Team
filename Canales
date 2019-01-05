@@ -10,7 +10,7 @@ https://stream.vagalume.fm/hls/14660050141766497579/aac.m3u8
 #EXTINF:-1 tvg-logo="https://scontent.fmvd4-1.fna.fbcdn.net/v/t1.0-9/33540569_1732319096834497_4598029744707993600_n.jpg?_nc_cat=100&_nc_ht=scontent.fmvd4-1.fna&oh=c80ef00325479e5707956b7793d203ed&oe=5C945225" group-title="Gonzalo" ,TOP IPTV
 https://stream.vagalume.fm/hls/14660050141766497579/aac.m3u8
 ######################################################################################################################################
-#EXTINF:-1 tvg-logo="https://icuscandinavia.se/wp-content/uploads/2017/01/spyera-update.jpg" group-title="Actualizada 03/01/19" , 
+#EXTINF:-1 tvg-logo="https://icuscandinavia.se/wp-content/uploads/2017/01/spyera-update.jpg" group-title="Actualizada 05/01/19" , 
 https://stream.vagalume.fm/hls/14660050141766497579/aac.m3u8
 #####################################################################################################################################
 
@@ -21,7 +21,7 @@ http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/p
 #######################################
 
 #EXTINF:-1 tvg-logo="https://www.mdzol.com/__export/1532475276295/sites/mdzol/img/2018/04/04/5ac49a3ee4dd1.png_790118878.png" group-title="ARGENTINA",AMERICA (ARG)
-
+http://wohuogai.com:58000/live/SD_876yikjBSD86TOILAB/65hbjjt787iun/29324.ts
 
 #EXTINF:-1 tvg-logo="https://img1.androidappsapk.co/300/7/0/6/net.coninfo.admin.trecemaxtelevisin.png" group-title="ARGENTINA",13 MAX (ARG)
 http://coninfo.net:1935/13maxhd/live_720p/.m3u8
@@ -1179,6 +1179,9 @@ http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/p
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDCdzFfbEhIrPKuMpMyf3hZXiV0lR3X-corM7t8VT0uURgzDEk" group-title="CANALES DE CINE",CINE SKY (BR)
 http://stmv2.srvstm.com:1935/tvjsid/tvjsid/playlist.m3u8?GrupoTopIptv
+
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/sml_gallery_5692_7_22692.png" group-title="CANALES DE CINE",CLARO CINEMA (LAT)
+http://wohuogai.com:58000/live/SD_876yikjBSD86TOILAB/65hbjjt787iun/29283.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP_Dx7uNnIgFqoU4L7v6Woz_ULpNeuwHwH1YRpfpbGhUkyaYXt" group-title="CANALES DE CINE",FMHOT PELICULAS (LAT)
 http://fmhot.04.cl.cdnz.cl/fmhot/smil:cdn.smil/playlist.m3u8
