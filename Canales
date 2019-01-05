@@ -3156,6 +3156,9 @@ http://stream.1music.hu/stream/1music.m3u8?GrupoTopIptv
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/838809421975257092/Hzz3uqOH.jpg" group-title="MUSICA",88 STEREO
 http://k3.usastreams.com:1935/CableLatino/88stereo/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://c1.staticflickr.com/5/4036/4464814609_2a65e29e91_z.jpg?zz=1" group-title="MUSICA",BANDAMAX
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL732/PROFILE03.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CfVhAcB.png" group-title="MUSICA",HEART TV
 
 
@@ -3164,6 +3167,9 @@ http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8?GrupoTopIptv
 
 #EXTINF:-1 tvg-logo="https://www.liveonlineradio.net/wp-content/uploads/2016/07/Radio-Latinos-Up.jpg" group-title="MUSICA",LATINOS UP
 https://5b38ce71f1f00.streamlock.net/8080/8080/chunklist_w956830983.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.liveonlineradio.net/wp-content/uploads/2016/07/Radio-Latinos-Up.jpg" group-title="MUSICA",LATINOS UP HD
+https://5955f4ce3f2b7.streamlock.net/8080/8080/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/z5GxzbW0W5qTYeUTAT6z1W40Oo3-0qu4z25ti7U8ls2tZubXP0ptg4RRPBkoeiYKxAI=s180" group-title="MUSICA",M2O TV
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on?GrupoTopIptv
@@ -3193,7 +3199,7 @@ http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/chunklist_w707723531.
 http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8?GrupoTopIptv
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_ritmoson-latino_m.png" group-title="MUSICA",RITMOSON
-
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL731/PROFILE03.m3u8
 
 #EXTINF:-1 tvg-logo="https://k31.kn3.net/taringa/5/F/B/F/F/0/HernanPillet/166.png" group-title="MUSICA",TELEMUSICA
 
@@ -3208,7 +3214,7 @@ http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL702/PROFILE03.m3u8
 http://81.196.0.126/utvedge/utvlivehls/chunklist_w1688658104.m3u8?GrupoTopIptv
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxXDnV9wZwNXfB4uBuy83MSo23coQZCdEZTUCXzQb3BmsIuDCE" group-title="MUSICA",VH1 
-
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL703/PROFILE03.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfBulcszCLTOLCkQMtNdCKqvu7xzmqe-NdMIIr1MFP1tyYMYbl" group-title="MUSICA",VH1 CLASSIC
-
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL728/PROFILE03.m3u8
