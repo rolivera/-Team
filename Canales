@@ -1162,9 +1162,6 @@ http://msdo.iptvsystem.cloud:8880/live/9oiua87waZ/213eOPlayuza/394.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqYRAfpuhs__w0gN8w_9TT0PACDZR2vUoV2zBEsV-CpGWBW_Vl"  group-title="USA",U.S.A NETWORK
 
 
-#EXTINF:-1 tvg-logo="https://www.roastbrief.com.mx/wp-content/uploads/2015/04/WobiNegro-F"  group-title="USA",WOBI
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL387/PROFILE03.m3u8
-
 #####################################################################################################################################
 ####################################### VENEZUELA
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2016/06/16/04/18/venezuela-1460595_960_720.jpg" group-title="VENEZUELA",VENEZUELA
@@ -2083,6 +2080,9 @@ http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL1/PROFILE03.m3u8
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL215/PROFILE03.m3u8
 
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/b15356ee-546f-4760-b04c-3772d6949002_m.jpg" group-title="VARIEDADES" pltv-subgroup="VARIEDADES LATINO",TRUTV HD (LAT)
+
+#EXTINF:-1 tvg-logo="https://www.expoknews.com/wp-content/uploads/2016/01/WOBI.png" group-title="VARIEDADES" pltv-subgroup="VARIEDADES LATINO",WOBI (LAT)
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL387/PROFILE03.m3u8
 
 
 #######################################
