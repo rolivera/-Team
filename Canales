@@ -265,7 +265,7 @@ https://593b04c4c5670.streamlock.net:443/tvdaniel/tvdaniel/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://www.periodismo.uchile.cl/noticias/images/tvnlogo.jpg" group-title="CHILE", TVN (CHI)
-
+http://wohuogai.com:58000/live/SD_876yikjBSD86TOILAB/65hbjjt787iun/10810.ts
 
 #EXTINF:-1 tvg-logo="http://www.periodismo.uchile.cl/noticias/images/tvnlogo.jpg" group-title="CHILE", TVN HD (CHI)
 
@@ -966,6 +966,9 @@ http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/p
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/ACSszfGSjOUvefrWHrzRhdw3LsMyMqkjNp2ic6P9pg=s900-mo-c-c0xffffffff-rj-k-no" group-title="R.DOMINICANA",CANAL 4 (DOM)
 
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/973571329927647233/Ap9Z8COG_400x400.jpg" group-title="R.DOMINICANA"CDN (DOM)
+http://wohuogai.com:58000/live/SD_876yikjBSD86TOILAB/65hbjjt787iun/11520.ts
 
 #EXTINF:-1 tvg-logo="https://lh4.googleusercontent.com/QPwcl350XAVi9Nq2zbWcEBfCo2Sh97dYyUZx_qqp059P2JS7Ux_JBdpCdjheDNHS8p57AHMSL342_DU3gYh876wDfmax93XzObZO_eDygMVT2iDP0cqLKvJmPPIFuzBMBU1m9yiY" group-title="R.DOMINICANA",DIGITAL 15 (DOM)
 
@@ -2258,7 +2261,7 @@ http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL322/PROFILE03.m3u8
 http://wohuogai.com:58000/live/SD_876yikjBSD86TOILAB/65hbjjt787iun/4954.ts
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/doblaje/images/7/7a/ETC_TV_2015.png/revision/latest?cb=20151006150951&path-prefix=es" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",ETC (LAT)
-
+http://wohuogai.com:58000/live/SD_876yikjBSD86TOILAB/65hbjjt787iun/11130.ts
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/f0/be/d6/f0bed6cc9a3e5f519b60278341b32c29.jpg" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",LOCOMOTION (LAT)
 http://locomotiontv.com/envivo/loco_channel/stream.m3u8
@@ -2602,7 +2605,7 @@ http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL353/PROFILE03.m3u8
 http://wohuogai.com:58000/live/SD_876yikjBSD86TOILAB/65hbjjt787iun/4887.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO3wZdJpGtSgoimpmTW8L-kTCunf7Lx7f5FKDsGx4t6scZbaPj" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",H2 (LAT)
-
+http://wohuogai.com:58000/live/SD_876yikjBSD86TOILAB/65hbjjt787iun/4970.ts
 
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-v4OGeGQcdcQ/U91s7yMEbdI/AAAAAAAAEv8/2PneO2oDeW4/s1600/%D8%AA%D8%B1%D8%AF%D8%AF+%D9%82%D9%86%D8%A7%D8%A9+%D9%86%D8%A7%D8%B4%D9%88%D9%86%D8%A7%D9%84+%D8%AC%D9%8A%D9%88%D8%BA%D8%B1%D8%A7%D9%81%D9%8A%D9%83+%D8%A7%D8%A8%D9%88+%D8%B8%D8%A8%D9%8A.jpg" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",NAT GEO (LAT)
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL377/PROFILE03.m3u8
@@ -2852,20 +2855,14 @@ http://62.210.124.106:8000/live/aplicacao/scp4ever/17.ts
 #EXTINF:-1 tvg-logo="https://bloximages.newyork1.vip.townnews.com/lancasteronline.com/content/tncms/assets/v3/editorial/6/a3/6a33a76a-2aab-11e7-8cfd-2fdf8678edd2/5900e2482259c.image.png" group-title="DEPORTES/ESPORTES",ESPN (LAT)
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL558/PROFILE03.m3u8
 
-#EXTINF:-1 tvg-logo="https://bloximages.newyork1.vip.townnews.com/lancasteronline.com/content/tncms/assets/v3/editorial/6/a3/6a33a76a-2aab-11e7-8cfd-2fdf8678edd2/5900e2482259c.image.png" group-title="DEPORTES/ESPORTES",ESPN HD (LAT)
-
-
-#EXTINF:-1 tvg-logo="https://bloximages.newyork1.vip.townnews.com/lancasteronline.com/content/tncms/assets/v3/editorial/6/a3/6a33a76a-2aab-11e7-8cfd-2fdf8678edd2/5900e2482259c.image.png" group-title="DEPORTES/ESPORTES",ESPN ALT (LAT)
-
+#EXTINF:-1 tvg-logo="https://bloximages.newyork1.vip.townnews.com/lancasteronline.com/content/tncms/assets/v3/editorial/6/a3/6a33a76a-2aab-11e7-8cfd-2fdf8678edd2/5900e2482259c.image.png" group-title="DEPORTES/ESPORTES",ESPN SD (LAT)
+http://wohuogai.com:58000/live/SD_876yikjBSD86TOILAB/65hbjjt787iun/4956.ts
 
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/mx_espn-2_m.png" group-title="DEPORTES/ESPORTES",ESPN 2 (LAT)
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL561/PROFILE03.m3u8
 
-#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/mx_espn-2_m.png" group-title="DEPORTES/ESPORTES",ESPN 2 HD (LAT)
-
-
-#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/mx_espn-2_m.png" group-title="DEPORTES/ESPORTES",ESPN 2 HD ALT (LAT)
-
+#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/mx_espn-2_m.png" group-title="DEPORTES/ESPORTES",ESPN 2 SD (LAT)
+http://wohuogai.com:58000/live/SD_876yikjBSD86TOILAB/65hbjjt787iun/4868.ts
 
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/co_espn-3-hd_m.png" group-title="DEPORTES/ESPORTES",ESPN 3 (LAT)
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL520/PROFILE03.m3u8
@@ -2873,17 +2870,14 @@ http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL520/PROFILE03.m3u8
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/co_espn-3-hd_m.png" group-title="DEPORTES/ESPORTES",ESPN 3 HD (ARG)
 http://msdo.iptvsystem.cloud:8880/live/9oiua87waZ/213eOPlayuza/470.ts
 
-#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/co_espn-3-hd_m.png" group-title="DEPORTES/ESPORTES",ESPN 3 HD ALT (LAT)
-
-
 #EXTINF:-1 tvg-logo="http://unimasgo.com/gold-app/gold-uploads/media/espn-mas-en-vivo.jpg" group-title="DEPORTES/ESPORTES",ESPN + (LAT)
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL516/PROFILE03.m3u8
 
-#EXTINF:-1 tvg-logo="http://unimasgo.com/gold-app/gold-uploads/media/espn-mas-en-vivo.jpg" group-title="DEPORTES/ESPORTES",ESPN + HD (LAT)
+#EXTINF:-1 tvg-logo="http://unimasgo.com/gold-app/gold-uploads/media/espn-mas-en-vivo.jpg" group-title="DEPORTES/ESPORTES",ESPN + SD (LAT)
+http://wohuogai.com:58000/live/SD_876yikjBSD86TOILAB/65hbjjt787iun/11128.ts
 
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/856564125455065089/MAJ4Buek_400x400.jpg" group-title="DEPORTES/ESPORTES",ESPN (ARG)
-
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/856564125455065089/MAJ4Buek_400x400.jpg" group-title="DEPORTES/ESPORTES",ESPN MEXICO
+http://wohuogai.com:58000/live/SD_876yikjBSD86TOILAB/65hbjjt787iun/10844.ts
 
 #EXTINF:-1 tvg-logo="https://bloximages.newyork1.vip.townnews.com/lancasteronline.com/content/tncms/assets/v3/editorial/6/a3/6a33a76a-2aab-11e7-8cfd-2fdf8678edd2/5900e2482259c.image.png" group-title="DEPORTES/ESPORTES",ESPN (BR)
 http://maxptv.ddns.net:25461/live/MA020/0706/159.ts
@@ -2924,41 +2918,29 @@ http://msdo.iptvsystem.cloud:8880/live/9oiua87waZ/213eOPlayuza/421.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3siiXt2YMBgW_LL0mfXCpTWNAwQ8t6IvyPMbCs76NSZrx7ti6NQ" group-title="DEPORTES/ESPORTES",FOX SPORTS LATINO
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL522/PROFILE03.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3siiXt2YMBgW_LL0mfXCpTWNAwQ8t6IvyPMbCs76NSZrx7ti6NQ" group-title="DEPORTES/ESPORTES",FOX SPORTS LATINO HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3siiXt2YMBgW_LL0mfXCpTWNAwQ8t6IvyPMbCs76NSZrx7ti6NQ" group-title="DEPORTES/ESPORTES",FOX SPORTS LATINO SD
+http://wohuogai.com:58000/live/SD_876yikjBSD86TOILAB/65hbjjt787iun/4879.ts
 
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3siiXt2YMBgW_LL0mfXCpTWNAwQ8t6IvyPMbCs76NSZrx7ti6NQ" group-title="DEPORTES/ESPORTES",FOX SPORTS LATINO HD ALT
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3siiXt2YMBgW_LL0mfXCpTWNAwQ8t6IvyPMbCs76NSZrx7ti6NQ" group-title="DEPORTES/ESPORTES",FOX SPORTS ARGENTINA
+http://wohuogai.com:58000/live/SD_876yikjBSD86TOILAB/65hbjjt787iun/10840.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3siiXt2YMBgW_LL0mfXCpTWNAwQ8t6IvyPMbCs76NSZrx7ti6NQ" group-title="DEPORTES/ESPORTES",FOX SPORTS CHILE
+http://wohuogai.com:58000/live/SD_876yikjBSD86TOILAB/65hbjjt787iun/10951.ts
 
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3siiXt2YMBgW_LL0mfXCpTWNAwQ8t6IvyPMbCs76NSZrx7ti6NQ" group-title="DEPORTES/ESPORTES",FOX SPORTS PARAGUAY
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3siiXt2YMBgW_LL0mfXCpTWNAwQ8t6IvyPMbCs76NSZrx7ti6NQ" group-title="DEPORTES/ESPORTES",FOX SPORTS MEXICO
+http://wohuogai.com:58000/live/SD_876yikjBSD86TOILAB/65hbjjt787iun/10847.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3siiXt2YMBgW_LL0mfXCpTWNAwQ8t6IvyPMbCs76NSZrx7ti6NQ" group-title="DEPORTES/ESPORTES",FOX SPORTS VENEZUELA
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3siiXt2YMBgW_LL0mfXCpTWNAwQ8t6IvyPMbCs76NSZrx7ti6NQ" group-title="DEPORTES/ESPORTES",FOX SPORTS COLOMBIA
-
+http://wohuogai.com:58000/live/SD_876yikjBSD86TOILAB/65hbjjt787iun/11096.ts
 
 #EXTINF:-1 tvg-logo="http://midiafatos.com.br/wp-content/uploads/2017/02/fox_sports2_N.png" group-title="DEPORTES/ESPORTES",FOX SPORTS 2 (LAT)
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL527/PROFILE03.m3u8
 
-#EXTINF:-1 tvg-logo="http://midiafatos.com.br/wp-content/uploads/2017/02/fox_sports2_N.png" group-title="DEPORTES/ESPORTES",FOX SPORTS 2 HD (LAT)
-
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRlCTEkwnABVAOX28byb91LIHdg58GVD6gbDmqi-RjzTFr5jUDLQ" group-title="DEPORTES/ESPORTES",FOX SPORTS 3 (LAT)
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL178/PROFILE03.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRlCTEkwnABVAOX28byb91LIHdg58GVD6gbDmqi-RjzTFr5jUDLQ" group-title="DEPORTES/ESPORTES",FOX SPORTS 3 HD (LAT)
-
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3siiXt2YMBgW_LL0mfXCpTWNAwQ8t6IvyPMbCs76NSZrx7ti6NQ" group-title="DEPORTES/ESPORTES",FOX SPORTS ARGENTINA
 http://msdo.iptvsystem.cloud:8880/live/9oiua87waZ/213eOPlayuza/469.ts
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3siiXt2YMBgW_LL0mfXCpTWNAwQ8t6IvyPMbCs76NSZrx7ti6NQ" group-title="DEPORTES/ESPORTES",FOX SPORTS 1 HD (ARG)
-
 
 #EXTINF:-1 tvg-logo="http://midiafatos.com.br/wp-content/uploads/2017/02/fox_sports2_N.png" group-title="DEPORTES/ESPORTES",FOX SPORTS 2 (ARG)
 http://msdo.iptvsystem.cloud:8880/live/9oiua87waZ/213eOPlayuza/468.ts
@@ -3124,13 +3106,13 @@ http://msdo.iptvsystem.cloud:8880/live/9oiua87waZ/213eOPlayuza/453.ts
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SAZczO7.png" group-title="DEPORTES/ESPORTES",TYC (ARG)
-http://msdo.iptvsystem.cloud:8880/live/9oiua87waZ/213eOPlayuza/612.ts
+http://wohuogai.com:58000/live/SD_876yikjBSD86TOILAB/65hbjjt787iun/10365.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqVdAWvHK0jdTT2tHljMYdq_XEPmr9bQWkerZhrtDbKvY4qf3L" group-title="DEPORTES/ESPORTES",UFC FIGHTING (LAT)
 
 
 #EXTINF:-1 tvg-logo="http://www.deltatre.com/wp-content/uploads/2014/02/300px-black.png" group-title="DEPORTES/ESPORTES",UNIVISION DEPORTES (LAT)
-
+http://wohuogai.com:58000/live/SD_876yikjBSD86TOILAB/65hbjjt787iun/4984.ts
 
 #EXTINF:-1  tvg-logo="https://http2.mlstatic.com/2android-tv-box-750-canales-de-cable-canales-uruguayos-y-vtv-D_NQ_NP_884222-MLU26628807182_012018-F.jpg" group-title="DEPORTES/ESPORTES",VTV HD (URU)
 
@@ -3140,6 +3122,9 @@ http://msdo.iptvsystem.cloud:8880/live/9oiua87waZ/213eOPlayuza/612.ts
 
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-WCfCKAn5UrA/UVoy7xdxDLI/AAAAAAAAAtM/BLvz4QK-J_U/s320/WIN+SPORTS.png" group-title="DEPORTES/ESPORTES",WIN SPORTS HD (LAT)
 http://msdo.iptvsystem.cloud:8880/live/9oiua87waZ/213eOPlayuza/477.ts
+
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-WCfCKAn5UrA/UVoy7xdxDLI/AAAAAAAAAtM/BLvz4QK-J_U/s320/WIN+SPORTS.png" group-title="DEPORTES/ESPORTES",WIN SPORTS SD (LAT)
+http://wohuogai.com:58000/live/SD_876yikjBSD86TOILAB/65hbjjt787iun/29267.ts
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/W/wwe-logo-71A46059D8-seeklogo.com.png" group-title="DEPORTES/ESPORTES",WWE (USA)
 
