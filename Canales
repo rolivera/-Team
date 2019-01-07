@@ -123,8 +123,8 @@ http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/p
 #EXTINF:0 tvg-logo="http://www.mundocross.com.br/wp-content/uploads/2013/05/band.jpg" group-title="BRASIL",BAND (BR)
 http://maxptv.ddns.net:25461/live/MA020/0706/219.ts
 
-#EXTINF:0 tvg-logo="http://www.mundocross.com.br/wp-content/uploads/2013/05/band.jpg" group-title="BRASIL",BAND ALT (BR)
-
+#EXTINF:0 tvg-logo="http://www.mundocross.com.br/wp-content/uploads/2013/05/band.jpg" group-title="BRASIL",BAND FHD (BR)
+http://play.v4tv.com.br:80/Dimond/@dimond@/33087
 
 #EXTINF:0 tvg-logo="http://i.imgur.com/jtiMetX.png" group-title="BRASIL",CANAL RURAL (BR)
 http://67149o.ha.azioncdn.net/hlsmedium/playlist.m3u8
@@ -171,6 +171,9 @@ http://maxptv.ddns.net:25461/live/MA020/0706/60.ts
 #EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="BRASIL",RECORD (BR)
 http://maxptv.ddns.net:25461/live/MA020/0706/63.ts
 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="BRASIL",RECORD FHD (BR)
+http://play.v4tv.com.br:80/Dimond/@dimond@/33085
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="BRASIL",RECORD ACRITICA (BR)
 https://slbps-sambatech.akamaized.net/live/3256%2C7930%2C679f501d2054fc8514ea1fc28fe5f167%3Bbase64np%3BS52I5Up2XHDMC-c%21/amlst%3AS51w_Fc9WXHTS2s2/chunklist_b2146304.m3u8
 
@@ -179,6 +182,9 @@ http://srv9.zoeweb.tv:1935/zw901/smil:zw901.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="BRASIL",SBT SP (BR)
 http://maxptv.ddns.net:25461/live/MA020/0706/477.ts
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="BRASIL",SBT FHD (BR) 
+http://play.v4tv.com.br:80/Dimond/@dimond@/33086
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="BRASIL",SBT ALT (BR)
 https://5a1c76baf08c0.streamlock.net/z343-live/stream/playlist.m3u8
