@@ -285,26 +285,38 @@ http://edge1.cl.grupoz.cl/tser5/live/playlist.m3u8
 http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8
 #######################################
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXNs5DYEziILPGCMH8Ir4eAn6PnMUD9hmhYMmGsRxP_nNL9hC8" group-title="COLOMBIA",CANAL 1 (COL)
+http://shacktv.com:8080/live/skylar/skylar/61043.ts
+
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/co_cali-tv_m.png" group-title="COLOMBIA",CALI TV (COL)
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSetNpXYP8_CJaxAgqNbHdOyLcyrY9eQx7Dvv7X2RQwmpAWxYm9" group-title="COLOMBIA",CARACOL (COL)
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSetNpXYP8_CJaxAgqNbHdOyLcyrY9eQx7Dvv7X2RQwmpAWxYm9" group-title="COLOMBIA",CARACOL FHD (COL)
+http://shacktv.com:8080/live/skylar/skylar/61048.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSetNpXYP8_CJaxAgqNbHdOyLcyrY9eQx7Dvv7X2RQwmpAWxYm9" group-title="COLOMBIA",CARACOL HD (COL)
-http://niobzca.cf:8080/WilliamCor701/GimCGwWNxJ/68557
+http://shacktv.com:8080/live/skylar/skylar/61050.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSetNpXYP8_CJaxAgqNbHdOyLcyrY9eQx7Dvv7X2RQwmpAWxYm9" group-title="COLOMBIA",CARACOL INT (COL)
+http://shacktv.com:8080/live/skylar/skylar/61049.ts
 
 #EXTINF:-1 tvg-logo="https://static.telus.com/common/cms/images/tv/satellite/new-channel-logos/CityHD.png" group-title="COLOMBIA",CITY TV (COL)
-
+http://shacktv.com:8080/live/skylar/skylar/61042.ts
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/386408609/cnc2_400x400.png" group-title="COLOMBIA",CNC (COL)
 
 
+#EXTINF:-1 tvg-logo="https://images.mi.tv/channels/co_cosmovision_m.png" group-title="COLOMBIA",COSMOVISION (COL)
+http://shacktv.com:8080/live/skylar/skylar/61041.ts
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/959148019479470080/VIP_8lbP_400x400.jpg" group-title="COLOMBIA",MUNDO + (COL)
 http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://tvonlinegratis.com/wp-content/uploads/2014/06/NTN24-Mx-Logo.jpg" group-title="COLOMBIA",NTN24 (COL)
+http://shacktv.com:8080/live/skylar/skylar/61039.ts
+
 #EXTINF:-1 tvg-logo="https://www.vidaentv.com/wp-content/uploads/2015/11/rcn-television.jpg" group-title="COLOMBIA",RCN HD (COL)
-http://niobzca.cf:8080/WilliamCor701/GimCGwWNxJ/116087
+http://shacktv.com:8080/live/skylar/skylar/61047.ts
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.revistaquetal.com/wp-content/uploads/2013/10/rcn-television.jpg" group-title="COLOMBIA",RCN NOVELAS (COL)
 http://niobzca.cf:8080/WilliamCor701/GimCGwWNxJ/107066
@@ -700,6 +712,9 @@ http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8?GrupoTopIptv
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/mx_xeipn-canal-11_m.png" group-title="MEXICO",CANAL ONCE (MEX)
 https://180ce25c70.site.internapcdn.net/ryta_live/chunklist_b481072.m3u8
 
+#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/mx_xeipn-canal-11_m.png" group-title="MEXICO",CANAL ONCE HD (MEX)
+http://shacktv.com:8080/live/skylar/skylar/66.ts
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQV1yZ7r6BAaZQPVeHlMXb0kdLrcRWVIhivLdm7NCSU1woy3pd" group-title="MEXICO",CAPITAL 21 (MEX)
 http://23.227.189.81/ciudadtv/abr_ciudadtv/playlist.m3u8?GrupoTopIptv
 
@@ -717,6 +732,9 @@ http://niobzca.cf:8080/WilliamCor701/GimCGwWNxJ/77740
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DHOocZiU0AE30ro.png" group-title="MEXICO",MULTIMEDIOS (MEX)
 http://mdstrm.com/live-stream-playlist_400/57b4dbf5dbbfc8f16bb63ce1.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DHOocZiU0AE30ro.png" group-title="MEXICO",MULTIMEDIOS HD (MEX)
+http://shacktv.com:8080/live/skylar/skylar/67.ts
 
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/MULTIMEDIOS.png" group-title="MEXICO",MULTIMEDIOS + (MEX)
 http://live.gvstream.net:1935/e-tv-video/play.stream/playlist.m3u8
@@ -2531,7 +2549,7 @@ http://maxptv.ddns.net:25461/live/MA020/0706/217.ts
 http://play.v4tv.com.br:80/Dimond/@dimond@/33084
 
 #EXTINF:-1 tvg-logo="http://photocall.tv/images/cablenoticias.png" group-title="NOTICIAS",CABLE NOTICIAS
-
+http://shacktv.com:8080/live/skylar/skylar/61018.ts
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/ACSszfGisYWNpmm3w7q0GU_tzvbjg7dPdW6FiVdYgw=s900-mo-c-c0xffffffff-rj-k-no" group-title="NOTICIAS",CANAL 26 (ARG)
 http://200.115.193.177/live/26hd-180/playlist.m3u8?GrupoTopIptv
@@ -2603,7 +2621,7 @@ http://shacktv.com:8080/live/skylar/skylar/81.ts
 http://shacktv.com:8080/live/skylar/skylar/104939.ts
 
 #EXTINF:-1 tvg-logo="https://identidaddemarca.files.wordpress.com/2014/02/animal-planet.jpg" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",ANIMAL PLANET (LAT)
-http://niobzca.cf:8080/WilliamCor701/GimCGwWNxJ/68553
+http://shacktv.com:8080/live/skylar/skylar/80.ts
 
 #EXTINF:-1 tvg-logo="https://identidaddemarca.files.wordpress.com/2014/02/animal-planet.jpg" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",ANIMAL PLANET HD (LAT)
 http://shacktv.com:8080/live/skylar/skylar/104936.ts
