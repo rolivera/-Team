@@ -1071,35 +1071,62 @@ http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/p
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/062010/AMCHepburn_B.png?itok=18X2cfEC" group-title="PREMIUM ESPAÑA 4K",AMC 4K
 http://217.182.134.24:80/MlRRupQoZZ/pI5TGS3aDY/775
 
-#EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/062010/AMCHepburn_B.png?itok=18X2cfEC" group-title="PREMIUM ESPAÑA 4K",AMC 4K alt
-http://217.182.134.24:80/live/MlRRupQoZZ/pI5TGS3aDY/775.m3u8
+#EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/062010/AMCHepburn_B.png?itok=18X2cfEC" group-title="PREMIUM ESPAÑA 4K",AMC 4K (ALT)
+http://217.182.134.24:80/live/MlRRupQoZZ/pI5TGS3aDY/775.ts
 
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/axn.png" group-title="PREMIUM ESPAÑA 4K",AXN 4K
 http://217.182.134.24:80/MlRRupQoZZ/pI5TGS3aDY/772
 
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/axn.png" group-title="PREMIUM ESPAÑA 4K",AXN 4K (ALT)
+http://217.182.134.24:80/live/MlRRupQoZZ/pI5TGS3aDY/772.ts
+
 #EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/a/x/n/xaxn-white.jpg.pagespeed.ic.xxd_c-wHeJ.jpg" group-title="PREMIUM ESPAÑA 4K",AXN WHITE 4K
 http://217.182.134.24:80/MlRRupQoZZ/pI5TGS3aDY/768
+
+#EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/a/x/n/xaxn-white.jpg.pagespeed.ic.xxd_c-wHeJ.jpg" group-title="PREMIUM ESPAÑA 4K",AXN WHITE 4K (ALT)
+http://217.182.134.24:80/live/MlRRupQoZZ/pI5TGS3aDY/768.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUBd5jaD23YZpB4GByN2XQaMzyEqv-TwWxAOiGmJmWLZExUKsU" group-title="PREMIUM ESPAÑA 4K",CALLE 13 4K
 http://217.182.134.24:80/MlRRupQoZZ/pI5TGS3aDY/757
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUBd5jaD23YZpB4GByN2XQaMzyEqv-TwWxAOiGmJmWLZExUKsU" group-title="PREMIUM ESPAÑA 4K",CALLE 13 4K (ALT)
+http://217.182.134.24:80/live/MlRRupQoZZ/pI5TGS3aDY/757.ts
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk2L_0EE2jt_sItp2iLLQ-Y2ZaywU3N09eUKSDkN4AZaEKR509" group-title="PREMIUM ESPAÑA 4K",COMEDY CENTRAL 4K
 http://217.182.134.24:80/MlRRupQoZZ/pI5TGS3aDY/788
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk2L_0EE2jt_sItp2iLLQ-Y2ZaywU3N09eUKSDkN4AZaEKR509" group-title="PREMIUM ESPAÑA 4K",COMEDY CENTRAL 4K (ALT)
+http://217.182.134.24:80/live/MlRRupQoZZ/pI5TGS3aDY/788.ts
 
 #EXTINF:-1 tvg-logo="https://www.comparaiso.es/images/logo-canal-fox.jpg" group-title="PREMIUM ESPAÑA 4K",FOX 4K
 http://217.182.134.24:80/MlRRupQoZZ/pI5TGS3aDY/781
 
+#EXTINF:-1 tvg-logo="https://www.comparaiso.es/images/logo-canal-fox.jpg" group-title="PREMIUM ESPAÑA 4K",FOX 4K (ALT)
+http://217.182.134.24:80/live/MlRRupQoZZ/pI5TGS3aDY/781.ts
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBxRngi3ew3yGlLHn0MMtIRN252b1GDFdLBlNBVGjrJne_8V-C" group-title="PREMIUM ESPAÑA 4K",FOX LIFE 4K
 http://217.182.134.24:80/MlRRupQoZZ/pI5TGS3aDY/778
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBxRngi3ew3yGlLHn0MMtIRN252b1GDFdLBlNBVGjrJne_8V-C" group-title="PREMIUM ESPAÑA 4K",FOX LIFE 4K (ALT)
+http://217.182.134.24:80/live/MlRRupQoZZ/pI5TGS3aDY/778.ts
 
 #EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/c/a/n/xcanal-hollywood.jpg.pagespeed.ic.3xWEdRqWBS.jpg" group-title="PREMIUM ESPAÑA 4K",HOLLYWOOD 4K
 http://217.182.134.24:80/MlRRupQoZZ/pI5TGS3aDY/785
 
+#EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/c/a/n/xcanal-hollywood.jpg.pagespeed.ic.3xWEdRqWBS.jpg" group-title="PREMIUM ESPAÑA 4K",HOLLYWOOD 4K (ALT)
+http://217.182.134.24:80/live/MlRRupQoZZ/pI5TGS3aDY/785.ts
+
 #EXTINF:-1 tvg-logo="https://www.audiovisual451.com/wp-content/uploads/Syfy-2017.jpg" group-title="PREMIUM ESPAÑA 4K",SYFY 4K
 http://217.182.134.24:80/MlRRupQoZZ/pI5TGS3aDY/766
 
+#EXTINF:-1 tvg-logo="https://www.audiovisual451.com/wp-content/uploads/Syfy-2017.jpg" group-title="PREMIUM ESPAÑA 4K",SYFY 4K (ALT)
+http://217.182.134.24:80/live/MlRRupQoZZ/pI5TGS3aDY/766.ts
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmBj3tSUTscUrjEL0pTozuRErcuGO-iTG8iHJGyY0y9ObJzJpw" group-title="PREMIUM ESPAÑA 4K",TCM 4K
 http://217.182.134.24:80/MlRRupQoZZ/pI5TGS3aDY/760
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmBj3tSUTscUrjEL0pTozuRErcuGO-iTG8iHJGyY0y9ObJzJpw" group-title="PREMIUM ESPAÑA 4K",TCM 4K (ALT)
+http://217.182.134.24:80/live/MlRRupQoZZ/pI5TGS3aDY/760.ts
 
 ######################################################################################################################################
 ####################################### PREMIUM LATINA 1
