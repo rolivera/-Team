@@ -133,10 +133,10 @@ http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/p
 #######################################
 
 #EXTINF:0 tvg-logo="http://www.mundocross.com.br/wp-content/uploads/2013/05/band.jpg" group-title="BRASIL",BAND (BR)
-
+http://x.mytvxweb.co:25461/live/Gary/Gary/14609.ts
 
 #EXTINF:0 tvg-logo="http://www.mundocross.com.br/wp-content/uploads/2013/05/band.jpg" group-title="BRASIL",BAND FHD (BR)
-http://play.v4tv.com.br:80/Dimond/@dimond@/33087
+
 
 #EXTINF:0 tvg-logo="http://i.imgur.com/jtiMetX.png" group-title="BRASIL",CANAL RURAL (BR)
 http://67149o.ha.azioncdn.net/hlsmedium/playlist.m3u8
@@ -178,13 +178,13 @@ http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
 http://evpp.mm.uol.com.br:1935/redetv2/redetv2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/k4haEx6.png" group-title="BRASIL",REDE TV (BR)
-
+http://x.mytvxweb.co:25461/live/Gary/Gary/27552.ts
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="BRASIL",RECORD (BR)
 http://maxptv.ddns.net:25461/live/MA020/0706/63.ts
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="BRASIL",RECORD FHD (BR)
-http://play.v4tv.com.br:80/Dimond/@dimond@/33085
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="BRASIL",RECORD HD (BR)
+http://x.mytvxweb.co:25461/live/Gary/Gary/27551.ts
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="BRASIL",RECORD ACRITICA (BR)
 https://slbps-sambatech.akamaized.net/live/3256%2C7930%2C679f501d2054fc8514ea1fc28fe5f167%3Bbase64np%3BS52I5Up2XHDMC-c%21/amlst%3AS51w_Fc9WXHTS2s2/chunklist_b2146304.m3u8
@@ -195,8 +195,8 @@ http://srv9.zoeweb.tv:1935/zw901/smil:zw901.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="BRASIL",SBT SP (BR)
 http://maxptv.ddns.net:25461/live/MA020/0706/477.ts
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="BRASIL",SBT FHD (BR) 
-http://play.v4tv.com.br:80/Dimond/@dimond@/33086
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="BRASIL",SBT HD (BR) 
+http://x.mytvxweb.co:25461/live/Gary/Gary/8947.ts
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="BRASIL",SBT SD (BR)
 https://5a1c76baf08c0.streamlock.net/z343-live/stream/playlist.m3u8
@@ -1726,7 +1726,7 @@ http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/p
 
 
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/axn.png" group-title="PREMIUM BRASIL 1",AXN (BR)
-http://play.v4tv.com.br:80/Dimond/@dimond@/33075
+
 
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cine/16.png" group-title="PREMIUM BRASIL 1",CINEMAX (BR)
 
