@@ -41,6 +41,9 @@ http://tv.latintvweb.com:25461/live/ramond878/zHhzXY5zEz/99727.ts
 #EXTINF:-1 tvg-logo="http://www.fotosdigitalesgratis.com/noticias/fotos/C5N-Logo.jpg" group-title="ARGENTINA",C5N (ARG)
 http://x.mytvxweb.co:25461/live/Gary/Gary/282410.ts
 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/AN66SAzYgvXCIz4_GNRy-geLNEO1rgEgFxJGvluVdg=s900-mo-c-c0xffffffff-rj-k-no" group-title="ARGENTINA",CHACO TV (ARG)
+rtmp://debred5.ecomchaco.com.ar/oflaDemo/j8gz-9fr9-vtwr-4a7t
+
 #EXTINF:-1 tvg-logo="http://photocall.tv/images/canal4j.png" group-title="ARGENTINA",CANAL 4 JUJUY (ARG)
 http://190.52.32.13:1935/canal4/smil:manifest.smil/playlist.m3u8
 
@@ -225,6 +228,9 @@ http://slrp.sambavideos.sambatech.com/liveevent/acerpTvINESABR_d360fbbfbf3e5e59a
 http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8
 #######################################
 
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR6QPnA3tRUYOPEQGQIg69vX95LbXkpnA7saigV41hiSexzygH" group-title="BOLIVIA",ACTIVA TV (BOL)
+http://200.58.160.67:8081/envivo/activatv/playlist.m3u8
+
 #EXTINF:-1  tvg-logo="https://www.oxigeno.bo/sites/default/files/styles/standar_640x480/public/field/image/atb-bolivia-en-vivo.gif?itok=4_e-Ehfa" group-title="BOLIVIA",ATB (BOL)
 http://stmv1.questreaming.com/atb/atb/playlist.m3u8
 
@@ -232,7 +238,16 @@ http://stmv1.questreaming.com/atb/atb/playlist.m3u8
 http://api.new.livestream.com/accounts/10468276/events/3485826/live.m3u8
 
 #EXTINF:-1  tvg-logo="https://www.foromedios.com/uploads/gallery/category_6/gallery_9461_6_34035.png" group-title="BOLIVIA",CADENA A (BOL)
+http://136.243.3.70:1935/CadenaA/CadenaA/playlist.m3u8
 
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyRQjxTL5wsGIcl21ge2JGC7UuOM28VJI8Nqx_dY-13W91nyB7" group-title="BOLIVIA",CATOLICA TV (BOL)
+http://136.243.3.70:1935/CatolicaTv/CatolicaTv/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/3193462255/e1e0b6e7fd2c6a19d238ff4021cc5b82_400x400.jpeg" group-title="BOLIVIA",CRISTAL TV (BOL)
+http://america.tucableip.com/bolivia/cristaltv/tracks-v1a1/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy4mo2sPv4aNU7buJPIlGpmheLxqDkeQysLCT_s2C79UvFWJm6" group-title="BOLIVIA",MEGA TV (BOL)
+http://hdp2.imd.la:1935/megatv/megatv/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrEnOqKxTxKUAAan2ZQPPFV3KQT6npVkQmGbm1XZdsWdot8XN7" group-title="BOLIVIA",PAT LA PAZ (BOL)
 http://192.99.38.174:1935/patbolivia/patlapaz/playlist.m3u8
@@ -1055,15 +1070,20 @@ https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/480p/chunklist.m3u8?GrupoTopIpt
 http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8
 #######################################
 
+#EXTINF:-1 tvg-logo="http://acsnetwork.tv/uploads/4/4/9/7/4497966/8277950.png" group-title="CANALES DE CINE",ACS RETRO (LAT)
+http://inliveserver.com:1935/8468/8468/chunklist_w773874421.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDCdzFfbEhIrPKuMpMyf3hZXiV0lR3X-corM7t8VT0uURgzDEk" group-title="CANALES DE CINE",CINE SKY (BR)
 http://stmv2.srvstm.com:1935/tvjsid/tvjsid/playlist.m3u8?GrupoTopIptv
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP_Dx7uNnIgFqoU4L7v6Woz_ULpNeuwHwH1YRpfpbGhUkyaYXt" group-title="CANALES DE CINE",FMHOT PELICULAS (LAT)
 http://fmhot.04.cl.cdnz.cl/fmhot/smil:cdn.smil/playlist.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://data.whicdn.com/images/9008831/original.jpg" group-title="CANALES DE CINE",TODO O MUNDO ODEIA O CHRIS (BR)
 http://apk26.futeboltvgratis.com/live/10/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://scontent-ams3-1.cdninstagram.com/vp/9fcc491fc9e527a6588360df75517bfb/5C6FCF63/t51.2885-19/s320x320/40036448_2078304672188117_153828673227587584_n.jpg" group-title="CANALES DE CINE",WOW! (LAT)
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 
 ######################################################################################################################################
 ####################################### PREMIUM ESPAÑA 4K
@@ -2250,7 +2270,7 @@ http://tv.latintvweb.com:25461/live/ramond878/zHhzXY5zEz/15094.ts
 http://shacktv.com:8080/live/skylar/skylar/68.ts
 
 #EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/file_1528172622.png" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",CACHIPUM (LAT)
-
+http://edge1.cl.grupoz.cl/cachipuntv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/ar_cartoon-network_m.png" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",CARTOON NETWORK (LAT)
 http://tv.latintvweb.com:25461/live/ramond878/zHhzXY5zEz/92718.ts
