@@ -117,7 +117,7 @@ http://149.56.98.124:9090/hls/telesol_hi.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/506483696065449984/BATn-jAe.png" group-title="ARGENTINA",TELPIN (ARG)
 
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/905781904368119808/NayEUHrO_400x400.jpg" group-title="ARGENTINA",TLX (ARG)
+#EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/11/e455d-tlx.png" group-title="ARGENTINA",TLX (ARG)
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?iptvgratis?chile.m3u8?GrupoTopIptv
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgFkbskDV-X74CxrRJ0ZB9Zki2awvV7CmpLxBCMEbFJP1z6Pgc" group-title="ARGENTINA",TN (ARG)
@@ -276,7 +276,7 @@ http://live.hls.http.chv.ztreaming.com/chvhddesktop/chv-desktop.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmrMfXPxBwW9gjut8h0MtswJVm4OgMgjiFKynmxgVogTKSx4Td" group-title="CHILE",EL PINGÜINO (CHI)
 http://streaming.elpinguino.com:1935/live/pinguinotv_720p/hasbahca.m3u8?GrupoTopIptv
 
-#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/625685641167302657/etQtx5KT_400x400.jpg" group-title="CHILE", HOLVOET TV (CHI)
+#EXTINF:0 tvg-logo="https://i.imgur.com/vrXZmdv.jpg" group-title="CHILE", HOLVOET TV (CHI)
 http://unlimited5-cl.dps.live/holvoettv/holvoettv.smil/playlist.m3u8?GrupoTopIptv
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/ACSszfGRaEtnwbupF5tZkkiKXDnY2yRVkaEzN7OkKQ=s900-mo-c-c0xffffffff-rj-k-no" group-title="CHILE",LA RED (CHI)
@@ -505,6 +505,9 @@ http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8?GrupoTopIptv
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvh7dp7ns5cNJSOZEKUK7_WCBSlGSCB3umYRgrV-Ah9grvpkPi" group-title="ESPAÑA",MEGA (ESP)
 
 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/AAuE7mB3gxynIi-smWj1HKNoICgjt9yl47jXMo92ug=s900-mo-c-c0xffffffff-rj-k-no" group-title="ESPAÑA",MEZZO (ESP)
+http://ott-cdn.ucom.am/s35/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-accion.jpg.pagespeed.ic.8XNnGybpzf.jpg" group-title="ESPAÑA",MOVISTAR ACCION (ESP)
 
 
@@ -654,10 +657,10 @@ http://tv.latintvweb.com:25461/live/ramond878/zHhzXY5zEz/104640.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8nx1IJG-alN8kVZ9TAr15zFOv5IDgWWKi4hpj03wGHytpEaFA" group-title="MEXICO",AZ CINEMA (MEX)
 http://tv.latintvweb.com:25461/live/ramond878/zHhzXY5zEz/92484.ts
 
-#EXTINF:-1 tvg-logo="http://ioiptv.com/logos/Az_clic.png" group-title="MEXICO",AZ CLIC (MEX)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTahIZ1sySofgk1SiM7YzAeSj_b-3FQMQKS4CqX4xqkDXgyuw4D" group-title="MEXICO",AZ CLIC (MEX)
 
 
-#EXTINF:-1 tvg-logo="http://ioiptv.com/logos/Az_clic.png" group-title="MEXICO",AZ CLIC HD (MEX)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTahIZ1sySofgk1SiM7YzAeSj_b-3FQMQKS4CqX4xqkDXgyuw4D" group-title="MEXICO",AZ CLIC HD (MEX)
 http://tv.latintvweb.com:25461/live/ramond878/zHhzXY5zEz/92485.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5CEL5MTsJ8EoAgeQISqhFDVa1Vlx-bh5GLPQKXmbwudkCsa58" group-title="MEXICO",AZ CORAZON (MEX)
@@ -979,7 +982,7 @@ http://tv.latintvweb.com:25461/live/ramond878/zHhzXY5zEz/104716.ts
 #EXTINF:-1 tvg-logo="https://melidablog.files.wordpress.com/2011/12/tele.jpg" group-title="R.DOMINICANA",TELEUNION (DOM)
 
 
-#EXTINF:-1 tvg-logo="http://dominicanchannels.net/wp-content/uploads/2013/07/teleuniverso291.png" group-title="R.DOMINICANA",TELEUNIVERSO (DOM)
+#EXTINF:-1 tvg-logo="https://lh6.ggpht.com/JfTi5pySjHnzB5oMrkk3M_RhjSkTraANU0eqSJurvwOtMFf1OzRq1g48vMMUedMbpw=w300" group-title="R.DOMINICANA",TELEUNIVERSO (DOM)
 http://ss1.domint.net:2302/tu_str/universo/playlist.m3u8
 
 ######################################################################################################################################
@@ -3144,8 +3147,14 @@ http://play.v4tv.com.br:80/Dimond/@dimond@/33048
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYK9-kmfLI9aWUNrqy-vqOGJK-vE39iPrYaYihATMKYyzSN86f" group-title="DEPORTES/ESPORTES",SPORT TV 1 (PT)
 http://62.210.124.106:8000/live/aplicacao/scp4ever/10.ts
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYK9-kmfLI9aWUNrqy-vqOGJK-vE39iPrYaYihATMKYyzSN86f" group-title="DEPORTES/ESPORTES",SPORT TV 1 HD (PT)
+https://livebar.pw/lba/123/g5/tv1pt.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL3yGNjg04bArAFATthvYBXJ_TS2UCzLw1rcs-pOBelB0DIWAU" group-title="DEPORTES/ESPORTES",SPORT TV 2 (PT)
 http://62.210.124.106:8000/live/aplicacao/scp4ever/11.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL3yGNjg04bArAFATthvYBXJ_TS2UCzLw1rcs-pOBelB0DIWAU" group-title="DEPORTES/ESPORTES",SPORT TV 2 HD (PT)
+https://livebar.pw/lba/123/g7/sport2port.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8btmXxM-f9rwFEeFGEEYMrdQ5HbjWNGsS_BxRgFWfFihXjfKd" group-title="DEPORTES/ESPORTES",SPORT TV 3 (PT)
 http://62.210.124.106:8000/live/aplicacao/scp4ever/12.ts
