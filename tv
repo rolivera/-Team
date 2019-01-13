@@ -835,6 +835,12 @@ http://tv.latintvweb.com:25461/live/ramond878/zHhzXY5zEz/98906.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi7dwi6zcgfauHR07Vmz3dLsR5pAEOVOpxLS0fYGzC2Br3LvKK" group-title="PERU",BHTV (PER)
 
 
+#EXTINF:-1 tvg-logo="https://cablenetword.com/img/logo/logo.png" group-title="PERU",CABLE NETWORD (PER)
+http://tv.sowertec.com:1935/8056/8056/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/955926848633896960/A2mdQIJU_400x400.jpg" group-title="PERU",CADENA TV (PER)
+http://play.hostreamperu.com:1935/8158/8158/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/mN77jXVHOfnBZnNb3egQucG0zkW9ThxDBl_gh_DGTttV6wCVxCJyjXP-tEwEBqJZmsU=h300" group-title="PERU",CANAL CAPITAL (PER)
 http://streaming.video.webrpp-live.hls.adaptive.level3.net/hls-live/videoremux-videoCAPTV/_definst_/live.m3u8?GrupoTopIptv
 
@@ -844,23 +850,38 @@ http://streaming.video.webrpp-live.hls.adaptive.level3.net/hls-live/videoremux-v
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/875664704764608512/L-8xnjNf_400x400.jpg" group-title="PERU",CENTRAL TV (PER)
 
 
+#EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/3781231/logo_cultura%2024.png" group-title="PERU",CULTURA 24 TV (PER)
+http://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/ACSszfFVNcSlXXCOT6fSG7I2X_ou6x1r89XeCNUZ2g=s900-mo-c-c0xffffffff-rj-k-no" group-title="PERU",DIGITAL TV (PER)
 http://uvodscp-lh.akamaihd.net:80/i/ped001rtmp_1@460473/master.m3u8?GrupoTopIptv
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnPdNy3TJzOa3MMS7cUwaW4MLmd4bgCinnQv31EkLwedo5pKRk" group-title="PERU",IPE (PER)
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/565018162916114432/7h5k-iqC_400x400.png" group-title="PERU",JN19 (PER)
+http://movil.mediastream.pe/vv_manosdios/livestream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1JIzoLMktUf6pIoKgynYr_TbzBcp1XxuIEykq-0wudlssNPSu" group-title="PERU",LATINA
 http://tv.latintvweb.com:25461/live/ramond878/zHhzXY5zEz/95031.ts
 
+#EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/2414323/logo_mega%20tv.png" group-title="PERU",MEGA TV 
+http://play.hostreamperu.com:1935/8016/8016/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://img.panamericana.pe/noticia/600-1480520362248.jpg" group-title="PERU",PANAMERICANA TV (PER)
 http://tv.latintvweb.com:25461/live/ramond878/zHhzXY5zEz/95030.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcnyK-63wU6oD9OmlcE4isrUeeoaRuYx3L2R0yJOg1PEfWQ2hF" group-title="PERU",PAX TV (PER)
+http://d2fxrfbiedz1tm.cloudfront.net/livepaxtv/smil:PC.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv-yfQzSPYaXoCT59S8P0wmV_6acn3levjBnj5hiT3bvnHRgiJ" group-title="PERU",PERU MAGICO (PER)
 http://tv.latintvweb.com:25461/live/ramond878/zHhzXY5zEz/94998.ts
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/www.mercadonegro.pe/wp-content/uploads/2017/05/11150958_983024775048830_2466650008896508480_n.jpg?resize=336%2C336" group-title="PERU",PLUS TV (PER)
 http://tv.latintvweb.com:25461/live/ramond878/zHhzXY5zEz/94997.ts
+
+#EXTINF:-1 tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/horarios_73.png" group-title="PERU",TV NOTICIAS 7.3 (PER)
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIPE0002&mode=12
 
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-Mcc2xCpSKWQ/UF6PxaiQZYI/AAAAAAAACQU/BLm5ZUhxzfs/s1600/LOGOTVPERU.jpg" group-title="PERU",TV PERU (PER)
 http://tv.latintvweb.com:25461/live/ramond878/zHhzXY5zEz/94996.ts
@@ -2301,6 +2322,9 @@ http://shacktv.com:8080/live/skylar/skylar/52.ts
 
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/cl_disney-xd_m.png" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",DISNEY XD (LAT)
 http://tv.latintvweb.com:25461/live/ramond878/zHhzXY5zEz/92535.ts
+
+#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/cl_disney-xd_m.png" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",DISNEY XD SD (LAT)
+http://wowza2.mysoltv.com:1992/Latino_Disney_XD/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/cl_disney-xd_m.png" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",DISNEY XD HD (LAT)
 http://shacktv.com:8080/live/skylar/skylar/51.ts
