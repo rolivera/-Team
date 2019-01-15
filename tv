@@ -974,14 +974,11 @@ http://shacktv.com:8080/live/skylar/skylar/105586.ts
 http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8
 #######################################
 
-#EXTINF:-1 tvg-logo="https://zpapi.zetatv.com.uy/media/images/espn2-s.png"  group-title="USA",ESPN 2 
+#EXTINF:-1 tvg-logo="https://banner2.kisspng.com/20180421/uhq/kisspng-american-horror-story-asylum-television-show-frea-5adae6df775113.0924782615242953914887.jpg"  group-title="USA",AMERICAN HORROR (USA)
+http://170.178.189.66:1935/live/Stream1/.m3u8
+
+#EXTINF:-1 tvg-logo="https://zpapi.zetatv.com.uy/media/images/espn2-s.png"  group-title="USA",ESPN 2 (USA)
 http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/category_2/sml_gallery_1163_2_64.png"  group-title="USA",FOX CINEMA
-http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/sv_hbo-2_m.png"  group-title="USA",HBO 2
-http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
 
 #####################################################################################################################################
 ####################################### VENEZUELA
@@ -1055,6 +1052,9 @@ http://shacktv.com:8080/skylar/skylar/219
 #EXTINF:-1 tvg-logo="https://i1.wp.com/rucookiemunchers.com/wp-content/uploads/2018/03/fox-29-logo-square.jpg" group-title="PREMIUM USA",FOX 29 HD
 http://shacktv.com:8080/skylar/skylar/151
 
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/category_2/sml_gallery_1163_2_64.png"  group-title="USA",FOX CINEMA
+http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/031/original/pic_fx.png?1522177123" group-title="PREMIUM USA",FX HD
 http://shacktv.com:8080/skylar/skylar/150
 
@@ -1066,6 +1066,9 @@ http://shacktv.com:8080/skylar/skylar/259
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkw4LiQ03qo2whwu7N854sonl0f6wlGTKcovD9lx7rFVbyvOkf" group-title="PREMIUM USA",HBO HD
 http://shacktv.com:8080/skylar/skylar/248
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/sv_hbo-2_m.png"  group-title="USA",HBO 2
+http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dailydot.com/wp-content/uploads/3cf/89/hbocomedy.jpg" group-title="PREMIUM USA",HBO COMEDY HD
 http://shacktv.com:8080/skylar/skylar/258
@@ -1280,10 +1283,10 @@ http://shacktv.com:8080/live/skylar/skylar/104861.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2qqrrq69tbnXtGqAxErNZls8cvkG9YvGCguCYIP5hYkbuHD2K" group-title="PREMIUM LATINA 1",HBO (LAT)
 http://shacktv.com:8080/live/skylar/skylar/104852.ts
 
-#EXTINF:-1 tvg-logo="http://listaccess.me/Logo/HBO21.png" group-title="PREMIUM LATINA 1",HBO 2 (LAT)
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/sv_hbo-2_m.png" group-title="PREMIUM LATINA 1",HBO 2 (LAT)
 http://shacktv.com:8080/live/skylar/skylar/104856.ts
 
-#EXTINF:-1 tvg-logo="http://listaccess.me/Logo/HBO21.png" group-title="PREMIUM LATINA 1",HBO 2 FHD (LAT)
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/sv_hbo-2_m.png" group-title="PREMIUM LATINA 1",HBO 2 FHD (LAT)
 
 
 #EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/hbo-family-logo-320x320-745790760.png" group-title="PREMIUM LATINA 1",HBO FAMILY (LAT)
@@ -1472,7 +1475,7 @@ http://x.mytvxweb.co:25461/Gary/Gary/253270
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2qqrrq69tbnXtGqAxErNZls8cvkG9YvGCguCYIP5hYkbuHD2K" group-title="PREMIUM LATINA 2",HBO (LAT)
 http://x.mytvxweb.co:25461/Gary/Gary/282217
 
-#EXTINF:-1 tvg-logo="http://listaccess.me/Logo/HBO21.png" group-title="PREMIUM LATINA 2",HBO 2 (LAT)
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/sv_hbo-2_m.png" group-title="PREMIUM LATINA 2",HBO 2 (LAT)
 http://x.mytvxweb.co:25461/Gary/Gary/21369
 
 #EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/hbo-family-logo-320x320-745790760.png" group-title="PREMIUM LATINA 2",HBO FAMILY (LAT)
@@ -1655,7 +1658,7 @@ http://tv.latintvweb.com:25461/live/ramond878/zHhzXY5zEz/14988.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2qqrrq69tbnXtGqAxErNZls8cvkG9YvGCguCYIP5hYkbuHD2K" group-title="PREMIUM LATINA 3",HBO (LAT)
 http://tv.latintvweb.com:25461/live/ramond878/zHhzXY5zEz/75940.ts
 
-#EXTINF:-1 tvg-logo="http://listaccess.me/Logo/HBO21.png"  group-title="PREMIUM LATINA 3",HBO 2 (LAT)
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/sv_hbo-2_m.png"  group-title="PREMIUM LATINA 3",HBO 2 (LAT)
 http://tv.latintvweb.com:25461/live/ramond878/zHhzXY5zEz/88046.ts
 
 #EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/hbo-family-logo-320x320-745790760.png"  group-title="PREMIUM LATINA 3",HBO FAMILY (LAT)
@@ -1757,7 +1760,7 @@ http://185.152.66.67:25461/live/MA020/0706/141.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2qqrrq69tbnXtGqAxErNZls8cvkG9YvGCguCYIP5hYkbuHD2K" group-title="PREMIUM BRASIL 1",HBO (BR)
 http://185.152.66.67:25461/live/MA020/0706/128.ts
 
-#EXTINF:-1 tvg-logo="http://listaccess.me/Logo/HBO21.png" group-title="PREMIUM BRASIL 1",HBO 2 (BR)
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/sv_hbo-2_m.png" group-title="PREMIUM BRASIL 1",HBO 2 (BR)
 http://185.152.66.67:25461/live/MA020/0706/131.ts
 
 #EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/hbo-family-logo-320x320-745790760.png" group-title="PREMIUM BRASIL 1",HBO FAMILY (BR)
@@ -1877,7 +1880,7 @@ http://maxptv.ddns.net:25461/live/MA020/0706/141.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2qqrrq69tbnXtGqAxErNZls8cvkG9YvGCguCYIP5hYkbuHD2K" group-title="PREMIUM BRASIL 2",HBO (BR)
 http://maxptv.ddns.net:25461/live/MA020/0706/123.ts
 
-#EXTINF:-1 tvg-logo="http://listaccess.me/Logo/HBO21.png" group-title="PREMIUM BRASIL 2",HBO 2 (BR)
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/sv_hbo-2_m.png" group-title="PREMIUM BRASIL 2",HBO 2 (BR)
 http://maxptv.ddns.net:25461/live/MA020/0706/131.ts
 
 #EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/hbo-family-logo-320x320-745790760.png" group-title="PREMIUM BRASIL 2",HBO FAMILY (BR)
@@ -1994,7 +1997,7 @@ http://x.mytvxweb.co:25461/live/Gary/Gary/27514.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2qqrrq69tbnXtGqAxErNZls8cvkG9YvGCguCYIP5hYkbuHD2K" group-title="PREMIUM BRASIL 3",HBO (BR)
 http://x.mytvxweb.co:25461/live/Gary/Gary/14594.m3u8
 
-#EXTINF:-1 tvg-logo="http://listaccess.me/Logo/HBO21.png" group-title="PREMIUM BRASIL 3",HBO 2 (BR)
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/sv_hbo-2_m.png" group-title="PREMIUM BRASIL 3",HBO 2 (BR)
 
 
 #EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/hbo-family-logo-320x320-745790760.png" g group-title="PREMIUM BRASIL 3",HBO FAMILY (BR)
