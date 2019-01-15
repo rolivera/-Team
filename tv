@@ -456,6 +456,15 @@ http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0r1ym0HTNXXEv2AvzJEDJ0b4A2bcZkQAZ0PXklC2v7WuMQDMW" group-title="ESPAÑA",CANAL EXTREMADURA (ESP)
 http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6-aQmexQ_PYqTPcqJR4rGkg1FjRbzKift7z4yAgdPtZ808ckI" group-title="ESPAÑA",CGTN (ESP)
+https://livees.cgtn.com/1000e/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3a7IAnmU-JdDe2QAqRpvjNIpNMNs5DqBAZxPwCQtmz0RrDGF7" group-title="ESPAÑA",IB3 (ESP)
+http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/IB3.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.elnacional.cat/uploads/s1/39/93/72/tve1.png" group-title="ESPAÑA",LA 1 (ESP)
+http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl7/la1_lv3_aosv4_gl7/la1_lv3_aosv4_gl7.isml/la1_lv3_aosv4_gl7-audio=128000-video=400000.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRbBSeqhCzKdtYGp96qfMPmy_SmKvfaTX2FSQvn-2QFQpLFkLb" group-title="ESPAÑA",LEBRIJA TV (ESP)
 http://212.104.160.156:1935/live/lebrijatv2/playlist3.m3u8
 
@@ -473,6 +482,9 @@ http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_1_av-b.m3u8?GrupoTop
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6Tft2LL3b2HIUuB-RDDfjVDCv8CWtRT7OODGSa-pjqUo3EHrw" group-title="ESPAÑA",TV 3 (ESP)
 http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_galicia-tv_m.png" group-title="ESPAÑA",TV GALICIA (ESP)
+http://america-crtvg.flumotion.com/playlist.m3u8
 
 ######################################################################################################################################
 ####################################### HONDURAS
@@ -2102,7 +2114,7 @@ http://tv.latintvweb.com:25461/live/ramond878/zHhzXY5zEz/92521.ts
 http://shacktv.com:8080/live/skylar/skylar/104858.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqCEjZ3lJUZoJw2aKxy2MmN7iqGN2HMP_Kaqouz7vO0MuVChvZ" group-title="VARIEDADES" pltv-subgroup="VARIEDADES LATINO",FASHION TV (LAT)
-
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?_=1518069241
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpDsgfCUrov92J-y6RCge-3UYBBYhUED5diLnE_kbO1sjwdaZl" group-title="VARIEDADES" pltv-subgroup="VARIEDADES LATINO",FILM & ARTS (LAT)
 
