@@ -1413,19 +1413,25 @@ http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/p
 http://x.mytvxweb.co:25461/Gary/Gary/253354
 
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/062010/AMCHepburn_B.png?itok=18X2cfEC" group-title="PREMIUM LATINA 2",AMC LOOP (LAT)
-http://iptv.wtf:25461/live/suqeucsh/r9LH7e7xo5/14337.m3u8
+http://iptv.wtf:25461/live/suqeucsh/r9LH7e7xo5/14305.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/axn.png" group-title="PREMIUM LATINA 2",AXN (LAT)
 http://x.mytvxweb.co:25461/Gary/Gary/253349
 
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/axn.png" group-title="PREMIUM LATINA 2",AXN LOOP (LAT)
+http://iptv.wtf:25461/live/suqeucsh/r9LH7e7xo5/14337.m3u8
+
 #EXTINF:-1 tvg-logo="https://etb.com/hogares/img1/guia/logos/logo-cinec.jpg" group-title="PREMIUM LATINA 2",CINECANAL (LAT)
 http://x.mytvxweb.co:25461/Gary/Gary/253322
 
-#EXTINF:-1 tvg-logo="https://etb.com/hogares/img1/guia/logos/logo-cinec.jpg" group-title="PREMIUM LATINA 2",CINECANAL ALT (LAT)
-http://x.mytvxweb.co:25461/live/Gary/Gary/21411.ts
+#EXTINF:-1 tvg-logo="https://etb.com/hogares/img1/guia/logos/logo-cinec.jpg" group-title="PREMIUM LATINA 2",CINECANAL LOOP (LAT)
+http://iptv.wtf:25461/live/suqeucsh/r9LH7e7xo5/14303.m3u8
 
 #EXTINF:-1 tvg-logo="https://s3.castbox.fm/29/e1/43/98e45d48d39a208a4d9dd5c2f0.png" group-title="PREMIUM LATINA 2",CINE LATINO (LAT)
 http://x.mytvxweb.co:25461/Gary/Gary/247297
+
+#EXTINF:-1 tvg-logo="https://s3.castbox.fm/29/e1/43/98e45d48d39a208a4d9dd5c2f0.png" group-title="PREMIUM LATINA 2",CINE LATINO LOOP (LAT)
+http://iptv.wtf:25461/live/suqeucsh/r9LH7e7xo5/14304.m3u8
 
 #EXTINF:-1 tvg-logo="https://trademarks.justia.com/media/og_image.php?serial=85957958" group-title="PREMIUM LATINA 2",CINE DINAMITA (LAT)
 http://x.mytvxweb.co:25461/Gary/Gary/583
@@ -1433,50 +1439,71 @@ http://x.mytvxweb.co:25461/Gary/Gary/583
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cine/16.png" group-title="PREMIUM LATINA 2",CINEMAX (LAT)
 http://x.mytvxweb.co:25461/Gary/Gary/253321
 
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cine/16.png" group-title="PREMIUM LATINA 2",CINEMAX LOOP (LAT)
+http://iptv.wtf:25461/live/suqeucsh/r9LH7e7xo5/14302.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cine/16.png" group-title="PREMIUM LATINA 2",CINEMAX SUR (LAT)
 http://x.mytvxweb.co:25461/live/Gary/Gary/282054.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb2KPJFS7J7dW-Dtn2dozBF3p-873o-JJH5wZbjc9CdRfukM8R" group-title="PREMIUM LATINA 2",COMEDY CENTRAL (LAT)
 http://x.mytvxweb.co:25461/Gary/Gary/253316
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb2KPJFS7J7dW-Dtn2dozBF3p-873o-JJH5wZbjc9CdRfukM8R" group-title="PREMIUM LATINA 2",COMEDY CENTRAL ALT (LAT)
-http://x.mytvxweb.co:25461/live/Gary/Gary/21396.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb2KPJFS7J7dW-Dtn2dozBF3p-873o-JJH5wZbjc9CdRfukM8R" group-title="PREMIUM LATINA 2",COMEDY CENTRAL LOOP (LAT)
+http://iptv.wtf:25461/live/suqeucsh/r9LH7e7xo5/11283.m3u8
 
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/hn_de-pelicula_m.png" group-title="PREMIUM LATINA 2",DE PELICULA (LAT)
 http://x.mytvxweb.co:25461/live/Gary/Gary/253314.ts
 
-#EXTINF:-1 tvg-logo="https://images.mi.tv/channels/cl_dhe_m.png" group-title="PREMIUM LATINA 2",DHE (LAT)
+#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/hn_de-pelicula_m.png" group-title="PREMIUM LATINA 2",DE PELICULA LOOP (LAT)
+http://iptv.wtf:25461/live/suqeucsh/r9LH7e7xo5/11310.m3u8
 
+#EXTINF:-1 tvg-logo="https://images.mi.tv/channels/cl_dhe_m.png" group-title="PREMIUM LATINA 2",DHE LOOP (LAT)
+http://iptv.wtf:25461/live/suqeucsh/r9LH7e7xo5/14009.m3u8
 
 #EXTINF:-1 tvg-logo="http://conectateacablevision.mx/projects/commercialofferchannels/img/channels/233.png" group-title="PREMIUM LATINA 2",DISTRITO COMEDIA (LAT)
 http://x.mytvxweb.co:25461/live/Gary/Gary/253300.ts
 
+#EXTINF:-1 tvg-logo="http://conectateacablevision.mx/projects/commercialofferchannels/img/channels/233.png" group-title="PREMIUM LATINA 2",DISTRITO COMEDIA LOOP (LAT)
+http://iptv.wtf:25461/live/suqeucsh/r9LH7e7xo5/14083.m3u8
+
 #EXTINF:-1 tvg-logo="https://banner2.kisspng.com/20180329/heq/kisspng-logo-of-nbc-television-channel-fox-fox-5abc8ef9dcbf13.5561782615223068099042.jpg" group-title="PREMIUM LATINA 2",FOX (LAT)
 http://x.mytvxweb.co:25461/Gary/Gary/282267
 
-#EXTINF:-1 tvg-logo="https://banner2.kisspng.com/20180329/heq/kisspng-logo-of-nbc-television-channel-fox-fox-5abc8ef9dcbf13.5561782615223068099042.jpg" group-title="PREMIUM LATINA 2",FOX SUR (LAT)
-http://x.mytvxweb.co:25461/live/Gary/Gary/1800.ts
+#EXTINF:-1 tvg-logo="https://banner2.kisspng.com/20180329/heq/kisspng-logo-of-nbc-television-channel-fox-fox-5abc8ef9dcbf13.5561782615223068099042.jpg" group-title="PREMIUM LATINA 2",FOX LOOP (LAT)
+http://iptv.wtf:25461/live/suqeucsh/r9LH7e7xo5/14326.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/fox/fox-premium-action-oeste.png" group-title="PREMIUM LATINA 2",FOX ACTION (LAT)
 http://x.mytvxweb.co:25461/Gary/Gary/25492
 
-#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/fox/fox-premium-cinema.png" group-title="PREMIUM LATINA 2",FOX CINEMA (LAT)
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/fox/fox-premium-action-oeste.png" group-title="PREMIUM LATINA 2",FOX ACTION LOOP (LAT)
+http://iptv.wtf:25461/live/suqeucsh/r9LH7e7xo5/14023.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/fox/fox-premium-cinema.png" group-title="PREMIUM LATINA 2",FOX CINEMA LOOP (LAT)
+http://iptv.wtf:25461/live/suqeucsh/r9LH7e7xo5/14325.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/fox/fox-premium-comedy.png" group-title="PREMIUM LATINA 2",FOX COMEDY (LAT)
 http://x.mytvxweb.co:25461/live/Gary/Gary/282261.ts
 
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/fox/fox-premium-comedy.png" group-title="PREMIUM LATINA 2",FOX COMEDY LOOP (LAT)
+http://iptv.wtf:25461/live/suqeucsh/r9LH7e7xo5/14323.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/fox/fox-premium-family-oeste.png" group-title="PREMIUM LATINA 2",FOX FAMILY (LAT)
 http://x.mytvxweb.co:25461/Gary/Gary/18896
+
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/fox/fox-premium-family-oeste.png" group-title="PREMIUM LATINA 2",FOX FAMILY LOOP (LAT)
+http://iptv.wtf:25461/live/suqeucsh/r9LH7e7xo5/14322.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.i.haymarketmedia.asia/?n=campaign-asia%2Fcontent%2Ffoxlife_1200.png&h=570&w=855&q=100&v=20170226&c=1" group-title="PREMIUM LATINA 2",FOX LIFE (LAT)
 http://x.mytvxweb.co:25461/Gary/Gary/282259
 
-#EXTINF:-1 tvg-logo="https://cdn.i.haymarketmedia.asia/?n=campaign-asia%2Fcontent%2Ffoxlife_1200.png&h=570&w=855&q=100&v=20170226&c=1" group-title="PREMIUM LATINA 2",FOX LIFE ALT (LAT)
-http://x.mytvxweb.co:25461/live/Gary/Gary/282035.ts
+#EXTINF:-1 tvg-logo="https://cdn.i.haymarketmedia.asia/?n=campaign-asia%2Fcontent%2Ffoxlife_1200.png&h=570&w=855&q=100&v=20170226&c=1" group-title="PREMIUM LATINA 2",FOX LIFE LOOP (LAT)
+http://iptv.wtf:25461/live/suqeucsh/r9LH7e7xo5/14321.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/fox/fox-premium-movies-hd.png" group-title="PREMIUM LATINA 2",FOX MOVIES (LAT)
 http://x.mytvxweb.co:25461/Gary/Gary/253283
+
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/fox/fox-premium-movies-hd.png" group-title="PREMIUM LATINA 2",FOX MOVIES LOOP (LAT)
+http://iptv.wtf:25461/live/suqeucsh/r9LH7e7xo5/14027.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/fox/fox-premium-series-hd.png" group-title="PREMIUM LATINA 2",FOX SERIES (LAT)
 http://x.mytvxweb.co:25461/Gary/Gary/25207
@@ -1484,17 +1511,26 @@ http://x.mytvxweb.co:25461/Gary/Gary/25207
 #EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/031/original/pic_fx.png?1522177123" group-title="PREMIUM LATINA 2",FX (LAT)
 http://x.mytvxweb.co:25461/Gary/Gary/282027
 
-#EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/031/original/pic_fx.png?1522177123" group-title="PREMIUM LATINA 2",FX SUR (LAT)
-http://x.mytvxweb.co:25461/live/Gary/Gary/282237.ts
+#EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/031/original/pic_fx.png?1522177123" group-title="PREMIUM LATINA 2",FX LOOP (LAT)
+http://iptv.wtf:25461/live/suqeucsh/r9LH7e7xo5/14316.m3u8
 
 #EXTINF:-1 tvg-logo="https://mark.trademarkia.com/logo-images/twentieth-century-fox-film-corporation/fxm-85399565.jpg" group-title="PREMIUM LATINA 2",FXM (LAT)
 http://x.mytvxweb.co:25461/Gary/Gary/282236
 
+#EXTINF:-1 tvg-logo="https://mark.trademarkia.com/logo-images/twentieth-century-fox-film-corporation/fxm-85399565.jpg" group-title="PREMIUM LATINA 2",FXM LOOP (LAT)
+http://iptv.wtf:25461/live/suqeucsh/r9LH7e7xo5/11346.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ15I-qMw2afrKrElYPAQ9mmtr6NascIfrntW5T_sv8wHPmDyN" group-title="PREMIUM LATINA 2",GOLDEN (LAT)
 http://x.mytvxweb.co:25461/Gary/Gary/253272
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ15I-qMw2afrKrElYPAQ9mmtr6NascIfrntW5T_sv8wHPmDyN" group-title="PREMIUM LATINA 2",GOLDEN LOOP (LAT)
+http://iptv.wtf:25461/live/suqeucsh/r9LH7e7xo5/14299.m3u8
+
 #EXTINF:-1 tvg-logo="http://vivotvtv.com/wp-content/uploads/2018/04/Golden-Edge-en-vivo-277x156.jpg" group-title="PREMIUM LATINA 2",GOLDEN EDGE (LAT)
 http://x.mytvxweb.co:25461/Gary/Gary/253271
+
+#EXTINF:-1 tvg-logo="http://vivotvtv.com/wp-content/uploads/2018/04/Golden-Edge-en-vivo-277x156.jpg" group-title="PREMIUM LATINA 2",GOLDEN EDGE LOOP (LAT)
+http://iptv.wtf:25461/live/suqeucsh/r9LH7e7xo5/14298.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_12/large.5a2417c8b455b_GoldenPlus(Negro).png.9534b5113b089f65d6e76b2dd7645820.png" group-title="PREMIUM LATINA 2",GOLDEN PLUS (LAT)
 http://x.mytvxweb.co:25461/Gary/Gary/253270
@@ -1505,32 +1541,56 @@ http://x.mytvxweb.co:25461/Gary/Gary/253270
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2qqrrq69tbnXtGqAxErNZls8cvkG9YvGCguCYIP5hYkbuHD2K" group-title="PREMIUM LATINA 2",HBO (LAT)
 http://x.mytvxweb.co:25461/Gary/Gary/282217
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2qqrrq69tbnXtGqAxErNZls8cvkG9YvGCguCYIP5hYkbuHD2K" group-title="PREMIUM LATINA 2",HBO LOOP (LAT)
+http://iptv.wtf:25461/live/suqeucsh/r9LH7e7xo5/14297.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/sv_hbo-2_m.png" group-title="PREMIUM LATINA 2",HBO 2 (LAT)
 http://x.mytvxweb.co:25461/Gary/Gary/21369
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/sv_hbo-2_m.png" group-title="PREMIUM LATINA 2",HBO 2 LOOP (LAT)
+http://iptv.wtf:25461/live/suqeucsh/r9LH7e7xo5/14296.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/hbo-family-logo-320x320-745790760.png" group-title="PREMIUM LATINA 2",HBO FAMILY (LAT)
 http://x.mytvxweb.co:25461/Gary/Gary/282216
 
+#EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/hbo-family-logo-320x320-745790760.png" group-title="PREMIUM LATINA 2",HBO FAMILY LOOP (LAT)
+http://iptv.wtf:25461/live/suqeucsh/r9LH7e7xo5/14295.m3u8
+
 #EXTINF:-1 tvg-logo="http://contenidos.cablevision.com.mx/guia_programacion/channels/634.png" group-title="PREMIUM LATINA 2",HBO PLUS (LAT)
 http://x.mytvxweb.co:25461/Gary/Gary/282215
+
+#EXTINF:-1 tvg-logo="http://contenidos.cablevision.com.mx/guia_programacion/channels/634.png" group-title="PREMIUM LATINA 2",HBO PLUS LOOP (LAT)
+http://iptv.wtf:25461/live/suqeucsh/r9LH7e7xo5/14294.m3u8
 
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/gt_hbo-signature_m.png" group-title="PREMIUM LATINA 2",HBO SIGNATURE (LAT)
 http://x.mytvxweb.co:25461/Gary/Gary/18085
 
-#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/gt_hbo-signature_m.png" group-title="PREMIUM LATINA 2",HBO SIGNATURE ALT (LAT)
-http://x.mytvxweb.co:25461/live/Gary/Gary/24931.ts
+#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/gt_hbo-signature_m.png" group-title="PREMIUM LATINA 2",HBO SIGNATURE LOOP (LAT)
+http://iptv.wtf:25461/live/suqeucsh/r9LH7e7xo5/14293.m3u8
 
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/_VoHOYEuZjzM/SsANAYXMMWI/AAAAAAAAAhI/7yI4nQHXUvQ/s320/Logo_ISat.jpg" group-title="PREMIUM LATINA 2",I SAT
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/_VoHOYEuZjzM/SsANAYXMMWI/AAAAAAAAAhI/7yI4nQHXUvQ/s320/Logo_ISat.jpg" group-title="PREMIUM LATINA 2",I SAT (LAT)
 http://x.mytvxweb.co:25461/Gary/Gary/282200
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/_VoHOYEuZjzM/SsANAYXMMWI/AAAAAAAAAhI/7yI4nQHXUvQ/s320/Logo_ISat.jpg" group-title="PREMIUM LATINA 2",I SAT LOOP (LAT)
+http://iptv.wtf:25461/live/suqeucsh/r9LH7e7xo5/14348.m3u8
 
 #EXTINF:-1 tvg-logo="http://clarotv.claro.com.br/image/Get/630" group-title="PREMIUM LATINA 2",MAX (LAT)
 http://x.mytvxweb.co:25461/Gary/Gary/282181
 
+#EXTINF:-1 tvg-logo="http://clarotv.claro.com.br/image/Get/630" group-title="PREMIUM LATINA 2",MAX LOOP (LAT)
+http://iptv.wtf:25461/live/suqeucsh/r9LH7e7xo5/14292.m3u8
+
 #EXTINF:-1 tvg-logo="http://sky.vteximg.com.br/arquivos/ids/156096/maxprime-hd.png?v=636446344633130000" group-title="PREMIUM LATINA 2",MAX PRIME (LAT)
 http://x.mytvxweb.co:25461/Gary/Gary/282016
 
+#EXTINF:-1 tvg-logo="http://sky.vteximg.com.br/arquivos/ids/156096/maxprime-hd.png?v=636446344633130000" group-title="PREMIUM LATINA 2",MAX PRIME LOOP (LAT)
+http://iptv.wtf:25461/live/suqeucsh/r9LH7e7xo5/14291.m3u8
+
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/tvpediabrasil/images/e/e6/Maxup.png/revision/latest?cb=20160922150849&path-prefix=pt-br" group-title="PREMIUM LATINA 2",MAX UP (LAT)
 http://x.mytvxweb.co:25461/Gary/Gary/16027
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/tvpediabrasil/images/e/e6/Maxup.png/revision/latest?cb=20160922150849&path-prefix=pt-br" group-title="PREMIUM LATINA 2",MAX UP LOOP (LAT)
+http://iptv.wtf:25461/live/suqeucsh/r9LH7e7xo5/14018.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfoY9DXKkykRMowbV8iIWeLxeoTCE1NQTg5RBEKHwYv_ei70k5" group-title="PREMIUM LATINA 2",MULTIPREMIER (LAT)
 http://x.mytvxweb.co:25461/Gary/Gary/282164
@@ -1538,53 +1598,65 @@ http://x.mytvxweb.co:25461/Gary/Gary/282164
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIhaEIAZlIS-U6e8zSgH3TM_9-9lLO1xQfIcH_vSx5vTRcGkw1" group-title="PREMIUM LATINA 2",PARAMOUNT (LAT)
 http://x.mytvxweb.co:25461/Gary/Gary/253242
 
-#EXTINF:-1 tvg-logo="http://www.cable10.com/imagenes/programacion/canales_0013s_0006_Layer%2044.jpg" group-title="PREMIUM LATINA 2",SONY (LAT)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIhaEIAZlIS-U6e8zSgH3TM_9-9lLO1xQfIcH_vSx5vTRcGkw1" group-title="PREMIUM LATINA 2",PARAMOUNT LOOP (LAT)
+http://iptv.wtf:25461/live/suqeucsh/r9LH7e7xo5/14288.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.cable10.com/imagenes/programacion/canales_0013s_0006_Layer%2044.jpg" group-title="PREMIUM LATINA 2",SONY LOOP (LAT)
+http://iptv.wtf:25461/live/suqeucsh/r9LH7e7xo5/14287.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8.png" group-title="PREMIUM LATINA 2",SPACE (LAT)
 http://x.mytvxweb.co:25461/Gary/Gary/253235
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8.png" group-title="PREMIUM LATINA 2",SPACE SUR (LAT)
-http://x.mytvxweb.co:25461/live/Gary/Gary/282084.ts
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8.png" group-title="PREMIUM LATINA 2",SPACE LOOP (LAT)
+http://iptv.wtf:25461/live/suqeucsh/r9LH7e7xo5/14286.m3u8
 
 #EXTINF:-1 tvg-logo="http://mysave.in/v1/images/ij05riqikivcn4arge4.jpg" group-title="PREMIUM LATINA 2",STUDIO UNIVERSAL (LAT)
 http://x.mytvxweb.co:25461/Gary/Gary/282075
 
-#EXTINF:-1 tvg-logo="http://mysave.in/v1/images/ij05riqikivcn4arge4.jpg" group-title="PREMIUM LATINA 2",STUDIO UNIVERSAL ALT (LAT)
-
+#EXTINF:-1 tvg-logo="http://mysave.in/v1/images/ij05riqikivcn4arge4.jpg" group-title="PREMIUM LATINA 2",STUDIO UNIVERSAL LOOP (LAT)
+http://iptv.wtf:25461/live/suqeucsh/r9LH7e7xo5/14285.m3u8
 
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/082015/syfy_0.png?itok=64TT6J8J" group-title="PREMIUM LATINA 2",SYFY (LAT)
 http://x.mytvxweb.co:25461/Gary/Gary/253231
 
+#EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/082015/syfy_0.png?itok=64TT6J8J" group-title="PREMIUM LATINA 2",SYFY LOOP (LAT)
+http://iptv.wtf:25461/live/suqeucsh/r9LH7e7xo5/14312.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/011/original/pic_tbs.png?1522176341" group-title="PREMIUM LATINA 2",TBS (LAT)
 http://x.mytvxweb.co:25461/Gary/Gary/281999
 
-#EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/011/original/pic_tbs.png?1522176341" group-title="PREMIUM LATINA 2",TBS SUR (LAT)
-http://x.mytvxweb.co:25461/live/Gary/Gary/281980.ts
+#EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/011/original/pic_tbs.png?1522176341" group-title="PREMIUM LATINA 2",TBS LOOP (LAT)
+http://iptv.wtf:25461/live/suqeucsh/r9LH7e7xo5/14284.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.brandemia.org/sites/default/files/sites/default/files/tcm_logo_antes.jpg" group-title="PREMIUM LATINA 2",TCM (LAT)
 http://x.mytvxweb.co:25461/Gary/Gary/281978
 
+#EXTINF:-1 tvg-logo="http://www.brandemia.org/sites/default/files/sites/default/files/tcm_logo_antes.jpg" group-title="PREMIUM LATINA 2",TCM LOOP (LAT)
+http://iptv.wtf:25461/live/suqeucsh/r9LH7e7xo5/14311.m3u8
+
 #EXTINF:-1 tvg-logo="http://mareatvcable.com/wp-content/uploads/2017/12/44-tntlogo.png" group-title="PREMIUM LATINA 2",TNT (LAT)
 http://x.mytvxweb.co:25461/Gary/Gary/281960
 
-#EXTINF:-1 tvg-logo="http://mareatvcable.com/wp-content/uploads/2017/12/44-tntlogo.png" group-title="PREMIUM LATINA 2",TNT ALT (LAT)
-http://x.mytvxweb.co:25461/live/Gary/Gary/21343.ts
+#EXTINF:-1 tvg-logo="http://mareatvcable.com/wp-content/uploads/2017/12/44-tntlogo.png" group-title="PREMIUM LATINA 2",TNT LOOP (LAT)
+http://iptv.wtf:25461/live/suqeucsh/r9LH7e7xo5/14282.m3u8
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/cineframe.mx/wp-content/uploads/2017/08/1498152635.png?fit=660%2C660" group-title="PREMIUM LATINA 2",TNT SERIES (LAT)
 http://x.mytvxweb.co:25461/Gary/Gary/281959
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/cineframe.mx/wp-content/uploads/2017/08/1498152635.png?fit=660%2C660" group-title="PREMIUM LATINA 2",TNT SERIES ALT (LAT)
-http://x.mytvxweb.co:25461/live/Gary/Gary/21342.ts
+#EXTINF:-1 tvg-logo="https://i0.wp.com/cineframe.mx/wp-content/uploads/2017/08/1498152635.png?fit=660%2C660" group-title="PREMIUM LATINA 2",TNT SERIES LOOP (LAT)
+http://iptv.wtf:25461/live/suqeucsh/r9LH7e7xo5/14308.m3u8
 
 #http://tv.iptvsensation.com:6500/live/12esun1114q/DCIGu3VVHw/15970.tsEXTINF:-1 tvg-logo="http://s2.glbimg.com/QQ0n7FZJBvKGjcii_aNn4dvq5f0=/200x200/filters:quality(80)/g.glbimg.com/og/gs/gsat3/f/thumbs/programa/2017/03/09/logo-padrao_5GKjBtK.jpg" group-title="PREMIUM LATINA 2",UNIVERSAL CHANNEL (LAT)
 http://x.mytvxweb.co:25461/Gary/Gary/39634
 
-#EXTINF:-1 tvg-logo="http://s2.glbimg.com/QQ0n7FZJBvKGjcii_aNn4dvq5f0=/200x200/filters:quality(80)/g.glbimg.com/og/gs/gsat3/f/thumbs/programa/2017/03/09/logo-padrao_5GKjBtK.jpg" group-title="PREMIUM LATINA 2",UNIVERSAL CHANNEL SUR (LAT)
-http://x.mytvxweb.co:25461/live/Gary/Gary/281938.ts
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/QQ0n7FZJBvKGjcii_aNn4dvq5f0=/200x200/filters:quality(80)/g.glbimg.com/og/gs/gsat3/f/thumbs/programa/2017/03/09/logo-padrao_5GKjBtK.jpg" group-title="PREMIUM LATINA 2",UNIVERSAL CHANNEL LOOP (LAT)
+http://iptv.wtf:25461/live/suqeucsh/r9LH7e7xo5/14281.m3u8
 
 #EXTINF:-1 tvg-logo="http://television.com.ar/wp-content/uploads/2016/05/wb.jpg" group-title="PREMIUM LATINA 2",WARNER (LAT)
 http://x.mytvxweb.co:25461/Gary/Gary/281926
+
+#EXTINF:-1 tvg-logo="http://television.com.ar/wp-content/uploads/2016/05/wb.jpg" group-title="PREMIUM LATINA 2",WARNER LOOP (LAT)
+http://iptv.wtf:25461/live/suqeucsh/r9LH7e7xo5/14280.m3u8
 
 ######################################################################################################################################
 ####################################### PREMIUM LATINA 3
