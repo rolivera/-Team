@@ -24,7 +24,7 @@ http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/p
 http://tv.latintvweb.com:25461/live/ramond878/zHhzXY5zEz/92372.ts
 
 #EXTINF:-1 tvg-logo="https://www.mdzol.com/__export/1532475276295/sites/mdzol/img/2018/04/04/5ac49a3ee4dd1.png_790118878.png" group-title="ARGENTINA",AMERICA (ARG)
-http://x.mytvxweb.co:25461/live/Gary/Gary/25670.ts
+
 
 #EXTINF:-1 tvg-logo="https://img1.androidappsapk.co/300/7/0/6/net.coninfo.admin.trecemaxtelevisin.png" group-title="ARGENTINA",13 MAX (ARG)
 http://coninfo.net:1935/13maxhd/live_720p/.m3u8
@@ -48,7 +48,7 @@ http://tv.latintvweb.com:25461/live/ramond878/zHhzXY5zEz/99727.ts
 http://190.52.32.13:1935/canal4/smil:manifest.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/--LWP2IqfJz0/WvMMjRwM5iI/AAAAAAAAhNk/FcXygo8Uk1kqkPr1HITAolJzau-Yd5pAwCK4BGAYYCw/s1600/LOGO%2BCANAL_00005.png" group-title="ARGENTINA",CANAL 4 POSADAS (ARG)
-http://184.154.28.210:1935/canal4/canal4/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-aKHK8Ajrcc0/TpOoS0KRJLI/AAAAAAAAQT4/edRRDvx0kkQ/s1600/canal9salta.png" group-title="ARGENTINA",CANAL 9 SALTA (ARG)
 http://panel.dattalive.com:1935/8250/8250/playlist.m3u8?GrupoTopIptv
@@ -112,7 +112,7 @@ http://x.mytvxweb.co:25461/Gary/Gary/281974
 
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2018_01/large.Imagen1.png.65193b1d926dd70eb7e9975506c76f0a.png" group-title="ARGENTINA",TELESOL (ARG)
-http://149.56.98.124:9090/hls/telesol_hi.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/506483696065449984/BATn-jAe.png" group-title="ARGENTINA",TELPIN (ARG)
 
@@ -151,7 +151,7 @@ http://lista.digitalgroup.me:80/Eneiashdtv/eneias12/1713
 http://evpp.mm.uol.com.br/geob_band/bandapp/chunklist_w622979429.m3u8?ChannelsON
 
 #EXTINF:0 tvg-logo="http://i.imgur.com/jtiMetX.png" group-title="BRASIL",CANAL RURAL (BR)
-http://67149o.ha.azioncdn.net/hlsmedium/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/Or3Q4WA.png" group-title="BRASIL",GAZETA (BR)
 http://lista.digitalgroup.me:80/Eneiashdtv/eneias12/11973
@@ -774,9 +774,6 @@ http://tv.latintvweb.com:25461/live/ramond878/zHhzXY5zEz/95029.ts
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_america-television_m.png" group-title="PERU",AMERICA TV ALT (PER)
 http://iptv.wtf:25461/live/suqeucsh/r9LH7e7xo5/14066.ts&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_america-television_m.png" group-title="PERU",AMERICA TV ALT 2 (PER)
-http://iptv.wtf:25461/suqeucsh/r9LH7e7xo5/14066
-
 #EXTINF:-1 tvg-logo="https://www.jssor.com/andre89/tv-antares.png" group-title="PERU",ANTARES (PER)
 http://173.192.105.252:1935/iptvantares/liveantarestv/playlist.m3u8
 
@@ -838,7 +835,7 @@ http://tv.latintvweb.com:25461/live/ramond878/zHhzXY5zEz/94997.ts
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIPE0002&mode=12
 
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-Mcc2xCpSKWQ/UF6PxaiQZYI/AAAAAAAACQU/BLm5ZUhxzfs/s1600/LOGOTVPERU.jpg" group-title="PERU",TV PERU (PER)
-http://tv.latintvweb.com:25461/live/ramond878/zHhzXY5zEz/94996.ts
+
 
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-Mcc2xCpSKWQ/UF6PxaiQZYI/AAAAAAAACQU/BLm5ZUhxzfs/s1600/LOGOTVPERU.jpg" group-title="PERU",TV PERU HD (PER)
 http://cdnh15.iblups.com/hls/R9WtilpKKB.m3u8
@@ -1205,9 +1202,6 @@ http://tv.latintvweb.com:25461/live/ramond878/zHhzXY5zEz/92332.ts
 #EXTINF:-1 tvg-logo="https://mark.trademarkia.com/logo-images/olympusat/ultra-mex-85364966.jpg" group-title="CANALES ULTRA",ULTRA FILM
 http://tv.latintvweb.com:25461/live/ramond878/zHhzXY5zEz/92331.ts
 
-#EXTINF:-1 tvg-logo="https://mark.trademarkia.com/logo-images/olympusat/ultra-mex-85364966.jpg" group-title="CANALES ULTRA",ULTRA KIDZ
-http://tv.latintvweb.com:25461/live/ramond878/zHhzXY5zEz/92330.ts
-
 #EXTINF:-1 tvg-logo="https://mark.trademarkia.com/logo-images/olympusat/ultra-mex-85364966.jpg" group-title="CANALES ULTRA",ULTRA LUNA
 http://tv.latintvweb.com:25461/live/ramond878/zHhzXY5zEz/92329.ts
 
@@ -1551,7 +1545,7 @@ http://x.mytvxweb.co:25461/Gary/Gary/253270
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2qqrrq69tbnXtGqAxErNZls8cvkG9YvGCguCYIP5hYkbuHD2K" group-title="PREMIUM LATINA 2",HBO (LAT)
-http://x.mytvxweb.co:25461/Gary/Gary/282217
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2qqrrq69tbnXtGqAxErNZls8cvkG9YvGCguCYIP5hYkbuHD2K" group-title="PREMIUM LATINA 2",HBO LOOP (LAT)
 http://iptv.wtf:25461/live/suqeucsh/r9LH7e7xo5/14297.m3u8
@@ -2040,7 +2034,7 @@ http://185.152.66.67:25461/live/MA020/0706/35.ts
 http://lista.digitalgroup.me:80/Eneiashdtv/eneias12/921
 
 #EXTINF:-1 tvg-logo="http://mareatvcable.com/wp-content/uploads/2017/12/44-tntlogo.png" group-title="PREMIUM BRASIL 1",TNT ALT (BR)
-http://185.152.66.67:25461/live/MA020/0706/19.ts
+
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/cineframe.mx/wp-content/uploads/2017/08/1498152635.png?fit=660%2C660" group-title="PREMIUM BRASIL 1",TNT SERIES (BR)
 http://lista.digitalgroup.me:80/Eneiashdtv/eneias12/2474
@@ -2058,7 +2052,7 @@ http://185.152.66.67:25461/live/MA020/0706/11.ts
 http://lista.digitalgroup.me:80/Eneiashdtv/eneias12/896
 
 #EXTINF:-1 tvg-logo="http://television.com.ar/wp-content/uploads/2016/05/wb.jpg" group-title="PREMIUM BRASIL 1",WARNER CHANNEL ALT (BR)
-http://185.152.66.67:25461/live/MA020/0706/3.ts
+
 
 ######################################################################################################################################
 ####################################### PREMIUM BRASIL 2
@@ -2259,7 +2253,7 @@ http://x.mytvxweb.co:25461/live/Gary/Gary/27524.m3u8
 http://srvlista.com:80/live/Eduardo12/1234/25718.rtmp&f=.m3u8
 
 #EXTINF:-1 tvg-logo="http://clarotv.claro.com.br/image/Get/630" group-title="PREMIUM BRASIL 3",MAX ALT (BR)
-http://x.mytvxweb.co:25461/live/Gary/Gary/27528.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://sky.vteximg.com.br/arquivos/ids/156096/maxprime-hd.png?v=636446344633130000" group-title="PREMIUM BRASIL 3",MAX PRIME LOOP (BR)
 http://srvlista.com:80/live/Eduardo12/1234/3155.rtmp&f=.m3u8
@@ -2280,7 +2274,7 @@ http://x.mytvxweb.co:25461/live/Gary/Gary/27530.m3u8
 http://srvlista.com:80/live/Eduardo12/1234/3150.rtmp&f=.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.netemnatal.com.br/canais_net/megapix.jpg" group-title="PREMIUM BRASIL 3",MEGAPIX ALT (BR)
-http://x.mytvxweb.co:25461/live/Gary/Gary/27531.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://d2xhqqdaxyaju6.cloudfront.net/file/teaser-ci/293920/0/1200-400.jpg" group-title="PREMIUM BRASIL 3",PARAMOUNT LOOP (BR)
 http://srvlista.com:80/live/Eduardo12/1234/3129.rtmp&f=.m3u8
@@ -2295,7 +2289,7 @@ http://srvlista.com:80/live/Eduardo12/1234/3283.rtmp&f=.m3u8
 http://x.mytvxweb.co:25461/live/Gary/Gary/27494.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8.png" group-title="PREMIUM BRASIL 3",SPACE LOOP (BR)
-http://srvlista.com:80/live/Eduardo12/1234/3086.rtmp&f=.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://studiouniversal.wiperagency.com/uploads/product/dcd0513fc9513c710f9cab0e0097abfb4deb340a.jpg" group-title="PREMIUM BRASIL 3",STUDIO UNIVERSAL LOOP (BR)
 http://srvlista.com:80/live/Eduardo12/1234/3088.rtmp&f=.m3u8
@@ -2593,7 +2587,7 @@ http://tv.latintvweb.com:25461/live/ramond878/zHhzXY5zEz/92724.ts
 http://shacktv.com:8080/live/skylar/skylar/54.ts
 
 #EXTINF:-1 tvg-logo="http://logosvector.net/wp-content/uploads/2014/07/new-disney-channel-logo.png" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",DISNEY (LAT)
-http://tv.latintvweb.com:25461/live/ramond878/zHhzXY5zEz/92716.ts
+
 
 #EXTINF:-1 tvg-logo="http://logosvector.net/wp-content/uploads/2014/07/new-disney-channel-logo.png" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",DISNEY HD (LAT)
 http://shacktv.com:8080/live/skylar/skylar/53.ts
@@ -2805,7 +2799,7 @@ http://stream.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_w86202803_b212800
 
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/m7MQIPJ.png" group-title="RELIGIOSOS",REDE SECULO 21 (BR)
-http://tvseculo21-lh.akamaihd.net/i/tvseculo_1@16110/master.m3u8?ChannelsON
+
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/RP0sbkV.png" group-title="RELIGIOSOS",TV APARECIDA (BR)
 http://caikron.com.br:1935/tvaparecida/tvaparecida.stream/playlist.m3u8
@@ -3293,7 +3287,7 @@ http://185.152.66.67:25461/live/MA020/0706/157.ts
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3siiXt2YMBgW_LL0mfXCpTWNAwQ8t6IvyPMbCs76NSZrx7ti6NQ" group-title="DEPORTES/ESPORTES",FOX SPORTS LATINO
-http://shacktv.com:8080/live/skylar/skylar/61102.ts
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3siiXt2YMBgW_LL0mfXCpTWNAwQ8t6IvyPMbCs76NSZrx7ti6NQ" group-title="DEPORTES/ESPORTES",FOX SPORTS LATINO HD
 
@@ -3368,7 +3362,7 @@ http://shacktv.com:8080/live/skylar/skylar/61244.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/webadictos.com/media/2018/06/izzi-affizionados.jpg" group-title="DEPORTES/ESPORTES",IZZI AFIZZIONADOS
-http://tv.latintvweb.com:25461/live/ramond878/zHhzXY5zEz/92345.ts
+
 
 #EXTINF:-1 tvg-logo="http://orientalnewsng.com/wp-content/uploads/2018/05/LaLiga.png" group-title="DEPORTES/ESPORTES",LA LIGA (ESP)
 
@@ -3462,7 +3456,7 @@ https://livebar.pw/lba/123/g5/tv1pt.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL3yGNjg04bArAFATthvYBXJ_TS2UCzLw1rcs-pOBelB0DIWAU" group-title="DEPORTES/ESPORTES",SPORT TV 2 HD (PT)
-https://livebar.pw/lba/123/g7/sport2port.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8btmXxM-f9rwFEeFGEEYMrdQ5HbjWNGsS_BxRgFWfFihXjfKd" group-title="DEPORTES/ESPORTES",SPORT TV 3 (PT)
 
