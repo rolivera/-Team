@@ -132,8 +132,20 @@ http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1
 http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8
 #######################################
 
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDGCEqwejgtxfr505syQsBSOMabhqbGuTldReQp2eaE0QsMXco" group-title="BRASIL",BBB casa (BR)
+http://lista.digitalgroup.me:80/Eneiashdtv/eneias12/38010
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDGCEqwejgtxfr505syQsBSOMabhqbGuTldReQp2eaE0QsMXco" group-title="BRASIL",BBB cocinha (BR)
+http://lista.digitalgroup.me:80/Eneiashdtv/eneias12/38034
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDGCEqwejgtxfr505syQsBSOMabhqbGuTldReQp2eaE0QsMXco" group-title="BRASIL",BBB chuveiro (BR)
+http://lista.digitalgroup.me:80/Eneiashdtv/eneias12/38037
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDGCEqwejgtxfr505syQsBSOMabhqbGuTldReQp2eaE0QsMXco" group-title="BRASIL",BBB dormitorio (BR)
+http://lista.digitalgroup.me:80/Eneiashdtv/eneias12/38031
+
 #EXTINF:0 tvg-logo="http://www.mundocross.com.br/wp-content/uploads/2013/05/band.jpg" group-title="BRASIL",BAND (BR)
-http://x.mytvxweb.co:25461/live/Gary/Gary/14609.ts
+http://lista.digitalgroup.me:80/Eneiashdtv/eneias12/1713
 
 #EXTINF:0 tvg-logo="http://www.mundocross.com.br/wp-content/uploads/2013/05/band.jpg" group-title="BRASIL",BAND SD (BR)
 http://evpp.mm.uol.com.br/geob_band/bandapp/chunklist_w622979429.m3u8?ChannelsON
@@ -142,28 +154,28 @@ http://evpp.mm.uol.com.br/geob_band/bandapp/chunklist_w622979429.m3u8?ChannelsON
 http://67149o.ha.azioncdn.net/hlsmedium/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/Or3Q4WA.png" group-title="BRASIL",GAZETA (BR)
+http://lista.digitalgroup.me:80/Eneiashdtv/eneias12/11973
 
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="BRASIL",GLOBO SD (BR)
-http://apk26.futeboltvgratis.com/live/17/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="BRASIL",GLOBO BR SD (BR)
+http://lista.digitalgroup.me:80/Eneiashdtv/eneias12/22360
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="BRASIL",GLOBO SP HD (BR)
 http://x.mytvxweb.co:25461/live/Gary/Gary/27518.ts
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="BRASIL",GLOBO RP (BR)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="BRASIL",GLOBO SP SD (BR)
+http://lista.digitalgroup.me:80/Eneiashdtv/eneias12/22356
 
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="BRASIL",GLOBO RJ HD (BR)
-
+#EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="BRASIL",GLOBO RJ SD (BR)
+http://lista.digitalgroup.me:80/Eneiashdtv/eneias12/22206
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/R/rbs-tv-logo-567F6184F4-seeklogo.com.png" group-title="BRASIL",GLOBO RBS (BR)
-
+http://lista.digitalgroup.me:80/Eneiashdtv/eneias12/968
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIfHqc0-6bW6ObIrEs4nFnNiFqCJUCBUvH5W0k0LWii0g13uBK" group-title="BRASIL",GLOBO PREMIUM HD (BR)
-http://tv.latintvweb.com:25461/live/ramond878/zHhzXY5zEz/41930.ts
+
 
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/042013/untitled-1_148.png?itok=ld2drTRm" group-title="BRASIL",NBR HD (BR)
-
+http://lista.digitalgroup.me:80/Eneiashdtv/eneias12/2494
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFTIuz_tA6Bl98zhfQ3NFV0mxWf6h_g-0LFh10_ktHw5Y9XDKt" group-title="BRASIL",REDE BRASIL SD (BR)
 http://tv01.logicahost.com.br:1935/rbtv/rbtv/playlist.m3u8
@@ -178,13 +190,13 @@ http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
 http://evpp.mm.uol.com.br:1935/redetv2/redetv2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/k4haEx6.png" group-title="BRASIL",REDE TV (BR)
-http://x.mytvxweb.co:25461/live/Gary/Gary/27552.ts
+http://lista.digitalgroup.me:80/Eneiashdtv/eneias12/963
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="BRASIL",RECORD (BR)
 http://maxptv.ddns.net:25461/live/MA020/0706/63.ts
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="BRASIL",RECORD HD (BR)
-http://x.mytvxweb.co:25461/live/Gary/Gary/27551.ts
+http://lista.digitalgroup.me:80/Eneiashdtv/eneias12/1710
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="BRASIL",RECORD ACRITICA (BR)
 https://slbps-sambatech.akamaized.net/live/3256%2C7930%2C679f501d2054fc8514ea1fc28fe5f167%3Bbase64np%3BS52I5Up2XHDMC-c%21/amlst%3AS51w_Fc9WXHTS2s2/chunklist_b2146304.m3u8
@@ -196,25 +208,25 @@ http://srv9.zoeweb.tv:1935/zw901/smil:zw901.smil/playlist.m3u8
 http://maxptv.ddns.net:25461/live/MA020/0706/477.ts
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="BRASIL",SBT HD (BR) 
-
+http://lista.digitalgroup.me:80/Eneiashdtv/eneias12/1208
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="BRASIL",SBT SD (BR)
 https://5a1c76baf08c0.streamlock.net/z343-live/stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="BRASIL",SBT SERRA DOURADA (BR)
-http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/chunklist_w1473487700_b796000.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/381432556/logoterraviva7_400x400.jpg" group-title="BRASIL",TERRA VIVA (BR)
 
 
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112010/untitled-1_197.png?itok=1VZuZOR-" group-title="BRASIL",TV BRASIL (BR)
-
+http://lista.digitalgroup.me:80/Eneiashdtv/eneias12/915
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/famososnaweb.com/wp-content/uploads/TV_Brasil_Animada.jpg?resize=692%2C449&ssl=1" group-title="BRASIL",TV BRASIL ANIMADA (BR)
 http://stream2.ba.gov.br:80/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/kai6F2R.png" group-title="BRASIL",TV CULTURA (BR)
-
+http://lista.digitalgroup.me:80/Eneiashdtv/eneias12/2505
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/kai6F2R.png" group-title="BRASIL",TV CULTURA SC (BR)
 http://streaming03.zas.media:1935/panorama/panorama/playlist.m3u8
