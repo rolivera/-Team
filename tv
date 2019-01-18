@@ -132,11 +132,14 @@ http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1
 http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8
 #######################################
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDGCEqwejgtxfr505syQsBSOMabhqbGuTldReQp2eaE0QsMXco" group-title="BRASIL",BBB (BR)
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDGCEqwejgtxfr505syQsBSOMabhqbGuTldReQp2eaE0QsMXco" group-title="BRASIL",BBB cam1 (BR)
+http://195.181.160.217:25461/ALEXANDER81/ALEXANDER81/18144
 
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDGCEqwejgtxfr505syQsBSOMabhqbGuTldReQp2eaE0QsMXco" group-title="BRASIL",BBB cam2 (BR)
+http://195.181.160.217:25461/ALEXANDER81/ALEXANDER81/19910
 
 #EXTINF:0 tvg-logo="http://www.mundocross.com.br/wp-content/uploads/2013/05/band.jpg" group-title="BRASIL",BAND (BR)
-
+http://195.181.160.217:25461/ALEXANDER81/ALEXANDER81/4400
 
 #EXTINF:0 tvg-logo="http://www.mundocross.com.br/wp-content/uploads/2013/05/band.jpg" group-title="BRASIL",BAND SD (BR)
 http://evpp.mm.uol.com.br/geob_band/bandapp/chunklist_w622979429.m3u8?ChannelsON
@@ -145,28 +148,28 @@ http://evpp.mm.uol.com.br/geob_band/bandapp/chunklist_w622979429.m3u8?ChannelsON
 
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/Or3Q4WA.png" group-title="BRASIL",GAZETA (BR)
-
+http://195.181.160.217:25461/ALEXANDER81/ALEXANDER81/8975
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="BRASIL",GLOBO BR SD (BR)
-
+http://195.181.160.217:25461/ALEXANDER81/ALEXANDER81/7932
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="BRASIL",GLOBO SP HD (BR)
-
+http://195.181.160.217:25461/ALEXANDER81/ALEXANDER81/7529
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="BRASIL",GLOBO SP SD (BR)
-
+http://195.181.160.217:25461/ALEXANDER81/ALEXANDER81/4431
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="BRASIL",GLOBO RJ SD (BR)
-
+http://195.181.160.217:25461/ALEXANDER81/ALEXANDER81/7547
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/R/rbs-tv-logo-567F6184F4-seeklogo.com.png" group-title="BRASIL",GLOBO RBS (BR)
-
+http://195.181.160.217:25461/ALEXANDER81/ALEXANDER81/9469
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIfHqc0-6bW6ObIrEs4nFnNiFqCJUCBUvH5W0k0LWii0g13uBK" group-title="BRASIL",GLOBO PREMIUM HD (BR)
-
+http://195.181.160.217:25461/ALEXANDER81/ALEXANDER81/15203
 
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/042013/untitled-1_148.png?itok=ld2drTRm" group-title="BRASIL",NBR HD (BR)
-
+http://195.181.160.217:25461/ALEXANDER81/ALEXANDER81/6950
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFTIuz_tA6Bl98zhfQ3NFV0mxWf6h_g-0LFh10_ktHw5Y9XDKt" group-title="BRASIL",REDE BRASIL SD (BR)
 http://tv01.logicahost.com.br:1935/rbtv/rbtv/playlist.m3u8
@@ -181,13 +184,13 @@ http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
 http://evpp.mm.uol.com.br:1935/redetv2/redetv2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/k4haEx6.png" group-title="BRASIL",REDE TV (BR)
-
+http://195.181.160.217:25461/ALEXANDER81/ALEXANDER81/4420
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="BRASIL",RECORD (BR)
 http://maxptv.ddns.net:25461/live/MA020/0706/63.ts
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="BRASIL",RECORD HD (BR)
-
+http://195.181.160.217:25461/ALEXANDER81/ALEXANDER81/13134
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="BRASIL",RECORD ACRITICA (BR)
 https://slbps-sambatech.akamaized.net/live/3256%2C7930%2C679f501d2054fc8514ea1fc28fe5f167%3Bbase64np%3BS52I5Up2XHDMC-c%21/amlst%3AS51w_Fc9WXHTS2s2/chunklist_b2146304.m3u8
@@ -199,7 +202,7 @@ http://srv9.zoeweb.tv:1935/zw901/smil:zw901.smil/playlist.m3u8
 http://maxptv.ddns.net:25461/live/MA020/0706/477.ts
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="BRASIL",SBT HD (BR) 
-
+http://195.181.160.217:25461/ALEXANDER81/ALEXANDER81/4331
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="BRASIL",SBT SD (BR)
 https://5a1c76baf08c0.streamlock.net/z343-live/stream/playlist.m3u8
@@ -208,16 +211,16 @@ https://5a1c76baf08c0.streamlock.net/z343-live/stream/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/381432556/logoterraviva7_400x400.jpg" group-title="BRASIL",TERRA VIVA (BR)
-
+http://195.181.160.217:25461/ALEXANDER81/ALEXANDER81/6936
 
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112010/untitled-1_197.png?itok=1VZuZOR-" group-title="BRASIL",TV BRASIL (BR)
-
+http://195.181.160.217:25461/ALEXANDER81/ALEXANDER81/4442
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/famososnaweb.com/wp-content/uploads/TV_Brasil_Animada.jpg?resize=692%2C449&ssl=1" group-title="BRASIL",TV BRASIL ANIMADA (BR)
 http://stream2.ba.gov.br:80/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/kai6F2R.png" group-title="BRASIL",TV CULTURA (BR)
-
+http://195.181.160.217:25461/ALEXANDER81/ALEXANDER81/4412
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/kai6F2R.png" group-title="BRASIL",TV CULTURA SC (BR)
 http://streaming03.zas.media:1935/panorama/panorama/playlist.m3u8
