@@ -147,6 +147,9 @@ http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/p
 #EXTINF:0 tvg-logo="http://i.imgur.com/jtiMetX.png" group-title="BRASIL",CANAL RURAL (BR)
 
 
+#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-Q35M8PSGxAo/WqxNFLvkgKI/AAAAAAAADfM/2LED_KDUQdIvm4dfes4UCCTChkChOQdWgCLcBGAs/s1600/Captura%2Bde%2Btela%2Bde%2B2017-11-26%2B16-48-55_.png" group-title="BRASIL",CLASSIQUE TV (BR)
+http://stmv2.euroti.com.br:1935/classique/classique/live.m3u8
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/Or3Q4WA.png" group-title="BRASIL",GAZETA (BR)
 
 
@@ -161,6 +164,9 @@ http://ipfortv.com:25461/Diamante/86UhTGWLYt/36459
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="BRASIL",GLOBO FHD (BR)
 http://ipfortv.com:25461/Diamante/86UhTGWLYt/36457
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="BRASIL",GLOBO NORDESTE (BR)
+https://tinyurl.com/y9ghsgpz
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/R/rbs-tv-logo-567F6184F4-seeklogo.com.png" group-title="BRASIL",GLOBO RBS (BR)
 
@@ -184,7 +190,7 @@ http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
 http://evpp.mm.uol.com.br:1935/redetv2/redetv2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/k4haEx6.png" group-title="BRASIL",REDE TV (BR)
-
+http://173.236.10.10:1935/tvonline/tvonline/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="BRASIL",RECORD (BR)
 http://maxptv.ddns.net:25461/live/MA020/0706/63.ts
@@ -201,17 +207,20 @@ http://srv9.zoeweb.tv:1935/zw901/smil:zw901.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="BRASIL",SBT SP (BR)
 http://maxptv.ddns.net:25461/live/MA020/0706/477.ts
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="BRASIL",SBT HD (BR) 
-
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="BRASIL",SBT PI (BR) 
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="BRASIL",SBT SD (BR)
 https://5a1c76baf08c0.streamlock.net/z343-live/stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="BRASIL",SBT SERRA DOURADA (BR)
-
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="BRASIL",SBT INTERIOR (BR)
+http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/381432556/logoterraviva7_400x400.jpg" group-title="BRASIL",TERRA VIVA (BR)
 
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1652814249/TCM_logo_400x400.jpg" group-title="BRASIL",TCM 10 (BR)
+http://cw.tcm10.com.br:80/low/canal10.m3u8
 
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112010/untitled-1_197.png?itok=1VZuZOR-" group-title="BRASIL",TV BRASIL (BR)
 
@@ -3265,6 +3274,9 @@ http://shacktv.com:8080/live/skylar/skylar/61244.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrdFT_eEcxaAb9Y_dw5XjbJvNz_xeAZ1M3zj1d_fKDuqg-Ebbe" group-title="DEPORTES/ESPORTES",NBA TV (USA)
 http://latvonlive.com:25461/1199/1199/262
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrdFT_eEcxaAb9Y_dw5XjbJvNz_xeAZ1M3zj1d_fKDuqg-Ebbe" group-title="DEPORTES/ESPORTES",NBA TV SD (USA)
+http://extremo.dyndns.ws:25461/live/Mundo/Mundo2/2829.ts
 
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/--s7q1XyGWug/WhR5gObOa0I/AAAAAAAAe-g/6SEOR4cFePE6YBcI1VxIPvKsUiD1Kr8PgCK4BGAYYCw/s1600/pfc.png" group-title="DEPORTES/ESPORTES",PREMIERE CLUBES (BR)
 http://maxptv.ddns.net:25461/live/MA020/0706/81.ts
