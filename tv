@@ -134,8 +134,8 @@ http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/p
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDGCEqwejgtxfr505syQsBSOMabhqbGuTldReQp2eaE0QsMXco" group-title="BRASIL",BBB 19 (BR)
 http://maxptv.ddns.net:25461/carlin/carlin/126
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDGCEqwejgtxfr505syQsBSOMabhqbGuTldReQp2eaE0QsMXco" group-title="BRASIL",BBB mosaico (BR)
-
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDGCEqwejgtxfr505syQsBSOMabhqbGuTldReQp2eaE0QsMXco" group-title="BRASIL",BBB ALT (BR)
+http://maxptv.ddns.net:25461/jessica/jessica/126
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxoaZKxkHwisiat4W4zAky6NweTzXvzSDmHhqtk310-vr-lQ49" group-title="BRASIL",BBB 1 (BR)
 http://streamtv.com.br:80/test/test/13427
@@ -155,8 +155,8 @@ http://streamtv.com.br:80/test/test/20136
 #EXTINF:0 tvg-logo="http://www.mundocross.com.br/wp-content/uploads/2013/05/band.jpg" group-title="BRASIL",BAND (BR)
 http://maxptv.ddns.net:25461/carlin/carlin/219
 
-#EXTINF:0 tvg-logo="http://www.mundocross.com.br/wp-content/uploads/2013/05/band.jpg" group-title="BRASIL",BAND SD (BR)
-
+#EXTINF:0 tvg-logo="http://www.mundocross.com.br/wp-content/uploads/2013/05/band.jpg" group-title="BRASIL",BAND ALT (BR)
+http://maxptv.ddns.net:25461/jessica/jessica/219
 
 #EXTINF:0 tvg-logo="http://i.imgur.com/jtiMetX.png" group-title="BRASIL",CANAL RURAL (BR)
 
@@ -173,8 +173,8 @@ http://streamtv.com.br:80/test/test/1617
 #EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="BRASIL",GLOBO SP (BR)
 http://streamtv.com.br:80/test/test/1609
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="BRASIL",GLOBO SP ALT (BR)
-
+#EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="BRASIL",GLOBO CAMPINAS (BR)
+http://maxptv.ddns.net:25461/jessica/jessica/165
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="BRASIL",GLOBO FLORIPA (BR)
 http://maxptv.ddns.net:25461/carlin/carlin/696
@@ -219,7 +219,7 @@ http://173.236.10.10:1935/tvonline/tvonline/playlist.m3u8
 http://maxptv.ddns.net:25461/carlin/carlin/63
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="BRASIL",RECORD ALT (BR)
-
+http://maxptv.ddns.net:25461/jessica/jessica/63
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="BRASIL",RECORD ACRITICA (BR)
 https://slbps-sambatech.akamaized.net/live/3256%2C7930%2C679f501d2054fc8514ea1fc28fe5f167%3Bbase64np%3BS52I5Up2XHDMC-c%21/amlst%3AS51w_Fc9WXHTS2s2/chunklist_b2146304.m3u8
@@ -252,7 +252,7 @@ http://cw.tcm10.com.br:80/low/canal10.m3u8
 http://stream2.ba.gov.br:80/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/kai6F2R.png" group-title="BRASIL",TV CULTURA (BR)
-
+http://maxptv.ddns.net:25461/jessica/jessica/191
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/kai6F2R.png" group-title="BRASIL",TV CULTURA SC (BR)
 http://streaming03.zas.media:1935/panorama/panorama/playlist.m3u8
