@@ -132,10 +132,10 @@ http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/p
 #######################################
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDGCEqwejgtxfr505syQsBSOMabhqbGuTldReQp2eaE0QsMXco" group-title="BRASIL",BBB 19 (BR)
-http://br1.e-tv.xyz:8081/live/Said/Said/15504.ts
+http://maxptv.ddns.net:25461/carlin/carlin/126
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDGCEqwejgtxfr505syQsBSOMabhqbGuTldReQp2eaE0QsMXco" group-title="BRASIL",BBB mosaico (BR)
-http://br1.e-tv.xyz:8081/live/Said/Said/15942.ts
+
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxoaZKxkHwisiat4W4zAky6NweTzXvzSDmHhqtk310-vr-lQ49" group-title="BRASIL",BBB 1 (BR)
 http://streamtv.com.br:80/test/test/13427
@@ -153,19 +153,19 @@ http://streamtv.com.br:80/test/test/20138
 http://streamtv.com.br:80/test/test/20136
 
 #EXTINF:0 tvg-logo="http://www.mundocross.com.br/wp-content/uploads/2013/05/band.jpg" group-title="BRASIL",BAND (BR)
-http://br1.e-tv.xyz:8081/live/Said/Said/10905.ts
+http://maxptv.ddns.net:25461/carlin/carlin/219
 
 #EXTINF:0 tvg-logo="http://www.mundocross.com.br/wp-content/uploads/2013/05/band.jpg" group-title="BRASIL",BAND SD (BR)
-http://br1.e-tv.xyz:8081/live/pizza/pizza/7631.ts
+
 
 #EXTINF:0 tvg-logo="http://i.imgur.com/jtiMetX.png" group-title="BRASIL",CANAL RURAL (BR)
-http://br1.e-tv.xyz:8081/live/pizza/pizza/4168.ts
+
 
 #EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-Q35M8PSGxAo/WqxNFLvkgKI/AAAAAAAADfM/2LED_KDUQdIvm4dfes4UCCTChkChOQdWgCLcBGAs/s1600/Captura%2Bde%2Btela%2Bde%2B2017-11-26%2B16-48-55_.png" group-title="BRASIL",CLASSIQUE TV (BR)
 http://stmv2.euroti.com.br:1935/classique/classique/live.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/Or3Q4WA.png" group-title="BRASIL",GAZETA (BR)
-http://br1.e-tv.xyz:8081/live/pizza/pizza/7609.ts
+
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="BRASIL",GLOBO CAMPINAS SD (BR)
 http://streamtv.com.br:80/test/test/1617
@@ -174,10 +174,10 @@ http://streamtv.com.br:80/test/test/1617
 http://streamtv.com.br:80/test/test/1609
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="BRASIL",GLOBO SP ALT (BR)
-http://br1.e-tv.xyz:8081/live/Said/Said/10884.ts
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="BRASIL",GLOBO BRASILIA (BR)
-http://br1.e-tv.xyz:8081/live/Said/Said/10864.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="BRASIL",GLOBO FLORIPA (BR)
+http://maxptv.ddns.net:25461/carlin/carlin/696
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="BRASIL",GLOBO CURITIBA SD (BR)
 http://streamtv.com.br:80/test/test/1610
@@ -189,7 +189,7 @@ http://streamtv.com.br:80/test/test/1610
 http://streamtv.com.br:80/test/test/1613
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/R/rbs-tv-logo-567F6184F4-seeklogo.com.png" group-title="BRASIL",GLOBO RBS (BR)
-http://br1.e-tv.xyz:8081/live/pizza/pizza/10878.ts
+
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/R/rbs-tv-logo-567F6184F4-seeklogo.com.png" group-title="BRASIL",GLOBO RBS ALT (BR)
 http://streamtv.com.br:80/test/test/1612
@@ -198,7 +198,7 @@ http://streamtv.com.br:80/test/test/1612
 
 
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/042013/untitled-1_148.png?itok=ld2drTRm" group-title="BRASIL",NBR HD (BR)
-http://br1.e-tv.xyz:8081/live/pizza/pizza/4620.ts
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFTIuz_tA6Bl98zhfQ3NFV0mxWf6h_g-0LFh10_ktHw5Y9XDKt" group-title="BRASIL",REDE BRASIL SD (BR)
 http://tv01.logicahost.com.br:1935/rbtv/rbtv/playlist.m3u8
@@ -216,10 +216,10 @@ http://evpp.mm.uol.com.br:1935/redetv2/redetv2/playlist.m3u8
 http://173.236.10.10:1935/tvonline/tvonline/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="BRASIL",RECORD (BR)
-http://maxptv.ddns.net:25461/live/MA020/0706/63.ts
+http://maxptv.ddns.net:25461/carlin/carlin/63
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="BRASIL",RECORD ALT (BR)
-http://br1.e-tv.xyz:8081/live/pizza/pizza/11066.ts
+
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="BRASIL",RECORD ACRITICA (BR)
 https://slbps-sambatech.akamaized.net/live/3256%2C7930%2C679f501d2054fc8514ea1fc28fe5f167%3Bbase64np%3BS52I5Up2XHDMC-c%21/amlst%3AS51w_Fc9WXHTS2s2/chunklist_b2146304.m3u8
@@ -228,7 +228,7 @@ https://slbps-sambatech.akamaized.net/live/3256%2C7930%2C679f501d2054fc8514ea1fc
 http://srv9.zoeweb.tv:1935/zw901/smil:zw901.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="BRASIL",SBT SP (BR)
-http://maxptv.ddns.net:25461/live/MA020/0706/477.ts
+http://maxptv.ddns.net:25461/carlin/carlin/57
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="BRASIL",SBT PI (BR) 
 http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
@@ -246,7 +246,7 @@ http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist
 http://cw.tcm10.com.br:80/low/canal10.m3u8
 
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112010/untitled-1_197.png?itok=1VZuZOR-" group-title="BRASIL",TV BRASIL (BR)
-http://br1.e-tv.xyz:8081/live/pizza/pizza/11115.ts
+
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/famososnaweb.com/wp-content/uploads/TV_Brasil_Animada.jpg?resize=692%2C449&ssl=1" group-title="BRASIL",TV BRASIL ANIMADA (BR)
 http://stream2.ba.gov.br:80/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8
@@ -1788,115 +1788,115 @@ http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/p
 #######################################
 
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/062010/AMCHepburn_B.png?itok=18X2cfEC" group-title="PREMIUM BRASIL 1",AMC (BR)
-http://br1.e-tv.xyz:8081/live/pizza/pizza/7670.ts
+http://maxptv.ddns.net:25461/carlin/carlin/229
 
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/axn.png" group-title="PREMIUM BRASIL 1",AXN (BR)
-http://br1.e-tv.xyz:8081/live/pizza/pizza/4186.ts
+http://maxptv.ddns.net:25461/carlin/carlin/223
 
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cine/16.png" group-title="PREMIUM BRASIL 1",CINEMAX (BR)
-http://br1.e-tv.xyz:8081/live/pizza/pizza/4163.ts
+http://maxptv.ddns.net:25461/carlin/carlin/197
 
 #EXTINF:-1 tvg-logo="https://banner2.kisspng.com/20180329/heq/kisspng-logo-of-nbc-television-channel-fox-fox-5abc8ef9dcbf13.5561782615223068099042.jpg" group-title="PREMIUM BRASIL 1",FOX (BR)
-http://br1.e-tv.xyz:8081/live/pizza/pizza/4122.ts
+http://maxptv.ddns.net:25461/carlin/carlin/147
 
 #EXTINF:-1 tvg-logo="https://cdn.i.haymarketmedia.asia/?n=campaign-asia%2Fcontent%2Ffoxlife_1200.png&h=570&w=855&q=100&v=20170226&c=1" group-title="PREMIUM BRASIL 1",FOX LIFE (BR)
-http://br1.e-tv.xyz:8081/live/pizza/pizza/4120.ts
+http://maxptv.ddns.net:25461/carlin/carlin/152
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/59/FOXPremium1.png/revision/latest?cb=20170324170019" group-title="PREMIUM BRASIL 1",FOX PREMIUM 1 (BR)
-http://br1.e-tv.xyz:8081/live/pizza/pizza/10977.ts
+http://maxptv.ddns.net:25461/carlin/carlin/148
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/28/FOXPremium2.png/revision/latest?cb=20170324170127" group-title="PREMIUM BRASIL 1",FOX PREMIUM 2 (BR)
-http://br1.e-tv.xyz:8081/live/pizza/pizza/10979.ts
+http://maxptv.ddns.net:25461/carlin/carlin/150
 
 #EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/031/original/pic_fx.png?1522177123" group-title="PREMIUM BRASIL 1",FX (BR)
-http://br1.e-tv.xyz:8081/live/pizza/pizza/4111.ts
+http://maxptv.ddns.net:25461/carlin/carlin/141
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2qqrrq69tbnXtGqAxErNZls8cvkG9YvGCguCYIP5hYkbuHD2K" group-title="PREMIUM BRASIL 1",HBO (BR)
-http://br1.e-tv.xyz:8081/live/pizza/pizza/4090.ts
+http://maxptv.ddns.net:25461/carlin/carlin/123
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/sv_hbo-2_m.png" group-title="PREMIUM BRASIL 1",HBO 2 (BR)
-http://br1.e-tv.xyz:8081/live/pizza/pizza/4089.ts
+http://maxptv.ddns.net:25461/carlin/carlin/131
 
 #EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/hbo-family-logo-320x320-745790760.png" group-title="PREMIUM BRASIL 1",HBO FAMILY (BR)
-http://br1.e-tv.xyz:8081/live/pizza/pizza/4087.ts
+http://maxptv.ddns.net:25461/carlin/carlin/129
 
 #EXTINF:-1 tvg-logo="http://contenidos.cablevision.com.mx/guia_programacion/channels/634.png" group-title="PREMIUM BRASIL 1",HBO PLUS (BR)
-http://br1.e-tv.xyz:8081/live/pizza/pizza/4084.ts
+http://maxptv.ddns.net:25461/carlin/carlin/124
 
 #EXTINF:-1 tvg-logo="http://contenidos.cablevision.com.mx/guia_programacion/channels/634.png" group-title="PREMIUM BRASIL 1",HBO PLUS E (BR)
 
 
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/gt_hbo-signature_m.png" group-title="PREMIUM BRASIL 1",HBO SIGNATURE (BR)
-http://br1.e-tv.xyz:8081/live/pizza/pizza/4081.ts
+http://maxptv.ddns.net:25461/carlin/carlin/121
 
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/_VoHOYEuZjzM/SsANAYXMMWI/AAAAAAAAAhI/7yI4nQHXUvQ/s320/Logo_ISat.jpg" group-title="PREMIUM BRASIL 1",I SAT (BR)
 
 
 #EXTINF:-1 tvg-logo="http://clarotv.claro.com.br/image/Get/630" group-title="PREMIUM BRASIL 1",MAX (BR)
-http://br1.e-tv.xyz:8081/live/pizza/pizza/4066.ts
+http://maxptv.ddns.net:25461/carlin/carlin/107
 
 #EXTINF:-1 tvg-logo="http://sky.vteximg.com.br/arquivos/ids/156096/maxprime-hd.png?v=636446344633130000" group-title="PREMIUM BRASIL 1",MAX PRIME (BR)
-http://br1.e-tv.xyz:8081/live/pizza/pizza/4064.ts
+http://maxptv.ddns.net:25461/carlin/carlin/108
 
 #EXTINF:-1 tvg-logo="http://sky.vteximg.com.br/arquivos/ids/156096/maxprime-hd.png?v=636446344633130000" group-title="PREMIUM BRASIL 1",MAX PRIME e (BR)
 
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/tvpediabrasil/images/e/e6/Maxup.png/revision/latest?cb=20160922150849&path-prefix=pt-br" group-title="PREMIUM BRASIL 1",MAX UP (BR)
-http://br1.e-tv.xyz:8081/live/pizza/pizza/4061.ts
+http://maxptv.ddns.net:25461/carlin/carlin/105
 
 #EXTINF:-1 tvg-logo="http://www.netemnatal.com.br/canais_net/megapix.jpg" group-title="PREMIUM BRASIL 1",MEGAPIX (BR)
-http://br1.e-tv.xyz:8081/live/pizza/pizza/4059.ts
+http://maxptv.ddns.net:25461/carlin/carlin/103
 
 #EXTINF:-1 tvg-logo="https://d2xhqqdaxyaju6.cloudfront.net/file/teaser-ci/293920/0/1200-400.jpg" group-title="PREMIUM BRASIL 1",PARAMOUNT (BR)
-http://br1.e-tv.xyz:8081/live/pizza/pizza/4036.ts
+http://maxptv.ddns.net:25461/carlin/carlin/85
 
 #EXTINF:-1 tvg-logo="http://www.cable10.com/imagenes/programacion/canales_0013s_0006_Layer%2044.jpg" group-title="PREMIUM BRASIL 1",SONY (BR)
-http://br1.e-tv.xyz:8081/live/pizza/pizza/3918.ts
+http://maxptv.ddns.net:25461/carlin/carlin/51
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8.png" group-title="PREMIUM BRASIL 1",SPACE (BR)
-http://br1.e-tv.xyz:8081/live/pizza/pizza/3916.ts
+http://maxptv.ddns.net:25461/carlin/carlin/49
 
 #EXTINF:-1 tvg-logo="http://mysave.in/v1/images/ij05riqikivcn4arge4.jpg" group-title="PREMIUM BRASIL 1",STUDIO UNIVERSAL (BR)
-http://br1.e-tv.xyz:8081/live/pizza/pizza/3908.ts
+http://maxptv.ddns.net:25461/carlin/carlin/41
 
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/082015/syfy_0.png?itok=64TT6J8J" group-title="PREMIUM BRASIL 1",SYFY (BR)
-http://br1.e-tv.xyz:8081/live/pizza/pizza/3906.ts
+http://maxptv.ddns.net:25461/carlin/carlin/39
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/06/f2/01/06f201cdd7c0416eddb3a767a9c5cc8d.jpg" group-title="PREMIUM BRASIL 1",TELECINE ACTION (BR)
-http://br1.e-tv.xyz:8081/live/pizza/pizza/3901.ts
+http://maxptv.ddns.net:25461/carlin/carlin/33
 
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/br_telecine-cult-1_m.png" group-title="PREMIUM BRASIL 1",TELECINE CULT (BR)
-http://br1.e-tv.xyz:8081/live/pizza/pizza/3899.ts
+http://maxptv.ddns.net:25461/carlin/carlin/32
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/54/c8/7f/54c87f894c0d97024ad5f44aec454a32.jpg" group-title="PREMIUM BRASIL 1",TELECINE FUN (BR)
-http://br1.e-tv.xyz:8081/live/pizza/pizza/3897.ts
+http://maxptv.ddns.net:25461/carlin/carlin/29
 
 #EXTINF:-1 tvg-logo="https://cdn.reweb.io/hagah/image/vG87z-TZwPgc2pcoqY4w9ff2e8U=/300x300/top/smart/hagah/5/53/telecine-pipoca-hd-53eee45e.jpg" group-title="PREMIUM BRASIL 1",TELECINE PIPOCA (BR)
-http://br1.e-tv.xyz:8081/live/pizza/pizza/3895.ts
+http://maxptv.ddns.net:25461/carlin/carlin/27
 
 #EXTINF:-1 tvg-logo="https://cdn.reweb.io/hagah/image/q4q0F-QvHi5OlEDHC7vIcim3f0s=/150x150/top/smart/hagah/2/2a/telecine-premium-hd-2aadc341.jpg" group-title="PREMIUM BRASIL 1",TELECINE PREMIUM (BR)
-http://br1.e-tv.xyz:8081/live/pizza/pizza/3893.ts
+http://maxptv.ddns.net:25461/carlin/carlin/25
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.sempretops.com/wp-content/uploads/telecine-touch-logo-nova-online-ao-vivo.gif" group-title="PREMIUM BRASIL 1",TELECINE TOUCH (BR)
-http://br1.e-tv.xyz:8081/live/pizza/pizza/3891.ts
+http://maxptv.ddns.net:25461/carlin/carlin/23
 
 #EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/011/original/pic_tbs.png?1522176341" group-title="PREMIUM BRASIL 1",TBS (BR)
-http://br1.e-tv.xyz:8081/live/pizza/pizza/3904.ts
+http://maxptv.ddns.net:25461/carlin/carlin/37
 
 #EXTINF:-1 tvg-logo="http://www.brandemia.org/sites/default/files/sites/default/files/tcm_logo_antes.jpg" group-title="PREMIUM BRASIL 1",TCM (BR)
-http://br1.e-tv.xyz:8081/live/pizza/pizza/3902.ts
+http://maxptv.ddns.net:25461/carlin/carlin/35
 
 #EXTINF:-1 tvg-logo="http://mareatvcable.com/wp-content/uploads/2017/12/44-tntlogo.png" group-title="PREMIUM BRASIL 1",TNT (BR)
-http://br1.e-tv.xyz:8081/live/pizza/pizza/11107.ts
+http://maxptv.ddns.net:25461/carlin/carlin/19
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/cineframe.mx/wp-content/uploads/2017/08/1498152635.png?fit=660%2C660" group-title="PREMIUM BRASIL 1",TNT SERIES (BR)
-http://br1.e-tv.xyz:8081/live/pizza/pizza/3885.ts
+http://maxptv.ddns.net:25461/carlin/carlin/17
 
 #EXTINF:-1 tvg-logo="http://s2.glbimg.com/QQ0n7FZJBvKGjcii_aNn4dvq5f0=/200x200/filters:quality(80)/g.glbimg.com/og/gs/gsat3/f/thumbs/programa/2017/03/09/logo-padrao_5GKjBtK.jpg" group-title="PREMIUM BRASIL 1",UNIVERSAL CHANNEL (BR)
-http://br1.e-tv.xyz:8081/live/pizza/pizza/3872.ts
+http://maxptv.ddns.net:25461/carlin/carlin/11
 
 #EXTINF:-1 tvg-logo="http://television.com.ar/wp-content/uploads/2016/05/wb.jpg" group-title="PREMIUM BRASIL 1",WARNER CHANNEL (BR)
-http://br1.e-tv.xyz:8081/live/pizza/pizza/4618.ts
+http://maxptv.ddns.net:25461/carlin/carlin/3
 
 ######################################################################################################################################
 ####################################### PREMIUM BRASIL 2
@@ -2225,70 +2225,70 @@ http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/p
 #######################################
 
 #EXTINF:-1 tvg-logo="https://cdn.reweb.io/hagah/image/Ohvc12JYV6DTXKzan-JdjEIWKbo=/300x300/top/smart/hagah/a/af/arte-1-affc3424.jpg" group-title="VARIEDADES" pltv-subgroup="VARIEDADES BRASIL",ARTE 1 (BRA)
-http://br1.e-tv.xyz:8081/live/pizza/pizza/4582.ts
+http://maxptv.ddns.net:25461/carlin/carlin/225
 
 #EXTINF:-1 tvg-logo="https://cdn.reweb.io/hagah/image/Ohvc12JYV6DTXKzan-JdjEIWKbo=/300x300/top/smart/hagah/a/af/arte-1-affc3424.jpg" group-title="VARIEDADES" pltv-subgroup="VARIEDADES BRASIL",ARTE 1 ALT (BRA)
 http://br1.e-tv.xyz:8081/live/Said/Said/10900.ts
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1080522229492998144/Eckl0Y2H_400x400.jpg" group-title="VARIEDADES" pltv-subgroup="VARIEDADES BRASIL",BIS (BRA)
-http://br1.e-tv.xyz:8081/live/pizza/pizza/4175.ts
+http://maxptv.ddns.net:25461/carlin/carlin/211
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1080522229492998144/Eckl0Y2H_400x400.jpg" group-title="VARIEDADES" pltv-subgroup="VARIEDADES BRASIL",BIS ALT (BRA)
 http://br1.e-tv.xyz:8081/live/Said/Said/4175.ts
 
 #EXTINF:-1 tvg-logo="https://clarotvlojaonline.com.br/img/channels/20151112155938-canal-curta.png" group-title="VARIEDADES" pltv-subgroup="VARIEDADES BRASIL",CURTA! (BRA)
-http://br1.e-tv.xyz:8081/live/pizza/pizza/4155.ts
+http://maxptv.ddns.net:25461/carlin/carlin/207
 
 #EXTINF:-1 tvg-logo="https://clarotvlojaonline.com.br/img/channels/20151112155938-canal-curta.png" group-title="VARIEDADES" pltv-subgroup="VARIEDADES BRASIL",CURTA! ALT (BRA)
 http://br1.e-tv.xyz:8081/live/Said/Said/10929.ts
 
 #EXTINF:-1 tvg-logo="http://www.logotypes101.com/logos/369/4E6FF8D73A16CA6B1A72995ECB1B5380/eentertainment.png" group-title="VARIEDADES" pltv-subgroup="VARIEDADES BRASIL",E! (BRA)
-http://br1.e-tv.xyz:8081/live/pizza/pizza/4138.ts
+http://maxptv.ddns.net:25461/carlin/carlin/167
 
 #EXTINF:-1 tvg-logo="http://www.logotypes101.com/logos/369/4E6FF8D73A16CA6B1A72995ECB1B5380/eentertainment.png" group-title="VARIEDADES" pltv-subgroup="VARIEDADES BRASIL",E! ALT (BRA)
 http://br1.e-tv.xyz:8081/live/Said/Said/4138.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTShhqAzVKyWfruuXyyg3vFmeA48Gvg_jtxZeZvQEkQ6kvVPBK6" group-title="VARIEDADES" pltv-subgroup="VARIEDADES BRASIL",FILM & ARTS (BRA)
-
+http://maxptv.ddns.net:25461/carlin/carlin/155
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzQl94fUMOB7M0sf5rLh0DxypCvPYhE4t5adsLbMfEV-y-nBsb" group-title="VARIEDADES" pltv-subgroup="VARIEDADES BRASIL",FISH TV (BRA)
-http://br1.e-tv.xyz:8081/live/pizza/pizza/4125.ts
+http://maxptv.ddns.net:25461/carlin/carlin/214
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzQl94fUMOB7M0sf5rLh0DxypCvPYhE4t5adsLbMfEV-y-nBsb" group-title="VARIEDADES" pltv-subgroup="VARIEDADES BRASIL",FISH TV ALT (BRA)
 http://br1.e-tv.xyz:8081/live/Said/Said/4125.ts
 
 #EXTINF:-1 tvg-logo="https://c7.uihere.com/files/345/921/237/food-network-chef-television-cooking-salamander-thumb.jpg" group-title="VARIEDADES" pltv-subgroup="VARIEDADES BRASIL",FOOD NETWORK (BRA)
-http://br1.e-tv.xyz:8081/live/pizza/pizza/4124.ts
+http://maxptv.ddns.net:25461/carlin/carlin/334
 
 #EXTINF:-1 tvg-logo="https://c7.uihere.com/files/345/921/237/food-network-chef-television-cooking-salamander-thumb.jpg" group-title="VARIEDADES" pltv-subgroup="VARIEDADES BRASIL",FOOD NETWORK ALT (BRA)
 http://br1.e-tv.xyz:8081/live/Said/Said/4124.ts
 
 #EXTINF:-1 tvg-logo="https://trilhasecomunica.files.wordpress.com/2010/03/logo_futura.jpg" group-title="VARIEDADES" pltv-subgroup="VARIEDADES BRASIL",FUTURA (BRA)
-http://br1.e-tv.xyz:8081/live/pizza/pizza/4112.ts
+http://maxptv.ddns.net:25461/carlin/carlin/205
 
 #EXTINF:-1 tvg-logo="https://trilhasecomunica.files.wordpress.com/2010/03/logo_futura.jpg" group-title="VARIEDADES" pltv-subgroup="VARIEDADES BRASIL",FUTURA ALT (BRA)
 http://br1.e-tv.xyz:8081/live/Said/Said/4112.ts
 
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0010/7553/brand.gif?itok=CN9KfUaE" group-title="VARIEDADES" pltv-subgroup="VARIEDADES BRASIL",GNT (BRA)
-http://br1.e-tv.xyz:8081/live/pizza/pizza/4093.ts
+http://maxptv.ddns.net:25461/carlin/carlin/135
 
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0010/7553/brand.gif?itok=CN9KfUaE" group-title="VARIEDADES" pltv-subgroup="VARIEDADES BRASIL",GNT ALT (BRA)
 http://br1.e-tv.xyz:8081/live/Said/Said/4093.ts
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/ACSszfEp7PGHvg1oEXnVYaOO3P7K36xNfjlOa8dLeA=s900-mo-c-c0xffffffff-rj-k-no" group-title="VARIEDADES" pltv-subgroup="VARIEDADES BRASIL",LIFETIME (BRA)
-http://br1.e-tv.xyz:8081/live/pizza/pizza/4070.ts
+http://maxptv.ddns.net:25461/carlin/carlin/115
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/ACSszfEp7PGHvg1oEXnVYaOO3P7K36xNfjlOa8dLeA=s900-mo-c-c0xffffffff-rj-k-no" group-title="VARIEDADES" pltv-subgroup="VARIEDADES BRASIL",LIFETIME ALT (BRA)
 http://br1.e-tv.xyz:8081/live/Said/Said/4070.ts
 
 #EXTINF:-1 tvg-logo="https://prosas.com.br/system/oportunidades/logos/000/001/613/show/Globosat_mais.png?1476456083" group-title="VARIEDADES" pltv-subgroup="VARIEDADES BRASIL",MAIS GLOBOSAT (BRA)
-http://br1.e-tv.xyz:8081/live/pizza/pizza/4068.ts
+http://maxptv.ddns.net:25461/carlin/carlin/113
 
 #EXTINF:-1 tvg-logo="https://prosas.com.br/system/oportunidades/logos/000/001/613/show/Globosat_mais.png?1476456083" group-title="VARIEDADES" pltv-subgroup="VARIEDADES BRASIL",MAIS GLOBOSAT ALT (BRA)
 http://br1.e-tv.xyz:8081/live/Said/Said/11014.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqFfU8Q49GFdCA9rZu7NgFORWKevGBPT8VPnX1Hqf2Y5SCnGfo" group-title="VARIEDADES" pltv-subgroup="VARIEDADES BRASIL",MTV (BRA)
-http://br1.e-tv.xyz:8081/live/pizza/pizza/4057.ts
+http://maxptv.ddns.net:25461/carlin/carlin/101
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqFfU8Q49GFdCA9rZu7NgFORWKevGBPT8VPnX1Hqf2Y5SCnGfo" group-title="VARIEDADES" pltv-subgroup="VARIEDADES BRASIL",MTV ALT (BRA)
 http://br1.e-tv.xyz:8081/live/Said/Said/4057.ts
@@ -2297,7 +2297,7 @@ http://br1.e-tv.xyz:8081/live/Said/Said/4057.ts
 
 
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/042014/untitled-1_2.png?itok=hApxuceG" group-title="VARIEDADES" pltv-subgroup="VARIEDADES BRASIL",MULTISHOW (BRA)
-http://br1.e-tv.xyz:8081/live/pizza/pizza/4055.ts
+http://maxptv.ddns.net:25461/carlin/carlin/99
 
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/042014/untitled-1_2.png?itok=hApxuceG" group-title="VARIEDADES" pltv-subgroup="VARIEDADES BRASIL",MULTISHOW ALT (BRA)
 http://br1.e-tv.xyz:8081/live/Said/Said/11027.ts
@@ -2306,28 +2306,28 @@ http://br1.e-tv.xyz:8081/live/Said/Said/11027.ts
 http://br1.e-tv.xyz:8081/live/pizza/pizza/4607.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR53tR9lXMdNmbOHfczhhvs31uMd5oBhYIGsu79X16kg1s-G8TY" group-title="VARIEDADES" pltv-subgroup="VARIEDADES BRASIL",OFF (BR
-http://br1.e-tv.xyz:8081/live/pizza/pizza/4038.ts
+http://maxptv.ddns.net:25461/carlin/carlin/203
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR53tR9lXMdNmbOHfczhhvs31uMd5oBhYIGsu79X16kg1s-G8TY" group-title="VARIEDADES" pltv-subgroup="VARIEDADES BRASIL",OFF ALT (BRA)
 http://br1.e-tv.xyz:8081/live/Said/Said/4038.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnnQ9boXmS2m_wUHYxpqfJTiniRSj5fbZNjrJoZ9ww9VhDOMAK" group-title="VARIEDADES" pltv-subgroup="VARIEDADES BRASIL",PRIME BOX (BRA)
-http://br1.e-tv.xyz:8081/live/pizza/pizza/4018.ts
+http://maxptv.ddns.net:25461/carlin/carlin/67
 
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/b15356ee-546f-4760-b04c-3772d6949002_m.jpg" group-title="VARIEDADES" pltv-subgroup="VARIEDADES BRASIL",TRUTV (BRA)
-http://br1.e-tv.xyz:8081/live/pizza/pizza/3881.ts
+
 
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/b15356ee-546f-4760-b04c-3772d6949002_m.jpg" group-title="VARIEDADES" pltv-subgroup="VARIEDADES BRASIL",TRUTV ALT (BRA)
 http://br1.e-tv.xyz:8081/live/Said/Said/15473.ts
 
 #EXTINF:-1 tvg-logo="https://abrilveja.files.wordpress.com/2016/12/canalviva.png" group-title="VARIEDADES" pltv-subgroup="VARIEDADES BRASIL",VIVA (BRA)
-http://br1.e-tv.xyz:8081/live/pizza/pizza/3868.ts
+http://maxptv.ddns.net:25461/carlin/carlin/5
 
 #EXTINF:-1 tvg-logo="https://abrilveja.files.wordpress.com/2016/12/canalviva.png" group-title="VARIEDADES" pltv-subgroup="VARIEDADES BRASIL",VIVA ALT (BRA)
 http://br1.e-tv.xyz:8081/live/Said/Said/11104.ts
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/W/woohoo-logo-76448936E4-seeklogo.com.png" group-title="VARIEDADES" pltv-subgroup="VARIEDADES BRASIL",WOOHOO (BRA)
-http://br1.e-tv.xyz:8081/live/pizza/pizza/3864.ts
+http://maxptv.ddns.net:25461/carlin/carlin/201
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/W/woohoo-logo-76448936E4-seeklogo.com.png" group-title="VARIEDADES" pltv-subgroup="VARIEDADES BRASIL",WOOHOO ALT (BRA)
 http://br1.e-tv.xyz:8081/live/Said/Said/3864.ts
@@ -2451,94 +2451,94 @@ http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/p
 #######################################
 
 #EXTINF:-1 tvg-logo="http://liveitkodi.com/Logos/BabyTV.png" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTIS BRASIL",BABY TV (BR)
-http://br1.e-tv.xyz:8081/live/pizza/pizza/4184.ts
+http://maxptv.ddns.net:25461/carlin/carlin/221
 
 #EXTINF:-1 tvg-logo="http://liveitkodi.com/Logos/BabyTV.png" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTIS BRASIL",BABY TV ALT (BR)
 http://br1.e-tv.xyz:8081/live/Said/Said/10904.ts
 
 #EXTINF:-1 tvg-logo="http://www.animationmagazine.net/wordpress/wp-content/uploads/boomerang-1503.jpg" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTIS BRASIL",BOOMERANG (BR)
-http://br1.e-tv.xyz:8081/live/pizza/pizza/4172.ts
+http://maxptv.ddns.net:25461/carlin/carlin/209
 
 #EXTINF:-1 tvg-logo="http://www.animationmagazine.net/wordpress/wp-content/uploads/boomerang-1503.jpg" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTIS BRASIL",BOOMERANG ALT (BR)
 http://br1.e-tv.xyz:8081/live/Said/Said/10914.ts
 
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/ar_cartoon-network_m.png" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTIS BRASIL",CARTOON NETWORK (BR)
-http://br1.e-tv.xyz:8081/live/pizza/pizza/4166.ts
+http://maxptv.ddns.net:25461/carlin/carlin/199
 
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/ar_cartoon-network_m.png" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTIS BRASIL",CARTOON NETWORK ALT (BR)
 http://br1.e-tv.xyz:8081/live/Said/Said/10921.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkT4gLv-J4rnTEOX4AE_dX_Sy3ygP-XyJBEyr9rTUFtt6yBP8Y" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTIS BRASIL",DISCOVERY KIDS (BR)
-http://br1.e-tv.xyz:8081/live/pizza/pizza/4150.ts
+http://maxptv.ddns.net:25461/carlin/carlin/183
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkT4gLv-J4rnTEOX4AE_dX_Sy3ygP-XyJBEyr9rTUFtt6yBP8Y" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTIS BRASIL",DISCOVERY KIDS ALT (BR)
 http://br1.e-tv.xyz:8081/live/Said/Said/10937.ts
 
 #EXTINF:-1 tvg-logo="http://logosvector.net/wp-content/uploads/2014/07/new-disney-channel-logo.png" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTIS BRASIL",DISNEY (BR)
-http://br1.e-tv.xyz:8081/live/pizza/pizza/4144.ts
+http://maxptv.ddns.net:25461/carlin/carlin/173
 
 #EXTINF:-1 tvg-logo="http://logosvector.net/wp-content/uploads/2014/07/new-disney-channel-logo.png" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTIS BRASIL",DISNEY ALT (BR)
 http://br1.e-tv.xyz:8081/live/Said/Said/10947.ts
 
 #EXTINF:-1 tvg-logo="https://imgur.com/EKvqypE.png" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTIS BRASIL",DISNEY JR (BR)
-http://br1.e-tv.xyz:8081/live/pizza/pizza/4142.ts
+http://maxptv.ddns.net:25461/carlin/carlin/171
 
 #EXTINF:-1 tvg-logo="https://imgur.com/EKvqypE.png" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTIS BRASIL",DISNEY JR ALT (BR)
 http://br1.e-tv.xyz:8081/live/Said/Said/10949.ts
 
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/cl_disney-xd_m.png" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTIS BRASIL",DISNEY XD (BR)
-http://br1.e-tv.xyz:8081/live/pizza/pizza/4140.ts
+http://maxptv.ddns.net:25461/carlin/carlin/169
 
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/cl_disney-xd_m.png" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTIS BRASIL",DISNEY XD ALT (BR)
 http://br1.e-tv.xyz:8081/live/Said/Said/10950.ts
 
 #EXTINF:-1 tvg-logo="http://listaccess.me/Logo/Gloob1.png" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTIS BRASIL",GLOOB (BR)
-http://br1.e-tv.xyz:8081/live/pizza/pizza/4095.ts
+http://maxptv.ddns.net:25461/carlin/carlin/137
 
 #EXTINF:-1 tvg-logo="http://listaccess.me/Logo/Gloob1.png" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTIS BRASIL",GLOOB ALT (BR)
 http://br1.e-tv.xyz:8081/live/Said/Said/10989.ts
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/91/GloobinhoLogo.png/revision/latest?cb=20180321013237" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTIS BRASIL",GLOOBINHO (BR)
-http://br1.e-tv.xyz:8081/live/pizza/pizza/10992.ts
+
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/91/GloobinhoLogo.png/revision/latest?cb=20180321013237" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTIS BRASIL",GLOOBINHO ALT (BR)
 http://br1.e-tv.xyz:8081/live/Said/Said/10992.ts
 
 #EXTINF:-1 tvg-logo="http://listaccess.me/Logo/natgeokids1.png" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTIS BRASIL",NAT GEO KIDS (BR)
-http://br1.e-tv.xyz:8081/live/pizza/pizza/4052.ts
+http://maxptv.ddns.net:25461/carlin/carlin/97
 
 #EXTINF:-1 tvg-logo="http://listaccess.me/Logo/natgeokids1.png" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTIS BRASIL",NAT GEO KIDS ALT (BR)
 http://br1.e-tv.xyz:8081/live/Said/Said/11033.ts
 
 #EXTINF:-1 tvg-logo="http://listaccess.me/Logo/nick1.png" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTIS BRASIL",NICKELODEON (BR)
-http://br1.e-tv.xyz:8081/live/pizza/pizza/4041.ts
+http://maxptv.ddns.net:25461/carlin/carlin/87
 
 #EXTINF:-1 tvg-logo="http://listaccess.me/Logo/nick1.png" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTIS BRASIL",NICKELODEON ALT (BR)
 http://br1.e-tv.xyz:8081/live/Said/Said/11040.ts
 
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41DAgNJEGkL._SY355_.png" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTIS BRASIL",NICK JR (BR)
-http://br1.e-tv.xyz:8081/live/pizza/pizza/4043.ts
+http://maxptv.ddns.net:25461/carlin/carlin/89
 
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41DAgNJEGkL._SY355_.png" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTIS BRASIL",NICK JR ALT (BR)
 http://br1.e-tv.xyz:8081/live/Said/Said/11038.ts
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/RCwxVGavU2yW8EeIU5f2HD4tQhb-DZFSO6cYShrIfK70fHSzrBIUO5QsUbDMNpTaUw=s180-rw" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTIS BRASIL",PLAY KIDS (BR)
-http://br1.e-tv.xyz:8081/live/pizza/pizza/4034.ts
+
 
 #EXTINF:-1 tvg-logo="https://www.mediaportal.com.br/wp-content/uploads/2014/08/logos-clientes-22.jpg" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTIS BRASIL",RA TIM BUM (BR)
-http://br1.e-tv.xyz:8081/live/pizza/pizza/11119.ts
+http://maxptv.ddns.net:25461/carlin/carlin/65
 
 #EXTINF:-1 tvg-logo="https://www.mediaportal.com.br/wp-content/uploads/2014/08/logos-clientes-22.jpg" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTIS BRASIL",RA TIM BUM ALT (BR)
 http://br1.e-tv.xyz:8081/live/Said/Said/11119.ts
 
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/gt_tooncast_m.png" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTIS BRASIL",TOONCAST (BR)
-http://br1.e-tv.xyz:8081/live/pizza/pizza/3883.ts
+http://maxptv.ddns.net:25461/carlin/carlin/15
 
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/gt_tooncast_m.png" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTIS BRASIL",TOONCAST ALT (BR)
 http://br1.e-tv.xyz:8081/live/Said/Said/3883.ts
 
 #EXTINF:-1 tvg-logo="https://static1.squarespace.com/static/53d0472ce4b07de11ec7e3cc/t/53e39f57e4b0aa880a303a1e/1407426426257/" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTIS BRASIL",ZOOMOO (BR)
-
+http://maxptv.ddns.net:25461/carlin/carlin/1
 
 #EXTINF:-1 tvg-logo="https://static1.squarespace.com/static/53d0472ce4b07de11ec7e3cc/t/53e39f57e4b0aa880a303a1e/1407426426257/" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTIS BRASIL",ZOOMOO ALT (BR)
 
@@ -2607,7 +2607,7 @@ http://216.245.204.227:8054/live
 
 
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple18/v4/19/f3/2b/19f32bd3-1a35-08a7-0c7d-729ffa0bce97/pr_source.png/1200x630bb.png" group-title="NOTICIAS",BAND NEWS (BRA)
-http://br1.e-tv.xyz:8081/live/pizza/pizza/4180.ts
+http://maxptv.ddns.net:25461/carlin/carlin/217
 
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple18/v4/19/f3/2b/19f32bd3-1a35-08a7-0c7d-729ffa0bce97/pr_source.png/1200x630bb.png" group-title="NOTICIAS",BAND NEWS ALT (BRA)
 http://br1.e-tv.xyz:8081/live/Said/Said/10907.ts
@@ -2637,7 +2637,7 @@ http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
 http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master_900.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/926499453158137857/V72h9Tzw_400x400.jpg" group-title="NOTICIAS",GLOBO NEWS (BRA)
-http://br1.e-tv.xyz:8081/live/pizza/pizza/4104.ts
+
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/926499453158137857/V72h9Tzw_400x400.jpg" group-title="NOTICIAS",GLOBO NEWS ALT (BRA)
 http://br1.e-tv.xyz:8081/live/Said/Said/10872.ts
@@ -2652,7 +2652,7 @@ http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_51
 
 
 #EXTINF:-1 tvg-logo="https://tv.i.uol.com.br/televisao/2012/02/27/nova-logomarca-da-record-news-2012-1330350392176_300x300.jpg" group-title="NOTICIAS",RECORD NEWS (BR)
-http://br1.e-tv.xyz:8081/live/pizza/pizza/3935.ts
+
 
 #EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/RAI_News24_2013-1.png" group-title="NOTICIAS",RAI NEWS 24 (ITA)
 http://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews_1800/chunklist.m3u8
@@ -2777,91 +2777,91 @@ http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/p
 #######################################
 
 #EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/020/original/pic_a_e.png?1522180692" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTAIS BRASIL",A&E (BR)
-http://br1.e-tv.xyz:8081/live/pizza/pizza/4194.ts
+http://maxptv.ddns.net:25461/carlin/carlin/230
 
 #EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/020/original/pic_a_e.png?1522180692" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTAIS BRASIL",A&E ALT (BR)
 http://br1.e-tv.xyz:8081/live/Said/Said/4194.ts
 
 #EXTINF:-1 tvg-logo="https://identidaddemarca.files.wordpress.com/2014/02/animal-planet.jpg" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTAIS BRASIL",ANIMAL PLANET (BR)
-http://br1.e-tv.xyz:8081/live/pizza/pizza/4191.ts
+http://maxptv.ddns.net:25461/carlin/carlin/232
 
 #EXTINF:-1 tvg-logo="https://identidaddemarca.files.wordpress.com/2014/02/animal-planet.jpg" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTAIS BRASIL",ANIMAL PLANET ALT (BR)
 http://br1.e-tv.xyz:8081/live/Said/Said/10898.ts
 
 #EXTINF:-1 tvg-logo="https://images.bwwstatic.com/columnpic8/2F6BFDD1F-EEB8-AAA9-2B085A8D7135990F.jpg" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTAIS BRASIL",DISCOVERY (BR)
-http://br1.e-tv.xyz:8081/live/pizza/pizza/4154.ts
+http://maxptv.ddns.net:25461/carlin/carlin/189
 
 #EXTINF:-1 tvg-logo="https://images.bwwstatic.com/columnpic8/2F6BFDD1F-EEB8-AAA9-2B085A8D7135990F.jpg" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTAIS BRASIL",DISCOVERY ALT (BR)
 http://br1.e-tv.xyz:8081/live/Said/Said/10931.ts
 
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/co_discovery-civilization_m.png" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTAIS BRASIL",DISCOVERY CIVILIZATION (BR)
-http://br1.e-tv.xyz:8081/live/pizza/pizza/4600.ts
+http://maxptv.ddns.net:25461/carlin/carlin/187
 
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/co_discovery-civilization_m.png" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTAIS BRASIL",DISCOVERY CIVILIZATION ALT (BR)
 http://br1.e-tv.xyz:8081/live/Said/Said/10933.ts
 
 #EXTINF:-1 tvg-logo="https://cdn.reweb.io/hagah/image/DogXNIjfvnZQ-U6-iKRLtRF8-Vo=/300x300/top/smart/hagah/f/f8/home-and-health-f804aa9c.png" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTAIS BRASIL",DISCOVERY H&H (BR)
-http://br1.e-tv.xyz:8081/live/pizza/pizza/4152.ts
+http://maxptv.ddns.net:25461/carlin/carlin/185
 
 #EXTINF:-1 tvg-logo="https://cdn.reweb.io/hagah/image/DogXNIjfvnZQ-U6-iKRLtRF8-Vo=/300x300/top/smart/hagah/f/f8/home-and-health-f804aa9c.png" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTAIS BRASIL",DISCOVERY H&H ALT (BR)
 http://br1.e-tv.xyz:8081/live/Said/Said/4152.ts
 
 #EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/027/original/pic_investigactiondisc.png?1522177058" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTAIS BRASIL",DISCOVERY ID (BR)
-http://br1.e-tv.xyz:8081/live/pizza/pizza/4075.ts
+http://maxptv.ddns.net:25461/carlin/carlin/117
 
 #EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/027/original/pic_investigactiondisc.png?1522177058" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTAIS BRASIL",DISCOVERY ID ALT (BR)
 http://br1.e-tv.xyz:8081/live/Said/Said/4075.ts
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logos2/images/f/f2/Discovery_Science_logo.png/revision/latest?cb=20180514182753" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTAIS BRASIL",DISCOVERY SCIENCE (BR)
-http://br1.e-tv.xyz:8081/live/pizza/pizza/7633.ts
+http://maxptv.ddns.net:25461/carlin/carlin/181
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logos2/images/f/f2/Discovery_Science_logo.png/revision/latest?cb=20180514182753" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTAIS BRASIL",DISCOVERY SCIENCE ALT (BR)
 http://br1.e-tv.xyz:8081/live/Said/Said/7633.ts
 
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/ar_discovery-hd-theater_m.png" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTAIS BRASIL",DISCOVERY THEATER (BR)
-http://br1.e-tv.xyz:8081/live/pizza/pizza/10941.ts
+http://maxptv.ddns.net:25461/carlin/carlin/180
 
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/ar_discovery-hd-theater_m.png" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTAIS BRASIL",DISCOVERY THEATER ALT (BR)
 http://br1.e-tv.xyz:8081/live/Said/Said/4148.ts
 
 #EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/728-188x188-948939438.jpg" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTAIS BRASIL",DISCOVERY TURBO (BR)
-http://br1.e-tv.xyz:8081/live/pizza/pizza/4147.ts
+http://maxptv.ddns.net:25461/carlin/carlin/177
 
 #EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/728-188x188-948939438.jpg" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTAIS BRASIL",DISCOVERY TURBO ALT (BR)
 http://br1.e-tv.xyz:8081/live/Said/Said/4147.ts
 
 #EXTINF:-1 tvg-logo="http://protv.ua/imglib/_newimage/news/tv/71239/02a33168dcf786c5cd279576417c816d.jpg" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTAIS BRASIL",DISCOVERY WORLD (BR)
-http://br1.e-tv.xyz:8081/live/pizza/pizza/10945.ts
+http://maxptv.ddns.net:25461/carlin/carlin/175
 
 #EXTINF:-1 tvg-logo="http://protv.ua/imglib/_newimage/news/tv/71239/02a33168dcf786c5cd279576417c816d.jpg" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTAIS BRASIL",DISCOVERY WORLD ALT (BR)
 http://br1.e-tv.xyz:8081/live/Said/Said/4145.ts
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/35/13/17/35131727c2635cec3274d9bd93868db2.png" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTAIS BRASIL",HISTORY (BR)
-http://br1.e-tv.xyz:8081/live/pizza/pizza/4079.ts
+http://maxptv.ddns.net:25461/carlin/carlin/119
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/35/13/17/35131727c2635cec3274d9bd93868db2.png" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTAIS BRASIL",HISTORY ALT (BR)
 http://br1.e-tv.xyz:8081/live/Said/Said/11008.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO3wZdJpGtSgoimpmTW8L-kTCunf7Lx7f5FKDsGx4t6scZbaPj" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTAIS BRASIL",H2 (BR)
-http://br1.e-tv.xyz:8081/live/pizza/pizza/4091.ts
+http://maxptv.ddns.net:25461/carlin/carlin/133
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO3wZdJpGtSgoimpmTW8L-kTCunf7Lx7f5FKDsGx4t6scZbaPj" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTAIS BRASIL",H2 ALT (BR)
 http://br1.e-tv.xyz:8081/live/Said/Said/4091.ts
 
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-v4OGeGQcdcQ/U91s7yMEbdI/AAAAAAAAEv8/2PneO2oDeW4/s1600/%D8%AA%D8%B1%D8%AF%D8%AF+%D9%82%D9%86%D8%A7%D8%A9+%D9%86%D8%A7%D8%B4%D9%88%D9%86%D8%A7%D9%84+%D8%AC%D9%8A%D9%88%D8%BA%D8%B1%D8%A7%D9%81%D9%8A%D9%83+%D8%A7%D8%A8%D9%88+%D8%B8%D8%A8%D9%8A.jpg" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTAIS BRASIL",NATIONAL GEOGRAPHIC (BR)
-http://br1.e-tv.xyz:8081/live/pizza/pizza/4048.ts
+http://maxptv.ddns.net:25461/carlin/carlin/93
 
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-v4OGeGQcdcQ/U91s7yMEbdI/AAAAAAAAEv8/2PneO2oDeW4/s1600/%D8%AA%D8%B1%D8%AF%D8%AF+%D9%82%D9%86%D8%A7%D8%A9+%D9%86%D8%A7%D8%B4%D9%88%D9%86%D8%A7%D9%84+%D8%AC%D9%8A%D9%88%D8%BA%D8%B1%D8%A7%D9%81%D9%8A%D9%83+%D8%A7%D8%A8%D9%88+%D8%B8%D8%A8%D9%8A.jpg" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTAIS BRASIL",NATIONAL GEOGRAPHIC ALT (BR)
 http://br1.e-tv.xyz:8081/live/Said/Said/11031.ts
 
 #EXTINF:-1 tvg-logo="https://store-images.s-microsoft.com/image/apps.38362.9007199266248558.b38de5e9-b620-4158-96c4-140dbec2fa38.c9a2b00a-fc89-47c9-80e0-9b23a21d4fc6?w=180&h=180&q=60" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTAIS BRASIL",NAT GEO WILD (BR)
-http://br1.e-tv.xyz:8081/live/pizza/pizza/11036.ts
+http://maxptv.ddns.net:25461/carlin/carlin/95
 
 #EXTINF:-1 tvg-logo="https://store-images.s-microsoft.com/image/apps.38362.9007199266248558.b38de5e9-b620-4158-96c4-140dbec2fa38.c9a2b00a-fc89-47c9-80e0-9b23a21d4fc6?w=180&h=180&q=60" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTAIS BRASIL",NAT GEO WILD ALT (BR)
 http://br1.e-tv.xyz:8081/live/Said/Said/11036.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwDSARUwScqWwvHkma2WwuF5U8xmjq9KSDX-r8qW3xJfKt13KV" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTAIS BRASIL",TLC (BR)
-http://br1.e-tv.xyz:8081/live/pizza/pizza/11105.ts
+http://maxptv.ddns.net:25461/carlin/carlin/21
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwDSARUwScqWwvHkma2WwuF5U8xmjq9KSDX-r8qW3xJfKt13KV" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTAIS BRASIL",TLC ALT (BR)
 http://br1.e-tv.xyz:8081/live/Said/Said/3889.ts
@@ -2906,7 +2906,7 @@ http://194.67.208.149/hls/110.m3u8
 http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://imagem.natelinha.uol.com.br/grande/832f3c780c126f99db591aa7e12bcb6c.jpg" group-title="DEPORTES/ESPORTES",BAND SPORTS (BR)
-http://br1.e-tv.xyz:8081/live/pizza/pizza/4179.ts
+http://maxptv.ddns.net:25461/carlin/carlin/215
 
 #EXTINF:-1  tvg-logo="https://imagem.natelinha.uol.com.br/grande/832f3c780c126f99db591aa7e12bcb6c.jpg" group-title="DEPORTES/ESPORTES",BAND SPORTS ALT (BR)
 http://br1.e-tv.xyz:8081/live/Said/Said/10909.ts
@@ -2972,7 +2972,7 @@ http://shacktv.com:8080/live/skylar/skylar/61053.ts
 
 
 #EXTINF:-1 tvg-logo="http://s.glbimg.com/es/ge/static/live/combate/img/logo_combate_facebook.jpg" group-title="DEPORTES/ESPORTES",COMBATE (BR)
-http://br1.e-tv.xyz:8081/live/pizza/pizza/7632.ts
+http://maxptv.ddns.net:25461/carlin/carlin/195
 
 #EXTINF:-1 tvg-logo="http://s.glbimg.com/es/ge/static/live/combate/img/logo_combate_facebook.jpg" group-title="DEPORTES/ESPORTES",COMBATE ALT (BR)
 http://br1.e-tv.xyz:8081/live/Said/Said/10925.ts
@@ -3038,22 +3038,22 @@ http://shacktv.com:8080/live/skylar/skylar/46.ts
 http://shacktv.com:8080/live/skylar/skylar/61101.ts
 
 #EXTINF:-1 tvg-logo="https://bloximages.newyork1.vip.townnews.com/lancasteronline.com/content/tncms/assets/v3/editorial/6/a3/6a33a76a-2aab-11e7-8cfd-2fdf8678edd2/5900e2482259c.image.png" group-title="DEPORTES/ESPORTES",ESPN (BR)
-http://br1.e-tv.xyz:8081/live/pizza/pizza/4132.ts
+http://maxptv.ddns.net:25461/carlin/carlin/159
 
 #EXTINF:-1 tvg-logo="https://bloximages.newyork1.vip.townnews.com/lancasteronline.com/content/tncms/assets/v3/editorial/6/a3/6a33a76a-2aab-11e7-8cfd-2fdf8678edd2/5900e2482259c.image.png" group-title="DEPORTES/ESPORTES",ESPN ALT (BR)
 http://br1.e-tv.xyz:8081/live/Said/Said/4132.ts
 
 #EXTINF:-1 tvg-logo="https://images.clipartlogo.com/files/images/56/560701/espn-brasil_f.png" group-title="DEPORTES/ESPORTES",ESPN BRASIL (BR)
-http://br1.e-tv.xyz:8081/live/pizza/pizza/4131.ts
+http://maxptv.ddns.net:25461/carlin/carlin/163
 
 #EXTINF:-1 tvg-logo="https://images.clipartlogo.com/files/images/56/560701/espn-brasil_f.png" group-title="DEPORTES/ESPORTES",ESPN BRASIL ALT (BR)
 http://br1.e-tv.xyz:8081/live/Said/Said/4131.ts
 
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/mx_espn-2_m.png" group-title="DEPORTES/ESPORTES",ESPN 2 (BR)
-http://br1.e-tv.xyz:8081/live/Said/Said/11857.ts
+http://maxptv.ddns.net:25461/carlin/carlin/161
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/gallery_11278_7_957.png" group-title="DEPORTES/ESPORTES",ESPN EXTRA (BR)
-http://br1.e-tv.xyz:8081/live/pizza/pizza/10960.ts
+http://maxptv.ddns.net:25461/carlin/carlin/157
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1QulOdJiI4y40HNstbsqUteCyCjpYUPe7Q3vq1J4ma4FE5SzH" group-title="DEPORTES/ESPORTES",ESPN NEWS (USA)
 
@@ -3116,13 +3116,13 @@ http://shacktv.com:8080/live/skylar/skylar/36.ts
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3siiXt2YMBgW_LL0mfXCpTWNAwQ8t6IvyPMbCs76NSZrx7ti6NQ" group-title="DEPORTES/ESPORTES",FOX SPORTS (BR)
-http://br1.e-tv.xyz:8081/live/pizza/pizza/4116.ts
+http://maxptv.ddns.net:25461/carlin/carlin/143
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3siiXt2YMBgW_LL0mfXCpTWNAwQ8t6IvyPMbCs76NSZrx7ti6NQ" group-title="DEPORTES/ESPORTES",FOX SPORTS ALT (BR)
 http://br1.e-tv.xyz:8081/live/Said/Said/10981.ts
 
 #EXTINF:-1 tvg-logo="http://midiafatos.com.br/wp-content/uploads/2017/02/fox_sports2_N.png" group-title="DEPORTES/ESPORTES",FOX SPORTS 2 SD (BR)
-http://br1.e-tv.xyz:8081/live/pizza/pizza/4115.ts
+http://maxptv.ddns.net:25461/carlin/carlin/145
 
 #EXTINF:-1 tvg-logo="http://midiafatos.com.br/wp-content/uploads/2017/02/fox_sports2_N.png" group-title="DEPORTES/ESPORTES",FOX SPORTS 2 ALT (BR)
 http://br1.e-tv.xyz:8081/live/Said/Said/10983.ts
@@ -3176,31 +3176,31 @@ http://shacktv.com:8080/live/skylar/skylar/61244.m3u8
 http://extremo.dyndns.ws:25461/live/Mundo/Mundo2/2829.ts
 
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/--s7q1XyGWug/WhR5gObOa0I/AAAAAAAAe-g/6SEOR4cFePE6YBcI1VxIPvKsUiD1Kr8PgCK4BGAYYCw/s1600/pfc.png" group-title="DEPORTES/ESPORTES",PREMIERE CLUBES (BR)
-http://br1.e-tv.xyz:8081/live/pizza/pizza/4020.ts
+http://maxptv.ddns.net:25461/carlin/carlin/81
 
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/--s7q1XyGWug/WhR5gObOa0I/AAAAAAAAe-g/6SEOR4cFePE6YBcI1VxIPvKsUiD1Kr8PgCK4BGAYYCw/s1600/pfc.png" group-title="DEPORTES/ESPORTES",PREMIERE CLUBES ALT (BR)
 http://br1.e-tv.xyz:8081/live/Said/Said/4020.ts
 
 #EXTINF:-1 tvg-logo="http://sky.vteximg.com.br/arquivos/ids/156116/premiere.png?v=636446348764830000" group-title="DEPORTES/ESPORTES",PREMIERE 2
-http://br1.e-tv.xyz:8081/live/pizza/pizza/4032.ts
+http://maxptv.ddns.net:25461/carlin/carlin/79
 
 #EXTINF:-1 tvg-logo="http://sky.vteximg.com.br/arquivos/ids/156116/premiere.png?v=636446348764830000" group-title="DEPORTES/ESPORTES",PREMIERE 3
-http://br1.e-tv.xyz:8081/live/pizza/pizza/4031.ts
+http://maxptv.ddns.net:25461/carlin/carlin/77
 
 #EXTINF:-1 tvg-logo="http://sky.vteximg.com.br/arquivos/ids/156116/premiere.png?v=636446348764830000" group-title="DEPORTES/ESPORTES",PREMIERE 4
-http://br1.e-tv.xyz:8081/live/pizza/pizza/4029.ts
+http://maxptv.ddns.net:25461/carlin/carlin/75
 
 #EXTINF:-1 tvg-logo="http://sky.vteximg.com.br/arquivos/ids/156116/premiere.png?v=636446348764830000" group-title="DEPORTES/ESPORTES",PREMIERE 5
-http://br1.e-tv.xyz:8081/live/pizza/pizza/4027.ts
+http://maxptv.ddns.net:25461/carlin/carlin/73
 
 #EXTINF:-1 tvg-logo="http://sky.vteximg.com.br/arquivos/ids/156116/premiere.png?v=636446348764830000" group-title="DEPORTES/ESPORTES",PREMIERE 6
-http://br1.e-tv.xyz:8081/live/pizza/pizza/4025.ts
+http://maxptv.ddns.net:25461/carlin/carlin/71
 
 #EXTINF:-1 tvg-logo="http://sky.vteximg.com.br/arquivos/ids/156116/premiere.png?v=636446348764830000" group-title="DEPORTES/ESPORTES",PREMIERE 7
-http://br1.e-tv.xyz:8081/live/pizza/pizza/4614.ts
+http://maxptv.ddns.net:25461/carlin/carlin/69
 
 #EXTINF:-1 tvg-logo="http://sky.vteximg.com.br/arquivos/ids/156116/premiere.png?v=636446348764830000" group-title="DEPORTES/ESPORTES",PREMIERE 8
-http://br1.e-tv.xyz:8081/live/pizza/pizza/4022.ts
+
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/868157568597630976/DJOeJK0t_400x400.jpg" group-title="DEPORTES/ESPORTES",PX SPORTS (LAT)
 
@@ -3212,19 +3212,19 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebas
 http://iptv.matthuisman.nz/nz/tv.redbull.tv.m3u8
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/sportv-logo-96B30D079F-seeklogo.com.gif" group-title="DEPORTES/ESPORTES",SPORTV (BR)
-http://br1.e-tv.xyz:8081/live/pizza/pizza/3914.ts
+http://maxptv.ddns.net:25461/carlin/carlin/47
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/sportv-logo-96B30D079F-seeklogo.com.gif" group-title="DEPORTES/ESPORTES",SPORTV ALT (BR)
 http://br1.e-tv.xyz:8081/live/Said/Said/3914.ts
 
 #EXTINF:-1 tvg-logo="https://www.clarotvlojaonline.com.br/img/channels/20151112154952-canal-sport-tv-2.png" group-title="DEPORTES/ESPORTES",SPORTV 2 (BR)
-http://br1.e-tv.xyz:8081/live/pizza/pizza/3913.ts
+http://maxptv.ddns.net:25461/carlin/carlin/45
 
 #EXTINF:-1 tvg-logo="https://www.clarotvlojaonline.com.br/img/channels/20151112154952-canal-sport-tv-2.png" group-title="DEPORTES/ESPORTES",SPORTV 2 ALT (BR)
 http://br1.e-tv.xyz:8081/live/Said/Said/3913.ts
 
 #EXTINF:-1 tvg-logo="https://icfut.files.wordpress.com/2013/03/sportv_3.jpg" group-title="DEPORTES/ESPORTES",SPORTV 3 SD (BR)
-http://br1.e-tv.xyz:8081/live/pizza/pizza/3911.ts
+http://maxptv.ddns.net:25461/carlin/carlin/43
 
 #EXTINF:-1 tvg-logo="https://icfut.files.wordpress.com/2013/03/sportv_3.jpg" group-title="DEPORTES/ESPORTES",SPORTV 3 ALT (BR)
 http://br1.e-tv.xyz:8081/live/Said/Said/3911.ts
