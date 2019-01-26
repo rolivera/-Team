@@ -188,8 +188,8 @@ http://streamtv.com.br:80/test/test/1613
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/R/rbs-tv-logo-567F6184F4-seeklogo.com.png" group-title="BRASIL",GLOBO RBS (BR)
 http://streamtv.com.br:80/test/test/1612
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIfHqc0-6bW6ObIrEs4nFnNiFqCJUCBUvH5W0k0LWii0g13uBK" group-title="BRASIL",GLOBO PREMIUM HD (BR)
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIfHqc0-6bW6ObIrEs4nFnNiFqCJUCBUvH5W0k0LWii0g13uBK" group-title="BRASIL",GLOBO PREMIUM (BR)
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/13173.m3u8
 
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/042013/untitled-1_148.png?itok=ld2drTRm" group-title="BRASIL",NBR HD (BR)
 
@@ -353,8 +353,8 @@ http://shacktv.com:8080/live/skylar/skylar/61043.ts
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/co_cali-tv_m.png" group-title="COLOMBIA",CALI TV (COL)
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSetNpXYP8_CJaxAgqNbHdOyLcyrY9eQx7Dvv7X2RQwmpAWxYm9" group-title="COLOMBIA",CARACOL FHD (COL)
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSetNpXYP8_CJaxAgqNbHdOyLcyrY9eQx7Dvv7X2RQwmpAWxYm9" group-title="COLOMBIA",CARACOL (COL)
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/14122.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSetNpXYP8_CJaxAgqNbHdOyLcyrY9eQx7Dvv7X2RQwmpAWxYm9" group-title="COLOMBIA",CARACOL HD (COL)
 http://shacktv.com:8080/live/skylar/skylar/61050.ts
@@ -760,7 +760,7 @@ http://shacktv.com:8080/live/skylar/skylar/61099.ts
 
 
 #EXTINF:-1 tvg-logo="http://blancolorenz.com/wp-content/uploads/2012/06/TLNovelas.png" group-title="MEXICO",TLNOVELAS (MEX)
-
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/14309.m3u8
 
 #EXTINF:-1 tvg-logo="http://blancolorenz.com/wp-content/uploads/2012/06/TLNovelas.png" group-title="MEXICO",TLNOVELAS SD (MEX)
 
@@ -796,16 +796,16 @@ http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/p
 #######################################
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-9o1hrNBbzMg/WErbZ6j9pcI/AAAAAAAAEfk/zKiP3sfdw8kB7aVifb8voJ3uEKbyLH60QCLcB/s1600/La-Tele.jpg" group-title="PARAGUAY",LA TELE (PAR)
-
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/14075.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.mi.tv/channels/f3ace021-a5ae-4c24-9824-309dc2b32fe0_m.jpg" group-title="PARAGUAY",Paraguay TV (PAR)
-
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/14074.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.mi.tv/channels/py_red-guarani_m.png" group-title="PARAGUAY",RED GUARANI (PAR)
-
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/14072.m3u8
 
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/9ecff249-5118-4973-9daa-b65bb4374b06_m.jpg" group-title="PARAGUAY",TELEFUTURO (PAR)
-
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/14068.m3u8
 
 ######################################################################################################################################
 ####################################### PERU
@@ -814,7 +814,7 @@ http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/p
 #######################################
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_america-television_m.png" group-title="PERU",AMERICA TV (PER)
-
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/14066.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_america-television_m.png" group-title="PERU",AMERICA TV ALT (PER)
 
@@ -823,10 +823,10 @@ http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/p
 http://173.192.105.252:1935/iptvantares/liveantarestv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2018/01/atv.png?resize=218%2C150" group-title="PERU",ATV (PER)
-
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/14065.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/atv.png?resize=218%2C150" group-title="PERU",ATV PLUS (PER)
-
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/13042.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi7dwi6zcgfauHR07Vmz3dLsR5pAEOVOpxLS0fYGzC2Br3LvKK" group-title="PERU",BHTV (PER)
 
@@ -859,28 +859,28 @@ http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 http://movil.mediastream.pe/vv_manosdios/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1JIzoLMktUf6pIoKgynYr_TbzBcp1XxuIEykq-0wudlssNPSu" group-title="PERU",LATINA
-
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/13039.m3u8
 
 #EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/2414323/logo_mega%20tv.png" group-title="PERU",MEGA TV 
 http://play.hostreamperu.com:1935/8016/8016/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.tvalacarta.info/canales/256x256/panamericana.png" group-title="PERU",PANAMERICANA TV (PER)
-
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/13037.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcnyK-63wU6oD9OmlcE4isrUeeoaRuYx3L2R0yJOg1PEfWQ2hF" group-title="PERU",PAX TV (PER)
 http://d2fxrfbiedz1tm.cloudfront.net/livepaxtv/smil:PC.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv-yfQzSPYaXoCT59S8P0wmV_6acn3levjBnj5hiT3bvnHRgiJ" group-title="PERU",PERU MAGICO (PER)
-
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/13036.m3u8
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/www.mercadonegro.pe/wp-content/uploads/2017/05/11150958_983024775048830_2466650008896508480_n.jpg?resize=336%2C336" group-title="PERU",PLUS TV (PER)
-
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/13035.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/horarios_73.png" group-title="PERU",TV NOTICIAS 7.3 (PER)
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIPE0002&mode=12
 
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-Mcc2xCpSKWQ/UF6PxaiQZYI/AAAAAAAACQU/BLm5ZUhxzfs/s1600/LOGOTVPERU.jpg" group-title="PERU",TV PERU (PER)
-
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/13034.m3u8
 
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-Mcc2xCpSKWQ/UF6PxaiQZYI/AAAAAAAACQU/BLm5ZUhxzfs/s1600/LOGOTVPERU.jpg" group-title="PERU",TV PERU HD (PER)
 http://cdnh15.iblups.com/hls/R9WtilpKKB.m3u8
@@ -1020,7 +1020,6 @@ http://shacktv.com:8080/live/skylar/skylar/105600.ts
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/AN66SAw1OzI-uSvA_HamSiFLdd6DxN2cEg9tGET7Vw=s900-mo-c-c0xffffffff-rj-k-no" group-title="URUGUAY",CARDINAL TV (URU)
 http://shacktv.com:8080/live/skylar/skylar/105598.ts
 
-
 EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/3o0yyG3Wnsc/maxresdefault.jpg" group-title="URUGUAY",LA RED (URU)
 http://shacktv.com:8080/live/55555/55555/105612.ts
 
@@ -1036,8 +1035,14 @@ http://shacktv.com:8080/live/skylar/skylar/105591.ts
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-gXhn1i6LiCM/VKOv0_4IFfI/AAAAAAAAFmw/qoNG1mHsytc/s640/blogger-image--648257053.jpg" group-title="URUGUAY",SAETA 10 (URU)
 http://shacktv.com:8080/live/skylar/skylar/105583.ts
 
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-gXhn1i6LiCM/VKOv0_4IFfI/AAAAAAAAFmw/qoNG1mHsytc/s640/blogger-image--648257053.jpg" group-title="URUGUAY",SAETA 10 ALT (URU)
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/13004.m3u8
+
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/61/Teledoce_logo.png/revision/latest?cb=20140706162325" group-title="URUGUAY",TELEDOCE (URU)
 http://shacktv.com:8080/live/skylar/skylar/105582.ts
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/61/Teledoce_logo.png/revision/latest?cb=20140706162325" group-title="URUGUAY",TELEDOCE ALT (URU)
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/13003.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1eS8gxcJ1kxicoDvzok6mx560uEa6s41EFmTvdgu00I-kuIPM" group-title="URUGUAY",URUGUAY NATURAL
 http://shacktv.com:8080/live/skylar/skylar/105588.ts
@@ -1049,7 +1054,10 @@ http://shacktv.com:8080/live/skylar/skylar/105587.ts
 http://shacktv.com:8080/live/skylar/skylar/105584.ts
 
 #EXTINF:-1 tvg-logo="https://mlstaticquic-a.akamaihd.net/2android-tv-box-750-canales-de-cable-canales-uruguayos-y-vtv-D_NQ_NP_884222-MLU26628807182_012018-F.jpg" group-title="URUGUAY",VTV (URU)
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/13000.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd_qBAeUfhUl2q8-nR9zdA_9nNoKZ4TnP7AkZoYF8CKrer9isj" group-title="URUGUAY",VTV + (URU)
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/13001.m3u8
 
 
 ######################################################################################################################################
@@ -1584,7 +1592,7 @@ http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/14285.m3u8
 http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/14312.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/011/original/pic_tbs.png?1522176341" group-title="PREMIUM LATINA 2",TBS (LAT)
-
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/14284.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.brandemia.org/sites/default/files/sites/default/files/tcm_logo_antes.jpg" group-title="PREMIUM LATINA 2",TCM (LAT)
 http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/11311.m3u8
@@ -2159,13 +2167,13 @@ http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/14301.m3u8
 http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/11262.m3u8
 
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/cl_glitz_m.png" group-title="VARIEDADES" pltv-subgroup="VARIEDADES LATINO",GLITZ (LAT)
-
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/14081.m3u8
 
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/cl_glitz_m.png" group-title="VARIEDADES" pltv-subgroup="VARIEDADES LATINO",GLITZ HD (LAT)
 http://shacktv.com:8080/live/skylar/skylar/104862.ts
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/ACSszfHY7DAVYCYLicxlKpxHxhkikeExpHBKn8A72w=s900-mo-c-c0xffffffff-rj-k-no" group-title="VARIEDADES" pltv-subgroup="VARIEDADES LATINO",HOLA TV (LAT)
-
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/14080.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/ACSszfHY7DAVYCYLicxlKpxHxhkikeExpHBKn8A72w=s900-mo-c-c0xffffffff-rj-k-no" group-title="VARIEDADES" pltv-subgroup="VARIEDADES LATINO",HOLA TV HD (LAT)
 http://shacktv.com:8080/live/skylar/skylar/104849.ts
