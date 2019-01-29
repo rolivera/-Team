@@ -132,7 +132,7 @@ http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/p
 #######################################
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDGCEqwejgtxfr505syQsBSOMabhqbGuTldReQp2eaE0QsMXco" group-title="BRASIL",BBB 19 (BR)
-http://maxptv.ddns.net:25461/carlin/carlin/126
+http://lista.digitalgroup.me:80/live/eddie/eddie/38010.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDGCEqwejgtxfr505syQsBSOMabhqbGuTldReQp2eaE0QsMXco" group-title="BRASIL",BBB ALT (BR)
 http://niptv.biz:25461/alcebiadesnascimento@hotmail.com/100756/139
@@ -153,7 +153,7 @@ http://streamtv.com.br:80/test/test/20138
 http://streamtv.com.br:80/test/test/20136
 
 #EXTINF:0 tvg-logo="http://www.mundocross.com.br/wp-content/uploads/2013/05/band.jpg" group-title="BRASIL",BAND (BR)
-http://maxptv.ddns.net:25461/carlin/carlin/219
+http://lista.digitalgroup.me:80/live/eddie/eddie/1713.m3u8
 
 #EXTINF:0 tvg-logo="http://www.mundocross.com.br/wp-content/uploads/2013/05/band.jpg" group-title="BRASIL",BAND ALT (BR)
 http://niptv.biz:25461/alcebiadesnascimento@hotmail.com/100756/70
@@ -174,6 +174,9 @@ http://streamtv.com.br:80/test/test/1617
 http://streamtv.com.br:80/test/test/1609
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="BRASIL",GLOBO SP ALT (BR)
+http://lista.digitalgroup.me:80/live/eddie/eddie/1024.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="BRASIL",GLOBO SP ALT (BR)
 http://niptv.biz:25461/alcebiadesnascimento@hotmail.com/100756/66
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="BRASIL",GLOBO RJ (BR)
@@ -192,13 +195,13 @@ http://streamtv.com.br:80/test/test/1612
 http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/13173.m3u8
 
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/042013/untitled-1_148.png?itok=ld2drTRm" group-title="BRASIL",NBR HD (BR)
-
+http://lista.digitalgroup.me:80/live/eddie/eddie/2494.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFTIuz_tA6Bl98zhfQ3NFV0mxWf6h_g-0LFh10_ktHw5Y9XDKt" group-title="BRASIL",REDE BRASIL SD (BR)
-http://tv01.logicahost.com.br:1935/rbtv/rbtv/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFTIuz_tA6Bl98zhfQ3NFV0mxWf6h_g-0LFh10_ktHw5Y9XDKt" group-title="BRASIL",REDE BRASIL (BR)
-http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
+http://lista.digitalgroup.me:80/live/eddie/eddie/965.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/l2Fy8cv.png" group-title="BRASIL",REDE SUPER (BR)
 
@@ -210,7 +213,7 @@ http://evpp.mm.uol.com.br:1935/redetv2/redetv2/playlist.m3u8
 http://173.236.10.10:1935/tvonline/tvonline/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="BRASIL",RECORD (BR)
-http://maxptv.ddns.net:25461/carlin/carlin/63
+http://lista.digitalgroup.me:80/live/eddie/eddie/1710.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="BRASIL",RECORD ALT (BR)
 http://niptv.biz:25461/alcebiadesnascimento@hotmail.com/100756/56
@@ -219,7 +222,7 @@ http://niptv.biz:25461/alcebiadesnascimento@hotmail.com/100756/56
 http://srv9.zoeweb.tv:1935/zw901/smil:zw901.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="BRASIL",SBT SP (BR)
-http://maxptv.ddns.net:25461/carlin/carlin/57
+http://lista.digitalgroup.me:80/live/eddie/eddie/955.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="BRASIL",SBT PI (BR) 
 http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
@@ -2296,70 +2299,70 @@ http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/p
 #######################################
 
 #EXTINF:-1 tvg-logo="https://cdn.reweb.io/hagah/image/Ohvc12JYV6DTXKzan-JdjEIWKbo=/300x300/top/smart/hagah/a/af/arte-1-affc3424.jpg" group-title="VARIEDADES" pltv-subgroup="VARIEDADES BRASIL",ARTE 1 (BRA)
-http://maxptv.ddns.net:25461/carlin/carlin/225
+http://lista.digitalgroup.me:80/live/eddie/eddie/1218.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.reweb.io/hagah/image/Ohvc12JYV6DTXKzan-JdjEIWKbo=/300x300/top/smart/hagah/a/af/arte-1-affc3424.jpg" group-title="VARIEDADES" pltv-subgroup="VARIEDADES BRASIL",ARTE 1 ALT (BRA)
 
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1080522229492998144/Eckl0Y2H_400x400.jpg" group-title="VARIEDADES" pltv-subgroup="VARIEDADES BRASIL",BIS (BRA)
-http://maxptv.ddns.net:25461/carlin/carlin/211
+http://lista.digitalgroup.me:80/live/eddie/eddie/2408.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1080522229492998144/Eckl0Y2H_400x400.jpg" group-title="VARIEDADES" pltv-subgroup="VARIEDADES BRASIL",BIS ALT (BRA)
 
 
 #EXTINF:-1 tvg-logo="https://clarotvlojaonline.com.br/img/channels/20151112155938-canal-curta.png" group-title="VARIEDADES" pltv-subgroup="VARIEDADES BRASIL",CURTA! (BRA)
-http://maxptv.ddns.net:25461/carlin/carlin/207
+http://lista.digitalgroup.me:80/live/eddie/eddie/2485.m3u8
 
 #EXTINF:-1 tvg-logo="https://clarotvlojaonline.com.br/img/channels/20151112155938-canal-curta.png" group-title="VARIEDADES" pltv-subgroup="VARIEDADES BRASIL",CURTA! ALT (BRA)
 
 
 #EXTINF:-1 tvg-logo="http://www.logotypes101.com/logos/369/4E6FF8D73A16CA6B1A72995ECB1B5380/eentertainment.png" group-title="VARIEDADES" pltv-subgroup="VARIEDADES BRASIL",E! (BRA)
-http://maxptv.ddns.net:25461/carlin/carlin/167
+http://lista.digitalgroup.me:80/live/eddie/eddie/1063.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.logotypes101.com/logos/369/4E6FF8D73A16CA6B1A72995ECB1B5380/eentertainment.png" group-title="VARIEDADES" pltv-subgroup="VARIEDADES BRASIL",E! ALT (BRA)
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTShhqAzVKyWfruuXyyg3vFmeA48Gvg_jtxZeZvQEkQ6kvVPBK6" group-title="VARIEDADES" pltv-subgroup="VARIEDADES BRASIL",FILM & ARTS (BRA)
-http://maxptv.ddns.net:25461/carlin/carlin/155
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzQl94fUMOB7M0sf5rLh0DxypCvPYhE4t5adsLbMfEV-y-nBsb" group-title="VARIEDADES" pltv-subgroup="VARIEDADES BRASIL",FISH TV (BRA)
-http://maxptv.ddns.net:25461/carlin/carlin/214
+http://lista.digitalgroup.me:80/live/eddie/eddie/1050.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzQl94fUMOB7M0sf5rLh0DxypCvPYhE4t5adsLbMfEV-y-nBsb" group-title="VARIEDADES" pltv-subgroup="VARIEDADES BRASIL",FISH TV ALT (BRA)
 http://niptv.biz:25461/alcebiadesnascimento@hotmail.com/100756/86
 
 #EXTINF:-1 tvg-logo="https://c7.uihere.com/files/345/921/237/food-network-chef-television-cooking-salamander-thumb.jpg" group-title="VARIEDADES" pltv-subgroup="VARIEDADES BRASIL",FOOD NETWORK (BRA)
-http://maxptv.ddns.net:25461/carlin/carlin/334
+http://lista.digitalgroup.me:80/live/eddie/eddie/1049.m3u8
 
 #EXTINF:-1 tvg-logo="https://c7.uihere.com/files/345/921/237/food-network-chef-television-cooking-salamander-thumb.jpg" group-title="VARIEDADES" pltv-subgroup="VARIEDADES BRASIL",FOOD NETWORK ALT (BRA)
 
 
 #EXTINF:-1 tvg-logo="https://trilhasecomunica.files.wordpress.com/2010/03/logo_futura.jpg" group-title="VARIEDADES" pltv-subgroup="VARIEDADES BRASIL",FUTURA (BRA)
-http://maxptv.ddns.net:25461/carlin/carlin/205
+http://lista.digitalgroup.me:80/live/eddie/eddie/1029.m3u8
 
 #EXTINF:-1 tvg-logo="https://trilhasecomunica.files.wordpress.com/2010/03/logo_futura.jpg" group-title="VARIEDADES" pltv-subgroup="VARIEDADES BRASIL",FUTURA ALT (BRA)
 
 
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0010/7553/brand.gif?itok=CN9KfUaE" group-title="VARIEDADES" pltv-subgroup="VARIEDADES BRASIL",GNT (BRA)
-http://maxptv.ddns.net:25461/carlin/carlin/135
+http://lista.digitalgroup.me:80/live/eddie/eddie/1022.m3u8
 
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0010/7553/brand.gif?itok=CN9KfUaE" group-title="VARIEDADES" pltv-subgroup="VARIEDADES BRASIL",GNT ALT (BRA)
 http://niptv.biz:25461/alcebiadesnascimento@hotmail.com/100756/49
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/ACSszfEp7PGHvg1oEXnVYaOO3P7K36xNfjlOa8dLeA=s900-mo-c-c0xffffffff-rj-k-no" group-title="VARIEDADES" pltv-subgroup="VARIEDADES BRASIL",LIFETIME (BRA)
-http://maxptv.ddns.net:25461/carlin/carlin/115
+http://lista.digitalgroup.me:80/live/eddie/eddie/2492.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/ACSszfEp7PGHvg1oEXnVYaOO3P7K36xNfjlOa8dLeA=s900-mo-c-c0xffffffff-rj-k-no" group-title="VARIEDADES" pltv-subgroup="VARIEDADES BRASIL",LIFETIME ALT (BRA)
 
 
 #EXTINF:-1 tvg-logo="https://prosas.com.br/system/oportunidades/logos/000/001/613/show/Globosat_mais.png?1476456083" group-title="VARIEDADES" pltv-subgroup="VARIEDADES BRASIL",MAIS GLOBOSAT (BRA)
-http://maxptv.ddns.net:25461/carlin/carlin/113
+http://lista.digitalgroup.me:80/live/eddie/eddie/1008.m3u8
 
 #EXTINF:-1 tvg-logo="https://prosas.com.br/system/oportunidades/logos/000/001/613/show/Globosat_mais.png?1476456083" group-title="VARIEDADES" pltv-subgroup="VARIEDADES BRASIL",MAIS GLOBOSAT ALT (BRA)
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqFfU8Q49GFdCA9rZu7NgFORWKevGBPT8VPnX1Hqf2Y5SCnGfo" group-title="VARIEDADES" pltv-subgroup="VARIEDADES BRASIL",MTV (BRA)
-http://maxptv.ddns.net:25461/carlin/carlin/101
+http://lista.digitalgroup.me:80/live/eddie/eddie/1000.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqFfU8Q49GFdCA9rZu7NgFORWKevGBPT8VPnX1Hqf2Y5SCnGfo" group-title="VARIEDADES" pltv-subgroup="VARIEDADES BRASIL",MTV ALT (BRA)
 http://niptv.biz:25461/alcebiadesnascimento@hotmail.com/100756/83
@@ -2368,7 +2371,7 @@ http://niptv.biz:25461/alcebiadesnascimento@hotmail.com/100756/83
 
 
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/042014/untitled-1_2.png?itok=hApxuceG" group-title="VARIEDADES" pltv-subgroup="VARIEDADES BRASIL",MULTISHOW (BRA)
-http://maxptv.ddns.net:25461/carlin/carlin/99
+http://lista.digitalgroup.me:80/live/eddie/eddie/1211.m3u8
 
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/042014/untitled-1_2.png?itok=hApxuceG" group-title="VARIEDADES" pltv-subgroup="VARIEDADES BRASIL",MULTISHOW ALT (BRA)
 http://niptv.biz:25461/alcebiadesnascimento@hotmail.com/100756/41
@@ -2377,13 +2380,13 @@ http://niptv.biz:25461/alcebiadesnascimento@hotmail.com/100756/41
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR53tR9lXMdNmbOHfczhhvs31uMd5oBhYIGsu79X16kg1s-G8TY" group-title="VARIEDADES" pltv-subgroup="VARIEDADES BRASIL",OFF (BRA)
-http://maxptv.ddns.net:25461/carlin/carlin/203
+http://lista.digitalgroup.me:80/live/eddie/eddie/1219.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR53tR9lXMdNmbOHfczhhvs31uMd5oBhYIGsu79X16kg1s-G8TY" group-title="VARIEDADES" pltv-subgroup="VARIEDADES BRASIL",OFF ALT (BRA)
 http://niptv.biz:25461/alcebiadesnascimento@hotmail.com/100756/101
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnnQ9boXmS2m_wUHYxpqfJTiniRSj5fbZNjrJoZ9ww9VhDOMAK" group-title="VARIEDADES" pltv-subgroup="VARIEDADES BRASIL",PRIME BOX (BRA)
-http://maxptv.ddns.net:25461/carlin/carlin/67
+http://lista.digitalgroup.me:80/live/eddie/eddie/969.m3u8
 
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/b15356ee-546f-4760-b04c-3772d6949002_m.jpg" group-title="VARIEDADES" pltv-subgroup="VARIEDADES BRASIL",TRUTV (BRA)
 
@@ -2392,13 +2395,13 @@ http://maxptv.ddns.net:25461/carlin/carlin/67
 http://niptv.biz:25461/alcebiadesnascimento@hotmail.com/100756/85
 
 #EXTINF:-1 tvg-logo="https://abrilveja.files.wordpress.com/2016/12/canalviva.png" group-title="VARIEDADES" pltv-subgroup="VARIEDADES BRASIL",VIVA (BRA)
-http://maxptv.ddns.net:25461/carlin/carlin/5
+http://lista.digitalgroup.me:80/live/eddie/eddie/897.m3u8
 
 #EXTINF:-1 tvg-logo="https://abrilveja.files.wordpress.com/2016/12/canalviva.png" group-title="VARIEDADES" pltv-subgroup="VARIEDADES BRASIL",VIVA ALT (BRA)
 http://niptv.biz:25461/alcebiadesnascimento@hotmail.com/100756/57
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/W/woohoo-logo-76448936E4-seeklogo.com.png" group-title="VARIEDADES" pltv-subgroup="VARIEDADES BRASIL",WOOHOO (BRA)
-http://maxptv.ddns.net:25461/carlin/carlin/201
+http://lista.digitalgroup.me:80/live/eddie/eddie/894.m3u8
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/W/woohoo-logo-76448936E4-seeklogo.com.png" group-title="VARIEDADES" pltv-subgroup="VARIEDADES BRASIL",WOOHOO ALT (BRA)
 
