@@ -16,7 +16,7 @@ https://stream.vagalume.fm/hls/14660050141766497579/aac.m3u8
 http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8
 #######################################
 
-#EXTINF:-1 tvg-logo="https://static.primiciasya.com/adjuntos/208/imagenes/016/858/0016858899.jpg" group-title="ARGENTINA",AMERICA HD (ARG)
+#EXTINF:-1 tvg-logo="https://static.primiciasya.com/adjuntos/208/imagenes/016/858/0016858899.jpg" group-title="ARGENTINA",AMERICA LA**
 http://kimbogrupol.com:25461/live/Nancy/Nancy/16522.m3u8
 
 #EXTINF:-1 tvg-logo="https://img1.androidappsapk.co/300/7/0/6/net.coninfo.admin.trecemaxtelevisin.png" group-title="ARGENTINA",13 MAX LA°
@@ -250,49 +250,40 @@ http://136.243.3.70:1935/RtpBolivia/RtpBolivia/playlist.m3u8
 http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8
 #######################################
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLIvOG1WnJV0P8bS1RksCCjihTKncUvgOuFIsf3yo6xf8OABDv" group-title="CHILE",CANAL 13 HD (CHI)
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLIvOG1WnJV0P8bS1RksCCjihTKncUvgOuFIsf3yo6xf8OABDv" group-title="CHILE",CANAL 13 (CHI)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLIvOG1WnJV0P8bS1RksCCjihTKncUvgOuFIsf3yo6xf8OABDv" group-title="CHILE",CANAL 13 LA**
 http://kimbogrupol.com:25461/live/Nancy/Nancy/16101.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.chilevision.cl/logo-chilevision.png" group-title="CHILE", CHV (CHI)
+#EXTINF:-1 tvg-logo="http://www.chilevision.cl/logo-chilevision.png" group-title="CHILE", CHV LA°
 http://live.hls.http.chv.ztreaming.com/chvhddesktop/chv-desktop.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmrMfXPxBwW9gjut8h0MtswJVm4OgMgjiFKynmxgVogTKSx4Td" group-title="CHILE",EL PINGÜINO (CHI)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmrMfXPxBwW9gjut8h0MtswJVm4OgMgjiFKynmxgVogTKSx4Td" group-title="CHILE",EL PINGÜINO LA°
 http://streaming.elpinguino.com:1935/live/pinguinotv_720p/hasbahca.m3u8?GrupoTopIptv
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/vrXZmdv.jpg" group-title="CHILE", HOLVOET TV (CHI)
+#EXTINF:0 tvg-logo="https://i.imgur.com/vrXZmdv.jpg" group-title="CHILE", HOLVOET TV LA°
 http://unlimited5-cl.dps.live/holvoettv/holvoettv.smil/playlist.m3u8?GrupoTopIptv
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/ACSszfGRaEtnwbupF5tZkkiKXDnY2yRVkaEzN7OkKQ=s900-mo-c-c0xffffffff-rj-k-no" group-title="CHILE",LA RED (CHI)
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/ACSszfGRaEtnwbupF5tZkkiKXDnY2yRVkaEzN7OkKQ=s900-mo-c-c0xffffffff-rj-k-no" group-title="CHILE",LA RED LA**
 http://kimbogrupol.com:25461/live/Nancy/Nancy/16098.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/ACSszfGRaEtnwbupF5tZkkiKXDnY2yRVkaEzN7OkKQ=s900-mo-c-c0xffffffff-rj-k-no" group-title="CHILE",LA RED HD (CHI)
-
-
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-ya1LV8p7s_I/Wa8S56MBK9I/AAAAAAAAAu8/LtVXsqLRH7gcxpTyi3OPuGvbMbAeBX3RgCLcBGAs/s200/Mega_%2528Chile%2529_Alternate_Logo.png" group-title="CHILE",MEGA (CHI)
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-ya1LV8p7s_I/Wa8S56MBK9I/AAAAAAAAAu8/LtVXsqLRH7gcxpTyi3OPuGvbMbAeBX3RgCLcBGAs/s200/Mega_%2528Chile%2529_Alternate_Logo.png" group-title="CHILE",MEGA LA**
 http://kimbogrupol.com:25461/live/Nancy/Nancy/16097.m3u8
 
-#EXTINF:-1 tvg-logo="http://niu.cl/wp-content/uploads/2017/07/radio.png" group-title="CHILE", NIU MEDIA TV (CHI)
+#EXTINF:-1 tvg-logo="http://niu.cl/wp-content/uploads/2017/07/radio.png" group-title="CHILE", NIU MEDIA 
 
 
-#EXTINF:-1 tvg-logo="http://www.xn--ubletv-vwa.cl/gallery_gen/206f25ceca6e5baf9ad8adf299c792f7_200x200.png" group-title="CHILE",ÑUBLE TV
+#EXTINF:-1 tvg-logo="http://www.xn--ubletv-vwa.cl/gallery_gen/206f25ceca6e5baf9ad8adf299c792f7_200x200.png" group-title="CHILE",ÑUBLE TV LA°
 https://593b04c4c5670.streamlock.net:443/tvdaniel/tvdaniel/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://static.13.cl/7/sites/all/themes/rec_v2/images/default_2018.jpg" group-title="CHILE", REC TV (CHI)
+#EXTINF:-1 tvg-logo="http://static.13.cl/7/sites/all/themes/rec_v2/images/default_2018.jpg" group-title="CHILE", REC TV LA**
 http://kimbogrupol.com:25461/live/Nancy/Nancy/16095.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.periodismo.uchile.cl/noticias/images/tvnlogo.jpg" group-title="CHILE", TVN (CHI)
+#EXTINF:-1 tvg-logo="http://www.periodismo.uchile.cl/noticias/images/tvnlogo.jpg" group-title="CHILE", TVN LA**
 http://kimbogrupol.com:25461/live/Nancy/Nancy/16094.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.periodismo.uchile.cl/noticias/images/tvnlogo.jpg" group-title="CHILE", TVN HD (CHI)
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/AN66SAwlcPV7y6xW8-d-RTAITZt_IAz-PXf1jdv1EA=s900-mo-c-c0xffffffff-rj-k-no" group-title="CHILE", UCV 
 
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/AN66SAwlcPV7y6xW8-d-RTAITZt_IAz-PXf1jdv1EA=s900-mo-c-c0xffffffff-rj-k-no" group-title="CHILE", UCV (CHI)
-
-
-#EXTINF:-1 tvg-logo="https://s3-media2.fl.yelpcdn.com/bphoto/CNa6BsIMxhGaJZVFoYESnA/ls.jpg" group-title="CHILE",UMAG (CHI)
+#EXTINF:-1 tvg-logo="https://s3-media2.fl.yelpcdn.com/bphoto/CNa6BsIMxhGaJZVFoYESnA/ls.jpg" group-title="CHILE",UMAG LA°
 http://edge1.cl.grupoz.cl/tser5/live/playlist.m3u8
 
 ######################################################################################################################################
@@ -301,49 +292,46 @@ http://edge1.cl.grupoz.cl/tser5/live/playlist.m3u8
 http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8
 #######################################
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXNs5DYEziILPGCMH8Ir4eAn6PnMUD9hmhYMmGsRxP_nNL9hC8" group-title="COLOMBIA",CANAL 1 (COL)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXNs5DYEziILPGCMH8Ir4eAn6PnMUD9hmhYMmGsRxP_nNL9hC8" group-title="COLOMBIA",CANAL 1 LA*
 http://shacktv.com:8080/live/skylar/skylar/61043.ts
 
-#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/co_cali-tv_m.png" group-title="COLOMBIA",CALI TV (COL)
+#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/co_cali-tv_m.png" group-title="COLOMBIA",CALI TV 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSetNpXYP8_CJaxAgqNbHdOyLcyrY9eQx7Dvv7X2RQwmpAWxYm9" group-title="COLOMBIA",CARACOL (COL)
-http://kimbogrupol.com:25461/live/Nancy/Nancy/16140.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSetNpXYP8_CJaxAgqNbHdOyLcyrY9eQx7Dvv7X2RQwmpAWxYm9" group-title="COLOMBIA",CARACOL HD (COL)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSetNpXYP8_CJaxAgqNbHdOyLcyrY9eQx7Dvv7X2RQwmpAWxYm9" group-title="COLOMBIA",CARACOL LA*
 http://shacktv.com:8080/live/skylar/skylar/61050.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSetNpXYP8_CJaxAgqNbHdOyLcyrY9eQx7Dvv7X2RQwmpAWxYm9" group-title="COLOMBIA",CARACOL LA**
+http://kimbogrupol.com:25461/live/Nancy/Nancy/16140.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSetNpXYP8_CJaxAgqNbHdOyLcyrY9eQx7Dvv7X2RQwmpAWxYm9" group-title="COLOMBIA",CARACOL LA***
 http://23.237.22.230:25461/darkiptv/darkiptv/612
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSetNpXYP8_CJaxAgqNbHdOyLcyrY9eQx7Dvv7X2RQwmpAWxYm9" group-title="COLOMBIA",CARACOL INT (COL)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSetNpXYP8_CJaxAgqNbHdOyLcyrY9eQx7Dvv7X2RQwmpAWxYm9" group-title="COLOMBIA",CARACOL INT LA*
 http://shacktv.com:8080/live/skylar/skylar/61049.ts
 
-#EXTINF:-1 tvg-logo="https://static.telus.com/common/cms/images/tv/satellite/new-channel-logos/CityHD.png" group-title="COLOMBIA",CITY TV (COL)
+#EXTINF:-1 tvg-logo="https://static.telus.com/common/cms/images/tv/satellite/new-channel-logos/CityHD.png" group-title="COLOMBIA",CITY TV LA*
 http://shacktv.com:8080/live/skylar/skylar/61042.ts
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/386408609/cnc2_400x400.png" group-title="COLOMBIA",CNC (COL)
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/386408609/cnc2_400x400.png" group-title="COLOMBIA",CNC 
 
 
-#EXTINF:-1 tvg-logo="https://images.mi.tv/channels/co_cosmovision_m.png" group-title="COLOMBIA",COSMOVISION (COL)
+#EXTINF:-1 tvg-logo="https://images.mi.tv/channels/co_cosmovision_m.png" group-title="COLOMBIA",COSMOVISION LA*
 http://shacktv.com:8080/live/skylar/skylar/61041.ts
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/959148019479470080/VIP_8lbP_400x400.jpg" group-title="COLOMBIA",MUNDO + (COL)
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/959148019479470080/VIP_8lbP_400x400.jpg" group-title="COLOMBIA",MUNDO + LA°
 http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/tvcable/images/b/b4/Ntn24_logo.jpg/revision/latest?cb=20140815232404&path-prefix=es" group-title="COLOMBIA",NTN24 (COL)
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/tvcable/images/b/b4/Ntn24_logo.jpg/revision/latest?cb=20140815232404&path-prefix=es" group-title="COLOMBIA",NTN24 LA*
 http://shacktv.com:8080/live/skylar/skylar/61039.ts
 
-#EXTINF:-1 tvg-logo="https://www.vidaentv.com/wp-content/uploads/2015/11/rcn-television.jpg" group-title="COLOMBIA",RCN HD (COL)
+#EXTINF:-1 tvg-logo="https://www.vidaentv.com/wp-content/uploads/2015/11/rcn-television.jpg" group-title="COLOMBIA",RCN LA*
 http://shacktv.com:8080/live/skylar/skylar/61047.ts
-
-#EXTINF:-1 tvg-logo="https://i1.wp.com/www.revistaquetal.com/wp-content/uploads/2013/10/rcn-television.jpg" group-title="COLOMBIA",RCN NOVELAS (COL)
-
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.revistaquetal.com/wp-content/uploads/2013/10/rcn-television.jpg" group-title="COLOMBIA",RCN NOVELAS LA***
 http://23.237.22.230:25461/darkiptv/darkiptv/500
 
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_03/large.58cf01ad1cb4f_CanalTr3ce20172.png.5f67ec47f99d2f0fd201c0163c1d6ec2.png" group-title="COLOMBIA",TRECE (COL)
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_03/large.58cf01ad1cb4f_CanalTr3ce20172.png.5f67ec47f99d2f0fd201c0163c1d6ec2.png" group-title="COLOMBIA",TRECE LA°
 https://cdn.logicideas.media/canaltrece-live/canal13.smil/chunklist_b4500000.m3u8
 
 ######################################################################################################################################
@@ -352,37 +340,37 @@ https://cdn.logicideas.media/canaltrece-live/canal13.smil/chunklist_b4500000.m3u
 http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8
 #######################################
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/AAuE7mDTtvNLdPeb2mahdhGir7r-VSaZu3Sp3ACJVQ=s900-mo-c-c0xffffffff-rj-k-no" group-title="COSTA RICA",CANAL 2 CDR (COS)
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/AAuE7mDTtvNLdPeb2mahdhGir7r-VSaZu3Sp3ACJVQ=s900-mo-c-c0xffffffff-rj-k-no" group-title="COSTA RICA",CANAL 2 CDR 
 
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d5/Repretel_4.png/revision/latest/scale-to-width-down/180?cb=20180122210303" group-title="COSTA RICA",CANAL 4 REPRETEL (COS)
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d5/Repretel_4.png/revision/latest/scale-to-width-down/180?cb=20180122210303" group-title="COSTA RICA",CANAL 4 REPRETEL 
 
 
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-10Lu4mzgrVQ/UagKmjZFmQI/AAAAAAAABVc/08Wtxo8EHXY/s320/Canal+6.jpg" group-title="COSTA RICA",CANAL 6 REPRETEL (COS)
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-10Lu4mzgrVQ/UagKmjZFmQI/AAAAAAAABVc/08Wtxo8EHXY/s320/Canal+6.jpg" group-title="COSTA RICA",CANAL 6 REPRETEL 
 
 
-#EXTINF:-1 tvg-logo="https://jeduardo22.files.wordpress.com/2010/09/telenoticias-logo-2.png" group-title="COSTA RICA",CANAL 7 (COS)
+#EXTINF:-1 tvg-logo="https://jeduardo22.files.wordpress.com/2010/09/telenoticias-logo-2.png" group-title="COSTA RICA",CANAL 7 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNL9XjVYTKqNj2E55Uno2o1G7g20VOK0V4zJGVqBL_P4-BTj54" group-title="COSTA RICA",CANAL 11 REPRETEL (COS)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNL9XjVYTKqNj2E55Uno2o1G7g20VOK0V4zJGVqBL_P4-BTj54" group-title="COSTA RICA",CANAL 11 REPRETEL 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Naw5Wnn.png" group-title="COSTA RICA",EXTREMA TV (COS)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Naw5Wnn.png" group-title="COSTA RICA",EXTREMA TV LA°
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cableplus.co/files/canales%20nuevo%20orden%20y%20logo/113%20guapiles%20tv.png" group-title="COSTA RICA",GUAPILES TV (COS)
+#EXTINF:-1 tvg-logo="https://cableplus.co/files/canales%20nuevo%20orden%20y%20logo/113%20guapiles%20tv.png" group-title="COSTA RICA",GUAPILES TV 
 
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/ACSszfEMDCWulA1HqV5ivYsj7ziEfO_aVae5UEW1UQ=s900-mo-c-c0xffffffff-rj-k-no" group-title="COSTA RICA",TELERED (COS)
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/ACSszfEMDCWulA1HqV5ivYsj7ziEfO_aVae5UEW1UQ=s900-mo-c-c0xffffffff-rj-k-no" group-title="COSTA RICA",TELERED LA°
 http://k4.usastreams.com/Telesistemas/Telesistemas/playlist.m3u8?GrupoTopIptv
 
-#EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/062017/untitled-1_77.png?itok=aKB9_Vis" group-title="COSTA RICA",TELETICA (COS)
+#EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/062017/untitled-1_77.png?itok=aKB9_Vis" group-title="COSTA RICA",TELETICA 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAcXfh4Rfk-zMU6tHiRyoUbHEHhRcVzzuLjpOgqmQSlsJpnVQG" group-title="COSTA RICA",TELE UNO (COS)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAcXfh4Rfk-zMU6tHiRyoUbHEHhRcVzzuLjpOgqmQSlsJpnVQG" group-title="COSTA RICA",TELE UNO 
 
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/CudLt3UUIAA3HVq.jpg" group-title="COSTA RICA",TICAVISION (COS)
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/CudLt3UUIAA3HVq.jpg" group-title="COSTA RICA",TICAVISION LA°
 http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
 
 ######################################################################################################################################
@@ -391,13 +379,13 @@ http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
 http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8
 #######################################
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOV13crusT4WDFiGxCun9h31fuuMgmQUBfs8vYe9stKOeCLsfK" group-title="CUBA",CANAL CARIBE (CUB)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOV13crusT4WDFiGxCun9h31fuuMgmQUBfs8vYe9stKOeCLsfK" group-title="CUBA",CANAL CARIBE 
 
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/467389353270853632/hTKEMSq9_400x400.png" group-title="CUBA",CUBAMAX (CUB)
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/467389353270853632/hTKEMSq9_400x400.png" group-title="CUBA",CUBAMAX 
 
 
-#EXTINF:-1 tvg-logo="http://photocall.tv/images/marti.png" group-title="CUBA",TV MARTI (CUB)
+#EXTINF:-1 tvg-logo="http://photocall.tv/images/marti.png" group-title="CUBA",TV MARTI LA°
 http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
 
 ######################################################################################################################################
@@ -406,34 +394,31 @@ http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
 http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8
 #######################################
 
-#EXTINF:-1 tvg-logo="https://tvenvivo.ec/wp-content/uploads/2018/08/canal-uno-logo.jpg" group-title="ECUADOR",CANAL UNO (ECU)
+#EXTINF:-1 tvg-logo="https://tvenvivo.ec/wp-content/uploads/2018/08/canal-uno-logo.jpg" group-title="ECUADOR",CANAL UNO 
 
 
-#EXTINF:-1 tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/16459_logo_canela_tv5.png" group-title="ECUADOR",CANELA TV (ECU)
+#EXTINF:-1 tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/16459_logo_canela_tv5.png" group-title="ECUADOR",CANELA TV 
 
 
-#EXTINF:-1 tvg-logo="http://www.notihoy.com.ec/images/Centro_Logo-17.png" group-title="ECUADOR",CENTRO ECUADOR (ECU)
+#EXTINF:-1 tvg-logo="http://www.notihoy.com.ec/images/Centro_Logo-17.png" group-title="ECUADOR",CENTRO ECUADOR LA°
 http://unsecure.streann.com/loadbalancer/services/public/channels/57cef28b2cdc6843385b86ce/playlist.m3u8?GrupoTopIptv
-
-#EXTINF:-1 tvg-logo="http://www.estadio.ec/sites/default/files/field/image/2015/01/15/ecuavisa.jpg" group-title="ECUADOR",ECUAVISA (ECU)
-
 
 #EXTINF:-1 tvg-logo="http://www.estadio.ec/sites/default/files/field/image/2015/01/15/ecuavisa.jpg" group-title="ECUADOR",ECUAVISA LA***
 http://23.237.22.230:25461/darkiptv/darkiptv/212
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/24/GamaTV_2006.png/revision/latest?cb=20171031031807" group-title="ECUADOR",GAMA TV (ECU)
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/24/GamaTV_2006.png/revision/latest?cb=20171031031807" group-title="ECUADOR",GAMA TV 
 
 
-#EXTINF:-1 tvg-logo="https://i1.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/oromar.png?fit=500%2C300" group-title="ECUADOR",OROMAR TV (ECU)
+#EXTINF:-1 tvg-logo="https://i1.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/oromar.png?fit=500%2C300" group-title="ECUADOR",OROMAR TV 
 
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/doblaje/images/c/cd/Logo_rts.png/revision/latest?cb=20170103223401&path-prefix=es" group-title="ECUADOR",RTS (ECU)
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/doblaje/images/c/cd/Logo_rts.png/revision/latest?cb=20170103223401&path-prefix=es" group-title="ECUADOR",RTS 
 
 
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_11/large.TCmicanal-2017.png.1b9c5a32e676ea2cfc06b74fe0bcffa8.png" group-title="ECUADOR",TC (ECU)
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_11/large.TCmicanal-2017.png.1b9c5a32e676ea2cfc06b74fe0bcffa8.png" group-title="ECUADOR",TC 
 
 
-#EXTINF:-1 tvg-logo="https://vector.me/files/images/7/6/766909/teleamazonas.png" group-title="ECUADOR",TELEAMAZONAS (ECU)
+#EXTINF:-1 tvg-logo="https://vector.me/files/images/7/6/766909/teleamazonas.png" group-title="ECUADOR",TELEAMAZONAS 
 
 
 ######################################################################################################################################
@@ -442,52 +427,52 @@ http://23.237.22.230:25461/darkiptv/darkiptv/212
 http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8
 #######################################
 
-#EXTINF:-1 tvg-logo="https://i1.wp.com/marcaporhombro.com/wp-content/uploads/2013/03/Canal_3-24_de_TVC.jpg?resize=473%2C297" group-title="ESPAÑA",3/24 (ESP)
+#EXTINF:-1 tvg-logo="https://i1.wp.com/marcaporhombro.com/wp-content/uploads/2013/03/Canal_3-24_de_TVC.jpg?resize=473%2C297" group-title="ESPAÑA",3/24 LA°
 http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/chunklist_b548000.m3u8
 
-#EXTINF:-1 tvg-logo="http://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="ESPAÑA",T24 HORAS (ESP)
+#EXTINF:-1 tvg-logo="http://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="ESPAÑA",T24 HORAS LA°
 http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve01_lv3_aosv4_gl0/irtve01_lv3_aosv4_gl0.isml/irtve01_lv3_aosv4_gl0-audio=128000-video=400000.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx5AC8zAOXW8TacAiMZCxk8L7d-RI8KICaIvMBq0LBsK--4KBC" group-title="ESPAÑA",ANTENA 3 LA***
 http://23.237.22.230:25461/darkiptv/darkiptv/6
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/ACSszfHmfHe_ojc4vMH08Wd6v7AWshuLYa1S_I8Oew=s900-mo-c-c0xffffffff-rj-k-no" group-title="ESPAÑA",ARAGON TV (ESP)
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/ACSszfHmfHe_ojc4vMH08Wd6v7AWshuLYa1S_I8Oew=s900-mo-c-c0xffffffff-rj-k-no" group-title="ESPAÑA",ARAGON TV LA°
 http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8?GrupoTopIptv
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzgdXUx0J_27RzTboYha5JtrBdjS1ocXbOIJs9st8wtXVSEK_y" group-title="ESPAÑA",CANAL 7 MURCIA (ESP)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzgdXUx0J_27RzTboYha5JtrBdjS1ocXbOIJs9st8wtXVSEK_y" group-title="ESPAÑA",CANAL 7 MURCIA LA°
 http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0r1ym0HTNXXEv2AvzJEDJ0b4A2bcZkQAZ0PXklC2v7WuMQDMW" group-title="ESPAÑA",CANAL EXTREMADURA (ESP)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0r1ym0HTNXXEv2AvzJEDJ0b4A2bcZkQAZ0PXklC2v7WuMQDMW" group-title="ESPAÑA",CANAL EXTREMADURA LA°
 http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6-aQmexQ_PYqTPcqJR4rGkg1FjRbzKift7z4yAgdPtZ808ckI" group-title="ESPAÑA",CGTN (ESP)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6-aQmexQ_PYqTPcqJR4rGkg1FjRbzKift7z4yAgdPtZ808ckI" group-title="ESPAÑA",CGTN LA°
 https://livees.cgtn.com/1000e/prog_index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3a7IAnmU-JdDe2QAqRpvjNIpNMNs5DqBAZxPwCQtmz0RrDGF7" group-title="ESPAÑA",IB3 (ESP)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3a7IAnmU-JdDe2QAqRpvjNIpNMNs5DqBAZxPwCQtmz0RrDGF7" group-title="ESPAÑA",IB3 LA°
 http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/IB3.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL6FnVHDWXcchgbSwJq3Vv3_llGR-slxDRFnanrMc8yBf_dvZe" group-title="ESPAÑA",LA 1 (ESP)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL6FnVHDWXcchgbSwJq3Vv3_llGR-slxDRFnanrMc8yBf_dvZe" group-title="ESPAÑA",LA 1 LA°
 http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl7/la1_lv3_aosv4_gl7/la1_lv3_aosv4_gl7.isml/la1_lv3_aosv4_gl7-audio=128000-video=400000.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRbBSeqhCzKdtYGp96qfMPmy_SmKvfaTX2FSQvn-2QFQpLFkLb" group-title="ESPAÑA",LEBRIJA TV (ESP)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRbBSeqhCzKdtYGp96qfMPmy_SmKvfaTX2FSQvn-2QFQpLFkLb" group-title="ESPAÑA",LEBRIJA TV LA°
 http://212.104.160.156:1935/live/lebrijatv2/playlist3.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf_97asR_TnwQBqE6EdjYW_Euf2I6XZurUhtBS-HXUiMKxTIrK" group-title="ESPAÑA",LEVANTE TV (ESP)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf_97asR_TnwQBqE6EdjYW_Euf2I6XZurUhtBS-HXUiMKxTIrK" group-title="ESPAÑA",LEVANTE TV LA°
 http://teledifusion.tv:1935/levantetvlive/levantetvlive/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/AAuE7mB3gxynIi-smWj1HKNoICgjt9yl47jXMo92ug=s900-mo-c-c0xffffffff-rj-k-no" group-title="ESPAÑA",MEZZO (ESP)
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/AAuE7mB3gxynIi-smWj1HKNoICgjt9yl47jXMo92ug=s900-mo-c-c0xffffffff-rj-k-no" group-title="ESPAÑA",MEZZO LA°
 http://ott-cdn.ucom.am/s35/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvCtG4_Nu8SfUw8hOWG55_TGKOR52tARH4z2mJCV0hsLYCOLZA" group-title="ESPAÑA",NAVARRA TV (ESP)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvCtG4_Nu8SfUw8hOWG55_TGKOR52tARH4z2mJCV0hsLYCOLZA" group-title="ESPAÑA",NAVARRA TV LA°
 http://nws.nice264.com/SmilLive/getLiveIOS.smil?stream=NTV_livenatvmb&system=NTV&protocol=http_cupertino/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/509064688550694912/WY6A_PqH.jpeg" group-title="ESPAÑA",NEOX (ESP)
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/509064688550694912/WY6A_PqH.jpeg" group-title="ESPAÑA",NEOX LA°
 http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_1_av-b.m3u8?GrupoTopIptv
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6Tft2LL3b2HIUuB-RDDfjVDCv8CWtRT7OODGSa-pjqUo3EHrw" group-title="ESPAÑA",TV 3 (ESP)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6Tft2LL3b2HIUuB-RDDfjVDCv8CWtRT7OODGSa-pjqUo3EHrw" group-title="ESPAÑA",TV 3 LA°
 http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_galicia-tv_m.png" group-title="ESPAÑA",TV GALICIA (ESP)
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_galicia-tv_m.png" group-title="ESPAÑA",TV GALICIA LA°
 http://america-crtvg.flumotion.com/playlist.m3u8
 
 ######################################################################################################################################
@@ -496,73 +481,67 @@ http://america-crtvg.flumotion.com/playlist.m3u8
 http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8
 #######################################
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/43/TVAzteca_Honduras_2013.png/revision/latest?cb=20170701214353" group-title="HONDURAS",AZTECA Honduras (HON)
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/43/TVAzteca_Honduras_2013.png/revision/latest?cb=20170701214353" group-title="HONDURAS",AZTECA Honduras LA°
 http://aztecalive-lh.akamaihd.net/i/0dcqjxkgx_1@502208/index_1_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/43/TVAzteca_Honduras_2013.png/revision/latest?cb=20170701214353" group-title="HONDURAS",AZTECA Honduras ALT (HON)
-
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/3738246142/d8da1f74edbe459b4cf8d5980b36503b.jpeg" group-title="HONDURAS",5 LIDER (HON)
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/3738246142/d8da1f74edbe459b4cf8d5980b36503b.jpeg" group-title="HONDURAS",5 LIDER LA°
 https://trinity-lh.akamaihd.net/i/TelevicentroLive2_d@508538/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/3738246142/d8da1f74edbe459b4cf8d5980b36503b.jpeg" group-title="HONDURAS",5 LIDER ALT (HON)
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-f--LDppE5Ms/VRqKRt2a0CI/AAAAAAAABk8/YssXLhHmKso/s320/Azteca%2BHonduras.png" group-title="HONDURAS",AZTECA H0NDURAS
 
 
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-f--LDppE5Ms/VRqKRt2a0CI/AAAAAAAABk8/YssXLhHmKso/s320/Azteca%2BHonduras.png" group-title="HONDURAS",AZTECA (HON)
+#EXTINF:-1 tvg-logo="https://www.vsn-tv.com/wp-content/uploads/2014/11/logo_campustv.jpg" group-title="HONDURAS",CAMPUS TV 
 
 
-#EXTINF:-1 tvg-logo="https://www.vsn-tv.com/wp-content/uploads/2014/11/logo_campustv.jpg" group-title="HONDURAS",CAMPUS TV (HON)
+#EXTINF:-1 tvg-logo="https://i1.wp.com/directostv.teleame.com/wp-content/uploads/2018/04/canal-11-honduras.png?fit=800%2C500" group-title="HONDURAS",CANAL 11 
 
 
-#EXTINF:-1 tvg-logo="https://i1.wp.com/directostv.teleame.com/wp-content/uploads/2018/04/canal-11-honduras.png?fit=800%2C500" group-title="HONDURAS",CANAL 11 (HON)
+#EXTINF:-1 tvg-logo="http://cholusatsur.com/home/wp-content/uploads/2014/05/logos.png" group-title="HONDURAS",CHOLUSAT 
 
 
-#EXTINF:-1 tvg-logo="http://cholusatsur.com/home/wp-content/uploads/2014/05/logos.png" group-title="HONDURAS",CHOLUSAT (HON)
+#EXTINF:-1 tvg-logo="http://www.honduras504.com/img/tv/DTV.jpg" group-title="HONDURAS",DTV 
 
 
-#EXTINF:-1 tvg-logo="http://www.honduras504.com/img/tv/DTV.jpg" group-title="HONDURAS",DTV (HON)
+#EXTINF:-1 tvg-logo="http://www.ebenezer.hn/wp-content/uploads/2017/08/logoTransparente.png" group-title="HONDURAS",EBENEZERTV 
 
 
-#EXTINF:-1 tvg-logo="http://www.ebenezer.hn/wp-content/uploads/2017/08/logoTransparente.png" group-title="HONDURAS",EBENEZERTV (HON)
-
-
-#EXTINF:-1 tvg-logo="http://www.globotvhonduras.com/GLOBO%20TV.png" group-title="HONDURAS",GLOBO TV (HON)
+#EXTINF:-1 tvg-logo="http://www.globotvhonduras.com/GLOBO%20TV.png" group-title="HONDURAS",GLOBO TV LA°
 http://tv.aliasdns.info:8979/live/g13/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.hch.tv/wp-content/uploads/2017/12/HCH-300x171.png" group-title="HONDURAS",HCH (HON)
+#EXTINF:-1 tvg-logo="https://www.hch.tv/wp-content/uploads/2017/12/HCH-300x171.png" group-title="HONDURAS",HCH 
 
 
-#EXTINF:-1 tvg-logo="http://hondured.tv/wp-content/uploads/2017/08/Icono-Hondured.png" group-title="HONDURAS",HONDURED (HON)
+#EXTINF:-1 tvg-logo="http://hondured.tv/wp-content/uploads/2017/08/Icono-Hondured.png" group-title="HONDURAS",HONDURED 
 
 
-#EXTINF:-1 tvg-logo="https://latinohd.tv/admin/userimages/1365880121.jpg" group-title="HONDURAS",MAYA TV (HON)
+#EXTINF:-1 tvg-logo="https://latinohd.tv/admin/userimages/1365880121.jpg" group-title="HONDURAS",MAYA TV 
 
 
-#EXTINF:-1 tvg-logo="http://www.honduras.com/wp-content/uploads/2012/05/logo-mundotv.png" group-title="HONDURAS",MUNDOTV (HON)
+#EXTINF:-1 tvg-logo="http://www.honduras.com/wp-content/uploads/2012/05/logo-mundotv.png" group-title="HONDURAS",MUNDOTV LA°
 http://4.31.30.140:1935/live/mundotv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://tvonlinegratis.com/wp-content/uploads/2014/08/SITV-Logo.jpg" group-title="HONDURAS",SI TV (HON)
+#EXTINF:-1 tvg-logo="http://tvonlinegratis.com/wp-content/uploads/2014/08/SITV-Logo.jpg" group-title="HONDURAS",SI TV 
 
 
-#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/hn_telecadena_m.png" group-title="HONDURAS",TELECADENA (HON)
+#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/hn_telecadena_m.png" group-title="HONDURAS",TELECADENA 
 
 
-#EXTINF:-1 tvg-logo="https://mitvstatic.com/channels/hn_teleceiba_m.png" group-title="HONDURAS",TELECEIBA (HON)
+#EXTINF:-1 tvg-logo="https://mitvstatic.com/channels/hn_teleceiba_m.png" group-title="HONDURAS",TELECEIBA 
 
 
-#EXTINF:-1 tvg-logo="http://www.estoesdxt.es/images/web/2141.png" group-title="HONDURAS",TDP (HON)
+#EXTINF:-1 tvg-logo="http://www.estoesdxt.es/images/web/2141.png" group-title="HONDURAS",TDP 
 
 
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-Zg3GYnLlL74/Wj1RMoNNLuI/AAAAAAADZf8/676eM_H8UCQkbfMuNUtPA5nRM458pTaVQCLcBGAs/s1600/ten-canal-10-televsion-educativa-honduras.png" group-title="HONDURAS",TEN (HON)
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-Zg3GYnLlL74/Wj1RMoNNLuI/AAAAAAADZf8/676eM_H8UCQkbfMuNUtPA5nRM458pTaVQCLcBGAs/s1600/ten-canal-10-televsion-educativa-honduras.png" group-title="HONDURAS",TEN LA°
 http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b1848000.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2018_05/large.TSIHON.png.ea3d7fa3dfdfc275527e52d203a7ee18.png" group-title="HONDURAS",TSI (HON)
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2018_05/large.TSIHON.png.ea3d7fa3dfdfc275527e52d203a7ee18.png" group-title="HONDURAS",TSI LA°
 https://trinity-lh.akamaihd.net/i/TelevicentroLive1_d@17977/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/AN66SAwETFuayXGi4O4PvSnLoY4OLWw8CKtv5aNNkQ=s900-mo-c-c0xffffffff-rj-k-no" group-title="HONDURAS",UNE TV (HON)
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/AN66SAwETFuayXGi4O4PvSnLoY4OLWw8CKtv5aNNkQ=s900-mo-c-c0xffffffff-rj-k-no" group-title="HONDURAS",UNE TV 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7NIUvd7.png" group-title="HONDURAS",VTV (HON)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7NIUvd7.png" group-title="HONDURAS",VTV 
 
 
 ######################################################################################################################################
