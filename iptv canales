@@ -101,13 +101,13 @@ http://streamtv.com.br:80/douglas/douglas/13427
 http://niptv.biz:25461/alcebiadesnascimento@hotmail.com/100756/139
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDGCEqwejgtxfr505syQsBSOMabhqbGuTldReQp2eaE0QsMXco" group-title="BRASIL",BBB 1 BR***
-http://maxptv.ddns.net:25461/carlin/carlin/126
+http://streamtv.com.br:80/gabriele/gabriele/13427
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDGCEqwejgtxfr505syQsBSOMabhqbGuTldReQp2eaE0QsMXco" group-title="BRASIL",BBB 2 BR*
 http://streamtv.com.br:80/douglas/douglas/20052
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDGCEqwejgtxfr505syQsBSOMabhqbGuTldReQp2eaE0QsMXco" group-title="BRASIL",BBB 2 BR***
-
+http://streamtv.com.br:80/gabriele/gabriele/20052
 
 #EXTINF:0 tvg-logo="http://www.mundocross.com.br/wp-content/uploads/2013/05/band.jpg" group-title="BRASIL",BAND BR*
 http://streamtv.com.br:80/douglas/douglas/1661
@@ -116,7 +116,7 @@ http://streamtv.com.br:80/douglas/douglas/1661
 http://niptv.biz:25461/alcebiadesnascimento@hotmail.com/100756/70
 
 #EXTINF:0 tvg-logo="http://www.mundocross.com.br/wp-content/uploads/2013/05/band.jpg" group-title="BRASIL",BAND BR***
-http://maxptv.ddns.net:25461/carlin/carlin/219
+http://streamtv.com.br:80/gabriele/gabriele/1661
 
 #EXTINF:0 tvg-logo="http://i.imgur.com/jtiMetX.png" group-title="BRASIL",CANAL RURAL BR
 
@@ -136,8 +136,8 @@ http://streamtv.com.br:80/douglas/douglas/1609
 #EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="BRASIL",GLOBO SP BR**
 http://niptv.biz:25461/alcebiadesnascimento@hotmail.com/100756/66
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="BRASIL",GLOBO RP BR***
-http://maxptv.ddns.net:25461/carlin/carlin/700
+#EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="BRASIL",GLOBO SP BR***
+http://streamtv.com.br:80/gabriele/gabriele/1609
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="BRASIL",GLOBO RJ BR*
 http://streamtv.com.br:80/douglas/douglas/1611
@@ -145,8 +145,11 @@ http://streamtv.com.br:80/douglas/douglas/1611
 #EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="BRASIL",GLOBO RJ BR**
 http://niptv.biz:25461/alcebiadesnascimento@hotmail.com/100756/63
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="BRASIL",GLOBO SC BR***
+#EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="BRASIL",GLOBO RJ BR***
+http://streamtv.com.br:80/gabriele/gabriele/1611
 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="BRASIL",GLOBO RP BR°
+http://maxptv.ddns.net:25461/carlin/carlin/700
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/R/rbs-tv-logo-567F6184F4-seeklogo.com.png" group-title="BRASIL",GLOBO RBS BR*
 http://streamtv.com.br:80/douglas/douglas/1612
