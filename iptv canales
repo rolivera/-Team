@@ -451,8 +451,8 @@ http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/chun
 #EXTINF:-1 tvg-logo="http://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="ESPAÑA",T24 HORAS LA°
 http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve01_lv3_aosv4_gl0/irtve01_lv3_aosv4_gl0.isml/irtve01_lv3_aosv4_gl0-audio=128000-video=400000.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx5AC8zAOXW8TacAiMZCxk8L7d-RI8KICaIvMBq0LBsK--4KBC" group-title="ESPAÑA",ANTENA 3 
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx5AC8zAOXW8TacAiMZCxk8L7d-RI8KICaIvMBq0LBsK--4KBC" group-title="ESPAÑA",ANTENA 3 HD
+http://sansat.net:25461/live/024710090110/024710090110/15036.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/ACSszfHmfHe_ojc4vMH08Wd6v7AWshuLYa1S_I8Oew=s900-mo-c-c0xffffffff-rj-k-no" group-title="ESPAÑA",ARAGON TV LA°
 http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8?GrupoTopIptv
@@ -472,11 +472,23 @@ http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/IB3.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL6FnVHDWXcchgbSwJq3Vv3_llGR-slxDRFnanrMc8yBf_dvZe" group-title="ESPAÑA",LA 1 LA°
 http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl7/la1_lv3_aosv4_gl7/la1_lv3_aosv4_gl7.isml/la1_lv3_aosv4_gl7-audio=128000-video=400000.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL6FnVHDWXcchgbSwJq3Vv3_llGR-slxDRFnanrMc8yBf_dvZe" group-title="ESPAÑA",LA 1 HD
+http://sansat.net:25461/live/024710090110/024710090110/15039.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/899384654259736578/JcRiYU5A_400x400.jpg" group-title="ESPAÑA",LA 2 HD
+http://sansat.net:25461/live/024710090110/024710090110/15038.m3u8
+
+#EXTINF:-1 tvg-logo="https://colegiokhalilgibran.es/wordpress/wp-content/uploads/2018/10/la_sexta_logo-antes.jpg" group-title="ESPAÑA",LA SEXTA HD
+http://sansat.net:25461/live/024710090110/024710090110/15037.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRbBSeqhCzKdtYGp96qfMPmy_SmKvfaTX2FSQvn-2QFQpLFkLb" group-title="ESPAÑA",LEBRIJA TV LA°
 http://212.104.160.156:1935/live/lebrijatv2/playlist3.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf_97asR_TnwQBqE6EdjYW_Euf2I6XZurUhtBS-HXUiMKxTIrK" group-title="ESPAÑA",LEVANTE TV LA°
 http://teledifusion.tv:1935/levantetvlive/levantetvlive/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.iniciarsesionde.info/wp-content/uploads/2018/11/mega-logo.jpg" group-title="ESPAÑA",MEGA HD
+http://sansat.net:25461/live/024710090110/024710090110/19757.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/AAuE7mB3gxynIi-smWj1HKNoICgjt9yl47jXMo92ug=s900-mo-c-c0xffffffff-rj-k-no" group-title="ESPAÑA",MEZZO LA°
 http://ott-cdn.ucom.am/s35/index.m3u8
