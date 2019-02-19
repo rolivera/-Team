@@ -20,7 +20,7 @@ http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/p
 http://54.38.176.123:25461/live/Luis/perez/21.rtmp
 
 #EXTINF:-1 tvg-logo="https://img1.androidappsapk.co/300/7/0/6/net.coninfo.admin.trecemaxtelevisin.png" group-title="ARGENTINA",13 MAX LA°
-http://coninfo.net:1935/13maxhd/live_720p/.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://visiondefuturo.org/wp-content/uploads/tv-argentinisima.jpg" group-title="ARGENTINA",ARGENTINISIMA SATELITAL LA°
 http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/playlist.m3u8?GrupoTopIptv
@@ -293,7 +293,7 @@ http://unlimited5-cl.dps.live/holvoettv/holvoettv.smil/playlist.m3u8?GrupoTopIpt
 
 
 #EXTINF:-1 tvg-logo="http://www.xn--ubletv-vwa.cl/gallery_gen/206f25ceca6e5baf9ad8adf299c792f7_200x200.png" group-title="CHILE",ÑUBLE TV LA°
-https://593b04c4c5670.streamlock.net:443/tvdaniel/tvdaniel/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://static.13.cl/7/sites/all/themes/rec_v2/images/default_2018.jpg" group-title="CHILE", REC TV LA*
 
@@ -852,7 +852,7 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIPE0002&mode=12
 http://shacktv.com:8080/live/888999/888999/61231.ts
 
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-Mcc2xCpSKWQ/UF6PxaiQZYI/AAAAAAAACQU/BLm5ZUhxzfs/s1600/LOGOTVPERU.jpg" group-title="PERU",TV PERU HD (PER)
-http://cdnh15.iblups.com/hls/R9WtilpKKB.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/ACSszfEZsuA4Vja3XQ2TOnZRNAoXL01JbQBIDQj-og=s900-mo-c-c0xffffffff-rj-k-no" group-title="PERU",VIA TV (PER)
 
@@ -3325,7 +3325,7 @@ http://shacktv.com:8080/live/888999/888999/21700.ts
 
 
 #EXTINF:-1 tvg-logo="http://images-us.ott.kaltura.com/Service.svc/GetImage/p/313/entry_id/0180e0b8b26a42a692bf5a4304337e7a_1/version/16/width/282/height/158/quality/100" group-title="DEPORTES/ESPORTES",CDF LA*
-http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16598.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/cl_cdf-basico_m.png" group-title="DEPORTES/ESPORTES",CDF BASICO (CHI)
 
@@ -3334,7 +3334,7 @@ http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16598.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-2iO02UEHDaA/Wz3VnYbPSLI/AAAAAAAAA3U/oVfs6Zfm8kk1OQJ4E3VbxcYsecUhf2nWwCLcBGAs/s1600/cdfpremium.png" group-title="DEPORTES/ESPORTES",CDF PREMIUM LA*
-http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16090.m3u8
+http://54.38.176.123:25461/live/Luis/perez/2373.rtmp
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/378800000619827008/b9cc037613ceebec4d9b209eff48fbcf_400x400.jpeg" group-title="DEPORTES/ESPORTES",CDN SPORTMAX (LAT)
 
@@ -3385,10 +3385,10 @@ http://listaccess.me:8880/1212/1212/2319
 http://shacktv.com:8080/live/888999/888999/61061.ts
 
 #EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/969313918727409665/mRvrSacI_400x400.jpg" group-title="DEPORTES/ESPORTES",DIRECTV SPORTS 
-
+http://54.38.176.123:25461/live/Luis/perez/49.rtmp
 
 #EXTINF:-1  tvg-logo="https://2.bp.blogspot.com/-HN8t4AqICTY/WyXsANIos-I/AAAAAAAAAyg/q3q6qyLrMZAhBtF1e6z36WVCztbmxUaQQCLcBGAs/s1600/directvsports2.jpg" group-title="DEPORTES/ESPORTES",DIRECTV SPORTS 2 LA*
-http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16558.m3u8
+
 
 #EXTINF:-1  tvg-logo="https://2.bp.blogspot.com/-HN8t4AqICTY/WyXsANIos-I/AAAAAAAAAyg/q3q6qyLrMZAhBtF1e6z36WVCztbmxUaQQCLcBGAs/s1600/directvsports2.jpg" group-title="DEPORTES/ESPORTES",DIRECTV SPORTS 2 
 http://shacktv.com:8080/live/888999/888999/61057.ts
@@ -3397,7 +3397,7 @@ http://shacktv.com:8080/live/888999/888999/61057.ts
 
 
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuwWlXQUK6nvqKAS4DX3ZB0nMUTJYsg5SsAfKnPhqAYzBSDCGWAQ" group-title="DEPORTES/ESPORTES",DIRECTV SPORTS + HD LA*
-http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16557.m3u8
+
 
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuwWlXQUK6nvqKAS4DX3ZB0nMUTJYsg5SsAfKnPhqAYzBSDCGWAQ" group-title="DEPORTES/ESPORTES",DIRECTV SPORTS + 
 
@@ -3415,13 +3415,13 @@ http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16557.m3u8
 http://ligatv.net:25461/clarodep/01022019/294
 
 #EXTINF:-1 tvg-logo="https://bloximages.newyork1.vip.townnews.com/lancasteronline.com/content/tncms/assets/v3/editorial/6/a3/6a33a76a-2aab-11e7-8cfd-2fdf8678edd2/5900e2482259c.image.png" group-title="DEPORTES/ESPORTES",ESPN LA*
-http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16086.m3u8
+http://54.38.176.123:25461/live/Luis/perez/43.rtmp
 
 #EXTINF:-1 tvg-logo="https://bloximages.newyork1.vip.townnews.com/lancasteronline.com/content/tncms/assets/v3/editorial/6/a3/6a33a76a-2aab-11e7-8cfd-2fdf8678edd2/5900e2482259c.image.png" group-title="DEPORTES/ESPORTES",ESPN 
 http://shacktv.com:8080/live/888999/888999/61101.ts
 
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/mx_espn-2_m.png" group-title="DEPORTES/ESPORTES",ESPN 2 LA*
-http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16740.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/mx_espn-2_m.png" group-title="DEPORTES/ESPORTES",ESPN 2 HD (LAT)
 http://shacktv.com:8080/live/888999/888999/47.ts
@@ -3433,13 +3433,13 @@ http://shacktv.com:8080/live/888999/888999/47.ts
 http://shacktv.com:8080/live/888999/888999/46.ts
 
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/co_espn-3-hd_m.png" group-title="DEPORTES/ESPORTES",ESPN 3 LA*
-http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16084.m3u8
+http://54.38.176.123:25461/live/Luis/perez/45.rtmp
 
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/co_espn-3-hd_m.png" group-title="DEPORTES/ESPORTES",ESPN 3 
 http://shacktv.com:8080/live/888999/888999/46.ts
 
 #EXTINF:-1 tvg-logo="http://unimasgo.com/gold-app/gold-uploads/media/espn-mas-en-vivo.jpg" group-title="DEPORTES/ESPORTES",ESPN + LA*
-http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16083.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://unimasgo.com/gold-app/gold-uploads/media/espn-mas-en-vivo.jpg" group-title="DEPORTES/ESPORTES",ESPN + 
 
@@ -3493,7 +3493,7 @@ http://shacktv.com:8080/live/888999/888999/22031.ts
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3siiXt2YMBgW_LL0mfXCpTWNAwQ8t6IvyPMbCs76NSZrx7ti6NQ" group-title="DEPORTES/ESPORTES",FOX SPORTS LA*
-http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16082.m3u8
+http://54.38.176.123:25461/live/Luis/perez/52.rtmp
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3siiXt2YMBgW_LL0mfXCpTWNAwQ8t6IvyPMbCs76NSZrx7ti6NQ" group-title="DEPORTES/ESPORTES",FOX SPORTS LA°
 http://ligatv.net:25461/clarodep/01022019/291
@@ -3532,7 +3532,7 @@ http://ligatv.net:25461/clarodep/01022019/289
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRHCMK5lgOv5RQQB1jOmdVBdClhj7W_Hr3gI_4HnFQ3rw4CA_D1" group-title="DEPORTES/ESPORTES",FOX SPORTS 3 HD LA*
-http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16080.m3u8
+http://54.38.176.123:25461/live/Luis/perez/41.rtmp
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3siiXt2YMBgW_LL0mfXCpTWNAwQ8t6IvyPMbCs76NSZrx7ti6NQ" group-title="DEPORTES/ESPORTES",FOX SPORTS PREMIUM HD (ARG)
 
@@ -3559,19 +3559,19 @@ http://niptv.biz:25461/alcebiadesnascimento@hotmail.com/100756/48
 http://listaccess.me:8880/1212/1212/2284
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxItzNEZOj1g_wTWnulGc2P14OSRtvFO9xQSXxhI3dOVzklU2m" group-title="DEPORTES/ESPORTES",GOL PERU LA*
-http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16718.m3u8
+http://54.38.176.123:25461/live/Luis/perez/1673.rtmp
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxItzNEZOj1g_wTWnulGc2P14OSRtvFO9xQSXxhI3dOVzklU2m" group-title="DEPORTES/ESPORTES",GOL PERU 
 http://shacktv.com:8080/live/888999/888999/61237.ts
 
 #EXTINF:-1 tvg-logo="https://media.licdn.com/dms/image/C560BAQF4nbh9r1MCJA/company-logo_200_200/0?e=2159024400&v=beta&t=p1QPise-dbbC4BimuVyaDSsx81Ow485MJg08w1KnTdU" group-title="DEPORTES/ESPORTES",GOL ECUADOR LA*
-http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16201.m3u8
+http://54.38.176.123:25461/live/Luis/perez/53.rtmp
 
 #EXTINF:-1 tvg-logo="https://media.licdn.com/dms/image/C560BAQF4nbh9r1MCJA/company-logo_200_200/0?e=2159024400&v=beta&t=p1QPise-dbbC4BimuVyaDSsx81Ow485MJg08w1KnTdU" group-title="DEPORTES/ESPORTES",GOL ECUADOR LA
 http://shacktv.com:8080/live/888999/888999/61244.ts
 
 #EXTINF:-1 tvg-logo="https://media.licdn.com/dms/image/C560BAQF4nbh9r1MCJA/company-logo_200_200/0?e=2159024400&v=beta&t=p1QPise-dbbC4BimuVyaDSsx81Ow485MJg08w1KnTdU" group-title="DEPORTES/ESPORTES",GOL TV ESP LA*
-http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16591.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://media.licdn.com/dms/image/C560BAQF4nbh9r1MCJA/company-logo_200_200/0?e=2159024400&v=beta&t=p1QPise-dbbC4BimuVyaDSsx81Ow485MJg08w1KnTdU" group-title="DEPORTES/ESPORTES",GOL TV ESP
 http://shacktv.com:8080/live/888999/888999/22027.ts
@@ -3580,10 +3580,10 @@ http://shacktv.com:8080/live/888999/888999/22027.ts
 http://ligatv.net:25461/clarodep/01022019/288
 
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/AFIZZIONADOS.png" group-title="DEPORTES/ESPORTES",IZZI AFIZZIONADOS LA*
-http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16434.m3u8
+http://54.38.176.123:25461/live/Luis/perez/38.rtmp
 
 #EXTINF:-1 tvg-logo="https://www.thematv.com/medias/channels/latin-american-sports/logo.png" group-title="DEPORTES/ESPORTES",L.A.S. ESP LA*
-http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16546.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://orientalnewsng.com/wp-content/uploads/2018/05/LaLiga.png" group-title="DEPORTES/ESPORTES",LA LIGA (ESP)
 http://shacktv.com:8080/live/888999/888999/22047.ts
@@ -3592,7 +3592,7 @@ http://shacktv.com:8080/live/888999/888999/22047.ts
 http://shacktv.com:8080/live/888999/888999/206.ts
 
 #EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-deportes1.jpg.pagespeed.ic.SoG88VrpZw.jpg" group-title="DEPORTES/ESPORTES",MOVISTAR DEPORTES ESP LA*
-http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16588.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-deportes1.jpg.pagespeed.ic.SoG88VrpZw.jpg" group-title="DEPORTES/ESPORTES",MOVISTAR DEPORTES HD (ESP)
 http://shacktv.com:8080/live/888999/888999/22013.ts
@@ -3607,7 +3607,7 @@ http://shacktv.com:8080/live/888999/888999/22013.ts
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrdFT_eEcxaAb9Y_dw5XjbJvNz_xeAZ1M3zj1d_fKDuqg-Ebbe" group-title="DEPORTES/ESPORTES",NBA TV USA LA*
-http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16440.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrdFT_eEcxaAb9Y_dw5XjbJvNz_xeAZ1M3zj1d_fKDuqg-Ebbe" group-title="DEPORTES/ESPORTES",NBA TV 
 http://shacktv.com:8080/live/888999/888999/145.ts
@@ -3709,7 +3709,7 @@ https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d
 http://shacktv.com:8080/live/888999/888999/191.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz3Y5mg3o0aX87BOiSoTIAlUKlaU-ETgViXoPUSzuy9pnUJxi5" group-title="DEPORTES/ESPORTES",TDN LA*
-http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16554.m3u8
+http://54.38.176.123:25461/live/Luis/perez/42.rtmp
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz3Y5mg3o0aX87BOiSoTIAlUKlaU-ETgViXoPUSzuy9pnUJxi5" group-title="DEPORTES/ESPORTES",TDN HD (LAT)
 
@@ -3724,15 +3724,13 @@ http://shacktv.com:8080/live/888999/888999/61100.ts
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SAZczO7.png" group-title="DEPORTES/ESPORTES",TYC ARG LA*
-http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16442.m3u8
-
+http://54.38.176.123:25461/live/Luis/perez/109.rtmp
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQUk0aU1tQc_yNElPeuVIMJh8oZE4VCqL4XHwdnWUE66bGMaqo7" group-title="DEPORTES/ESPORTES",UFC FIGHTING LA*
-http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16447.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://www.deltatre.com/wp-content/uploads/2014/02/300px-black.png" group-title="DEPORTES/ESPORTES",UNIVISION DEPORTES LA*
-http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16429.m3u8
+http://54.38.176.123:25461/live/Luis/perez/2424.rtmp
 
 #EXTINF:-1  tvg-logo="https://http2.mlstatic.com/2android-tv-box-750-canales-de-cable-canales-uruguayos-y-vtv-D_NQ_NP_884222-MLU26628807182_012018-F.jpg" group-title="DEPORTES/ESPORTES",VTV (URU)
 http://shacktv.com:8080/live/888999/888999/105584.ts
@@ -3741,7 +3739,7 @@ http://shacktv.com:8080/live/888999/888999/105584.ts
 
 
 #EXTINF:-1  tvg-logo="https://http2.mlstatic.com/2android-tv-box-750-canales-de-cable-canales-uruguayos-y-vtv-D_NQ_NP_884222-MLU26628807182_012018-F.jpg" group-title="DEPORTES/ESPORTES",VTV URU LA*
-http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16074.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/022015/win_sports.png?itok=jmwV9nOn" group-title="DEPORTES/ESPORTES",WIN SPORTS LA*
 http://ligatv.net:25461/clarodep/01022019/287
