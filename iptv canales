@@ -17,7 +17,7 @@ http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/p
 #######################################
 
 #EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/small/295-2959716_america-2-logo-américa-tv.png" group-title="ARGENTINA",AMERICA LA*
-http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16522.m3u8
+http://54.38.176.123:25461/live/Luis/perez/21.rtmp
 
 #EXTINF:-1 tvg-logo="https://img1.androidappsapk.co/300/7/0/6/net.coninfo.admin.trecemaxtelevisin.png" group-title="ARGENTINA",13 MAX LA°
 http://coninfo.net:1935/13maxhd/live_720p/.m3u8
@@ -272,7 +272,7 @@ http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/p
 #######################################
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLIvOG1WnJV0P8bS1RksCCjihTKncUvgOuFIsf3yo6xf8OABDv" group-title="CHILE",CANAL 13 LA*
-http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16101.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://www.chilevision.cl/logo-chilevision.png" group-title="CHILE", CHV LA°
 http://live.hls.http.chv.ztreaming.com/chvhddesktop/chv-desktop.m3u8
@@ -284,10 +284,10 @@ http://streaming.elpinguino.com:1935/live/pinguinotv_720p/hasbahca.m3u8?GrupoTop
 http://unlimited5-cl.dps.live/holvoettv/holvoettv.smil/playlist.m3u8?GrupoTopIptv
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/ACSszfGRaEtnwbupF5tZkkiKXDnY2yRVkaEzN7OkKQ=s900-mo-c-c0xffffffff-rj-k-no" group-title="CHILE",LA RED LA*
-http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16098.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-ya1LV8p7s_I/Wa8S56MBK9I/AAAAAAAAAu8/LtVXsqLRH7gcxpTyi3OPuGvbMbAeBX3RgCLcBGAs/s200/Mega_%2528Chile%2529_Alternate_Logo.png" group-title="CHILE",MEGA LA*
-http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16096.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://niu.cl/wp-content/uploads/2017/07/radio.png" group-title="CHILE", NIU MEDIA 
 
@@ -296,10 +296,10 @@ http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16096.m3u8
 https://593b04c4c5670.streamlock.net:443/tvdaniel/tvdaniel/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://static.13.cl/7/sites/all/themes/rec_v2/images/default_2018.jpg" group-title="CHILE", REC TV LA*
-http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16095.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://www.periodismo.uchile.cl/noticias/images/tvnlogo.jpg" group-title="CHILE", TVN LA*
-http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16093.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/AN66SAwlcPV7y6xW8-d-RTAITZt_IAz-PXf1jdv1EA=s900-mo-c-c0xffffffff-rj-k-no" group-title="CHILE", UCV 
 
@@ -319,11 +319,11 @@ http://shacktv.com:8080/live/888999/888999/61043.ts
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/co_cali-tv_m.png" group-title="COLOMBIA",CALI TV 
 http://shacktv.com:8080/live/888999/888999/61045.ts
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSetNpXYP8_CJaxAgqNbHdOyLcyrY9eQx7Dvv7X2RQwmpAWxYm9" group-title="COLOMBIA",CARACOL LA*
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSetNpXYP8_CJaxAgqNbHdOyLcyrY9eQx7Dvv7X2RQwmpAWxYm9" group-title="COLOMBIA",CARACOL LA**
 http://shacktv.com:8080/live/888999/888999/61050.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSetNpXYP8_CJaxAgqNbHdOyLcyrY9eQx7Dvv7X2RQwmpAWxYm9" group-title="COLOMBIA",CARACOL LA*
-http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16140.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSetNpXYP8_CJaxAgqNbHdOyLcyrY9eQx7Dvv7X2RQwmpAWxYm9" group-title="COLOMBIA",CARACOL INT LA*
 http://shacktv.com:8080/live/888999/888999/61049.ts
@@ -380,7 +380,7 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/ACSszfEMDCWulA1HqV5ivYsj7ziEfO_aVae5UEW1UQ=s900-mo-c-c0xffffffff-rj-k-no" group-title="COSTA RICA",TELERED LA*
-http://kimbogrupol.com:25461/live/Kimbo/Kimbo/11944.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/062017/untitled-1_77.png?itok=aKB9_Vis" group-title="COSTA RICA",TELETICA 
 
@@ -452,7 +452,7 @@ http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/chun
 http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve01_lv3_aosv4_gl0/irtve01_lv3_aosv4_gl0.isml/irtve01_lv3_aosv4_gl0-audio=128000-video=400000.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx5AC8zAOXW8TacAiMZCxk8L7d-RI8KICaIvMBq0LBsK--4KBC" group-title="ESPAÑA",ANTENA 3 HD
-http://sansat.net:25461/live/024710090110/024710090110/15036.m3u8
+http://54.38.176.123:25461/live/Luis/perez/82.rtmp
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/ACSszfHmfHe_ojc4vMH08Wd6v7AWshuLYa1S_I8Oew=s900-mo-c-c0xffffffff-rj-k-no" group-title="ESPAÑA",ARAGON TV LA°
 http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8?GrupoTopIptv
@@ -464,7 +464,7 @@ http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
 http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/cuatro_logo_500_-1_343d.png" group-title="ESPAÑA",CUATRO HD
-http://sansat.net:25461/live/024710090110/024710090110/15035.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6-aQmexQ_PYqTPcqJR4rGkg1FjRbzKift7z4yAgdPtZ808ckI" group-title="ESPAÑA",CGTN LA°
 https://livees.cgtn.com/1000e/prog_index.m3u8
@@ -476,13 +476,13 @@ http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/IB3.m3u8
 http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl7/la1_lv3_aosv4_gl7/la1_lv3_aosv4_gl7.isml/la1_lv3_aosv4_gl7-audio=128000-video=400000.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL6FnVHDWXcchgbSwJq3Vv3_llGR-slxDRFnanrMc8yBf_dvZe" group-title="ESPAÑA",LA 1 HD
-http://sansat.net:25461/live/024710090110/024710090110/15039.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/899384654259736578/JcRiYU5A_400x400.jpg" group-title="ESPAÑA",LA 2 HD
-http://sansat.net:25461/live/024710090110/024710090110/15038.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://colegiokhalilgibran.es/wordpress/wp-content/uploads/2018/10/la_sexta_logo-antes.jpg" group-title="ESPAÑA",LA SEXTA HD
-http://sansat.net:25461/live/024710090110/024710090110/15037.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRbBSeqhCzKdtYGp96qfMPmy_SmKvfaTX2FSQvn-2QFQpLFkLb" group-title="ESPAÑA",LEBRIJA TV LA°
 http://212.104.160.156:1935/live/lebrijatv2/playlist3.m3u8
@@ -491,7 +491,7 @@ http://212.104.160.156:1935/live/lebrijatv2/playlist3.m3u8
 http://teledifusion.tv:1935/levantetvlive/levantetvlive/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.iniciarsesionde.info/wp-content/uploads/2018/11/mega-logo.jpg" group-title="ESPAÑA",MEGA HD
-http://sansat.net:25461/live/024710090110/024710090110/19757.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/AAuE7mB3gxynIi-smWj1HKNoICgjt9yl47jXMo92ug=s900-mo-c-c0xffffffff-rj-k-no" group-title="ESPAÑA",MEZZO LA°
 http://ott-cdn.ucom.am/s35/index.m3u8
@@ -503,7 +503,7 @@ http://nws.nice264.com/SmilLive/getLiveIOS.smil?stream=NTV_livenatvmb&system=NTV
 http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_1_av-b.m3u8?GrupoTopIptv
 
 #EXTINF:-1 tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/telecinco_circular_500_-1_bda1.png" group-title="ESPAÑA",TELECINCO HD
-http://sansat.net:25461/live/024710090110/024710090110/15034.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6Tft2LL3b2HIUuB-RDDfjVDCv8CWtRT7OODGSa-pjqUo3EHrw" group-title="ESPAÑA",TV 3 LA°
 http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/playlist.m3u8
@@ -768,13 +768,13 @@ http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/p
 #######################################
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-9o1hrNBbzMg/WErbZ6j9pcI/AAAAAAAAEfk/zKiP3sfdw8kB7aVifb8voJ3uEKbyLH60QCLcB/s1600/La-Tele.jpg" group-title="PARAGUAY",LA TELE LA*
-http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16572.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://images.mi.tv/channels/f3ace021-a5ae-4c24-9824-309dc2b32fe0_m.jpg" group-title="PARAGUAY",PARAGuAY TV LA*
-http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16573.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://images.mi.tv/channels/py_red-guarani_m.png" group-title="PARAGUAY",RED GUARANI LA*
-http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16574.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/9ecff249-5118-4973-9daa-b65bb4374b06_m.jpg" group-title="PARAGUAY",TELEFUTURO (PAR)
 
@@ -786,16 +786,16 @@ http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/p
 #######################################
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_america-television_m.png" group-title="PERU",AMERICA TV LA*
-http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16578.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.jssor.com/andre89/tv-antares.png" group-title="PERU",ANTARES (PER)
 http://173.192.105.252:1935/iptvantares/liveantarestv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2018/01/atv.png?resize=218%2C150" group-title="PERU",ATV (PER)
-http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16366.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/atv.png?resize=218%2C150" group-title="PERU",ATV PLUS (PER)
-http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16109.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi7dwi6zcgfauHR07Vmz3dLsR5pAEOVOpxLS0fYGzC2Br3LvKK" group-title="PERU",BHTV (PER)
 
@@ -828,7 +828,7 @@ http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 http://movil.mediastream.pe/vv_manosdios/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1JIzoLMktUf6pIoKgynYr_TbzBcp1XxuIEykq-0wudlssNPSu" group-title="PERU",LATINA LA*
-http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16108.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/2414323/logo_mega%20tv.png" group-title="PERU",MEGA TV 
 http://play.hostreamperu.com:1935/8016/8016/playlist.m3u8
@@ -840,10 +840,10 @@ http://play.hostreamperu.com:1935/8016/8016/playlist.m3u8
 http://d2fxrfbiedz1tm.cloudfront.net/livepaxtv/smil:PC.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv-yfQzSPYaXoCT59S8P0wmV_6acn3levjBnj5hiT3bvnHRgiJ" group-title="PERU",PERU MAGICO (PER)
-http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16105.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/www.mercadonegro.pe/wp-content/uploads/2017/05/11150958_983024775048830_2466650008896508480_n.jpg?resize=336%2C336" group-title="PERU",PLUS TV (PER)
-http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16104.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/horarios_73.png" group-title="PERU",TV NOTICIAS 7.3 (PER)
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIPE0002&mode=12
@@ -954,7 +954,7 @@ http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/p
 
 
 #EXTINF:-1 tvg-logo="https://lh4.googleusercontent.com/QPwcl350XAVi9Nq2zbWcEBfCo2Sh97dYyUZx_qqp059P2JS7Ux_JBdpCdjheDNHS8p57AHMSL342_DU3gYh876wDfmax93XzObZO_eDygMVT2iDP0cqLKvJmPPIFuzBMBU1m9yiY" group-title="R.DOMINICANA",DIGITAL 15 (DOM)
-http://shacktv.com:8080/live/888999/888999/61182.ts
+
 
 #EXTINF:-1 tvg-logo="http://hostlagarto.com/streaming/wp-content/uploads/2017/06/ESTTV-696x244.png" group-title="R.DOMINICANA",ESTV (DOM)
 
@@ -1005,13 +1005,13 @@ http://shacktv.com:8080/live/888999/888999/105591.ts
 http://shacktv.com:8080/live/888999/888999/105583.ts
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-gXhn1i6LiCM/VKOv0_4IFfI/AAAAAAAAFmw/qoNG1mHsytc/s640/blogger-image--648257053.jpg" group-title="URUGUAY",SAETA 10 ALT (URU)
-http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16529.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/61/Teledoce_logo.png/revision/latest?cb=20140706162325" group-title="URUGUAY",TELEDOCE (URU)
 http://shacktv.com:8080/live/888999/888999/105582.ts
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/61/Teledoce_logo.png/revision/latest?cb=20140706162325" group-title="URUGUAY",TELEDOCE ALT (URU)
-http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16531.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1eS8gxcJ1kxicoDvzok6mx560uEa6s41EFmTvdgu00I-kuIPM" group-title="URUGUAY",URUGUAY NATURAL
 http://shacktv.com:8080/live/888999/888999/105588.ts
@@ -1026,7 +1026,7 @@ http://shacktv.com:8080/live/888999/888999/105584.ts
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd_qBAeUfhUl2q8-nR9zdA_9nNoKZ4TnP7AkZoYF8CKrer9isj" group-title="URUGUAY",VTV + (URU)
-http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16528.m3u8
+
 
 
 ######################################################################################################################################
@@ -1075,7 +1075,7 @@ http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/p
 http://inliveserver.com:1935/8468/8468/chunklist_w773874421.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDCdzFfbEhIrPKuMpMyf3hZXiV0lR3X-corM7t8VT0uURgzDEk" group-title="CANALES DE CINE",CINE SKY BR°
-http://stmv2.srvstm.com:1935/tvjsid/tvjsid/playlist.m3u8?GrupoTopIptv
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/InG3Xv9.png" group-title="CANALES DE CINE",FMHOT PELIS LA°
 http://fmhot.04.cl.cdnz.cl/fmhot/smil:cdn.smil/playlist.m3u8
@@ -1570,7 +1570,7 @@ http://kimbogrupol.com:25461/live/julian/julian1/16182.m3u8
 http://kimbogrupol.com:25461/live/julian/julian1/17223.m3u8
 
 #EXTINF:-1 tvg-logo="https://etb.com/hogares/img1/guia/logos/logo-cinec.jpg" group-title="PREMIUM LA***",CINECANAL LA***
-http://kimbogrupol.com:25461/live/julian/julian1/16630.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/CKoz2slVAAAaSEB.png" group-title="PREMIUM LA***",CINEMA DINAMITA LA***
 http://kimbogrupol.com:25461/live/julian/julian1/17206.m3u8
@@ -1588,13 +1588,13 @@ http://kimbogrupol.com:25461/live/julian/julian1/17201.m3u8
 http://kimbogrupol.com:25461/live/julian/julian1/17255.m3u8
 
 #EXTINF:-1 tvg-logo="http://conectateacablevision.mx/projects/commercialofferchannels/img/channels/233.png" group-title="PREMIUM LA***",DISTRITO COMEDIA LA***
-http://kimbogrupol.com:25461/live/julian/julian1/16631.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://www.cablevideodigitalbionik.com.ar/img/logoscanales/europaeuropa.jpg" group-title="PREMIUM LA***",EUROPA EUROPA LA***
-http://kimbogrupol.com:25461/live/julian/julian1/16552.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTShhqAzVKyWfruuXyyg3vFmeA48Gvg_jtxZeZvQEkQ6kvVPBK6" group-title="PREMIUM LA***",FILM & ARTS LA***
-http://kimbogrupol.com:25461/live/julian/julian1/16636.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://banner2.kisspng.com/20180329/heq/kisspng-logo-of-nbc-television-channel-fox-fox-5abc8ef9dcbf13.5561782615223068099042.jpg" group-title="PREMIUM LA***",FOX LA***
 http://kimbogrupol.com:25461/live/julian/julian1/17205.m3u8
@@ -1615,7 +1615,7 @@ http://kimbogrupol.com:25461/live/julian/julian1/16176.m3u8
 http://kimbogrupol.com:25461/live/julian/julian1/16175.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBxRngi3ew3yGlLHn0MMtIRN252b1GDFdLBlNBVGjrJne_8V-C" group-title="PREMIUM LA***",FOX LIFE LA***
-http://kimbogrupol.com:25461/live/julian/julian1/16639.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-movies_m.png" group-title="PREMIUM LA***",FOX MOVIES LA***
 http://kimbogrupol.com:25461/live/julian/julian1/16174.m3u8
@@ -1633,10 +1633,10 @@ http://kimbogrupol.com:25461/live/julian/julian1/17208.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://vivotvtv.com/wp-content/uploads/2018/04/Golden-Edge-en-vivo-277x156.jpg" group-title="PREMIUM LA***",GOLDEN EDGE LA***
-http://kimbogrupol.com:25461/live/julian/julian1/16643.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.totalplay.com.mx/images/logos/canales/cine/g-plus.png" group-title="PREMIUM LA***",GOLDEN PLUS LA***
-http://kimbogrupol.com:25461/live/julian/julian1/16642.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://televisatvdepaga.com/wp-content/uploads/2017/08/golden-premier.jpg" group-title="PREMIUM LA***",GOLDEN PREMIER LA***
 http://kimbogrupol.com:25461/live/julian/julian1/16736.m3u8
@@ -1658,7 +1658,7 @@ http://kimbogrupol.com:25461/live/julian/julian1/16168.m3u8
 http://kimbogrupol.com:25461/live/julian/julian1/16167.m3u8
 
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/_VoHOYEuZjzM/SsANAYXMMWI/AAAAAAAAAhI/7yI4nQHXUvQ/s320/Logo_ISat.jpg" group-title="PREMIUM LA***",I SAT LA***
-http://kimbogrupol.com:25461/live/julian/julian1/16681.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://clarotv.claro.com.br/image/Get/630" group-title="PREMIUM LA***",MAX LA***
 
@@ -1676,7 +1676,7 @@ http://kimbogrupol.com:25461/live/julian/julian1/16735.m3u8
 http://kimbogrupol.com:25461/live/julian/julian1/17209.m3u8
 
 #EXTINF:-1 tvg-logo="https://d2xhqqdaxyaju6.cloudfront.net/file/teaser-ci/293920/0/1200-400.jpg" group-title="PREMIUM LA***",PARAMOUNT LA***
-http://kimbogrupol.com:25461/live/julian/julian1/16661.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://www.cable10.com/imagenes/programacion/canales_0013s_0006_Layer%2044.jpg" group-title="PREMIUM LA***",SONY LA***
 http://kimbogrupol.com:25461/live/julian/julian1/16707.m3u8
@@ -1685,16 +1685,16 @@ http://kimbogrupol.com:25461/live/julian/julian1/16707.m3u8
 http://kimbogrupol.com:25461/live/julian/julian1/16708.m3u8
 
 #EXTINF:-1 tvg-logo="http://studiouniversal.wiperagency.com/uploads/product/dcd0513fc9513c710f9cab0e0097abfb4deb340a.jpg" group-title="PREMIUM LA***",STUDIO UNIVERSAL LA***
-http://kimbogrupol.com:25461/live/julian/julian1/16666.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/082015/syfy_0.png?itok=64TT6J8J" group-title="PREMIUM LA***",SYFY LA***
-http://kimbogrupol.com:25461/live/julian/julian1/16669.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/011/original/pic_tbs.png?1522176341" group-title="PREMIUM LA***",TBS LA***
-http://kimbogrupol.com:25461/live/julian/julian1/16670.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://www.brandemia.org/sites/default/files/sites/default/files/tcm_logo_antes.jpg" group-title="PREMIUM LA***",TCM LA***
-http://kimbogrupol.com:25461/live/julian/julian1/16671.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://mareatvcable.com/wp-content/uploads/2017/12/44-tntlogo.png" group-title="PREMIUM LA***",TNT LA***
 http://kimbogrupol.com:25461/live/julian/julian1/16709.m3u8
@@ -2354,7 +2354,7 @@ http://shacktv.com:8080/live/888999/888999/49.ts
 http://shacktv.com:8080/live/888999/888999/104858.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqCEjZ3lJUZoJw2aKxy2MmN7iqGN2HMP_Kaqouz7vO0MuVChvZ" group-title="VARIEDADES" pltv-subgroup="VARIEDADES LATINO",FASHION TV (LAT)
-http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?_=1518069241
+http://54.38.176.123:25461/live/Luis/perez/2126.rtmp
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpDsgfCUrov92J-y6RCge-3UYBBYhUED5diLnE_kbO1sjwdaZl" group-title="VARIEDADES" pltv-subgroup="VARIEDADES LATINO",FILM & ARTS (LAT)
 
@@ -2580,13 +2580,13 @@ http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/p
 
 
 #EXTINF:-1 tvg-logo="http://liveitkodi.com/Logos/BabyTV.png" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",BABY TV (LAT)
-http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16742.m3u8
+http://54.38.176.123:25461/live/Luis/perez/4051.rtmp
 
 #EXTINF:-1 tvg-logo="http://liveitkodi.com/Logos/BabyTV.png" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",BABY TV 
 http://shacktv.com:8080/live/888999/888999/69.ts
 
 #EXTINF:-1 tvg-logo="http://www.animationmagazine.net/wordpress/wp-content/uploads/boomerang-1503.jpg" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",BOOMERANG (LAT)
-http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16695.m3u8
+http://54.38.176.123:25461/live/Luis/perez/4032.rtmp
 
 #EXTINF:-1 tvg-logo="http://www.animationmagazine.net/wordpress/wp-content/uploads/boomerang-1503.jpg" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",BOOMERANG HD (LAT)
 http://shacktv.com:8080/live/888999/888999/68.ts
@@ -2598,7 +2598,7 @@ http://shacktv.com:8080/live/888999/888999/68.ts
 
 
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/ar_cartoon-network_m.png" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",CARTOON NETWORK (LAT)
-http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16626.m3u8
+http://54.38.176.123:25461/live/Luis/perez/2322.rtmp
 
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/ar_cartoon-network_m.png" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",CARTOON NETWORK HD (LAT)
 http://shacktv.com:8080/live/888999/888999/65.ts
@@ -2607,7 +2607,7 @@ http://shacktv.com:8080/live/888999/888999/65.ts
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkT4gLv-J4rnTEOX4AE_dX_Sy3ygP-XyJBEyr9rTUFtt6yBP8Y" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",DISCOVERY KIDS (LAT)
-http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16621.m3u8
+http://54.38.176.123:25461/live/Luis/perez/19.rtmp
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkT4gLv-J4rnTEOX4AE_dX_Sy3ygP-XyJBEyr9rTUFtt6yBP8Y" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",DISCOVERY KIDS HD (LAT)
 http://shacktv.com:8080/live/888999/888999/54.ts
@@ -2616,7 +2616,7 @@ http://shacktv.com:8080/live/888999/888999/54.ts
 
 
 #EXTINF:-1 tvg-logo="http://logosvector.net/wp-content/uploads/2014/07/new-disney-channel-logo.png" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",DISNEY (LAT)
-http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16623.m3u8
+http://54.38.176.123:25461/live/Luis/perez/26.rtmp
 
 #EXTINF:-1 tvg-logo="http://logosvector.net/wp-content/uploads/2014/07/new-disney-channel-logo.png" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",DISNEY HD (LAT)
 http://shacktv.com:8080/live/888999/888999/53.ts
@@ -2625,7 +2625,7 @@ http://shacktv.com:8080/live/888999/888999/53.ts
 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/EKvqypE.png" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",DISNEY JR (LAT)
-http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16624.m3u8
+http://54.38.176.123:25461/live/Luis/perez/24.rtmp
 
 #EXTINF:-1 tvg-logo="https://imgur.com/EKvqypE.png" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",DISNEY JR HD (LAT)
 http://shacktv.com:8080/live/888999/888999/52.ts
@@ -2649,7 +2649,7 @@ http://shacktv.com:8080/live/888999/888999/61222.ts
 http://locomotiontv.com/envivo/loco_channel/stream.m3u8
 
 #EXTINF:-1 tvg-logo="http://listaccess.me/Logo/natgeokids1.png" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",NAT GEO KIDS (LAT)
-http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16653.m3u8
+http://54.38.176.123:25461/live/Luis/perez/20.rtmp
 
 #EXTINF:-1 tvg-logo="http://listaccess.me/Logo/natgeokids1.png" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",NAT GEO KIDS HD (LAT)
 http://shacktv.com:8080/live/888999/888999/104834.ts
@@ -2658,7 +2658,7 @@ http://shacktv.com:8080/live/888999/888999/104834.ts
 
 
 #EXTINF:-1 tvg-logo="http://listaccess.me/Logo/nick1.png" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",NICKELODEON (LAT)
-http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16187.m3u8
+http://54.38.176.123:25461/live/Luis/perez/23.rtmp
 
 #EXTINF:-1 tvg-logo="http://listaccess.me/Logo/nick1.png" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",NICKELODEON HD (LAT)
 http://shacktv.com:8080/live/888999/888999/104829.ts
@@ -2670,7 +2670,7 @@ http://shacktv.com:8080/live/888999/888999/104829.ts
 
 
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41DAgNJEGkL._SY355_.png" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",NICK JR (LAT)
-http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16655.m3u8
+http://54.38.176.123:25461/live/Luis/perez/25.rtmp
 
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41DAgNJEGkL._SY355_.png" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",NICK JR HD (LAT)
 http://shacktv.com:8080/live/888999/888999/104830.ts
@@ -2697,7 +2697,7 @@ http://panel2.cdnstreamserver.com/live/peque-pequetv.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/gt_tooncast_m.png" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",TOONCAST (LAT)
-http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16627.m3u8
+http://54.38.176.123:25461/live/Luis/perez/4053.rtmp
 
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/gt_tooncast_m.png" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",TOONCAST HD (LAT)
 http://shacktv.com:8080/live/888999/888999/104807.ts
