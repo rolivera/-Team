@@ -244,7 +244,7 @@ http://stmv1.questreaming.com/atb/atb/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ad/Bolivia_TV_2016.png/revision/latest?cb=20160622170105" group-title="BOLIVIA",BOLIViA TV LA°
 http://api.new.livestream.com/accounts/10468276/events/3485826/live.m3u8
 
-#EXTINF:-1  tvg-logo="https://www.foromedios.com/uploads/gallery/category_6/gallery_9461_6_34035.png" group-title="BOLIVIA",CADENA A LA°
+#EXTINF:-1  tvg-logo="https://tvmi.com.bo/wp-content/uploads/sites/2/2018/10/logocadenaa.png" group-title="BOLIVIA",CADENA A LA°
 http://136.243.3.70:1935/CadenaA/CadenaA/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyRQjxTL5wsGIcl21ge2JGC7UuOM28VJI8Nqx_dY-13W91nyB7" group-title="BOLIVIA",CATOLICA TV LA°
@@ -433,10 +433,10 @@ http://shacktv.com:8080/live/050470/050470/61248.ts
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/doblaje/images/c/cd/Logo_rts.png/revision/latest?cb=20170103223401&path-prefix=es" group-title="ECUADOR",RTS 
 http://shacktv.com:8080/live/050470/050470/61247.ts
 
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_11/large.TCmicanal-2017.png.1b9c5a32e676ea2cfc06b74fe0bcffa8.png" group-title="ECUADOR",TC 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQiKIlXL7-QqAoSNMCvoFg7pM8dcCgDwQGEj8piZGq9CS_xrIq" group-title="ECUADOR",TC 
 http://shacktv.com:8080/live/050470/050470/61246.ts
 
-#EXTINF:-1 tvg-logo="https://vector.me/files/images/7/6/766909/teleamazonas.png" group-title="ECUADOR",TELEAMAZONAS 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScBOulB59AK6kbDcrr2n7Q2MJXPw21ncySla375EZiCMjVZN8QSw" group-title="ECUADOR",TELEAMAZONAS 
 http://shacktv.com:8080/live/050470/050470/61242.ts
 
 ######################################################################################################################################
@@ -470,7 +470,7 @@ http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/playlist.m3u8
 https://livees.cgtn.com/1000e/prog_index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3a7IAnmU-JdDe2QAqRpvjNIpNMNs5DqBAZxPwCQtmz0RrDGF7" group-title="ESPAÑA",IB3 LA°
-http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/IB3.m3u8
+http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/IB3.m3u8 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL6FnVHDWXcchgbSwJq3Vv3_llGR-slxDRFnanrMc8yBf_dvZe" group-title="ESPAÑA",LA 1 LA°
 http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl7/la1_lv3_aosv4_gl7/la1_lv3_aosv4_gl7.isml/la1_lv3_aosv4_gl7-audio=128000-video=400000.m3u8
@@ -631,7 +631,7 @@ http://shacktv.com:8080/live/050470/050470/105816.ts
 #EXTINF:-1 tvg-logo="https://media.tvalacarta.info/canales/256x256/azteca13.png" group-title="MEXICO",AZTECA 13 
 
 
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2018_01/large.aztecaunovertical.png.591c1b430422e1412e58be389e838412.png" group-title="MEXICO",AZTECA UNO 
+#EXTINF:-1 tvg-logo="https://tvpremiumhd.com/channels/live/upload/1706.png" group-title="MEXICO",AZTECA UNO 
 http://shacktv.com:8080/live/050470/050470/105818.ts
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/C80W69PVwAAy6mF.jpg:large" group-title="MEXICO",AZTECA + 
@@ -989,7 +989,7 @@ http://shacktv.com:8080/live/050470/050470/105600.ts
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/AN66SAw1OzI-uSvA_HamSiFLdd6DxN2cEg9tGET7Vw=s900-mo-c-c0xffffffff-rj-k-no" group-title="URUGUAY",CARDINAL TV (URU)
 http://shacktv.com:8080/live/050470/050470/105598.ts
 
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2018_11/large.1541861587971.png.0b2fd110c6497aa9011f749dda06e2e4.png" group-title="URUGUAY",LA RED (URU)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQU2uqw5gEtjTV2AgBQJBkl4xAzXowEosN47HS77HOtgzKUtfV" group-title="URUGUAY",LA RED (URU)
 http://shacktv.com:8080/live/050470/050470/105612.ts
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/AAuE7mDX98P76p6hwqqCfGBw0tYa50mGfHWEELa0qQ=s900-mo-c-c0xffffffff-rj-k-no" group-title="URUGUAY",MONTECARLO (URU)
