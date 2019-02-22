@@ -244,7 +244,7 @@ http://stmv1.questreaming.com/atb/atb/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ad/Bolivia_TV_2016.png/revision/latest?cb=20160622170105" group-title="BOLIVIA",BOLIViA TV LA°
 http://api.new.livestream.com/accounts/10468276/events/3485826/live.m3u8
 
-#EXTINF:-1  tvg-logo="https://tvmi.com.bo/wp-content/uploads/sites/2/2018/10/logocadenaa.png" group-title="BOLIVIA",CADENA A LA°
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-qqlSYlov_2SEpqcELpLplxpnKBj7-RasCHSIKqUTxgNJZPMP" group-title="BOLIVIA",CADENA A LA°
 http://136.243.3.70:1935/CadenaA/CadenaA/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyRQjxTL5wsGIcl21ge2JGC7UuOM28VJI8Nqx_dY-13W91nyB7" group-title="BOLIVIA",CATOLICA TV LA°
@@ -521,7 +521,7 @@ http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/p
 http://aztecalive-lh.akamaihd.net/i/0dcqjxkgx_1@502208/index_1_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/3738246142/d8da1f74edbe459b4cf8d5980b36503b.jpeg" group-title="HONDURAS",5 LIDER LA°
-https://trinity-lh.akamaihd.net/i/TelevicentroLive2_d@508538/master.m3u8
+https://trinity-lh.akamaihd.net/i/TelevicentroLive1_d@17977/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-f--LDppE5Ms/VRqKRt2a0CI/AAAAAAAABk8/YssXLhHmKso/s320/Azteca%2BHonduras.png" group-title="HONDURAS",AZTECA H0NDURAS
 
@@ -571,8 +571,8 @@ http://4.31.30.140:1935/live/mundotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-Zg3GYnLlL74/Wj1RMoNNLuI/AAAAAAADZf8/676eM_H8UCQkbfMuNUtPA5nRM458pTaVQCLcBGAs/s1600/ten-canal-10-televsion-educativa-honduras.png" group-title="HONDURAS",TEN LA°
 http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b1848000.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2018_05/large.TSIHON.png.ea3d7fa3dfdfc275527e52d203a7ee18.png" group-title="HONDURAS",TSI LA°
-https://trinity-lh.akamaihd.net/i/TelevicentroLive1_d@17977/master.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/AAuE7mAexAEpAX2UJjVk9hTB4MPXpubaE2Xwp47BQQ=s900-mo-c-c0xffffffff-rj-k-no" group-title="HONDURAS",TSI LA°
+https://trinity-lh.akamaihd.net/i/TelevicentroLive2_d@508538/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/AN66SAwETFuayXGi4O4PvSnLoY4OLWw8CKtv5aNNkQ=s900-mo-c-c0xffffffff-rj-k-no" group-title="HONDURAS",UNE TV 
 
@@ -1179,7 +1179,7 @@ http://shacktv.com:8080/050470/050470/219
 #EXTINF:-1 tvg-logo="https://i1.wp.com/rucookiemunchers.com/wp-content/uploads/2018/03/fox-29-logo-square.jpg" group-title="PREMIUM USA",FOX 29 HD
 http://shacktv.com:8080/050470/050470/151
 
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/category_2/sml_gallery_1163_2_64.png"  group-title="PREMIUM USA",FOX CINEMA
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-premium-cinema_m.png"  group-title="PREMIUM USA",FOX CINEMA
 http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyVYACgshsXqvRtXUsEIVQzibTeR-nHAPXr9YZh28k7Dn3QVH9" group-title="PREMIUM USA",FX HD
