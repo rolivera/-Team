@@ -91,6 +91,9 @@ http://x.mytvxweb.me:25461/4854/4854/25663
 http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8
 #######################################
 
+#EXTINF:0 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/big-brother-brasil-png-5.png" group-title="BRASIL",BBB MOSAICO (JR)
+http://cdn.ontvhdbr.co:8880/javierrosa/u63he3eKEX/39912
+
 #EXTINF:0 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/big-brother-brasil-png-5.png" group-title="BRASIL",BBB MOSAICO BR HD
 http://listaccess.me:8880/1213/1213/20080
 
@@ -138,6 +141,9 @@ http://streamtv.com.br:80/test/test/3952
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/Or3Q4WA.png" group-title="BRASIL",GAZETA BR***
 http://listaccess.me:8880/1212/1212/7241
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="BRASIL",GLOBO SP (JR)
+http://cdn.ontvhdbr.co:8880/javierrosa/u63he3eKEX/22021
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="BRASIL",GLOBO SP BR*
 http://streamtv.com.br:80/test/test/1609
