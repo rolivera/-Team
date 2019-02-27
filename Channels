@@ -16,8 +16,11 @@ https://stream.vagalume.fm/hls/14660050141766497579/aac.m3u8
 http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8
 #######################################
 
-#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/small/295-2959716_america-2-logo-américa-tv.png" group-title="ARGENTINA",AMERICA LA*
+#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/small/295-2959716_america-2-logo-américa-tv.png" group-title="ARGENTINA",AMERICA
 http://x.mytvxweb.me:25461/live/4854/4854/25670.rtmp
+
+#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/small/295-2959716_america-2-logo-américa-tv.png" group-title="ARGENTINA",AMERICA
+http://kimbogrupol.com:25461/live/444/444/16522.ts
 
 #EXTINF:-1 tvg-logo="https://img1.androidappsapk.co/300/7/0/6/net.coninfo.admin.trecemaxtelevisin.png" group-title="ARGENTINA",13 MAX LA°
 
@@ -76,6 +79,9 @@ https://5975e06a1f292.streamlock.net:4443/canal7jujuy/ngrp:canal7jujuy_all/playl
 #EXTINF:-1 tvg-logo="https://digitalmediawire.com/wp-content/uploads/2016/11/Telefe.jpg" group-title="ARGENTINA",TELEFE 
 http://x.mytvxweb.me:25461/4854/4854/25665
 
+#EXTINF:-1 tvg-logo="https://digitalmediawire.com/wp-content/uploads/2016/11/Telefe.jpg" group-title="ARGENTINA",TELEFE
+http://kimbogrupol.com:25461/live/444/444/16739.ts
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/506483696065449984/BATn-jAe.png" group-title="ARGENTINA",TELPIN 
 
 
@@ -87,6 +93,9 @@ http://x.mytvxweb.me:25461/4854/4854/25664
 
 #EXTINF:-1 tvg-logo="https://imgsvr.radiocut.com.ar/get/crop/center/200/200/cuts_logos/c7/d1/c7d1f319-1d6c-44ed-a70a-9e38f935fa38.jpg" group-title="ARGENTINA",TV PUBLICA 
 http://x.mytvxweb.me:25461/4854/4854/25663
+
+#EXTINF:-1 tvg-logo="https://imgsvr.radiocut.com.ar/get/crop/center/200/200/cuts_logos/c7/d1/c7d1f319-1d6c-44ed-a70a-9e38f935fa38.jpg" group-title="ARGENTINA",TV PUBLICA 
+http://kimbogrupol.com:25461/live/444/444/16472.ts
 
 ######################################################################################################################################
 ####################################### BRASIL
@@ -2653,15 +2662,15 @@ http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/p
 http://149.56.26.6:25461/live/70/70/138354.rtmp
 
 #EXTINF:-1 tvg-logo="http://liveitkodi.com/Logos/BabyTV.png" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",BABY TV 
-
+http://kimbogrupol.com:25461/live/444/444/17301.ts
 
 #EXTINF:-1 tvg-logo="http://liveitkodi.com/Logos/BabyTV.png" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",BABY TV 
 
 
-#EXTINF:-1 tvg-logo="http://www.animationmagazine.net/wordpress/wp-content/uploads/boomerang-1503.jpg" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",BOOMERANG (LAT)
+#EXTINF:-1 tvg-logo="http://www.animationmagazine.net/wordpress/wp-content/uploads/boomerang-1503.jpg" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",BOOMERANG
+http://kimbogrupol.com:25461/live/444/444/17300.ts
 
-
-#EXTINF:-1 tvg-logo="http://www.animationmagazine.net/wordpress/wp-content/uploads/boomerang-1503.jpg" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",BOOMERANG HD (LAT)
+#EXTINF:-1 tvg-logo="http://www.animationmagazine.net/wordpress/wp-content/uploads/boomerang-1503.jpg" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",BOOMERANG
 
 
 #EXTINF:-1 tvg-logo="http://www.animationmagazine.net/wordpress/wp-content/uploads/boomerang-1503.jpg" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",BOOMERANG 
@@ -2670,46 +2679,46 @@ http://149.56.26.6:25461/live/70/70/138354.rtmp
 #EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/file_1528172622.png" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",CACHIPUM (LAT)
 
 
-#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/ar_cartoon-network_m.png" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",CARTOON NETWORK (LAT)
+#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/ar_cartoon-network_m.png" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",CARTOON NETWORK
 http://149.56.26.6:25461/live/70/70/52612.rtmp
 
-#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/ar_cartoon-network_m.png" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",CARTOON NETWORK HD (LAT)
+#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/ar_cartoon-network_m.png" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",CARTOON NETWORK
+http://kimbogrupol.com:25461/live/444/444/17304.ts
+
+#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/ar_cartoon-network_m.png" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",CARTOON NETWORK
 
 
-#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/ar_cartoon-network_m.png" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",CARTOON NETWORK (LAT)
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkT4gLv-J4rnTEOX4AE_dX_Sy3ygP-XyJBEyr9rTUFtt6yBP8Y" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",DISCOVERY KIDS (LAT)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkT4gLv-J4rnTEOX4AE_dX_Sy3ygP-XyJBEyr9rTUFtt6yBP8Y" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",DISCOVERY KIDS
 http://149.56.26.6:25461/live/70/70/41143.rtmp
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkT4gLv-J4rnTEOX4AE_dX_Sy3ygP-XyJBEyr9rTUFtt6yBP8Y" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",DISCOVERY KIDS HD (LAT)
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkT4gLv-J4rnTEOX4AE_dX_Sy3ygP-XyJBEyr9rTUFtt6yBP8Y" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",DISCOVERY KIDS
+http://kimbogrupol.com:25461/live/444/444/17298.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkT4gLv-J4rnTEOX4AE_dX_Sy3ygP-XyJBEyr9rTUFtt6yBP8Y" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",DISCOVERY KIDS 
 
 
-#EXTINF:-1 tvg-logo="http://logosvector.net/wp-content/uploads/2014/07/new-disney-channel-logo.png" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",DISNEY (LAT)
+#EXTINF:-1 tvg-logo="http://logosvector.net/wp-content/uploads/2014/07/new-disney-channel-logo.png" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",DISNEY
 http://149.56.26.6:25461/live/70/70/57254.rtmp
 
-#EXTINF:-1 tvg-logo="http://logosvector.net/wp-content/uploads/2014/07/new-disney-channel-logo.png" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",DISNEY HD (LAT)
-
+#EXTINF:-1 tvg-logo="http://logosvector.net/wp-content/uploads/2014/07/new-disney-channel-logo.png" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",DISNEY
+http://kimbogrupol.com:25461/live/444/444/17296.ts
 
 #EXTINF:-1 tvg-logo="http://logosvector.net/wp-content/uploads/2014/07/new-disney-channel-logo.png" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",DISNEY 
 
 
-#EXTINF:-1 tvg-logo="https://imgur.com/EKvqypE.png" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",DISNEY JR (LAT)
+#EXTINF:-1 tvg-logo="https://imgur.com/EKvqypE.png" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",DISNEY JR
 http://149.56.26.6:25461/live/70/70/5230.rtmp
 
-#EXTINF:-1 tvg-logo="https://imgur.com/EKvqypE.png" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",DISNEY JR HD (LAT)
-
+#EXTINF:-1 tvg-logo="https://imgur.com/EKvqypE.png" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",DISNEY JR
+http://kimbogrupol.com:25461/live/444/444/17297.ts
 
 #EXTINF:-1 tvg-logo="https://imgur.com/EKvqypE.png" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",DISNEY JR 
 
 
-#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/cl_disney-xd_m.png" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",DISNEY XD (LAT)
+#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/cl_disney-xd_m.png" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",DISNEY XD
+http://kimbogrupol.com:25461/live/444/444/17294.ts
 
-
-#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/cl_disney-xd_m.png" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",DISNEY XD SD (LAT)
+#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/cl_disney-xd_m.png" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",DISNEY XD
 http://wowza2.mysoltv.com:1992/Latino_Disney_XD/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/cl_disney-xd_m.png" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",DISNEY XD 
@@ -2721,32 +2730,32 @@ http://149.56.26.6:25461/live/70/70/135906.rtmp
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/f0/be/d6/f0bed6cc9a3e5f519b60278341b32c29.jpg" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",LOCOMOTION (LAT)
 http://locomotiontv.com/envivo/loco_channel/stream.m3u8
 
-#EXTINF:-1 tvg-logo="http://listaccess.me/Logo/natgeokids1.png" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",NAT GEO KIDS (LAT)
+#EXTINF:-1 tvg-logo="http://listaccess.me/Logo/natgeokids1.png" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",NAT GEO KIDS
 http://149.56.26.6:25461/live/70/70/166761.rtmp
 
-#EXTINF:-1 tvg-logo="http://listaccess.me/Logo/natgeokids1.png" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",NAT GEO KIDS HD (LAT)
+#EXTINF:-1 tvg-logo="http://listaccess.me/Logo/natgeokids1.png" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",NAT GEO KIDS
+http://kimbogrupol.com:25461/live/444/444/17299.ts
+
+#EXTINF:-1 tvg-logo="http://listaccess.me/Logo/natgeokids1.png" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",NAT GEO KIDS
 
 
-#EXTINF:-1 tvg-logo="http://listaccess.me/Logo/natgeokids1.png" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",NAT GEO KIDS HD (LAT)
-
-
-#EXTINF:-1 tvg-logo="http://listaccess.me/Logo/nick1.png" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",NICKELODEON (LAT)
+#EXTINF:-1 tvg-logo="http://listaccess.me/Logo/nick1.png" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",NICKELODEON
 http://149.56.26.6:25461/live/70/70/167806.rtmp
 
-#EXTINF:-1 tvg-logo="http://listaccess.me/Logo/nick1.png" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",NICKELODEON HD (LAT)
-
+#EXTINF:-1 tvg-logo="http://listaccess.me/Logo/nick1.png" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",NICKELODEON
+http://kimbogrupol.com:25461/live/444/444/16187.ts
 
 #EXTINF:-1 tvg-logo="http://listaccess.me/Logo/nick1.png" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",NICKELODEON 
-
+http://kimbogrupol.com:25461/live/444/444/17295.ts
 
 #EXTINF:-1 tvg-logo="https://orig00.deviantart.net/73ec/f/2016/215/c/4/nick_2_new_logo_concept_by_misterguydom15-dacgqnb.png" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",NICK 2 
 
 
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41DAgNJEGkL._SY355_.png" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",NICK JR (LAT)
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41DAgNJEGkL._SY355_.png" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",NICK JR
 http://149.56.26.6:25461/live/70/70/42150.rtmp
 
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41DAgNJEGkL._SY355_.png" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",NICK JR HD (LAT)
-
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41DAgNJEGkL._SY355_.png" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",NICK JR
+http://kimbogrupol.com:25461/live/444/444/17303.ts
 
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41DAgNJEGkL._SY355_.png" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",NICK JR 
 
@@ -2769,11 +2778,11 @@ http://149.56.26.6:25461/live/70/70/13361.rtmp
 #EXTINF:-1 tvg-logo="http://televisa-networks.com/wp-content/uploads/2017/08/televisa-networks-tiin-logo.jpg" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",TIIN 
 
 
-#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/gt_tooncast_m.png" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",TOONCAST (LAT)
+#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/gt_tooncast_m.png" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",TOONCAST
 http://149.56.26.6:25461/live/70/70/61978.rtmp
 
-#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/gt_tooncast_m.png" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",TOONCAST HD (LAT)
-
+#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/gt_tooncast_m.png" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",TOONCAST
+http://kimbogrupol.com:25461/live/444/444/17302.ts
 
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/gt_tooncast_m.png" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",TOONCAST 
 
@@ -2907,7 +2916,7 @@ http://servelive.net:80/gabriel/gabriel/7903
 http://servelive.net:80/gabriel/gabriel/7007
 
 #EXTINF:-1 tvg-logo="https://static1.squarespace.com/static/53d0472ce4b07de11ec7e3cc/t/53e39f57e4b0aa880a303a1e/1407426426257/" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTIS BRASIL",ZOOMOO (BR)
-
+http://kimbogrupol.com:25461/live/444/444/16571.ts
 
 ######################################################################################################################################
 ####################################### RELIGIOSOS
@@ -3833,8 +3842,8 @@ http://149.56.26.6:25461/live/70/70/41238.rtmp
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SAZczO7.png" group-title="DEPORTES/ESPORTES",TYC
 http://kimbogrupol.com:25461/live/444/444/16442.ts
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQUk0aU1tQc_yNElPeuVIMJh8oZE4VCqL4XHwdnWUE66bGMaqo7" group-title="DEPORTES/ESPORTES",UFC FIGHTING LA*
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQUk0aU1tQc_yNElPeuVIMJh8oZE4VCqL4XHwdnWUE66bGMaqo7" group-title="DEPORTES/ESPORTES",UFC
+http://kimbogrupol.com:25461/live/444/444/16447.ts
 
 #EXTINF:-1 tvg-logo="http://www.deltatre.com/wp-content/uploads/2014/02/300px-black.png" group-title="DEPORTES/ESPORTES",UNIVISION DEPORTES
 http://149.56.26.6:25461/live/70/70/159625.rtmp
@@ -3857,10 +3866,10 @@ http://kimbogrupol.com:25461/live/444/444/17185.ts
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/022015/win_sports.png?itok=jmwV9nOn" group-title="DEPORTES/ESPORTES",WIN SPORTS
 http://kimbogrupol.com:25461/live/444/444/17353.ts
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/W/wwe-logo-71A46059D8-seeklogo.com.png" group-title="DEPORTES/ESPORTES",WWE (USA)
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/W/wwe-logo-71A46059D8-seeklogo.com.png" group-title="DEPORTES/ESPORTES",WWE
+http://kimbogrupol.com:25461/live/444/444/16593.ts
 
-
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/W/wwe-logo-71A46059D8-seeklogo.com.png" group-title="DEPORTES/ESPORTES",WWE HD (USA)
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/W/wwe-logo-71A46059D8-seeklogo.com.png" group-title="DEPORTES/ESPORTES",WWE
 
 
 ######################################################################################################################################
