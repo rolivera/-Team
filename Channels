@@ -46,8 +46,11 @@ http://coninfo.net:1935/chacodxdtv/live/chunklist_w1251301598.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/677195098405412864/w1GSVqNs_400x400.png" group-title="ARGENTINA",CN3 LA°
 http://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/433043324698501120/liWhZUAW_400x400.jpeg" group-title="ARGENTINA",EL GARAGE LA°
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/433043324698501120/liWhZUAW_400x400.jpeg" group-title="ARGENTINA",EL GARAGE
 http://186.0.233.76:1935/Garage/garage.smil/chunklist_w846352619_b446000_sleng.m3u8?GrupoTopIptv
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/433043324698501120/liWhZUAW_400x400.jpeg" group-title="ARGENTINA",EL GARAGE
+http://kimbogrupol.com:25461/live/444/444/16640.ts
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-vkeG0RQIHnE/WGhvc62WN2I/AAAAAAAABVY/BYhPhbmV8PkibYnkoMh4oUswZ2JLVp_7QCLcB/s1600/elnuevenuevo.png" group-title="ARGENTINA",EL NUEVE 
 
@@ -442,17 +445,26 @@ http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/p
 #EXTINF:-1 tvg-logo="https://tvenvivo.ec/wp-content/uploads/2018/08/canal-uno-logo.jpg" group-title="ECUADOR",CANAL UNO 
 http://x.mytvxweb.me:25461/4854/4854/25582
 
+#EXTINF:-1 tvg-logo="https://tvenvivo.ec/wp-content/uploads/2018/08/canal-uno-logo.jpg" group-title="ECUADOR",CANAL UNO 
+http://kimbogrupol.com:25461/live/444/444/16439.ts
+
 #EXTINF:-1 tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/16459_logo_canela_tv5.png" group-title="ECUADOR",CANELA TV 
 
 
-#EXTINF:-1 tvg-logo="http://www.notihoy.com.ec/images/Centro_Logo-17.png" group-title="ECUADOR",CENTRO ECUADOR LA°
+#EXTINF:-1 tvg-logo="http://www.notihoy.com.ec/images/Centro_Logo-17.png" group-title="ECUADOR",CENTRO ECUADOR
 http://unsecure.streann.com/loadbalancer/services/public/channels/57cef28b2cdc6843385b86ce/playlist.m3u8?GrupoTopIptv
+
+#EXTINF:-1 tvg-logo="http://www.notihoy.com.ec/images/Centro_Logo-17.png" group-title="ECUADOR",CENTRO ECUADOR
+http://kimbogrupol.com:25461/live/444/444/16454.ts
 
 #EXTINF:-1 tvg-logo="http://www.estadio.ec/sites/default/files/field/image/2015/01/15/ecuavisa.jpg" group-title="ECUADOR",ECUAVISA 
 http://x.mytvxweb.me:25461/4854/4854/36109
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/24/GamaTV_2006.png/revision/latest?cb=20171031031807" group-title="ECUADOR",GAMA TV 
 http://x.mytvxweb.me:25461/4854/4854/282026
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/24/GamaTV_2006.png/revision/latest?cb=20171031031807" group-title="ECUADOR",GAMA TV
+http://kimbogrupol.com:25461/live/444/444/16721.ts
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/oromar.png?fit=500%2C300" group-title="ECUADOR",OROMAR TV 
 
@@ -462,6 +474,9 @@ http://x.mytvxweb.me:25461/4854/4854/25577
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQiKIlXL7-QqAoSNMCvoFg7pM8dcCgDwQGEj8piZGq9CS_xrIq" group-title="ECUADOR",TC 
 http://x.mytvxweb.me:25461/4854/4854/25576
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQiKIlXL7-QqAoSNMCvoFg7pM8dcCgDwQGEj8piZGq9CS_xrIq" group-title="ECUADOR",TC 
+http://kimbogrupol.com:25461/live/444/444/11199.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScBOulB59AK6kbDcrr2n7Q2MJXPw21ncySla375EZiCMjVZN8QSw" group-title="ECUADOR",TELEAMAZONAS 
 
@@ -651,6 +666,9 @@ http://x.mytvxweb.me:25461/4854/4854/25658
 
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/co_az-mundo-hd_m.png" group-title="MEXICO",AZ MUNDO 
 http://x.mytvxweb.me:25461/4854/4854/282163
+
+#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/co_az-mundo-hd_m.png" group-title="MEXICO",AZ MUNDO 
+http://kimbogrupol.com:25461/live/444/444/17210.ts
 
 #EXTINF:-1 tvg-logo="http://www.ipsummediagroup.com/blog/wp-content/uploads/2016/12/Logo-Viejo-Azteca-7.jpg" group-title="MEXICO",AZTECA 7 
 http://x.mytvxweb.me:25461/4854/4854/282178
@@ -867,6 +885,9 @@ http://kimbogrupol.com:25461/live/444/444/16108.ts
 #EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/2414323/logo_mega%20tv.png" group-title="PERU",MEGA TV 
 http://play.hostreamperu.com:1935/8016/8016/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/2414323/logo_mega%20tv.png" group-title="PERU",MEGA TV 
+http://kimbogrupol.com:25461/live/444/444/16535.ts
+
 #EXTINF:-1 tvg-logo="https://media.tvalacarta.info/canales/256x256/panamericana.png" group-title="PERU",PANAMERICANA TV
 http://kimbogrupol.com:25461/live/444/444/16716.ts
 
@@ -1058,9 +1079,6 @@ http://api.new.livestream.com/accounts/152816/events/4235094/live.m3u8?GrupoTopI
 http://x.mytvxweb.me:25461/4854/4854/296893
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/AAuE7mDX98P76p6hwqqCfGBw0tYa50mGfHWEELa0qQ=s900-mo-c-c0xffffffff-rj-k-no" group-title="URUGUAY",MONTECARLO
-http://kimbogrupol.com:25461/live/444/444/16531.ts
-
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/AAuE7mDX98P76p6hwqqCfGBw0tYa50mGfHWEELa0qQ=s900-mo-c-c0xffffffff-rj-k-no" group-title="URUGUAY",MONTECARLO
 http://kimbogrupol.com:25461/live/444/444/16524.ts
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/912770611419783168/O0rCFK49_400x400.jpg" group-title="URUGUAY",MONTEVIDEO PORTAL
@@ -1080,6 +1098,9 @@ http://kimbogrupol.com:25461/live/444/444/16529.ts
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/61/Teledoce_logo.png/revision/latest?cb=20140706162325" group-title="URUGUAY",TELEDOCE
 http://x.mytvxweb.me:25461/4854/4854/296895
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/61/Teledoce_logo.png/revision/latest?cb=20140706162325" group-title="URUGUAY",TELEDOCE
+http://kimbogrupol.com:25461/live/444/444/16531.ts
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/AAuE7mDrA_c2X9qw5Km09XpdhtiP12P_4c5LJeK3qA=s900-mo-c-c0xffffffff-rj-k-no" group-title="URUGUAY",TNU
 http://x.mytvxweb.me:25461/4854/4854/296889
@@ -1124,6 +1145,9 @@ http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2016/06/16/04/18/venezuela-1460595_960_720.jpg" group-title="VENEZUELA",VENEZUELA
 http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8
 #######################################
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE0UMAsc1ihL6AvMTScfmDz_Eu7yCLKBEQPRp--VOzQEY4dN8h" group-title="VENEZUELA",GLOBOVISION
+http://kimbogrupol.com:25461/live/444/444/16538.ts
 
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple19/v4/6a/5e/78/6a5e7862-acd6-80b4-579c-e3fbf845fbf8/source/512x512bb.jpg" group-title="VENEZUELA",PROMAR TV (VEN)
 
@@ -1465,6 +1489,9 @@ http://kimbogrupol.com:25461/live/julian/julian1/17255.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.mi.tv/channels/cl_dhe_m.png" group-title="PREMIUM LAT",DHE (4)
 http://kimbogrupol.com:25461/live/444/444/17255.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPT9-Pf7dxbk6Ykp-pR9AXe_GHDOh71hsR1nk8uO-lSZ4pFh4P" group-title="PREMIUM LAT",EUROPA EUROPA (4)
+http://kimbogrupol.com:25461/live/444/444/16552.ts
 
 #EXTINF:-1 tvg-logo="http://conectateacablevision.mx/projects/commercialofferchannels/img/channels/233.png" group-title="PREMIUM LAT",DISTRITO COMEDIA (1)
 http://149.56.26.6:25461/live/70/70/24511.rtmp
@@ -2387,8 +2414,8 @@ http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/p
 http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8
 #######################################
 
-#EXTINF:-1 tvg-logo="http://www.logotypes101.com/logos/369/4E6FF8D73A16CA6B1A72995ECB1B5380/eentertainment.png" group-title="VARIEDADES" pltv-subgroup="VARIEDADES LATINO",E! (LAT)
-
+#EXTINF:-1 tvg-logo="http://www.logotypes101.com/logos/369/4E6FF8D73A16CA6B1A72995ECB1B5380/eentertainment.png" group-title="VARIEDADES" pltv-subgroup="VARIEDADES LATINO",E!
+http://kimbogrupol.com:25461/live/444/444/17211.ts
 
 #EXTINF:-1 tvg-logo="http://www.logotypes101.com/logos/369/4E6FF8D73A16CA6B1A72995ECB1B5380/eentertainment.png" group-title="VARIEDADES" pltv-subgroup="VARIEDADES LATINO",E! 
 http://149.56.26.6:25461/live/70/70/41140.rtmp
@@ -2402,14 +2429,14 @@ http://149.56.26.6:25461/live/70/70/41140.rtmp
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqCEjZ3lJUZoJw2aKxy2MmN7iqGN2HMP_Kaqouz7vO0MuVChvZ" group-title="VARIEDADES" pltv-subgroup="VARIEDADES LATINO",FASHION TV (LAT)
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpDsgfCUrov92J-y6RCge-3UYBBYhUED5diLnE_kbO1sjwdaZl" group-title="VARIEDADES" pltv-subgroup="VARIEDADES LATINO",FILM & ARTS (LAT)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpDsgfCUrov92J-y6RCge-3UYBBYhUED5diLnE_kbO1sjwdaZl" group-title="VARIEDADES" pltv-subgroup="VARIEDADES LATINO",FILM & ARTS
+http://kimbogrupol.com:25461/live/444/444/16636.ts
 
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpDsgfCUrov92J-y6RCge-3UYBBYhUED5diLnE_kbO1sjwdaZl" group-title="VARIEDADES" pltv-subgroup="VARIEDADES LATINO",FILM & ARTS ALT (LAT)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpDsgfCUrov92J-y6RCge-3UYBBYhUED5diLnE_kbO1sjwdaZl" group-title="VARIEDADES" pltv-subgroup="VARIEDADES LATINO",FILM & ARTS
 
 
 #EXTINF:-1 tvg-logo="https://c7.uihere.com/files/345/921/237/food-network-chef-television-cooking-salamander-thumb.jpg" group-title="VARIEDADES" pltv-subgroup="VARIEDADES LATINO",,FOOD NETWORK 
-
+http://kimbogrupol.com:25461/live/444/444/16637.ts
 
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/cl_glitz_m.png" group-title="VARIEDADES" pltv-subgroup="VARIEDADES LATINO",GLITZ (LAT)
 
@@ -2417,20 +2444,20 @@ http://149.56.26.6:25461/live/70/70/41140.rtmp
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/cl_glitz_m.png" group-title="VARIEDADES" pltv-subgroup="VARIEDADES LATINO",GLITZ 
 http://149.56.26.6:25461/live/70/70/166744.rtmp
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/ACSszfHY7DAVYCYLicxlKpxHxhkikeExpHBKn8A72w=s900-mo-c-c0xffffffff-rj-k-no" group-title="VARIEDADES" pltv-subgroup="VARIEDADES LATINO",HOLA TV (LAT)
-
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/ACSszfHY7DAVYCYLicxlKpxHxhkikeExpHBKn8A72w=s900-mo-c-c0xffffffff-rj-k-no" group-title="VARIEDADES" pltv-subgroup="VARIEDADES LATINO",HOLA TV
+http://kimbogrupol.com:25461/live/444/444/17261.ts
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/ACSszfHY7DAVYCYLicxlKpxHxhkikeExpHBKn8A72w=s900-mo-c-c0xffffffff-rj-k-no" group-title="VARIEDADES" pltv-subgroup="VARIEDADES LATINO",HOLA TV 
 http://149.56.26.6:25461/live/70/70/61938.rtmp
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/ACSszfEp7PGHvg1oEXnVYaOO3P7K36xNfjlOa8dLeA=s900-mo-c-c0xffffffff-rj-k-no" group-title="VARIEDADES" pltv-subgroup="VARIEDADES LATINO",LIFETIME (LAT)
-
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/ACSszfEp7PGHvg1oEXnVYaOO3P7K36xNfjlOa8dLeA=s900-mo-c-c0xffffffff-rj-k-no" group-title="VARIEDADES" pltv-subgroup="VARIEDADES LATINO",LIFETIME
+http://kimbogrupol.com:25461/live/444/444/17220.ts
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/ACSszfEp7PGHvg1oEXnVYaOO3P7K36xNfjlOa8dLeA=s900-mo-c-c0xffffffff-rj-k-no" group-title="VARIEDADES" pltv-subgroup="VARIEDADES LATINO",LIFETIME 
 http://149.56.26.6:25461/live/70/70/41274.rtmp
 
-#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/co_mas-chic_m.png" group-title="VARIEDADES" pltv-subgroup="VARIEDADES LATINO",MAS CHIC (LAT)
-
+#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/co_mas-chic_m.png" group-title="VARIEDADES" pltv-subgroup="VARIEDADES LATINO",MAS CHIC
+http://kimbogrupol.com:25461/live/444/444/16647.ts
 
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/co_mas-chic_m.png" group-title="VARIEDADES" pltv-subgroup="VARIEDADES LATINO",MAS CHIC 
 http://149.56.26.6:25461/live/70/70/133314.rtmp
@@ -2453,8 +2480,8 @@ http://149.56.26.6:25461/live/70/70/8413.rtmp
 #EXTINF:-1 tvg-logo="https://images.mi.tv/channels/co_mtv-live-hd_m.png" group-title="VARIEDADES" pltv-subgroup="VARIEDADES LATINO",MTV LIVE 
 http://149.56.26.6:25461/live/70/70/55180.rtmp
 
-#EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/050/original/pic_sundancetv.png?1522177375" group-title="VARIEDADES" pltv-subgroup="VARIEDADES LATINO",SUNDANCE (LAT)
-
+#EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/050/original/pic_sundancetv.png?1522177375" group-title="VARIEDADES" pltv-subgroup="VARIEDADES LATINO",SUNDANCE
+http://kimbogrupol.com:25461/live/444/444/16667.ts
 
 #EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/050/original/pic_sundancetv.png?1522177375" group-title="VARIEDADES" pltv-subgroup="VARIEDADES LATINO",SUNDANCE 
 http://149.56.26.6:25461/live/70/70/168599.rtmp
@@ -3026,137 +3053,140 @@ http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/p
 http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8
 #######################################
 
-#EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/020/original/pic_a_e.png?1522180692" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",A&E (LAT)
-
+#EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/020/original/pic_a_e.png?1522180692" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",A&E
+http://kimbogrupol.com:25461/live/444/444/17256.ts
 
 #EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/020/original/pic_a_e.png?1522180692" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",A&E 
 http://149.56.26.6:25461/live/70/70/41055.rtmp
 
-#EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/020/original/pic_a_e.png?1522180692" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",A&E HD
+#EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/020/original/pic_a_e.png?1522180692" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",A&E
 
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/48/Aemundo.jpg/revision/latest?cb=20151005205206&path-prefix=es" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",A&E MUNDO HD (LAT)
 
 
-#EXTINF:-1 tvg-logo="https://identidaddemarca.files.wordpress.com/2014/02/animal-planet.jpg" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",ANIMAL PLANET (LAT)
+#EXTINF:-1 tvg-logo="https://identidaddemarca.files.wordpress.com/2014/02/animal-planet.jpg" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",ANIMAL PLANET
 http://149.56.26.6:25461/live/70/70/53897.rtmp
 
-#EXTINF:-1 tvg-logo="https://identidaddemarca.files.wordpress.com/2014/02/animal-planet.jpg" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",ANIMAL PLANET ALT (LAT)
+#EXTINF:-1 tvg-logo="https://identidaddemarca.files.wordpress.com/2014/02/animal-planet.jpg" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",ANIMAL PLANET
 http://shacktv.com:8080/live/050470/050470/80.ts
 
 #EXTINF:-1 tvg-logo="https://identidaddemarca.files.wordpress.com/2014/02/animal-planet.jpg" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",ANIMAL PLANET 
+http://kimbogrupol.com:25461/live/444/444/16949.ts
 
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6f/52/26/6f5226d073770afde359a57925bf5d68.jpg" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",DISCOVERY (LAT)
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6f/52/26/6f5226d073770afde359a57925bf5d68.jpg" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",DISCOVERY
 http://149.56.26.6:25461/live/70/70/41130.rtmp
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6f/52/26/6f5226d073770afde359a57925bf5d68.jpg" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",DISCOVERY (LAT)
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6f/52/26/6f5226d073770afde359a57925bf5d68.jpg" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",DISCOVERY
+http://kimbogrupol.com:25461/live/444/444/17263.ts
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6f/52/26/6f5226d073770afde359a57925bf5d68.jpg" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",DISCOVERY
 
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6f/52/26/6f5226d073770afde359a57925bf5d68.jpg" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",DISCOVERY HD
-
-
-#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/co_discovery-civilization_m.png" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",DISCOVERY CIVILIZATION (LAT)
-
+#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/co_discovery-civilization_m.png" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",DISCOVERY CIVILIZATION
+http://kimbogrupol.com:25461/live/444/444/16696.ts
 
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/co_discovery-civilization_m.png" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",DISCOVERY CIVILIZATION 
 
 
-#EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/027/original/pic_investigactiondisc.png?1522177058" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",DISCOVERY INVESTIGATION (LAT)
+#EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/027/original/pic_investigactiondisc.png?1522177058" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",DISCOVERY INVESTIGATION
+http://kimbogrupol.com:25461/live/444/444/17338.ts
 
-
-#EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/027/original/pic_investigactiondisc.png?1522177058" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",DISCOVERY INVESTIGATION HD (LAT)
-
+#EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/027/original/pic_investigactiondisc.png?1522177058" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",DISCOVERY INVESTIGATION
+http://kimbogrupol.com:25461/live/444/444/17253.ts
 
 #EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/027/original/pic_investigactiondisc.png?1522177058" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",DISCOVERY INVESTIGATION 
 
 
-#EXTINF:-1 tvg-logo="https://cdn.reweb.io/hagah/image/DogXNIjfvnZQ-U6-iKRLtRF8-Vo=/300x300/top/smart/hagah/f/f8/home-and-health-f804aa9c.png" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",DISCOVERY H&H (LAT)
+#EXTINF:-1 tvg-logo="https://cdn.reweb.io/hagah/image/DogXNIjfvnZQ-U6-iKRLtRF8-Vo=/300x300/top/smart/hagah/f/f8/home-and-health-f804aa9c.png" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",DISCOVERY H&H
 http://149.56.26.6:25461/live/70/70/41134.rtmp
 
-#EXTINF:-1 tvg-logo="https://cdn.reweb.io/hagah/image/DogXNIjfvnZQ-U6-iKRLtRF8-Vo=/300x300/top/smart/hagah/f/f8/home-and-health-f804aa9c.png" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",DISCOVERY H&H HD (LAT)
-
+#EXTINF:-1 tvg-logo="https://cdn.reweb.io/hagah/image/DogXNIjfvnZQ-U6-iKRLtRF8-Vo=/300x300/top/smart/hagah/f/f8/home-and-health-f804aa9c.png" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",DISCOVERY H&H
+http://kimbogrupol.com:25461/live/444/444/17262.ts
 
 #EXTINF:-1 tvg-logo="https://cdn.reweb.io/hagah/image/DogXNIjfvnZQ-U6-iKRLtRF8-Vo=/300x300/top/smart/hagah/f/f8/home-and-health-f804aa9c.png" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",DISCOVERY H&H 
 
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logos2/images/f/f2/Discovery_Science_logo.png/revision/latest?cb=20180514182753" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",DISCOVERY SCIENCE (LAT)
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logos2/images/f/f2/Discovery_Science_logo.png/revision/latest?cb=20180514182753" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",DISCOVERY SCIENCE
+http://kimbogrupol.com:25461/live/444/444/17260.ts
 
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logos2/images/f/f2/Discovery_Science_logo.png/revision/latest?cb=20180514182753" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",DISCOVERY SCIENCE HD (LAT)
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logos2/images/f/f2/Discovery_Science_logo.png/revision/latest?cb=20180514182753" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",DISCOVERY SCIENCE
 
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logos2/images/f/f2/Discovery_Science_logo.png/revision/latest?cb=20180514182753" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",DISCOVERY SCIENCE 
 http://149.56.26.6:25461/live/70/70/41222.rtmp
 
-#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/ar_discovery-hd-theater_m.png" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",DISCOVERY THEATER (LAT)
+#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/ar_discovery-hd-theater_m.png" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",DISCOVERY THEATER
+http://kimbogrupol.com:25461/live/444/444/17259.ts
 
-
-#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/ar_discovery-hd-theater_m.png" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",DISCOVERY THEATER HD (LAT)
+#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/ar_discovery-hd-theater_m.png" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",DISCOVERY THEATER
 
 
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/ar_discovery-hd-theater_m.png" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",DISCOVERY THEATER 
 http://149.56.26.6:25461/live/70/70/41149.rtmp
 
-#EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/728-188x188-948939438.jpg" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",DISCOVERY TURBO (LAT)
+#EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/728-188x188-948939438.jpg" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",DISCOVERY TURBO
+http://kimbogrupol.com:25461/live/444/444/17257.ts
 
-
-#EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/728-188x188-948939438.jpg" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",DISCOVERY TURBO HD (LAT)
+#EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/728-188x188-948939438.jpg" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",DISCOVERY TURBO
 
 
 #EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/728-188x188-948939438.jpg" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",DISCOVERY TURBO 
 http://149.56.26.6:25461/live/70/70/41225.rtmp
 
-#EXTINF:-1 tvg-logo="http://protv.ua/imglib/_newimage/news/tv/71239/02a33168dcf786c5cd279576417c816d.jpg" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",DISCOVERY WORLD (LAT)
+#EXTINF:-1 tvg-logo="http://protv.ua/imglib/_newimage/news/tv/71239/02a33168dcf786c5cd279576417c816d.jpg" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",DISCOVERY WORLD
+http://kimbogrupol.com:25461/live/444/444/17258.ts
 
-
-#EXTINF:-1 tvg-logo="http://protv.ua/imglib/_newimage/news/tv/71239/02a33168dcf786c5cd279576417c816d.jpg" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",DISCOVERY WORLD HD (LAT)
+#EXTINF:-1 tvg-logo="http://protv.ua/imglib/_newimage/news/tv/71239/02a33168dcf786c5cd279576417c816d.jpg" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",DISCOVERY WORLD
 
 
 #EXTINF:-1 tvg-logo="http://protv.ua/imglib/_newimage/news/tv/71239/02a33168dcf786c5cd279576417c816d.jpg" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",DISCOVERY WORLD 
 
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/35/13/17/35131727c2635cec3274d9bd93868db2.png" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",HISTORY (LAT)
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/35/13/17/35131727c2635cec3274d9bd93868db2.png" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",HISTORY
+http://kimbogrupol.com:25461/live/444/444/17267.ts
 
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/35/13/17/35131727c2635cec3274d9bd93868db2.png" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",HISTORY HD (LAT)
-
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/35/13/17/35131727c2635cec3274d9bd93868db2.png" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",HISTORY
+http://kimbogrupol.com:25461/live/444/444/17339.ts
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/35/13/17/35131727c2635cec3274d9bd93868db2.png" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",HISTORY 
 http://149.56.26.6:25461/live/70/70/41147.rtmp
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO3wZdJpGtSgoimpmTW8L-kTCunf7Lx7f5FKDsGx4t6scZbaPj" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",H2 (LAT)
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO3wZdJpGtSgoimpmTW8L-kTCunf7Lx7f5FKDsGx4t6scZbaPj" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",H2
+http://kimbogrupol.com:25461/live/444/444/16155.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO3wZdJpGtSgoimpmTW8L-kTCunf7Lx7f5FKDsGx4t6scZbaPj" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",H2 
+http://kimbogrupol.com:25461/live/444/444/17266.ts
 
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-v4OGeGQcdcQ/U91s7yMEbdI/AAAAAAAAEv8/2PneO2oDeW4/s1600/%D8%AA%D8%B1%D8%AF%D8%AF+%D9%82%D9%86%D8%A7%D8%A9+%D9%86%D8%A7%D8%B4%D9%88%D9%86%D8%A7%D9%84+%D8%AC%D9%8A%D9%88%D8%BA%D8%B1%D8%A7%D9%81%D9%8A%D9%83+%D8%A7%D8%A8%D9%88+%D8%B8%D8%A8%D9%8A.jpg" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",NAT GEO
+http://kimbogrupol.com:25461/live/444/444/17265.ts
 
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-v4OGeGQcdcQ/U91s7yMEbdI/AAAAAAAAEv8/2PneO2oDeW4/s1600/%D8%AA%D8%B1%D8%AF%D8%AF+%D9%82%D9%86%D8%A7%D8%A9+%D9%86%D8%A7%D8%B4%D9%88%D9%86%D8%A7%D9%84+%D8%AC%D9%8A%D9%88%D8%BA%D8%B1%D8%A7%D9%81%D9%8A%D9%83+%D8%A7%D8%A8%D9%88+%D8%B8%D8%A8%D9%8A.jpg" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",NAT GEO (LAT)
-
-
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-v4OGeGQcdcQ/U91s7yMEbdI/AAAAAAAAEv8/2PneO2oDeW4/s1600/%D8%AA%D8%B1%D8%AF%D8%AF+%D9%82%D9%86%D8%A7%D8%A9+%D9%86%D8%A7%D8%B4%D9%88%D9%86%D8%A7%D9%84+%D8%AC%D9%8A%D9%88%D8%BA%D8%B1%D8%A7%D9%81%D9%8A%D9%83+%D8%A7%D8%A8%D9%88+%D8%B8%D8%A8%D9%8A.jpg" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",NAT GEO HD (LAT)
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-v4OGeGQcdcQ/U91s7yMEbdI/AAAAAAAAEv8/2PneO2oDeW4/s1600/%D8%AA%D8%B1%D8%AF%D8%AF+%D9%82%D9%86%D8%A7%D8%A9+%D9%86%D8%A7%D8%B4%D9%88%D9%86%D8%A7%D9%84+%D8%AC%D9%8A%D9%88%D8%BA%D8%B1%D8%A7%D9%81%D9%8A%D9%83+%D8%A7%D8%A8%D9%88+%D8%B8%D8%A8%D9%8A.jpg" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",NAT GEO
 
 
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-v4OGeGQcdcQ/U91s7yMEbdI/AAAAAAAAEv8/2PneO2oDeW4/s1600/%D8%AA%D8%B1%D8%AF%D8%AF+%D9%82%D9%86%D8%A7%D8%A9+%D9%86%D8%A7%D8%B4%D9%88%D9%86%D8%A7%D9%84+%D8%AC%D9%8A%D9%88%D8%BA%D8%B1%D8%A7%D9%81%D9%8A%D9%83+%D8%A7%D8%A8%D9%88+%D8%B8%D8%A8%D9%8A.jpg" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",NAT GEO 
 
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/496293907886403584/yQYuZTjL.png" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",NAT GEO MUNDO (LAT)
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/496293907886403584/yQYuZTjL.png" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",NAT GEO MUNDO
 http://149.56.26.6:25461/live/70/70/40515.rtmp
 
-#EXTINF:-1 tvg-logo="https://store-images.s-microsoft.com/image/apps.38362.9007199266248558.b38de5e9-b620-4158-96c4-140dbec2fa38.c9a2b00a-fc89-47c9-80e0-9b23a21d4fc6?w=180&h=180&q=60" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",NAT GEO WILD (LAT)
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/496293907886403584/yQYuZTjL.png" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",NAT GEO MUNDO
+http://kimbogrupol.com:25461/live/444/444/17370.ts
 
+#EXTINF:-1 tvg-logo="https://store-images.s-microsoft.com/image/apps.38362.9007199266248558.b38de5e9-b620-4158-96c4-140dbec2fa38.c9a2b00a-fc89-47c9-80e0-9b23a21d4fc6?w=180&h=180&q=60" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",NAT GEO WILD
+http://kimbogrupol.com:25461/live/444/444/17222.ts
 
-#EXTINF:-1 tvg-logo="https://store-images.s-microsoft.com/image/apps.38362.9007199266248558.b38de5e9-b620-4158-96c4-140dbec2fa38.c9a2b00a-fc89-47c9-80e0-9b23a21d4fc6?w=180&h=180&q=60" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",NAT GEO WILD HD (LAT)
+#EXTINF:-1 tvg-logo="https://store-images.s-microsoft.com/image/apps.38362.9007199266248558.b38de5e9-b620-4158-96c4-140dbec2fa38.c9a2b00a-fc89-47c9-80e0-9b23a21d4fc6?w=180&h=180&q=60" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",NAT GEO WILD
 
 
 #EXTINF:-1 tvg-logo="https://store-images.s-microsoft.com/image/apps.38362.9007199266248558.b38de5e9-b620-4158-96c4-140dbec2fa38.c9a2b00a-fc89-47c9-80e0-9b23a21d4fc6?w=180&h=180&q=60" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",NAT GEO WILD 
 http://149.56.26.6:25461/live/70/70/42065.rtmp
 
-#EXTINF:-1 tvg-logo="https://cdn.reweb.io/hagah/image/mXBvojVRVzVLXAmTE8j9U0Io8c4=/300x300/top/smart/hagah/2/29/tlc-hd-2988cf2d.jpg" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",TLC (LAT)
+#EXTINF:-1 tvg-logo="https://cdn.reweb.io/hagah/image/mXBvojVRVzVLXAmTE8j9U0Io8c4=/300x300/top/smart/hagah/2/29/tlc-hd-2988cf2d.jpg" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",TLC
 http://149.56.26.6:25461/live/70/70/41234.rtmp
 
-#EXTINF:-1 tvg-logo="https://cdn.reweb.io/hagah/image/mXBvojVRVzVLXAmTE8j9U0Io8c4=/300x300/top/smart/hagah/2/29/tlc-hd-2988cf2d.jpg" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",TLC HD (LAT)
-
+#EXTINF:-1 tvg-logo="https://cdn.reweb.io/hagah/image/mXBvojVRVzVLXAmTE8j9U0Io8c4=/300x300/top/smart/hagah/2/29/tlc-hd-2988cf2d.jpg" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",TLC
+http://kimbogrupol.com:25461/live/444/444/17345.ts
 
 #######################################
 #EXTINF:-1 tvg-logo="https://st2.depositphotos.com/2100659/8236/v/950/depositphotos_82367108-stock-illustration-lion-head-vector-sign-concept.jpg" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTAIS BRASIL",DOCUMENTAIS BRASIL
@@ -3629,10 +3659,10 @@ http://kimbogrupol.com:25461/live/444/444/16718.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxItzNEZOj1g_wTWnulGc2P14OSRtvFO9xQSXxhI3dOVzklU2m" group-title="DEPORTES/ESPORTES",GOL PERU 
 
 
-#EXTINF:-1 tvg-logo="https://media.licdn.com/dms/image/C560BAQF4nbh9r1MCJA/company-logo_200_200/0?e=2159024400&v=beta&t=p1QPise-dbbC4BimuVyaDSsx81Ow485MJg08w1KnTdU" group-title="DEPORTES/ESPORTES",GOL ECUADOR LA*
+#EXTINF:-1 tvg-logo="https://media.licdn.com/dms/image/C560BAQF4nbh9r1MCJA/company-logo_200_200/0?e=2159024400&v=beta&t=p1QPise-dbbC4BimuVyaDSsx81Ow485MJg08w1KnTdU" group-title="DEPORTES/ESPORTES",GOL ECUADOR
+http://kimbogrupol.com:25461/live/444/444/17287.ts
 
-
-#EXTINF:-1 tvg-logo="https://media.licdn.com/dms/image/C560BAQF4nbh9r1MCJA/company-logo_200_200/0?e=2159024400&v=beta&t=p1QPise-dbbC4BimuVyaDSsx81Ow485MJg08w1KnTdU" group-title="DEPORTES/ESPORTES",GOL ECUADOR LA
+#EXTINF:-1 tvg-logo="https://media.licdn.com/dms/image/C560BAQF4nbh9r1MCJA/company-logo_200_200/0?e=2159024400&v=beta&t=p1QPise-dbbC4BimuVyaDSsx81Ow485MJg08w1KnTdU" group-title="DEPORTES/ESPORTES",GOL ECUADOR
 
 
 #EXTINF:-1 tvg-logo="https://media.licdn.com/dms/image/C560BAQF4nbh9r1MCJA/company-logo_200_200/0?e=2159024400&v=beta&t=p1QPise-dbbC4BimuVyaDSsx81Ow485MJg08w1KnTdU" group-title="DEPORTES/ESPORTES",GOL TV URUGUAY
