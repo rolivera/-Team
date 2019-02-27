@@ -289,8 +289,11 @@ http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/p
 #EXTINF:-1 tvg-logo="http://www.chilevision.cl/logo-chilevision.png" group-title="CHILE", CHV LA°
 http://live.hls.http.chv.ztreaming.com/chvhddesktop/chv-desktop.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmrMfXPxBwW9gjut8h0MtswJVm4OgMgjiFKynmxgVogTKSx4Td" group-title="CHILE",EL PINGÜINO LA°
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmrMfXPxBwW9gjut8h0MtswJVm4OgMgjiFKynmxgVogTKSx4Td" group-title="CHILE",EL PINGÜINO
 http://streaming.elpinguino.com:1935/live/pinguinotv_720p/hasbahca.m3u8?GrupoTopIptv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmrMfXPxBwW9gjut8h0MtswJVm4OgMgjiFKynmxgVogTKSx4Td" group-title="CHILE",EL PINGÜINO
+http://kimbogrupol.com:25461/live/444/444/6594.ts
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/vrXZmdv.jpg" group-title="CHILE", HOLVOET TV LA°
 http://unlimited5-cl.dps.live/holvoettv/holvoettv.smil/playlist.m3u8?GrupoTopIptv
@@ -308,10 +311,10 @@ http://unlimited5-cl.dps.live/holvoettv/holvoettv.smil/playlist.m3u8?GrupoTopIpt
 
 
 #EXTINF:-1 tvg-logo="http://static.13.cl/7/sites/all/themes/rec_v2/images/default_2018.jpg" group-title="CHILE", REC TV LA*
-
+http://kimbogrupol.com:25461/live/444/444/16095.ts
 
 #EXTINF:-1 tvg-logo="http://www.periodismo.uchile.cl/noticias/images/tvnlogo.jpg" group-title="CHILE", TVN LA*
-
+http://kimbogrupol.com:25461/live/444/444/16093.ts
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/AN66SAwlcPV7y6xW8-d-RTAITZt_IAz-PXf1jdv1EA=s900-mo-c-c0xffffffff-rj-k-no" group-title="CHILE", UCV 
 
@@ -331,13 +334,13 @@ http://x.mytvxweb.me:25461/4854/4854/248362
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/co_cali-tv_m.png" group-title="COLOMBIA",CALI TV 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSetNpXYP8_CJaxAgqNbHdOyLcyrY9eQx7Dvv7X2RQwmpAWxYm9" group-title="COLOMBIA",CARACOL LA**
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSetNpXYP8_CJaxAgqNbHdOyLcyrY9eQx7Dvv7X2RQwmpAWxYm9" group-title="COLOMBIA",CARACOL
 http://x.mytvxweb.me:25461/4854/4854/282386
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSetNpXYP8_CJaxAgqNbHdOyLcyrY9eQx7Dvv7X2RQwmpAWxYm9" group-title="COLOMBIA",CARACOL LA*
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSetNpXYP8_CJaxAgqNbHdOyLcyrY9eQx7Dvv7X2RQwmpAWxYm9" group-title="COLOMBIA",CARACOL
+http://kimbogrupol.com:25461/live/444/444/17318.ts
 
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSetNpXYP8_CJaxAgqNbHdOyLcyrY9eQx7Dvv7X2RQwmpAWxYm9" group-title="COLOMBIA",CARACOL INT LA*
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSetNpXYP8_CJaxAgqNbHdOyLcyrY9eQx7Dvv7X2RQwmpAWxYm9" group-title="COLOMBIA",CARACOL INT
 http://x.mytvxweb.me:25461/4854/4854/282387
 
 #EXTINF:-1 tvg-logo="https://static.telus.com/common/cms/images/tv/satellite/new-channel-logos/CityHD.png" group-title="COLOMBIA",CITY TV LA*
@@ -355,11 +358,17 @@ http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/tvcable/images/b/b4/Ntn24_logo.jpg/revision/latest?cb=20140815232404&path-prefix=es" group-title="COLOMBIA",NTN24 LA*
 http://x.mytvxweb.me:25461/4854/4854/7691
 
-#EXTINF:-1 tvg-logo="https://www.vidaentv.com/wp-content/uploads/2015/11/rcn-television.jpg" group-title="COLOMBIA",RCN LA*
+#EXTINF:-1 tvg-logo="https://www.vidaentv.com/wp-content/uploads/2015/11/rcn-television.jpg" group-title="COLOMBIA",RCN
 http://x.mytvxweb.me:25461/4854/4854/282113
+
+#EXTINF:-1 tvg-logo="https://www.vidaentv.com/wp-content/uploads/2015/11/rcn-television.jpg" group-title="COLOMBIA",RCN
+http://kimbogrupol.com:25461/live/444/444/16117.ts
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.revistaquetal.com/wp-content/uploads/2013/10/rcn-television.jpg" group-title="COLOMBIA",RCN NOVELAS 
 http://x.mytvxweb.me:25461/4854/4854/282112
+
+#EXTINF:-1 tvg-logo="https://i1.wp.com/www.revistaquetal.com/wp-content/uploads/2013/10/rcn-television.jpg" group-title="COLOMBIA",RCN NOVELAS 
+http://kimbogrupol.com:25461/live/444/444/17319.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmXkFA0Z2I1DISP8KWOHpI6YEy78WxUikZbP93RrgjoaVu0glz" group-title="COLOMBIA",TRECE LA°
 https://cdn.logicideas.media/canaltrece-live/canal13.smil/chunklist_b4500000.m3u8
@@ -797,17 +806,24 @@ http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/p
 http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8
 #######################################
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_america-television_m.png" group-title="PERU",AMERICA TV LA*
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_america-television_m.png" group-title="PERU",AMERICA TV
+http://kimbogrupol.com:25461/live/444/444/16578.ts
 
-
-#EXTINF:-1 tvg-logo="https://www.jssor.com/andre89/tv-antares.png" group-title="PERU",ANTARES (PER)
+#EXTINF:-1 tvg-logo="https://www.jssor.com/andre89/tv-antares.png" group-title="PERU",ANTARES
 http://173.192.105.252:1935/iptvantares/liveantarestv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.jssor.com/andre89/tv-antares.png" group-title="PERU",ANTARES
+http://kimbogrupol.com:25461/live/444/444/7656.ts
 
 #EXTINF:-1 tvg-logo="https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2018/01/atv.png?resize=218%2C150" group-title="PERU",ATV (PER)
 
 
-#EXTINF:-1 tvg-logo="https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/atv.png?resize=218%2C150" group-title="PERU",ATV PLUS (PER)
+#EXTINF:-1 tvg-logo="https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/atv.png?resize=218%2C150" group-title="PERU",ATV PLUS
+http://kimbogrupol.com:25461/live/444/444/16104.ts
 
+
+#EXTINF:-1 tvg-logo="https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/atv.png?resize=218%2C150" group-title="PERU",ATV PLUS
+http://kimbogrupol.com:25461/live/444/444/16109.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi7dwi6zcgfauHR07Vmz3dLsR5pAEOVOpxLS0fYGzC2Br3LvKK" group-title="PERU",BHTV (PER)
 
@@ -839,26 +855,33 @@ http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/565018162916114432/7h5k-iqC_400x400.png" group-title="PERU",JN19 (PER)
 http://movil.mediastream.pe/vv_manosdios/livestream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1JIzoLMktUf6pIoKgynYr_TbzBcp1XxuIEykq-0wudlssNPSu" group-title="PERU",LATINA LA*
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1JIzoLMktUf6pIoKgynYr_TbzBcp1XxuIEykq-0wudlssNPSu" group-title="PERU",LATINA
+http://kimbogrupol.com:25461/live/444/444/16108.ts
 
 #EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/2414323/logo_mega%20tv.png" group-title="PERU",MEGA TV 
 http://play.hostreamperu.com:1935/8016/8016/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.tvalacarta.info/canales/256x256/panamericana.png" group-title="PERU",PANAMERICANA TV (PER)
-
+#EXTINF:-1 tvg-logo="https://media.tvalacarta.info/canales/256x256/panamericana.png" group-title="PERU",PANAMERICANA TV
+http://kimbogrupol.com:25461/live/444/444/16716.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcnyK-63wU6oD9OmlcE4isrUeeoaRuYx3L2R0yJOg1PEfWQ2hF" group-title="PERU",PAX TV (PER)
 http://d2fxrfbiedz1tm.cloudfront.net/livepaxtv/smil:PC.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv-yfQzSPYaXoCT59S8P0wmV_6acn3levjBnj5hiT3bvnHRgiJ" group-title="PERU",PERU MAGICO (PER)
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv-yfQzSPYaXoCT59S8P0wmV_6acn3levjBnj5hiT3bvnHRgiJ" group-title="PERU",PERU MAGICO
+http://kimbogrupol.com:25461/live/444/444/16105.ts
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/www.mercadonegro.pe/wp-content/uploads/2017/05/11150958_983024775048830_2466650008896508480_n.jpg?resize=336%2C336" group-title="PERU",PLUS TV (PER)
 
 
-#EXTINF:-1 tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/horarios_73.png" group-title="PERU",TV NOTICIAS 7.3 (PER)
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1128467805/LogoSOLTV_400x400.jpg" group-title="PERU",SOL TV
+http://kimbogrupol.com:25461/live/444/444/7655.ts
+
+#EXTINF:-1 tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/horarios_73.png" group-title="PERU",TV NOTICIAS 7.3
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIPE0002&mode=12
+
+
+#EXTINF:-1 tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/horarios_73.png" group-title="PERU",TV NOTICIAS 7.3
+http://kimbogrupol.com:25461/live/444/444/13038.ts
 
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-Mcc2xCpSKWQ/UF6PxaiQZYI/AAAAAAAACQU/BLm5ZUhxzfs/s1600/LOGOTVPERU.jpg" group-title="PERU",TV PERU (PER)
 http://x.mytvxweb.me:25461/4854/4854/282226
@@ -866,8 +889,8 @@ http://x.mytvxweb.me:25461/4854/4854/282226
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-Mcc2xCpSKWQ/UF6PxaiQZYI/AAAAAAAACQU/BLm5ZUhxzfs/s1600/LOGOTVPERU.jpg" group-title="PERU",TV PERU HD (PER)
 http://x.mytvxweb.me:25461/4854/4854/25434
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/ACSszfEZsuA4Vja3XQ2TOnZRNAoXL01JbQBIDQj-og=s900-mo-c-c0xffffffff-rj-k-no" group-title="PERU",VIA TV (PER)
-
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/ACSszfEZsuA4Vja3XQ2TOnZRNAoXL01JbQBIDQj-og=s900-mo-c-c0xffffffff-rj-k-no" group-title="PERU",VIA TV
+http://kimbogrupol.com:25461/live/444/444/7657.ts
 
 ######################################################################################################################################
 ####################################### PORTUGAL
@@ -2914,7 +2937,7 @@ http://niptv.biz:25461/alcebiadesnascimento@hotmail.com/100756/65
 http://servelive.net:80/gabriel/gabriel/8137
 
 #EXTINF:-1 tvg-logo="http://photocall.tv/images/cablenoticias.png" group-title="NOTICIAS",CABLE NOTICIAS
-
+http://kimbogrupol.com:25461/live/444/444/17305.ts
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/ACSszfGisYWNpmm3w7q0GU_tzvbjg7dPdW6FiVdYgw=s900-mo-c-c0xffffffff-rj-k-no" group-title="NOTICIAS",CANAL 26 (ARG)
 http://200.115.193.177/live/26hd-180/playlist.m3u8?GrupoTopIptv
@@ -2923,7 +2946,7 @@ http://200.115.193.177/live/26hd-180/playlist.m3u8?GrupoTopIptv
 
 
 #EXTINF:-1 tvg-logo="http://www.vgl.cl/wp-content/uploads/2014/09/0006_Logo_cnnchile.png" group-title="NOTICIAS",CNN (CHI)
-
+http://kimbogrupol.com:25461/live/444/444/7637.ts
 
 #EXTINF:-1 tvg-logo="http://penplusbytes.org/wp-content/uploads/2017/05/DW.png" group-title="NOTICIAS",DW (LAT)
 
@@ -3329,14 +3352,14 @@ http://btvboliviatv.srfms.com:6568/live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://images-us.ott.kaltura.com/Service.svc/GetImage/p/313/entry_id/0180e0b8b26a42a692bf5a4304337e7a_1/version/16/width/282/height/158/quality/100" group-title="DEPORTES/ESPORTES",CDF HD
 
 
-#EXTINF:-1 tvg-logo="http://images-us.ott.kaltura.com/Service.svc/GetImage/p/313/entry_id/0180e0b8b26a42a692bf5a4304337e7a_1/version/16/width/282/height/158/quality/100" group-title="DEPORTES/ESPORTES",CDF LA*
-
+#EXTINF:-1 tvg-logo="http://images-us.ott.kaltura.com/Service.svc/GetImage/p/313/entry_id/0180e0b8b26a42a692bf5a4304337e7a_1/version/16/width/282/height/158/quality/100" group-title="DEPORTES/ESPORTES",CDF
+http://kimbogrupol.com:25461/live/444/444/16598.ts
 
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/cl_cdf-basico_m.png" group-title="DEPORTES/ESPORTES",CDF BASICO (CHI)
 
 
-#EXTINF:-1 tvg-logo="https://api.dondeloveo.com/api/media/images/1502125045.557Estadio%20CDF%20200x200.png" group-title="DEPORTES/ESPORTES",CDF ESTADIO (CHI)
-
+#EXTINF:-1 tvg-logo="https://api.dondeloveo.com/api/media/images/1502125045.557Estadio%20CDF%20200x200.png" group-title="DEPORTES/ESPORTES",CDF ESTADIO
+http://kimbogrupol.com:25461/live/444/444/16592.ts
 
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-2iO02UEHDaA/Wz3VnYbPSLI/AAAAAAAAA3U/oVfs6Zfm8kk1OQJ4E3VbxcYsecUhf2nWwCLcBGAs/s1600/cdfpremium.png" group-title="DEPORTES/ESPORTES",CDF PREMIUM LA*
 
@@ -3576,8 +3599,8 @@ http://niptv.biz:25461/alcebiadesnascimento@hotmail.com/100756/48
 #EXTINF:-1 tvg-logo="http://midiafatos.com.br/wp-content/uploads/2017/02/fox_sports2_N.png" group-title="DEPORTES/ESPORTES",FOX SPORTS 2 BR***
 http://servelive.net:80/gabriel/gabriel/8061
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxItzNEZOj1g_wTWnulGc2P14OSRtvFO9xQSXxhI3dOVzklU2m" group-title="DEPORTES/ESPORTES",GOL PERU LA*
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxItzNEZOj1g_wTWnulGc2P14OSRtvFO9xQSXxhI3dOVzklU2m" group-title="DEPORTES/ESPORTES",GOL PERU
+http://kimbogrupol.com:25461/live/444/444/16718.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxItzNEZOj1g_wTWnulGc2P14OSRtvFO9xQSXxhI3dOVzklU2m" group-title="DEPORTES/ESPORTES",GOL PERU 
 
@@ -3609,11 +3632,11 @@ http://149.56.26.6:25461/live/70/70/189980.rtmp
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052014/mlb.png?itok=wlvCELtf" group-title="DEPORTES/ESPORTES",MLB USA
 
 
-#EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-deportes1.jpg.pagespeed.ic.SoG88VrpZw.jpg" group-title="DEPORTES/ESPORTES",MOVISTAR DEPORTES ESP LA*
+#EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-deportes1.jpg.pagespeed.ic.SoG88VrpZw.jpg" group-title="DEPORTES/ESPORTES",MOVISTAR DEPORTES
 http://149.56.26.6:25461/live/70/70/57969.rtmp
 
-#EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-deportes1.jpg.pagespeed.ic.SoG88VrpZw.jpg" group-title="DEPORTES/ESPORTES",MOVISTAR DEPORTES HD (ESP)
-
+#EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-deportes1.jpg.pagespeed.ic.SoG88VrpZw.jpg" group-title="DEPORTES/ESPORTES",MOVISTAR DEPORTES
+http://kimbogrupol.com:25461/live/444/444/16714.ts
 
 #EXTINF:-1 tvg-logo="https://cdn77.motor.es/fotos-noticias/2018/01/min652x435/movistar-renueva-contrato-emision-f1-201842591_1.jpg" group-title="DEPORTES/ESPORTES",MOVISTAR FORMULA 1 (ESP)
 
@@ -3762,11 +3785,11 @@ http://149.56.26.6:25461/live/70/70/159625.rtmp
 #EXTINF:-1  tvg-logo="https://http2.mlstatic.com/2android-tv-box-750-canales-de-cable-canales-uruguayos-y-vtv-D_NQ_NP_884222-MLU26628807182_012018-F.jpg" group-title="DEPORTES/ESPORTES",VTV URU LA*
 
 
-#EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/022015/win_sports.png?itok=jmwV9nOn" group-title="DEPORTES/ESPORTES",WIN SPORTS LA*
+#EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/022015/win_sports.png?itok=jmwV9nOn" group-title="DEPORTES/ESPORTES",WIN SPORTS
+http://kimbogrupol.com:25461/live/444/444/17185.ts
 
-
-#EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/022015/win_sports.png?itok=jmwV9nOn" group-title="DEPORTES/ESPORTES",WIN SPORTS LA
-
+#EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/022015/win_sports.png?itok=jmwV9nOn" group-title="DEPORTES/ESPORTES",WIN SPORTS
+http://kimbogrupol.com:25461/live/444/444/17353.ts
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/W/wwe-logo-71A46059D8-seeklogo.com.png" group-title="DEPORTES/ESPORTES",WWE (USA)
 
