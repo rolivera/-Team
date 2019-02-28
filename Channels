@@ -13,7 +13,7 @@ https://stream.vagalume.fm/hls/14660050141766497579/aac.m3u8
 ######################################################################################################################################
 ####################################### ARGENTINA
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2016/06/16/01/20/argentina-1460299_960_720.jpg" group-title="ARGENTINA",ARGENTINA
-http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8
+https://stream.vagalume.fm/hls/14660050141766497579/aac.m3u8
 #######################################
 
 #EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/small/295-2959716_america-2-logo-américa-tv.png" group-title="ARGENTINA",AMERICA
@@ -53,7 +53,7 @@ http://coninfo.net:1935/chacodxdtv/live/chunklist_w1251301598.m3u8
 http://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/433043324698501120/liWhZUAW_400x400.jpeg" group-title="ARGENTINA",EL GARAGE
-http://186.0.233.76:1935/Garage/garage.smil/chunklist_w846352619_b446000_sleng.m3u8?GrupoTopIptv
+
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/433043324698501120/liWhZUAW_400x400.jpeg" group-title="ARGENTINA",EL GARAGE
 http://kimbogrupol.com:25461/live/444/444/16640.ts
@@ -112,7 +112,7 @@ http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/p
 #EXTINF:0 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/big-brother-brasil-png-5.png" group-title="BRASIL",BBB MOSAICO BR HD
 http://listaccess.me:8880/1213/1213/20080
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDGCEqwejgtxfr505syQsBSOMabhqbGuTldReQp2eaE0QsMXco" group-title="BRASIL",BBB 1 BR°
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDGCEqwejgtxfr505syQsBSOMabhqbGuTldReQp2eaE0QsMXco" group-title="BRASIL",BBB 1 SD
 http://apk27.futeboltvgratis.com:8081/live/6/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDGCEqwejgtxfr505syQsBSOMabhqbGuTldReQp2eaE0QsMXco" group-title="BRASIL",BBB 1 BR*
@@ -2000,7 +2000,7 @@ http://fonte.iptvmaishd.com:25461/03/03/141988
 http://srvlista.com:80/4Dv0YaeSC3/fireiptv/28043
 
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/062010/AMCHepburn_B.png?itok=18X2cfEC" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",AMC (4)
-
+http://streamtv.com.br:80/fredfred/fredfred/1666
 
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/axn.png" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",AXN (1)
 http://servelive.net:80/gabriel/gabriel/8142
@@ -2012,7 +2012,7 @@ http://fonte.iptvmaishd.com:25461/03/03/141985
 http://srvlista.com:80/4Dv0YaeSC3/fireiptv/28034
 
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/axn.png" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",AXN (4)
-
+http://streamtv.com.br:80/fredfred/fredfred/1663
 
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cine/16.png" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",CINEMAX (1)
 http://servelive.net:80/gabriel/gabriel/8121
@@ -2024,7 +2024,7 @@ http://fonte.iptvmaishd.com:25461/03/03/141959
 http://srvlista.com:80/4Dv0YaeSC3/fireiptv/27991
 
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cine/16.png" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",CINEMAX (4)
-
+http://streamtv.com.br:80/fredfred/fredfred/1651
 
 #EXTINF:-1 tvg-logo="https://banner2.kisspng.com/20180329/heq/kisspng-logo-of-nbc-television-channel-fox-fox-5abc8ef9dcbf13.5561782615223068099042.jpg" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",FOX (1)
 http://servelive.net:80/gabriel/gabriel/8071
@@ -2036,7 +2036,7 @@ http://fonte.iptvmaishd.com:25461/03/03/141908
 http://srvlista.com:80/4Dv0YaeSC3/fireiptv/27909
 
 #EXTINF:-1 tvg-logo="https://banner2.kisspng.com/20180329/heq/kisspng-logo-of-nbc-television-channel-fox-fox-5abc8ef9dcbf13.5561782615223068099042.jpg" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",FOX (4)
-
+http://streamtv.com.br:80/fredfred/fredfred/1626
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBxRngi3ew3yGlLHn0MMtIRN252b1GDFdLBlNBVGjrJne_8V-C" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",FOX LIFE (1)
 http://servelive.net:80/gabriel/gabriel/8069
@@ -2048,7 +2048,7 @@ http://fonte.iptvmaishd.com:25461/03/03/141905
 http://srvlista.com:80/4Dv0YaeSC3/fireiptv/27916
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBxRngi3ew3yGlLHn0MMtIRN252b1GDFdLBlNBVGjrJne_8V-C" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",FOX LIFE (4)
-
+http://streamtv.com.br:80/fredfred/fredfred/1625
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/59/FOXPremium1.png/revision/latest?cb=20170324170019" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",FOX PREMIUM 1 (1)
 http://servelive.net:80/gabriel/gabriel/8067
@@ -2060,7 +2060,7 @@ http://fonte.iptvmaishd.com:25461/03/03/141903
 http://srvlista.com:80/4Dv0YaeSC3/fireiptv/27914
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/59/FOXPremium1.png/revision/latest?cb=20170324170019" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",FOX PREMIUM 1 (4)
-
+http://streamtv.com.br:80/fredfred/fredfred/1624
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/28/FOXPremium2.png/revision/latest?cb=20170324170127" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",FOX PREMIUM 2 (1)
 http://servelive.net:80/gabriel/gabriel/8065
@@ -2072,7 +2072,7 @@ http://fonte.iptvmaishd.com:25461/03/03/141901
 http://srvlista.com:80/4Dv0YaeSC3/fireiptv/27911
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/28/FOXPremium2.png/revision/latest?cb=20170324170127" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",FOX PREMIUM 2 (4)
-
+http://streamtv.com.br:80/fredfred/fredfred/1623
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyVYACgshsXqvRtXUsEIVQzibTeR-nHAPXr9YZh28k7Dn3QVH9" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",FX (1)
 http://servelive.net:80/gabriel/gabriel/8057
@@ -2084,7 +2084,7 @@ http://fonte.iptvmaishd.com:25461/03/03/141867
 http://srvlista.com:80/4Dv0YaeSC3/fireiptv/27896
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyVYACgshsXqvRtXUsEIVQzibTeR-nHAPXr9YZh28k7Dn3QVH9" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",FX (4)
-
+http://streamtv.com.br:80/fredfred/fredfred/1619
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2qqrrq69tbnXtGqAxErNZls8cvkG9YvGCguCYIP5hYkbuHD2K" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",HBO (1)
 http://servelive.net:80/gabriel/gabriel/8017
@@ -2096,7 +2096,7 @@ http://fonte.iptvmaishd.com:25461/03/03/141857
 http://srvlista.com:80/4Dv0YaeSC3/fireiptv/27828
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2qqrrq69tbnXtGqAxErNZls8cvkG9YvGCguCYIP5hYkbuHD2K" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",HBO (4)
-
+http://streamtv.com.br:80/fredfred/fredfred/1599
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/sv_hbo-2_m.png" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",HBO 2 (1)
 http://servelive.net:80/gabriel/gabriel/8016
@@ -2108,7 +2108,7 @@ http://fonte.iptvmaishd.com:25461/03/03/141855
 http://srvlista.com:80/4Dv0YaeSC3/fireiptv/27836
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/sv_hbo-2_m.png" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",HBO 2 (4)
-
+http://streamtv.com.br:80/fredfred/fredfred/1598
 
 #EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/hbo-family-logo-320x320-745790760.png" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",HBO FAMILY (1)
 http://servelive.net:80/gabriel/gabriel/8014
@@ -2120,7 +2120,7 @@ http://fonte.iptvmaishd.com:25461/03/03/141853
 http://srvlista.com:80/4Dv0YaeSC3/fireiptv/27834
 
 #EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/hbo-family-logo-320x320-745790760.png" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",HBO FAMILY (4)
-
+http://streamtv.com.br:80/fredfred/fredfred/1597
 
 #EXTINF:-1 tvg-logo="http://contenidos.cablevision.com.mx/guia_programacion/channels/634.png" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",HBO PLUS (1)
 http://servelive.net:80/gabriel/gabriel/8011
@@ -2132,7 +2132,7 @@ http://fonte.iptvmaishd.com:25461/03/03/141849
 http://srvlista.com:80/4Dv0YaeSC3/fireiptv/27829
 
 #EXTINF:-1 tvg-logo="http://contenidos.cablevision.com.mx/guia_programacion/channels/634.png" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",HBO PLUS (4)
-
+http://streamtv.com.br:80/fredfred/fredfred/1596
 
 #EXTINF:-1 tvg-logo="http://contenidos.cablevision.com.mx/guia_programacion/channels/634.png" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",HBO PLUS E (1)
 
@@ -2156,7 +2156,7 @@ http://fonte.iptvmaishd.com:25461/03/03/141847
 http://srvlista.com:80/4Dv0YaeSC3/fireiptv/27825
 
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/gt_hbo-signature_m.png" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",HBO SIGNATURE (4)
-
+http://streamtv.com.br:80/fredfred/fredfred/1594
 
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/_VoHOYEuZjzM/SsANAYXMMWI/AAAAAAAAAhI/7yI4nQHXUvQ/s320/Logo_ISat.jpg" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",I SAT (1)
 
@@ -2180,7 +2180,7 @@ http://fonte.iptvmaishd.com:25461/03/03/141839
 http://srvlista.com:80/4Dv0YaeSC3/fireiptv/27805
 
 #EXTINF:-1 tvg-logo="http://clarotv.claro.com.br/image/Get/630" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",MAX (4)
-
+http://streamtv.com.br:80/fredfred/fredfred/1589
 
 #EXTINF:-1 tvg-logo="http://sky.vteximg.com.br/arquivos/ids/156096/maxprime-hd.png?v=636446344633130000" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",MAX PRIME (1)
 http://servelive.net:80/gabriel/gabriel/7996
@@ -2192,7 +2192,7 @@ http://fonte.iptvmaishd.com:25461/03/03/141837
 http://srvlista.com:80/4Dv0YaeSC3/fireiptv/27806
 
 #EXTINF:-1 tvg-logo="http://sky.vteximg.com.br/arquivos/ids/156096/maxprime-hd.png?v=636446344633130000" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",MAX PRIME (4)
-
+http://streamtv.com.br:80/fredfred/fredfred/1588
 
 #EXTINF:-1 tvg-logo="http://sky.vteximg.com.br/arquivos/ids/156096/maxprime-hd.png?v=636446344633130000" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",MAX PRIME E (1)
 http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5262
@@ -2216,7 +2216,7 @@ http://fonte.iptvmaishd.com:25461/03/03/141831
 http://srvlista.com:80/4Dv0YaeSC3/fireiptv/27803
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/tvpediabrasil/images/e/e6/Maxup.png/revision/latest?cb=20160922150849&path-prefix=pt-br" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",MAX UP (4)
-
+http://streamtv.com.br:80/fredfred/fredfred/1586
 
 #EXTINF:-1 tvg-logo="http://www.netemnatal.com.br/canais_net/megapix.jpg" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",MEGAPIX (1)
 http://servelive.net:80/gabriel/gabriel/7991
@@ -2228,7 +2228,7 @@ http://fonte.iptvmaishd.com:25461/03/03/141834
 http://srvlista.com:80/4Dv0YaeSC3/fireiptv/27799
 
 #EXTINF:-1 tvg-logo="http://www.netemnatal.com.br/canais_net/megapix.jpg" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",MEGAPIX (4)
-
+http://streamtv.com.br:80/fredfred/fredfred/1585
 
 #EXTINF:-1 tvg-logo="https://d2xhqqdaxyaju6.cloudfront.net/file/teaser-ci/293920/0/1200-400.jpg" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",PARAMOUNT (1)
 http://servelive.net:80/gabriel/gabriel/7970
@@ -2240,7 +2240,7 @@ http://fonte.iptvmaishd.com:25461/03/03/141796
 http://srvlista.com:80/4Dv0YaeSC3/fireiptv/27765
 
 #EXTINF:-1 tvg-logo="https://d2xhqqdaxyaju6.cloudfront.net/file/teaser-ci/293920/0/1200-400.jpg" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",PARAMOUNT (4)
-
+http://streamtv.com.br:80/fredfred/fredfred/1574
 
 #EXTINF:-1 tvg-logo="http://www.cable10.com/imagenes/programacion/canales_0013s_0006_Layer%2044.jpg" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",SONY (1)
 http://servelive.net:80/gabriel/gabriel/8126
@@ -2252,7 +2252,7 @@ http://fonte.iptvmaishd.com:25461/03/03/141962
 http://srvlista.com:80/4Dv0YaeSC3/fireiptv/27706
 
 #EXTINF:-1 tvg-logo="http://www.cable10.com/imagenes/programacion/canales_0013s_0006_Layer%2044.jpg" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",SONY (4)
-
+http://streamtv.com.br:80/fredfred/fredfred/1654
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8.png" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",SPACE (1)
 http://servelive.net:80/gabriel/gabriel/7937
@@ -2264,7 +2264,7 @@ http://fonte.iptvmaishd.com:25461/03/03/141778
 http://srvlista.com:80/4Dv0YaeSC3/fireiptv/27702
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8.png" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",SPACE (4)
-
+http://streamtv.com.br:80/fredfred/fredfred/1556
 
 #EXTINF:-1 tvg-logo="http://studiouniversal.wiperagency.com/uploads/product/dcd0513fc9513c710f9cab0e0097abfb4deb340a.jpg" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",STUDIO UNIVERSAL (1)
 http://servelive.net:80/gabriel/gabriel/7929
@@ -2276,7 +2276,7 @@ http://fonte.iptvmaishd.com:25461/03/03/141769
 http://srvlista.com:80/4Dv0YaeSC3/fireiptv/27687
 
 #EXTINF:-1 tvg-logo="http://studiouniversal.wiperagency.com/uploads/product/dcd0513fc9513c710f9cab0e0097abfb4deb340a.jpg" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",STUDIO UNIVERSAL (4)
-
+http://streamtv.com.br:80/fredfred/fredfred/1552
 
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/082015/syfy_0.png?itok=64TT6J8J" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",SYFY (1)
 http://servelive.net:80/gabriel/gabriel/7939
@@ -2288,7 +2288,7 @@ http://fonte.iptvmaishd.com:25461/03/03/141767
 http://srvlista.com:80/4Dv0YaeSC3/fireiptv/27683
 
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/082015/syfy_0.png?itok=64TT6J8J" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",SYFY (4)
-
+http://streamtv.com.br:80/fredfred/fredfred/1557
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/06/f2/01/06f201cdd7c0416eddb3a767a9c5cc8d.jpg" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",TELECINE ACTION (1)
 http://servelive.net:80/gabriel/gabriel/7922
@@ -2300,7 +2300,7 @@ http://fonte.iptvmaishd.com:25461/03/03/141763
 http://srvlista.com:80/4Dv0YaeSC3/fireiptv/27676
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/06/f2/01/06f201cdd7c0416eddb3a767a9c5cc8d.jpg" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",TELECINE ACTION (4)
-
+http://streamtv.com.br:80/fredfred/fredfred/1548
 
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/br_telecine-cult-1_m.png" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",TELECINE CULT (1)
 http://servelive.net:80/gabriel/gabriel/7920
@@ -2312,7 +2312,7 @@ http://fonte.iptvmaishd.com:25461/03/03/141760
 http://srvlista.com:80/4Dv0YaeSC3/fireiptv/27672
 
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/br_telecine-cult-1_m.png" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",TELECINE CULT (4)
-
+http://streamtv.com.br:80/fredfred/fredfred/1547
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/54/c8/7f/54c87f894c0d97024ad5f44aec454a32.jpg" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",TELECINE FUN (1)
 http://servelive.net:80/gabriel/gabriel/7918
@@ -2324,7 +2324,7 @@ http://fonte.iptvmaishd.com:25461/03/03/141757
 http://srvlista.com:80/4Dv0YaeSC3/fireiptv/27668
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/54/c8/7f/54c87f894c0d97024ad5f44aec454a32.jpg" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",TELECINE FUN (4)
-
+http://streamtv.com.br:80/fredfred/fredfred/1546
 
 #EXTINF:-1 tvg-logo="https://cdn.reweb.io/hagah/image/vG87z-TZwPgc2pcoqY4w9ff2e8U=/300x300/top/smart/hagah/5/53/telecine-pipoca-hd-53eee45e.jpg" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",TELECINE PIPOCA (1)
 http://servelive.net:80/gabriel/gabriel/7916
@@ -2336,7 +2336,7 @@ http://fonte.iptvmaishd.com:25461/03/03/141754
 http://srvlista.com:80/4Dv0YaeSC3/fireiptv/27664
 
 #EXTINF:-1 tvg-logo="https://cdn.reweb.io/hagah/image/vG87z-TZwPgc2pcoqY4w9ff2e8U=/300x300/top/smart/hagah/5/53/telecine-pipoca-hd-53eee45e.jpg" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",TELECINE PIPOCA (4)
-
+http://streamtv.com.br:80/fredfred/fredfred/1545
 
 #EXTINF:-1 tvg-logo="https://cdn.reweb.io/hagah/image/q4q0F-QvHi5OlEDHC7vIcim3f0s=/150x150/top/smart/hagah/2/2a/telecine-premium-hd-2aadc341.jpg" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",TELECINE PREMIUM (1)
 http://servelive.net:80/gabriel/gabriel/8067
@@ -2348,7 +2348,7 @@ http://fonte.iptvmaishd.com:25461/03/03/141751
 http://srvlista.com:80/4Dv0YaeSC3/fireiptv/27660
 
 #EXTINF:-1 tvg-logo="https://cdn.reweb.io/hagah/image/q4q0F-QvHi5OlEDHC7vIcim3f0s=/150x150/top/smart/hagah/2/2a/telecine-premium-hd-2aadc341.jpg" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",TELECINE PREMIUM (4)
-
+http://streamtv.com.br:80/fredfred/fredfred/1544
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.sempretops.com/wp-content/uploads/telecine-touch-logo-nova-online-ao-vivo.gif" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",TELECINE TOUCH (1)
 http://servelive.net:80/gabriel/gabriel/7912
@@ -2360,7 +2360,7 @@ http://fonte.iptvmaishd.com:25461/03/03/141748
 http://srvlista.com:80/4Dv0YaeSC3/fireiptv/27656
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.sempretops.com/wp-content/uploads/telecine-touch-logo-nova-online-ao-vivo.gif" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",TELECINE TOUCH (4)
-
+http://streamtv.com.br:80/fredfred/fredfred/1543
 
 #EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/011/original/pic_tbs.png?1522176341" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",TBS (1)
 http://servelive.net:80/gabriel/gabriel/7925
@@ -2372,7 +2372,7 @@ http://fonte.iptvmaishd.com:25461/03/03/141765
 http://srvlista.com:80/4Dv0YaeSC3/fireiptv/27681
 
 #EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/011/original/pic_tbs.png?1522176341" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",TBS (4)
-
+http://streamtv.com.br:80/fredfred/fredfred/1550
 
 #EXTINF:-1 tvg-logo="http://www.brandemia.org/sites/default/files/sites/default/files/tcm_logo_antes.jpg" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",TCM (1)
 http://servelive.net:80/gabriel/gabriel/7923
@@ -2384,7 +2384,7 @@ http://fonte.iptvmaishd.com:25461/03/03/141745
 http://srvlista.com:80/4Dv0YaeSC3/fireiptv/27680
 
 #EXTINF:-1 tvg-logo="http://www.brandemia.org/sites/default/files/sites/default/files/tcm_logo_antes.jpg" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",TCM (4)
-
+http://streamtv.com.br:80/fredfred/fredfred/1549
 
 #EXTINF:-1 tvg-logo="http://mareatvcable.com/wp-content/uploads/2017/12/44-tntlogo.png" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",TNT (1)
 http://servelive.net:80/gabriel/gabriel/1094
@@ -2396,7 +2396,7 @@ http://fonte.iptvmaishd.com:25461/03/03/141741
 http://srvlista.com:80/4Dv0YaeSC3/fireiptv/27649
 
 #EXTINF:-1 tvg-logo="http://mareatvcable.com/wp-content/uploads/2017/12/44-tntlogo.png" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",TNT (4)
-
+http://streamtv.com.br:80/fredfred/fredfred/1540
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/cineframe.mx/wp-content/uploads/2017/08/1498152635.png?fit=660%2C660" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",TNT SERIES (1)
 http://servelive.net:80/gabriel/gabriel/7904
@@ -2408,7 +2408,7 @@ http://fonte.iptvmaishd.com:25461/03/03/141738
 http://srvlista.com:80/4Dv0YaeSC3/fireiptv/27645
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/cineframe.mx/wp-content/uploads/2017/08/1498152635.png?fit=660%2C660" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",TNT SERIES (4)
-
+http://streamtv.com.br:80/fredfred/fredfred/1539
 
 #EXTINF:-1 tvg-logo="http://s2.glbimg.com/QQ0n7FZJBvKGjcii_aNn4dvq5f0=/200x200/filters:quality(80)/g.glbimg.com/og/gs/gsat3/f/thumbs/programa/2017/03/09/logo-padrao_5GKjBtK.jpg" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",UNIVERSAL CHANNEL (1)
 http://servelive.net:80/gabriel/gabriel/7891
@@ -2420,7 +2420,7 @@ http://fonte.iptvmaishd.com:25461/03/03/141729
 http://srvlista.com:80/4Dv0YaeSC3/fireiptv/27630
 
 #EXTINF:-1 tvg-logo="http://s2.glbimg.com/QQ0n7FZJBvKGjcii_aNn4dvq5f0=/200x200/filters:quality(80)/g.glbimg.com/og/gs/gsat3/f/thumbs/programa/2017/03/09/logo-padrao_5GKjBtK.jpg" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",UNIVERSAL CHANNEL (4)
-
+http://streamtv.com.br:80/fredfred/fredfred/1529
 
 #EXTINF:-1 tvg-logo="http://television.com.ar/wp-content/uploads/2016/05/wb.jpg" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",WARNER CHANNEL (1)
 http://servelive.net:80/gabriel/gabriel/7884
@@ -2432,135 +2432,20 @@ http://fonte.iptvmaishd.com:25461/03/03/141721
 http://srvlista.com:80/4Dv0YaeSC3/fireiptv/27619
 
 #EXTINF:-1 tvg-logo="http://television.com.ar/wp-content/uploads/2016/05/wb.jpg" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",WARNER CHANNEL (4)
-
+http://streamtv.com.br:80/fredfred/fredfred/1525
 
 ######################################################################################################################################
-####################################### PREMIUM BR HD
-#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/hd-720p-logo-png-6.png" group-title="PREMIUM BR HD",PREMIUM BR HD
-http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8
-#######################################
-
-#EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/062010/AMCHepburn_B.png?itok=18X2cfEC" group-title="PREMIUM BR HD",AMC BR HD
-http://listaccess.me:8880/1213/1213/2344
-
-#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/axn.png" group-title="PREMIUM BR HD",AXN BR HD
-http://listaccess.me:8880/1213/1213/2337
-
-#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cine/16.png" group-title="PREMIUM BR HD",CINEMAX BR HD
-http://listaccess.me:8880/1213/1213/7089
-
-#EXTINF:-1 tvg-logo="https://banner2.kisspng.com/20180329/heq/kisspng-logo-of-nbc-television-channel-fox-fox-5abc8ef9dcbf13.5561782615223068099042.jpg" group-title="PREMIUM BR HD",FOX BR HD
-http://listaccess.me:8880/1213/1213/2291
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBxRngi3ew3yGlLHn0MMtIRN252b1GDFdLBlNBVGjrJne_8V-C" group-title="PREMIUM BR HD",FOX LIFE BR HD
-http://listaccess.me:8880/1213/1213/2289
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/59/FOXPremium1.png/revision/latest?cb=20170324170019" group-title="PREMIUM BR HD",FOX PREMIUM 1 BR HD
-http://listaccess.me:8880/1213/1213/2288
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/28/FOXPremium2.png/revision/latest?cb=20170324170127" group-title="PREMIUM BR HD",FOX PREMIUM 2 BR HD
-http://listaccess.me:8880/1213/1213/2287
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyVYACgshsXqvRtXUsEIVQzibTeR-nHAPXr9YZh28k7Dn3QVH9" group-title="PREMIUM BR HD",FX BR HD
-http://listaccess.me:8880/1213/1213/2280
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2qqrrq69tbnXtGqAxErNZls8cvkG9YvGCguCYIP5hYkbuHD2K" group-title="PREMIUM BR HD",HBO BR HD
-http://listaccess.me:8880/1213/1213/2262
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/sv_hbo-2_m.png" group-title="PREMIUM BR HD",HBO 2 BR HD
-http://listaccess.me:8880/1213/1213/2265
-
-#EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/hbo-family-logo-320x320-745790760.png" group-title="PREMIUM BR HD",HBO FAMILY BR HD
-http://listaccess.me:8880/1213/1213/2263
-
-#EXTINF:-1 tvg-logo="http://contenidos.cablevision.com.mx/guia_programacion/channels/634.png" group-title="PREMIUM BR HD",HBO PLUS BR HD
-http://listaccess.me:8880/1213/1213/2259
-
-#EXTINF:-1 tvg-logo="http://contenidos.cablevision.com.mx/guia_programacion/channels/634.png" group-title="PREMIUM BR HD",HBO PLUS E BR HD
-
-
-#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/gt_hbo-signature_m.png" group-title="PREMIUM BR HD",HBO SIGNATURE BR HD
-http://listaccess.me:8880/1213/1213/2257
-
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/_VoHOYEuZjzM/SsANAYXMMWI/AAAAAAAAAhI/7yI4nQHXUvQ/s320/Logo_ISat.jpg" group-title="PREMIUM BR HD",I SAT BR HD
-
-
-#EXTINF:-1 tvg-logo="http://clarotv.claro.com.br/image/Get/630" group-title="PREMIUM BR HD",MAX BR HD
-http://listaccess.me:8880/1213/1213/7091
-
-#EXTINF:-1 tvg-logo="http://sky.vteximg.com.br/arquivos/ids/156096/maxprime-hd.png?v=636446344633130000" group-title="PREMIUM BR HD",MAX PRIME BR HD
-http://listaccess.me:8880/1213/1213/7092
-
-#EXTINF:-1 tvg-logo="http://sky.vteximg.com.br/arquivos/ids/156096/maxprime-hd.png?v=636446344633130000" group-title="PREMIUM BR HD",MAX PRIME E BR HD
-
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/tvpediabrasil/images/e/e6/Maxup.png/revision/latest?cb=20160922150849&path-prefix=pt-br" group-title="PREMIUM BR HD",MAX UP BR HD
-http://listaccess.me:8880/1213/1213/7093
-
-#EXTINF:-1 tvg-logo="http://www.netemnatal.com.br/canais_net/megapix.jpg" group-title="PREMIUM BR HD",MEGAPIX BR HD
-http://listaccess.me:8880/1213/1213/2245
-
-#EXTINF:-1 tvg-logo="https://d2xhqqdaxyaju6.cloudfront.net/file/teaser-ci/293920/0/1200-400.jpg" group-title="PREMIUM BR HD",PARAMOUNT BR HD
-http://listaccess.me:8880/1213/1213/7314
-
-#EXTINF:-1 tvg-logo="http://www.cable10.com/imagenes/programacion/canales_0013s_0006_Layer%2044.jpg" group-title="PREMIUM BR HD",SONY BR HD
-http://listaccess.me:8880/1213/1213/2324
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8.png" group-title="PREMIUM BR HD",SPACE BR HD
-http://listaccess.me:8880/1213/1213/2192
-
-#EXTINF:-1 tvg-logo="http://studiouniversal.wiperagency.com/uploads/product/dcd0513fc9513c710f9cab0e0097abfb4deb340a.jpg" group-title="PREMIUM BR HD",STUDIO UNIVERSAL BR HD
-http://listaccess.me:8880/1213/1213/7273
-
-#EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/082015/syfy_0.png?itok=64TT6J8J" group-title="PREMIUM BR HD",SYFY BR HD
-http://listaccess.me:8880/1213/1213/7283
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/06/f2/01/06f201cdd7c0416eddb3a767a9c5cc8d.jpg" group-title="PREMIUM BR HD",TELECINE ACTION BR HD
-http://listaccess.me:8880/1213/1213/2179
-
-#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/br_telecine-cult-1_m.png" group-title="PREMIUM BR HD",TELECINE CULT BR HD
-http://listaccess.me:8880/1213/1213/2122
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/54/c8/7f/54c87f894c0d97024ad5f44aec454a32.jpg" group-title="PREMIUM BR HD",TELECINE FUN BR HD
-http://listaccess.me:8880/1213/1213/2176
-
-#EXTINF:-1 tvg-logo="https://cdn.reweb.io/hagah/image/vG87z-TZwPgc2pcoqY4w9ff2e8U=/300x300/top/smart/hagah/5/53/telecine-pipoca-hd-53eee45e.jpg" group-title="PREMIUM BR HD",TELECINE PIPOCA BR HD
-http://listaccess.me:8880/1213/1213/2174
-
-#EXTINF:-1 tvg-logo="https://cdn.reweb.io/hagah/image/q4q0F-QvHi5OlEDHC7vIcim3f0s=/150x150/top/smart/hagah/2/2a/telecine-premium-hd-2aadc341.jpg" group-title="PREMIUM BR HD",TELECINE PREMIUM BR HD
-http://listaccess.me:8880/1213/1213/2172
-
-#EXTINF:-1 tvg-logo="https://i1.wp.com/www.sempretops.com/wp-content/uploads/telecine-touch-logo-nova-online-ao-vivo.gif" group-title="PREMIUM BR HD",TELECINE TOUCH BR HD
-http://listaccess.me:8880/1213/1213/2170
-
-#EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/011/original/pic_tbs.png?1522176341" group-title="PREMIUM BR HD",TBS BR HD
-http://listaccess.me:8880/1213/1213/2182
-
-#EXTINF:-1 tvg-logo="http://www.brandemia.org/sites/default/files/sites/default/files/tcm_logo_antes.jpg" group-title="PREMIUM BR HD",TCM BR HD
-http://listaccess.me:8880/1213/1213/7268
-
-#EXTINF:-1 tvg-logo="http://mareatvcable.com/wp-content/uploads/2017/12/44-tntlogo.png" group-title="PREMIUM BR HD",TNT BR HD
-http://listaccess.me:8880/1213/1213/2165
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/cineframe.mx/wp-content/uploads/2017/08/1498152635.png?fit=660%2C660" group-title="PREMIUM BR HD",TNT SERIES BR HD
-http://listaccess.me:8880/1213/1213/2163
-
-#EXTINF:-1 tvg-logo="http://s2.glbimg.com/QQ0n7FZJBvKGjcii_aNn4dvq5f0=/200x200/filters:quality(80)/g.glbimg.com/og/gs/gsat3/f/thumbs/programa/2017/03/09/logo-padrao_5GKjBtK.jpg" group-title="PREMIUM BR HD",UNIVERSAL CHANNEL BR HD
-http://listaccess.me:8880/1213/1213/7235
-
-#EXTINF:-1 tvg-logo="http://television.com.ar/wp-content/uploads/2016/05/wb.jpg" group-title="PREMIUM BR HD",WARNER CHANNEL BR HD
-http://listaccess.me:8880/1213/1213/2149
-
 ######################################################################################################################################
 ####################################### VARIEDADES
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0019/9923/brand.gif?itok=HGWFJbCv" group-title="VARIEDADES",VARIEDADES 
 http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8
 #######################################
-
+######################################################################################################################################
 #######################################
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0019/9923/brand.gif?itok=HGWFJbCv" group-title="VARIEDADES" pltv-subgroup="VARIEDADES LATINO",VARIEDADES LATINO
 http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8
 #######################################
+######################################################################################################################################
 
 #EXTINF:-1 tvg-logo="http://www.logotypes101.com/logos/369/4E6FF8D73A16CA6B1A72995ECB1B5380/eentertainment.png" group-title="VARIEDADES" pltv-subgroup="VARIEDADES LATINO",E!
 http://kimbogrupol.com:25461/live/444/444/17211.ts
@@ -2646,10 +2531,12 @@ http://kimbogrupol.com:25461/live/444/444/16680.ts
 #EXTINF:-1 tvg-logo="https://www.expoknews.com/wp-content/uploads/2016/01/WOBI.png" group-title="VARIEDADES" pltv-subgroup="VARIEDADES LATINO",WOBI 
 
 
+######################################################################################################################################
 #######################################
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0019/9923/brand.gif?itok=HGWFJbCv" group-title="VARIEDADES" pltv-subgroup="VARIEDADES BRASIL",VARIEDADES BRASIL
 http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8
 #######################################
+######################################################################################################################################
 
 #EXTINF:-1 tvg-logo="https://cdn.reweb.io/hagah/image/Ohvc12JYV6DTXKzan-JdjEIWKbo=/300x300/top/smart/hagah/a/af/arte-1-affc3424.jpg" group-title="VARIEDADES" pltv-subgroup="VARIEDADES BRASIL",ARTE 1 BR*
 http://streamtv.com.br:80/test/test/1664
@@ -2788,11 +2675,12 @@ http://servelive.net:80/gabriel/gabriel/7882
 #EXTINF:-1 tvg-logo="https://previews.123rf.com/images/lcosmo/lcosmo1601/lcosmo160100036/51172910-ic%C3%B4ne-enfants-pictogramme-gar%C3%A7on-et-fille-sexes-mat%C3%A9riaux-id%C3%A9al-pour-catalogues-informatifs-et-institutionnel.jpg" group-title="INFANTILES-INFANTIS",INFANTILES-INFANTIS
 http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8
 #######################################
-
+######################################################################################################################################
 #######################################
 #EXTINF:-1 tvg-logo="https://previews.123rf.com/images/lcosmo/lcosmo1601/lcosmo160100036/51172910-ic%C3%B4ne-enfants-pictogramme-gar%C3%A7on-et-fille-sexes-mat%C3%A9riaux-id%C3%A9al-pour-catalogues-informatifs-et-institutionnel.jpg" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",INFANTILES LATINOS
 http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8
 #######################################
+######################################################################################################################################
 
 #EXTINF:-1 tvg-logo="https://pm1.narvii.com/6083/dbb08c1e4b74234e286f7ca5a1c924eeeed09eb8_hq.jpg" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",ANIMAX (LAT)
 
@@ -2925,11 +2813,12 @@ http://kimbogrupol.com:25461/live/444/444/17302.ts
 
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/gt_tooncast_m.png" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",TOONCAST 
 
-
+######################################################################################################################################
 #######################################
 #EXTINF:-1 tvg-logo="https://previews.123rf.com/images/lcosmo/lcosmo1601/lcosmo160100036/51172910-ic%C3%B4ne-enfants-pictogramme-gar%C3%A7on-et-fille-sexes-mat%C3%A9riaux-id%C3%A9al-pour-catalogues-informatifs-et-institutionnel.jpg" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTIS BRASIL",INFANTIS BRASIL
 http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8
 #######################################
+######################################################################################################################################
 
 #EXTINF:-1 tvg-logo="http://liveitkodi.com/Logos/BabyTV.png" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTIS BRASIL",BABY TV BR*
 http://streamtv.com.br:80/test/test/1662
@@ -3062,7 +2951,7 @@ http://kimbogrupol.com:25461/live/444/444/16571.ts
 #EXTINF:-1 tvg-logo="https://www.stempel-malter.de/wp-content/uploads/2018/02/mini_motivstempel_kreuz.png" group-title="RELIGIOSOS",RELIGIOSOS 
 http://216.245.204.227:8054/live
 #######################################
-
+######################################################################################################################################
 #EXTINF:0 tvg-logo="http://files.paroquiasaojose-piracicaba.webnode.com/200000100-f1e09f36b5/cancao_nova.png" group-title="RELIGIOSOS",CANCAO NOVA (BR)
 http://tvajuhls-lh.akamaihd.net:80/i/tvdesk_1@147040/index_1080_av-p.m3u8
 
@@ -3116,6 +3005,7 @@ http://caikron.com.br:1935/tvaparecida/tvaparecida.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/21/21601.png" group-title="NOTICIAS",NOTICIAS 
 http://216.245.204.227:8054/live
 #######################################
+######################################################################################################################################
 
 #EXTINF:-1 tvg-logo="https://i2.wp.com/senaltvonline.com/wp-content/uploads/2018/01/adn40.png?fit=311%2C311" group-title="NOTICIAS",ADN 40 (MEX)
 
@@ -3189,17 +3079,18 @@ http://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews_1800/chunkli
 #EXTINF:-1 tvg-logo="https://colarebo.files.wordpress.com/2010/11/telesur.jpg" group-title="NOTICIAS",TELESUR
 https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/480p/chunklist.m3u8?GrupoTopIptv
 
-
+######################################################################################################################################
 ######################################################################################################################################
 ####################################### DOCUMENTALES-DOCUMENTAIS
 #EXTINF:-1 tvg-logo="https://st2.depositphotos.com/2100659/8236/v/950/depositphotos_82367108-stock-illustration-lion-head-vector-sign-concept.jpg" group-title="DOCUMENTALES-DOCUMENTAIS",DOCUMENTALES-DOCUMENTAIS
 http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8
 #######################################
-
+######################################################################################################################################
 #######################################
 #EXTINF:-1 tvg-logo="https://st2.depositphotos.com/2100659/8236/v/950/depositphotos_82367108-stock-illustration-lion-head-vector-sign-concept.jpg" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",DOCUMENTALES LATINOS
 http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8
 #######################################
+######################################################################################################################################
 
 #EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/020/original/pic_a_e.png?1522180692" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",A&E
 http://kimbogrupol.com:25461/live/444/444/17256.ts
@@ -3336,10 +3227,12 @@ http://149.56.26.6:25461/live/70/70/41234.rtmp
 #EXTINF:-1 tvg-logo="https://cdn.reweb.io/hagah/image/mXBvojVRVzVLXAmTE8j9U0Io8c4=/300x300/top/smart/hagah/2/29/tlc-hd-2988cf2d.jpg" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",TLC
 http://kimbogrupol.com:25461/live/444/444/17345.ts
 
+######################################################################################################################################
 #######################################
 #EXTINF:-1 tvg-logo="https://st2.depositphotos.com/2100659/8236/v/950/depositphotos_82367108-stock-illustration-lion-head-vector-sign-concept.jpg" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTAIS BRASIL",DOCUMENTAIS BRASIL
 http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8
 #######################################
+######################################################################################################################################
 
 #EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/020/original/pic_a_e.png?1522180692" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTAIS BRASIL",A&E BR*
 http://streamtv.com.br:80/test/test/1667
@@ -3478,6 +3371,7 @@ http://servelive.net:80/gabriel/gabriel/7909
 #EXTINF:-1 tvg-logo="http://clipartstation.com/wp-content/uploads/2017/11/buch-aufgeschlagen-clipart-9.jpg" group-title="EDUCATIVOS",EDUCATIVOS 
 http://mixaac.crossradio.com.br:1100/live
 #######################################
+######################################################################################################################################
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9cxDnlemp9bp5W6VfNd00sLfc4CE1Mi5bT20asCh0ITw6SjZm" group-title="EDUCATIVOS",APRENDE TV (MEX)
 
@@ -3496,6 +3390,7 @@ http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c
 #EXTINF:-1 tvg-logo="https://www.epoli.gr/content/data/multimedia/images/septembrios_2016/Podosfairistis_Skitso.jpg" group-title="DEPORTES/ESPORTES",DEPORTES/ESPORTES 
 http://ic.imusicaradios.com.br:8000/brasil.stream.http?url=tunein
 #######################################
+######################################################################################################################################
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/AN66SAwm04NzqWZTEojyorqWXXPjuS8T7PebQRBW9g=s900-mo-c-c0xffffffff-rj-k-no" group-title="DEPORTES/ESPORTES",EVENTOS 1
 http://194.67.208.149/hls/102.m3u8
@@ -4016,6 +3911,7 @@ http://kimbogrupol.com:25461/live/444/444/16593.ts
 #EXTINF:-1 tvg-logo="https://www.dekleineheld.nl/wp-content/uploads/2017/06/muzieknoot.png" group-title="MUSICA",MUSICA 
 https://stream.vagalume.fm/hls/1478022035646498/aac.m3u8
 #######################################
+######################################################################################################################################
 
 #EXTINF:-1 tvg-logo="http://tvthumb.kamensktel.ru/40.png" group-title="MUSICA",1 ABTO (URSS)
 
@@ -4094,6 +3990,7 @@ http://81.196.0.126/utvedge/utvlivehls/chunklist_w1688658104.m3u8?GrupoTopIptv
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_2-EwZZxK2K4wZqspAbgk3XitbBNrlMkr_3xb10iKrqay4Eap" group-title="RADIOS",RADIOS 
 https://stream.vagalume.fm/hls/1478022035646498/aac.m3u8
 #######################################
+######################################################################################################################################
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5U4P1Rqm5FumDjWv_yxSAnvNdUwikSZceukfd1kY-WXU0fWFk6w" group-title="RADIOS",RADIO K-POP
 https://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
