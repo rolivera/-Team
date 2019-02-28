@@ -1255,6 +1255,39 @@ http://wowv.gadi.com.br/tvnailha/tvnailha/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/wow-tv.png" group-title="CANALES DE CINE",WOW! LA°
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 
+#######################################################################################################################################################################################
+#######################################################################################################################################################################################
+####################################### 24/7
+#EXTINF:-1 tvg-logo="https://cdn3.iconfinder.com/data/icons/business-finance-40/512/9-512.png" group-title="24/7",24/7 
+http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8
+#######################################
+#######################################################################################################################################################################################
+#######################################################################################################################################################################################
+#######################################
+#EXTINF:-1 tvg-logo="https://cdn3.iconfinder.com/data/icons/business-finance-40/512/9-512.png" group-title="24/7" pltv-subgroup="24/7 LATINO",24/7 LATINO
+http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8
+#######################################
+#######################################################################################################################################################################################
+#######################################################################################################################################################################################
+
+#EXTINF:-1 tvg-logo="https://banner2.kisspng.com/20180329/dlq/kisspng-walt-disney-world-burbank-the-walt-disney-company-disneyland-5abd1930eab690.2724304915223421929614.jpg" group-title="24/7" pltv-subgroup="24/7 LATINO",CLASICOS DISNEY
+http://listaccess.me:8880/1213/1213/7218
+
+#EXTINF:-1 tvg-logo="https://ih0.redbubble.net/image.267460411.2409/flat,550x550,075,f.u3.jpg" group-title="24/7" pltv-subgroup="24/7 LATINO",CORAJE EL PERRO COBARDE
+http://kimbogrupol.com:25461/live/444/444/10321.ts
+
+#EXTINF:-1 tvg-logo="https://ih1.redbubble.net/image.34994004.6466/ap,550x550,12x12,1,transparent,t.png" group-title="24/7" pltv-subgroup="24/7 LATINO",EL CHAPULIN
+http://kimbogrupol.com:25461/444/444/10320
+
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-Qi2ziB9B-zo/WHzYYuwBhmI/AAAAAAAAABs/mM1MbbPn1EckZCT3sxTFlSY27frz2-G5ACLcB/s1600/mr%2Bbean.png" group-title="24/7" pltv-subgroup="24/7 LATINO",MR BEAN ANIMADO
+http://kimbogrupol.com:25461/live/444/444/10271.ts
+
+
+
+
+
+
+
 ######################################################################################################################################
 ####################################### CANALES 24/7
 #EXTINF:-1 tvg-logo="https://cdn3.iconfinder.com/data/icons/business-finance-40/512/9-512.png" group-title="CANALES 24/7",CANALES 24/7
@@ -1282,9 +1315,6 @@ http://streamtv.com.br:80/fredfred/fredfred/20226
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR17GUaga5GxtziOCVvwT6E2TdNe6YkQWbbqqoV3_bNF8e73E1G" group-title="CANALES 24/7",APENAS UM SHOW (BR)
 http://streamtv.com.br:80/fredfred/fredfred/20183
 
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/Walt-Disney-logo.png" group-title="CANALES 24/7",CLASICOS DISNEY
-http://listaccess.me:8880/1213/1213/7218
-
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/3a/e8/4a/3ae84ac7849b0566374398a5fa91ed6d.jpg" group-title="CANALES 24/7",MASHA (BR)
 http://streamtv.com.br:80/fredfred/fredfred/20202
 
@@ -1303,24 +1333,11 @@ http://listaccess.me:8880/1213/1213/9
 #EXTINF:-1 tvg-logo="https://ih0.redbubble.net/image.267460411.2409/flat,550x550,075,f.u3.jpg" group-title="CANALES 24/7",CORAGEM O CAO COVARDE BRA
 http://streamtv.com.br:80/fredfred/fredfred/20223
 
-#EXTINF:-1 tvg-logo="https://ih0.redbubble.net/image.267460411.2409/flat,550x550,075,f.u3.jpg" group-title="CANALES 24/7",CORAJE EL PERRO COBARDE LAT
-http://kimbogrupol.com:25461/live/444/444/10321.ts
-
-#EXTINF:-1 tvg-logo="https://blogs.diariovasco.com/series-gourmets/wp-content/uploads/sites/37/2016/07/padre-hijo-e1468672257557.jpg" group-title="CANALES 24/7",FAMILIA DINOSAURIOS 
-
-
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-oBrIC_dwGpE/WfAJfyjkAsI/AAAAAAAACOw/jIWAUaO9fKItHOg3DGh6-mNzuO_h6vnzACLcBGAs/s1600/CHA.png" group-title="CANALES 24/7",CHAVES (BR)
 http://167.114.140.230/margaretede3116/margaretede3116/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/imgs/7/4/0/7404c9622404fad02c97805749040095_icon.png?w=256" group-title="CANALES 24/7",CHAVES ANIMADO (BR)
 http://streamtv.com.br:80/fredfred/fredfred/20181
-
-
-#EXTINF:-1 tvg-logo="https://ih1.redbubble.net/image.34994004.6466/ap,550x550,12x12,1,transparent,t.png" group-title="CANALES 24/7",EL CHAPULIN LAT
-http://kimbogrupol.com:25461/444/444/10320
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/8a/e9/21/8ae9216a4bd445b7b2ce6d5f5601dd49.jpg" group-title="CANALES 24/7",EL CHAVO ANIMADO
-
 
 #EXTINF:-1 tvg-logo="https://kirakuly.files.wordpress.com/2010/03/spongebob_19.jpg" group-title="CANALES 24/7",BOB ESPONJA (BR)
 http://listaccess.me:8880/1213/1213/7220
@@ -1333,18 +1350,6 @@ http://listaccess.me:8880/1213/1213/10
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/47/62/af/4762afbf13173ad0471b0f9de8cbf7dc.jpg" group-title="CANALES 24/7",DRAGON BALL SUPER (BR)
 http://streamtv.com.br:80/fredfred/fredfred/20173
-
-#EXTINF:-1 tvg-logo="https://ae01.alicdn.com/kf/HTB1aba0OFXXXXXPaXXXq6xXFXXXM/Anime-anime-Dragon-Ball-kindergarten-mochila-Super-Saiyan-vegeta-son-Goku-ni-os-Mochilas-y-bolsas.jpg_640x640.jpg" group-title="CANALES 24/7",DRAGON BALL Z 
-
-
-#EXTINF:-1 tvg-logo="https://amadeusashes.files.wordpress.com/2013/11/arnold1.gif" group-title="CANALES 24/7",HEY ARNOLD
-
-
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-Qi2ziB9B-zo/WHzYYuwBhmI/AAAAAAAAABs/mM1MbbPn1EckZCT3sxTFlSY27frz2-G5ACLcB/s1600/mr%2Bbean.png" group-title="CANALES 24/7",MR BEAN ANIMADO LAT
-http://kimbogrupol.com:25461/live/444/444/10271.ts
-
-#EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0010/9283/brand.gif?itok=r1JLQ8QZ" group-title="CANALES 24/7",ROBOTECH
-
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/the_Simpsons-logo-A045F4872C-seeklogo.com.png" group-title="CANALES 24/7",SIMPSONS (BR)
 http://listaccess.me:8880/1213/1213/8413
