@@ -1231,29 +1231,47 @@ http://kimbogrupol.com:25461/live/444/444/16539.ts
 #EXTINF:-1 tvg-logo="http://photocall.tv/images/vtv.png" group-title="VENEZUELA",VTV (VEN)
 
 
-######################################################################################################################################
-####################################### CANALES DE CINE
-#EXTINF:-1 tvg-logo="https://thedesignconcept.co.uk/media/5703/e2453.jpg?mode=pad&width=600&height=600&rnd=131338760080000000" group-title="CANALES DE CINE",CANALES DE CINE
+#######################################################################################################################################################################################
+#######################################################################################################################################################################################
+####################################### CINE
+#EXTINF:-1 tvg-logo="https://thedesignconcept.co.uk/media/5703/e2453.jpg?mode=pad&width=600&height=600&rnd=131338760080000000" group-title="CINE",CINE 
 http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8
 #######################################
+#######################################################################################################################################################################################
+#######################################################################################################################################################################################
+#######################################
+#EXTINF:-1 tvg-logo="https://thedesignconcept.co.uk/media/5703/e2453.jpg?mode=pad&width=600&height=600&rnd=131338760080000000" group-title="CINE" pltv-subgroup="CINE LATINO",CINE LATINO
+http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8
+#######################################
+#######################################################################################################################################################################################
+#######################################################################################################################################################################################
 
-#EXTINF:-1 tvg-logo="http://acsnetwork.tv/uploads/4/4/9/7/4497966/8277950.png" group-title="CANALES DE CINE",ACS RETRO LA°
+#EXTINF:-1 tvg-logo="http://acsnetwork.tv/uploads/4/4/9/7/4497966/8277950.png" group-title="CINE" pltv-subgroup="CINE LATINO",ACS RETRO LA°
 http://inliveserver.com:1935/8468/8468/chunklist_w773874421.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDCdzFfbEhIrPKuMpMyf3hZXiV0lR3X-corM7t8VT0uURgzDEk" group-title="CANALES DE CINE",CINE SKY BR°
-http://stmv2.srvstm.com:1935/tvjsid/tvjsid/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/InG3Xv9.png" group-title="CANALES DE CINE",FMHOT PELIS LA°
+#EXTINF:-1 tvg-logo="https://i.imgur.com/InG3Xv9.png" group-title="CINE" pltv-subgroup="CINE LATINO",FMHOT PELIS LA°
 http://fmhot.04.cl.cdnz.cl/fmhot/smil:cdn.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://radioextremacr.com/img/logo.png" group-title="CANALES DE CINE",EXTREMA TV LA*
+#EXTINF:-1 tvg-logo="http://radioextremacr.com/img/logo.png" group-title="CINE" pltv-subgroup="CINE LATINO",EXTREMA TV LA*
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/16da1f7b0f5766e3fdfbbbca0dad79ea.jpg" group-title="CANALES DE CINE",TV NA ILHA BR°
-http://wowv.gadi.com.br/tvnailha/tvnailha/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/wow-tv.png" group-title="CANALES DE CINE",WOW! LA°
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/wow-tv.png" group-title="CINE" pltv-subgroup="CINE LATINO",WOW! LA°
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+
+#######################################################################################################################################################################################
+#######################################################################################################################################################################################
+#######################################
+#EXTINF:-1 tvg-logo="https://thedesignconcept.co.uk/media/5703/e2453.jpg?mode=pad&width=600&height=600&rnd=131338760080000000" group-title="CINE" pltv-subgroup="CINE BRASIL",CINE BRASIL
+http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8
+#######################################
+#######################################################################################################################################################################################
+#######################################################################################################################################################################################
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDCdzFfbEhIrPKuMpMyf3hZXiV0lR3X-corM7t8VT0uURgzDEk" group-title="CINE" pltv-subgroup="CINE BRASIL",CINE SKY BR°
+http://stmv2.srvstm.com:1935/tvjsid/tvjsid/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/16da1f7b0f5766e3fdfbbbca0dad79ea.jpg" group-title="CINE" pltv-subgroup="CINE BRASIL",TV NA ILHA BR°
+http://wowv.gadi.com.br/tvnailha/tvnailha/playlist.m3u8
 
 #######################################################################################################################################################################################
 #######################################################################################################################################################################################
