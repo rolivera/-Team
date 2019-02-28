@@ -1993,119 +1993,426 @@ http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5450
 
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/062010/AMCHepburn_B.png?itok=18X2cfEC" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",AMC (4)
 
-######################################################################################################################################
-####################################### PREMIUM BR*
-#EXTINF:-1 tvg-logo="https://scontent.fmvd2-1.fna.fbcdn.net/v/t1.0-9/37905950_1817813204951752_2560397165272760320_n.jpg?_nc_cat=101&_nc_ht=scontent.fmvd2-1.fna&oh=d63bb95dca6afb94d2e102086828db20&oe=5CAEE97C" group-title="PREMIUM BR*",PREMIUM BR*
-http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8
-#######################################
 
-#EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/062010/AMCHepburn_B.png?itok=18X2cfEC" group-title="PREMIUM BR*",AMC BR*
-http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5450
-
-#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/axn.png" group-title="PREMIUM BR*",AXN BR*
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/axn.png" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",AXN (1)
 http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5442
 
-#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cine/16.png" group-title="PREMIUM BR*",CINEMAX BR*
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/axn.png" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",AXN (2)
+
+
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/axn.png" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",AXN (3)
+
+
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/axn.png" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",AXN (4)
+
+
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cine/16.png" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",CINEMAX (1)
 http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5412
 
-#EXTINF:-1 tvg-logo="https://banner2.kisspng.com/20180329/heq/kisspng-logo-of-nbc-television-channel-fox-fox-5abc8ef9dcbf13.5561782615223068099042.jpg" group-title="PREMIUM BR*",FOX BR*
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cine/16.png" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",CINEMAX (2)
+
+
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cine/16.png" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",CINEMAX (3)
+
+
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cine/16.png" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",CINEMAX (4)
+
+
+#EXTINF:-1 tvg-logo="https://banner2.kisspng.com/20180329/heq/kisspng-logo-of-nbc-television-channel-fox-fox-5abc8ef9dcbf13.5561782615223068099042.jpg" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",FOX (1)
 http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5352
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBxRngi3ew3yGlLHn0MMtIRN252b1GDFdLBlNBVGjrJne_8V-C" group-title="PREMIUM BR*",FOX LIFE BR*
+#EXTINF:-1 tvg-logo="https://banner2.kisspng.com/20180329/heq/kisspng-logo-of-nbc-television-channel-fox-fox-5abc8ef9dcbf13.5561782615223068099042.jpg" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",FOX (2)
+
+
+#EXTINF:-1 tvg-logo="https://banner2.kisspng.com/20180329/heq/kisspng-logo-of-nbc-television-channel-fox-fox-5abc8ef9dcbf13.5561782615223068099042.jpg" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",FOX (3)
+
+
+#EXTINF:-1 tvg-logo="https://banner2.kisspng.com/20180329/heq/kisspng-logo-of-nbc-television-channel-fox-fox-5abc8ef9dcbf13.5561782615223068099042.jpg" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",FOX (4)
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBxRngi3ew3yGlLHn0MMtIRN252b1GDFdLBlNBVGjrJne_8V-C" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",FOX LIFE (1)
 http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5350
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/59/FOXPremium1.png/revision/latest?cb=20170324170019" group-title="PREMIUM BR*",FOX PREMIUM 1 BR*
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBxRngi3ew3yGlLHn0MMtIRN252b1GDFdLBlNBVGjrJne_8V-C" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",FOX LIFE (2)
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBxRngi3ew3yGlLHn0MMtIRN252b1GDFdLBlNBVGjrJne_8V-C" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",FOX LIFE (3)
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBxRngi3ew3yGlLHn0MMtIRN252b1GDFdLBlNBVGjrJne_8V-C" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",FOX LIFE (4)
+
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/59/FOXPremium1.png/revision/latest?cb=20170324170019" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",FOX PREMIUM 1 (1)
 http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/19409
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/28/FOXPremium2.png/revision/latest?cb=20170324170127" group-title="PREMIUM BR*",FOX PREMIUM 2 BR*
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/59/FOXPremium1.png/revision/latest?cb=20170324170019" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",FOX PREMIUM 1 (2)
+
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/59/FOXPremium1.png/revision/latest?cb=20170324170019" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",FOX PREMIUM 1 (3)
+
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/59/FOXPremium1.png/revision/latest?cb=20170324170019" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",FOX PREMIUM 1 (4)
+
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/28/FOXPremium2.png/revision/latest?cb=20170324170127" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",FOX PREMIUM 2 (1)
 http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/19410
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyVYACgshsXqvRtXUsEIVQzibTeR-nHAPXr9YZh28k7Dn3QVH9" group-title="PREMIUM BR*",FX BR*
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/28/FOXPremium2.png/revision/latest?cb=20170324170127" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",FOX PREMIUM 2 (2)
+
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/28/FOXPremium2.png/revision/latest?cb=20170324170127" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",FOX PREMIUM 2 (3)
+
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/28/FOXPremium2.png/revision/latest?cb=20170324170127" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",FOX PREMIUM 2 (4)
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyVYACgshsXqvRtXUsEIVQzibTeR-nHAPXr9YZh28k7Dn3QVH9" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",FX (1)
 http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5334
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2qqrrq69tbnXtGqAxErNZls8cvkG9YvGCguCYIP5hYkbuHD2K" group-title="PREMIUM BR*",HBO BR*
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyVYACgshsXqvRtXUsEIVQzibTeR-nHAPXr9YZh28k7Dn3QVH9" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",FX (2)
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyVYACgshsXqvRtXUsEIVQzibTeR-nHAPXr9YZh28k7Dn3QVH9" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",FX (3)
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyVYACgshsXqvRtXUsEIVQzibTeR-nHAPXr9YZh28k7Dn3QVH9" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",FX (4)
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2qqrrq69tbnXtGqAxErNZls8cvkG9YvGCguCYIP5hYkbuHD2K" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",HBO (1)
 http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5286
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/sv_hbo-2_m.png" group-title="PREMIUM BR*",HBO 2 BR*
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2qqrrq69tbnXtGqAxErNZls8cvkG9YvGCguCYIP5hYkbuHD2K" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",HBO (2)
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2qqrrq69tbnXtGqAxErNZls8cvkG9YvGCguCYIP5hYkbuHD2K" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",HBO (3)
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2qqrrq69tbnXtGqAxErNZls8cvkG9YvGCguCYIP5hYkbuHD2K" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",HBO (4)
+
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/sv_hbo-2_m.png" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",HBO 2 (1)
 http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5285
 
-#EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/hbo-family-logo-320x320-745790760.png" g group-title="PREMIUM BR*",HBO FAMILY BR*
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/sv_hbo-2_m.png" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",HBO 2 (2)
+
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/sv_hbo-2_m.png" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",HBO 2 (3)
+
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/sv_hbo-2_m.png" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",HBO 2 (4)
+
+
+#EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/hbo-family-logo-320x320-745790760.png" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",HBO FAMILY (1)
 http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5282
 
-#EXTINF:-1 tvg-logo="http://contenidos.cablevision.com.mx/guia_programacion/channels/634.png" group-title="PREMIUM BR*",HBO PLUS BR*
+#EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/hbo-family-logo-320x320-745790760.png" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",HBO FAMILY (2)
+
+
+#EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/hbo-family-logo-320x320-745790760.png" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",HBO FAMILY (3)
+
+
+#EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/hbo-family-logo-320x320-745790760.png" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",HBO FAMILY (4)
+
+
+#EXTINF:-1 tvg-logo="http://contenidos.cablevision.com.mx/guia_programacion/channels/634.png" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",HBO PLUS (1)
 http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5278
 
-#EXTINF:-1 tvg-logo="http://contenidos.cablevision.com.mx/guia_programacion/channels/634.png" group-title="PREMIUM BR*",HBO PLUS E BR*
+#EXTINF:-1 tvg-logo="http://contenidos.cablevision.com.mx/guia_programacion/channels/634.png" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",HBO PLUS (2)
 
 
-#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/gt_hbo-signature_m.png" group-title="PREMIUM BR*",HBO SIGNATURE BR*
+#EXTINF:-1 tvg-logo="http://contenidos.cablevision.com.mx/guia_programacion/channels/634.png" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",HBO PLUS (3)
+
+
+#EXTINF:-1 tvg-logo="http://contenidos.cablevision.com.mx/guia_programacion/channels/634.png" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",HBO PLUS (4)
+
+
+#EXTINF:-1 tvg-logo="http://contenidos.cablevision.com.mx/guia_programacion/channels/634.png" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",HBO PLUS E (1)
+
+
+#EXTINF:-1 tvg-logo="http://contenidos.cablevision.com.mx/guia_programacion/channels/634.png" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",HBO PLUS E (2)
+
+
+#EXTINF:-1 tvg-logo="http://contenidos.cablevision.com.mx/guia_programacion/channels/634.png" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",HBO PLUS E (3)
+
+
+#EXTINF:-1 tvg-logo="http://contenidos.cablevision.com.mx/guia_programacion/channels/634.png" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",HBO PLUS E (4)
+
+
+#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/gt_hbo-signature_m.png" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",HBO SIGNATURE (1)
 http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5274
 
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/_VoHOYEuZjzM/SsANAYXMMWI/AAAAAAAAAhI/7yI4nQHXUvQ/s320/Logo_ISat.jpg" group-title="PREMIUM BR*",I SAT BR*
+#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/gt_hbo-signature_m.png" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",HBO SIGNATURE (2)
 
 
-#EXTINF:-1 tvg-logo="http://clarotv.claro.com.br/image/Get/630" group-title="PREMIUM BR*",MAX BR*
+#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/gt_hbo-signature_m.png" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",HBO SIGNATURE (3)
+
+
+#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/gt_hbo-signature_m.png" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",HBO SIGNATURE (4)
+
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/_VoHOYEuZjzM/SsANAYXMMWI/AAAAAAAAAhI/7yI4nQHXUvQ/s320/Logo_ISat.jpg" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",I SAT (1)
+
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/_VoHOYEuZjzM/SsANAYXMMWI/AAAAAAAAAhI/7yI4nQHXUvQ/s320/Logo_ISat.jpg" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",I SAT (2)
+
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/_VoHOYEuZjzM/SsANAYXMMWI/AAAAAAAAAhI/7yI4nQHXUvQ/s320/Logo_ISat.jpg" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",I SAT (3)
+
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/_VoHOYEuZjzM/SsANAYXMMWI/AAAAAAAAAhI/7yI4nQHXUvQ/s320/Logo_ISat.jpg" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",I SAT (4)
+
+
+#EXTINF:-1 tvg-logo="http://clarotv.claro.com.br/image/Get/630" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",MAX (1)
 http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5266
 
-#EXTINF:-1 tvg-logo="http://sky.vteximg.com.br/arquivos/ids/156096/maxprime-hd.png?v=636446344633130000" group-title="PREMIUM BR*",MAX PRIME BR*
+#EXTINF:-1 tvg-logo="http://clarotv.claro.com.br/image/Get/630" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",MAX (2)
+
+
+#EXTINF:-1 tvg-logo="http://clarotv.claro.com.br/image/Get/630" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",MAX (3)
+
+
+#EXTINF:-1 tvg-logo="http://clarotv.claro.com.br/image/Get/630" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",MAX (4)
+
+
+#EXTINF:-1 tvg-logo="http://sky.vteximg.com.br/arquivos/ids/156096/maxprime-hd.png?v=636446344633130000" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",MAX PRIME (1)
 http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5264
 
-#EXTINF:-1 tvg-logo="http://sky.vteximg.com.br/arquivos/ids/156096/maxprime-hd.png?v=636446344633130000" group-title="PREMIUM BR*",MAX PRIME E BR*
+#EXTINF:-1 tvg-logo="http://sky.vteximg.com.br/arquivos/ids/156096/maxprime-hd.png?v=636446344633130000" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",MAX PRIME (2)
+
+
+#EXTINF:-1 tvg-logo="http://sky.vteximg.com.br/arquivos/ids/156096/maxprime-hd.png?v=636446344633130000" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",MAX PRIME (3)
+
+
+#EXTINF:-1 tvg-logo="http://sky.vteximg.com.br/arquivos/ids/156096/maxprime-hd.png?v=636446344633130000" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",MAX PRIME (4)
+
+
+#EXTINF:-1 tvg-logo="http://sky.vteximg.com.br/arquivos/ids/156096/maxprime-hd.png?v=636446344633130000" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",MAX PRIME E (1)
 http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5262
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/tvpediabrasil/images/e/e6/Maxup.png/revision/latest?cb=20160922150849&path-prefix=pt-br" group-title="PREMIUM BR*",MAX UP BR*
+#EXTINF:-1 tvg-logo="http://sky.vteximg.com.br/arquivos/ids/156096/maxprime-hd.png?v=636446344633130000" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",MAX PRIME E (2)
+
+
+#EXTINF:-1 tvg-logo="http://sky.vteximg.com.br/arquivos/ids/156096/maxprime-hd.png?v=636446344633130000" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",MAX PRIME E (3)
+
+
+#EXTINF:-1 tvg-logo="http://sky.vteximg.com.br/arquivos/ids/156096/maxprime-hd.png?v=636446344633130000" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",MAX PRIME E (4)
+
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/tvpediabrasil/images/e/e6/Maxup.png/revision/latest?cb=20160922150849&path-prefix=pt-br" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",MAX UP (1)
 http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5259
 
-#EXTINF:-1 tvg-logo="http://www.netemnatal.com.br/canais_net/megapix.jpg" group-title="PREMIUM BR*",MEGAPIX BR*
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/tvpediabrasil/images/e/e6/Maxup.png/revision/latest?cb=20160922150849&path-prefix=pt-br" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",MAX UP (2)
+
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/tvpediabrasil/images/e/e6/Maxup.png/revision/latest?cb=20160922150849&path-prefix=pt-br" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",MAX UP (3)
+
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/tvpediabrasil/images/e/e6/Maxup.png/revision/latest?cb=20160922150849&path-prefix=pt-br" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",MAX UP (4)
+
+
+#EXTINF:-1 tvg-logo="http://www.netemnatal.com.br/canais_net/megapix.jpg" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",MEGAPIX (1)
 http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5258
 
-#EXTINF:-1 tvg-logo="https://d2xhqqdaxyaju6.cloudfront.net/file/teaser-ci/293920/0/1200-400.jpg" group-title="PREMIUM BR*",PARAMOUNT BR*
+#EXTINF:-1 tvg-logo="http://www.netemnatal.com.br/canais_net/megapix.jpg" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",MEGAPIX (2)
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5258
+
+#EXTINF:-1 tvg-logo="http://www.netemnatal.com.br/canais_net/megapix.jpg" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",MEGAPIX (3)
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5258
+
+#EXTINF:-1 tvg-logo="http://www.netemnatal.com.br/canais_net/megapix.jpg" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",MEGAPIX (4)
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5258
+
+#EXTINF:-1 tvg-logo="https://d2xhqqdaxyaju6.cloudfront.net/file/teaser-ci/293920/0/1200-400.jpg" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",PARAMOUNT (1)
 
 
-#EXTINF:-1 tvg-logo="http://www.cable10.com/imagenes/programacion/canales_0013s_0006_Layer%2044.jpg" group-title="PREMIUM BR*",SONY BR*
+#EXTINF:-1 tvg-logo="https://d2xhqqdaxyaju6.cloudfront.net/file/teaser-ci/293920/0/1200-400.jpg" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",PARAMOUNT (2)
+
+
+#EXTINF:-1 tvg-logo="https://d2xhqqdaxyaju6.cloudfront.net/file/teaser-ci/293920/0/1200-400.jpg" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",PARAMOUNT (3)
+
+
+#EXTINF:-1 tvg-logo="https://d2xhqqdaxyaju6.cloudfront.net/file/teaser-ci/293920/0/1200-400.jpg" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",PARAMOUNT (4)
+
+
+#EXTINF:-1 tvg-logo="http://www.cable10.com/imagenes/programacion/canales_0013s_0006_Layer%2044.jpg" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",SONY (1)
 http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5193
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8.png" group-title="PREMIUM BR*",SPACE BR*
+#EXTINF:-1 tvg-logo="http://www.cable10.com/imagenes/programacion/canales_0013s_0006_Layer%2044.jpg" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",SONY (2)
+
+
+#EXTINF:-1 tvg-logo="http://www.cable10.com/imagenes/programacion/canales_0013s_0006_Layer%2044.jpg" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",SONY (3)
+
+
+#EXTINF:-1 tvg-logo="http://www.cable10.com/imagenes/programacion/canales_0013s_0006_Layer%2044.jpg" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",SONY (4)
+
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8.png" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",SPACE (1)
 http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5190
 
-#EXTINF:-1 tvg-logo="http://studiouniversal.wiperagency.com/uploads/product/dcd0513fc9513c710f9cab0e0097abfb4deb340a.jpg" group-title="PREMIUM BR*",STUDIO UNIVERSAL BR*
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8.png" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",SPACE (2)
+
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8.png" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",SPACE (3)
+
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8.png" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",SPACE (4)
+
+
+#EXTINF:-1 tvg-logo="http://studiouniversal.wiperagency.com/uploads/product/dcd0513fc9513c710f9cab0e0097abfb4deb340a.jpg" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",STUDIO UNIVERSAL (1)
 http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5179
 
-#EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/082015/syfy_0.png?itok=64TT6J8J" group-title="PREMIUM BR*",SYFY BR*
+#EXTINF:-1 tvg-logo="http://studiouniversal.wiperagency.com/uploads/product/dcd0513fc9513c710f9cab0e0097abfb4deb340a.jpg" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",STUDIO UNIVERSAL (2)
+
+
+#EXTINF:-1 tvg-logo="http://studiouniversal.wiperagency.com/uploads/product/dcd0513fc9513c710f9cab0e0097abfb4deb340a.jpg" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",STUDIO UNIVERSAL (3)
+
+
+#EXTINF:-1 tvg-logo="http://studiouniversal.wiperagency.com/uploads/product/dcd0513fc9513c710f9cab0e0097abfb4deb340a.jpg" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",STUDIO UNIVERSAL (4)
+
+
+#EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/082015/syfy_0.png?itok=64TT6J8J" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",SYFY (1)
 http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5176
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/06/f2/01/06f201cdd7c0416eddb3a767a9c5cc8d.jpg" group-title="PREMIUM BR*",TELECINE ACTION BR*
+#EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/082015/syfy_0.png?itok=64TT6J8J" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",SYFY (2)
+
+
+#EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/082015/syfy_0.png?itok=64TT6J8J" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",SYFY (3)
+
+
+#EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/082015/syfy_0.png?itok=64TT6J8J" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",SYFY (4)
+
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/06/f2/01/06f201cdd7c0416eddb3a767a9c5cc8d.jpg" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",TELECINE ACTION (1)
 http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5170
 
-#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/br_telecine-cult-1_m.png" group-title="PREMIUM BR*",TELECINE CULT BR*
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/06/f2/01/06f201cdd7c0416eddb3a767a9c5cc8d.jpg" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",TELECINE ACTION (2)
+
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/06/f2/01/06f201cdd7c0416eddb3a767a9c5cc8d.jpg" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",TELECINE ACTION (3)
+
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/06/f2/01/06f201cdd7c0416eddb3a767a9c5cc8d.jpg" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",TELECINE ACTION (4)
+
+
+#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/br_telecine-cult-1_m.png" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",TELECINE CULT (1)
 http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5167
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/54/c8/7f/54c87f894c0d97024ad5f44aec454a32.jpg" group-title="PREMIUM BR*",TELECINE FUN BR*
+#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/br_telecine-cult-1_m.png" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",TELECINE CULT (2)
+
+
+#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/br_telecine-cult-1_m.png" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",TELECINE CULT (3)
+
+
+#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/br_telecine-cult-1_m.png" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",TELECINE CULT (4)
+
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/54/c8/7f/54c87f894c0d97024ad5f44aec454a32.jpg" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",TELECINE FUN (1)
 http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5164
 
-#EXTINF:-1 tvg-logo="https://cdn.reweb.io/hagah/image/vG87z-TZwPgc2pcoqY4w9ff2e8U=/300x300/top/smart/hagah/5/53/telecine-pipoca-hd-53eee45e.jpg" group-title="PREMIUM BR*",TELECINE PIPOCA BR*
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/54/c8/7f/54c87f894c0d97024ad5f44aec454a32.jpg" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",TELECINE FUN (2)
+
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/54/c8/7f/54c87f894c0d97024ad5f44aec454a32.jpg" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",TELECINE FUN (3)
+
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/54/c8/7f/54c87f894c0d97024ad5f44aec454a32.jpg" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",TELECINE FUN (4)
+
+
+#EXTINF:-1 tvg-logo="https://cdn.reweb.io/hagah/image/vG87z-TZwPgc2pcoqY4w9ff2e8U=/300x300/top/smart/hagah/5/53/telecine-pipoca-hd-53eee45e.jpg" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",TELECINE PIPOCA (1)
 http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5161
 
-#EXTINF:-1 tvg-logo="https://cdn.reweb.io/hagah/image/q4q0F-QvHi5OlEDHC7vIcim3f0s=/150x150/top/smart/hagah/2/2a/telecine-premium-hd-2aadc341.jpg" group-title="PREMIUM BR*",TELECINE PREMIUM BR*
+#EXTINF:-1 tvg-logo="https://cdn.reweb.io/hagah/image/vG87z-TZwPgc2pcoqY4w9ff2e8U=/300x300/top/smart/hagah/5/53/telecine-pipoca-hd-53eee45e.jpg" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",TELECINE PIPOCA (2)
+
+
+#EXTINF:-1 tvg-logo="https://cdn.reweb.io/hagah/image/vG87z-TZwPgc2pcoqY4w9ff2e8U=/300x300/top/smart/hagah/5/53/telecine-pipoca-hd-53eee45e.jpg" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",TELECINE PIPOCA (3)
+
+
+#EXTINF:-1 tvg-logo="https://cdn.reweb.io/hagah/image/vG87z-TZwPgc2pcoqY4w9ff2e8U=/300x300/top/smart/hagah/5/53/telecine-pipoca-hd-53eee45e.jpg" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",TELECINE PIPOCA (4)
+
+
+#EXTINF:-1 tvg-logo="https://cdn.reweb.io/hagah/image/q4q0F-QvHi5OlEDHC7vIcim3f0s=/150x150/top/smart/hagah/2/2a/telecine-premium-hd-2aadc341.jpg" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",TELECINE PREMIUM (1)
 http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5158
 
-#EXTINF:-1 tvg-logo="https://i1.wp.com/www.sempretops.com/wp-content/uploads/telecine-touch-logo-nova-online-ao-vivo.gif" group-title="PREMIUM BR*",TELECINE TOUCH BR*
+#EXTINF:-1 tvg-logo="https://cdn.reweb.io/hagah/image/q4q0F-QvHi5OlEDHC7vIcim3f0s=/150x150/top/smart/hagah/2/2a/telecine-premium-hd-2aadc341.jpg" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",TELECINE PREMIUM (2)
+
+
+#EXTINF:-1 tvg-logo="https://cdn.reweb.io/hagah/image/q4q0F-QvHi5OlEDHC7vIcim3f0s=/150x150/top/smart/hagah/2/2a/telecine-premium-hd-2aadc341.jpg" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",TELECINE PREMIUM (3)
+
+
+#EXTINF:-1 tvg-logo="https://cdn.reweb.io/hagah/image/q4q0F-QvHi5OlEDHC7vIcim3f0s=/150x150/top/smart/hagah/2/2a/telecine-premium-hd-2aadc341.jpg" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",TELECINE PREMIUM (4)
+
+
+#EXTINF:-1 tvg-logo="https://i1.wp.com/www.sempretops.com/wp-content/uploads/telecine-touch-logo-nova-online-ao-vivo.gif" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",TELECINE TOUCH (1)
 http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5156
 
-#EXTINF:-1 tvg-logo="http://www.brandemia.org/sites/default/files/sites/default/files/tcm_logo_antes.jpg" group-title="PREMIUM BR*",TCM BR*
+#EXTINF:-1 tvg-logo="https://i1.wp.com/www.sempretops.com/wp-content/uploads/telecine-touch-logo-nova-online-ao-vivo.gif" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",TELECINE TOUCH (2)
+
+
+#EXTINF:-1 tvg-logo="https://i1.wp.com/www.sempretops.com/wp-content/uploads/telecine-touch-logo-nova-online-ao-vivo.gif" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",TELECINE TOUCH (3)
+
+
+#EXTINF:-1 tvg-logo="https://i1.wp.com/www.sempretops.com/wp-content/uploads/telecine-touch-logo-nova-online-ao-vivo.gif" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",TELECINE TOUCH (4)
+
+
+#EXTINF:-1 tvg-logo="http://www.brandemia.org/sites/default/files/sites/default/files/tcm_logo_antes.jpg" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",TCM (1)
 http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5172
 
-#EXTINF:-1 tvg-logo="http://mareatvcable.com/wp-content/uploads/2017/12/44-tntlogo.png" group-title="PREMIUM BR*",TNT BR*
+#EXTINF:-1 tvg-logo="http://www.brandemia.org/sites/default/files/sites/default/files/tcm_logo_antes.jpg" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",TCM (2)
+
+
+#EXTINF:-1 tvg-logo="http://www.brandemia.org/sites/default/files/sites/default/files/tcm_logo_antes.jpg" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",TCM (3)
+
+
+#EXTINF:-1 tvg-logo="http://www.brandemia.org/sites/default/files/sites/default/files/tcm_logo_antes.jpg" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",TCM (4)
+
+
+#EXTINF:-1 tvg-logo="http://mareatvcable.com/wp-content/uploads/2017/12/44-tntlogo.png" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",TNT (1)
 http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5150
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/cineframe.mx/wp-content/uploads/2017/08/1498152635.png?fit=660%2C660" group-title="PREMIUM BR*",TNT SERIES BR*
+#EXTINF:-1 tvg-logo="http://mareatvcable.com/wp-content/uploads/2017/12/44-tntlogo.png" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",TNT (2)
+
+
+#EXTINF:-1 tvg-logo="http://mareatvcable.com/wp-content/uploads/2017/12/44-tntlogo.png" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",TNT (3)
+
+
+#EXTINF:-1 tvg-logo="http://mareatvcable.com/wp-content/uploads/2017/12/44-tntlogo.png" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",TNT (4)
+
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/cineframe.mx/wp-content/uploads/2017/08/1498152635.png?fit=660%2C660" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",TNT SERIES (1)
 http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5148
 
-#EXTINF:-1 tvg-logo="http://s2.glbimg.com/QQ0n7FZJBvKGjcii_aNn4dvq5f0=/200x200/filters:quality(80)/g.glbimg.com/og/gs/gsat3/f/thumbs/programa/2017/03/09/logo-padrao_5GKjBtK.jpg" group-title="PREMIUM BR*",UNIVERSAL CHANNEL BR*
+#EXTINF:-1 tvg-logo="https://i0.wp.com/cineframe.mx/wp-content/uploads/2017/08/1498152635.png?fit=660%2C660" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",TNT SERIES (2)
+
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/cineframe.mx/wp-content/uploads/2017/08/1498152635.png?fit=660%2C660" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",TNT SERIES (3)
+
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/cineframe.mx/wp-content/uploads/2017/08/1498152635.png?fit=660%2C660" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",TNT SERIES (4)
+
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/QQ0n7FZJBvKGjcii_aNn4dvq5f0=/200x200/filters:quality(80)/g.glbimg.com/og/gs/gsat3/f/thumbs/programa/2017/03/09/logo-padrao_5GKjBtK.jpg" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",UNIVERSAL CHANNEL (1)
 http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5136
 
-#EXTINF:-1 tvg-logo="http://television.com.ar/wp-content/uploads/2016/05/wb.jpg" group-title="PREMIUM BR*",WARNER CHANNEL BR*
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/QQ0n7FZJBvKGjcii_aNn4dvq5f0=/200x200/filters:quality(80)/g.glbimg.com/og/gs/gsat3/f/thumbs/programa/2017/03/09/logo-padrao_5GKjBtK.jpg" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",UNIVERSAL CHANNEL (2)
+
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/QQ0n7FZJBvKGjcii_aNn4dvq5f0=/200x200/filters:quality(80)/g.glbimg.com/og/gs/gsat3/f/thumbs/programa/2017/03/09/logo-padrao_5GKjBtK.jpg" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",UNIVERSAL CHANNEL (3)
+
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/QQ0n7FZJBvKGjcii_aNn4dvq5f0=/200x200/filters:quality(80)/g.glbimg.com/og/gs/gsat3/f/thumbs/programa/2017/03/09/logo-padrao_5GKjBtK.jpg" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",UNIVERSAL CHANNEL (4)
+
+
+#EXTINF:-1 tvg-logo="http://television.com.ar/wp-content/uploads/2016/05/wb.jpg" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",WARNER CHANNEL (1)
 http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5130
+
+#EXTINF:-1 tvg-logo="http://television.com.ar/wp-content/uploads/2016/05/wb.jpg" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",WARNER CHANNEL (2)
+
+
+#EXTINF:-1 tvg-logo="http://television.com.ar/wp-content/uploads/2016/05/wb.jpg" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",WARNER CHANNEL (3)
+
+
+#EXTINF:-1 tvg-logo="http://television.com.ar/wp-content/uploads/2016/05/wb.jpg" group-title="PREMIUM" pltv-subgroup="PREMIUM BRASIL",WARNER CHANNEL (4)
+
 
 ######################################################################################################################################
 ####################################### PREMIUM BR**
