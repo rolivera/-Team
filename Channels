@@ -1278,9 +1278,6 @@ http://fmhot.04.cl.cdnz.cl/fmhot/smil:cdn.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://radioextremacr.com/img/logo.png" group-title="CINE" pltv-subgroup="CINE LATINO",EXTREMA TV
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/W/warner-bros-logo-F4416B5B39-seeklogo.com.jpg" group-title="CINE" pltv-subgroup="CINE LATINO",WARNER MOVIES (3)
-http://23.237.22.230:8000/live/darkiptv89/Hdgsdark.dsafm/127.rtmp
-
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/BUodT2zVtVI_ZpwZURQSvnHu8NUcRtLH7ngHQavhiHeU8FOdv2ptqMleJGhdlE3d5Oo" group-title="CINE" pltv-subgroup="CINE LATINO",PLAY! ACCION
 http://nexusonline.club:25461/carlos/1234/29429
 
@@ -1292,6 +1289,9 @@ http://nexusonline.club:25461/carlos/1234/29428
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/BUodT2zVtVI_ZpwZURQSvnHu8NUcRtLH7ngHQavhiHeU8FOdv2ptqMleJGhdlE3d5Oo" group-title="CINE" pltv-subgroup="CINE LATINO",PLAY! PELICULAS
 http://nexusonline.club:25461/carlos/1234/29424
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/W/warner-bros-logo-F4416B5B39-seeklogo.com.jpg" group-title="CINE" pltv-subgroup="CINE LATINO",WARNER MOVIES (3)
+http://23.237.22.230:8000/live/darkiptv89/Hdgsdark.dsafm/127.rtmp
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/wow-tv.png" group-title="CINE" pltv-subgroup="CINE LATINO",WOW!
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
