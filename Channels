@@ -7,7 +7,7 @@
 https://stream.vagalume.fm/hls/14660050141766497579/aac.m3u8
 ######################################################################################################################################
 ######################################################################################################################################
-#EXTINF:-1 tvg-logo="https://icuscandinavia.se/wp-content/uploads/2017/01/spyera-update.jpg" group-title="Actualizada 07/03/19" , 
+#EXTINF:-1 tvg-logo="https://icuscandinavia.se/wp-content/uploads/2017/01/spyera-update.jpg" group-title="Actualizada 10/03/19" , 
 https://stream.vagalume.fm/hls/14660050141766497579/aac.m3u8
 #####################################################################################################################################
 ######################################################################################################################################
@@ -17,7 +17,7 @@ https://stream.vagalume.fm/hls/14660050141766497579/aac.m3u8
 #######################################
 
 #EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/small/295-2959716_america-2-logo-américa-tv.png" group-title="ARGENTINA",AMERICA
-http://x.mytvxweb.me:25461/live/4854/4854/25670.rtmp
+
 
 #EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/small/295-2959716_america-2-logo-américa-tv.png" group-title="ARGENTINA",AMERICA
 
@@ -29,7 +29,7 @@ http://x.mytvxweb.me:25461/live/4854/4854/25670.rtmp
 http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/playlist.m3u8?GrupoTopIptv
 
 #EXTINF:-1 tvg-logo="http://www.fotosdigitalesgratis.com/noticias/fotos/C5N-Logo.jpg" group-title="ARGENTINA",C5N
-http://x.mytvxweb.me:25461/4854/4854/282410
+
 
 #EXTINF:-1 tvg-logo="http://photocall.tv/images/canal4j.png" group-title="ARGENTINA",CANAL 4 JUJUY LA°
 http://190.52.32.13:1935/canal4/smil:manifest.smil/playlist.m3u8
@@ -62,7 +62,7 @@ http://23.237.36.98:25461/ChiLLi/lasfu342ljkf8ug45123/452
 
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4d/El-Trece-HD-Logo-2011-2016.png/revision/latest?cb=20170721071837" group-title="ARGENTINA",EL TRECE 
-http://x.mytvxweb.me:25461/4854/4854/25666
+
 
 #EXTINF:-1 tvg-logo="https://www.unl.edu.ar/wp-content/uploads/2017/02/litus.png" group-title="ARGENTINA",LITUS LA°
 http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8?GrupoTopIptv
@@ -80,7 +80,7 @@ http://unlimited2-us.dps.live/nettv/nettv.smil/playlist.m3u8
 https://5975e06a1f292.streamlock.net:4443/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://digitalmediawire.com/wp-content/uploads/2016/11/Telefe.jpg" group-title="ARGENTINA",TELEFE 
-http://x.mytvxweb.me:25461/4854/4854/25665
+
 
 #EXTINF:-1 tvg-logo="https://digitalmediawire.com/wp-content/uploads/2016/11/Telefe.jpg" group-title="ARGENTINA",TELEFE
 
@@ -92,10 +92,10 @@ http://kimbogrupol.com:25461/live/444/444/6524.ts
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?iptvgratis?chile.m3u8?GrupoTopIptv
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgFkbskDV-X74CxrRJ0ZB9Zki2awvV7CmpLxBCMEbFJP1z6Pgc" group-title="ARGENTINA",TN 
-http://x.mytvxweb.me:25461/4854/4854/25664
+
 
 #EXTINF:-1 tvg-logo="https://imgsvr.radiocut.com.ar/get/crop/center/200/200/cuts_logos/c7/d1/c7d1f319-1d6c-44ed-a70a-9e38f935fa38.jpg" group-title="ARGENTINA",TV PUBLICA 
-http://x.mytvxweb.me:25461/4854/4854/25663
+
 
 #EXTINF:-1 tvg-logo="https://imgsvr.radiocut.com.ar/get/crop/center/200/200/cuts_logos/c7/d1/c7d1f319-1d6c-44ed-a70a-9e38f935fa38.jpg" group-title="ARGENTINA",TV PUBLICA 
 http://kimbogrupol.com:25461/live/444/444/16472.ts
@@ -279,13 +279,13 @@ http://servelive.net:80/sandro/sandro/8148
 
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/kai6F2R.png" group-title="BRASIL",TV CULTURA
-http://servelive.net:80/randal/randal/1088
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/kai6F2R.png" group-title="BRASIL",TV CULTURA
 
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/kai6F2R.png" group-title="BRASIL",TV CULTURA
-http://servelive.net:80/sandro/sandro/1088
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/kai6F2R.png" group-title="BRASIL",TV CULTURA
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QbosxSO.png" group-title="BRASIL",TV DIARIO
 http://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/chunklist.m3u8
@@ -381,7 +381,7 @@ http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/p
 #######################################
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXNs5DYEziILPGCMH8Ir4eAn6PnMUD9hmhYMmGsRxP_nNL9hC8" group-title="COLOMBIA",CANAL 1
-http://x.mytvxweb.me:25461/4854/4854/248362
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXNs5DYEziILPGCMH8Ir4eAn6PnMUD9hmhYMmGsRxP_nNL9hC8" group-title="COLOMBIA",CANAL 1
 
@@ -390,7 +390,7 @@ http://x.mytvxweb.me:25461/4854/4854/248362
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSetNpXYP8_CJaxAgqNbHdOyLcyrY9eQx7Dvv7X2RQwmpAWxYm9" group-title="COLOMBIA",CARACOL
-http://x.mytvxweb.me:25461/4854/4854/282386
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSetNpXYP8_CJaxAgqNbHdOyLcyrY9eQx7Dvv7X2RQwmpAWxYm9" group-title="COLOMBIA",CARACOL
 http://kimbogrupol.com:25461/live/444/444/17318.ts
@@ -399,7 +399,7 @@ http://kimbogrupol.com:25461/live/444/444/17318.ts
 
 
 #EXTINF:-1 tvg-logo="https://static.telus.com/common/cms/images/tv/satellite/new-channel-logos/CityHD.png" group-title="COLOMBIA",CITY TV
-http://x.mytvxweb.me:25461/4854/4854/282355
+
 
 #EXTINF:-1 tvg-logo="https://static.telus.com/common/cms/images/tv/satellite/new-channel-logos/CityHD.png" group-title="COLOMBIA",CITY TV
 http://kimbogrupol.com:25461/live/444/444/17315.ts
@@ -408,22 +408,22 @@ http://kimbogrupol.com:25461/live/444/444/17315.ts
 
 
 #EXTINF:-1 tvg-logo="https://images.mi.tv/channels/co_cosmovision_m.png" group-title="COLOMBIA",COSMOVISION LA*
-http://x.mytvxweb.me:25461/4854/4854/28384
+
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/959148019479470080/VIP_8lbP_400x400.jpg" group-title="COLOMBIA",MUNDO + LA°
 http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/tvcable/images/b/b4/Ntn24_logo.jpg/revision/latest?cb=20140815232404&path-prefix=es" group-title="COLOMBIA",NTN24 LA*
-http://x.mytvxweb.me:25461/4854/4854/7691
+
 
 #EXTINF:-1 tvg-logo="https://www.vidaentv.com/wp-content/uploads/2015/11/rcn-television.jpg" group-title="COLOMBIA",RCN
-http://x.mytvxweb.me:25461/4854/4854/282113
+
 
 #EXTINF:-1 tvg-logo="https://www.vidaentv.com/wp-content/uploads/2015/11/rcn-television.jpg" group-title="COLOMBIA",RCN
 
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.revistaquetal.com/wp-content/uploads/2013/10/rcn-television.jpg" group-title="COLOMBIA",RCN NOVELAS 
-http://x.mytvxweb.me:25461/4854/4854/282112
+
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.revistaquetal.com/wp-content/uploads/2013/10/rcn-television.jpg" group-title="COLOMBIA",RCN NOVELAS 
 http://kimbogrupol.com:25461/live/444/444/17319.ts
@@ -441,13 +441,13 @@ http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/p
 
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d5/Repretel_4.png/revision/latest/scale-to-width-down/180?cb=20180122210303" group-title="COSTA RICA",CANAL 4 REPRETEL 
-http://x.mytvxweb.me:25461/4854/4854/282338
+
 
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-10Lu4mzgrVQ/UagKmjZFmQI/AAAAAAAABVc/08Wtxo8EHXY/s320/Canal+6.jpg" group-title="COSTA RICA",CANAL 6 REPRETEL 
 
 
 #EXTINF:-1 tvg-logo="https://jeduardo22.files.wordpress.com/2010/09/telenoticias-logo-2.png" group-title="COSTA RICA",CANAL 7 
-http://x.mytvxweb.me:25461/4854/4854/1084
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNL9XjVYTKqNj2E55Uno2o1G7g20VOK0V4zJGVqBL_P4-BTj54" group-title="COSTA RICA",CANAL 11 REPRETEL 
 
@@ -492,7 +492,7 @@ http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/p
 #######################################
 
 #EXTINF:-1 tvg-logo="https://tvenvivo.ec/wp-content/uploads/2018/08/canal-uno-logo.jpg" group-title="ECUADOR",CANAL UNO 
-http://x.mytvxweb.me:25461/4854/4854/25582
+
 
 #EXTINF:-1 tvg-logo="https://tvenvivo.ec/wp-content/uploads/2018/08/canal-uno-logo.jpg" group-title="ECUADOR",CANAL UNO 
 http://kimbogrupol.com:25461/live/444/444/16439.ts
@@ -507,10 +507,10 @@ http://unsecure.streann.com/loadbalancer/services/public/channels/57cef28b2cdc68
 http://kimbogrupol.com:25461/live/444/444/16454.ts
 
 #EXTINF:-1 tvg-logo="http://www.estadio.ec/sites/default/files/field/image/2015/01/15/ecuavisa.jpg" group-title="ECUADOR",ECUAVISA 
-http://x.mytvxweb.me:25461/4854/4854/36109
+
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/24/GamaTV_2006.png/revision/latest?cb=20171031031807" group-title="ECUADOR",GAMA TV 
-http://x.mytvxweb.me:25461/4854/4854/282026
+
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/24/GamaTV_2006.png/revision/latest?cb=20171031031807" group-title="ECUADOR",GAMA TV
 
@@ -753,7 +753,7 @@ https://aztecalive-lh.akamaihd.net/i/0qfv8evsp_1@458764/index_3_av-p.m3u8?sd=10&
 http://23.237.36.98:25461/ChiLLi/lasfu342ljkf8ug45123/445
 
 #EXTINF:-1 tvg-logo="http://www.paredro.com/wp-content/uploads/2016/08/LOGO-LAS-ESTRELLAS.jpg" group-title="MEXICO",CANAL DE LAS ESTRELLAS 
-http://x.mytvxweb.me:25461/4854/4854/16330
+
 
 #EXTINF:-1 tvg-logo="http://www.paredro.com/wp-content/uploads/2016/08/LOGO-LAS-ESTRELLAS.jpg" group-title="MEXICO",CANAL DE LAS ESTRELLAS
 http://kimbogrupol.com:25461/live/444/444/17331.ts
@@ -829,7 +829,7 @@ http://live.gvstream.net:1935/e-tv-video/play.stream/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCpnpvmWOKNc6oZTzEUC-Z-UAQpdxfuN_rAS05HGEZJ_Hsp3PN" group-title="MEXICO",PASIONES
-http://x.mytvxweb.me:25461/4854/4854/27546
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCpnpvmWOKNc6oZTzEUC-Z-UAQpdxfuN_rAS05HGEZJ_Hsp3PN" group-title="MEXICO",PASIONES 
 http://kimbogrupol.com:25461/live/444/444/17332.ts
@@ -1009,10 +1009,10 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIPE0002&mode=12
 
 
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-Mcc2xCpSKWQ/UF6PxaiQZYI/AAAAAAAACQU/BLm5ZUhxzfs/s1600/LOGOTVPERU.jpg" group-title="PERU",TV PERU (PER)
-http://x.mytvxweb.me:25461/4854/4854/282226
+
 
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-Mcc2xCpSKWQ/UF6PxaiQZYI/AAAAAAAACQU/BLm5ZUhxzfs/s1600/LOGOTVPERU.jpg" group-title="PERU",TV PERU HD (PER)
-http://x.mytvxweb.me:25461/4854/4854/25434
+
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/ACSszfEZsuA4Vja3XQ2TOnZRNAoXL01JbQBIDQj-og=s900-mo-c-c0xffffffff-rj-k-no" group-title="PERU",VIA TV
 
@@ -1138,7 +1138,7 @@ http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/p
 #######################################
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B11MDjnDXWY/hq720_live.jpg" group-title="URUGUAY",1000 x HORA
-http://x.mytvxweb.me:25461/4854/4854/296912
+
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/AN66SAx9HXyKSzOeqGhWxWHl2vIugCWMabGvNvrrPA=s900-mo-c-c0xffffffff-rj-k-no" group-title="URUGUAY",CANAL 2 San Carlos
 
@@ -1147,40 +1147,40 @@ http://x.mytvxweb.me:25461/4854/4854/296912
 
 
 #EXTINF:-1 tvg-logo="http://vivotvhd.com/img/cha/504.gif" group-title="URUGUAY",CANAL 7 Punta del Este
-http://x.mytvxweb.me:25461/4854/4854/296902
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfX5FFyAyoReqGZjF1XwGQPPuZhvFoHueZgiZN0Se8hIA3cT0p" group-title="URUGUAY",CANAL 8 Rivera
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjq7DOw1-1Jo40U7EetYbVzPvdRWLpMp2lndDyklZqp5OF_qG_Pw" group-title="URUGUAY",CANAL 12 Melo
-http://x.mytvxweb.me:25461/4854/4854/296908
+
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/891330516087164928/KMLvo3-g_400x400.jpg" group-title="URUGUAY",CANAL U
 
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/AN66SAw1OzI-uSvA_HamSiFLdd6DxN2cEg9tGET7Vw=s900-mo-c-c0xffffffff-rj-k-no" group-title="URUGUAY",CARDINAL TV
-http://x.mytvxweb.me:25461/4854/4854/296899
+
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/AN66SAxZHhm24LmJUWY5O-g4YLs2FIZi9_VIw2_p=s900-mo-c-c0xffffffff-rj-k-no" group-title="URUGUAY",CHARRUA TV
 
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/980360681093582848/qW9qLd1W_400x400.jpg" group-title="URUGUAY",FTC Florida
-http://x.mytvxweb.me:25461/4854/4854/296896
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQU2uqw5gEtjTV2AgBQJBkl4xAzXowEosN47HS77HOtgzKUtfV" group-title="URUGUAY",LA RED Artigas
-http://x.mytvxweb.me:25461/4854/4854/296910
-
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/AAuE7mDX98P76p6hwqqCfGBw0tYa50mGfHWEELa0qQ=s900-mo-c-c0xffffffff-rj-k-no" group-title="URUGUAY",MONTECARLO
 
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/AAuE7mDX98P76p6hwqqCfGBw0tYa50mGfHWEELa0qQ=s900-mo-c-c0xffffffff-rj-k-no" group-title="URUGUAY",MONTECARLO
-http://x.mytvxweb.me:25461/4854/4854/296893
+
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/AAuE7mDX98P76p6hwqqCfGBw0tYa50mGfHWEELa0qQ=s900-mo-c-c0xffffffff-rj-k-no" group-title="URUGUAY",MONTECARLO
+
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/AAuE7mDX98P76p6hwqqCfGBw0tYa50mGfHWEELa0qQ=s900-mo-c-c0xffffffff-rj-k-no" group-title="URUGUAY",MONTECARLO
 
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/912770611419783168/O0rCFK49_400x400.jpg" group-title="URUGUAY",MONTEVIDEO PORTAL
-http://x.mytvxweb.me:25461/4854/4854/296900
+
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/912770611419783168/O0rCFK49_400x400.jpg" group-title="URUGUAY",MONTEVIDEO PORTAL
 http://kimbogrupol.com:25461/live/444/444/4307.ts
@@ -1201,20 +1201,20 @@ http://kimbogrupol.com:25461/live/444/444/4307.ts
 http://kimbogrupol.com:25461/live/444/444/16531.ts
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/AAuE7mDrA_c2X9qw5Km09XpdhtiP12P_4c5LJeK3qA=s900-mo-c-c0xffffffff-rj-k-no" group-title="URUGUAY",TNU
-http://x.mytvxweb.me:25461/4854/4854/296889
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSohgVHNIlVxW0G0V_0VwpxK8QoOOerEiLFWM4F-wHP9wsU6ITf" group-title="URUGUAY",TV CIUDAD
-http://x.mytvxweb.me:25461/4854/4854/296888
+
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1eS8gxcJ1kxicoDvzok6mx560uEa6s41EFmTvdgu00I-kuIPM" group-title="URUGUAY",URUGuAY NATURAL
-http://x.mytvxweb.me:25461/4854/4854/296887
+
 
 #EXTINF:-1 tvg-logo="https://store-images.s-microsoft.com/image/apps.62340.9007199266392866.44565621-b2f5-44e6-88a3-3daad7cf1acc.59e0516a-8265-48a5-aab0-4c851618b006?mode=scale&q=90&h=300&w=300" group-title="URUGUAY",VERA +
 
 
 #EXTINF:-1 tvg-logo="https://mlstaticquic-a.akamaihd.net/2android-tv-box-750-canales-de-cable-canales-uruguayos-y-vtv-D_NQ_NP_884222-MLU26628807182_012018-F.jpg" group-title="URUGUAY",VTV
-http://x.mytvxweb.me:25461/4854/4854/253361
+http://disfruta.net:8000/danielcarranzaq/MphKLaFlye/293
 
 #EXTINF:-1 tvg-logo="https://mlstaticquic-a.akamaihd.net/2android-tv-box-750-canales-de-cable-canales-uruguayos-y-vtv-D_NQ_NP_884222-MLU26628807182_012018-F.jpg" group-title="URUGUAY",VTV
 
@@ -1623,7 +1623,7 @@ http://disfruta.net:8000/live/danielcarranzaq/MphKLaFlye/13971.m3u8
 http://nexusonline.club:25461/carlos/1234/11351
 
 #EXTINF:-1 tvg-logo="https://trademarks.justia.com/media/og_image.php?serial=85957958" group-title="PREMIUM LATINO" pltv-subgroup="PREMIUM LATINO",CINE DINAMITA (4)
-http://kimbogrupol.com:25461/live/444/444/17206.ts
+
 
 #EXTINF:-1 tvg-logo="https://trademarks.justia.com/media/og_image.php?serial=85957958" group-title="PREMIUM LATINO" pltv-subgroup="PREMIUM LATINO",CINE DINAMITA (5)
 
@@ -1719,7 +1719,7 @@ http://disfruta.net:8000/live/danielcarranzaq/MphKLaFlye/16.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://banner2.kisspng.com/20180329/heq/kisspng-logo-of-nbc-television-channel-fox-fox-5abc8ef9dcbf13.5561782615223068099042.jpg" group-title="PREMIUM LATINO" pltv-subgroup="PREMIUM LATINO",FOX (3)
-http://nexusonline.club:25461/carlos/1234/11258
+
 
 #EXTINF:-1 tvg-logo="https://banner2.kisspng.com/20180329/heq/kisspng-logo-of-nbc-television-channel-fox-fox-5abc8ef9dcbf13.5561782615223068099042.jpg" group-title="PREMIUM LATINO" pltv-subgroup="PREMIUM LATINO",FOX (4)
 http://kimbogrupol.com:25461/live/444/444/17205.ts
@@ -1797,7 +1797,7 @@ http://disfruta.net:8000/live/danielcarranzaq/MphKLaFlye/210.m3u8
 http://nexusonline.club:25461/carlos/1234/10985
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-family_m.png" group-title="PREMIUM LATINO" pltv-subgroup="PREMIUM LATINO",FOX FAMILY (4)
-http://kimbogrupol.com:25461/live/444/444/17240.ts
+
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-family_m.png" group-title="PREMIUM LATINO" pltv-subgroup="PREMIUM LATINO",FOX FAMILY (5)
 
@@ -1842,7 +1842,7 @@ http://disfruta.net:8000/live/danielcarranzaq/MphKLaFlye/65.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-1-hd_m.png" group-title="PREMIUM LATINO" pltv-subgroup="PREMIUM LATINO",FOX SERIES (3)
-http://nexusonline.club:25461/carlos/1234/10991
+
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-1-hd_m.png" group-title="PREMIUM LATINO" pltv-subgroup="PREMIUM LATINO",FOX SERIES (4)
 http://kimbogrupol.com:25461/live/444/444/17320.ts
@@ -1947,7 +1947,7 @@ http://disfruta.net:8000/live/danielcarranzaq/MphKLaFlye/123.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2qqrrq69tbnXtGqAxErNZls8cvkG9YvGCguCYIP5hYkbuHD2K" group-title="PREMIUM LATINO" pltv-subgroup="PREMIUM LATINO",HBO (3)
-http://nexusonline.club:25461/carlos/1234/19448
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2qqrrq69tbnXtGqAxErNZls8cvkG9YvGCguCYIP5hYkbuHD2K" group-title="PREMIUM LATINO" pltv-subgroup="PREMIUM LATINO",HBO (4)
 http://kimbogrupol.com:25461/live/444/444/17135.ts
@@ -1980,7 +1980,7 @@ http://disfruta.net:8000/live/danielcarranzaq/MphKLaFlye/124.m3u8
 http://nexusonline.club:25461/carlos/1234/11011
 
 #EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/hbo-family-logo-320x320-745790760.png" group-title="PREMIUM LATINO" pltv-subgroup="PREMIUM LATINO",HBO FAMILY (4)
-http://kimbogrupol.com:25461/live/444/444/17227.ts
+
 
 #EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/hbo-family-logo-320x320-745790760.png" group-title="PREMIUM LATINO" pltv-subgroup="PREMIUM LATINO",HBO FAMILY (5)
 
@@ -2115,7 +2115,7 @@ http://23.237.36.98:25461/ChiLLi/lasfu342ljkf8ug45123/115
 http://nexusonline.club:25461/carlos/1234/11044
 
 #EXTINF:-1 tvg-logo="http://www.cable10.com/imagenes/programacion/canales_0013s_0006_Layer%2044.jpg" group-title="PREMIUM LATINO" pltv-subgroup="PREMIUM LATINO",SONY (4)
-http://kimbogrupol.com:25461/live/444/444/17212.ts
+
 
 #EXTINF:-1 tvg-logo="http://www.cable10.com/imagenes/programacion/canales_0013s_0006_Layer%2044.jpg" group-title="PREMIUM LATINO" pltv-subgroup="PREMIUM LATINO",SONY (5)
 
@@ -2175,7 +2175,7 @@ http://23.237.36.98:25461/ChiLLi/lasfu342ljkf8ug45123/416
 
 
 #EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/011/original/pic_tbs.png?1522176341" group-title="PREMIUM LATINO" pltv-subgroup="PREMIUM LATINO",TBS (4)
-http://kimbogrupol.com:25461/live/444/444/17155.ts
+
 
 #EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/011/original/pic_tbs.png?1522176341" group-title="PREMIUM LATINO" pltv-subgroup="PREMIUM LATINO",TBS (5)
 
@@ -3047,13 +3047,13 @@ http://servelive.net:80/sandro/sandro/8021
 
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/ACSszfEp7PGHvg1oEXnVYaOO3P7K36xNfjlOa8dLeA=s900-mo-c-c0xffffffff-rj-k-no" group-title="VARIEDADES" pltv-subgroup="VARIEDADES BRASIL",LIFETIME
-http://servelive.net:80/randal/randal/8002
-
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/ACSszfEp7PGHvg1oEXnVYaOO3P7K36xNfjlOa8dLeA=s900-mo-c-c0xffffffff-rj-k-no" group-title="VARIEDADES" pltv-subgroup="VARIEDADES BRASIL",LIFETIME
 
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/ACSszfEp7PGHvg1oEXnVYaOO3P7K36xNfjlOa8dLeA=s900-mo-c-c0xffffffff-rj-k-no" group-title="VARIEDADES" pltv-subgroup="VARIEDADES BRASIL",LIFETIME
-http://servelive.net:80/sandro/sandro/8002
+
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/ACSszfEp7PGHvg1oEXnVYaOO3P7K36xNfjlOa8dLeA=s900-mo-c-c0xffffffff-rj-k-no" group-title="VARIEDADES" pltv-subgroup="VARIEDADES BRASIL",LIFETIME
+
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/ACSszfEp7PGHvg1oEXnVYaOO3P7K36xNfjlOa8dLeA=s900-mo-c-c0xffffffff-rj-k-no" group-title="VARIEDADES" pltv-subgroup="VARIEDADES BRASIL",LIFETIME
 
@@ -3281,7 +3281,7 @@ http://nexusonline.club:25461/carlos/1234/11037
 http://23.237.36.98:25461/ChiLLi/lasfu342ljkf8ug45123/431
 
 #EXTINF:-1 tvg-logo="https://orig00.deviantart.net/73ec/f/2016/215/c/4/nick_2_new_logo_concept_by_misterguydom15-dacgqnb.png" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",NICK 2 (3)
-http://nexusonline.club:25461/carlos/1234/17264
+
 
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41DAgNJEGkL._SY355_.png" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",NICK JR (1)
 
@@ -3498,10 +3498,10 @@ http://servelive.net:80/sandro/sandro/7903
 
 
 #EXTINF:-1 tvg-logo="https://static1.squarespace.com/static/53d0472ce4b07de11ec7e3cc/t/53e39f57e4b0aa880a303a1e/1407426426257/" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTIS BRASIL",ZOOMOO
-http://servelive.net:80/randal/randal/7007
+
 
 #EXTINF:-1 tvg-logo="https://static1.squarespace.com/static/53d0472ce4b07de11ec7e3cc/t/53e39f57e4b0aa880a303a1e/1407426426257/" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTIS BRASIL",ZOOMOO
-http://servelive.net:80/sandro/sandro/7007
+
 
 ######################################################################################################################################
 ####################################### RELIGIOSOS
@@ -3574,7 +3574,7 @@ http://servelive.net:80/randal/randal/8137
 http://servelive.net:80/sandro/sandro/8137
 
 #EXTINF:-1 tvg-logo="http://photocall.tv/images/cablenoticias.png" group-title="NOTICIAS",CABLE NOTICIAS
-http://kimbogrupol.com:25461/live/444/444/17305.ts
+
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/ACSszfGisYWNpmm3w7q0GU_tzvbjg7dPdW6FiVdYgw=s900-mo-c-c0xffffffff-rj-k-no" group-title="NOTICIAS",CANAL 26 (ARG)
 http://200.115.193.177/live/26hd-180/playlist.m3u8?GrupoTopIptv
@@ -3583,7 +3583,7 @@ http://200.115.193.177/live/26hd-180/playlist.m3u8?GrupoTopIptv
 
 
 #EXTINF:-1 tvg-logo="http://www.vgl.cl/wp-content/uploads/2014/09/0006_Logo_cnnchile.png" group-title="NOTICIAS",CNN (CHI)
-http://kimbogrupol.com:25461/live/444/444/7637.ts
+
 
 #EXTINF:-1 tvg-logo="http://penplusbytes.org/wp-content/uploads/2017/05/DW.png" group-title="NOTICIAS",DW (LAT)
 
@@ -3794,7 +3794,7 @@ http://nexusonline.club:25461/carlos/1234/11035
 
 
 #EXTINF:-1 tvg-logo="https://cdn.reweb.io/hagah/image/mXBvojVRVzVLXAmTE8j9U0Io8c4=/300x300/top/smart/hagah/2/29/tlc-hd-2988cf2d.jpg" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",TLC (3)
-http://nexusonline.club:25461/carlos/1234/11051
+
 
 ######################################################################################################################################
 #######################################
@@ -4049,7 +4049,7 @@ http://23.237.36.98:25461/ChiLLi/lasfu342ljkf8ug45123/2
 http://23.237.36.98:25461/ChiLLi/lasfu342ljkf8ug45123/118
 
 #EXTINF:-1  tvg-logo="https://media.licdn.com/dms/image/C4D0BAQGTTj90nz952A/company-logo_200_200/0?e=2159024400&v=beta&t=fyyXIX6ZqM1n4nKm6d3zO1UbLFEiiMiAcTGeVWg84Tw" group-title="DEPORTES/ESPORTES",BEIN LA LIGA (3)
-http://nexusonline.club:25461/carlos/1234/15272
+
 
 #EXTINF:-1  tvg-logo="https://media.licdn.com/dms/image/C4D0BAQGTTj90nz952A/company-logo_200_200/0?e=2159024400&v=beta&t=fyyXIX6ZqM1n4nKm6d3zO1UbLFEiiMiAcTGeVWg84Tw" group-title="DEPORTES/ESPORTES",BEIN 1 HD (2)
 http://23.237.36.98:25461/ChiLLi/lasfu342ljkf8ug45123/119
@@ -4061,7 +4061,7 @@ http://nexusonline.club:25461/carlos/1234/15202
 
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/02/bolivia-deportes.png" group-title="DEPORTES/ESPORTES",BOLIVIA DEPORTES
-http://btvboliviatv.srfms.com:6568/live/livestream/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.paywizard.com/wp-content/uploads/2016/09/boxnation.png" group-title="DEPORTES/ESPORTES",BOX NATION USA
 
@@ -4073,7 +4073,7 @@ http://btvboliviatv.srfms.com:6568/live/livestream/playlist.m3u8
 http://disfruta.net:8000/danielcarranzaq/MphKLaFlye/261
 
 #EXTINF:-1 tvg-logo="http://images-us.ott.kaltura.com/Service.svc/GetImage/p/313/entry_id/0180e0b8b26a42a692bf5a4304337e7a_1/version/16/width/282/height/158/quality/100" group-title="DEPORTES/ESPORTES",CDF HD (3)
-http://nexusonline.club:25461/carlos/1234/15169
+
 
 #EXTINF:-1 tvg-logo="http://images-us.ott.kaltura.com/Service.svc/GetImage/p/313/entry_id/0180e0b8b26a42a692bf5a4304337e7a_1/version/16/width/282/height/158/quality/100" group-title="DEPORTES/ESPORTES",CDF
 http://kimbogrupol.com:25461/live/444/444/16598.ts
@@ -4082,7 +4082,7 @@ http://kimbogrupol.com:25461/live/444/444/16598.ts
 http://disfruta.net:8000/danielcarranzaq/MphKLaFlye/505
 
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/cl_cdf-basico_m.png" group-title="DEPORTES/ESPORTES",CDF BASICO (3)
-http://nexusonline.club:25461/carlos/1234/15450
+
 
 #EXTINF:-1 tvg-logo="https://api.dondeloveo.com/api/media/images/1502125045.557Estadio%20CDF%20200x200.png" group-title="DEPORTES/ESPORTES",CDF ESTADIO
 http://kimbogrupol.com:25461/live/444/444/16592.ts
@@ -4103,13 +4103,13 @@ http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
 http://disfruta.net:8000/danielcarranzaq/MphKLaFlye/12482
 
 #EXTINF:-1 tvg-logo="https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2018/06/cdo.png?fit=800%2C500" group-title="DEPORTES/ESPORTES",CDO PREMIUM (3)
-http://nexusonline.club:25461/carlos/1234/15463
+
 
 #EXTINF:-1 tvg-logo="http://unicablemargarita.com/images/channel/claro_sport.jpg" group-title="DEPORTES/ESPORTES",CLARO SPORTS
-http://kimbogrupol.com:25461/live/444/444/17189.ts
+
 
 #EXTINF:-1 tvg-logo="http://unicablemargarita.com/images/channel/claro_sport.jpg" group-title="DEPORTES/ESPORTES",CLARO SPORTS
-http://kimbogrupol.com:25461/live/444/444/17188.ts
+
 
 #EXTINF:-1 tvg-logo="http://unicablemargarita.com/images/channel/claro_sport.jpg" group-title="DEPORTES/ESPORTES",CLARO SPORTS (1)
 http://disfruta.net:8000/danielcarranzaq/MphKLaFlye/23482
@@ -4178,7 +4178,7 @@ http://23.237.36.98:25461/ChiLLi/lasfu342ljkf8ug45123/56
 http://23.237.36.98:25461/ChiLLi/lasfu342ljkf8ug45123/64
 
 #EXTINF:-1  tvg-logo="https://www.digitaltveurope.com/files/2017/09/ELEVEN-SPORTS-logo1.png" group-title="DEPORTES/ESPORTES",ELEVEN SPORTS 1 (3)
-http://nexusonline.club:25461/carlos/1234/29060
+
 
 #EXTINF:-1  tvg-logo="https://b2cproductionsite-be80wkthrgjjkmzuip0.netdna-ssl.com/sites/b2c/files/elevensports_2_icon_20171214.png" group-title="DEPORTES/ESPORTES",ELEVEN SPORTS 2 (1)
 http://disfruta.net:8000/danielcarranzaq/MphKLaFlye/23190
@@ -4277,7 +4277,7 @@ http://servelive.net:80/sandro/sandro/8084
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1QulOdJiI4y40HNstbsqUteCyCjpYUPe7Q3vq1J4ma4FE5SzH" group-title="DEPORTES/ESPORTES",ESPN NEWS USA (3)
-http://nexusonline.club:25461/carlos/1234/29052
+
 
 #EXTINF:-1 tvg-logo="https://satsis.info/uploads/posts/2016-01/1453717931_www.satsis.info__eurosport-1.jpg" group-title="DEPORTES/ESPORTES",EUROSPORT 1 ESP
 
@@ -4304,7 +4304,7 @@ http://disfruta.net:8000/danielcarranzaq/MphKLaFlye/3561
 http://disfruta.net:8000/danielcarranzaq/MphKLaFlye/3526
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3siiXt2YMBgW_LL0mfXCpTWNAwQ8t6IvyPMbCs76NSZrx7ti6NQ" group-title="DEPORTES/ESPORTES",FOX SPORTS CHILE (3)
-http://nexusonline.club:25461/carlos/1234/15241
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3siiXt2YMBgW_LL0mfXCpTWNAwQ8t6IvyPMbCs76NSZrx7ti6NQ" group-title="DEPORTES/ESPORTES",FOX SPORTS MEXICO (3)
 http://nexusonline.club:25461/carlos/1234/15247
@@ -4415,7 +4415,7 @@ http://23.237.36.98:25461/ChiLLi/lasfu342ljkf8ug45123/52
 http://nexusonline.club:25461/carlos/1234/15188
 
 #EXTINF:-1 tvg-logo="https://www.thematv.com/medias/channels/latin-american-sports/logo.png" group-title="DEPORTES/ESPORTES",L.A.S. (2)
-http://23.237.36.98:25461/ChiLLi/lasfu342ljkf8ug45123/440
+
 
 #EXTINF:-1 tvg-logo="http://orientalnewsng.com/wp-content/uploads/2018/05/LaLiga.png" group-title="DEPORTES/ESPORTES",LA LIGA (1)
 http://disfruta.net:8000/danielcarranzaq/MphKLaFlye/161
@@ -4424,7 +4424,7 @@ http://disfruta.net:8000/danielcarranzaq/MphKLaFlye/161
 http://nexusonline.club:25461/carlos/1234/28823
 
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052014/mlb.png?itok=wlvCELtf" group-title="DEPORTES/ESPORTES",MLB USA (3)
-http://nexusonline.club:25461/carlos/1234/28972
+
 
 #EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-deportes1.jpg.pagespeed.ic.SoG88VrpZw.jpg" group-title="DEPORTES/ESPORTES",MOVISTAR DEPORTES (1)
 http://disfruta.net:8000/danielcarranzaq/MphKLaFlye/235
@@ -4448,7 +4448,7 @@ http://disfruta.net:8000/danielcarranzaq/MphKLaFlye/22096
 http://23.237.36.98:25461/ChiLLi/lasfu342ljkf8ug45123/111
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrdFT_eEcxaAb9Y_dw5XjbJvNz_xeAZ1M3zj1d_fKDuqg-Ebbe" group-title="DEPORTES/ESPORTES",NBA TV (3)
-http://nexusonline.club:25461/carlos/1234/28961
+
 
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/--s7q1XyGWug/WhR5gObOa0I/AAAAAAAAe-g/6SEOR4cFePE6YBcI1VxIPvKsUiD1Kr8PgCK4BGAYYCw/s1600/pfc.png" group-title="DEPORTES/ESPORTES",PREMIERE CLUBES BR
 http://servelive.net:80/randal/randal/1158
@@ -4481,7 +4481,7 @@ http://servelive.net:80/randal/randal/42423
 http://23.237.36.98:25461/ChiLLi/lasfu342ljkf8ug45123/398
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgaAs-ynR0vyCz-DvucVhnnE-WP2XSqjiMYBqmzOoCBiALLd26" group-title="DEPORTES/ESPORTES",REAL MADRID (ES)
-http://disfruta.net:8000/danielcarranzaq/MphKLaFlye/183
+
 
 #EXTINF:-1 tvg-logo="https://www.red24presenters.com/wp-content/uploads/2016/10/Becky-Ives-Red-Bull-TV.jpg" group-title="DEPORTES/ESPORTES",REDBULL TV
 http://iptv.matthuisman.nz/nz/tv.redbull.tv.m3u8
@@ -4553,19 +4553,19 @@ https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d
 http://disfruta.net:8000/danielcarranzaq/MphKLaFlye/14004
 
 #EXTINF:-1 tvg-logo="https://deltafonts.com/wp-content/uploads/Tennis-Channel-logo.png" group-title="DEPORTES/ESPORTES",TENNIS CHANNEL (3)
-http://nexusonline.club:25461/carlos/1234/28871
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz3Y5mg3o0aX87BOiSoTIAlUKlaU-ETgViXoPUSzuy9pnUJxi5" group-title="DEPORTES/ESPORTES",TDN (1)
 http://disfruta.net:8000/danielcarranzaq/MphKLaFlye/143
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz3Y5mg3o0aX87BOiSoTIAlUKlaU-ETgViXoPUSzuy9pnUJxi5" group-title="DEPORTES/ESPORTES",TDN (3)
-http://nexusonline.club:25461/carlos/1234/19388
+
 
 #EXTINF:-1 tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/3950.png" group-title="DEPORTES/ESPORTES",TNT SPORTS (1)
 
 
 #EXTINF:-1 tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/3950.png" group-title="DEPORTES/ESPORTES",TNT SPORTS (3)
-http://nexusonline.club:25461/carlos/1234/8908
+
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e1/TVC_Deportes_%282016-_%29.png/revision/latest?cb=20160124184041" group-title="DEPORTES/ESPORTES",TVC DEPORTES (1)
 http://disfruta.net:8000/danielcarranzaq/MphKLaFlye/23554
@@ -4604,7 +4604,7 @@ http://disfruta.net:8000/danielcarranzaq/MphKLaFlye/293
 http://disfruta.net:8000/danielcarranzaq/MphKLaFlye/120
 
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/022015/win_sports.png?itok=jmwV9nOn" group-title="DEPORTES/ESPORTES",WIN SPORTS
-http://kimbogrupol.com:25461/live/444/444/17353.ts
+
 
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/022015/win_sports.png?itok=jmwV9nOn" group-title="DEPORTES/ESPORTES",WIN SPORTS (3)
 http://nexusonline.club:25461/carlos/1234/11064
