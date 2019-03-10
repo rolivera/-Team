@@ -55,8 +55,8 @@ http://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/433043324698501120/liWhZUAW_400x400.jpeg" group-title="ARGENTINA",EL GARAGE (1)
 http://micine.club:25461/hlhapp/7778881hlhhaaaa/2005
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/433043324698501120/liWhZUAW_400x400.jpeg" group-title="ARGENTINA",EL GARAGE
-
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/433043324698501120/liWhZUAW_400x400.jpeg" group-title="ARGENTINA",EL GARAGE (2)
+http://23.237.36.98:25461/ChiLLi/lasfu342ljkf8ug45123/452
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-vkeG0RQIHnE/WGhvc62WN2I/AAAAAAAABVY/BYhPhbmV8PkibYnkoMh4oUswZ2JLVp_7QCLcB/s1600/elnuevenuevo.png" group-title="ARGENTINA",EL NUEVE 
 
@@ -704,6 +704,9 @@ http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/p
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt5Vajs_m05gP1BzGWfu5iJ5GIGi7xWeXpnCgFDhuuFG_Xx9g4" group-title="MEXICO",ADN 40 
 http://x.mytvxweb.me:25461/4854/4854/39614
 
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_a_m.png" group-title="MEXICO",APLUS
+http://23.237.36.98:25461/ChiLLi/lasfu342ljkf8ug45123/476
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8nx1IJG-alN8kVZ9TAr15zFOv5IDgWWKi4hpj03wGHytpEaFA" group-title="MEXICO",AZ CINEMA (1)
 http://micine.club:25461/hlhapp/7778881hlhhaaaa/2076
 
@@ -747,7 +750,7 @@ https://aztecalive-lh.akamaihd.net/i/0qfv8evsp_1@458764/index_3_av-p.m3u8?sd=10&
 
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_04/large.58f3a89dbca56_CadenaH.png.92c316bdc55cf1f2148eac61f66b9cab.png" group-title="MEXICO",CADENA H (MEX)
-
+http://23.237.36.98:25461/ChiLLi/lasfu342ljkf8ug45123/445
 
 #EXTINF:-1 tvg-logo="http://www.paredro.com/wp-content/uploads/2016/08/LOGO-LAS-ESTRELLAS.jpg" group-title="MEXICO",CANAL DE LAS ESTRELLAS 
 http://x.mytvxweb.me:25461/4854/4854/16330
@@ -769,6 +772,9 @@ http://micine.club:25461/hlhapp/7778881hlhhaaaa/2064
 
 #EXTINF:-1 tvg-logo="http://startvmexico.com.mx/images/gala2.png?crc=3866086483" group-title="MEXICO",CANAL 9 (1)
 http://micine.club:25461/hlhapp/7778881hlhhaaaa/2006
+
+#EXTINF:-1 tvg-logo="http://startvmexico.com.mx/images/gala2.png?crc=3866086483" group-title="MEXICO",CANAL 9 (2)
+http://23.237.36.98:25461/ChiLLi/lasfu342ljkf8ug45123/420
 
 #EXTINF:-1 tvg-logo="https://i.vimeocdn.com/portrait/8846221_300x300.jpg" group-title="MEXICO",CANAL 10 CANCUN (MEX)
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8?GrupoTopIptv
@@ -807,11 +813,14 @@ http://micine.club:25461/hlhapp/7778881hlhhaaaa/2023
 #EXTINF:-1 tvg-logo="http://www.detec-altech.com/images/page-4_img1.jpg" group-title="MEXICO",MEXIQUENSE (1)
 http://micine.club:25461/hlhapp/7778881hlhhaaaa/1980
 
+#EXTINF:-1 tvg-logo="http://www.detec-altech.com/images/page-4_img1.jpg" group-title="MEXICO",MEXIQUENSE (2)
+http://23.237.36.98:25461/ChiLLi/lasfu342ljkf8ug45123/437
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DHOocZiU0AE30ro.png" group-title="MEXICO",MULTIMEDIOS (MEX)
 http://mdstrm.com/live-stream-playlist_400/57b4dbf5dbbfc8f16bb63ce1.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DHOocZiU0AE30ro.png" group-title="MEXICO",MULTIMEDIOS 
-
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DHOocZiU0AE30ro.png" group-title="MEXICO",MULTIMEDIOS (2) 
+http://23.237.36.98:25461/ChiLLi/lasfu342ljkf8ug45123/429
 
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/MULTIMEDIOS.png" group-title="MEXICO",MULTIMEDIOS + (MEX)
 http://live.gvstream.net:1935/e-tv-video/play.stream/playlist.m3u8
@@ -825,8 +834,8 @@ http://x.mytvxweb.me:25461/4854/4854/27546
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCpnpvmWOKNc6oZTzEUC-Z-UAQpdxfuN_rAS05HGEZJ_Hsp3PN" group-title="MEXICO",PASIONES 
 http://kimbogrupol.com:25461/live/444/444/17332.ts
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1080217581494009857/ompOuCqn_400x400.jpg" group-title="MEXICO",QUIERO TV (MEX)
-
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1080217581494009857/ompOuCqn_400x400.jpg" group-title="MEXICO",QUIERO TV (2)
+http://23.237.36.98:25461/ChiLLi/lasfu342ljkf8ug45123/428
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnTfYW5smsPNYCODuY31nAo_3knXziFgP4UhILhVTpqqFIyJM5" group-title="MEXICO",RTQ (MEX)
 
@@ -837,14 +846,14 @@ http://micine.club:25461/hlhapp/7778881hlhhaaaa/1837
 #EXTINF:-1 tvg-logo="https://www.broadcastingcable.com/.image/t_share/MTU0MjAzNTE1NDI2MTIxMDcw/telemundo-station-group-hi-res_previewjpeg.jpg" group-title="MEXICO",TELEMUNDO 
 http://kimbogrupol.com:25461/live/444/444/17333.ts
 
-#EXTINF:-1 tvg-logo="https://www.alliance4creativity.com/wp-content/uploads/2017/06/GRUPO-TELEVISA-LOGO.png" group-title="MEXICO",TELEVISA
-http://kimbogrupol.com:25461/live/444/444/17337.ts
+#EXTINF:-1 tvg-logo="https://www.alliance4creativity.com/wp-content/uploads/2017/06/GRUPO-TELEVISA-LOGO.png" group-title="MEXICO",TELEVISA (2)
+http://23.237.36.98:25461/ChiLLi/lasfu342ljkf8ug45123/403
 
 #EXTINF:-1 tvg-logo="http://blancolorenz.com/wp-content/uploads/2012/06/TLNovelas.png" group-title="MEXICO",TLNOVELAS (1)
 http://micine.club:25461/hlhapp/7778881hlhhaaaa/1943
 
-#EXTINF:-1 tvg-logo="http://blancolorenz.com/wp-content/uploads/2012/06/TLNovelas.png" group-title="MEXICO",TLNOVELAS
-http://kimbogrupol.com:25461/live/444/444/17336.ts
+#EXTINF:-1 tvg-logo="http://blancolorenz.com/wp-content/uploads/2012/06/TLNovelas.png" group-title="MEXICO",TLNOVELAS (2)
+http://23.237.36.98:25461/ChiLLi/lasfu342ljkf8ug45123/405
 
 #EXTINF:-1 tvg-logo="http://blancolorenz.com/wp-content/uploads/2012/06/TLNovelas.png" group-title="MEXICO",TLNOVELAS 
 http://kimbogrupol.com:25461/live/444/444/16679.ts
@@ -2827,6 +2836,9 @@ http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/p
 #EXTINF:-1 tvg-logo="http://www.logotypes101.com/logos/369/4E6FF8D73A16CA6B1A72995ECB1B5380/eentertainment.png" group-title="VARIEDADES" pltv-subgroup="VARIEDADES LATINO",E! (1)
 http://micine.club:25461/hlhapp/7778881hlhhaaaa/2035
 
+#EXTINF:-1 tvg-logo="http://www.logotypes101.com/logos/369/4E6FF8D73A16CA6B1A72995ECB1B5380/eentertainment.png" group-title="VARIEDADES" pltv-subgroup="VARIEDADES LATINO",E! (2)
+http://23.237.36.98:25461/ChiLLi/lasfu342ljkf8ug45123/456
+
 #EXTINF:-1 tvg-logo="http://www.logotypes101.com/logos/369/4E6FF8D73A16CA6B1A72995ECB1B5380/eentertainment.png" group-title="VARIEDADES" pltv-subgroup="VARIEDADES LATINO",E! (3)
 
 
@@ -2842,14 +2854,14 @@ http://nexusonline.club:25461/carlos/1234/10971
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpDsgfCUrov92J-y6RCge-3UYBBYhUED5diLnE_kbO1sjwdaZl" group-title="VARIEDADES" pltv-subgroup="VARIEDADES LATINO",FILM & ARTS (1)
 http://micine.club:25461/hlhapp/7778881hlhhaaaa/2025
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpDsgfCUrov92J-y6RCge-3UYBBYhUED5diLnE_kbO1sjwdaZl" group-title="VARIEDADES" pltv-subgroup="VARIEDADES LATINO",FILM & ARTS (3)
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpDsgfCUrov92J-y6RCge-3UYBBYhUED5diLnE_kbO1sjwdaZl" group-title="VARIEDADES" pltv-subgroup="VARIEDADES LATINO",FILM & ARTS (2)
+http://23.237.36.98:25461/ChiLLi/lasfu342ljkf8ug45123/447
 
 #EXTINF:-1 tvg-logo="https://c7.uihere.com/files/345/921/237/food-network-chef-television-cooking-salamander-thumb.jpg" group-title="VARIEDADES" pltv-subgroup="VARIEDADES LATINO",,FOOD NETWORK (1)
 http://micine.club:25461/hlhapp/7778881hlhhaaaa/2024
 
-#EXTINF:-1 tvg-logo="https://c7.uihere.com/files/345/921/237/food-network-chef-television-cooking-salamander-thumb.jpg" group-title="VARIEDADES" pltv-subgroup="VARIEDADES LATINO",,FOOD NETWORK (3)
-
+#EXTINF:-1 tvg-logo="https://c7.uihere.com/files/345/921/237/food-network-chef-television-cooking-salamander-thumb.jpg" group-title="VARIEDADES" pltv-subgroup="VARIEDADES LATINO",,FOOD NETWORK (2)
+http://23.237.36.98:25461/ChiLLi/lasfu342ljkf8ug45123/450
 
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/cl_glitz_m.png" group-title="VARIEDADES" pltv-subgroup="VARIEDADES LATINO",GLITZ (1)
 http://micine.club:25461/hlhapp/7778881hlhhaaaa/2004
@@ -2866,14 +2878,14 @@ http://micine.club:25461/hlhapp/7778881hlhhaaaa/1990
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/ACSszfEp7PGHvg1oEXnVYaOO3P7K36xNfjlOa8dLeA=s900-mo-c-c0xffffffff-rj-k-no" group-title="VARIEDADES" pltv-subgroup="VARIEDADES LATINO",LIFETIME (1)
 http://micine.club:25461/hlhapp/7778881hlhhaaaa/1982
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/ACSszfEp7PGHvg1oEXnVYaOO3P7K36xNfjlOa8dLeA=s900-mo-c-c0xffffffff-rj-k-no" group-title="VARIEDADES" pltv-subgroup="VARIEDADES LATINO",LIFETIME (3)
-
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/ACSszfEp7PGHvg1oEXnVYaOO3P7K36xNfjlOa8dLeA=s900-mo-c-c0xffffffff-rj-k-no" group-title="VARIEDADES" pltv-subgroup="VARIEDADES LATINO",LIFETIME (2)
+http://23.237.36.98:25461/ChiLLi/lasfu342ljkf8ug45123/439
 
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/co_mas-chic_m.png" group-title="VARIEDADES" pltv-subgroup="VARIEDADES LATINO",MAS CHIC (1)
 http://micine.club:25461/hlhapp/7778881hlhhaaaa/1981
 
-#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/co_mas-chic_m.png" group-title="VARIEDADES" pltv-subgroup="VARIEDADES LATINO",MAS CHIC (3)
-
+#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/co_mas-chic_m.png" group-title="VARIEDADES" pltv-subgroup="VARIEDADES LATINO",MAS CHIC (2)
+http://23.237.36.98:25461/ChiLLi/lasfu342ljkf8ug45123/430
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqFfU8Q49GFdCA9rZu7NgFORWKevGBPT8VPnX1Hqf2Y5SCnGfo" group-title="VARIEDADES" pltv-subgroup="VARIEDADES LATINO",MTV (1)
 http://micine.club:25461/hlhapp/7778881hlhhaaaa/1977
@@ -2884,11 +2896,17 @@ http://nexusonline.club:25461/carlos/1234/11027
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa0Rmh3V4qCtCr2nPFYBe3QvbmnXIGxnita44zp0rtYJoxgGh_" group-title="VARIEDADES" pltv-subgroup="VARIEDADES LATINO",MTV HITS (1)
 http://micine.club:25461/hlhapp/7778881hlhhaaaa/1976
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa0Rmh3V4qCtCr2nPFYBe3QvbmnXIGxnita44zp0rtYJoxgGh_" group-title="VARIEDADES" pltv-subgroup="VARIEDADES LATINO",MTV HITS (2)
+http://23.237.36.98:25461/ChiLLi/lasfu342ljkf8ug45123/436
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa0Rmh3V4qCtCr2nPFYBe3QvbmnXIGxnita44zp0rtYJoxgGh_" group-title="VARIEDADES" pltv-subgroup="VARIEDADES LATINO",MTV HITS (3)
 
 
 #EXTINF:-1 tvg-logo="https://images.mi.tv/channels/co_mtv-live-hd_m.png" group-title="VARIEDADES" pltv-subgroup="VARIEDADES LATINO",MTV LIVE (1)
 http://micine.club:25461/hlhapp/7778881hlhhaaaa/1975
+
+#EXTINF:-1 tvg-logo="https://images.mi.tv/channels/co_mtv-live-hd_m.png" group-title="VARIEDADES" pltv-subgroup="VARIEDADES LATINO",MTV LIVE (2)
+http://23.237.36.98:25461/ChiLLi/lasfu342ljkf8ug45123/435
 
 #EXTINF:-1 tvg-logo="https://images.mi.tv/channels/co_mtv-live-hd_m.png" group-title="VARIEDADES" pltv-subgroup="VARIEDADES LATINO",MTV LIVE (3)
 http://nexusonline.club:25461/carlos/1234/11029
@@ -2896,8 +2914,14 @@ http://nexusonline.club:25461/carlos/1234/11029
 #EXTINF:-1 tvg-logo="https://www.totalplay.com.mx/images/logos/canales/adultos/she.png" group-title="VARIEDADES" pltv-subgroup="VARIEDADES LATINO",SHE (1)
 http://micine.club:25461/hlhapp/7778881hlhhaaaa/1958
 
+#EXTINF:-1 tvg-logo="https://www.totalplay.com.mx/images/logos/canales/adultos/she.png" group-title="VARIEDADES" pltv-subgroup="VARIEDADES LATINO",SHE (2)
+http://23.237.36.98:25461/ChiLLi/lasfu342ljkf8ug45123/422
+
 #EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/050/original/pic_sundancetv.png?1522177375" group-title="VARIEDADES" pltv-subgroup="VARIEDADES LATINO",SUNDANCE (1)
 http://micine.club:25461/hlhapp/7778881hlhhaaaa/1954
+
+#EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/050/original/pic_sundancetv.png?1522177375" group-title="VARIEDADES" pltv-subgroup="VARIEDADES LATINO",SUNDANCE (2)
+http://23.237.36.98:25461/ChiLLi/lasfu342ljkf8ug45123/423
 
 #EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/050/original/pic_sundancetv.png?1522177375" group-title="VARIEDADES" pltv-subgroup="VARIEDADES LATINO",SUNDANCE (3)
 http://nexusonline.club:25461/carlos/1234/11047
@@ -2907,6 +2931,9 @@ http://nexusonline.club:25461/carlos/1234/11047
 
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/b15356ee-546f-4760-b04c-3772d6949002_m.jpg" group-title="VARIEDADES" pltv-subgroup="VARIEDADES LATINO",TRUTV (1)
 http://micine.club:25461/hlhapp/7778881hlhhaaaa/1939
+
+#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/b15356ee-546f-4760-b04c-3772d6949002_m.jpg" group-title="VARIEDADES" pltv-subgroup="VARIEDADES LATINO",TRUTV (2)
+http://23.237.36.98:25461/ChiLLi/lasfu342ljkf8ug45123/407
 
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/b15356ee-546f-4760-b04c-3772d6949002_m.jpg" group-title="VARIEDADES" pltv-subgroup="VARIEDADES LATINO",TRUTV (3)
 http://nexusonline.club:25461/carlos/1234/11055
@@ -3176,8 +3203,8 @@ http://nexusonline.club:25461/carlos/1234/11577
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/ar_cartoon-network_m.png" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",CARTOON NETWORK (1)
 http://micine.club:25461/hlhapp/7778881hlhhaaaa/2062
 
-#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/ar_cartoon-network_m.png" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",CARTOON NETWORK
-http://kimbogrupol.com:25461/live/444/444/17304.ts
+#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/ar_cartoon-network_m.png" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",CARTOON NETWORK (2)
+http://23.237.36.98:25461/ChiLLi/lasfu342ljkf8ug45123/44
 
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/ar_cartoon-network_m.png" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",CARTOON NETWORK (3)
 http://nexusonline.club:25461/carlos/1234/10943
@@ -3185,8 +3212,8 @@ http://nexusonline.club:25461/carlos/1234/10943
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkT4gLv-J4rnTEOX4AE_dX_Sy3ygP-XyJBEyr9rTUFtt6yBP8Y" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",DISCOVERY KIDS (1)
 http://micine.club:25461/hlhapp/7778881hlhhaaaa/2050
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkT4gLv-J4rnTEOX4AE_dX_Sy3ygP-XyJBEyr9rTUFtt6yBP8Y" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",DISCOVERY KIDS
-http://kimbogrupol.com:25461/live/444/444/17298.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkT4gLv-J4rnTEOX4AE_dX_Sy3ygP-XyJBEyr9rTUFtt6yBP8Y" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",DISCOVERY KIDS (2)
+http://23.237.36.98:25461/ChiLLi/lasfu342ljkf8ug45123/463
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkT4gLv-J4rnTEOX4AE_dX_Sy3ygP-XyJBEyr9rTUFtt6yBP8Y" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",DISCOVERY KIDS (3)
 http://nexusonline.club:25461/carlos/1234/10962
@@ -3194,8 +3221,8 @@ http://nexusonline.club:25461/carlos/1234/10962
 #EXTINF:-1 tvg-logo="http://logosvector.net/wp-content/uploads/2014/07/new-disney-channel-logo.png" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",DISNEY (1)
 http://micine.club:25461/hlhapp/7778881hlhhaaaa/2042
 
-#EXTINF:-1 tvg-logo="http://logosvector.net/wp-content/uploads/2014/07/new-disney-channel-logo.png" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",DISNEY
-http://kimbogrupol.com:25461/live/444/444/17296.ts
+#EXTINF:-1 tvg-logo="http://logosvector.net/wp-content/uploads/2014/07/new-disney-channel-logo.png" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",DISNEY (2)
+http://23.237.36.98:25461/ChiLLi/lasfu342ljkf8ug45123/459
 
 #EXTINF:-1 tvg-logo="http://logosvector.net/wp-content/uploads/2014/07/new-disney-channel-logo.png" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",DISNEY (3)
 http://nexusonline.club:25461/carlos/1234/10966
@@ -3203,8 +3230,8 @@ http://nexusonline.club:25461/carlos/1234/10966
 #EXTINF:-1 tvg-logo="https://imgur.com/EKvqypE.png" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",DISNEY JR (1)
 http://micine.club:25461/hlhapp/7778881hlhhaaaa/2041
 
-#EXTINF:-1 tvg-logo="https://imgur.com/EKvqypE.png" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",DISNEY JR
-http://kimbogrupol.com:25461/live/444/444/17297.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/EKvqypE.png" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",DISNEY JR (2)
+http://23.237.36.98:25461/ChiLLi/lasfu342ljkf8ug45123/461
 
 #EXTINF:-1 tvg-logo="https://imgur.com/EKvqypE.png" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",DISNEY JR (3)
 http://nexusonline.club:25461/carlos/1234/19392
@@ -3212,8 +3239,8 @@ http://nexusonline.club:25461/carlos/1234/19392
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/cl_disney-xd_m.png" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",DISNEY XD (1)
 http://micine.club:25461/hlhapp/7778881hlhhaaaa/2040
 
-#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/cl_disney-xd_m.png" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",DISNEY XD
-http://kimbogrupol.com:25461/live/444/444/17294.ts
+#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/cl_disney-xd_m.png" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",DISNEY XD (2)
+http://23.237.36.98:25461/ChiLLi/lasfu342ljkf8ug45123/460
 
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/cl_disney-xd_m.png" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",DISNEY XD (3)
 http://nexusonline.club:25461/carlos/1234/19389
@@ -3227,8 +3254,8 @@ http://locomotiontv.com/envivo/loco_channel/stream.m3u8
 #EXTINF:-1 tvg-logo="http://listaccess.me/Logo/natgeokids1.png" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",NAT GEO KIDS (1)
 http://micine.club:25461/hlhapp/7778881hlhhaaaa/1972
 
-#EXTINF:-1 tvg-logo="http://listaccess.me/Logo/natgeokids1.png" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",NAT GEO KIDS
-http://kimbogrupol.com:25461/live/444/444/17299.ts
+#EXTINF:-1 tvg-logo="http://listaccess.me/Logo/natgeokids1.png" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",NAT GEO KIDS (2)
+http://23.237.36.98:25461/ChiLLi/lasfu342ljkf8ug45123/426
 
 #EXTINF:-1 tvg-logo="http://listaccess.me/Logo/natgeokids1.png" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",NAT GEO KIDS (3)
 http://nexusonline.club:25461/carlos/1234/11032
@@ -3236,8 +3263,8 @@ http://nexusonline.club:25461/carlos/1234/11032
 #EXTINF:-1 tvg-logo="http://listaccess.me/Logo/nick1.png" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",NICKELODEON (1)
 http://micine.club:25461/hlhapp/7778881hlhhaaaa/1970
 
-#EXTINF:-1 tvg-logo="http://listaccess.me/Logo/nick1.png" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",NICKELODEON
-http://kimbogrupol.com:25461/live/444/444/16187.ts
+#EXTINF:-1 tvg-logo="http://listaccess.me/Logo/nick1.png" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",NICKELODEON (2)
+http://23.237.36.98:25461/ChiLLi/lasfu342ljkf8ug45123/434
 
 #EXTINF:-1 tvg-logo="http://listaccess.me/Logo/nick1.png" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",NICKELODEON (3)
 http://nexusonline.club:25461/carlos/1234/11037
@@ -3245,14 +3272,17 @@ http://nexusonline.club:25461/carlos/1234/11037
 #EXTINF:-1 tvg-logo="https://orig00.deviantart.net/73ec/f/2016/215/c/4/nick_2_new_logo_concept_by_misterguydom15-dacgqnb.png" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",NICK 2 (1)
 http://micine.club:25461/hlhapp/7778881hlhhaaaa/1969
 
+#EXTINF:-1 tvg-logo="https://orig00.deviantart.net/73ec/f/2016/215/c/4/nick_2_new_logo_concept_by_misterguydom15-dacgqnb.png" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",NICK 2 (2)
+http://23.237.36.98:25461/ChiLLi/lasfu342ljkf8ug45123/431
+
 #EXTINF:-1 tvg-logo="https://orig00.deviantart.net/73ec/f/2016/215/c/4/nick_2_new_logo_concept_by_misterguydom15-dacgqnb.png" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",NICK 2 (3)
 http://nexusonline.club:25461/carlos/1234/17264
 
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41DAgNJEGkL._SY355_.png" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",NICK JR (1)
 http://micine.club:25461/hlhapp/7778881hlhhaaaa/1968
 
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41DAgNJEGkL._SY355_.png" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",NICK JR
-http://kimbogrupol.com:25461/live/444/444/17303.ts
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41DAgNJEGkL._SY355_.png" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",NICK JR (2)
+http://23.237.36.98:25461/ChiLLi/lasfu342ljkf8ug45123/433
 
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41DAgNJEGkL._SY355_.png" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",NICK JR (3)
 http://nexusonline.club:25461/carlos/1234/11039
@@ -3260,8 +3290,8 @@ http://nexusonline.club:25461/carlos/1234/11039
 #EXTINF:-1 tvg-logo="https://www.firstonetv.net/images/logos/uk/NICKTOONS.png" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",NICK TOONS (1)
 http://micine.club:25461/hlhapp/7778881hlhhaaaa/1967
 
-#EXTINF:-1 tvg-logo="https://www.firstonetv.net/images/logos/uk/NICKTOONS.png" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",NICK TOONS (3)
-
+#EXTINF:-1 tvg-logo="https://www.firstonetv.net/images/logos/uk/NICKTOONS.png" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",NICK TOONS (2)
+http://23.237.36.98:25461/ChiLLi/lasfu342ljkf8ug45123/432
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/496421856669622273/meYpliVM_400x400.jpeg" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",PEQUERADIO TV
 http://panel2.cdnstreamserver.com/live/peque-pequetv.m3u8
@@ -3272,14 +3302,14 @@ http://panel2.cdnstreamserver.com/live/peque-pequetv.m3u8
 #EXTINF:-1 tvg-logo="http://televisa-networks.com/wp-content/uploads/2017/08/televisa-networks-tiin-logo.jpg" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",TIIN (1)
 http://micine.club:25461/hlhapp/7778881hlhhaaaa/1944
 
-#EXTINF:-1 tvg-logo="http://televisa-networks.com/wp-content/uploads/2017/08/televisa-networks-tiin-logo.jpg" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",TIIN (3)
-
+#EXTINF:-1 tvg-logo="http://televisa-networks.com/wp-content/uploads/2017/08/televisa-networks-tiin-logo.jpg" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",TIIN (2)
+http://23.237.36.98:25461/ChiLLi/lasfu342ljkf8ug45123/404
 
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/gt_tooncast_m.png" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",TOONCAST (1)
 http://micine.club:25461/hlhapp/7778881hlhhaaaa/1940
 
-#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/gt_tooncast_m.png" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",TOONCAST
-http://kimbogrupol.com:25461/live/444/444/17302.ts
+#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/gt_tooncast_m.png" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",TOONCAST (2)
+http://23.237.36.98:25461/ChiLLi/lasfu342ljkf8ug45123/45
 
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/gt_tooncast_m.png" group-title="INFANTILES-INFANTIS" pltv-subgroup="INFANTILES LATINOS",TOONCAST (3)
 http://nexusonline.club:25461/carlos/1234/11356
@@ -3577,11 +3607,17 @@ http://servelive.net:80/sandro/sandro/8047
 #EXTINF:-1 tvg-logo="http://photocall.tv/images/mnn.png" group-title="NOTICIAS",MEXICO NEWS (MEX)
 
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/11/milenio-TV.png?fit=500%2C300" group-title="NOTICIAS",MILENIO (MEX)
+#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/11/milenio-TV.png?fit=500%2C300" group-title="NOTICIAS",MILENIO
 http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8?GrupoTopIptv
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/11/milenio-TV.png?fit=500%2C300" group-title="NOTICIAS",MILENIO (2)
+http://23.237.36.98:25461/ChiLLi/lasfu342ljkf8ug45123/441
 
 #EXTINF:-1 tvg-logo="http://www.fotosdigitalesgratis.com/noticias/fotos/NTN24-Mx-Logo.jpg" group-title="NOTICIAS",NTN24 (1)
 http://micine.club:25461/hlhapp/7778881hlhhaaaa/1966
+
+#EXTINF:-1 tvg-logo="http://www.fotosdigitalesgratis.com/noticias/fotos/NTN24-Mx-Logo.jpg" group-title="NOTICIAS",NTN24 (2)
+http://23.237.36.98:25461/ChiLLi/lasfu342ljkf8ug45123/399
 
 #EXTINF:-1 tvg-logo="https://tv.i.uol.com.br/televisao/2012/02/27/nova-logomarca-da-record-news-2012-1330350392176_300x300.jpg" group-title="NOTICIAS",RECORD NEWS
 http://servelive.net:80/randal/randal/7950
@@ -3674,8 +3710,8 @@ http://nexusonline.club:25461/carlos/1234/10961
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logos2/images/f/f2/Discovery_Science_logo.png/revision/latest?cb=20180514182753" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",DISCOVERY SCIENCE (1)
 http://micine.club:25461/hlhapp/7778881hlhhaaaa/2048
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logos2/images/f/f2/Discovery_Science_logo.png/revision/latest?cb=20180514182753" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",DISCOVERY SCIENCE
-http://kimbogrupol.com:25461/live/444/444/17260.ts
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logos2/images/f/f2/Discovery_Science_logo.png/revision/latest?cb=20180514182753" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",DISCOVERY SCIENCE (2)
+http://23.237.36.98:25461/ChiLLi/lasfu342ljkf8ug45123/464
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logos2/images/f/f2/Discovery_Science_logo.png/revision/latest?cb=20180514182753" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",DISCOVERY SCIENCE (3)
 
@@ -3949,8 +3985,8 @@ http://mixaac.crossradio.com.br:1100/live
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9cxDnlemp9bp5W6VfNd00sLfc4CE1Mi5bT20asCh0ITw6SjZm" group-title="EDUCATIVOS",APRENDE TV (MEX)
 
 
-#EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/descarga-168x168-172302463.png" group-title="EDUCATIVOS",INGENIO TV 
-
+#EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/descarga-168x168-172302463.png" group-title="EDUCATIVOS",INGENIO TV (2)
+http://23.237.36.98:25461/ChiLLi/lasfu342ljkf8ug45123/455
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/ACSszfHW31JSdNGQ4Fzp4E44pVHr-NDQfv5gB464Ag=s900-mo-c-c0xffffffff-rj-k-no" group-title="EDUCATIVOS",TEC TV (ARG)
 
@@ -4166,8 +4202,8 @@ http://nexusonline.club:25461/carlos/1234/15251
 #EXTINF:-1 tvg-logo="http://unimasgo.com/gold-app/gold-uploads/media/espn-mas-en-vivo.jpg" group-title="DEPORTES/ESPORTES",ESPN + (1)
 http://disfruta.net:8000/danielcarranzaq/MphKLaFlye/85
 
-#EXTINF:-1 tvg-logo="http://unimasgo.com/gold-app/gold-uploads/media/espn-mas-en-vivo.jpg" group-title="DEPORTES/ESPORTES",ESPN +
-http://kimbogrupol.com:25461/live/444/444/17158.ts
+#EXTINF:-1 tvg-logo="http://unimasgo.com/gold-app/gold-uploads/media/espn-mas-en-vivo.jpg" group-title="DEPORTES/ESPORTES",ESPN + (2)
+http://23.237.36.98:25461/ChiLLi/lasfu342ljkf8ug45123/462
 
 #EXTINF:-1 tvg-logo="http://unimasgo.com/gold-app/gold-uploads/media/espn-mas-en-vivo.jpg" group-title="DEPORTES/ESPORTES",ESPN + (3)
 http://nexusonline.club:25461/carlos/1234/15250
@@ -4355,8 +4391,8 @@ http://disfruta.net:8000/danielcarranzaq/MphKLaFlye/20261
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/AFIZZIONADOS.png" group-title="DEPORTES/ESPORTES",IZZI AFIZZIONADOS (3)
 http://nexusonline.club:25461/carlos/1234/15188
 
-#EXTINF:-1 tvg-logo="https://www.thematv.com/medias/channels/latin-american-sports/logo.png" group-title="DEPORTES/ESPORTES",L.A.S. (1)
-
+#EXTINF:-1 tvg-logo="https://www.thematv.com/medias/channels/latin-american-sports/logo.png" group-title="DEPORTES/ESPORTES",L.A.S. (2)
+http://23.237.36.98:25461/ChiLLi/lasfu342ljkf8ug45123/440
 
 #EXTINF:-1 tvg-logo="http://orientalnewsng.com/wp-content/uploads/2018/05/LaLiga.png" group-title="DEPORTES/ESPORTES",LA LIGA (1)
 http://disfruta.net:8000/danielcarranzaq/MphKLaFlye/161
@@ -4415,8 +4451,8 @@ http://servelive.net:80/randal/randal/7958
 #EXTINF:-1 tvg-logo="http://sky.vteximg.com.br/arquivos/ids/156116/premiere.png?v=636446348764830000" group-title="DEPORTES/ESPORTES",PREMIERE 8 BR
 http://servelive.net:80/randal/randal/42423
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/868157568597630976/DJOeJK0t_400x400.jpg" group-title="DEPORTES/ESPORTES",PX SPORTS (1)
-
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/868157568597630976/DJOeJK0t_400x400.jpg" group-title="DEPORTES/ESPORTES",PX SPORTS (2)
+http://23.237.36.98:25461/ChiLLi/lasfu342ljkf8ug45123/398
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgaAs-ynR0vyCz-DvucVhnnE-WP2XSqjiMYBqmzOoCBiALLd26" group-title="DEPORTES/ESPORTES",REAL MADRID (ES)
 http://disfruta.net:8000/danielcarranzaq/MphKLaFlye/183
