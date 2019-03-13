@@ -615,7 +615,7 @@ http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/IB3.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL6FnVHDWXcchgbSwJq3Vv3_llGR-slxDRFnanrMc8yBf_dvZe" group-title="ESPAÑA",LA 1 HD
-http://kingsateu.com:8080/hC7IPrYgYe/asFGD23sdfF/21846
+
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/899384654259736578/JcRiYU5A_400x400.jpg" group-title="ESPAÑA",LA 2 HD
 http://kingsateu.com:8080/hC7IPrYgYe/asFGD23sdfF/21845
@@ -632,14 +632,17 @@ http://teledifusion.tv:1935/levantetvlive/levantetvlive/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.iniciarsesionde.info/wp-content/uploads/2018/11/mega-logo.jpg" group-title="ESPAÑA",MEGA HD
 
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/AAuE7mB3gxynIi-smWj1HKNoICgjt9yl47jXMo92ug=s900-mo-c-c0xffffffff-rj-k-no" group-title="ESPAÑA",MEZZO LA°
+#EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/e/z/mezzo-live.jpg" group-title="ESPAÑA",MEZZO
 http://ott-cdn.ucom.am/s35/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvCtG4_Nu8SfUw8hOWG55_TGKOR52tARH4z2mJCV0hsLYCOLZA" group-title="ESPAÑA",NAVARRA TV LA°
 http://nws.nice264.com/SmilLive/getLiveIOS.smil?stream=NTV_livenatvmb&system=NTV&protocol=http_cupertino/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/509064688550694912/WY6A_PqH.jpeg" group-title="ESPAÑA",NEOX LA°
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/509064688550694912/WY6A_PqH.jpeg" group-title="ESPAÑA",NEOX
 http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_1_av-b.m3u8?GrupoTopIptv
+
+#EXTINF:-1 tvg-logo="https://adminweb.onlycable.es/img/Canale/small/Nova/Nova_.jpg" group-title="ESPAÑA",NOVA
+http://kingsateu.com:8080/hC7IPrYgYe/asFGD23sdfF/21846
 
 #EXTINF:-1 tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/telecinco_circular_500_-1_bda1.png" group-title="ESPAÑA",TELECINCO HD
 
