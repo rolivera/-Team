@@ -587,8 +587,11 @@ http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/chun
 #EXTINF:-1 tvg-logo="http://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="ESPAÑA",T24 HORAS LA°
 http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve01_lv3_aosv4_gl0/irtve01_lv3_aosv4_gl0.isml/irtve01_lv3_aosv4_gl0-audio=128000-video=400000.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx5AC8zAOXW8TacAiMZCxk8L7d-RI8KICaIvMBq0LBsK--4KBC" group-title="ESPAÑA",ANTENA 3 (2)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx5AC8zAOXW8TacAiMZCxk8L7d-RI8KICaIvMBq0LBsK--4KBC" group-title="ESPAÑA",ANTENA 3
 http://23.237.36.98:25461/ChiLLi/lasfu342ljkf8ug45123/474
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx5AC8zAOXW8TacAiMZCxk8L7d-RI8KICaIvMBq0LBsK--4KBC" group-title="ESPAÑA",ANTENA 3 HD
+http://kingsateu.com:8080/hC7IPrYgYe/asFGD23sdfF/21874
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/ACSszfHmfHe_ojc4vMH08Wd6v7AWshuLYa1S_I8Oew=s900-mo-c-c0xffffffff-rj-k-no" group-title="ESPAÑA",ARAGON TV LA°
 http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8?GrupoTopIptv
@@ -600,7 +603,7 @@ http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
 http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/cuatro_logo_500_-1_343d.png" group-title="ESPAÑA",CUATRO HD
-
+http://kingsateu.com:8080/hC7IPrYgYe/asFGD23sdfF/21872
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6-aQmexQ_PYqTPcqJR4rGkg1FjRbzKift7z4yAgdPtZ808ckI" group-title="ESPAÑA",CGTN LA°
 https://livees.cgtn.com/1000e/prog_index.m3u8
@@ -612,10 +615,10 @@ http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/IB3.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL6FnVHDWXcchgbSwJq3Vv3_llGR-slxDRFnanrMc8yBf_dvZe" group-title="ESPAÑA",LA 1 HD
-
+http://kingsateu.com:8080/hC7IPrYgYe/asFGD23sdfF/21846
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/899384654259736578/JcRiYU5A_400x400.jpg" group-title="ESPAÑA",LA 2 HD
-
+http://kingsateu.com:8080/hC7IPrYgYe/asFGD23sdfF/21845
 
 #EXTINF:-1 tvg-logo="https://colegiokhalilgibran.es/wordpress/wp-content/uploads/2018/10/la_sexta_logo-antes.jpg" group-title="ESPAÑA",LA SEXTA HD
 
@@ -1544,44 +1547,44 @@ http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
 http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8
 #######################################
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCYq0t66_uL9hi1nbwcd2PkO3qzrAaJRz8WQ2PurilKPPgUfvw" group-title="PREMIUM ESPAÑA",A3SERIES (1)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCYq0t66_uL9hi1nbwcd2PkO3qzrAaJRz8WQ2PurilKPPgUfvw" group-title="PREMIUM ESPAÑA",A3SERIES
 
 
-#EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/062010/AMCHepburn_B.png?itok=18X2cfEC" group-title="PREMIUM ESPAÑA",AMC HD
+#EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/062010/AMCHepburn_B.png?itok=18X2cfEC" group-title="PREMIUM ESPAÑA",AMC
+http://kingsateu.com:8080/hC7IPrYgYe/asFGD23sdfF/21835
+
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/axn.png" group-title="PREMIUM ESPAÑA",AXN
 
 
-#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/axn.png" group-title="PREMIUM ESPAÑA",AXN HD
+#EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/a/x/n/xaxn-white.jpg.pagespeed.ic.xxd_c-wHeJ.jpg" group-title="PREMIUM ESPAÑA",AXN WHITE
+http://kingsateu.com:8080/hC7IPrYgYe/asFGD23sdfF/21833
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUBd5jaD23YZpB4GByN2XQaMzyEqv-TwWxAOiGmJmWLZExUKsU" group-title="PREMIUM ESPAÑA",CALLE 13
+http://kingsateu.com:8080/hC7IPrYgYe/asFGD23sdfF/21879
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk2L_0EE2jt_sItp2iLLQ-Y2ZaywU3N09eUKSDkN4AZaEKR509" group-title="PREMIUM ESPAÑA",COMEDY CENTRAL
+http://kingsateu.com:8080/hC7IPrYgYe/asFGD23sdfF/21875
+
+#EXTINF:-1 tvg-logo="https://www.comparaiso.es/images/logo-canal-fox.jpg" group-title="PREMIUM ESPAÑA",FOX
+http://kingsateu.com:8080/hC7IPrYgYe/asFGD23sdfF/21834
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBxRngi3ew3yGlLHn0MMtIRN252b1GDFdLBlNBVGjrJne_8V-C" group-title="PREMIUM ESPAÑA",FOX LIFE
+http://kingsateu.com:8080/hC7IPrYgYe/asFGD23sdfF/21832
+
+#EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/c/a/n/xcanal-hollywood.jpg.pagespeed.ic.3xWEdRqWBS.jpg" group-title="PREMIUM ESPAÑA",HOLLYWOOD
 
 
-#EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/a/x/n/xaxn-white.jpg.pagespeed.ic.xxd_c-wHeJ.jpg" group-title="PREMIUM ESPAÑA",AXN WHITE HD
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/db/Paramount-logo-in-black.png/revision/latest?cb=20160613041629" group-title="PREMIUM ESPAÑA",PARAMOUNT
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUBd5jaD23YZpB4GByN2XQaMzyEqv-TwWxAOiGmJmWLZExUKsU" group-title="PREMIUM ESPAÑA",CALLE 13 HD
+#EXTINF:-1 tvg-logo="https://www.audiovisual451.com/wp-content/uploads/Syfy-2017.jpg" group-title="PREMIUM ESPAÑA",SYFY
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk2L_0EE2jt_sItp2iLLQ-Y2ZaywU3N09eUKSDkN4AZaEKR509" group-title="PREMIUM ESPAÑA",COMEDY CENTRAL HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmBj3tSUTscUrjEL0pTozuRErcuGO-iTG8iHJGyY0y9ObJzJpw" group-title="PREMIUM ESPAÑA",TCM
 
 
-#EXTINF:-1 tvg-logo="https://www.comparaiso.es/images/logo-canal-fox.jpg" group-title="PREMIUM ESPAÑA",FOX HD
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBxRngi3ew3yGlLHn0MMtIRN252b1GDFdLBlNBVGjrJne_8V-C" group-title="PREMIUM ESPAÑA",FOX LIFE HD
-
-
-#EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/c/a/n/xcanal-hollywood.jpg.pagespeed.ic.3xWEdRqWBS.jpg" group-title="PREMIUM ESPAÑA",HOLLYWOOD HD
-
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/db/Paramount-logo-in-black.png/revision/latest?cb=20160613041629" group-title="PREMIUM ESPAÑA",PARAMOUNT HD
-
-
-#EXTINF:-1 tvg-logo="https://www.audiovisual451.com/wp-content/uploads/Syfy-2017.jpg" group-title="PREMIUM ESPAÑA",SYFY HD
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmBj3tSUTscUrjEL0pTozuRErcuGO-iTG8iHJGyY0y9ObJzJpw" group-title="PREMIUM ESPAÑA",TCM HD
-
-
-#EXTINF:-1 tvg-logo="https://icon2.kisspng.com/20180605/bfi/kisspng-tnt-television-channel-television-show-tv-logos-5b16c952133418.0873190415282199860787.jpg" group-title="PREMIUM ESPAÑA",TNT HD
-
+#EXTINF:-1 tvg-logo="https://icon2.kisspng.com/20180605/bfi/kisspng-tnt-television-channel-television-show-tv-logos-5b16c952133418.0873190415282199860787.jpg" group-title="PREMIUM ESPAÑA",TNT
+http://kingsateu.com:8080/hC7IPrYgYe/asFGD23sdfF/21881
 
 #######################################################################################################################################################################################
 #######################################################################################################################################################################################
