@@ -295,6 +295,9 @@ http://servelive.net:80/gabriel/gabriel/7948
 #EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/82/5b/ef/825befdf-21bd-1417-566b-4e404febe370/AppIcon-0-1x_U007emarketing-0-0-85-220-0-10.png/246x0w.jpg" group-title="BRASIL",REDE FAMILIA
 http://srv9.zoeweb.tv:1935/zw901/smil:zw901.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://oi67.tinypic.com/28i9uth.jpg" group-title="BRASIL",REDE MEIO NORTE
+http://api.new.livestream.com/accounts/3332377/events/2958396/live.m3u8
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="BRASIL",SBT INTERIOR
 https://5a1c76baf08c0.streamlock.net/z343-live/stream/playlist.m3u8
 
@@ -363,6 +366,9 @@ http://slrp.sambavideos.sambatech.com/liveevent/acerpTvINESABR_d360fbbfbf3e5e59a
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4TUWpu-F81-asC1bZlTpXGU4yI76eoIxktstkvtX7uZFAfOLJ" group-title="BRASIL",TV RIO PRETO
 http://186.227.165.118:1935/insatv/livestream/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/537268512708775937/SXePNLIw.jpeg" group-title="BRASIL",WEB TV MINAS
+http://173.236.10.10:1935/webtvminas/webtvminas/live.m3u8
 
 ######################################################################################################################################
 ####################################### BOLIVIA
