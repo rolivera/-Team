@@ -22,15 +22,15 @@ https://stream.vagalume.fm/hls/14660050141766497579/aac.m3u8
 #######################################
 
 #EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/small/295-2959716_america-2-logo-américa-tv.png" group-title="ARGENTINA",AMERICA
-
+http://kimbogrupol.com:25461/live/julian/julian1/16522.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/small/295-2959716_america-2-logo-américa-tv.png" group-title="ARGENTINA",AMERICA
 
 
-#EXTINF:-1 tvg-logo="https://img1.androidappsapk.co/300/7/0/6/net.coninfo.admin.trecemaxtelevisin.png" group-title="ARGENTINA",13 MAX LA°
+#EXTINF:-1 tvg-logo="https://img1.androidappsapk.co/300/7/0/6/net.coninfo.admin.trecemaxtelevisin.png" group-title="ARGENTINA",13 MAX
+http://kimbogrupol.com:25461/live/julian/julian1/13186.m3u8
 
-
-#EXTINF:-1 tvg-logo="http://visiondefuturo.org/wp-content/uploads/tv-argentinisima.jpg" group-title="ARGENTINA",ARGENTINISIMA SATELITAL LA°
+#EXTINF:-1 tvg-logo="http://visiondefuturo.org/wp-content/uploads/tv-argentinisima.jpg" group-title="ARGENTINA",ARGENTINISIMA SATELITAL
 http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/playlist.m3u8?GrupoTopIptv
 
 #EXTINF:-1 tvg-logo="http://www.fotosdigitalesgratis.com/noticias/fotos/C5N-Logo.jpg" group-title="ARGENTINA",C5N
@@ -88,7 +88,7 @@ http://unlimited2-us.dps.live/nettv/nettv.smil/playlist.m3u8
 https://5975e06a1f292.streamlock.net:4443/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://digitalmediawire.com/wp-content/uploads/2016/11/Telefe.jpg" group-title="ARGENTINA",TELEFE 
-
+http://kimbogrupol.com:25461/live/julian/julian1/16739.m3u8
 
 #EXTINF:-1 tvg-logo="https://digitalmediawire.com/wp-content/uploads/2016/11/Telefe.jpg" group-title="ARGENTINA",TELEFE
 
@@ -1018,8 +1018,8 @@ http://kimbogrupol.com:25461/live/Luis/1234/16574.m3u8
 http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8
 #######################################
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_america-television_m.png" group-title="PERU",AMERICA TV (1)
-
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_america-television_m.png" group-title="PERU",AMERICA TV 
+http://kimbogrupol.com:25461/live/julian/julian1/16578.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_america-television_m.png" group-title="PERU",AMERICA TV
 http://kimbogrupol.com:25461/live/Luis/1234/16578.m3u8
@@ -1031,13 +1031,13 @@ http://kimbogrupol.com:25461/live/Luis/1234/16578.m3u8
 http://173.192.105.252:1935/iptvantares/liveantarestv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.jssor.com/andre89/tv-antares.png" group-title="PERU",ANTARES
-
+http://kimbogrupol.com:25461/live/julian/julian1/7656.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2018/01/atv.png?resize=218%2C150" group-title="PERU",ATV (1)
-
+http://kimbogrupol.com:25461/live/julian/julian1/16366.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/atv.png?resize=218%2C150" group-title="PERU",ATV PLUS (1)
-
+http://kimbogrupol.com:25461/live/julian/julian1/16109.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/atv.png?resize=218%2C150" group-title="PERU",ATV PLUS
 http://kimbogrupol.com:25461/live/Luis/1234/16104.m3u8
@@ -1076,7 +1076,7 @@ http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 http://movil.mediastream.pe/vv_manosdios/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1JIzoLMktUf6pIoKgynYr_TbzBcp1XxuIEykq-0wudlssNPSu" group-title="PERU",LATINA (1)
-
+http://kimbogrupol.com:25461/live/julian/julian1/16108.m3u8
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-6Nb4D94UhGE/W6PpimpTDAI/AAAAAAAACl4/SuLq5E9SGGMBWUp7ZnaLyXgwofIABvhVACPcBGAYYCw/s200/LaTele_Peru%2Borganizado%2Bpng.png" group-title="PERU",LA TELE (1)
 
@@ -1087,11 +1087,14 @@ http://play.hostreamperu.com:1935/8016/8016/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/2414323/logo_mega%20tv.png" group-title="PERU",MEGA TV 
 http://kimbogrupol.com:25461/live/Luis/1234/16535.m3u8
 
+#EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/2414323/logo_mega%20tv.png" group-title="PERU",MEGA TV
+http://kimbogrupol.com:25461/live/julian/julian1/16535.m3u8
+
 #EXTINF:-1 tvg-logo="https://movistarplus.pe/assets/images/LogoMovistarPlus630x355.png" group-title="PERU",MOVISTAR PLUS (1)
 
 
 #EXTINF:-1 tvg-logo="https://media.tvalacarta.info/canales/256x256/panamericana.png" group-title="PERU",PANAMERICANA (1)
-
+http://kimbogrupol.com:25461/live/julian/julian1/16716.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.tvalacarta.info/canales/256x256/panamericana.png" group-title="PERU",PANAMERICANA TV
 http://kimbogrupol.com:25461/live/444/444/16716.m3u8
@@ -1106,16 +1109,16 @@ http://d2fxrfbiedz1tm.cloudfront.net/livepaxtv/smil:PC.smil/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1128467805/LogoSOLTV_400x400.jpg" group-title="PERU",SOL TV
-
+http://kimbogrupol.com:25461/live/julian/julian1/7655.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/horarios_73.png" group-title="PERU",TV NOTICIAS 7.3
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIPE0002&mode=12
 
 #EXTINF:-1 tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/horarios_73.png" group-title="PERU",TV NOTICIAS 7.3
-
+http://kimbogrupol.com:25461/live/julian/julian1/13038.m3u8
 
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-Mcc2xCpSKWQ/UF6PxaiQZYI/AAAAAAAACQU/BLm5ZUhxzfs/s1600/LOGOTVPERU.jpg" group-title="PERU",TV PERU (PER)
-
+http://kimbogrupol.com:25461/live/julian/julian1/12015.m3u8
 
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-Mcc2xCpSKWQ/UF6PxaiQZYI/AAAAAAAACQU/BLm5ZUhxzfs/s1600/LOGOTVPERU.jpg" group-title="PERU",TV PERU HD (PER)
 
@@ -1264,6 +1267,9 @@ http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/p
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/891330516087164928/KMLvo3-g_400x400.jpg" group-title="URUGUAY",CANAL U
 http://kimbogrupol.com:25461/live/Luis/1234/16527.m3u8
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/891330516087164928/KMLvo3-g_400x400.jpg" group-title="URUGUAY",CANAL U
+http://kimbogrupol.com:25461/live/julian/julian1/16527.m3u8
+
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/AN66SAw1OzI-uSvA_HamSiFLdd6DxN2cEg9tGET7Vw=s900-mo-c-c0xffffffff-rj-k-no" group-title="URUGUAY",CARDINAL TV
 
 
@@ -1295,13 +1301,13 @@ http://kimbogrupol.com:25461/live/Luis/1234/4307.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-gXhn1i6LiCM/VKOv0_4IFfI/AAAAAAAAFmw/qoNG1mHsytc/s640/blogger-image--648257053.jpg" group-title="URUGUAY",SAETA 10
-
+http://kimbogrupol.com:25461/live/julian/julian1/16529.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-gXhn1i6LiCM/VKOv0_4IFfI/AAAAAAAAFmw/qoNG1mHsytc/s640/blogger-image--648257053.jpg" group-title="URUGUAY",SAETA 10
 http://kimbogrupol.com:25461/live/Luis/1234/16529.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/61/Teledoce_logo.png/revision/latest?cb=20140706162325" group-title="URUGUAY",TELEDOCE
-http://kimbogrupol.com:25461/live/Luis/1234/16531.m3u8
+http://kimbogrupol.com:25461/live/julian/julian1/16531.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/61/Teledoce_logo.png/revision/latest?cb=20140706162325" group-title="URUGUAY",TELEDOCE
 http://kimbogrupol.com:25461/live/Luis/1234/16531.m3u8
@@ -1320,7 +1326,7 @@ http://kimbogrupol.com:25461/live/Luis/1234/16531.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://mlstaticquic-a.akamaihd.net/2android-tv-box-750-canales-de-cable-canales-uruguayos-y-vtv-D_NQ_NP_884222-MLU26628807182_012018-F.jpg" group-title="URUGUAY",VTV
-
+http://kimbogrupol.com:25461/live/julian/julian1/16074.m3u8
 
 #EXTINF:-1 tvg-logo="https://mlstaticquic-a.akamaihd.net/2android-tv-box-750-canales-de-cable-canales-uruguayos-y-vtv-D_NQ_NP_884222-MLU26628807182_012018-F.jpg" group-title="URUGUAY",VTV
 http://kimbogrupol.com:25461/live/Luis/1234/16074.m3u8
