@@ -51,6 +51,9 @@ http://live-edge01.telecentro.net.ar/live/26hd-360/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/3.png" group-title="ARGENTINA",CANAL 26
 http://kimbogrupol.com:25461/live/Luis/1234/7790.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgQ4RSl_eH-6RMwxPjAj0ewpxmdiSTyWsbVwGBKtjfLRhT2O4D" group-title="ARGENTINA",CANAL DE LA CIUDAD
+http://iptvpremium.selfip.net:80/live/3HcdvVLVcd/Kq7HFUUDpH/13734.rtmp
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1017835856411971584/Q2dVZVUA_400x400.jpg" group-title="ARGENTINA",CANAL PROVINCIAL LA°
 http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
 
@@ -59,6 +62,9 @@ http://coninfo.net:1935/chacodxdtv/live/chunklist_w1251301598.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/677195098405412864/w1GSVqNs_400x400.png" group-title="ARGENTINA",CN3
 http://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.gmkfreelogos.com/logos/C/img/Cronica.gif" group-title="ARGENTINA",CRONICA HD
+http://iptvpremium.selfip.net:80/live/3HcdvVLVcd/Kq7HFUUDpH/13736.rtmp
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/433043324698501120/liWhZUAW_400x400.jpeg" group-title="ARGENTINA",EL GARAGE
 http://186.0.233.76:1935/Garage/garage.smil/chunklist_w846352619_b446000_sleng.m3u8?GrupoTopIptv
@@ -76,7 +82,7 @@ http://186.0.233.76:1935/Garage/garage.smil/chunklist_w846352619_b446000_sleng.m
 http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8?GrupoTopIptv
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_08/large.20476485_10155104256666939_4902285236925191703_n.png.9882e3e2ef27931e416488660531c939.png" group-title="ARGENTINA",MAGAZINE
-
+http://iptvpremium.selfip.net:80/live/3HcdvVLVcd/Kq7HFUUDpH/13743.rtmp
 
 #EXTINF:-1 tvg-logo="http://multivision.tv/wp-content/uploads/2018/08/HOR-HD.png" group-title="ARGENTINA",MULTIVISION
 http://panel.dattalive.com:1935/8250/8250/chunklist_w689217833.m3u8?GrupoTopIptv
@@ -90,8 +96,8 @@ https://5975e06a1f292.streamlock.net:4443/canal7jujuy/ngrp:canal7jujuy_all/playl
 #EXTINF:-1 tvg-logo="https://digitalmediawire.com/wp-content/uploads/2016/11/Telefe.jpg" group-title="ARGENTINA",TELEFE 
 http://kimbogrupol.com:25461/live/julian/julian1/16739.m3u8
 
-#EXTINF:-1 tvg-logo="https://digitalmediawire.com/wp-content/uploads/2016/11/Telefe.jpg" group-title="ARGENTINA",TELEFE
-
+#EXTINF:-1 tvg-logo="https://digitalmediawire.com/wp-content/uploads/2016/11/Telefe.jpg" group-title="ARGENTINA",TELEFE (2)
+http://iptvpremium.selfip.net:80/live/3HcdvVLVcd/Kq7HFUUDpH/13619.rtmp
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/506483696065449984/BATn-jAe.png" group-title="ARGENTINA",TELPIN 
 http://kimbogrupol.com:25461/live/Luis/1234/6524.m3u8
@@ -472,14 +478,17 @@ http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/p
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXNs5DYEziILPGCMH8Ir4eAn6PnMUD9hmhYMmGsRxP_nNL9hC8" group-title="COLOMBIA",CANAL 1
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXNs5DYEziILPGCMH8Ir4eAn6PnMUD9hmhYMmGsRxP_nNL9hC8" group-title="COLOMBIA",CANAL 1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXNs5DYEziILPGCMH8Ir4eAn6PnMUD9hmhYMmGsRxP_nNL9hC8" group-title="COLOMBIA",CANAL 1 (2)
+http://iptvpremium.selfip.net:80/live/3HcdvVLVcd/Kq7HFUUDpH/13735.rtmp
 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/AAuE7mBJFmMoxsmCLq0k2L3cC2yVw8Wmx9zKxLnGIQ=s900-mo-c-c0xffffffff-rj-k-no" group-title="COLOMBIA",CANAL CLARO (2)
+http://iptvpremium.selfip.net:80/live/3HcdvVLVcd/Kq7HFUUDpH/13742.rtmp
 
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/co_cali-tv_m.png" group-title="COLOMBIA",CALI TV 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSetNpXYP8_CJaxAgqNbHdOyLcyrY9eQx7Dvv7X2RQwmpAWxYm9" group-title="COLOMBIA",CARACOL
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSetNpXYP8_CJaxAgqNbHdOyLcyrY9eQx7Dvv7X2RQwmpAWxYm9" group-title="COLOMBIA",CARACOL HD (2)
+http://iptvpremium.selfip.net:80/live/3HcdvVLVcd/Kq7HFUUDpH/13749.rtmp
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSetNpXYP8_CJaxAgqNbHdOyLcyrY9eQx7Dvv7X2RQwmpAWxYm9" group-title="COLOMBIA",CARACOL
 http://kimbogrupol.com:25461/live/Luis/1234/17318.m3u8
@@ -487,11 +496,14 @@ http://kimbogrupol.com:25461/live/Luis/1234/17318.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSetNpXYP8_CJaxAgqNbHdOyLcyrY9eQx7Dvv7X2RQwmpAWxYm9" group-title="COLOMBIA",CARACOL INT
 
 
-#EXTINF:-1 tvg-logo="https://static.telus.com/common/cms/images/tv/satellite/new-channel-logos/CityHD.png" group-title="COLOMBIA",CITY TV
-
+#EXTINF:-1 tvg-logo="https://static.telus.com/common/cms/images/tv/satellite/new-channel-logos/CityHD.png" group-title="COLOMBIA",CITY TV (2)
+http://iptvpremium.selfip.net:80/live/3HcdvVLVcd/Kq7HFUUDpH/13744.rtmp
 
 #EXTINF:-1 tvg-logo="https://static.telus.com/common/cms/images/tv/satellite/new-channel-logos/CityHD.png" group-title="COLOMBIA",CITY TV
 http://kimbogrupol.com:25461/live/Luis/1234/17315.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/RYaIpxNTZMjabM2a04QIuPYvgQcyTqJwdBWk1zndjQElkma2QUK3PnZUWdSsQZwrQw=s180" group-title="COLOMBIA",CLARO CINEMA (2) 
+http://iptvpremium.selfip.net:80/live/3HcdvVLVcd/Kq7HFUUDpH/13729.rtmp
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/386408609/cnc2_400x400.png" group-title="COLOMBIA",CNC 
 
@@ -512,10 +524,16 @@ http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.revistaquetal.com/wp-content/uploads/2013/10/rcn-television.jpg" group-title="COLOMBIA",RCN NOVELAS 
-
+http://iptvpremium.selfip.net:80/live/3HcdvVLVcd/Kq7HFUUDpH/13633.rtmp
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.revistaquetal.com/wp-content/uploads/2013/10/rcn-television.jpg" group-title="COLOMBIA",RCN NOVELAS 
 http://kimbogrupol.com:25461/live/Luis/1234/17319.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlRCMjKC-3zyAei59IQWTy6NSqoACRS8y235mJqOMjsxXin_ri" group-title="COLOMBIA",TELEANTIOQUIA
+http://iptvpremium.selfip.net:80/live/3HcdvVLVcd/Kq7HFUUDpH/13621.rtmp
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxWeYT2L6bA-7imcCPDmfZGboSlp7KSkzxV5SvBpTPRH_L_vwU" group-title="COLOMBIA",TELECAFE
+http://iptvpremium.selfip.net:80/live/3HcdvVLVcd/Kq7HFUUDpH/13620.rtmp
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmXkFA0Z2I1DISP8KWOHpI6YEy78WxUikZbP93RrgjoaVu0glz" group-title="COLOMBIA",TRECE LA°
 https://cdn.logicideas.media/canaltrece-live/canal13.smil/chunklist_b4500000.m3u8
@@ -821,13 +839,23 @@ http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/p
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5CEL5MTsJ8EoAgeQISqhFDVa1Vlx-bh5GLPQKXmbwudkCsa58" group-title="MEXICO",AZ CORAZON (2)
+http://iptvpremium.selfip.net:80/live/3HcdvVLVcd/Kq7HFUUDpH/13970.rtmp
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5CEL5MTsJ8EoAgeQISqhFDVa1Vlx-bh5GLPQKXmbwudkCsa58" group-title="MEXICO",AZ CORAZON HD (2)
+http://iptvpremium.selfip.net:80/live/3HcdvVLVcd/Kq7HFUUDpH/13969.rtmp
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5CEL5MTsJ8EoAgeQISqhFDVa1Vlx-bh5GLPQKXmbwudkCsa58" group-title="MEXICO",AZ CORAZON FHD (2)
+http://iptvpremium.selfip.net:80/live/3HcdvVLVcd/Kq7HFUUDpH/13968.rtmp
 
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/co_az-mundo-hd_m.png" group-title="MEXICO",AZ MUNDO (1)
 
 
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/co_az-mundo-hd_m.png" group-title="MEXICO",AZ MUNDO (2)
+http://iptvpremium.selfip.net:80/live/3HcdvVLVcd/Kq7HFUUDpH/13763.rtmp
 
+#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/co_az-mundo-hd_m.png" group-title="MEXICO",AZ MUNDO FHD (2)
+http://iptvpremium.selfip.net:80/live/3HcdvVLVcd/Kq7HFUUDpH/13762.rtmp
 
 #EXTINF:-1 tvg-logo="http://www.ipsummediagroup.com/blog/wp-content/uploads/2016/12/Logo-Viejo-Azteca-7.jpg" group-title="MEXICO",AZTECA 7 (1)
 
@@ -850,8 +878,8 @@ https://aztecalive-lh.akamaihd.net/i/0qfv8evsp_1@458764/index_3_av-p.m3u8?sd=10&
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBQKBXaw5oW0ta6160Qd9I5yCUNi16AQ2fYqkJozU00fw90qYm" group-title="MEXICO",CADENA H (MEX)
 
 
-#EXTINF:-1 tvg-logo="http://www.paredro.com/wp-content/uploads/2016/08/LOGO-LAS-ESTRELLAS.jpg" group-title="MEXICO",CANAL DE LAS ESTRELLAS 
-
+#EXTINF:-1 tvg-logo="http://www.paredro.com/wp-content/uploads/2016/08/LOGO-LAS-ESTRELLAS.jpg" group-title="MEXICO",CANAL DE LAS ESTRELLAS (2)
+http://iptvpremium.selfip.net:80/live/3HcdvVLVcd/Kq7HFUUDpH/13959.rtmp
 
 #EXTINF:-1 tvg-logo="http://www.paredro.com/wp-content/uploads/2016/08/LOGO-LAS-ESTRELLAS.jpg" group-title="MEXICO",CANAL DE LAS ESTRELLAS
 http://kimbogrupol.com:25461/live/Luis/1234/17331.m3u8
@@ -892,8 +920,8 @@ https://180ce25c70.site.internapcdn.net/ryta_live/chunklist_b481072.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQV1yZ7r6BAaZQPVeHlMXb0kdLrcRWVIhivLdm7NCSU1woy3pd" group-title="MEXICO",CAPITAL 21 (MEX)
 http://23.227.189.81/ciudadtv/abr_ciudadtv/playlist.m3u8?GrupoTopIptv
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/776461277820354560/qlnkXHo8_400x400.jpg" group-title="MEXICO",GALAVISION (MEX)
-
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/776461277820354560/qlnkXHo8_400x400.jpg" group-title="MEXICO",GALAVISION
+http://iptvpremium.selfip.net:80/live/3HcdvVLVcd/Kq7HFUUDpH/13815.rtmp
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1057408851253714946/GSxqNEQv.jpg" group-title="MEXICO",FORO TV (1)
 
@@ -929,7 +957,7 @@ http://live.gvstream.net:1935/e-tv-video/play.stream/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCpnpvmWOKNc6oZTzEUC-Z-UAQpdxfuN_rAS05HGEZJ_Hsp3PN" group-title="MEXICO",PASIONES
-
+http://iptvpremium.selfip.net:80/live/3HcdvVLVcd/Kq7HFUUDpH/13635.rtmp
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCpnpvmWOKNc6oZTzEUC-Z-UAQpdxfuN_rAS05HGEZJ_Hsp3PN" group-title="MEXICO",PASIONES 
 http://kimbogrupol.com:25461/live/Luis/1234/17332.m3u8
@@ -950,7 +978,7 @@ http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u
 
 
 #EXTINF:-1 tvg-logo="https://www.broadcastingcable.com/.image/t_share/MTU0MjAzNTE1NDI2MTIxMDcw/telemundo-station-group-hi-res_previewjpeg.jpg" group-title="MEXICO",TELEMUNDO (2)
-
+http://iptvpremium.selfip.net:80/live/3HcdvVLVcd/Kq7HFUUDpH/13602.rtmp
 
 #EXTINF:-1 tvg-logo="https://www.alliance4creativity.com/wp-content/uploads/2017/06/GRUPO-TELEVISA-LOGO.png" group-title="MEXICO",TELEVISA (2)
 
@@ -959,7 +987,7 @@ http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u
 
 
 #EXTINF:-1 tvg-logo="http://blancolorenz.com/wp-content/uploads/2012/06/TLNovelas.png" group-title="MEXICO",TLNOVELAS (2)
-
+http://iptvpremium.selfip.net:80/live/3HcdvVLVcd/Kq7HFUUDpH/13617.rtmp
 
 #EXTINF:-1 tvg-logo="http://blancolorenz.com/wp-content/uploads/2012/06/TLNovelas.png" group-title="MEXICO",TLNOVELAS 
 http://kimbogrupol.com:25461/live/Luis/1234/16679.m3u8
