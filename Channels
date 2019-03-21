@@ -12,7 +12,7 @@ https://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 https://stream.vagalume.fm/hls/1470155259220668/aac.m3u8
 #####################################################################################################################################
 ######################################################################################################################################
-####################################### ARGENTINA_____________________________________________________________________________________
+####################################### ARGENTINA
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2016/06/16/01/20/argentina-1460299_960_720.jpg" group-title="ARGENTINA",ARGENTINA
 https://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
 #######################################
@@ -789,19 +789,19 @@ https://stream.vagalume.fm/hls/1470154922349875/aac.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdtbSe-o6E2YbVLhRNgCKN0rumMBigVhbK7oKLXJoogkfTJMNH" group-title="ITALIA",CANALE 5 (ITA)
 
 
-#EXTINF:-1 tvg-logo="https://www.tvdream.net/immagini/canale7.gif" group-title="ITALIA",CANALE 7 (ITA)
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/01/canale-7.png" group-title="ITALIA",CANALE 7 (ITA)
 http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSasOeR4ONW-jn0_XzV8t6-BzVR1lmSN1kNpkZlCd5Ry0g28uhh" group-title="ITALIA",HISTORY LAB (ITA)
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/12/Histori-Lab.png" group-title="ITALIA",HISTORY LAB (ITA)
 http://wma10.fluidstream.net:1935/HistoryLab/livestream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEIBTtXVWy-qVpWl3hmxS2v9Fp5WsneLJkCanebpnushokAoPy" group-title="ITALIA",RAI 4 (ITA)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U2TCH5e.png" group-title="ITALIA",RAI 4 (ITA)
 http://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/index_1800_av-p.m3u8
 
-#EXTINF:-1 tvg-logo="https://i1.wp.com/directostv.teleame.com/wp-content/uploads/2017/09/Rai-Movie-1.png?fit=500%2C300" group-title="ITALIA",RAI MOVIE (ITA)
+#EXTINF:-1 tvg-logo="http://rtl-adconnect.com/wp-content/uploads/2017/04/Rai-Movie.png" group-title="ITALIA",RAI MOVIE (ITA)
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2018/01/videolina.png?fit=500%2C300" group-title="ITALIA",VIDEOLINA (ITA)
+#EXTINF:-1 tvg-logo="http://pbmnet.it/wordpress/wp-content/uploads/2014/05/portfolio-videolina.png" group-title="ITALIA",VIDEOLINA (ITA)
 http://livestreaming.videolina.it/live/Videolina/playlist.m3u8
 
 ######################################################################################################################################
