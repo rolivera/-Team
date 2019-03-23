@@ -1300,14 +1300,15 @@ http://kimbogrupol.com:25461/live/julian/julian1/16527.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQU2uqw5gEtjTV2AgBQJBkl4xAzXowEosN47HS77HOtgzKUtfV" group-title="URUGUAY",LA RED Artigas
 
 
+#EXTINF:-1 tvg-logo="http://www.radiomontecarlo.com.uy/imgs/articulos/articulos36_57504.png?3759" group-title="URUGUAY",MONTECARLO SD
+http://api.new.livestream.com/accounts/152816/events/4235094/live.m3u8?GrupoTopIptv
+
+#EXTINF:-1 tvg-logo="http://www.radiomontecarlo.com.uy/imgs/articulos/articulos36_57504.png?3759" group-title="URUGUAY",MONTECARLO (1)
+http://tvnext.biz:25462/live/mendoza/12345/18261.rtmp
+
 #EXTINF:-1 tvg-logo="http://www.radiomontecarlo.com.uy/imgs/articulos/articulos36_57504.png?3759" group-title="URUGUAY",MONTECARLO
 http://kimbogrupol.com:25461/live/Luis/1234/16524.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.radiomontecarlo.com.uy/imgs/articulos/articulos36_57504.png?3759" group-title="URUGUAY",MONTECARLO
-
-
-#EXTINF:-1 tvg-logo="http://www.radiomontecarlo.com.uy/imgs/articulos/articulos36_57504.png?3759" group-title="URUGUAY",MONTECARLO SD
-http://api.new.livestream.com/accounts/152816/events/4235094/live.m3u8?GrupoTopIptv
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/912770611419783168/O0rCFK49_400x400.jpg" group-title="URUGUAY",MONTEVIDEO PORTAL SD
 http://wowza.montevideo.com.uy:1936/live/_definst_/mvdstrem/chunklist_w240300788.m3u8
@@ -1318,11 +1319,17 @@ http://kimbogrupol.com:25461/live/Luis/1234/4307.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF-PmzUOj0kOARiroHkus5Er5NyMy9JSwcWEnKY_d0OIHwkHQH" group-title="URUGUAY",RTV Rocha
 
 
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-gXhn1i6LiCM/VKOv0_4IFfI/AAAAAAAAFmw/qoNG1mHsytc/s640/blogger-image--648257053.jpg" group-title="URUGUAY",SAETA 10 (1)
+http://tvnext.biz:25462/live/mendoza/12345/3344.rtmp
+
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-gXhn1i6LiCM/VKOv0_4IFfI/AAAAAAAAFmw/qoNG1mHsytc/s640/blogger-image--648257053.jpg" group-title="URUGUAY",SAETA 10
 http://kimbogrupol.com:25461/live/julian/julian1/16529.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-gXhn1i6LiCM/VKOv0_4IFfI/AAAAAAAAFmw/qoNG1mHsytc/s640/blogger-image--648257053.jpg" group-title="URUGUAY",SAETA 10
 http://kimbogrupol.com:25461/live/Luis/1234/16529.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/61/Teledoce_logo.png/revision/latest?cb=20140706162325" group-title="URUGUAY",TELEDOCE (1)
+http://tvnext.biz:25462/live/mendoza/12345/18731.rtmp
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/61/Teledoce_logo.png/revision/latest?cb=20140706162325" group-title="URUGUAY",TELEDOCE
 http://kimbogrupol.com:25461/live/julian/julian1/16531.m3u8
@@ -1330,18 +1337,23 @@ http://kimbogrupol.com:25461/live/julian/julian1/16531.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/61/Teledoce_logo.png/revision/latest?cb=20140706162325" group-title="URUGUAY",TELEDOCE
 http://kimbogrupol.com:25461/live/Luis/1234/16531.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/AAuE7mDrA_c2X9qw5Km09XpdhtiP12P_4c5LJeK3qA=s900-mo-c-c0xffffffff-rj-k-no" group-title="URUGUAY",TNU
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/AAuE7mDrA_c2X9qw5Km09XpdhtiP12P_4c5LJeK3qA=s900-mo-c-c0xffffffff-rj-k-no" group-title="URUGUAY",TNU (1)
+http://tvnext.biz:25462/live/mendoza/12345/19351.rtmp
 
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSohgVHNIlVxW0G0V_0VwpxK8QoOOerEiLFWM4F-wHP9wsU6ITf" group-title="URUGUAY",TV CIUDAD
-
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSohgVHNIlVxW0G0V_0VwpxK8QoOOerEiLFWM4F-wHP9wsU6ITf" group-title="URUGUAY",TV CIUDAD (1)
+http://tvnext.biz:25462/live/mendoza/12345/19352.rtmp
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1eS8gxcJ1kxicoDvzok6mx560uEa6s41EFmTvdgu00I-kuIPM" group-title="URUGUAY",URUGuAY NATURAL
 
 
 #EXTINF:-1 tvg-logo="https://store-images.s-microsoft.com/image/apps.62340.9007199266392866.44565621-b2f5-44e6-88a3-3daad7cf1acc.59e0516a-8265-48a5-aab0-4c851618b006?mode=scale&q=90&h=300&w=300" group-title="URUGUAY",VERA +
 
+
+#EXTINF:-1 tvg-logo="https://mlstaticquic-a.akamaihd.net/2android-tv-box-750-canales-de-cable-canales-uruguayos-y-vtv-D_NQ_NP_884222-MLU26628807182_012018-F.jpg" group-title="URUGUAY",VTV (1)
+http://tvnext.biz:25462/live/mendoza/12345/3598.rtmp
+
+#EXTINF:-1 tvg-logo="https://mlstaticquic-a.akamaihd.net/2android-tv-box-750-canales-de-cable-canales-uruguayos-y-vtv-D_NQ_NP_884222-MLU26628807182_012018-F.jpg" group-title="URUGUAY",VTV HD (1)
+http://tvnext.biz:25462/live/mendoza/12345/22204.rtmp
 
 #EXTINF:-1 tvg-logo="https://mlstaticquic-a.akamaihd.net/2android-tv-box-750-canales-de-cable-canales-uruguayos-y-vtv-D_NQ_NP_884222-MLU26628807182_012018-F.jpg" group-title="URUGUAY",VTV
 http://kimbogrupol.com:25461/live/julian/julian1/16074.m3u8
@@ -4793,6 +4805,9 @@ http://purpleserver.net:80/live/4NXsryE6fZ/2863954338/18862.ts
 #EXTINF:-1 tvg-logo="http://www.megaredargentina.com.ar/images/Canales/Deportv.png" group-title="DEPORTES/ESPORTES",DEPORTV (3)
 http://nexusonline.club:25461/live/Erick/Erick/15262.rtmp
 
+#EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/969313918727409665/mRvrSacI_400x400.jpg" group-title="DEPORTES/ESPORTES",DIRECTV SPORTS URUGUAY (1)
+http://tvnext.biz:25462/live/mendoza/12345/2041.rtmp
+
 #EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/969313918727409665/mRvrSacI_400x400.jpg" group-title="DEPORTES/ESPORTES",DIRECTV SPORTS (2)
 http://iptvpremium.selfip.net:80/live/3HcdvVLVcd/Kq7HFUUDpH/13908.rtmp
 
@@ -4939,6 +4954,9 @@ http://iptvpremium.selfip.net:80/live/3HcdvVLVcd/Kq7HFUUDpH/2758.rtmp
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3siiXt2YMBgW_LL0mfXCpTWNAwQ8t6IvyPMbCs76NSZrx7ti6NQ" group-title="DEPORTES/ESPORTES",FOX DEPORTES (2)
 
+
+#EXTINF:-1 tvg-logo="http://elpoderdelasideas.com/wp-content/uploads/fox-sports-logo-detalles.png" group-title="DEPORTES/ESPORTES",FOX SPORTS URUGUAY (1)
+http://tvnext.biz:25462/live/mendoza/12345/3621.rtmp
 
 #EXTINF:-1 tvg-logo="http://elpoderdelasideas.com/wp-content/uploads/fox-sports-logo-detalles.png" group-title="DEPORTES/ESPORTES",FOX SPORTS (2)
 http://iptvpremium.selfip.net:80/live/3HcdvVLVcd/Kq7HFUUDpH/13683.rtmp
