@@ -1493,6 +1493,27 @@ http://stmv2.srvstm.com:1935/tvjsid/tvjsid/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/16da1f7b0f5766e3fdfbbbca0dad79ea.jpg" group-title="CINE" pltv-subgroup="CINE BRASIL",TV na Ilha
 http://wowv.gadi.com.br/tvnailha/tvnailha/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://cinemaclub.com.ar/assets/img/logo-cinema-club.png" group-title="24/7" pltv-subgroup="24/7 BRASIL",Cinema Açao
+http://fonte.iptvmaishd.com:25461/live/0515/0515/154028.rtmp
+
+#EXTINF:-1 tvg-logo="http://cinemaclub.com.ar/assets/img/logo-cinema-club.png" group-title="24/7" pltv-subgroup="24/7 BRASIL",Cinema Animaçao
+http://fonte.iptvmaishd.com:25461/live/0515/0515/154029.rtmp
+
+#EXTINF:-1 tvg-logo="http://cinemaclub.com.ar/assets/img/logo-cinema-club.png" group-title="24/7" pltv-subgroup="24/7 BRASIL",Cinema Comedia
+http://fonte.iptvmaishd.com:25461/live/0515/0515/154027.rtmp
+
+#EXTINF:-1 tvg-logo="http://cinemaclub.com.ar/assets/img/logo-cinema-club.png" group-title="24/7" pltv-subgroup="24/7 BRASIL",Cinema Drama
+http://fonte.iptvmaishd.com:25461/live/0515/0515/154025.rtmp
+
+#EXTINF:-1 tvg-logo="http://cinemaclub.com.ar/assets/img/logo-cinema-club.png" group-title="24/7" pltv-subgroup="24/7 BRASIL",Cinema Lançamentos
+http://fonte.iptvmaishd.com:25461/live/0515/0515/154022.rtmp
+
+#EXTINF:-1 tvg-logo="http://cinemaclub.com.ar/assets/img/logo-cinema-club.png" group-title="24/7" pltv-subgroup="24/7 BRASIL",Cinema Marvel
+http://fonte.iptvmaishd.com:25461/live/0515/0515/154021.rtmp
+
+#EXTINF:-1 tvg-logo="http://cinemaclub.com.ar/assets/img/logo-cinema-club.png" group-title="24/7" pltv-subgroup="24/7 BRASIL",Cinema Terror
+http://fonte.iptvmaishd.com:25461/live/0515/0515/154019.rtmp
+
 #######################################################################################################################################################################################
 #######################################################################################################################################################################################
 ####################################### 24/7
@@ -1607,41 +1628,50 @@ http://streamtv.com.br:80/live/fredfred/fredfred/20183.rtmp
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/3a/e8/4a/3ae84ac7849b0566374398a5fa91ed6d.jpg" group-title="24/7" pltv-subgroup="24/7 BRASIL",Masha e o Urso
 http://streamtv.com.br:80/live/fredfred/fredfred/20202.rtmp
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/ca/4a/5d/ca4a5d19458299275ea2f40665508cb3.jpg" group-title="24/7" pltv-subgroup="24/7 BRASIL",Ben 10
-
-
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/ca/4a/5d/ca4a5d19458299275ea2f40665508cb3.jpg" group-title="24/7" pltv-subgroup="24/7 BRASIL",Ben 10 Edit
 http://streamtv.com.br:80/live/fredfred/fredfred/20176.rtmp
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAoBVgjaItXNqyJmgVbFNlQPkyypVbzJTRP-cl3w6U-5SrYykpzQ" group-title="24/7" pltv-subgroup="24/7 BRASIL",O Pica-Pau
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhdC8f0ls6OU4EwzTsw1izvK7p4VURz0CtvXKg7gSWNf2hpdsq" group-title="24/7" pltv-subgroup="24/7 BRASIL",Os Cavaleiros do Zodíaco
-
 
 #EXTINF:-1 tvg-logo="https://ih0.redbubble.net/image.267460411.2409/flat,550x550,075,f.u3.jpg" group-title="24/7" pltv-subgroup="24/7 BRASIL",Coragem O Cão Covarde
 http://streamtv.com.br:80/live/fredfred/fredfred/20223.rtmp
 
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-oBrIC_dwGpE/WfAJfyjkAsI/AAAAAAAACOw/jIWAUaO9fKItHOg3DGh6-mNzuO_h6vnzACLcBGAs/s1600/CHA.png" group-title="24/7" pltv-subgroup="24/7 BRASIL",Chaves
-
-
 #EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/imgs/7/4/0/7404c9622404fad02c97805749040095_icon.png?w=256" group-title="24/7" pltv-subgroup="24/7 BRASIL",Chaves Animado
 http://streamtv.com.br:80/live/fredfred/fredfred/20181.rtmp
-
-#EXTINF:-1 tvg-logo="https://kirakuly.files.wordpress.com/2010/03/spongebob_19.jpg" group-title="24/7" pltv-subgroup="24/7 BRASIL",Bob Esponja
-
-
-#EXTINF:-1 tvg-logo="https://k37.kn3.net/B8C666D97.png" group-title="24/7" pltv-subgroup="24/7 BRASIL",Dragon Ball
-
-
-#EXTINF:-1 tvg-logo="https://gothamotaku.com/wp-content/uploads/2018/09/Estatua-Super-Saiyan-4-Son-Goku-Manga-Dimensions-33-cm.-Dragonball-GT.-Master-Stars-Piece.-Banpresto.jpg" group-title="24/7" pltv-subgroup="24/7 BRASIL",Dragon Ball GT
-
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/47/62/af/4762afbf13173ad0471b0f9de8cbf7dc.jpg" group-title="24/7" pltv-subgroup="24/7 BRASIL",Dragon Ball Super
 http://streamtv.com.br:80/live/fredfred/fredfred/20173.rtmp
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/the_Simpsons-logo-A045F4872C-seeklogo.com.png" group-title="24/7" pltv-subgroup="24/7 BRASIL",Os Simpsons
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/_hM4XqN_mVDA/SsJQXj1juzI/AAAAAAAAAEk/4DzcsjdxBq8/s320/cf.jpg" group-title="24/7" pltv-subgroup="24/7 BRASIL",Cavalo de fogo
+http://fonte.iptvmaishd.com:25461/live/0515/0515/137458.rtmp
 
+#EXTINF:-1 tvg-logo="https://quantaacademia.com/escola/wp-content/uploads/2018/06/Formiga-atomica-1.jpg" group-title="24/7" pltv-subgroup="24/7 BRASIL",A Formiga atómica
+http://fonte.iptvmaishd.com:25461/live/0515/0515/154053.rtmp
+
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/45-451240_pantera-cor-de-rosa-logo-pink-panther.png" group-title="24/7" pltv-subgroup="24/7 BRASIL",A Pantera cor de rosa
+http://fonte.iptvmaishd.com:25461/live/0515/0515/154052.rtmp
+
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-cAY6C8x9UvA/TxDO15g7NaI/AAAAAAAABMc/jjknBPOOBOI/s1600/Pernalonga3.png" group-title="24/7" pltv-subgroup="24/7 BRASIL",A turma do Pernalonga
+http://fonte.iptvmaishd.com:25461/live/0515/0515/154050.rtmp
+
+#EXTINF:-1 tvg-logo="https://unixtitan.net/images/aladdin-transparent-kingdom-hearts-4.png" group-title="24/7" pltv-subgroup="24/7 BRASIL",Aladdin
+http://fonte.iptvmaishd.com:25461/live/0515/0515/154048.rtmp
+
+#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/72879/clearart/animaniacs-4db4cf0e7a488.png" group-title="24/7" pltv-subgroup="24/7 BRASIL",Animaniacs
+http://fonte.iptvmaishd.com:25461/live/0515/0515/154046.rtmp
+
+#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/batman-logo-8-round-image-photo-cake-topper-sheet-D_NQ_NP_656587-MCO25816460698_072017-F.jpg" group-title="24/7" pltv-subgroup="24/7 BRASIL",Batman e Robin
+http://fonte.iptvmaishd.com:25461/live/0515/0515/154043.rtmp
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/29/a2/c6/29a2c6b2679c4c91408a8d9591574c30.png" group-title="24/7" pltv-subgroup="24/7 BRASIL",Bob esponja
+http://fonte.iptvmaishd.com:25461/live/0515/0515/154039.rtmp
+
+#EXTINF:-1 tvg-logo="http://www.wallpaperup.com/uploads/wallpapers/2014/02/28/281460/31b4d2c9e812450c0cbd44a407287915.jpg" group-title="24/7" pltv-subgroup="24/7 BRASIL",Buzz Lightyear
+http://fonte.iptvmaishd.com:25461/live/0515/0515/154036.rtmp
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/JdFcRwL.png" group-title="24/7" pltv-subgroup="24/7 BRASIL",Chapolin
+http://fonte.iptvmaishd.com:25461/live/0515/0515/154031.rtmp
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pTLTG0j.png" group-title="24/7" pltv-subgroup="24/7 BRASIL",Chaves
+http://fonte.iptvmaishd.com:25461/live/0515/0515/154030.rtmp
 
 ######################################################################################################################################
 ####################################### PREMIUM USA
