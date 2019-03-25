@@ -47,6 +47,9 @@ http://live-edge01.telecentro.net.ar/live/26hd-360/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/3.png" group-title="ARGENTINA",Canal 26
 http://kimbogrupol.com:25461/live/Luis/1234/7790.m3u8
 
+#EXTINF:-1 tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/3.png" group-title="ARGENTINA",Canal 26 HD
+http://latinorigin.spidertv.info/juanusa/9QFd8pXP7w/766
+
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_ciudad-abierta_m.png" group-title="ARGENTINA",Canal de la Ciudad
 
 
@@ -71,8 +74,14 @@ http://tvnext.biz:25462/live/mendoza/12345/4016.rtmp
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-vkeG0RQIHnE/WGhvc62WN2I/AAAAAAAABVY/BYhPhbmV8PkibYnkoMh4oUswZ2JLVp_7QCLcB/s1600/elnuevenuevo.png" group-title="ARGENTINA",El Nueve
 http://tvnext.biz:25462/live/mendoza/12345/23229.rtmp
 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-vkeG0RQIHnE/WGhvc62WN2I/AAAAAAAABVY/BYhPhbmV8PkibYnkoMh4oUswZ2JLVp_7QCLcB/s1600/elnuevenuevo.png" group-title="ARGENTINA",El Nueve HD
+http://latinorigin.spidertv.info/juanusa/9QFd8pXP7w/762
+
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4d/El-Trece-HD-Logo-2011-2016.png/revision/latest?cb=20170721071837" group-title="ARGENTINA",El Trece
 http://tvnext.biz:25462/live/mendoza/12345/8183.rtmp
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4d/El-Trece-HD-Logo-2011-2016.png/revision/latest?cb=20170721071837" group-title="ARGENTINA",El Trece HD
+http://latinorigin.spidertv.info/juanusa/9QFd8pXP7w/761
 
 #EXTINF:-1 tvg-logo="https://www.unl.edu.ar/wp-content/uploads/2017/02/litus.png" group-title="ARGENTINA",Litus
 http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8?GrupoTopIptv
@@ -109,6 +118,12 @@ http://tvnext.biz:25462/live/mendoza/12345/3417.rtmp
 
 #EXTINF:-1 tvg-logo="https://imgsvr.radiocut.com.ar/get/crop/center/200/200/cuts_logos/c7/d1/c7d1f319-1d6c-44ed-a70a-9e38f935fa38.jpg" group-title="ARGENTINA",TV Pública
 http://kimbogrupol.com:25461/live/Luis/1234/16472.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgsvr.radiocut.com.ar/get/crop/center/200/200/cuts_logos/c7/d1/c7d1f319-1d6c-44ed-a70a-9e38f935fa38.jpg" group-title="ARGENTINA",TV Pública HD
+http://latinorigin.spidertv.info/juanusa/9QFd8pXP7w/752
+
+#EXTINF:-1 tvg-logo="https://ik.imagekit.io/ulangotv/image/upload/110203_logo_canal_41_mar_del_plata.png" group-title="ARGENTINA",Xfn
+http://latinorigin.spidertv.info/juanusa/9QFd8pXP7w/757
 
 ######################################################################################################################################
 ####################################### BRASIL
@@ -432,6 +447,9 @@ http://unlimited5-cl.dps.live/holvoettv/holvoettv.smil/playlist.m3u8?GrupoTopIpt
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/71/fd/45/71fd456abe5a03ee0d2a17162e0cbd89.png" group-title="CHILE",La Red
 http://kimbogrupol.com:25461/live/julian/julian1/16098.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/71/fd/45/71fd456abe5a03ee0d2a17162e0cbd89.png" group-title="CHILE",La Red HD
+http://latinorigin.spidertv.info/juanusa/9QFd8pXP7w/102
+
 #EXTINF:-1 tvg-logo="https://i0.wp.com/aam.cl/wp-content/uploads/2018/08/Mega_Chile_Alternate_Logo.png?fit=200%2C200&ssl=1" group-title="CHILE",Mega
 http://kimbogrupol.com:25461/live/julian/julian1/16096.m3u8
 
@@ -483,8 +501,8 @@ http://tvnext.biz:25462/live/mendoza/12345/3213.rtmp
 #EXTINF:-1 tvg-logo="https://www.ecured.cu/images/thumb/5/53/CaracolTV2017.png/260px-CaracolTV2017.png" group-title="COLOMBIA",Caracol
 http://kimbogrupol.com:25461/live/Luis/1234/17318.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.ecured.cu/images/thumb/5/53/CaracolTV2017.png/260px-CaracolTV2017.png" group-title="COLOMBIA",Caracol Int
-
+#EXTINF:-1 tvg-logo="https://www.ecured.cu/images/thumb/5/53/CaracolTV2017.png/260px-CaracolTV2017.png" group-title="COLOMBIA",Caracol HD
+http://latinorigin.spidertv.info/juanusa/9QFd8pXP7w/96
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/06/city-tv-356x220.png" group-title="COLOMBIA",City TV
 http://tvnext.biz:25462/live/mendoza/12345/1987.rtmp
@@ -511,7 +529,7 @@ http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
 http://tvnext.biz:25462/live/mendoza/12345/4002.rtmp
 
 #EXTINF:-1 tvg-logo="https://www.vidaentv.com/wp-content/uploads/2015/11/rcn-television.jpg" group-title="COLOMBIA",RCN
-
+http://latinorigin.spidertv.info/juanusa/9QFd8pXP7w/92
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.revistaquetal.com/wp-content/uploads/2013/10/rcn-television.jpg" group-title="COLOMBIA",RCN Novelas
 
@@ -640,7 +658,7 @@ http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/chun
 http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve01_lv3_aosv4_gl0/irtve01_lv3_aosv4_gl0.isml/irtve01_lv3_aosv4_gl0-audio=128000-video=400000.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx5AC8zAOXW8TacAiMZCxk8L7d-RI8KICaIvMBq0LBsK--4KBC" group-title="ESPAÑA",Antena 3
-
+http://latinorigin.spidertv.info/juanusa/9QFd8pXP7w/440
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx5AC8zAOXW8TacAiMZCxk8L7d-RI8KICaIvMBq0LBsK--4KBC" group-title="ESPAÑA",Antena 3
 
@@ -875,6 +893,9 @@ http://162.241.190.126:1935/live/canal4/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0005/1986/brand.gif?itok=tZDtX58l" group-title="MEXICO",Canal 5
 http://189.216.247.113/Content/HLS/Live/Channel(XHGC)/Stream(05)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0005/1986/brand.gif?itok=tZDtX58l" group-title="MEXICO",Canal 5
+http://latinorigin.spidertv.info/juanusa/9QFd8pXP7w/41
 
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0005/1986/brand.gif?itok=tZDtX58l" group-title="MEXICO",Canal 5
 http://tvnext.biz:25462/live/mendoza/12345/3244.rtmp
@@ -1692,7 +1713,7 @@ http://174-36-1-94.webnow.net.br/mega.mp3
 #######################################
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCYq0t66_uL9hi1nbwcd2PkO3qzrAaJRz8WQ2PurilKPPgUfvw" group-title="PREMIUM ESPAÑA",A3Series
-
+http://latinorigin.spidertv.info/juanusa/9QFd8pXP7w/478
 
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/062010/AMCHepburn_B.png?itok=18X2cfEC" group-title="PREMIUM ESPAÑA",Amc
 
