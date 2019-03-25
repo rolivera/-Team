@@ -633,7 +633,7 @@ http://tvnext.biz:25462/live/mendoza/12345/8085.rtmp
 #EXTINF:-1 tvg-logo="https://i1.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/oromar.png?fit=500%2C300" group-title="ECUADOR",Oromar TV 
 http://tvnext.biz:25462/live/mendoza/12345/3431.rtmp
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/doblaje/images/c/cd/Logo_rts.png/revision/latest?cb=20170103223401&path-prefix=es" group-title="ECUADOR",RTS 
+#EXTINF:-1 tvg-logo="https://www.infopowerecuador.com/wp-content/uploads/2016/10/logo_rts.png" group-title="ECUADOR",RTS 
 http://tvnext.biz:25462/live/mendoza/12345/3430.rtmp
 
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-4V3uM18vSVo/UaVnkSeIWMI/AAAAAAAABYs/VWe3Jf5u7C8/s1600/Tc_logo+sivergametv.png" group-title="ECUADOR",TC 
@@ -642,7 +642,7 @@ http://tvnext.biz:25462/live/mendoza/12345/3429.rtmp
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-4V3uM18vSVo/UaVnkSeIWMI/AAAAAAAABYs/VWe3Jf5u7C8/s1600/Tc_logo+sivergametv.png" group-title="ECUADOR",TC 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScBOulB59AK6kbDcrr2n7Q2MJXPw21ncySla375EZiCMjVZN8QSw" group-title="ECUADOR",Teleamazonas
+#EXTINF:-1 tvg-logo="http://www.forosecuador.ec/imgfe/ver-teleamazonas-en-vivo-online.png" group-title="ECUADOR",Teleamazonas
 http://tvnext.biz:25462/live/mendoza/12345/3428.rtmp
 
 ######################################################################################################################################
@@ -657,11 +657,8 @@ http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/chun
 #EXTINF:-1 tvg-logo="http://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="ESPAÑA",+24 Horas
 http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve01_lv3_aosv4_gl0/irtve01_lv3_aosv4_gl0.isml/irtve01_lv3_aosv4_gl0-audio=128000-video=400000.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx5AC8zAOXW8TacAiMZCxk8L7d-RI8KICaIvMBq0LBsK--4KBC" group-title="ESPAÑA",Antena 3
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/hn_antena3_m.png" group-title="ESPAÑA",Antena 3
 http://latinorigin.spidertv.info/juanusa/9QFd8pXP7w/440
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx5AC8zAOXW8TacAiMZCxk8L7d-RI8KICaIvMBq0LBsK--4KBC" group-title="ESPAÑA",Antena 3
-
 
 #EXTINF:-1 tvg-logo="http://disproal.es/wp-content/uploads/2016/11/Arag%C3%B3n-TV.png" group-title="ESPAÑA",Aragón TV
 http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8?GrupoTopIptv
@@ -825,17 +822,11 @@ https://stream.vagalume.fm/hls/147015499779090/aac.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt5Vajs_m05gP1BzGWfu5iJ5GIGi7xWeXpnCgFDhuuFG_Xx9g4" group-title="MEXICO",ADN 40 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8nx1IJG-alN8kVZ9TAr15zFOv5IDgWWKi4hpj03wGHytpEaFA" group-title="MEXICO",AZ Cinema
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_az-cinema_m.png" group-title="MEXICO",AZ Cinema
 http://tvnext.biz:25462/live/mendoza/12345/2954.rtmp
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8nx1IJG-alN8kVZ9TAr15zFOv5IDgWWKi4hpj03wGHytpEaFA" group-title="MEXICO",AZ Cinema
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTahIZ1sySofgk1SiM7YzAeSj_b-3FQMQKS4CqX4xqkDXgyuw4D" group-title="MEXICO",AZ Clic
+#EXTINF:-1 tvg-logo="https://i1.wp.com/tvmundoec.com/wp-content/uploads/2017/10/azclick-1.png" group-title="MEXICO",AZ Clic
 http://tvnext.biz:25462/live/mendoza/12345/3245.rtmp
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTahIZ1sySofgk1SiM7YzAeSj_b-3FQMQKS4CqX4xqkDXgyuw4D" group-title="MEXICO",AZ Clic
-
 
 #EXTINF:-1 tvg-logo="http://consorciocablevision.uy/wp-content/uploads/senales/HD/VARIEDADES/209%20-%20azcorazon.png" group-title="MEXICO",AZ Corazón
 http://tvnext.biz:25462/live/mendoza/12345/4026.rtmp
@@ -1017,7 +1008,7 @@ https://5a3911d64928b.streamlock.net/gpacifico4/smil:mazatlan.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://files.merca20.com/uploads/2018/04/unicable.jpg" group-title="MEXICO",Unicable
 http://tvnext.biz:25462/live/mendoza/12345/4052.rtmp
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkW2R_afDJOEC9vorELVA4hz3JvfMbMVzV6XOnTBEBf6GdDjES" group-title="MEXICO",Unimas
+#EXTINF:-1 tvg-logo="https://tejanonation.files.wordpress.com/2015/06/unimas.png" group-title="MEXICO",Unimas
 http://tvnext.biz:25462/live/mendoza/12345/3795.rtmp
 
 #EXTINF:-1 tvg-logo="https://sc.dish.com/shared/images/station-logos/unvso.png" group-title="MEXICO",Universo
@@ -1290,7 +1281,7 @@ http://tvnext.biz:25462/live/mendoza/12345/5471.rtmp
 #EXTINF:-1 tvg-logo="https://melidablog.files.wordpress.com/2011/12/tele.jpg" group-title="R.DOMINICANA",Teleunión
 
 
-#EXTINF:-1 tvg-logo="https://lh6.ggpht.com/JfTi5pySjHnzB5oMrkk3M_RhjSkTraANU0eqSJurvwOtMFf1OzRq1g48vMMUedMbpw=w300" group-title="R.DOMINICANA",Teleuniverso
+#EXTINF:-1 tvg-logo="https://teleuniversotv.com/wp-content/uploads/2018/11/logo_teleuniverso_400px.png" group-title="R.DOMINICANA",Teleuniverso
 http://tvnext.biz:25462/live/mendoza/12345/5473.rtmp
 
 ######################################################################################################################################
@@ -1733,7 +1724,7 @@ http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
 http://174-36-1-94.webnow.net.br/mega.mp3
 #######################################
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCYq0t66_uL9hi1nbwcd2PkO3qzrAaJRz8WQ2PurilKPPgUfvw" group-title="PREMIUM ESPAÑA",A3Series
+#EXTINF:-1 tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages02/2018/02/22/20C2BFA8-ACA3-47DA-AAFB-188D456AB2A9//720x540.jpg" group-title="PREMIUM ESPAÑA",A3Series
 http://latinorigin.spidertv.info/juanusa/9QFd8pXP7w/478
 
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/062010/AMCHepburn_B.png?itok=18X2cfEC" group-title="PREMIUM ESPAÑA",Amc
