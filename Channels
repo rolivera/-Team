@@ -1197,32 +1197,41 @@ https://stream.vagalume.fm/hls/1478022035646498/aac.m3u8
 #EXTINF:-1 tvg-logo="https://pmcdeadline2.files.wordpress.com/2016/02/disney-channel-logo-3.jpg?crop=578px%2C223px%2C1410px%2C945px&resize=446%2C299" group-title="PORTUGAL",Disney
 
 
+#EXTINF:-1 tvg-logo="http://kuriakos-cine.com/wp-content/uploads/2017/10/kuriakos_TV_logo_v42-300x232.png" group-title="PORTUGAL",Kuriakos TV
+http://37.59.41.145:5050/live/admin/dreemedia/97.ts
+
+#EXTINF:-1 tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/3802952_logo_kuriakos_cine.png" group-title="PORTUGAL",Kuriakos Cine
+http://37.59.41.145:5050/live/admin/dreemedia/100.ts
+
+#EXTINF:-1 tvg-logo="http://kuriakos-kids.com/wp-content/uploads/2017/07/banner_top_v6.png" group-title="PORTUGAL",Kuriakos Kids
+http://37.59.41.145:5050/live/admin/dreemedia/99.ts
+
 #EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/e032be33551523.56af8ce558170.jpg" group-title="PORTUGAL",Porto Canal
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUkSlAS1urWXUJmMo6dnaLhBGA8jksVQR3KZcBexbHK0lwAb9M" group-title="PORTUGAL",RTP 1
+#EXTINF:-1 tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTP1_negativo_horiz_RGB.png" group-title="PORTUGAL",RTP 1
+http://37.59.41.145:5050/live/admin/dreemedia/105.ts
 
+#EXTINF:-1 tvg-logo="http://51.255.196.214/Logos/KodiPortugal/RTP2.png" group-title="PORTUGAL",RTP 2
+http://37.59.41.145:5050/live/admin/dreemedia/59.ts
 
-#EXTINF:-1 tvg-logo="http://www.firstonetv.net/images/logos/pt/RTP2.png" group-title="PORTUGAL",RTP 2
-
-
-#EXTINF:-1 tvg-logo="http://www.firstonetv.net/images/logos/pt/RTP2.png" group-title="PORTUGAL",RTP 2
-
-
-#EXTINF:-1 tvg-logo="https://c1.staticflickr.com/6/5777/21269795073_33032b74e8_b.jpg" group-title="PORTUGAL",RTP 3
-
+#EXTINF:-1 tvg-logo="https://farm6.staticflickr.com/5777/21269795073_33032b74e8_b.jpg" group-title="PORTUGAL",RTP 3
+http://37.59.41.145:5050/live/admin/dreemedia/60.ts
 
 #EXTINF:-1 tvg-logo="https://www.firstonetv.net/images/logos/pt/RTP_ACORES.png" group-title="PORTUGAL",RTP Açores
+http://37.59.41.145:5050/live/admin/dreemedia/67.ts
 
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-onTEzaGFHX8/Tyu18Ebu_-I/AAAAAAAAEB4/kM4megZrDhg/s500/RTP+%C3%81frica+logo.png" group-title="PORTUGAL",RTP África
+http://37.59.41.145:5050/live/admin/dreemedia/66.ts
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/04/RTP-%C3%81frica.png?fit=400%2C260" group-title="PORTUGAL",RTP África
-
+#EXTINF:-1 tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2017/07/Captura-de-ecra%CC%83-2017-07-2-a%CC%80s-09.38.29.jpg" group-title="PORTUGAL",RTP Internacional
+http://37.59.41.145:5050/live/admin/dreemedia/65.ts
 
 #EXTINF:-1 tvg-logo="https://coelhopresidente.files.wordpress.com/2012/05/rtp_madeira.png" group-title="PORTUGAL",RTP Madeira
+http://37.59.41.145:5050/live/admin/dreemedia/64.ts
 
-
-#EXTINF:-1 tvg-logo="https://i1.wp.com/directostv.teleame.com/wp-content/uploads/2016/04/RTP-Memoria.png?fit=400%2C260" group-title="PORTUGAL",RTP Memoria
-
+#EXTINF:-1 tvg-logo="http://oklivetv.com/wp-content/uploads/media/2cb57339de8841059313487b14a39dd3.jpeg" group-title="PORTUGAL",RTP Memoria
+http://37.59.41.145:5050/live/admin/dreemedia/62.ts
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/57/200px-LogoSICold.png/revision/latest?cb=20150223193551" group-title="PORTUGAL",Sic
 
