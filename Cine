@@ -1,13 +1,11 @@
 #EXTM3U
 
-
-#PLAYLISTV: pltv-logo="https://scontent.fmvd3-1.fna.fbcdn.net/v/t1.0-9/38802813_1837134749686264_2601748577822703616_n.jpg?_nc_cat=104&_nc_ht=scontent.fmvd3-1.fna&oh=265514b73b511e8095fc4e36a65e5bb7&oe=5C9E1A41" pltv-name="TOP IPTV FILMS" pltv-description="CANALES IPTV" pltv-cover="https://scontent.fmvd3-1.fna.fbcdn.net/v/t1.0-9/38727991_1837084359691303_5840174977231355904_n.jpg?_nc_cat=103&_nc_ht=scontent.fmvd3-1.fna&oh=3730190b2c3379dce58e9a6fb7da8fe9&oe=5C9E90F7" pltv-author="Ale"
+#PLAYLISTV: pltv-logo="https://scontent.fmvd2-1.fna.fbcdn.net/v/t1.0-9/54463143_2159768154089587_4268439151323381760_n.jpg?_nc_cat=104&_nc_ht=scontent.fmvd2-1.fna&oh=0b132de7eaa6d5d47ca58f8c929ba8fb&oe=5D0C2AE1" pltv-name="TOP.tv" pltv-description="CANALES IPTV" pltv-cover="https://scontent.fmvd1-1.fna.fbcdn.net/v/t1.0-9/55807335_2159766627423073_3050953726933073920_n.jpg?_nc_cat=104&_nc_ht=scontent.fmvd1-1.fna&oh=c73469511eaf05f987f271ea5bae5da6&oe=5D0BDDA4" pltv-author="TOP.tv"
 ######################################################################################################################################
-
 ######################################################################################################################################
-#EXTINF:-1 tvg-logo="https://pastebin.com/cache/img/0/12/10/3217255.jpg" group-title="TOP IPTV" ,TOP IPTV
-https://stream.vagalume.fm/hls/14660050141766497579/aac.m3u8
-######################################################################################################################################
+#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/entrada-gratuita-png-6.png" group-title="LISTA GRATUITA",LISTA GRATUITA 
+https://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
+#####################################################################################################################################
 
 ####################################### Latino
 #EXTINF:-1 tvg-logo="https://i2.wp.com/escueladecinedemalaga.com/wp-content/uploads/icono-C%C3%A1mara.png?ssl=1" group-title="Latino",Latino
