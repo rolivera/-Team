@@ -726,8 +726,14 @@ http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/chun
 #EXTINF:-1 tvg-logo="http://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="ESPAÑA",+24 Horas
 http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve01_lv3_aosv4_gl0/irtve01_lv3_aosv4_gl0.isml/irtve01_lv3_aosv4_gl0-audio=128000-video=400000.m3u8
 
+#EXTINF:-1 tvg-logo="http://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="ESPAÑA",+24 Horas
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/13003.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/hn_antena3_m.png" group-title="ESPAÑA",Antena 3
 http://latinorigin.spidertv.info/juanusa/9QFd8pXP7w/440
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/hn_antena3_m.png" group-title="ESPAÑA",Antena 3
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/15474.m3u8
 
 #EXTINF:-1 tvg-logo="http://disproal.es/wp-content/uploads/2016/11/Arag%C3%B3n-TV.png" group-title="ESPAÑA",Aragón TV
 
@@ -739,7 +745,7 @@ http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
 http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/cuatro_logo_500_-1_343d.png" group-title="ESPAÑA",Cuatro
-
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/7686.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cgtn.png" group-title="ESPAÑA",CGTN
 https://livees.cgtn.com/1000e/prog_index.m3u8
@@ -747,20 +753,23 @@ https://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://descargarrevistas.com/wp-content/uploads/2018/12/divinity.jpg" group-title="ESPAÑA",Divinity
 http://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
 
+#EXTINF:-1 tvg-logo="https://descargarrevistas.com/wp-content/uploads/2018/12/divinity.jpg" group-title="ESPAÑA",Divinity
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/7714.m3u8
+
 #EXTINF:-1 tvg-logo="http://eivissalutibiza.com/wp-content/uploads/2016/02/IB3-radio.png" group-title="ESPAÑA",IB3
 http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/IB3.m3u8 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL6FnVHDWXcchgbSwJq3Vv3_llGR-slxDRFnanrMc8yBf_dvZe" group-title="ESPAÑA",La 1
-
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/15907.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL6FnVHDWXcchgbSwJq3Vv3_llGR-slxDRFnanrMc8yBf_dvZe" group-title="ESPAÑA",La 1
 
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/899384654259736578/JcRiYU5A_400x400.jpg" group-title="ESPAÑA",La 2
-
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/7660.m3u8
 
 #EXTINF:-1 tvg-logo="https://colegiokhalilgibran.es/wordpress/wp-content/uploads/2018/10/la_sexta_logo-antes.jpg" group-title="ESPAÑA",La Sexta
-
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/15909.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRbBSeqhCzKdtYGp96qfMPmy_SmKvfaTX2FSQvn-2QFQpLFkLb" group-title="ESPAÑA",Lebrija TV
 
@@ -780,17 +789,23 @@ http://nws.nice264.com/SmilLive/getLiveIOS.smil?stream=NTV_livenatvmb&system=NTV
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/neox-logo-png-1.png" group-title="ESPAÑA",Neox
 http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_1_av-b.m3u8?GrupoTopIptv
 
-#EXTINF:-1 tvg-logo="https://adminweb.onlycable.es/img/Canale/small/Nova/Nova_.jpg" group-title="ESPAÑA",Nova
+#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/neox-logo-png-1.png" group-title="ESPAÑA",Neox
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/14970.m3u8
 
+#EXTINF:-1 tvg-logo="https://adminweb.onlycable.es/img/Canale/small/Nova/Nova_.jpg" group-title="ESPAÑA",Nova
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/7668.m3u8
 
 #EXTINF:-1 tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/telecinco_circular_500_-1_bda1.png" group-title="ESPAÑA",Telecinco
-
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/10008.m3u8
 
 #EXTINF:-1 tvg-logo="https://statics.ccma.cat/multimedia/png/1/3/1466521426331.png" group-title="ESPAÑA",TV 3
 http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_galicia-tv_m.png" group-title="ESPAÑA",TV Galicia
 http://america-crtvg.flumotion.com/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_galicia-tv_m.png" group-title="ESPAÑA",TV Galicia
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/7601.m3u8
 
 ######################################################################################################################################
 ####################################### HONDURAS
@@ -1897,11 +1912,14 @@ http://174-36-1-94.webnow.net.br/mega.mp3
 #EXTINF:-1 tvg-logo="https://canalpanda.es/wp-content/themes/site/images/main-logo.png" group-title="PREMIUM ESPAÑA",Canal Panda
 
 
-#EXTINF:-1 tvg-logo="https://imgur.com/EKvqypE.png" group-title="PREMIUM ESPAÑA",Disney Junior
+#EXTINF:-1 tvg-logo="https://imgur.com/EKvqypE.png" group-title="PREMIUM ESPAÑA",Disney
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/7684.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgur.com/EKvqypE.png" group-title="PREMIUM ESPAÑA",Disney Junior
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/7683.m3u8
 
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/cl_disney-xd_m.png" group-title="PREMIUM ESPAÑA",Disney XD
-
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/7682.m3u8
 
 #EXTINF:-1 tvg-logo="https://banner2.kisspng.com/20180329/heq/kisspng-logo-of-nbc-television-channel-fox-fox-5abc8ef9dcbf13.5561782615223068099042.jpg" group-title="PREMIUM ESPAÑA",Fox
 
