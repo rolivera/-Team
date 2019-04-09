@@ -433,7 +433,7 @@ https://stream.vagalume.fm/hls/1465840912218182609/aac.m3u8
 
 
 #EXTINF:-1  tvg-logo="https://www.oxigeno.bo/sites/default/files/styles/standar_640x480/public/field/image/atb-bolivia-en-vivo.gif?itok=4_e-Ehfa" group-title="BOLIVIA",ATB
-http://stmv1.questreaming.com/atb/atb/playlist.m3u8
+http://186.121.206.197/live/daniel/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ad/Bolivia_TV_2016.png/revision/latest?cb=20160622170105" group-title="BOLIVIA",Bolivia TV
 http://api.new.livestream.com/accounts/10468276/events/3485826/live.m3u8
@@ -714,6 +714,9 @@ http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
 #EXTINF:-1 tvg-logo="http://old.olivafrontera.com/archivos/fotos/actualidad/2017/02/13/logotipo_2x.png" group-title="ESPAÑA",Canal Extremadura
 http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/3781271_logo_canal_sur_cocina1.png" group-title="ESPAÑA",Canal Sur Cocina
+https://593fa17dec176.streamlock.net:443/cscocina/cscocina.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/cuatro_logo_500_-1_343d.png" group-title="ESPAÑA",Cuatro
 http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/7686.m3u8
 
@@ -958,7 +961,7 @@ http://tvnext.biz:25462/live/gerard/gerard/3204.rtmp
 http://tvnext.biz:25462/live/Puma/Puma/3204.rtmp
 
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/27c8cd87b936a2fcf07fe78c6e5009e1880e23161c8e2046970d1f7baeb25591.png" group-title="MEXICO",Impactovisión
-
+http://50.7.98.236:1935/gnode03/smil:gnode03.smil/chunklist_w1994341323_b978000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.detec-altech.com/images/page-4_img1.jpg" group-title="MEXICO",Mexiquense
 
@@ -994,7 +997,7 @@ http://kimbogrupol.com:25461/live/Luis/1234/17332.m3u8
 http://tvnext.biz:25462/live/Puma/Puma/20148.rtmp
 
 #EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/fe/0f/16/fe0f1604-f313-1355-a51c-23fd3b99bde4/source/512x512bb.jpg" group-title="MEXICO",Quiero TV
-
+http://bcliveuniv-lh.akamaihd.net/i/Live_1@170324/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/062015/logo_rcg.png?itok=jrLVjPzh" group-title="MEXICO",RCG
 http://wowzacontrol.com:1936/stream34/stream34/playlist.m3u8
@@ -1135,7 +1138,7 @@ http://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://www.canalipe.tv/sites/default/files/web/users/user85/Google/canal_ipe_logo_png.png" group-title="PERU",IPE
-http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/565018162916114432/7h5k-iqC_400x400.png" group-title="PERU",JN19
 http://movil.mediastream.pe/vv_manosdios/livestream/playlist.m3u8
@@ -1308,11 +1311,14 @@ https://stream.vagalume.fm/hls/147396460892793/aac.m3u8
 #EXTINF:-1 tvg-logo="http://hostlagarto.com/streaming/wp-content/uploads/2017/06/ESTTV-696x244.png" group-title="R.DOMINICANA",ESTV
 
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/616231451403624448/un6zS-V-.png" group-title="R.DOMINICANA",Orbit tv
+http://ss6.domint.net:2082/202_str/orbittv/media_w29206476_playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2LqKWLS.png" group-title="R.DOMINICANA",Telemicro
 http://tvnext.biz:25462/live/gerard/gerard/5471.rtmp
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2LqKWLS.png" group-title="R.DOMINICANA",Telemicro
-http://tvnext.biz:25462/live/Puma/Puma/5471.rtmp
+http://stream.grupotelemicro.com/5.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt5wsudAfXeyOYq3QsY9innPpigRdiySf1MwdhjFk9cKUqHBN-" group-title="R.DOMINICANA",Telenord
 
@@ -1494,6 +1500,9 @@ http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/p
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/InG3Xv9.png" group-title="CINE LATINO",FMHot Pelis
 http://fmhot.04.cl.cdnz.cl/fmhot/smil:cdn.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/InG3Xv9.png" group-title="CINE LATINO",FMHot Pelis opc 2
+http://fmhot.04.cl.cdnz.cl/fmhot/smil:cdn.smil/chunklist_b1800000_slesp.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Naw5Wnn.png" group-title="CINE LATINO",Extrema TV
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
@@ -1830,11 +1839,14 @@ http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/7682.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/c/a/n/xcanal-hollywood.jpg.pagespeed.ic.3xWEdRqWBS.jpg" group-title="PREMIUM ESPAÑA",Hollywood
 
 
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/03/lifetv.png" group-title="PREMIUM ESPAÑA",Life tv
+http://178.132.6.97/uzivo/lifetvesp976/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-v4OGeGQcdcQ/U91s7yMEbdI/AAAAAAAAEv8/2PneO2oDeW4/s1600/%D8%AA%D8%B1%D8%AF%D8%AF+%D9%82%D9%86%D8%A7%D8%A9+%D9%86%D8%A7%D8%B4%D9%88%D9%86%D8%A7%D9%84+%D8%AC%D9%8A%D9%88%D8%BA%D8%B1%D8%A7%D9%81%D9%8A%D9%83+%D8%A7%D8%A8%D9%88+%D8%B8%D8%A8%D9%8A.jpg" group-title="PREMIUM ESPAÑA",Nat Geo
 
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/db/Paramount-logo-in-black.png/revision/latest?cb=20160613041629" group-title="PREMIUM ESPAÑA",Paramount
-
+http://paramount.live.flumotion.com/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.audiovisual451.com/wp-content/uploads/Syfy-2017.jpg" group-title="PREMIUM ESPAÑA",Syfy
 
@@ -3892,6 +3904,9 @@ http://tvnext.biz:25462/live/Puma/Puma/3085.rtmp
 #EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/file_1528172622.png" group-title="INFANTIL LATINO",Cachipum
 http://edge1.cl.grupoz.cl/cachipuntv/live/chunklist_w2057048261.m3u8
 
+#EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/file_1528172622.png" group-title="INFANTIL LATINO",Cachipum
+http://edge1.cl.grupoz.cl/cachipuntv/live/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/ar_cartoon-network_m.png" group-title="INFANTIL LATINO",Cartoon Network (1)
 http://tvnext.biz:25462/live/gerard/gerard/3249.rtmp
 
@@ -3906,6 +3921,9 @@ http://disfruta.net:8000/live/mery0619/kqPkBfPFVK/49.m3u8
 
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/ar_cartoon-network_m.png" group-title="INFANTIL LATINO",Cartoon Network (6)
 http://tvnext.biz:25462/live/Puma/Puma/3249.rtmp
+
+#EXTINF:-1 tvg-logo="https://www.canalipe.tv/sites/default/files/web/users/user219/logo_chicos_ipe_1.jpg" group-title="INFANTIL LATINO",Chicos Ipe
+http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/hn_discovery-kids_m.png" group-title="INFANTIL LATINO",Discovery Kids (1)
 http://tvnext.biz:25462/live/gerard/gerard/3254.rtmp
@@ -4032,6 +4050,9 @@ http://disfruta.net:8000/live/mery0619/kqPkBfPFVK/44.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/496421856669622273/meYpliVM_400x400.jpeg" group-title="INFANTIL LATINO",Pequeradio TV
 http://panel2.cdnstreamserver.com/live/peque-pequetv.m3u8
+
+#EXTINF:-1 tvg-logo="https://statics.ccma.cat/ccma/img/logo-super3.png" group-title="INFANTIL LATINO",Super 3 (Catalán)
+http://ccma-tva-es-cellnex-live-hls.secure.footprint.net/cat/ngrp:c33_web/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/913913768886902784/0AqY59fi_400x400.jpg" group-title="INFANTIL LATINO",Tacho Pistacho
 
@@ -4369,6 +4390,9 @@ http://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8?wowzasessionid
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/da98ac6d6b08d276d592769ec21bc17f.png" group-title="RELIGIOSOS",Gospel Movies
 
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/zwG9kFQHTe8/maxresdefault_live.jpg" group-title="RELIGIOSOS",Mesías tv
+http://a1net-iptv190101.a1network.net:1935/elmesias/elmesias.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/IZKxzJ9.png" group-title="RELIGIOSOS",Novo Tempo
 http://stream.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_w86202803_b2128000_slpor.m3u8?ChannelsON
@@ -5914,6 +5938,9 @@ http://k3.usastreams.com:1935/CableLatino/88stereo/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.hirsat.hu/szolgaltatasok/kabeltv/csatornak/hitmc.png" group-title="MUSICA",H!T Music Channel
 http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8?GrupoTopIptv
+
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/01/Hit-TV.png" group-title="MUSICA",Hit TV
+http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_1.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.liveonlineradio.net/wp-content/uploads/2016/07/Radio-Latinos-Up.jpg" group-title="MUSICA",Latinos Up
 https://5b38ce71f1f00.streamlock.net/8080/8080/chunklist_w956830983.m3u8
