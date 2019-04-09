@@ -139,7 +139,7 @@ https://stream.vagalume.fm/hls/14658544132100453351/aac.m3u8
 ######################################################################################################################################
 
 #EXTINF:0 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/big-brother-brasil-png-5.png" group-title="BRASIL",BBB Mosaico (1)
-
+http://lista.red:8880/live/022/022/33940.m3u8
 
 #EXTINF:0 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/big-brother-brasil-png-5.png" group-title="BRASIL",BBB Mosaico (2)
 
@@ -148,7 +148,7 @@ https://stream.vagalume.fm/hls/14658544132100453351/aac.m3u8
 http://212.8.248.47:80/olivia1/123456/50356
 
 #EXTINF:0 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/big-brother-brasil-png-5.png" group-title="BRASIL",BBB 1 (1)
-
+http://lista.red:8880/live/022/022/33944.m3u8
 
 #EXTINF:0 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/big-brother-brasil-png-5.png" group-title="BRASIL",BBB 1 (2)
 http://streamtv.com.br:80/live/Fernando/123/13427.rtmp
@@ -166,7 +166,7 @@ http://streamtv.com.br:80/live/fredfred/fredfred/13427.rtmp
 
 
 #EXTINF:0 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/big-brother-brasil-png-5.png" group-title="BRASIL",BBB 2 (1)
-
+http://lista.red:8880/live/022/022/33942.m3u8
 
 #EXTINF:0 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/big-brother-brasil-png-5.png" group-title="BRASIL",BBB 2 (2)
 http://streamtv.com.br:80/live/Fernando/123/20052.rtmp
@@ -184,7 +184,7 @@ http://streamtv.com.br:80/live/fredfred/fredfred/20052.rtmp
 http://177.54.152.243:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
 
 #EXTINF:0 tvg-logo="http://www.mundocross.com.br/wp-content/uploads/2013/05/band.jpg" group-title="BRASIL",Band (1)
-http://bestfantastic.ddns.net:8000/live/luissantos/BBB8UMQgCy/45703.ts
+http://lista.red:8880/live/022/022/34190.m3u8
 
 #EXTINF:0 tvg-logo="http://www.mundocross.com.br/wp-content/uploads/2013/05/band.jpg" group-title="BRASIL",Band (2)
 http://streamtv.com.br:80/live/Fernando/123/1661.rtmp
@@ -202,13 +202,13 @@ http://streamtv.com.br:80/live/fredfred/fredfred/1661.rtmp
 http://xx2.servelive.net:80/samuel/samuel/8139
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/Or3Q4WA.png" group-title="BRASIL",Gazeta SP (1)
-
+http://lista.red:8880/live/022/022/33988.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/Or3Q4WA.png" group-title="BRASIL",Gazeta SP (3)
 http://212.8.248.47:80/olivia1/123456/4947
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="BRASIL",Globo SP (1)
-http://bestfantastic.ddns.net:8000/live/luissantos/BBB8UMQgCy/45715.ts
+http://lista.red:8880/live/022/022/33877.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="BRASIL",Globo SP (2)
 http://streamtv.com.br:80/live/Fernando/123/1609.rtmp
@@ -226,7 +226,7 @@ http://streamtv.com.br:80/live/fredfred/fredfred/1609.rtmp
 http://xx2.servelive.net:80/samuel/samuel/8035
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="BRASIL",Globo RJ (1)
-
+http://lista.red:8880/live/022/022/33883.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="BRASIL",Globo RJ (2)
 http://streamtv.com.br:80/live/Fernando/123/1611.rtmp
@@ -244,7 +244,7 @@ http://streamtv.com.br:80/live/fredfred/fredfred/1611.rtmp
 http://xx2.servelive.net:80/samuel/samuel/8039
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/R/rbs-tv-logo-567F6184F4-seeklogo.com.png" group-title="BRASIL",Globo RBS (1)
-
+http://lista.red:8880/live/022/022/33886.m3u8
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/R/rbs-tv-logo-567F6184F4-seeklogo.com.png" group-title="BRASIL",Globo RBS (2)
 http://streamtv.com.br:80/live/Fernando/123/1612.rtmp
@@ -265,7 +265,7 @@ http://xx2.servelive.net:80/samuel/samuel/8041
 http://tv02.logicahost.com.br:1935/itutv/itutv/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/042013/untitled-1_148.png?itok=ld2drTRm" group-title="BRASIL",NBR (1)
-
+http://lista.red:8880/live/022/022/34066.m3u8
 
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/042013/untitled-1_148.png?itok=ld2drTRm" group-title="BRASIL",NBR (2)
 http://streamtv.com.br:80/live/Fernando/123/1578.rtmp
@@ -304,7 +304,7 @@ http://evpp.mm.uol.com.br:1935/redetv2/redetv2/playlist.m3u8
 http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1695741209.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/k4haEx6.png" group-title="BRASIL",Rede TV (1)
-http://bestfantastic.ddns.net:8000/live/luissantos/BBB8UMQgCy/45712.ts
+http://lista.red:8880/live/022/022/34035.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/k4haEx6.png" group-title="BRASIL",Rede TV (2)
 http://streamtv.com.br:80/live/Fernando/123/1561.rtmp
@@ -322,7 +322,7 @@ http://streamtv.com.br:80/live/fredfred/fredfred/1561.rtmp
 http://xx2.servelive.net:80/samuel/samuel/7945
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="BRASIL",Record (1)
-http://bestfantastic.ddns.net:8000/live/luissantos/BBB8UMQgCy/45638.ts
+http://lista.red:8880/live/022/022/34041.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="BRASIL",Record (2)
 http://streamtv.com.br:80/live/Fernando/123/1565.rtmp
@@ -349,7 +349,7 @@ http://api.new.livestream.com/accounts/3332377/events/2958396/live.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="BRASIL",SBT (1)
-http://bestfantastic.ddns.net:8000/live/luissantos/BBB8UMQgCy/45621.ts
+http://lista.red:8880/live/022/022/34032.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="BRASIL",SBT (2)
 http://streamtv.com.br:80/live/Fernando/123/1559.rtmp
@@ -373,7 +373,7 @@ http://xx2.servelive.net:80/samuel/samuel/1128
 http://tv02.logicahost.com.br:1935/bonner/bonner/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112010/untitled-1_197.png?itok=1VZuZOR-" group-title="BRASIL",TV Brasil (1)
-http://bestfantastic.ddns.net:8000/live/luissantos/BBB8UMQgCy/45643.ts
+http://lista.red:8880/live/022/022/33991.m3u8
 
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112010/untitled-1_197.png?itok=1VZuZOR-" group-title="BRASIL",TV Brasil (2)
 
@@ -394,7 +394,7 @@ http://xx2.servelive.net:80/samuel/samuel/7899
 http://stmv1.euroti.com.br:1935/caxiashost/caxiashost/live.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/kai6F2R.png" group-title="BRASIL",TV Cultura (1)
-
+http://lista.red:8880/live/022/022/33968.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/kai6F2R.png" group-title="BRASIL",TV Cultura (2)
 
@@ -2684,7 +2684,7 @@ http://186.227.165.118:1935/insatv/tvshop/live.m3u8
 #######################################################################################################################################################################################
 
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/062010/AMCHepburn_B.png?itok=18X2cfEC" group-title="PREMIUM BRASIL",Amc (1)
-
+http://lista.red:8880/live/022/022/34199.m3u8
 
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/062010/AMCHepburn_B.png?itok=18X2cfEC" group-title="PREMIUM BRASIL",Amc (2)
 http://streamtv.com.br:80/live/Fernando/123/1666.rtmp
@@ -2702,7 +2702,7 @@ http://streamtv.com.br:80/live/fredfred/fredfred/1666.rtmp
 http://xx2.servelive.net:80/samuel/samuel/8148
 
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/axn.png" group-title="PREMIUM BRASIL",Axn (1)
-http://bestfantastic.ddns.net:8000/live/luissantos/BBB8UMQgCy/45704.ts
+http://lista.red:8880/live/022/022/34193.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/axn.png" group-title="PREMIUM BRASIL",Axn (2)
 http://streamtv.com.br:80/live/Fernando/123/1663.rtmp
@@ -2720,7 +2720,7 @@ http://streamtv.com.br:80/live/fredfred/fredfred/1663.rtmp
 http://xx2.servelive.net:80/samuel/samuel/8142
 
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cine/16.png" group-title="PREMIUM BRASIL",Cinemax (1)
-http://bestfantastic.ddns.net:8000/live/luissantos/BBB8UMQgCy/45700.ts
+http://lista.red:8880/live/022/022/34172.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cine/16.png" group-title="PREMIUM BRASIL",Cinemax (2)
 http://streamtv.com.br:80/live/Fernando/123/1651.rtmp
@@ -2738,7 +2738,7 @@ http://streamtv.com.br:80/live/fredfred/fredfred/1651.rtmp
 http://xx2.servelive.net:80/samuel/samuel/8121
 
 #EXTINF:-1 tvg-logo="https://banner2.kisspng.com/20180329/heq/kisspng-logo-of-nbc-television-channel-fox-fox-5abc8ef9dcbf13.5561782615223068099042.jpg" group-title="PREMIUM BRASIL",Fox (1)
-http://bestfantastic.ddns.net:8000/live/luissantos/BBB8UMQgCy/45698.ts
+http://lista.red:8880/live/022/022/34130.m3u8
 
 #EXTINF:-1 tvg-logo="https://banner2.kisspng.com/20180329/heq/kisspng-logo-of-nbc-television-channel-fox-fox-5abc8ef9dcbf13.5561782615223068099042.jpg" group-title="PREMIUM BRASIL",Fox (2)
 http://streamtv.com.br:80/live/Fernando/123/1626.rtmp
@@ -2756,7 +2756,7 @@ http://streamtv.com.br:80/live/fredfred/fredfred/1626.rtmp
 http://xx2.servelive.net:80/samuel/samuel/8071
 
 #EXTINF:-1 tvg-logo="https://www.gmkfreelogos.com/logos/F/img/Foxlife.gif" group-title="PREMIUM BRASIL",Fox Life (1)
-http://bestfantastic.ddns.net:8000/live/luissantos/BBB8UMQgCy/45680.ts
+
 
 #EXTINF:-1 tvg-logo="https://www.gmkfreelogos.com/logos/F/img/Foxlife.gif" group-title="PREMIUM BRASIL",Fox Life (2)
 http://streamtv.com.br:80/live/Fernando/123/1625.rtmp
@@ -2774,7 +2774,7 @@ http://streamtv.com.br:80/live/fredfred/fredfred/1625.rtmp
 http://xx2.servelive.net:80/samuel/samuel/8069
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/59/FOXPremium1.png/revision/latest?cb=20170324170019" group-title="PREMIUM BRASIL",Fox Premium 1 (1)
-
+http://lista.red:8880/live/022/022/34126.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/59/FOXPremium1.png/revision/latest?cb=20170324170019" group-title="PREMIUM BRASIL",Fox Premium 1 (2)
 
@@ -2792,7 +2792,7 @@ http://212.8.248.47:80/olivia1/123456/5085
 http://xx2.servelive.net:80/samuel/samuel/8067
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/28/FOXPremium2.png/revision/latest?cb=20170324170127" group-title="PREMIUM BRASIL",Fox Premium 2 (1)
-http://listaccess.me:8880/guilherme/guilherme/7410
+http://lista.red:8880/live/022/022/34124.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/28/FOXPremium2.png/revision/latest?cb=20170324170127" group-title="PREMIUM BRASIL",Fox Premium 2 (2)
 http://streamtv.com.br:80/live/Fernando/123/1623.rtmp
@@ -2810,7 +2810,7 @@ http://streamtv.com.br:80/live/fredfred/fredfred/1623.rtmp
 http://xx2.servelive.net:80/samuel/samuel/8065
 
 #EXTINF:-1 tvg-logo="https://www.multichannel.com/.image/t_share/MTU0MDY0OTk5NTEwMzg1NzQ2/fx-logopng.png" group-title="PREMIUM BRASIL",Fx (1)
-http://bestfantastic.ddns.net:8000/live/luissantos/BBB8UMQgCy/45641.ts
+http://lista.red:8880/live/022/022/34116.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.multichannel.com/.image/t_share/MTU0MDY0OTk5NTEwMzg1NzQ2/fx-logopng.png" group-title="PREMIUM BRASIL",Fx (2)
 http://streamtv.com.br:80/live/Fernando/123/1619.rtmp
@@ -2828,7 +2828,7 @@ http://streamtv.com.br:80/live/fredfred/fredfred/1619.rtmp
 http://xx2.servelive.net:80/samuel/samuel/8057
 
 #EXTINF:-1 tvg-logo="https://vectors.pro/wp-content/uploads/2017/10/hbo-logo-vector.png" group-title="PREMIUM BRASIL",Hbo (1)
-http://bestfantastic.ddns.net:8000/live/luissantos/BBB8UMQgCy/45697.ts
+http://lista.red:8880/live/022/022/34104.m3u8
 
 #EXTINF:-1 tvg-logo="https://vectors.pro/wp-content/uploads/2017/10/hbo-logo-vector.png" group-title="PREMIUM BRASIL",Hbo (2)
 http://streamtv.com.br:80/live/Fernando/123/1599.rtmp
@@ -2846,7 +2846,7 @@ http://streamtv.com.br:80/live/fredfred/fredfred/1599.rtmp
 http://xx2.servelive.net:80/samuel/samuel/8017
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/sv_hbo-2_m.png" group-title="PREMIUM BRASIL",Hbo 2 (1)
-http://bestfantastic.ddns.net:8000/live/luissantos/BBB8UMQgCy/45696.ts
+http://lista.red:8880/live/022/022/34103.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/sv_hbo-2_m.png" group-title="PREMIUM BRASIL",Hbo 2 (2)
 http://streamtv.com.br:80/live/Fernando/123/1598.rtmp
@@ -2864,7 +2864,7 @@ http://streamtv.com.br:80/live/fredfred/fredfred/1598.rtmp
 http://xx2.servelive.net:80/samuel/samuel/8016
 
 #EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/hbo-family-logo-320x320-745790760.png" group-title="PREMIUM BRASIL",Hbo Family (1)
-http://bestfantastic.ddns.net:8000/live/luissantos/BBB8UMQgCy/45674.ts
+http://lista.red:8880/live/022/022/34101.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/hbo-family-logo-320x320-745790760.png" group-title="PREMIUM BRASIL",Hbo Family (2)
 http://streamtv.com.br:80/live/Fernando/123/1597.rtmp
@@ -2882,7 +2882,7 @@ http://streamtv.com.br:80/live/fredfred/fredfred/1597.rtmp
 http://xx2.servelive.net:80/samuel/samuel/8014
 
 #EXTINF:-1 tvg-logo="http://contenidos.cablevision.com.mx/guia_programacion/channels/634.png" group-title="PREMIUM BRASIL",Hbo Plus (1)
-http://bestfantastic.ddns.net:8000/live/luissantos/BBB8UMQgCy/45673.ts
+http://lista.red:8880/live/022/022/34098.m3u8
 
 #EXTINF:-1 tvg-logo="http://contenidos.cablevision.com.mx/guia_programacion/channels/634.png" group-title="PREMIUM BRASIL",Hbo Plus (2)
 http://streamtv.com.br:80/live/Fernando/123/1596.rtmp
@@ -2915,7 +2915,7 @@ http://xx2.servelive.net:80/samuel/samuel/8011
 
 
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/gt_hbo-signature_m.png" group-title="PREMIUM BRASIL",Hbo Signature (1)
-http://bestfantastic.ddns.net:8000/live/luissantos/BBB8UMQgCy/45672.ts
+http://lista.red:8880/live/022/022/34096.m3u8
 
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/gt_hbo-signature_m.png" group-title="PREMIUM BRASIL",Hbo Signature (2)
 http://streamtv.com.br:80/live/Fernando/123/1594.rtmp
@@ -2948,7 +2948,7 @@ http://xx2.servelive.net:80/samuel/samuel/8008
 
 
 #EXTINF:-1 tvg-logo="https://images.mi.tv/channels/5ccd016b-78f5-4f49-bdad-c9e61f7f11f6_m.jpg" group-title="PREMIUM BRASIL",Max (1)
-http://bestfantastic.ddns.net:8000/live/luissantos/BBB8UMQgCy/45670.ts
+http://lista.red:8880/live/022/022/34086.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.mi.tv/channels/5ccd016b-78f5-4f49-bdad-c9e61f7f11f6_m.jpg" group-title="PREMIUM BRASIL",Max (2)
 http://streamtv.com.br:80/live/Fernando/123/1589.rtmp
@@ -2966,7 +2966,7 @@ http://streamtv.com.br:80/live/fredfred/fredfred/1589.rtmp
 http://xx2.servelive.net:80/samuel/samuel/7998
 
 #EXTINF:-1 tvg-logo="http://sky.vteximg.com.br/arquivos/ids/156096/maxprime-hd.png?v=636446344633130000" group-title="PREMIUM BRASIL",Max Prime (1)
-http://bestfantastic.ddns.net:8000/live/luissantos/BBB8UMQgCy/45669.ts
+http://lista.red:8880/live/022/022/34084.m3u8
 
 #EXTINF:-1 tvg-logo="http://sky.vteximg.com.br/arquivos/ids/156096/maxprime-hd.png?v=636446344633130000" group-title="PREMIUM BRASIL",Max Prime (2)
 http://streamtv.com.br:80/live/Fernando/123/1588.rtmp
@@ -2999,7 +2999,7 @@ http://xx2.servelive.net:80/samuel/samuel/7996
 
 
 #EXTINF:-1 tvg-logo="https://www.totalplay.com.mx/images/logos/canales/hbomax/max-up.png" group-title="PREMIUM BRASIL",Max Up (1)
-http://bestfantastic.ddns.net:8000/live/luissantos/BBB8UMQgCy/45668.ts
+http://lista.red:8880/live/022/022/34082.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.totalplay.com.mx/images/logos/canales/hbomax/max-up.png" group-title="PREMIUM BRASIL",Max Up (2)
 http://streamtv.com.br:80/live/Fernando/123/1586.rtmp
@@ -3017,7 +3017,7 @@ http://streamtv.com.br:80/live/fredfred/fredfred/1586.rtmp
 http://xx2.servelive.net:80/samuel/samuel/7993
 
 #EXTINF:-1 tvg-logo="http://www.netemnatal.com.br/canais_net/megapix.jpg" group-title="PREMIUM BRASIL",Megapix (1)
-http://bestfantastic.ddns.net:8000/live/luissantos/BBB8UMQgCy/45626.ts
+http://lista.red:8880/live/022/022/34080.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.netemnatal.com.br/canais_net/megapix.jpg" group-title="PREMIUM BRASIL",Megapix (2)
 http://streamtv.com.br:80/live/Fernando/123/1585.rtmp
@@ -3035,7 +3035,7 @@ http://streamtv.com.br:80/live/fredfred/fredfred/1585.rtmp
 http://xx2.servelive.net:80/samuel/samuel/7991
 
 #EXTINF:-1 tvg-logo="https://d2xhqqdaxyaju6.cloudfront.net/file/teaser-ci/293920/0/1200-400.jpg" group-title="PREMIUM BRASIL",Paramount (1)
-http://bestfantastic.ddns.net:8000/live/luissantos/BBB8UMQgCy/45664.ts
+http://lista.red:8880/live/022/022/34059.m3u8
 
 #EXTINF:-1 tvg-logo="https://d2xhqqdaxyaju6.cloudfront.net/file/teaser-ci/293920/0/1200-400.jpg" group-title="PREMIUM BRASIL",Paramount (2)
 http://streamtv.com.br:80/live/Fernando/123/1574.rtmp
@@ -3053,7 +3053,7 @@ http://streamtv.com.br:80/live/fredfred/fredfred/1574.rtmp
 http://xx2.servelive.net:80/samuel/samuel/7970
 
 #EXTINF:-1 tvg-logo="http://www.cable10.com/imagenes/programacion/canales_0013s_0006_Layer%2044.jpg" group-title="PREMIUM BRASIL",Sony (1)
-http://bestfantastic.ddns.net:8000/live/luissantos/BBB8UMQgCy/45689.ts
+http://lista.red:8880/live/022/022/34177.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cable10.com/imagenes/programacion/canales_0013s_0006_Layer%2044.jpg" group-title="PREMIUM BRASIL",Sony (2)
 http://streamtv.com.br:80/live/Fernando/123/1654.rtmp
@@ -3071,7 +3071,7 @@ http://streamtv.com.br:80/live/fredfred/fredfred/1654.rtmp
 http://xx2.servelive.net:80/samuel/samuel/8126
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8.png" group-title="PREMIUM BRASIL",Space (1)
-
+http://lista.red:8880/live/022/022/34027.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8.png" group-title="PREMIUM BRASIL",Space (2)
 http://streamtv.com.br:80/live/Fernando/123/1556.rtmp
@@ -3089,7 +3089,7 @@ http://streamtv.com.br:80/live/fredfred/fredfred/1556.rtmp
 http://xx2.servelive.net:80/samuel/samuel/7937
 
 #EXTINF:-1 tvg-logo="http://studiouniversal.wiperagency.com/uploads/product/dcd0513fc9513c710f9cab0e0097abfb4deb340a.jpg" group-title="PREMIUM BRASIL",Studio Universal (1)
-http://bestfantastic.ddns.net:8000/live/luissantos/BBB8UMQgCy/45636.ts
+http://lista.red:8880/live/022/022/34019.m3u8
 
 #EXTINF:-1 tvg-logo="http://studiouniversal.wiperagency.com/uploads/product/dcd0513fc9513c710f9cab0e0097abfb4deb340a.jpg" group-title="PREMIUM BRASIL",Studio Universal (2)
 http://streamtv.com.br:80/live/Fernando/123/1552.rtmp
@@ -3107,7 +3107,7 @@ http://streamtv.com.br:80/live/fredfred/fredfred/1552.rtmp
 http://xx2.servelive.net:80/samuel/samuel/7929
 
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/082015/syfy_0.png?itok=64TT6J8J" group-title="PREMIUM BRASIL",Syfy (1)
-http://bestfantastic.ddns.net:8000/live/luissantos/BBB8UMQgCy/45620.ts
+http://lista.red:8880/live/022/022/34029.m3u8
 
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/082015/syfy_0.png?itok=64TT6J8J" group-title="PREMIUM BRASIL",Syfy (2)
 http://streamtv.com.br:80/live/Fernando/123/1557.rtmp
@@ -3125,7 +3125,7 @@ http://streamtv.com.br:80/live/fredfred/fredfred/1557.rtmp
 http://xx2.servelive.net:80/samuel/samuel/7939
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/06/f2/01/06f201cdd7c0416eddb3a767a9c5cc8d.jpg" group-title="PREMIUM BRASIL",Telecine Action (1)
-http://bestfantastic.ddns.net:8000/live/luissantos/BBB8UMQgCy/45652.ts
+http://lista.red:8880/live/022/022/34014.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/06/f2/01/06f201cdd7c0416eddb3a767a9c5cc8d.jpg" group-title="PREMIUM BRASIL",Telecine Action (2)
 http://streamtv.com.br:80/live/Fernando/123/1548.rtmp
@@ -3143,7 +3143,7 @@ http://streamtv.com.br:80/live/fredfred/fredfred/1548.rtmp
 http://xx2.servelive.net:80/samuel/samuel/7922
 
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/br_telecine-cult-1_m.png" group-title="PREMIUM BRASIL",Telecine Cult (1)
-
+http://lista.red:8880/live/022/022/34012.m3u8
 
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/br_telecine-cult-1_m.png" group-title="PREMIUM BRASIL",Telecine Cult (2)
 http://streamtv.com.br:80/live/Fernando/123/1547.rtmp
@@ -3161,7 +3161,7 @@ http://streamtv.com.br:80/live/fredfred/fredfred/1547.rtmp
 http://xx2.servelive.net:80/samuel/samuel/7920
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/54/c8/7f/54c87f894c0d97024ad5f44aec454a32.jpg" group-title="PREMIUM BRASIL",Telecine Fun (1)
-http://bestfantastic.ddns.net:8000/live/luissantos/BBB8UMQgCy/45650.ts
+http://lista.red:8880/live/022/022/34010.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/54/c8/7f/54c87f894c0d97024ad5f44aec454a32.jpg" group-title="PREMIUM BRASIL",Telecine Fun (2)
 http://streamtv.com.br:80/live/Fernando/123/1546.rtmp
@@ -3179,7 +3179,7 @@ http://streamtv.com.br:80/live/fredfred/fredfred/1546.rtmp
 http://xx2.servelive.net:80/samuel/samuel/7918
 
 #EXTINF:-1 tvg-logo="https://cdn.reweb.io/hagah/image/vG87z-TZwPgc2pcoqY4w9ff2e8U=/300x300/top/smart/hagah/5/53/telecine-pipoca-hd-53eee45e.jpg" group-title="PREMIUM BRASIL",Telecine Pipoca (1)
-http://bestfantastic.ddns.net:8000/live/luissantos/BBB8UMQgCy/45649.ts
+http://lista.red:8880/live/022/022/34008.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.reweb.io/hagah/image/vG87z-TZwPgc2pcoqY4w9ff2e8U=/300x300/top/smart/hagah/5/53/telecine-pipoca-hd-53eee45e.jpg" group-title="PREMIUM BRASIL",Telecine Pipoca (2)
 http://streamtv.com.br:80/live/Fernando/123/1545.rtmp
@@ -3197,7 +3197,7 @@ http://streamtv.com.br:80/live/fredfred/fredfred/1545.rtmp
 http://xx2.servelive.net:80/samuel/samuel/7916
 
 #EXTINF:-1 tvg-logo="https://cdn.reweb.io/hagah/image/q4q0F-QvHi5OlEDHC7vIcim3f0s=/150x150/top/smart/hagah/2/2a/telecine-premium-hd-2aadc341.jpg" group-title="PREMIUM BRASIL",Telecine Premium (1)
-http://bestfantastic.ddns.net:8000/live/luissantos/BBB8UMQgCy/45648.ts
+http://lista.red:8880/live/022/022/34006.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.reweb.io/hagah/image/q4q0F-QvHi5OlEDHC7vIcim3f0s=/150x150/top/smart/hagah/2/2a/telecine-premium-hd-2aadc341.jpg" group-title="PREMIUM BRASIL",Telecine Premium (2)
 http://streamtv.com.br:80/live/Fernando/123/1544.rtmp
@@ -3215,7 +3215,7 @@ http://streamtv.com.br:80/live/fredfred/fredfred/1544.rtmp
 http://xx2.servelive.net:80/samuel/samuel/8067
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.sempretops.com/wp-content/uploads/telecine-touch-logo-nova-online-ao-vivo.gif" group-title="PREMIUM BRASIL",Telecine Touch (1)
-http://bestfantastic.ddns.net:8000/live/luissantos/BBB8UMQgCy/45647.ts
+http://lista.red:8880/live/022/022/34004.m3u8
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.sempretops.com/wp-content/uploads/telecine-touch-logo-nova-online-ao-vivo.gif" group-title="PREMIUM BRASIL",Telecine Touch (2)
 http://streamtv.com.br:80/live/Fernando/123/1543.rtmp
@@ -3233,7 +3233,7 @@ http://streamtv.com.br:80/live/fredfred/fredfred/1543.rtmp
 http://xx2.servelive.net:80/samuel/samuel/7912
 
 #EXTINF:-1 tvg-logo="https://static1.squarespace.com/static/580461c129687f23906ef563/586203ab6a496340ce4520e2/586203c020099ed775154295/1482818498542/tbs-new-logo.png" group-title="PREMIUM BRASIL",Tbs (1)
-http://bestfantastic.ddns.net:8000/live/luissantos/BBB8UMQgCy/45619.ts
+http://lista.red:8880/live/022/022/34017.m3u8
 
 #EXTINF:-1 tvg-logo="https://static1.squarespace.com/static/580461c129687f23906ef563/586203ab6a496340ce4520e2/586203c020099ed775154295/1482818498542/tbs-new-logo.png" group-title="PREMIUM BRASIL",Tbs (2)
 http://streamtv.com.br:80/live/Fernando/123/1550.rtmp
@@ -3251,7 +3251,7 @@ http://streamtv.com.br:80/live/fredfred/fredfred/1550.rtmp
 http://xx2.servelive.net:80/samuel/samuel/7925
 
 #EXTINF:-1 tvg-logo="http://www.brandemia.org/sites/default/files/sites/default/files/tcm_logo_antes.jpg" group-title="PREMIUM BRASIL",Tcm (1)
-http://bestfantastic.ddns.net:8000/live/luissantos/BBB8UMQgCy/45646.ts
+http://lista.red:8880/live/022/022/34015.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.brandemia.org/sites/default/files/sites/default/files/tcm_logo_antes.jpg" group-title="PREMIUM BRASIL",Tcm (2)
 
@@ -3266,7 +3266,7 @@ http://212.8.248.47:80/olivia1/123456/5058
 http://xx2.servelive.net:80/samuel/samuel/7923
 
 #EXTINF:-1 tvg-logo="http://mareatvcable.com/wp-content/uploads/2017/12/44-tntlogo.png" group-title="PREMIUM BRASIL",Tnt (1)
-http://bestfantastic.ddns.net:8000/live/luissantos/BBB8UMQgCy/45693.ts
+http://lista.red:8880/live/022/022/33999.m3u8
 
 #EXTINF:-1 tvg-logo="http://mareatvcable.com/wp-content/uploads/2017/12/44-tntlogo.png" group-title="PREMIUM BRASIL",Tnt (2)
 http://streamtv.com.br:80/live/Fernando/123/1540.rtmp
@@ -3284,7 +3284,7 @@ http://streamtv.com.br:80/live/fredfred/fredfred/1540.rtmp
 http://xx2.servelive.net:80/samuel/samuel/7907
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/cineframe.mx/wp-content/uploads/2017/08/1498152635.png?fit=660%2C660" group-title="PREMIUM BRASIL",Tnt Series (1)
-http://bestfantastic.ddns.net:8000/live/luissantos/BBB8UMQgCy/45644.ts
+http://lista.red:8880/live/022/022/33997.m3u8
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/cineframe.mx/wp-content/uploads/2017/08/1498152635.png?fit=660%2C660" group-title="PREMIUM BRASIL",Tnt Series (2)
 http://streamtv.com.br:80/live/Fernando/123/1539.rtmp
@@ -3302,7 +3302,7 @@ http://streamtv.com.br:80/live/fredfred/fredfred/1539.rtmp
 http://xx2.servelive.net:80/samuel/samuel/7905
 
 #EXTINF:-1 tvg-logo="http://s2.glbimg.com/QQ0n7FZJBvKGjcii_aNn4dvq5f0=/200x200/filters:quality(80)/g.glbimg.com/og/gs/gsat3/f/thumbs/programa/2017/03/09/logo-padrao_5GKjBtK.jpg" group-title="PREMIUM BRASIL",Universal Channel (1)
-http://bestfantastic.ddns.net:8000/live/luissantos/BBB8UMQgCy/45614.ts
+http://lista.red:8880/live/022/022/33983.m3u8
 
 #EXTINF:-1 tvg-logo="http://s2.glbimg.com/QQ0n7FZJBvKGjcii_aNn4dvq5f0=/200x200/filters:quality(80)/g.glbimg.com/og/gs/gsat3/f/thumbs/programa/2017/03/09/logo-padrao_5GKjBtK.jpg" group-title="PREMIUM BRASIL",Universal Channel (2)
 http://streamtv.com.br:80/live/Fernando/123/1529.rtmp
@@ -3320,7 +3320,7 @@ http://streamtv.com.br:80/live/fredfred/fredfred/1529.rtmp
 http://xx2.servelive.net:80/samuel/samuel/7891
 
 #EXTINF:-1 tvg-logo="http://television.com.ar/wp-content/uploads/2016/05/wb.jpg" group-title="PREMIUM BRASIL",Warner Channel (1)
-http://bestfantastic.ddns.net:8000/live/luissantos/BBB8UMQgCy/45692.ts
+http://lista.red:8880/live/022/022/33976.m3u8
 
 #EXTINF:-1 tvg-logo="http://television.com.ar/wp-content/uploads/2016/05/wb.jpg" group-title="PREMIUM BRASIL",Warner Channel (2)
 http://streamtv.com.br:80/live/Fernando/123/1525.rtmp
