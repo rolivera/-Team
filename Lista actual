@@ -741,6 +741,9 @@ http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/15907.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/899384654259736578/JcRiYU5A_400x400.jpg" group-title="ESPAÑA",La 2
 http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/7660.m3u8
 
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/01/Lancelot-tv.png" group-title="ESPAÑA",Lancelot tv
+http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
+
 #EXTINF:-1 tvg-logo="https://colegiokhalilgibran.es/wordpress/wp-content/uploads/2018/10/la_sexta_logo-antes.jpg" group-title="ESPAÑA",La Sexta
 http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/15909.m3u8
 
@@ -1128,8 +1131,8 @@ http://kimbogrupol.com:25461/live/Luis/1234/16109.m3u8
 #EXTINF:-1 tvg-logo="https://cds2.canaln.pe/f/img/399x399default.jpg" group-title="PERU",Canal N
 
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/875664704764608512/L-8xnjNf_400x400.jpg" group-title="PERU",Central TV
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oWya6SB.png" group-title="PERU",Central TV
+http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/3781231/logo_cultura%2024.png" group-title="PERU",Cultura 24 TV
 http://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8
@@ -1150,16 +1153,16 @@ http://kimbogrupol.com:25461/live/sergio/sergio/16108.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/2414323/logo_mega%20tv.png" group-title="PERU",Mega TV 
-http://tvnext.biz:25462/live/gerard/gerard/3343.rtmp
+http://play.hostreamperu.com:1935/8016/8016/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/2414323/logo_mega%20tv.png" group-title="PERU",Mega TV 
-http://kimbogrupol.com:25461/live/Luis/1234/16535.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/2414323/logo_mega%20tv.png" group-title="PERU",Mega TV
-http://kimbogrupol.com:25461/live/sergio/sergio/16535.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/2414323/logo_mega%20tv.png" group-title="PERU",Mega TV 
-http://tvnext.biz:25462/live/Puma/Puma/3343.rtmp
+
 
 #EXTINF:-1 tvg-logo="https://movistarplus.pe/assets/images/LogoMovistarPlus630x355.png" group-title="PERU",Movistar Plus (1)
 
@@ -1194,8 +1197,11 @@ http://kimbogrupol.com:25461/live/sergio/sergio/13038.m3u8
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-Mcc2xCpSKWQ/UF6PxaiQZYI/AAAAAAAACQU/BLm5ZUhxzfs/s1600/LOGOTVPERU.jpg" group-title="PERU",TV Perú
 http://kimbogrupol.com:25461/live/sergio/sergio/12015.m3u8
 
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-Mcc2xCpSKWQ/UF6PxaiQZYI/AAAAAAAACQU/BLm5ZUhxzfs/s1600/LOGOTVPERU.jpg" group-title="PERU",TV Perú
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-Mcc2xCpSKWQ/UF6PxaiQZYI/AAAAAAAACQU/BLm5ZUhxzfs/s1600/LOGOTVPERU.jpg" group-title="PERU",TV Perú HD
+http://cdnh15.iblups.com/hls/R9WtilpKKB.m3u8
 
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-Mcc2xCpSKWQ/UF6PxaiQZYI/AAAAAAAACQU/BLm5ZUhxzfs/s1600/LOGOTVPERU.jpg" group-title="PERU",TV Perú SD
+http://cdnh4.iblups.com/hls/irtp.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/ACSszfEZsuA4Vja3XQ2TOnZRNAoXL01JbQBIDQj-og=s900-mo-c-c0xffffffff-rj-k-no" group-title="PERU",Vía TV
 
@@ -1524,6 +1530,9 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/wow-tv.png" group-title="CINE LATINO",Wow!
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/wow-tv.png" group-title="CINE LATINO",Wow! opc 2
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
 
 #######################################################################################################################################################################################
 #######################################################################################################################################################################################
@@ -3867,6 +3876,9 @@ http://cdn-01.bonus-tv.ru:8080/shop24_edge/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://pm1.narvii.com/6083/dbb08c1e4b74234e286f7ca5a1c924eeeed09eb8_hq.jpg" group-title="INFANTIL LATINO",Animax
 
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/320350553/ANimeTV_logo_copy22.jpg" ,Anime tv
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.directv.com/images/logos/channels/dark/large/673.png" group-title="INFANTIL LATINO",Baby First (1)
 http://tvnext.biz:25462/live/gerard/gerard/2958.rtmp
