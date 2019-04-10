@@ -41,8 +41,14 @@ http://190.52.32.13:1935/canal4/smil:manifest.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/--LWP2IqfJz0/WvMMjRwM5iI/AAAAAAAAhNk/FcXygo8Uk1kqkPr1HITAolJzau-Yd5pAwCK4BGAYYCw/s1600/LOGO%2BCANAL_00005.png" group-title="ARGENTINA",Canal 4 Posadas
 http://184.154.28.210:1935/canal4/canal4/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nD9TVZg.jpg" group-title="ARGENTINA",Canal 9 Comodoro Rivadavia
+http://live.canalnueve.tv:8082/hls/canal.m3u8
+
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-aKHK8Ajrcc0/TpOoS0KRJLI/AAAAAAAAQT4/edRRDvx0kkQ/s1600/canal9salta.png" group-title="ARGENTINA",Canal 9 Salta
 http://panel.dattalive.com:1935/8250/8250/playlist.m3u8?GrupoTopIptv
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LU2WQFP.jpg" group-title="ARGENTINA",Canal 11 Ushuaia
+https://stream.solumedia.com.ar/c11/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/3.png" group-title="ARGENTINA",Canal 26
 http://live-edge01.telecentro.net.ar/live/26hd-360/playlist.m3u8
@@ -182,6 +188,9 @@ http://streamtv.com.br:80/live/fredfred/fredfred/20052.rtmp
 
 #EXTINF:0 tvg-logo="http://www.speedbol.com.br/wp-content/uploads/2017/12/agro-brasil.png" group-title="BRASIL",Agro Brasil
 http://177.54.152.243:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.ytimg.com/vi/EWcqEk5WMIM/maxresdefault.jpg" group-title="BRASIL",Amazon Sat
+http://slrp.sambavideos.sambatech.com/liveevent/amazonsatabr1_3e9c859611a5e7fbedc785bd33c418b5/livestream3/chunklist.m3u8
 
 #EXTINF:0 tvg-logo="http://www.mundocross.com.br/wp-content/uploads/2013/05/band.jpg" group-title="BRASIL",Band (1)
 http://lista.red:8880/live/022/022/34190.m3u8
@@ -624,6 +633,9 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cableplus.co/files/canales%20nuevo%20orden%20y%20logo/113%20guapiles%20tv.png" group-title="COSTA RICA",Guapiles TV 
 
 
+#EXTINF:-1tvg-logo="https://i.imgur.com/OBv7Wb7.png" group-title="COSTA RICA",Super Cinco
+http://k4.usastreams.com/superC/superC_1/chunklist_w27246718.m3u8
+
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/telered.png" group-title="COSTA RICA",Telered
 http://k4.usastreams.com/Telesistemas/Telesistemas/playlist.m3u8?GrupoTopIptv
 
@@ -635,6 +647,9 @@ http://k4.usastreams.com/Telesistemas/Telesistemas/playlist.m3u8?GrupoTopIptv
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/CudLt3UUIAA3HVq.jpg" group-title="COSTA RICA",Ticavisión
 http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YqW3o4z.png" group-title="COSTA RICA",Tv Sur
+http://205.164.56.130:1935/tvsur81/tvsur81/playlist.m3u8
 
 ######################################################################################################################################
 ####################################### CUBA
@@ -831,14 +846,17 @@ http://4.31.30.140:1935/live/mundotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/hn_telecadena_m.png" group-title="HONDURAS",Telecadena
 
 
-#EXTINF:-1 tvg-logo="https://mitvstatic.com/channels/hn_teleceiba_m.png" group-title="HONDURAS",Teleceiba
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vWyTg5L.png" group-title="HONDURAS",Teleceiba
+http://190.11.224.14:8134/liveevent.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.estoesdxt.es/images/web/2141.png" group-title="HONDURAS",TDP 
 
 
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-Zg3GYnLlL74/Wj1RMoNNLuI/AAAAAAADZf8/676eM_H8UCQkbfMuNUtPA5nRM458pTaVQCLcBGAs/s1600/ten-canal-10-televsion-educativa-honduras.png" group-title="HONDURAS",Ten
 http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b1848000.m3u8
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-Zg3GYnLlL74/Wj1RMoNNLuI/AAAAAAADZf8/676eM_H8UCQkbfMuNUtPA5nRM458pTaVQCLcBGAs/s1600/ten-canal-10-televsion-educativa-honduras.png" group-title="HONDURAS",Ten
+http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tsi-honduras-logo-A80A69CD6F-seeklogo.com.png" group-title="HONDURAS",TSI
 https://trinity-lh.akamaihd.net/i/TelevicentroLive2_d@508538/master.m3u8
@@ -927,8 +945,8 @@ http://tvnext.biz:25462/live/Puma/Puma/3243.rtmp
 #EXTINF:-1 tvg-logo="https://www.mvstelevision.com/downloads/52mx/logotipo-jpg.jpg" group-title="MEXICO",Canal 2
 
 
-#EXTINF:-1 tvg-logo="https://historiatv.files.wordpress.com/2011/11/canal4mexico.jpg" group-title="MEXICO",Canal 4
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eFfX2fC.jpg" group-title="MEXICO",Canal 4
+http://162.241.190.126:1935/live/canal4/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0005/1986/brand.gif?itok=tZDtX58l" group-title="MEXICO",Canal 5
 http://189.216.247.113/Content/HLS/Live/Channel(XHGC)/Stream(05)/index.m3u8
@@ -947,6 +965,9 @@ http://wowza.zuperdns.net:1935/zuperhosting.live.grupob.canal20zacatecas/smil:li
 
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/mx_xeipn-canal-11_m.png" group-title="MEXICO",Canal Once
 https://180ce25c70.site.internapcdn.net/ryta_live/chunklist_b481072.m3u8
+
+#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/mx_xeipn-canal-11_m.png" group-title="MEXICO",Canal Once Int
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://prod-railsapp.s3.amazonaws.com/uploads/player/video_poster_image/165089/hfkEf2.png" group-title="MEXICO",Capital 21
 http://23.227.189.81/ciudadtv/abr_ciudadtv/playlist.m3u8?GrupoTopIptv
@@ -1019,6 +1040,9 @@ http://tvnext.biz:25462/live/Puma/Puma/3794.rtmp
 
 #EXTINF:-1 tvg-logo="https://www.alliance4creativity.com/wp-content/uploads/2017/06/GRUPO-TELEVISA-LOGO.png" group-title="MEXICO",Televisa
 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xcpZ2Gr.jpg" group-title="MEXICO",Tlaxcala TV
+http://coracyt.mega00.com:1935/live/coracyt/coracyt/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://blancolorenz.com/wp-content/uploads/2012/06/TLNovelas.png" group-title="MEXICO",TLNovelas
 http://kimbogrupol.com:25461/live/Luis/1234/16679.m3u8
@@ -1317,6 +1341,9 @@ https://stream.vagalume.fm/hls/147396460892793/aac.m3u8
 #EXTINF:-1 tvg-logo="http://hostlagarto.com/streaming/wp-content/uploads/2017/06/ESTTV-696x244.png" group-title="R.DOMINICANA",ESTV
 
 
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/bhj6YkMyoHo/hqdefault.jpg" group-title="R.DOMINICANA",MicroVision
+http://190.103.183.24:1935/live/MicroHD/chunklist_w1105794626.m3u8
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/616231451403624448/un6zS-V-.png" group-title="R.DOMINICANA",Orbit tv
 http://ss6.domint.net:2082/202_str/orbittv/media_w29206476_playlist.m3u8
 
@@ -1326,8 +1353,8 @@ http://tvnext.biz:25462/live/gerard/gerard/5471.rtmp
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2LqKWLS.png" group-title="R.DOMINICANA",Telemicro
 http://stream.grupotelemicro.com/5.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt5wsudAfXeyOYq3QsY9innPpigRdiySf1MwdhjFk9cKUqHBN-" group-title="R.DOMINICANA",Telenord
-
+#EXTINF:-1 tvg-logo="http://emisoradominicana.net/television/wp-content/uploads/2015/06/telenord.jpg" group-title="R.DOMINICANA",Telenord
+http://emisoradominicana.net/television/wp-content/uploads/2015/06/telenord.jpg
 
 #EXTINF:-1 tvg-logo="https://melidablog.files.wordpress.com/2011/12/tele.jpg" group-title="R.DOMINICANA",Teleunión
 
@@ -1387,7 +1414,7 @@ http://api.new.livestream.com/accounts/152816/events/4235094/live.m3u8?GrupoTopI
 http://kimbogrupol.com:25461/live/Luis/1234/16524.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/912770611419783168/O0rCFK49_400x400.jpg" group-title="URUGUAY",Montevideo Portal
-
+http://wowza.montevideo.com.uy:1936/live/_definst_/mvdstrem/chunklist_w1488231185.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF-PmzUOj0kOARiroHkus5Er5NyMy9JSwcWEnKY_d0OIHwkHQH" group-title="URUGUAY",RTV Rocha
 
@@ -5984,6 +6011,9 @@ http://5.196.138.6:1935/live/nrjbelgique_720p/plylist.m3u8?GrupoTopIptv
 #EXTINF:-1 tvg-logo="http://www.portalfoxmix.cl/radioenvivo/images/portalfoxmix-radio-logo-gran-tras.png" group-title="MUSICA",Portal Foxmix
 http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/chunklist_w707723531.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rZuWrF8.png" group-title="MUSICA",Power
+http://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s63651d.png" group-title="MUSICA",Radio Bruno
 http://37.48.83.34:80/radiobrunotv/radiobrunotv/playlist.m3u8
 
@@ -6001,6 +6031,9 @@ http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8?GrupoTopIptv
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz0sQngALHtCn143ZJRHDyg0ZAb_OqxjNmuRlir_Vsd67gDvU6" group-title="MUSICA",Top Latino
 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/897e9wy.png" group-title="MUSICA",Teleritmo
+http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/85/Photo-1467302546.jpg/revision/latest?cb=20160630160226" group-title="MUSICA",U TV  
 http://81.196.0.126/utvedge/utvlivehls/chunklist_w1688658104.m3u8?GrupoTopIptv
