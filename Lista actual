@@ -5356,6 +5356,9 @@ http://194.67.208.149/hls/107.m3u8
 #EXTINF:-1 tvg-logo="http://www.smartblog.es/wp-content/uploads/2012/01/Cabecera-Deportes-Vodafone.png" group-title="DEPORTES/ESPORTES",Eventos 4
 http://194.67.208.149/hls/110.m3u8
 
+#EXTINF:-1  tvg-logo="https://www.livenewsnow.com/wp-content/uploads/2015/05/A-Bola-TV-1.png" group-title="DEPORTES/ESPORTES",A Bola TV Portugal
+http://vip.one-iptv.com:25443/joane/joane/49747
+
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-2xoD2hYxOFI/WPyypDD0hHI/AAAAAAAAPAE/4dEYJH1EjtopzpW3RgxxhR816qJa01d2wCLcB/s200/all%2Bsports%2Btv.png" group-title="DEPORTES/ESPORTES",All Sports
 http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8
 
@@ -5405,10 +5408,7 @@ http://servpremium.net:25461/Claudio3/xjlDqj60ef/489
 http://tvnext.biz:25462/live/gerard/gerard/3117.rtmp
 
 #EXTINF:-1  tvg-logo="https://cdn.sincroguia.tv/uploads/images/b/e/i/bein-sport-liga.jpg" group-title="DEPORTES/ESPORTES",Bein La Liga
-
-
-#EXTINF:-1  tvg-logo="https://cdn.sincroguia.tv/uploads/images/b/e/i/bein-sport-liga.jpg" group-title="DEPORTES/ESPORTES",Bein La Liga (3)
-
+http://vip.one-iptv.com:25443/live/joane/joane/31454.rtmp
 
 #EXTINF:-1  tvg-logo="https://cdn.sincroguia.tv/uploads/images/b/e/i/bein-sport-liga.jpg" group-title="DEPORTES/ESPORTES",Bein La Liga (6)
 http://tvnext.biz:25462/live/Puma/Puma/3117.rtmp
@@ -5419,17 +5419,23 @@ http://servpremium.net:25461/Claudio3/xjlDqj60ef/4232
 #EXTINF:-1  tvg-logo="https://www.electronicadelhogar.es/wp-content/uploads/2017/06/bein.jpg" group-title="DEPORTES/ESPORTES",Bein 1 (3)
 
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/899912632249057282/3qTEUbij_400x400.jpg" group-title="DEPORTES/ESPORTES",Bfm Sports
+#EXTINF:-1  tvg-logo="https://www.electronicadelhogar.es/wp-content/uploads/2017/06/bein.jpg" group-title="DEPORTES/ESPORTES",Bein Sports Usa
+http://vip.one-iptv.com:25443/joane/joane/31827
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/899912632249057282/3qTEUbij_400x400.jpg" group-title="DEPORTES/ESPORTES",Bfm Sports Francia
+http://vip.one-iptv.com:25443/joane/joane/9337
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/02/bolivia-deportes.png" group-title="DEPORTES/ESPORTES",Bolivia Deportes
 http://btvboliviatv.srfms.com:6568/live/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.paywizard.com/wp-content/uploads/2016/09/boxnation.png" group-title="DEPORTES/ESPORTES",Box Nation
-
+http://vip.one-iptv.com:25443/joane/joane/30903
 
 #EXTINF:-1 tvg-logo="https://www.paywizard.com/wp-content/uploads/2016/09/boxnation.png" group-title="DEPORTES/ESPORTES",Box Nation
 
+
+#EXTINF:-1 tvg-logo="https://media1.giphy.com/media/xipWF0LnYvXSHIv1em/source.gif" group-title="DEPORTES/ESPORTES",Cbs Sports Network Usa
+http://vip.one-iptv.com:25443/joane/joane/31665
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1096243773015764992/dNjJIWwZ.png" group-title="DEPORTES/ESPORTES",Cdf (1)
 http://tvnext.biz:25462/live/gerard/gerard/16138.rtmp
@@ -5618,7 +5624,7 @@ http://tvnext.biz:25462/live/Puma/Puma/8520.rtmp
 
 
 #EXTINF:-1  tvg-logo="https://www.digitaltveurope.com/files/2017/09/ELEVEN-SPORTS-logo1.png" group-title="DEPORTES/ESPORTES",Eleven Sports 1 PT
-
+http://vip.one-iptv.com:25443/joane/joane/49754
 
 #EXTINF:-1  tvg-logo="https://www.digitaltveurope.com/files/2017/09/ELEVEN-SPORTS-logo1.png" group-title="DEPORTES/ESPORTES",Eleven Sports 1 FR
 
@@ -5764,14 +5770,26 @@ http://painel.ebanonet.com.br:25461/live/fabinho/fabinho/24835.m3u8
 #EXTINF:-1 tvg-logo="https://img.ibxk.com.br/2016/11/programas/15563009143717446.png" group-title="DEPORTES/ESPORTES",Esporte Interativo Plus
 http://painel.ebanonet.com.br:25461/live/qualidade/qualidade/24835.m3u8
 
-#EXTINF:-1 tvg-logo="https://satsis.info/uploads/posts/2016-01/1453717931_www.satsis.info__eurosport-1.jpg" group-title="DEPORTES/ESPORTES",Eurosport 1
+#EXTINF:-1 tvg-logo="https://satsis.info/uploads/posts/2016-01/1453717931_www.satsis.info__eurosport-1.jpg" group-title="DEPORTES/ESPORTES",Eurosport 1 Fr
+http://vip.one-iptv.com:25443/joane/joane/15172
 
+#EXTINF:-1 tvg-logo="https://satsis.info/uploads/posts/2016-01/1453717931_www.satsis.info__eurosport-1.jpg" group-title="DEPORTES/ESPORTES",Eurosport 1 Pt
+http://vip.one-iptv.com:25443/joane/joane/49727
 
 #EXTINF:-1 tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/1/1150.1447433758.png" group-title="DEPORTES/ESPORTES",Eurosport 2
 
 
 #EXTINF:-1 tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/1/1150.1447433758.png" group-title="DEPORTES/ESPORTES",Eurosport 2 (2)
 http://servpremium.net:25461/Claudio3/xjlDqj60ef/478
+
+#EXTINF:-1 tvg-logo="https://www.gmkfreelogos.com/logos/E/img/Ex_TV.gif" group-title="DEPORTES/ESPORTES",Extreme Sports
+http://vip.one-iptv.com:25443/joane/joane/15227
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41vqfaPjeaL.png" group-title="DEPORTES/ESPORTES",Fight Network
+http://vip.one-iptv.com:25443/joane/joane/49718
+
+#EXTINF:-1 tvg-logo="https://v.fastcdn.co/u/4189833d/2503697-0-FSCPLUS.png" group-title="DEPORTES/ESPORTES",Fox Soccer Plus Usa
+http://vip.one-iptv.com:25443/joane/joane/31642
 
 #EXTINF:-1 tvg-logo="https://comcastspotlight.com/sites/default/files/networks/FOX_Deportes.png" group-title="DEPORTES/ESPORTES",Fox Deportes (1)
 http://tvnext.biz:25462/live/gerard/gerard/3753.rtmp
@@ -5962,8 +5980,8 @@ http://servpremium.net:25461/Claudio3/xjlDqj60ef/4711
 #EXTINF:-1 tvg-logo="https://www.estadio.ec/sites/default/files/fotos/2018/05/11/goltv.jpg" group-title="DEPORTES/ESPORTES",Gol TV España (2)
 
 
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51OUvjSSpZL._SY355_.png" group-title="DEPORTES/ESPORTES",Golf (2)
-
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51OUvjSSpZL._SY355_.png" group-title="DEPORTES/ESPORTES",Golf Francia
+http://vip.one-iptv.com:25443/joane/joane/15162
 
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51OUvjSSpZL._SY355_.png" group-title="DEPORTES/ESPORTES",Golf (4)
 http://kimbogrupol.com:25461/live/paula/123456/17186.m3u8
@@ -5980,20 +5998,32 @@ http://kimbogrupol.com:25461/live/paula/123456/16434.m3u8
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/AFIZZIONADOS.png" group-title="DEPORTES/ESPORTES",Izzi Afizzionados (6)
 http://tvnext.biz:25462/live/Puma/Puma/8248.rtmp
 
+#EXTINF:-1 tvg-logo="http://www.meiosepublicidade.pt/wp-content/uploads/2016/05/kombat.png" group-title="DEPORTES/ESPORTES",Kombat Sports Pt
+http://vip.one-iptv.com:25443/joane/joane/49712
+
 #EXTINF:-1 tvg-logo="https://www.thematv.com/medias/channels/latin-american-sports/logo.png" group-title="DEPORTES/ESPORTES",L.A.S. (2)
 
 
 #EXTINF:-1 tvg-logo="https://e00-elmundo.uecdn.es/television/programacion-tv/img/programas/84/1252228.png" group-title="DEPORTES/ESPORTES",La Liga 123 (2)
 http://servpremium.net:25461/Claudio3/xjlDqj60ef/492
 
-#EXTINF:-1 tvg-logo="http://orientalnewsng.com/wp-content/uploads/2018/05/LaLiga.png" group-title="DEPORTES/ESPORTES",La Liga
+#EXTINF:-1 tvg-logo="https://e00-elmundo.uecdn.es/television/programacion-tv/img/programas/84/1252228.png" group-title="DEPORTES/ESPORTES",La Liga 123
+http://vip.one-iptv.com:25443/live/joane/joane/31557.rtmp
 
+#EXTINF:-1 tvg-logo="http://orientalnewsng.com/wp-content/uploads/2018/05/LaLiga.png" group-title="DEPORTES/ESPORTES",La Liga
+http://vip.one-iptv.com:25443/joane/joane/42861
 
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052014/mlb.png?itok=wlvCELtf" group-title="DEPORTES/ESPORTES",MLB
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
 
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052014/mlb.png?itok=wlvCELtf" group-title="DEPORTES/ESPORTES",MLB (2)
 http://servpremium.net:25461/Claudio3/xjlDqj60ef/470
+
+#EXTINF:-1 tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/3783055_logo_motorvision.png" group-title="DEPORTES/ESPORTES",Motorvision TV
+http://vip.one-iptv.com:25443/joane/joane/15147
+
+#EXTINF:-1 tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/3783055_logo_motorvision.png" group-title="DEPORTES/ESPORTES",Motorvision TV
+http://vip.one-iptv.com:25443/joane/joane/49694
 
 #EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-deportes1.jpg.pagespeed.ic.SoG88VrpZw.jpg" group-title="DEPORTES/ESPORTES",Movistar Deportes
 http://servpremium.net:25461/Claudio3/xjlDqj60ef/3376
@@ -6031,11 +6061,11 @@ http://servpremium.net:25461/Claudio3/xjlDqj60ef/468
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-tv-logo-585DF08BF0-seeklogo.com.png" group-title="DEPORTES/ESPORTES",NBA (2)
 http://servpremium.net:25461/Claudio3/xjlDqj60ef/466
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-tv-logo-585DF08BF0-seeklogo.com.png" group-title="DEPORTES/ESPORTES",NBA (3)
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-tv-logo-585DF08BF0-seeklogo.com.png" group-title="DEPORTES/ESPORTES",NBA HD
+http://vip.one-iptv.com:25443/joane/joane/49707
 
-
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/--s7q1XyGWug/WhR5gObOa0I/AAAAAAAAe-g/6SEOR4cFePE6YBcI1VxIPvKsUiD1Kr8PgCK4BGAYYCw/s1600/pfc.png" group-title="DEPORTES/ESPORTES",Premiere Tabela de jogos
-
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/--s7q1XyGWug/WhR5gObOa0I/AAAAAAAAe-g/6SEOR4cFePE6YBcI1VxIPvKsUiD1Kr8PgCK4BGAYYCw/s1600/pfc.png" group-title="DEPORTES/ESPORTES",Premiere Clubes HD
+http://vip.one-iptv.com:25443/joane/joane/49693
 
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/--s7q1XyGWug/WhR5gObOa0I/AAAAAAAAe-g/6SEOR4cFePE6YBcI1VxIPvKsUiD1Kr8PgCK4BGAYYCw/s1600/pfc.png" group-title="DEPORTES/ESPORTES",Premiere Clubes BR
 http://painel.ebanonet.com.br:25461/live/Manoel/1234/4333.m3u8
@@ -6076,6 +6106,10 @@ http://painel.ebanonet.com.br:25461/live/Manoel/1234/4340.m3u8
 #EXTINF:-1 tvg-logo="http://sky.vteximg.com.br/arquivos/ids/156116/premiere.png?v=636446348764830000" group-title="DEPORTES/ESPORTES",Premiere 8 BR
 
 
+
+#EXTINF:-1 tvg-logo="http://www.meiosepublicidade.pt/wp-content/uploads/2016/01/index.png" group-title="DEPORTES/ESPORTES",Porto Canal Pt
+http://vip.one-iptv.com:25443/joane/joane/49697
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/868157568597630976/DJOeJK0t_400x400.jpg" group-title="DEPORTES/ESPORTES",PX Sports (2)
 
 
@@ -6085,8 +6119,15 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebas
 #EXTINF:-1 tvg-logo="https://www.red24presenters.com/wp-content/uploads/2016/10/Becky-Ives-Red-Bull-TV.jpg" group-title="DEPORTES/ESPORTES",Redbull TV
 http://iptv.matthuisman.nz/nz/tv.redbull.tv.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/thumbs/2x/sky-sport-24-logo.png" group-title="DEPORTES/ESPORTES",Sky Sport 24 Italia
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/thumbs/2x/sky-sport-24-logo.png" group-title="DEPORTES/ESPORTES",Sky Sport 24 It
 http://vip.one-iptv.com:25443/joane/joane/20994
+
+#EXTINF:-1 tvg-logo="https://web.static.nowtv.com/images/NOWTV_2019/Brand/P1/SS-Arena.png" group-title="DEPORTES/ESPORTES",Sky Sport Arena Uk
+http://vip.one-iptv.com:25443/joane/joane/30863
+
+
+#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/213-2133982_sky-sports-logo-png.png" group-title="DEPORTES/ESPORTES",Sky Sport Premier League Uk
+http://vip.one-iptv.com:25443/joane/joane/31088
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/sportv-logo-96B30D079F-seeklogo.com.gif" group-title="DEPORTES/ESPORTES",Sportv BR
 http://painel.ebanonet.com.br:25461/live/Manoel/1234/4327.m3u8
@@ -6142,22 +6183,16 @@ http://streamtv.com.br:80/live/fredfred/fredfred/1553.rtmp
 #EXTINF:-1 tvg-logo="https://ik.imagekit.io/ulangotv/image/upload/63249_logo_sportv_3.png" group-title="DEPORTES/ESPORTES",Sportv 3 BR
 http://painel.ebanonet.com.br:25461/live/qualidade/qualidade/4325.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYK9-kmfLI9aWUNrqy-vqOGJK-vE39iPrYaYihATMKYyzSN86f" group-title="DEPORTES/ESPORTES",Sport TV 1 (PT)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYK9-kmfLI9aWUNrqy-vqOGJK-vE39iPrYaYihATMKYyzSN86f" group-title="DEPORTES/ESPORTES",Sport TV 1 Pt
+http://vip.one-iptv.com:25443/joane/joane/49687
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL3yGNjg04bArAFATthvYBXJ_TS2UCzLw1rcs-pOBelB0DIWAU" group-title="DEPORTES/ESPORTES",Sport TV 2 Pt
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYK9-kmfLI9aWUNrqy-vqOGJK-vE39iPrYaYihATMKYyzSN86f" group-title="DEPORTES/ESPORTES",Sport TV 1 HD (PT)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8btmXxM-f9rwFEeFGEEYMrdQ5HbjWNGsS_BxRgFWfFihXjfKd" group-title="DEPORTES/ESPORTES",Sport TV 3 Pt
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL3yGNjg04bArAFATthvYBXJ_TS2UCzLw1rcs-pOBelB0DIWAU" group-title="DEPORTES/ESPORTES",Sport TV 2 (PT)
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL3yGNjg04bArAFATthvYBXJ_TS2UCzLw1rcs-pOBelB0DIWAU" group-title="DEPORTES/ESPORTES",Sport TV 2 HD (PT)
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8btmXxM-f9rwFEeFGEEYMrdQ5HbjWNGsS_BxRgFWfFihXjfKd" group-title="DEPORTES/ESPORTES",Sport TV 3 (PT)
-
-
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-kITLJJTtFZc/Tw9nNRMF1YI/AAAAAAAABCo/L9vxFb5rCzc/s400/sport_tv_4.png" group-title="DEPORTES/ESPORTES",Sport TV 4 (PT)
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-kITLJJTtFZc/Tw9nNRMF1YI/AAAAAAAABCo/L9vxFb5rCzc/s400/sport_tv_4.png" group-title="DEPORTES/ESPORTES",Sport TV 4 Pt
 
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ekV3wEX.png" group-title="DEPORTES/ESPORTES",Sport TV 5 (PT)
