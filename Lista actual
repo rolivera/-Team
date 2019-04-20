@@ -21,7 +21,7 @@ https://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
 http://servpremium.net:25461/Claudio3/xjlDqj60ef/2365
 
 #EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/small/295-2959716_america-2-logo-américa-tv.png" group-title="ARGENTINA",América 
-
+http://tv.nousiptv.com:25462/live/angelt/12345/2040.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/small/295-2959716_america-2-logo-américa-tv.png" group-title="ARGENTINA",América
 http://kimbogrupol.com:25461/live/paula/123456/16522.m3u8
@@ -1556,7 +1556,7 @@ http://servpremium.net:25461/Claudio3/xjlDqj60ef/4179
 
 
 #EXTINF:-1 tvg-logo="http://www.radiomontecarlo.com.uy/imgs/articulos/articulos36_57504.png?3759" group-title="URUGUAY",Montecarlo
-
+http://tv.nousiptv.com:25462/live/angelt/12345/18261.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.radiomontecarlo.com.uy/imgs/articulos/articulos36_57504.png?3759" group-title="URUGUAY",Montecarlo
 http://kimbogrupol.com:25461/live/Luis/1234/16524.m3u8
@@ -1574,10 +1574,7 @@ http://tvnext.biz:25462/live/gerard/gerard/3344.rtmp
 http://tvnext.biz:25462/live/Puma/Puma/3344.rtmp
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-gXhn1i6LiCM/VKOv0_4IFfI/AAAAAAAAFmw/qoNG1mHsytc/s640/blogger-image--648257053.jpg" group-title="URUGUAY",Saeta 10
-
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-gXhn1i6LiCM/VKOv0_4IFfI/AAAAAAAAFmw/qoNG1mHsytc/s640/blogger-image--648257053.jpg" group-title="URUGUAY",Saeta 10 HD
-
+http://tv.nousiptv.com:25462/live/angelt/12345/3344.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/61/Teledoce_logo.png/revision/latest?cb=20140706162325" group-title="URUGUAY",Teledoce
 http://tvnext.biz:25462/live/gerard/gerard/18731.rtmp
@@ -1588,11 +1585,17 @@ http://tvnext.biz:25462/live/Puma/Puma/18731.rtmp
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/61/Teledoce_logo.png/revision/latest?cb=20140706162325" group-title="URUGUAY",Teledoce HD
 http://servpremium.net:25461/Claudio3/xjlDqj60ef/4208
 
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/61/Teledoce_logo.png/revision/latest?cb=20140706162325" group-title="URUGUAY",Teledoce HD
+http://tv.nousiptv.com:25462/live/angelt/12345/3620.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.tensai.com.uy/webroot/img/logos/tnu.png" group-title="URUGUAY",TNU (1)
 
 
 #EXTINF:-1 tvg-logo="http://www.sociedaduruguaya.org/wp-content/uploads/2014/06/tvciudad.jpg" group-title="URUGUAY",TV Ciudad
 http://servpremium.net:25461/Claudio3/xjlDqj60ef/4175
+
+#EXTINF:-1 tvg-logo="http://www.sociedaduruguaya.org/wp-content/uploads/2014/06/tvciudad.jpg" group-title="URUGUAY",TV Ciudad
+http://tv.nousiptv.com:25462/live/angelt/12345/19352.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1eS8gxcJ1kxicoDvzok6mx560uEa6s41EFmTvdgu00I-kuIPM" group-title="URUGUAY",Uruguay Natural
 
@@ -1613,7 +1616,7 @@ http://servpremium.net:25461/Claudio3/xjlDqj60ef/4171
 http://tvnext.biz:25462/live/gerard/gerard/22204.rtmp
 
 #EXTINF:-1 tvg-logo="https://mlstaticquic-a.akamaihd.net/2android-tv-box-750-canales-de-cable-canales-uruguayos-y-vtv-D_NQ_NP_884222-MLU26628807182_012018-F.jpg" group-title="URUGUAY",VTV
-
+http://tv.nousiptv.com:25462/live/angelt/12345/3598.m3u8
 
 #EXTINF:-1 tvg-logo="https://mlstaticquic-a.akamaihd.net/2android-tv-box-750-canales-de-cable-canales-uruguayos-y-vtv-D_NQ_NP_884222-MLU26628807182_012018-F.jpg" group-title="URUGUAY",VTV
 
