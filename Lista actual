@@ -4262,7 +4262,7 @@ http://kimbogrupol.com:25461/live/paula/123456/17294.m3u8
 http://tvnext.biz:25462/live/Puma/Puma/3221.rtmp
 
 #EXTINF:-1 tvg-logo="http://vivotvhd.com/img/cha/2034.gif" group-title="INFANTIL LATINO",Etc (3)
-http://servpremium.net:25461/Claudio3/xjlDqj60ef/3365
+
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/f0/be/d6/f0bed6cc9a3e5f519b60278341b32c29.jpg" group-title="INFANTIL LATINO",Locomotion
 http://locomotiontv.com/envivo/loco_channel/stream.m3u8
@@ -4853,7 +4853,7 @@ http://kimbogrupol.com:25461/live/Luis/1234/17256.m3u8
 http://servpremium.net:25461/Claudio3/xjlDqj60ef/4550
 
 #EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/020/original/pic_a_e.png?1522180692" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",A&E (3)
-
+http://54.36.174.115:25461/live/JoseManuel/BDNvpPM1oT/10473.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/020/original/pic_a_e.png?1522180692" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",A&E (4)
 http://kimbogrupol.com:25461/live/paula/123456/17256.m3u8
@@ -4877,7 +4877,7 @@ http://servpremium.net:25461/Claudio3/xjlDqj60ef/4549
 http://kimbogrupol.com:25461/live/Luis/1234/16949.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2019/01/animal-planet-590x348.png" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",Animal Planet (3)
-
+http://54.36.174.115:25461/live/JoseManuel/BDNvpPM1oT/10436.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2019/01/animal-planet-590x348.png" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",Animal Planet (4)
 http://kimbogrupol.com:25461/live/paula/123456/16949.m3u8
@@ -4889,7 +4889,7 @@ http://tvnext.biz:25462/live/gerard/gerard/3251.rtmp
 http://servpremium.net:25461/Claudio3/xjlDqj60ef/4548
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6f/52/26/6f5226d073770afde359a57925bf5d68.jpg" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",Discovery Channel (3)
-
+http://54.36.174.115:25461/live/JoseManuel/BDNvpPM1oT/10447.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6f/52/26/6f5226d073770afde359a57925bf5d68.jpg" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",Discovery Channel (4)
 http://kimbogrupol.com:25461/live/paula/123456/17263.m3u8
@@ -4900,14 +4900,17 @@ http://tvnext.biz:25462/live/Puma/Puma/3251.rtmp
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/co_discovery-civilization_m.png" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",Discovery Civilization (1)
 http://tvnext.biz:25462/live/gerard/gerard/3252.rtmp
 
+#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/co_discovery-civilization_m.png" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",Discovery Civilization (3)
+http://54.36.174.115:25461/live/JoseManuel/BDNvpPM1oT/10446.m3u8
+
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/co_discovery-civilization_m.png" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",Discovery Civilization (4)
 http://kimbogrupol.com:25461/live/paula/123456/17264.m3u8
 
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/co_discovery-civilization_m.png" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",Discovery Civilization (6)
 http://tvnext.biz:25462/live/Puma/Puma/3252.rtmp
 
-#EXTINF:-1 tvg-logo="https://static.brandfolder.com/discoveryfamilia/logo/discoveryfamilia-primary-logo.png" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",Discovery Familia (2)
-
+#EXTINF:-1 tvg-logo="https://static.brandfolder.com/discoveryfamilia/logo/discoveryfamilia-primary-logo.png" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",Discovery Familia (3)
+http://54.36.174.115:25461/live/JoseManuel/BDNvpPM1oT/23360.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/027/original/pic_investigactiondisc.png?1522177058" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",Discovery Investigation (1)
 
@@ -4917,6 +4920,9 @@ http://kimbogrupol.com:25461/live/Luis/1234/17253.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/027/original/pic_investigactiondisc.png?1522177058" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",Discovery Investigation (2)
 http://servpremium.net:25461/Claudio3/xjlDqj60ef/4538
+
+#EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/027/original/pic_investigactiondisc.png?1522177058" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",Discovery Investigation (3)
+http://54.36.174.115:25461/live/JoseManuel/BDNvpPM1oT/10439.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/027/original/pic_investigactiondisc.png?1522177058" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",Discovery Investigation (4)
 http://kimbogrupol.com:25461/live/paula/123456/17253.m3u8
@@ -4931,7 +4937,7 @@ http://kimbogrupol.com:25461/live/Luis/1234/17262.m3u8
 http://servpremium.net:25461/Claudio3/xjlDqj60ef/4529
 
 #EXTINF:-1 tvg-logo="https://cdn.reweb.io/hagah/image/DogXNIjfvnZQ-U6-iKRLtRF8-Vo=/300x300/top/smart/hagah/f/f8/home-and-health-f804aa9c.png" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",Discovery H&H (3)
-
+http://54.36.174.115:25461/live/JoseManuel/BDNvpPM1oT/10435.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.reweb.io/hagah/image/DogXNIjfvnZQ-U6-iKRLtRF8-Vo=/300x300/top/smart/hagah/f/f8/home-and-health-f804aa9c.png" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",Discovery H&H (4)
 http://kimbogrupol.com:25461/live/paula/123456/17262.m3u8
@@ -4944,6 +4950,9 @@ http://tvnext.biz:25462/live/gerard/gerard/3082.rtmp
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logos2/images/f/f2/Discovery_Science_logo.png/revision/latest?cb=20180514182753" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",Discovery Science (2)
 http://servpremium.net:25461/Claudio3/xjlDqj60ef/4547
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logos2/images/f/f2/Discovery_Science_logo.png/revision/latest?cb=20180514182753" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",Discovery Science (3)
+http://54.36.174.115:25461/live/JoseManuel/BDNvpPM1oT/10442.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logos2/images/f/f2/Discovery_Science_logo.png/revision/latest?cb=20180514182753" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",Discovery Science (4)
 http://kimbogrupol.com:25461/live/paula/123456/17260.m3u8
@@ -4961,7 +4970,7 @@ http://kimbogrupol.com:25461/live/Luis/1234/17259.m3u8
 http://servpremium.net:25461/Claudio3/xjlDqj60ef/4546
 
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/ar_discovery-hd-theater_m.png" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",Discovery Theater (3)
-
+http://54.36.174.115:25461/live/JoseManuel/BDNvpPM1oT/10445.m3u8
 
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/ar_discovery-hd-theater_m.png" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",Discovery Theater (4)
 http://kimbogrupol.com:25461/live/paula/123456/17259.m3u8
@@ -4976,7 +4985,7 @@ http://servpremium.net:25461/Claudio3/xjlDqj60ef/4545
 http://kimbogrupol.com:25461/live/Luis/1234/17257.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/728-188x188-948939438.jpg" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",Discovery Turbo (3)
-http://kimbogrupol.com:25461/live/Gary/Gary/17257.m3u8
+http://54.36.174.115:25461/live/JoseManuel/BDNvpPM1oT/10441.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/728-188x188-948939438.jpg" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",Discovery Turbo (4)
 http://kimbogrupol.com:25461/live/paula/123456/17257.m3u8
@@ -4994,7 +5003,7 @@ http://servpremium.net:25461/Claudio3/xjlDqj60ef/2789
 http://kimbogrupol.com:25461/live/Luis/1234/17258.m3u8
 
 #EXTINF:-1 tvg-logo="http://protv.ua/imglib/_newimage/news/tv/71239/02a33168dcf786c5cd279576417c816d.jpg" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",Discovery World (3)
-http://kimbogrupol.com:25461/live/Gary/Gary/17258.m3u8
+http://54.36.174.115:25461/live/JoseManuel/BDNvpPM1oT/10443.m3u8
 
 #EXTINF:-1 tvg-logo="http://protv.ua/imglib/_newimage/news/tv/71239/02a33168dcf786c5cd279576417c816d.jpg" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",Discovery World (4)
 http://kimbogrupol.com:25461/live/paula/123456/17258.m3u8
@@ -5012,7 +5021,7 @@ http://tvnext.biz:25462/live/gerard/gerard/3234.rtmp
 http://kimbogrupol.com:25461/live/Luis/1234/17339.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/35/13/17/35131727c2635cec3274d9bd93868db2.png" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",History Channel (3)
-http://kimbogrupol.com:25461/live/Gary/Gary/17339.m3u8
+http://54.36.174.115:25461/live/JoseManuel/BDNvpPM1oT/10429.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/35/13/17/35131727c2635cec3274d9bd93868db2.png" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",History Channel (4)
 http://kimbogrupol.com:25461/live/paula/123456/17339.m3u8
@@ -5030,7 +5039,7 @@ http://kimbogrupol.com:25461/live/Luis/1234/17266.m3u8
 http://servpremium.net:25461/Claudio3/xjlDqj60ef/4540
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_h2_m.png" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",H2 (3)
-http://kimbogrupol.com:25461/live/Gary/Gary/17266.m3u8
+http://54.36.174.115:25461/live/JoseManuel/BDNvpPM1oT/10995.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_h2_m.png" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",H2 (4)
 http://kimbogrupol.com:25461/live/paula/123456/17266.m3u8
@@ -5045,7 +5054,7 @@ http://tvnext.biz:25462/live/Puma/Puma/4005.rtmp
 http://servpremium.net:25461/Claudio3/xjlDqj60ef/4522
 
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-v4OGeGQcdcQ/U91s7yMEbdI/AAAAAAAAEv8/2PneO2oDeW4/s1600/%D8%AA%D8%B1%D8%AF%D8%AF+%D9%82%D9%86%D8%A7%D8%A9+%D9%86%D8%A7%D8%B4%D9%88%D9%86%D8%A7%D9%84+%D8%AC%D9%8A%D9%88%D8%BA%D8%B1%D8%A7%D9%81%D9%8A%D9%83+%D8%A7%D8%A8%D9%88+%D8%B8%D8%A8%D9%8A.jpg" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",Nat Geo (3)
-
+http://54.36.174.115:25461/live/JoseManuel/BDNvpPM1oT/10438.m3u8
 
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-v4OGeGQcdcQ/U91s7yMEbdI/AAAAAAAAEv8/2PneO2oDeW4/s1600/%D8%AA%D8%B1%D8%AF%D8%AF+%D9%82%D9%86%D8%A7%D8%A9+%D9%86%D8%A7%D8%B4%D9%88%D9%86%D8%A7%D9%84+%D8%AC%D9%8A%D9%88%D8%BA%D8%B1%D8%A7%D9%81%D9%8A%D9%83+%D8%A7%D8%A8%D9%88+%D8%B8%D8%A8%D9%8A.jpg" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",Nat Geo (4)
 http://kimbogrupol.com:25461/live/paula/123456/17266.m3u8
@@ -5069,7 +5078,7 @@ http://servpremium.net:25461/Claudio3/xjlDqj60ef/4536
 http://kimbogrupol.com:25461/live/Luis/1234/17222.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_nat-geo-wild_m.png" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",Nat Geo Wild (3)
-http://kimbogrupol.com:25461/live/Gary/Gary/17222.m3u8
+http://54.36.174.115:25461/live/JoseManuel/BDNvpPM1oT/10437.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_nat-geo-wild_m.png" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",Nat Geo Wild (4)
 http://kimbogrupol.com:25461/live/paula/123456/17222.m3u8
@@ -5084,7 +5093,7 @@ http://tvnext.biz:25462/live/gerard/gerard/3256.rtmp
 
 
 #EXTINF:-1 tvg-logo="https://cdn.reweb.io/hagah/image/mXBvojVRVzVLXAmTE8j9U0Io8c4=/300x300/top/smart/hagah/2/29/tlc-hd-2988cf2d.jpg" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",Tlc (3)
-
+http://54.36.174.115:25461/live/JoseManuel/BDNvpPM1oT/10444.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.reweb.io/hagah/image/mXBvojVRVzVLXAmTE8j9U0Io8c4=/300x300/top/smart/hagah/2/29/tlc-hd-2988cf2d.jpg" group-title="DOCUMENTALES-DOCUMENTAIS" pltv-subgroup="DOCUMENTALES LATINOS",Tlc (4)
 http://kimbogrupol.com:25461/live/paula/123456/17345.m3u8
