@@ -1613,14 +1613,7 @@ http://servpremium.net:25461/Claudio3/xjlDqj60ef/4170
 https://stream.vagalume.fm/hls/14671417541091220806/aac.m3u8
 #######################################
 
-#EXTINF:-1 tvg-logo="https://banner2.kisspng.com/20180421/uhq/kisspng-american-horror-story-asylum-television-show-frea-5adae6df775113.0924782615242953914887.jpg"  group-title="USA",American Horror
-http://170.178.189.66:1935/live/Stream1/.m3u8
 
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41oedXGg6QL._SY355_.png"  group-title="USA",BBC America
-http://198.255.6.44:25464/usaottmex/rxogMBTte9/4137
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/923304084496683008/rSJ1FNHu_400x400.jpg"  group-title="USA",Western TV
-https://nimble.dashmedia.tv/onestudio/western4u/playlist.m3u8
 
 #####################################################################################################################################
 ####################################### VENEZUELA
@@ -1908,23 +1901,29 @@ http://disneyradiohds-lh.akamaihd.net/i/LTM_Radio_Disney_HDS_1@92327/master.m3u8
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/062010/AMCHepburn_B.png?itok=18X2cfEC" group-title="PREMIUM USA",Amc
 http://198.255.6.44:25464/usaottmex/rxogMBTte9/4140
 
+#EXTINF:-1 tvg-logo="https://banner2.kisspng.com/20180421/uhq/kisspng-american-horror-story-asylum-television-show-frea-5adae6df775113.0924782615242953914887.jpg" group-title="PREMIUM USA",American Horror
+http://170.178.189.66:1935/live/Stream1/.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/020/original/pic_a_e.png?1522180692" group-title="PREMIUM USA",A&E
 http://198.255.6.44:25464/usaottmex/rxogMBTte9/4142
 
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41oedXGg6QL._SY355_.png" group-title="PREMIUM USA",BBC America
+http://198.255.6.44:25464/usaottmex/rxogMBTte9/4137
+
 #EXTINF:-1 tvg-logo="http://www.animationmagazine.net/wordpress/wp-content/uploads/boomerang-1503.jpg" group-title="PREMIUM USA",Boomerang
-http://198.255.6.44:25464/usaottmex/rxogMBTte9/4223
+
 
 #EXTINF:-1 tvg-logo="https://img4.androidappsapk.co/300/b/7/a/com.nbcu.tve.bravo.png" group-title="PREMIUM USA",Bravo HD
-http://servpremium.net:25461/Claudio3/xjlDqj60ef/3073
+
 
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cine/16.png" group-title="PREMIUM USA",Cinemax
 
 
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cine/16.png" group-title="PREMIUM USA",Cinemax East
-http://198.255.6.44:25464/usaottmex/rxogMBTte9/4220
+
 
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cine/16.png" group-title="PREMIUM USA",Cinemax West
-http://198.255.6.44:25464/usaottmex/rxogMBTte9/4219
+
 
 #EXTINF:-1 tvg-logo="https://www.directv.com/images/logos/channels/dark/large/293.png" group-title="PREMIUM USA",Cinemax Actionmax
 
@@ -1942,7 +1941,7 @@ http://198.255.6.44:25464/usaottmex/rxogMBTte9/4155
 http://198.255.6.44:25464/usaottmex/rxogMBTte9/4209
 
 #EXTINF:-1 tvg-logo="https://cdn.dstv.com/dstvcms/2016/03/24/DiscoveryFamily_lrg.jpg" group-title="PREMIUM USA",Discovery Family
-http://servpremium.net:25461/Claudio3/xjlDqj60ef/3062
+
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_discovery-id_m.png" group-title="PREMIUM USA",Discovery ID
 http://198.255.6.44:25464/usaottmex/rxogMBTte9/4215
@@ -1951,7 +1950,7 @@ http://198.255.6.44:25464/usaottmex/rxogMBTte9/4215
 http://198.255.6.44:25464/usaottmex/rxogMBTte9/4182
 
 #EXTINF:-1 tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/discoverysci.png" group-title="PREMIUM USA",Discovery Science HD
-http://servpremium.net:25461/Claudio3/xjlDqj60ef/3059
+
 
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0024/9015/brand.gif?itok=Z188OCZG" group-title="PREMIUM USA",Epix
 
@@ -1972,10 +1971,10 @@ http://198.255.6.44:25464/usaottmex/rxogMBTte9/4196
 http://198.255.6.44:25464/usaottmex/rxogMBTte9/4203
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_h2_m.png" group-title="PREMIUM USA",H2
-http://servpremium.net:25461/Claudio3/xjlDqj60ef/3048
+
 
 #EXTINF:-1 tvg-logo="https://i.vimeocdn.com/portrait/7536126_300x300" group-title="PREMIUM USA",Hallmark
-http://servpremium.net:25461/Claudio3/xjlDqj60ef/3042
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkw4LiQ03qo2whwu7N854sonl0f6wlGTKcovD9lx7rFVbyvOkf" group-title="PREMIUM USA",Hbo
 
@@ -2047,10 +2046,13 @@ http://198.255.6.44:25464/usaottmex/rxogMBTte9/4158
 
 
 #EXTINF:-1 tvg-logo="https://csa.dishnetwork.com/images/logos/TMC-E%20HD.PNG" group-title="PREMIUM USA",The movie channel
-http://198.255.6.44:25464/usaottmex/rxogMBTte9/4200
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgZP0GqShGRgdA9s3yvQYyVYooUtYUssLIyB_lU2juSepYJWYQ" group-title="PREMIUM USA",Universal Channel
 
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/923304084496683008/rSJ1FNHu_400x400.jpg" group-title="PREMIUM USA",Western TV
+https://nimble.dashmedia.tv/onestudio/western4u/playlist.m3u8
 
 ######################################################################################################################################
 ####################################### PREMIUM ESPAÑA
