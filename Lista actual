@@ -1613,6 +1613,9 @@ https://stream.vagalume.fm/hls/14671417541091220806/aac.m3u8
 #EXTINF:-1 tvg-logo="https://banner2.kisspng.com/20180421/uhq/kisspng-american-horror-story-asylum-television-show-frea-5adae6df775113.0924782615242953914887.jpg"  group-title="USA",American Horror
 http://170.178.189.66:1935/live/Stream1/.m3u8
 
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41oedXGg6QL._SY355_.png"  group-title="USA",BBC America
+http://198.255.6.44:25464/usaottmex/rxogMBTte9/4137
+
 #EXTINF:-1 tvg-logo="https://zpapi.zetatv.com.uy/media/images/espn2-s.png"  group-title="USA",Espn 2 (USA)
 http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8
 
@@ -1903,10 +1906,13 @@ http://disneyradiohds-lh.akamaihd.net/i/LTM_Radio_Disney_HDS_1@92327/master.m3u8
 #######################################
 
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/062010/AMCHepburn_B.png?itok=18X2cfEC" group-title="PREMIUM USA",Amc
+http://198.255.6.44:25464/usaottmex/rxogMBTte9/4140
 
+#EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/020/original/pic_a_e.png?1522180692" group-title="PREMIUM USA",A&E
+http://198.255.6.44:25464/usaottmex/rxogMBTte9/4142
 
-#EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/020/original/pic_a_e.png?1522180692" group-title="PREMIUM USA",A&E HD
-http://servpremium.net:25461/Claudio3/xjlDqj60ef/3079
+#EXTINF:-1 tvg-logo="http://www.animationmagazine.net/wordpress/wp-content/uploads/boomerang-1503.jpg" group-title="PREMIUM USA",Boomerang
+http://198.255.6.44:25464/usaottmex/rxogMBTte9/4223
 
 #EXTINF:-1 tvg-logo="https://img4.androidappsapk.co/300/b/7/a/com.nbcu.tve.bravo.png" group-title="PREMIUM USA",Bravo HD
 http://servpremium.net:25461/Claudio3/xjlDqj60ef/3073
@@ -1915,7 +1921,10 @@ http://servpremium.net:25461/Claudio3/xjlDqj60ef/3073
 
 
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cine/16.png" group-title="PREMIUM USA",Cinemax East
+http://198.255.6.44:25464/usaottmex/rxogMBTte9/4220
 
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cine/16.png" group-title="PREMIUM USA",Cinemax West
+http://198.255.6.44:25464/usaottmex/rxogMBTte9/4219
 
 #EXTINF:-1 tvg-logo="https://www.directv.com/images/logos/channels/dark/large/293.png" group-title="PREMIUM USA",Cinemax Actionmax
 
@@ -1923,14 +1932,20 @@ http://servpremium.net:25461/Claudio3/xjlDqj60ef/3073
 #EXTINF:-1 tvg-logo="https://movies-skyline.dyndns.tv/logos-ch/more_max_east.png" group-title="PREMIUM USA",Cinemax Moremax
 
 
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2017/08/10/17/24/brand-2625249_960_720.png" group-title="PREMIUM USA",CNN
+http://198.255.6.44:25464/usaottmex/rxogMBTte9/4155
+
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_comedy-central_m.png" group-title="PREMIUM USA",Comedy Central
 
+
+#EXTINF:-1 tvg-logo="https://assets.corusent.com/wp-content/uploads/2018/01/logo_tv_diynetwork_jan2018-500x250.png" group-title="PREMIUM USA",Diy Network
+http://198.255.6.44:25464/usaottmex/rxogMBTte9/4209
 
 #EXTINF:-1 tvg-logo="https://cdn.dstv.com/dstvcms/2016/03/24/DiscoveryFamily_lrg.jpg" group-title="PREMIUM USA",Discovery Family
 http://servpremium.net:25461/Claudio3/xjlDqj60ef/3062
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_discovery-id_m.png" group-title="PREMIUM USA",Discovery ID
-
+http://198.255.6.44:25464/usaottmex/rxogMBTte9/4215
 
 #EXTINF:-1 tvg-logo="http://logosptgoldtv.ddns.net/logosmundo/discoverysci.png" group-title="PREMIUM USA",Discovery Science HD
 http://servpremium.net:25461/Claudio3/xjlDqj60ef/3059
@@ -1971,11 +1986,17 @@ http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.directv.com/content/dam/dtv/prod/components_att/images/channel-lineup/lifetime-movies@2x.jpg" group-title="PREMIUM USA",Lifetime Movies
 
 
+#EXTINF:-1 tvg-logo="https://www.sho.com/assets/images/lib/showtime-logo-red_160x160.jpg" group-title="PREMIUM USA",Showtime Next
+http://198.255.6.44:25464/usaottmex/rxogMBTte9/4210
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe_ZIRwzTIWUfUFI4bwxR9SSFTGPPRirsaC6l4eL3ZY6-Q0JXsHg" group-title="PREMIUM USA",Spike
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_WzPJ6eidOV0x1eohRrq3JYrXUwUPLK4dxMXw6oORHYzhtr8x" group-title="PREMIUM USA",Starz
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1290423887/Starmax_HD_Logo_400x400.jpg" group-title="PREMIUM USA",Starmax
+http://198.255.6.44:25464/usaottmex/rxogMBTte9/4143
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_WzPJ6eidOV0x1eohRrq3JYrXUwUPLK4dxMXw6oORHYzhtr8x" group-title="PREMIUM USA",Starz
+http://198.255.6.44:25464/usaottmex/rxogMBTte9/4214
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/tvtonight.com.au/wp-content/uploads/syfy-1.jpg" group-title="PREMIUM USA",Syfy
 
@@ -5948,8 +5969,8 @@ http://servpremium.net:25461/Claudio3/xjlDqj60ef/507
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SAZczO7.png" group-title="DEPORTES LATINO",TyC (6)
 http://tvnext.biz:25462/live/Puma/Puma/2961.rtmp
 
-#EXTINF:-1 tvg-logo="http://www.deltatre.com/wp-content/uploads/2014/02/300px-black.png" group-title="DEPORTES LATINO",Univisión Deportes (1)
-
+#EXTINF:-1 tvg-logo="http://www.deltatre.com/wp-content/uploads/2014/02/300px-black.png" group-title="DEPORTES LATINO",Univisión Deportes
+http://198.255.6.44:25464/usaottmex/rxogMBTte9/4127
 
 #EXTINF:-1 tvg-logo="http://www.deltatre.com/wp-content/uploads/2014/02/300px-black.png" group-title="DEPORTES LATINO",Univisión Deportes (2)
 http://servpremium.net:25461/Claudio3/xjlDqj60ef/494
@@ -6298,8 +6319,14 @@ http://vip.one-iptv.com:25443/joane/joane/39223
 #EXTINF:-1  tvg-logo="https://www.digitaltveurope.com/files/2017/09/ELEVEN-SPORTS-logo1.png" group-title="DEPORTES INTERNACIONAL",Eleven Sports 1 PT
 http://vip.one-iptv.com:25443/joane/joane/49754
 
+#EXTINF:-1 tvg-logo="https://bloximages.newyork1.vip.townnews.com/lancasteronline.com/content/tncms/assets/v3/editorial/6/a3/6a33a76a-2aab-11e7-8cfd-2fdf8678edd2/5900e2482259c.image.png" group-title="DEPORTES INTERNACIONAL",Espn USA
+http://198.255.6.44:25464/usaottmex/rxogMBTte9/4205
+
 #EXTINF:-1 tvg-logo="http://oakesville.github.io/mythling/epg/demo/guide-data/icons/1841.png" group-title="DEPORTES INTERNACIONAL",Espn News USA
 http://80.80.160.168/live/6/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://a.espncdn.com/prod/assets/watchespn/appletv/images/channels-carousel/espnu.png" group-title="DEPORTES INTERNACIONAL",Espn U USA
+http://198.255.6.44:25464/usaottmex/rxogMBTte9/4216
 
 #EXTINF:-1 tvg-logo="https://satsis.info/uploads/posts/2016-01/1453717931_www.satsis.info__eurosport-1.jpg" group-title="DEPORTES INTERNACIONAL",Eurosport 1 FR
 http://vip.one-iptv.com:25443/joane/joane/15172
