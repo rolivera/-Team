@@ -1998,6 +1998,9 @@ http://198.255.6.44:25464/usaottmex/rxogMBTte9/4183
 #EXTINF:-1 tvg-logo="https://cdn.directv.com/content/dam/dtv/prod/components_att/images/channel-lineup/lifetime-movies@2x.jpg" group-title="PREMIUM USA",Lifetime Movies
 
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1006097153440305152/THpcTHE2_400x400.jpg" group-title="PREMIUM USA",Paramount Network
+http://198.255.6.44:25464/usaottmex/rxogMBTte9/4180
+
 #EXTINF:-1 tvg-logo="https://www.sho.com/assets/images/lib/showtime-logo-red_160x160.jpg" group-title="PREMIUM USA",Showtime Next
 http://198.255.6.44:25464/usaottmex/rxogMBTte9/4210
 
@@ -2834,6 +2837,9 @@ http://x3iptv.com:57000/8142/8142/2302
 #EXTINF:-1 tvg-logo="https://d2xhqqdaxyaju6.cloudfront.net/file/teaser-ci/293920/0/1200-400.jpg" group-title="PREMIUM LATINO",Paramount (7)
 http://nexusonline.club:25461/franklin/franklin/11040
 
+#EXTINF:-1 tvg-logo="https://www.fubo.tv/lp/v3_files/nlogos/logo-showtime-showcase.png" group-title="PREMIUM LATINO",ShowCase
+http://198.255.6.44:25464/usaottmex/rxogMBTte9/4176
+
 #EXTINF:-1 tvg-logo="http://www.cable10.com/imagenes/programacion/canales_0013s_0006_Layer%2044.jpg" group-title="PREMIUM LATINO",Sony (1)
 http://x3iptv.com:57000/live/8543/8543/2142.rtmp
 
@@ -2878,6 +2884,9 @@ http://nexusonline.club:25461/franklin/franklin/11045
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_WzPJ6eidOV0x1eohRrq3JYrXUwUPLK4dxMXw6oORHYzhtr8x" group-title="PREMIUM LATINO",Starz
 http://198.255.6.44:25464/usaottmex/rxogMBTte9/4214
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_WzPJ6eidOV0x1eohRrq3JYrXUwUPLK4dxMXw6oORHYzhtr8x" group-title="PREMIUM LATINO",Starz Edge
+http://198.255.6.44:25464/usaottmex/rxogMBTte9/4134
 
 #EXTINF:-1 tvg-logo="http://studiouniversal.wiperagency.com/uploads/product/dcd0513fc9513c710f9cab0e0097abfb4deb340a.jpg" group-title="PREMIUM LATINO",Studio Universal (1)
 http://x3iptv.com:57000/live/8543/8543/2309.rtmp
@@ -6353,7 +6362,7 @@ http://198.255.6.44:25464/usaottmex/rxogMBTte9/4205
 http://80.80.160.168/live/6/live.m3u8
 
 #EXTINF:-1 tvg-logo="http://a.espncdn.com/prod/assets/watchespn/appletv/images/channels-carousel/espnu.png" group-title="DEPORTES INTERNACIONAL",Espn U USA
-http://198.255.6.44:25464/usaottmex/rxogMBTte9/4216
+
 
 #EXTINF:-1 tvg-logo="https://zpapi.zetatv.com.uy/media/images/espn2-s.png" group-title="DEPORTES INTERNACIONAL",Espn 2 USA
 http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8
@@ -6428,10 +6437,25 @@ http://servpremium.net:25461/Claudio3/xjlDqj60ef/468
 
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-tv-logo-585DF08BF0-seeklogo.com.png" group-title="DEPORTES INTERNACIONAL",NBA USA
-http://servpremium.net:25461/Claudio3/xjlDqj60ef/466
+http://198.255.6.44:25464/usaottmex/rxogMBTte9/4175
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-tv-logo-585DF08BF0-seeklogo.com.png" group-title="DEPORTES INTERNACIONAL",NBA USA
 http://vip.one-iptv.com:25443/joane/joane/49707
+
+#EXTINF:-1 tvg-logo="https://sc.dish.com/shared/images/station-logos/nbcsp.png" group-title="DEPORTES INTERNACIONAL",NBCSN USA
+http://198.255.6.44:25464/usaottmex/rxogMBTte9/4174
+
+#EXTINF:-1 tvg-logo="https://www.directv.com/images/logos/channels/dark/large/778.png" group-title="DEPORTES INTERNACIONAL",Nesn USA
+http://198.255.6.44:25464/usaottmex/rxogMBTte9/4157
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1069587614985056256/d4Kl2nIv_400x400.jpg" group-title="DEPORTES INTERNACIONAL",NHL Network USA
+http://198.255.6.44:25464/usaottmex/rxogMBTte9/4133
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/ef/79/b1/ef79b1d599369f296078f88c06dd61aa.jpg" group-title="DEPORTES INTERNACIONAL",NFL Network USA
+http://198.255.6.44:25464/usaottmex/rxogMBTte9/4173
+
+#EXTINF:-1 tvg-logo="http://www.nbcuniversal.com/sites/default/files/Rev-OlyChannel.png" group-title="DEPORTES INTERNACIONAL",Olympic Channel USA
+http://198.255.6.44:25464/usaottmex/rxogMBTte9/4171
 
 #EXTINF:-1 tvg-logo="http://www.meiosepublicidade.pt/wp-content/uploads/2016/01/index.png" group-title="DEPORTES INTERNACIONAL",Porto Canal PT
 http://vip.one-iptv.com:25443/joane/joane/49697
