@@ -1075,7 +1075,7 @@ http://tvnext.biz:25462/live/gerard/gerard/3794.rtmp
 http://tvnext.biz:25462/live/Puma/Puma/3794.rtmp
 
 #EXTINF:-1 tvg-logo="https://www.broadcastingcable.com/.image/t_share/MTU0MjAzNTE1NDI2MTIxMDcw/telemundo-station-group-hi-res_previewjpeg.jpg" group-title="MEXICO",Telemundo HD
-
+http://198.255.6.44:25464/usaottmex/rxogMBTte9/4131
 
 #EXTINF:-1 tvg-logo="https://www.broadcastingcable.com/.image/t_share/MTU0MjAzNTE1NDI2MTIxMDcw/telemundo-station-group-hi-res_previewjpeg.jpg" group-title="MEXICO",Telemundo San Antonio
 http://servpremium.net:25461/Claudio3/xjlDqj60ef/2389
@@ -1103,6 +1103,9 @@ http://servpremium.net:25461/Claudio3/xjlDqj60ef/2388
 
 #EXTINF:-1 tvg-logo="https://files.merca20.com/uploads/2018/04/unicable.jpg" group-title="MEXICO",Unicable
 
+
+#EXTINF:-1 tvg-logo="https://tejanonation.files.wordpress.com/2015/06/unimas.png" group-title="MEXICO",Unimas
+http://198.255.6.44:25464/usaottmex/rxogMBTte9/4129
 
 #EXTINF:-1 tvg-logo="https://tejanonation.files.wordpress.com/2015/06/unimas.png" group-title="MEXICO",Unimas
 http://tvnext.biz:25462/live/gerard/gerard/3795.rtmp
@@ -2007,6 +2010,15 @@ http://198.255.6.44:25464/usaottmex/rxogMBTte9/4210
 #EXTINF:-1 tvg-logo="https://www.sho.com/assets/images/lib/showtime-logo-red_160x160.jpg" group-title="PREMIUM USA",Showtime Women
 http://198.255.6.44:25464/usaottmex/rxogMBTte9/4191
 
+#EXTINF:-1 tvg-logo="https://www.sho.com/assets/images/lib/showtime-logo-red_160x160.jpg" group-title="PREMIUM USA",Showtime 2
+http://198.255.6.44:25464/usaottmex/rxogMBTte9/4166
+
+#EXTINF:-1 tvg-logo="https://www.sho.com/assets/images/lib/showtime-logo-red_160x160.jpg" group-title="PREMIUM USA",Showtime East
+http://198.255.6.44:25464/usaottmex/rxogMBTte9/4164
+
+#EXTINF:-1 tvg-logo="https://www.sho.com/assets/images/lib/showtime-logo-red_160x160.jpg" group-title="PREMIUM USA",Showtime Extreme East
+http://198.255.6.44:25464/usaottmex/rxogMBTte9/4163
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe_ZIRwzTIWUfUFI4bwxR9SSFTGPPRirsaC6l4eL3ZY6-Q0JXsHg" group-title="PREMIUM USA",Spike
 
 
@@ -2016,6 +2028,15 @@ http://198.255.6.44:25464/usaottmex/rxogMBTte9/4143
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_WzPJ6eidOV0x1eohRrq3JYrXUwUPLK4dxMXw6oORHYzhtr8x" group-title="PREMIUM USA",Starz
 http://198.255.6.44:25464/usaottmex/rxogMBTte9/4204
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_WzPJ6eidOV0x1eohRrq3JYrXUwUPLK4dxMXw6oORHYzhtr8x" group-title="PREMIUM USA",Star Z Encore
+http://198.255.6.44:25464/usaottmex/rxogMBTte9/4217
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_WzPJ6eidOV0x1eohRrq3JYrXUwUPLK4dxMXw6oORHYzhtr8x" group-title="PREMIUM USA",Starz East
+http://198.255.6.44:25464/usaottmex/rxogMBTte9/4159
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_WzPJ6eidOV0x1eohRrq3JYrXUwUPLK4dxMXw6oORHYzhtr8x" group-title="PREMIUM USA",Starz Edge
+http://198.255.6.44:25464/usaottmex/rxogMBTte9/4158
+
 #EXTINF:-1 tvg-logo="https://i0.wp.com/tvtonight.com.au/wp-content/uploads/syfy-1.jpg" group-title="PREMIUM USA",Syfy
 
 
@@ -2024,6 +2045,9 @@ http://198.255.6.44:25464/usaottmex/rxogMBTte9/4204
 
 #EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/t/c/m/xtcm-1.jpg.pagespeed.ic.Hca8DWbbaF.jpg" group-title="PREMIUM USA",Tcm
 
+
+#EXTINF:-1 tvg-logo="https://csa.dishnetwork.com/images/logos/TMC-E%20HD.PNG" group-title="PREMIUM USA",The movie channel
+http://198.255.6.44:25464/usaottmex/rxogMBTte9/4200
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgZP0GqShGRgdA9s3yvQYyVYooUtYUssLIyB_lU2juSepYJWYQ" group-title="PREMIUM USA",Universal Channel
 
@@ -6484,8 +6508,8 @@ https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d
 #EXTINF:-1 tvg-logo="https://www.tivu.tv/_common/images/cover-canali/supertennis_hd.jpg" group-title="DEPORTES INTERNACIONAL",Super Tennis IT
 http://vip.one-iptv.com:25443/joane/joane/20925
 
-#EXTINF:-1 tvg-logo="https://deltafonts.com/wp-content/uploads/Tennis-Channel-logo.png" group-title="DEPORTES INTERNACIONAL",Tennis Channel IT
-
+#EXTINF:-1 tvg-logo="https://deltafonts.com/wp-content/uploads/Tennis-Channel-logo.png" group-title="DEPORTES INTERNACIONAL",Tennis Channel USA
+http://198.255.6.44:25464/usaottmex/rxogMBTte9/4151
 
 #EXTINF:-1 tvg-logo="http://pluspng.com/img-png/ufc-png-logo-800.png" group-title="DEPORTES INTERNACIONAL",Ufc UK
 http://servpremium.net:25461/Claudio3/xjlDqj60ef/462
@@ -6495,6 +6519,9 @@ http://tvnext.biz:25462/live/gerard/gerard/3426.rtmp
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/W/wwe-logo-71A46059D8-seeklogo.com.png" group-title="DEPORTES INTERNACIONAL",WWE USA
 http://tvnext.biz:25462/live/Puma/Puma/3426.rtmp
+
+#EXTINF:-1 tvg-logo="https://patch.com/img/cdn/users/22821257/2016/04/T800x600/201604571e3ca33b492.jpg" group-title="DEPORTES INTERNACIONAL",Yes Encore USA
+http://198.255.6.44:25464/usaottmex/rxogMBTte9/4148
 
 ######################################################################################################################################
 #######################################  MUSICA
