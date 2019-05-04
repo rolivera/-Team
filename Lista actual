@@ -672,6 +672,12 @@ http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
 https://stream.vagalume.fm/hls/146411300413492499/aac.m3u8
 #######################################
 
+#EXTINF:-1 tvg-logo="http://blixtv.com/wp-content/uploads/2015/03/uno.png" group-title="ECUADOR",Canal Uno HD
+http://totalstreaming.live:25461/sport12/1234/33072
+
+#EXTINF:-1 tvg-logo="http://blixtv.com/wp-content/uploads/2015/03/uno.png" group-title="ECUADOR",Canal Uno SD
+http://totalstreaming.live:25461/sport12/1234/33073
+
 #EXTINF:-1 tvg-logo="http://blixtv.com/wp-content/uploads/2015/03/uno.png" group-title="ECUADOR",Canal Uno
 http://servpremium.net:25461/Claudio3/xjlDqj60ef/4716
 
@@ -681,11 +687,23 @@ http://servpremium.net:25461/Claudio3/xjlDqj60ef/4716
 #EXTINF:-1 tvg-logo="http://www.notihoy.com.ec/images/Centro_Logo-17.png" group-title="ECUADOR",Centro Ecuador
 
 
+#EXTINF:-1 tvg-logo="http://www.estadio.ec/sites/default/files/field/image/2015/01/15/ecuavisa.jpg" group-title="ECUADOR",Ecuavisa HD
+http://totalstreaming.live:25461/sport12/1234/33082
+
+#EXTINF:-1 tvg-logo="http://www.estadio.ec/sites/default/files/field/image/2015/01/15/ecuavisa.jpg" group-title="ECUADOR",Ecuavisa SD
+http://totalstreaming.live:25461/sport12/1234/33083
+
 #EXTINF:-1 tvg-logo="http://www.estadio.ec/sites/default/files/field/image/2015/01/15/ecuavisa.jpg" group-title="ECUADOR",Ecuavisa
 http://elcanaldelfutbol.com/static/wowza/test/hls/20001/360p/playlist.m3u8?GrupoTopIptv
 
 #EXTINF:-1 tvg-logo="http://www.estadio.ec/sites/default/files/field/image/2015/01/15/ecuavisa.jpg" group-title="ECUADOR",Ecuavisa
 http://servpremium.net:25461/Claudio3/xjlDqj60ef/4714
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/24/GamaTV_2006.png/revision/latest?cb=20171031031807" group-title="ECUADOR",Gama TV HD
+http://totalstreaming.live:25461/sport12/1234/33077
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/24/GamaTV_2006.png/revision/latest?cb=20171031031807" group-title="ECUADOR",Gama TV SD
+http://totalstreaming.live:25461/sport12/1234/33076
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/24/GamaTV_2006.png/revision/latest?cb=20171031031807" group-title="ECUADOR",Gama TV 
 http://tvnext.biz:25462/live/gerard/gerard/8085.rtmp
@@ -699,17 +717,41 @@ http://tvnext.biz:25462/live/Puma/Puma/8085.rtmp
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/24/GamaTV_2006.png/revision/latest?cb=20171031031807" group-title="ECUADOR",Gama TV
 http://servpremium.net:25461/Claudio3/xjlDqj60ef/2291
 
+#EXTINF:-1 tvg-logo="https://i1.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/oromar.png?fit=500%2C300" group-title="ECUADOR",Oromar TV HD
+http://totalstreaming.live:25461/sport12/1234/33068
+
+#EXTINF:-1 tvg-logo="https://i1.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/oromar.png?fit=500%2C300" group-title="ECUADOR",Oromar TV SD
+http://totalstreaming.live:25461/sport12/1234/33069
+
 #EXTINF:-1 tvg-logo="https://i1.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/oromar.png?fit=500%2C300" group-title="ECUADOR",Oromar TV 
 http://servpremium.net:25461/Claudio3/xjlDqj60ef/4720
 
+#EXTINF:-1 tvg-logo="https://ultimahoraec.com/wp-content/uploads/2017/11/logo_rts.png" group-title="ECUADOR",RTS HD
+http://totalstreaming.live:25461/sport12/1234/33080
+
+#EXTINF:-1 tvg-logo="https://ultimahoraec.com/wp-content/uploads/2017/11/logo_rts.png" group-title="ECUADOR",RTS SD
+http://totalstreaming.live:25461/sport12/1234/33081
+
 #EXTINF:-1 tvg-logo="https://ultimahoraec.com/wp-content/uploads/2017/11/logo_rts.png" group-title="ECUADOR",RTS 
 http://servpremium.net:25461/Claudio3/xjlDqj60ef/4705
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-4V3uM18vSVo/UaVnkSeIWMI/AAAAAAAABYs/VWe3Jf5u7C8/s1600/Tc_logo+sivergametv.png" group-title="ECUADOR",TC  HD
+http://totalstreaming.live:25461/sport12/1234/33074
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-4V3uM18vSVo/UaVnkSeIWMI/AAAAAAAABYs/VWe3Jf5u7C8/s1600/Tc_logo+sivergametv.png" group-title="ECUADOR",TC  SD
+http://totalstreaming.live:25461/sport12/1234/33075
 
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-4V3uM18vSVo/UaVnkSeIWMI/AAAAAAAABYs/VWe3Jf5u7C8/s1600/Tc_logo+sivergametv.png" group-title="ECUADOR",TC 
 https://elcanaldelfutbol.com/static/wowza/test/hls/10001/360p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-4V3uM18vSVo/UaVnkSeIWMI/AAAAAAAABYs/VWe3Jf5u7C8/s1600/Tc_logo+sivergametv.png" group-title="ECUADOR",TC 
 http://servpremium.net:25461/Claudio3/xjlDqj60ef/2297
+
+#EXTINF:-1 tvg-logo="http://www.forosecuador.ec/imgfe/ver-teleamazonas-en-vivo-online.png" group-title="ECUADOR",Teleamazonas HD
+http://totalstreaming.live:25461/sport12/1234/33079
+
+#EXTINF:-1 tvg-logo="http://www.forosecuador.ec/imgfe/ver-teleamazonas-en-vivo-online.png" group-title="ECUADOR",Teleamazonas SD
+http://totalstreaming.live:25461/sport12/1234/33078
 
 #EXTINF:-1 tvg-logo="http://www.forosecuador.ec/imgfe/ver-teleamazonas-en-vivo-online.png" group-title="ECUADOR",Teleamazonas
 http://servpremium.net:25461/Claudio3/xjlDqj60ef/2289
@@ -719,6 +761,9 @@ http://servpremium.net:25461/Claudio3/xjlDqj60ef/4718
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/corporacion-televicentro-logo-D4499D32C2-seeklogo.com.png" group-title="ECUADOR",Televicentro
 http://servpremium.net:25461/Claudio3/xjlDqj60ef/2286
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tvc-ecuador-logo-DE265485AA-seeklogo.com.png" group-title="ECUADOR",TVC SD
+http://totalstreaming.live:25461/sport12/1234/37116
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tvc-ecuador-logo-DE265485AA-seeklogo.com.png" group-title="ECUADOR",TVC
 http://servpremium.net:25461/Claudio3/xjlDqj60ef/4703
@@ -2129,7 +2174,7 @@ http://x3iptv.com:57000/live/8543/8543/2354.rtmp
 http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23358.rtmp
 
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/062010/AMCHepburn_B.png?itok=18X2cfEC" group-title="PREMIUM LATINO",Amc (3)
-
+http://totalstreaming.live:25461/sport12/1234/33317
 
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/062010/AMCHepburn_B.png?itok=18X2cfEC" group-title="PREMIUM LATINO",Amc (4)
 http://tv.nousiptv.com:25462/live/gerard/gerard/4118.m3u8
@@ -2150,7 +2195,7 @@ http://x3iptv.com:57000/live/8543/8543/2349.rtmp
 http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23356.rtmp
 
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/axn.png" group-title="PREMIUM LATINO",Axn (3)
-
+http://totalstreaming.live:25461/sport12/1234/33314
 
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/axn.png" group-title="PREMIUM LATINO",Axn (4)
 http://tv.nousiptv.com:25462/live/gerard/gerard/3248.m3u8
@@ -2174,7 +2219,7 @@ http://x3iptv.com:57000/live/8543/8543/1875.rtmp
 http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23342.rtmp
 
 #EXTINF:-1 tvg-logo="https://etb.com/hogares/img1/guia/logos/logo-cinec.jpg" group-title="PREMIUM LATINO",Cinecanal (3)
-
+http://totalstreaming.live:25461/sport12/1234/33311
 
 #EXTINF:-1 tvg-logo="https://etb.com/hogares/img1/guia/logos/logo-cinec.jpg" group-title="PREMIUM LATINO",Cinecanal (4)
 http://tv.nousiptv.com:25462/live/gerard/gerard/3250.m3u8
@@ -2195,7 +2240,7 @@ http://x3iptv.com:57000/live/8543/8543/2266.rtmp
 http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23315.rtmp
 
 #EXTINF:-1 tvg-logo="https://s3.castbox.fm/29/e1/43/98e45d48d39a208a4d9dd5c2f0.png" group-title="PREMIUM LATINO",Cine Latino (3)
-
+http://totalstreaming.live:25461/sport12/1234/33309
 
 #EXTINF:-1 tvg-logo="https://s3.castbox.fm/29/e1/43/98e45d48d39a208a4d9dd5c2f0.png" group-title="PREMIUM LATINO",Cine Latino (4)
 http://tv.nousiptv.com:25462/live/gerard/gerard/4136.m3u8
@@ -2237,7 +2282,7 @@ http://x3iptv.com:57000/live/8543/8543/2179.rtmp
 http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23341.rtmp
 
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cine/16.png" group-title="PREMIUM LATINO",Cinemax (3)
-
+http://totalstreaming.live:25461/sport12/1234/33308
 
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cine/16.png" group-title="PREMIUM LATINO",Cinemax (4)
 http://tv.nousiptv.com:25462/live/gerard/gerard/3084.m3u8
@@ -2279,7 +2324,7 @@ http://x3iptv.com:57000/live/8543/8543/2332.rtmp
 
 
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/hn_de-pelicula_m.png" group-title="PREMIUM LATINO",De Película (3)
-
+http://totalstreaming.live:25461/sport12/1234/33305
 
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/hn_de-pelicula_m.png" group-title="PREMIUM LATINO",De Película (4)
 
@@ -2348,7 +2393,7 @@ http://x3iptv.com:57000/live/8543/8543/2326.rtmp
 http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23316.rtmp
 
 #EXTINF:-1 tvg-logo="https://banner2.kisspng.com/20180329/heq/kisspng-logo-of-nbc-television-channel-fox-fox-5abc8ef9dcbf13.5561782615223068099042.jpg" group-title="PREMIUM LATINO",Fox (3)
-
+http://totalstreaming.live:25461/sport12/1234/33299
 
 #EXTINF:-1 tvg-logo="https://banner2.kisspng.com/20180329/heq/kisspng-logo-of-nbc-television-channel-fox-fox-5abc8ef9dcbf13.5561782615223068099042.jpg" group-title="PREMIUM LATINO",Fox (4)
 http://tv.nousiptv.com:25462/live/gerard/gerard/3265.m3u8
@@ -2372,7 +2417,7 @@ http://x3iptv.com:57000/live/8543/8543/2339.rtmp
 http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23314.rtmp
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-action_m.png" group-title="PREMIUM LATINO",Fox Action (3)
-
+http://totalstreaming.live:25461/sport12/1234/33293
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-action_m.png" group-title="PREMIUM LATINO",Fox Action (4)
 http://tv.nousiptv.com:25462/live/gerard/gerard/3263.m3u8
@@ -2393,7 +2438,7 @@ http://x3iptv.com:57000/live/8543/8543/1845.rtmp
 http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23312.rtmp
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-premium-classics_m.png" group-title="PREMIUM LATINO",Fox Classics (3)
-
+http://totalstreaming.live:25461/sport12/1234/33287
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-premium-classics_m.png" group-title="PREMIUM LATINO",Fox Classics (4)
 http://tv.nousiptv.com:25462/live/gerard/gerard/3077.m3u8
@@ -2414,7 +2459,7 @@ http://x3iptv.com:57000/live/8543/8543/2334.rtmp
 http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23313.rtmp
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-premium-cinema_m.png" group-title="PREMIUM LATINO",Fox Cinema (3)
-
+http://totalstreaming.live:25461/sport12/1234/33290
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-premium-cinema_m.png" group-title="PREMIUM LATINO",Fox Cinema (4)
 http://tv.nousiptv.com:25462/live/gerard/gerard/3264.m3u8
@@ -2435,7 +2480,7 @@ http://x3iptv.com:57000/live/8543/8543/2297.rtmp
 
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-premium-comedy_m.png" group-title="PREMIUM LATINO",Fox Comedy (3)
-
+http://totalstreaming.live:25461/sport12/1234/33284
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-premium-comedy_m.png" group-title="PREMIUM LATINO",Fox Comedy (4)
 http://tv.nousiptv.com:25462/live/gerard/gerard/3102.m3u8
@@ -2456,7 +2501,7 @@ http://x3iptv.com:57000/live/8543/8543/2319.rtmp
 
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-family_m.png" group-title="PREMIUM LATINO",Fox Family (3)
-
+http://totalstreaming.live:25461/sport12/1234/33281
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-family_m.png" group-title="PREMIUM LATINO",Fox Family (4)
 http://tv.nousiptv.com:25462/live/gerard/gerard/4032.m3u8
@@ -2477,7 +2522,7 @@ http://x3iptv.com:57000/live/8543/8543/1843.rtmp
 
 
 #EXTINF:-1 tvg-logo="https://www.gmkfreelogos.com/logos/F/img/Foxlife.gif" group-title="PREMIUM LATINO",Fox Life (3)
-
+http://totalstreaming.live:25461/sport12/1234/33296
 
 #EXTINF:-1 tvg-logo="https://www.gmkfreelogos.com/logos/F/img/Foxlife.gif" group-title="PREMIUM LATINO",Fox Life (4)
 http://tv.nousiptv.com:25462/live/gerard/gerard/3203.m3u8
@@ -2501,7 +2546,7 @@ http://x3iptv.com:57000/live/8543/8543/2163.rtmp
 http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23310.rtmp
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-movies_m.png" group-title="PREMIUM LATINO",Fox Movies (3)
-
+http://totalstreaming.live:25461/sport12/1234/33278
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-movies_m.png" group-title="PREMIUM LATINO",Fox Movies (4)
 http://tv.nousiptv.com:25462/live/gerard/gerard/3266.m3u8
@@ -2525,7 +2570,7 @@ http://x3iptv.com:57000/live/8543/8543/2333.rtmp
 
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-1-hd_m.png" group-title="PREMIUM LATINO",Fox Series (3)
-
+http://totalstreaming.live:25461/sport12/1234/33275
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-1-hd_m.png" group-title="PREMIUM LATINO",Fox Series (4)
 http://tv.nousiptv.com:25462/live/gerard/gerard/3262.m3u8
@@ -2546,7 +2591,7 @@ http://x3iptv.com:57000/live/8543/8543/2324.rtmp
 http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23307.rtmp
 
 #EXTINF:-1 tvg-logo="https://www.multichannel.com/.image/t_share/MTU0MDY0OTk5NTEwMzg1NzQ2/fx-logopng.png" group-title="PREMIUM LATINO",Fx (3)
-
+http://totalstreaming.live:25461/sport12/1234/33302
 
 #EXTINF:-1 tvg-logo="https://www.multichannel.com/.image/t_share/MTU0MDY0OTk5NTEwMzg1NzQ2/fx-logopng.png" group-title="PREMIUM LATINO",Fx (4)
 http://tv.nousiptv.com:25462/live/gerard/gerard/3201.m3u8
@@ -2564,7 +2609,7 @@ http://x3iptv.com:57000/live/8543/8543/2356.rtmp
 http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23318.rtmp
 
 #EXTINF:-1 tvg-logo="http://cdd657a867bca3d5084e-b68367b7dbe633942cc09bdd6fb9eaea.r58.cf2.rackcdn.com/fxmoviechannel.png" group-title="PREMIUM LATINO",Fxm (3)
-
+http://totalstreaming.live:25461/sport12/1234/33220
 
 #EXTINF:-1 tvg-logo="http://cdd657a867bca3d5084e-b68367b7dbe633942cc09bdd6fb9eaea.r58.cf2.rackcdn.com/fxmoviechannel.png" group-title="PREMIUM LATINO",Fxm (4)
 http://tv.nousiptv.com:25462/live/gerard/gerard/4009.m3u8
@@ -2657,7 +2702,7 @@ http://x3iptv.com:57000/live/8543/8543/1789.rtmp
 http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23354.rtmp
 
 #EXTINF:-1 tvg-logo="https://vectors.pro/wp-content/uploads/2017/10/hbo-logo-vector.png" group-title="PREMIUM LATINO",Hbo (3)
-
+http://totalstreaming.live:25461/sport12/1234/33263
 
 #EXTINF:-1 tvg-logo="https://vectors.pro/wp-content/uploads/2017/10/hbo-logo-vector.png" group-title="PREMIUM LATINO",Hbo (4)
 http://tv.nousiptv.com:25462/live/gerard/gerard/3199.m3u8
@@ -2726,7 +2771,7 @@ http://x3iptv.com:57000/live/8543/8543/1831.rtmp
 http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23348.rtmp
 
 #EXTINF:-1 tvg-logo="http://contenidos.cablevision.com.mx/guia_programacion/channels/634.png" group-title="PREMIUM LATINO",Hbo Plus (3)
-
+http://totalstreaming.live:25461/sport12/1234/33255
 
 #EXTINF:-1 tvg-logo="http://contenidos.cablevision.com.mx/guia_programacion/channels/634.png" group-title="PREMIUM LATINO",Hbo Plus (4)
 http://tv.nousiptv.com:25462/live/gerard/gerard/4003.m3u8
@@ -2801,7 +2846,7 @@ http://x3iptv.com:57000/live/8543/8543/2340.rtmp
 
 
 #EXTINF:-1 tvg-logo="http://sky.vteximg.com.br/arquivos/ids/156096/maxprime-hd.png?v=636446344633130000" group-title="PREMIUM LATINO",Max Prime (3)
-
+http://totalstreaming.live:25461/sport12/1234/33247
 
 #EXTINF:-1 tvg-logo="http://sky.vteximg.com.br/arquivos/ids/156096/maxprime-hd.png?v=636446344633130000" group-title="PREMIUM LATINO",Max Prime (4)
 http://tv.nousiptv.com:25462/live/gerard/gerard/4012.m3u8
@@ -2906,7 +2951,7 @@ http://x3iptv.com:57000/live/8543/8543/2141.rtmp
 http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23283.rtmp
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8.png" group-title="PREMIUM LATINO",Space (3)
-
+http://totalstreaming.live:25461/sport12/1234/33236
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8.png" group-title="PREMIUM LATINO",Space (4)
 http://tv.nousiptv.com:25462/live/gerard/gerard/3232.m3u8
@@ -5770,8 +5815,11 @@ http://tvnext.biz:25462/live/gerard/gerard/2041.rtmp
 #EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/969313918727409665/mRvrSacI_400x400.jpg" group-title="DEPORTES LATINO",Directv Uruguay (6)
 http://tvnext.biz:25462/live/Puma/Puma/2041.rtmp
 
-#EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/969313918727409665/mRvrSacI_400x400.jpg" group-title="DEPORTES LATINO",Directv Ecuador (2)
+#EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/969313918727409665/mRvrSacI_400x400.jpg" group-title="DEPORTES LATINO",Directv Ecuador (HD)
+http://totalstreaming.live:25461/sport12/1234/33066
 
+#EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/969313918727409665/mRvrSacI_400x400.jpg" group-title="DEPORTES LATINO",Directv Ecuador (SD)
+http://totalstreaming.live:25461/sport12/1234/33067
 
 #EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/969313918727409665/mRvrSacI_400x400.jpg" group-title="DEPORTES LATINO",Directv Sports (1)
 http://x3iptv.com:57000/8543/8543/2214
@@ -6004,8 +6052,8 @@ http://tvnext.biz:25462/live/Puma/Puma/4008.rtmp
 #EXTINF:-1 tvg-logo="https://www.newslinereport.com/online/nota_fox-sports-premium-con-todo-el-ftbol-argentino.jpg" group-title="DEPORTES LATINO",Fox Sports Premium (2)
 
 
-#EXTINF:-1 tvg-logo="http://televisionlibre.net/img/Golperu.png" group-title="DEPORTES LATINO",Gol Perú (1)
-
+#EXTINF:-1 tvg-logo="http://televisionlibre.net/img/Golperu.png" group-title="DEPORTES LATINO",Gol Perú SD
+http://totalstreaming.live:25461/sport12/1234/33055
 
 #EXTINF:-1 tvg-logo="http://televisionlibre.net/img/Golperu.png" group-title="DEPORTES LATINO",Gol Perú HD (2)
 
@@ -6019,6 +6067,12 @@ http://tvnext.biz:25462/live/Puma/Puma/4008.rtmp
 #EXTINF:-1 tvg-logo="http://televisionlibre.net/img/Golperu.png" group-title="DEPORTES LATINO",Gol Perú (6)
 
 
+#EXTINF:-1 tvg-logo="http://tenfield.com.uy.s3.amazonaws.com/uploads/2017/07/goltvlogo.jpg" group-title="DEPORTES LATINO",Gol Ecuador (HD)
+http://totalstreaming.live:25461/sport12/1234/33064
+
+#EXTINF:-1 tvg-logo="http://tenfield.com.uy.s3.amazonaws.com/uploads/2017/07/goltvlogo.jpg" group-title="DEPORTES LATINO",Gol Ecuador (SD)
+http://totalstreaming.live:25461/sport12/1234/33065
+
 #EXTINF:-1 tvg-logo="http://tenfield.com.uy.s3.amazonaws.com/uploads/2017/07/goltvlogo.jpg" group-title="DEPORTES LATINO",Gol Ecuador (1)
 http://x3iptv.com:57000/8543/8543/2342
 
@@ -6031,8 +6085,8 @@ http://x3iptv.com:57000/8142/8142/2342
 #EXTINF:-1 tvg-logo="http://tenfield.com.uy.s3.amazonaws.com/uploads/2017/07/goltvlogo.jpg" group-title="DEPORTES LATINO",Gol TV Uruguay (2)
 
 
-#EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/AFIZZIONADOS.png" group-title="DEPORTES LATINO",Izzi Afizzionados (1)
-
+#EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/AFIZZIONADOS.png" group-title="DEPORTES LATINO",Izzi Afizzionados HD
+http://totalstreaming.live:25461/sport12/1234/32996
 
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/AFIZZIONADOS.png" group-title="DEPORTES LATINO",Izzi Afizzionados (3)
 
@@ -6045,6 +6099,9 @@ http://x3iptv.com:57000/8142/8142/2342
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/868157568597630976/DJOeJK0t_400x400.jpg" group-title="DEPORTES LATINO",PX Sports (2)
 
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/963545741250588672/liEclGMF_400x400.jpg" group-title="DEPORTES LATINO",Tigo Sports Bolivia
+http://totalstreaming.live:25461/sport12/1234/32991
 
 #EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/77/771a9af9ba8f103834ed62d87387f516.png" group-title="DEPORTES LATINO",Tdn (1)
 http://x3iptv.com:57000/8543/8543/34927
