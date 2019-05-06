@@ -1523,7 +1523,7 @@ http://servpremium.net:25461/live/18/RAEYikatTf/4179.rtmp
 http://tv.nousiptv.com:25462/live/angelt/12345/18261.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.radiomontecarlo.com.uy/imgs/articulos/articulos36_57504.png?3759" group-title="URUGUAY",Montecarlo
-
+http://network-star.com:25461/live/ivanfull/ScUzhDx8An/22109.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/912770611419783168/O0rCFK49_400x400.jpg" group-title="URUGUAY",Montevideo Portal
 http://wowza.montevideo.com.uy:1936/live/_definst_/mvdstrem/chunklist_w1488231185.m3u8
@@ -1540,8 +1540,8 @@ http://tvnext.biz:25462/live/Puma/Puma/3344.rtmp
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-gXhn1i6LiCM/VKOv0_4IFfI/AAAAAAAAFmw/qoNG1mHsytc/s640/blogger-image--648257053.jpg" group-title="URUGUAY",Saeta 10
 http://tv.nousiptv.com:25462/live/angelt/12345/3344.m3u8
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/61/Teledoce_logo.png/revision/latest?cb=20140706162325" group-title="URUGUAY",Teledoce Web
-
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/61/Teledoce_logo.png/revision/latest?cb=20140706162325" group-title="URUGUAY",Teledoce
+http://network-star.com:25461/live/ivanfull/ScUzhDx8An/22108.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/61/Teledoce_logo.png/revision/latest?cb=20140706162325" group-title="URUGUAY",Teledoce
 http://tvnext.biz:25462/live/gerard/gerard/18731.rtmp
@@ -2052,6 +2052,9 @@ http://170.250.96.20:8107/nbc.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgZP0GqShGRgdA9s3yvQYyVYooUtYUssLIyB_lU2juSepYJWYQ" group-title="PREMIUM USA",Universal Channel
 
+
+#EXTINF:-1 tvg-logo="https://sitejerk.com/images/usa-network-logo-transparent-9.png" group-title="PREMIUM USA",USA Network
+http://network-star.com:25461/live/ivanfull/ScUzhDx8An/36722.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/923304084496683008/rSJ1FNHu_400x400.jpg" group-title="PREMIUM USA",Western TV
 https://nimble.dashmedia.tv/onestudio/western4u/playlist.m3u8
