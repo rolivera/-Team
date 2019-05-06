@@ -66,6 +66,9 @@ http://184.154.28.210:1935/canal4/canal4/playlist.m3u8
 http://iptvparatodos.net:38953/yv83qjBhM7/FtpQEmfOMs/56491
 
 #EXTINF:-1 tvg-logo="http://www.radiovisionjujuy.com.ar/images/stories/Medio-01.png" group-title="ARGENTINA",Canal 7 Jujuy
+https://5975e06a1f292.streamlock.net:4443/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.radiovisionjujuy.com.ar/images/stories/Medio-01.png" group-title="ARGENTINA",Canal 7 Jujuy
 http://iptvparatodos.net:38953/yv83qjBhM7/FtpQEmfOMs/24903
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/Canal-8-Mendoza-218x150.png" group-title="ARGENTINA",Canal 8 Mendoza
@@ -113,7 +116,7 @@ http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WxzqqFQ.jpg" group-title="ARGENTINA",Ciudad TV
 
 
-#EXTINF:-1 tvg-logo="http://www.chaco.tv/assets/general/logo-chacotv.png" group-title="ARGENTINA",Chaco TV
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/ChacoTV.png" group-title="ARGENTINA",Chaco TV
 http://iptvparatodos.net:38953/yv83qjBhM7/FtpQEmfOMs/28092
 
 #EXTINF:-1 tvg-logo="http://www.cablevideodigitalbionik.com.ar/img/logoscanales/cn23.jpg" group-title="ARGENTINA",CN23
@@ -172,9 +175,6 @@ http://panel.dattalive.com:1935/8250/8250/chunklist_w689217833.m3u8?GrupoTopIptv
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/08/NETargentina.png/revision/latest?cb=20180702162652" group-title="ARGENTINA",Net TV
 http://unlimited2-us.dps.live/nettv/nettv.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2016/05/Canal-Siete-Jujuy.png?fit=400%2C260" group-title="ARGENTINA",Telefe Jujuy
-https://5975e06a1f292.streamlock.net:4443/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://digitalmediawire.com/wp-content/uploads/2016/11/Telefe.jpg" group-title="ARGENTINA",Telefe Cordoba
 http://iptvparatodos.net:38953/yv83qjBhM7/FtpQEmfOMs/28724
