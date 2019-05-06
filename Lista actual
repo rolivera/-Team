@@ -18,7 +18,13 @@ https://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
 #######################################
 
 #EXTINF:-1 tvg-logo="https://www.a24.com/static/images/share_default.png" group-title="ARGENTINA",A24
-http://servpremium.net:25461/live/18/RAEYikatTf/2365.rtmp
+http://iptvparatodos.net:38953/yv83qjBhM7/FtpQEmfOMs/1901
+
+#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/small/295-2959716_america-2-logo-américa-tv.png" group-title="ARGENTINA",América SD
+http://iptvparatodos.net:38953/yv83qjBhM7/FtpQEmfOMs/1900
+
+#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/small/295-2959716_america-2-logo-américa-tv.png" group-title="ARGENTINA",América HD
+http://iptvparatodos.net:38953/yv83qjBhM7/FtpQEmfOMs/28414
 
 #EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/small/295-2959716_america-2-logo-américa-tv.png" group-title="ARGENTINA",América 
 http://tv.nousiptv.com:25462/live/angelt/12345/2040.m3u8
@@ -26,35 +32,47 @@ http://tv.nousiptv.com:25462/live/angelt/12345/2040.m3u8
 #EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/small/295-2959716_america-2-logo-américa-tv.png" group-title="ARGENTINA",América
 http://x3iptv.com:57000/8142/8142/25067
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/D4R-oZiW0AAZWN_.jpg" group-title="ARGENTINA",América Tucuman
+http://iptvparatodos.net:38953/yv83qjBhM7/FtpQEmfOMs/56374
+
 #EXTINF:-1 tvg-logo="https://img1.androidappsapk.co/300/7/0/6/net.coninfo.admin.trecemaxtelevisin.png" group-title="ARGENTINA",13 Max SD
 http://coninfo.net:1935/13maxhd/live_720p/chunklist_w352743074.m3u8
 
 #EXTINF:-1 tvg-logo="https://img1.androidappsapk.co/300/7/0/6/net.coninfo.admin.trecemaxtelevisin.png" group-title="ARGENTINA",13 Max
-http://servpremium.net:25461/live/18/RAEYikatTf/2366.rtmp
+http://iptvparatodos.net:38953/yv83qjBhM7/FtpQEmfOMs/23573
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_argentinisima-satelital_m.png" group-title="ARGENTINA",Argentinisima Satelital
 
 
 #EXTINF:-1 tvg-logo="http://www.fotosdigitalesgratis.com/noticias/fotos/C5N-Logo.jpg" group-title="ARGENTINA",C5N
+http://iptvparatodos.net:38953/yv83qjBhM7/FtpQEmfOMs/14181
 
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/y4xxpM67yMQ/maxresdefault.jpg" group-title="ARGENTINA",C5SF
+http://iptvparatodos.net:38953/yv83qjBhM7/FtpQEmfOMs/52495
 
-#EXTINF:-1 tvg-logo="http://www.fotosdigitalesgratis.com/noticias/fotos/C5N-Logo.jpg" group-title="ARGENTINA",C5N
-
+#EXTINF:-1 tvg-logo="http://photocall.tv/images/canal4j.png" group-title="ARGENTINA",Canal 4 Jujuy
+http://iptvparatodos.net:38953/yv83qjBhM7/FtpQEmfOMs/24919
 
 #EXTINF:-1 tvg-logo="http://photocall.tv/images/canal4j.png" group-title="ARGENTINA",Canal 4 Jujuy
 http://190.52.32.13:1935/canal4/smil:manifest.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/--LWP2IqfJz0/WvMMjRwM5iI/AAAAAAAAhNk/FcXygo8Uk1kqkPr1HITAolJzau-Yd5pAwCK4BGAYYCw/s1600/LOGO%2BCANAL_00005.png" group-title="ARGENTINA",Canal 4 Posadas
+http://iptvparatodos.net:38953/yv83qjBhM7/FtpQEmfOMs/28428
+
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/--LWP2IqfJz0/WvMMjRwM5iI/AAAAAAAAhNk/FcXygo8Uk1kqkPr1HITAolJzau-Yd5pAwCK4BGAYYCw/s1600/LOGO%2BCANAL_00005.png" group-title="ARGENTINA",Canal 4 Posadas
 http://184.154.28.210:1935/canal4/canal4/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nD9TVZg.jpg" group-title="ARGENTINA",Canal 9 Comodoro Rivadavia
-
+http://iptvparatodos.net:38953/yv83qjBhM7/FtpQEmfOMs/24966
 
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-aKHK8Ajrcc0/TpOoS0KRJLI/AAAAAAAAQT4/edRRDvx0kkQ/s1600/canal9salta.png" group-title="ARGENTINA",Canal 9 Salta
 http://panel.dattalive.com:1935/8250/8250/playlist.m3u8?GrupoTopIptv
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LU2WQFP.jpg" group-title="ARGENTINA",Canal 11 Ushuaia
 
+
+#EXTINF:-1 tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/3.png" group-title="ARGENTINA",Canal 26
+http://iptvparatodos.net:38953/yv83qjBhM7/FtpQEmfOMs/1899
 
 #EXTINF:-1 tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/3.png" group-title="ARGENTINA",Canal 26
 http://live-edge01.telecentro.net.ar/live/26hd-360/playlist.m3u8
@@ -74,11 +92,14 @@ http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WxzqqFQ.jpg" group-title="ARGENTINA",Ciudad TV
 
 
+#EXTINF:-1 tvg-logo="http://www.cablevideodigitalbionik.com.ar/img/logoscanales/cn23.jpg" group-title="ARGENTINA",CN23
+http://iptvparatodos.net:38953/yv83qjBhM7/FtpQEmfOMs/28105
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/677195098405412864/w1GSVqNs_400x400.png" group-title="ARGENTINA",CN3
 http://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.gmkfreelogos.com/logos/C/img/Cronica.gif" group-title="ARGENTINA",Crónica
-
+http://iptvparatodos.net:38953/yv83qjBhM7/FtpQEmfOMs/15374
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/433043324698501120/liWhZUAW_400x400.jpeg" group-title="ARGENTINA",El Garage
 
@@ -90,7 +111,7 @@ http://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-vkeG0RQIHnE/WGhvc62WN2I/AAAAAAAABVY/BYhPhbmV8PkibYnkoMh4oUswZ2JLVp_7QCLcB/s1600/elnuevenuevo.png" group-title="ARGENTINA",El Nueve
-
+http://iptvparatodos.net:38953/yv83qjBhM7/FtpQEmfOMs/1898
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-vkeG0RQIHnE/WGhvc62WN2I/AAAAAAAABVY/BYhPhbmV8PkibYnkoMh4oUswZ2JLVp_7QCLcB/s1600/elnuevenuevo.png" group-title="ARGENTINA",El Nueve HD
 
@@ -102,10 +123,13 @@ http://tvnext.biz:25462/live/gerard/gerard/8183.rtmp
 http://tvnext.biz:25462/live/Puma/Puma/8183.rtmp
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4d/El-Trece-HD-Logo-2011-2016.png/revision/latest?cb=20170721071837" group-title="ARGENTINA",El Trece HD
-http://servpremium.net:25461/live/18/RAEYikatTf/2373.rtmp
+http://iptvparatodos.net:38953/yv83qjBhM7/FtpQEmfOMs/1897
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4d/El-Trece-HD-Logo-2011-2016.png/revision/latest?cb=20170721071837" group-title="ARGENTINA",El Trece Internacional
+http://iptvparatodos.net:38953/yv83qjBhM7/FtpQEmfOMs/1548
 
 #EXTINF:-1 tvg-logo="http://www.nataliarosminati.com/images/works/51/Encuentro.jpg" group-title="ARGENTINA",Encuentro
-http://servpremium.net:25461/live/18/RAEYikatTf/2355.rtmp
+
 
 #EXTINF:-1 tvg-logo="http://www.renau.edu.ar/img/canales/a1v2ltjc.png" group-title="ARGENTINA",Litus
 http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8?GrupoTopIptv
@@ -122,6 +146,18 @@ http://unlimited2-us.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2016/05/Canal-Siete-Jujuy.png?fit=400%2C260" group-title="ARGENTINA",Telefe Jujuy
 https://5975e06a1f292.streamlock.net:4443/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://digitalmediawire.com/wp-content/uploads/2016/11/Telefe.jpg" group-title="ARGENTINA",Telefe Cordoba
+http://iptvparatodos.net:38953/yv83qjBhM7/FtpQEmfOMs/28724
+
+#EXTINF:-1 tvg-logo="https://digitalmediawire.com/wp-content/uploads/2016/11/Telefe.jpg" group-title="ARGENTINA",Telefe Bahia Blanca
+http://iptvparatodos.net:38953/yv83qjBhM7/FtpQEmfOMs/26162
+
+#EXTINF:-1 tvg-logo="https://digitalmediawire.com/wp-content/uploads/2016/11/Telefe.jpg" group-title="ARGENTINA",Telefe Rosario
+http://iptvparatodos.net:38953/yv83qjBhM7/FtpQEmfOMs/26164
+
+#EXTINF:-1 tvg-logo="https://digitalmediawire.com/wp-content/uploads/2016/11/Telefe.jpg" group-title="ARGENTINA",Telefe
+http://iptvparatodos.net:38953/yv83qjBhM7/FtpQEmfOMs/2052
+
 #EXTINF:-1 tvg-logo="https://digitalmediawire.com/wp-content/uploads/2016/11/Telefe.jpg" group-title="ARGENTINA",Telefe
 http://x3iptv.com:57000/8142/8142/25044
 
@@ -135,22 +171,25 @@ http://tvnext.biz:25462/live/Puma/Puma/17901.rtmp
 
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/506483696065449984/BATn-jAe.png" group-title="ARGENTINA",Telpin
-http://servpremium.net:25461/live/18/RAEYikatTf/2351.rtmp
+
 
 #EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/11/e455d-tlx.png" group-title="ARGENTINA",TLX
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?iptvgratis?chile.m3u8?GrupoTopIptv
 
+#EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/11/e455d-tlx.png" group-title="ARGENTINA",TLX
+http://iptvparatodos.net:38953/yv83qjBhM7/FtpQEmfOMs/1997
+
 #EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/11/d15ad-tn.png" group-title="ARGENTINA",TN 
+http://iptvparatodos.net:38953/yv83qjBhM7/FtpQEmfOMs/1893
 
+#EXTINF:-1 tvg-logo="https://imgsvr.radiocut.com.ar/get/crop/center/200/200/cuts_logos/c7/d1/c7d1f319-1d6c-44ed-a70a-9e38f935fa38.jpg" group-title="ARGENTINA",TV Pública
+http://iptvparatodos.net:38953/yv83qjBhM7/FtpQEmfOMs/1738
 
 #EXTINF:-1 tvg-logo="https://imgsvr.radiocut.com.ar/get/crop/center/200/200/cuts_logos/c7/d1/c7d1f319-1d6c-44ed-a70a-9e38f935fa38.jpg" group-title="ARGENTINA",TV Pública
 
-
-#EXTINF:-1 tvg-logo="https://imgsvr.radiocut.com.ar/get/crop/center/200/200/cuts_logos/c7/d1/c7d1f319-1d6c-44ed-a70a-9e38f935fa38.jpg" group-title="ARGENTINA",TV Pública
-http://servpremium.net:25461/live/18/RAEYikatTf/2370.rtmp
 
 #EXTINF:-1 tvg-logo="https://ik.imagekit.io/ulangotv/image/upload/110203_logo_canal_41_mar_del_plata.png" group-title="ARGENTINA",Xfn
-http://servpremium.net:25461/live/18/RAEYikatTf/2349.rtmp
+
 
 ######################################################################################################################################
 ####################################### BRASIL
