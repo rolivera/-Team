@@ -901,7 +901,7 @@ http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/IB3.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/899384654259736578/JcRiYU5A_400x400.jpg" group-title="ESPAÑA",La 2
-http://servpremium.net:25461/live/18/RAEYikatTf/2508.rtmp
+
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/01/Lancelot-tv.png" group-title="ESPAÑA",Lancelot tv
 http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
@@ -978,6 +978,9 @@ http://tv.aliasdns.info:8979/live/g13/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.hch.tv/wp-content/uploads/2017/12/HCH-300x171.png" group-title="HONDURAS",HCH 
 http://stream.innovandote.com/hch/hch/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.hch.tv/wp-content/uploads/2017/12/HCH-300x171.png" group-title="HONDURAS",HCH 
+http://iptvparatodos.net:38953/live/yv83qjBhM7/FtpQEmfOMs/37063.m3u8
+
 #EXTINF:-1 tvg-logo="http://hondured.tv/wp-content/uploads/2017/08/Icono-Hondured.png" group-title="HONDURAS",Hondured
 
 
@@ -986,6 +989,9 @@ http://stream.innovandote.com/hch/hch/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.honduras.com/wp-content/uploads/2012/05/logo-mundotv.png" group-title="HONDURAS",MundoTV
 http://4.31.30.140:1935/live/mundotv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://cdn.latribuna.hn/wp-content/uploads/2014/07/QUE-HUBO-CHANO.jpg" group-title="HONDURAS",Q Hubo
+http://iptvparatodos.net:38953/live/yv83qjBhM7/FtpQEmfOMs/37061.m3u8
 
 #EXTINF:-1 tvg-logo="http://tvonlinegratis.com/wp-content/uploads/2014/08/SITV-Logo.jpg" group-title="HONDURAS",Si TV 
 
@@ -1007,6 +1013,9 @@ http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tsi-honduras-logo-A80A69CD6F-seeklogo.com.png" group-title="HONDURAS",TSI
 https://trinity-lh.akamaihd.net/i/TelevicentroLive2_d@508538/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tsi-honduras-logo-A80A69CD6F-seeklogo.com.png" group-title="HONDURAS",TSI
+http://iptvparatodos.net:38953/live/yv83qjBhM7/FtpQEmfOMs/2015.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/AN66SAwETFuayXGi4O4PvSnLoY4OLWw8CKtv5aNNkQ=s900-mo-c-c0xffffffff-rj-k-no" group-title="HONDURAS",Une TV 
 
