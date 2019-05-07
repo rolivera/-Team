@@ -1372,7 +1372,7 @@ http://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://www.canalipe.tv/sites/default/files/web/users/user85/Google/canal_ipe_logo_png.png" group-title="PERU",IPE
-http://iptvparatodos.net:38953/live/yv83qjBhM7/FtpQEmfOMs/8920.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/565018162916114432/7h5k-iqC_400x400.png" group-title="PERU",JN19
 http://movil.mediastream.pe/vv_manosdios/livestream/playlist.m3u8
@@ -1425,11 +1425,11 @@ http://iptvparatodos.net:38953/live/yv83qjBhM7/FtpQEmfOMs/8922.m3u8
 #EXTINF:-1 tvg-logo="https://www.mercadonegro.pe/wp-content/uploads/2019/04/antes-y-despues-tv-peru-logo.png" group-title="PERU",TV Noticias 7.3
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIPE0002&mode=12
 
-#EXTINF:-1 tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/horarios_73.png" group-title="PERU",TV Noticias 7.3
+#EXTINF:-1 tvg-logo="https://www.mercadonegro.pe/wp-content/uploads/2019/04/antes-y-despues-tv-peru-logo.png" group-title="PERU",TV Noticias 7.3
 http://iptvparatodos.net:38953/live/yv83qjBhM7/FtpQEmfOMs/8919.m3u8
 
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-Mcc2xCpSKWQ/UF6PxaiQZYI/AAAAAAAACQU/BLm5ZUhxzfs/s1600/LOGOTVPERU.jpg" group-title="PERU",TV Perú
-
+http://iptvparatodos.net:38953/live/yv83qjBhM7/FtpQEmfOMs/8920.m3u8
 
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-Mcc2xCpSKWQ/UF6PxaiQZYI/AAAAAAAACQU/BLm5ZUhxzfs/s1600/LOGOTVPERU.jpg" group-title="PERU",TV Perú HD
 http://cdnh15.iblups.com/hls/R9WtilpKKB.m3u8
@@ -1539,11 +1539,14 @@ http://video-auth8.iol.pt:80/live_tvi_direct/live_tvi_direct-3/playlist.m3u8
 https://stream.vagalume.fm/hls/147396460892793/aac.m3u8
 #######################################
 
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/antena7.png" group-title="R.DOMINICANA",Antena 7
+http://iptvparatodos.net:38953/live/yv83qjBhM7/FtpQEmfOMs/1832.m3u8
+
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/ACSszfGSjOUvefrWHrzRhdw3LsMyMqkjNp2ic6P9pg=s900-mo-c-c0xffffffff-rj-k-no" group-title="R.DOMINICANA",Canal 4
 
 
 #EXTINF:-1 tvg-logo="http://vivotvhd.com/img/cha/2044.gif" group-title="R.DOMINICANA",Canal 19
-http://servpremium.net:25461/live/18/RAEYikatTf/3180.rtmp
+
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/973571329927647233/Ap9Z8COG_400x400.jpg" group-title="R.DOMINICANA",CDN
 
@@ -1554,14 +1557,17 @@ http://servpremium.net:25461/live/18/RAEYikatTf/3180.rtmp
 #EXTINF:-1 tvg-logo="http://hostlagarto.com/streaming/wp-content/uploads/2017/06/ESTTV-696x244.png" group-title="R.DOMINICANA",ESTV
 
 
+#EXTINF:-1 tvg-logo="https://ik.imagekit.io/ulangotv/image/upload/1319245_logo_xtremo_vision_canal_22.png" group-title="R.DOMINICANA",Extremo
+http://iptvparatodos.net:38953/live/yv83qjBhM7/FtpQEmfOMs/28086.m3u8
+
 #EXTINF:-1 tvg-logo="http://lunatv.do/stream/imagen/logo-stream.png" group-title="R.DOMINICANA",Luna TV
-http://servpremium.net:25461/live/18/RAEYikatTf/3175.rtmp
+http://iptvparatodos.net:38953/live/yv83qjBhM7/FtpQEmfOMs/1691.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/bhj6YkMyoHo/hqdefault.jpg" group-title="R.DOMINICANA",MicroVision
 http://190.103.183.24:1935/live/MicroHD/chunklist_w1105794626.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/bhj6YkMyoHo/hqdefault.jpg" group-title="R.DOMINICANA",MicroVision
-http://servpremium.net:25461/live/18/RAEYikatTf/3182.rtmp
+
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/616231451403624448/un6zS-V-.png" group-title="R.DOMINICANA",Orbit tv
 http://ss6.domint.net:2082/202_str/orbittv/media_w29206476_playlist.m3u8
@@ -1587,8 +1593,11 @@ http://tvnext.biz:25462/live/gerard/gerard/5473.rtmp
 #EXTINF:-1 tvg-logo="https://teleuniversotv.com/wp-content/uploads/2018/11/logo_teleuniverso_400px.png" group-title="R.DOMINICANA",Teleuniverso
 http://tvnext.biz:25462/live/Puma/Puma/5473.rtmp
 
+#EXTINF:-1 tvg-logo="http://telecanal28.net/wp-content/uploads/2019/03/cropped-logo-tl28.png" group-title="R.DOMINICANA",Tc 28
+http://iptvparatodos.net:38953/live/yv83qjBhM7/FtpQEmfOMs/28077.m3u8
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/765228848912949248/XjJ-lU2K.jpg" group-title="R.DOMINICANA",Zol TV
-http://servpremium.net:25461/live/18/RAEYikatTf/3174.rtmp
+
 
 
 ######################################################################################################################################
@@ -1598,34 +1607,37 @@ https://stream.vagalume.fm/hls/1470169276225492/aac.m3u8
 #######################################
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B11MDjnDXWY/hq720_live.jpg" group-title="URUGUAY",1000 x Hora
-
+http://iptvparatodos.net:38953/live/yv83qjBhM7/FtpQEmfOMs/26768.m3u8
 
 #EXTINF:-1 tvg-logo="http://static-cdn1.ustream.tv/i/channel/picture/1/0/2/6/10269818/10269818_doblevision_1327669950,192x192,r:1.jpg" group-title="URUGUAY",Canal 2 San Carlos
-http://servpremium.net:25461/live/18/RAEYikatTf/4202.rtmp
+http://iptvparatodos.net:38953/live/yv83qjBhM7/FtpQEmfOMs/35099.m3u8
 
 #EXTINF:-1 tvg-logo="http://vivotvhd.com/img/cha/168.gif" group-title="URUGUAY",Canal 4 Chuy
-http://servpremium.net:25461/live/18/RAEYikatTf/4199.rtmp
+
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/04/canal4-2.png" group-title="URUGUAY",Canal 4 Juan Lacaze
-http://servpremium.net:25461/live/18/RAEYikatTf/4197.rtmp
+
 
 #EXTINF:-1 tvg-logo="http://www.paysandu.tv/s/wp-content/uploads/2015/07/logo-canal-4-paysandu@2x.png" group-title="URUGUAY",Canal 4 Paysandú
-http://servpremium.net:25461/live/18/RAEYikatTf/4196.rtmp
+
+
+#EXTINF:-1 tvg-logo="http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/8081/240/default.jpg" group-title="URUGUAY",Canal 4 Salto
+http://iptvparatodos.net:38953/live/yv83qjBhM7/FtpQEmfOMs/25039.m3u8
 
 #EXTINF:-1 tvg-logo="http://vivotvhd.com/img/cha/505.gif" group-title="URUGUAY",Canal 4 Treinta y Tres
-http://servpremium.net:25461/live/18/RAEYikatTf/4198.rtmp
+
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/04/canal-5-noticias-y-deportes-324x160.png" group-title="URUGUAY",Canal 5 ND Colonia
-http://servpremium.net:25461/live/18/RAEYikatTf/4194.rtmp
+
 
 #EXTINF:-1 tvg-logo="http://vivotvhd.com/img/cha/175.gif" group-title="URUGUAY",Canal 6 Durazno
-http://servpremium.net:25461/live/18/RAEYikatTf/4193.rtmp
+
 
 #EXTINF:-1 tvg-logo="http://vivotvhd.com/img/cha/504.gif" group-title="URUGUAY",Canal 7 Punta del Este
 
 
 #EXTINF:-1 tvg-logo="http://vivotvhd.com/img/cha/3031.gif" group-title="URUGUAY",Canal 8 Artigas
-http://servpremium.net:25461/live/18/RAEYikatTf/4191.rtmp
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfX5FFyAyoReqGZjF1XwGQPPuZhvFoHueZgiZN0Se8hIA3cT0p" group-title="URUGUAY",Canal 8 Rivera
 
@@ -1634,34 +1646,34 @@ http://servpremium.net:25461/live/18/RAEYikatTf/4191.rtmp
 
 
 #EXTINF:-1 tvg-logo="http://vivotvhd.com/img/cha/164.gif" group-title="URUGUAY",Canal 11 Las Piedras
-http://servpremium.net:25461/live/18/RAEYikatTf/4204.rtmp
+
 
 #EXTINF:-1 tvg-logo="http://vivotvhd.com/img/cha/166.gif" group-title="URUGUAY",Canal 12 Melo
-http://servpremium.net:25461/live/18/RAEYikatTf/4203.rtmp
+http://iptvparatodos.net:38953/live/yv83qjBhM7/FtpQEmfOMs/35100.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/KroC87MMOtM/hqdefault.jpg" group-title="URUGUAY",Canal de la Región Canelones
-http://servpremium.net:25461/live/18/RAEYikatTf/4184.rtmp
+
 
 #EXTINF:-1 tvg-logo="http://vivotvhd.com/img/cha/184.gif" group-title="URUGUAY",Canal Maroñas
-http://servpremium.net:25461/live/18/RAEYikatTf/4181.rtmp
+
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/891330516087164928/KMLvo3-g_400x400.jpg" group-title="URUGUAY",Canal U
-http://servpremium.net:25461/live/18/RAEYikatTf/4187.rtmp
+http://iptvparatodos.net:38953/live/yv83qjBhM7/FtpQEmfOMs/24855.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/891330516087164928/KMLvo3-g_400x400.jpg" group-title="URUGUAY",Canal U
 
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/525365088723542016/tMAm43Wj_400x400.png" group-title="URUGUAY",Cardinal TV
-http://servpremium.net:25461/live/18/RAEYikatTf/4186.rtmp
+http://iptvparatodos.net:38953/live/yv83qjBhM7/FtpQEmfOMs/35101.m3u8
 
 #EXTINF:-1 tvg-logo="http://vivotvhd.com/img/cha/181.gif" group-title="URUGUAY",Charrúa TV
-http://servpremium.net:25461/live/18/RAEYikatTf/4185.rtmp
+http://iptvparatodos.net:38953/live/yv83qjBhM7/FtpQEmfOMs/21109.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/980360681093582848/qW9qLd1W_400x400.jpg" group-title="URUGUAY",FTC Florida
 
 
 #EXTINF:-1 tvg-logo="http://rematesenuruguay.com/wp-content/uploads/2016/03/remates-impo-520x340.png" group-title="URUGUAY",IMPO
-http://servpremium.net:25461/live/18/RAEYikatTf/4179.rtmp
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQU2uqw5gEtjTV2AgBQJBkl4xAzXowEosN47HS77HOtgzKUtfV" group-title="URUGUAY",La Red
 
@@ -1672,11 +1684,20 @@ http://tv.nousiptv.com:25462/live/angelt/12345/18261.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiomontecarlo.com.uy/imgs/articulos/articulos36_57504.png?3759" group-title="URUGUAY",Montecarlo
 http://network-star.com:25461/live/ivanfull/ScUzhDx8An/22109.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.radiomontecarlo.com.uy/imgs/articulos/articulos36_57504.png?3759" group-title="URUGUAY",Montecarlo
+http://iptvparatodos.net:38953/live/yv83qjBhM7/FtpQEmfOMs/8739.m3u8
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/912770611419783168/O0rCFK49_400x400.jpg" group-title="URUGUAY",Montevideo Portal
 http://wowza.montevideo.com.uy:1936/live/_definst_/mvdstrem/chunklist_w1488231185.m3u8
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/912770611419783168/O0rCFK49_400x400.jpg" group-title="URUGUAY",Montevideo Portal
+http://iptvparatodos.net:38953/live/yv83qjBhM7/FtpQEmfOMs/2133.m3u8
+
 #EXTINF:-1 tvg-logo="http://vivotvhd.com/img/cha/3022.gif" group-title="URUGUAY",RTV Rocha
-http://servpremium.net:25461/live/18/RAEYikatTf/4178.rtmp
+
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-gXhn1i6LiCM/VKOv0_4IFfI/AAAAAAAAFmw/qoNG1mHsytc/s640/blogger-image--648257053.jpg" group-title="URUGUAY",Saeta 10
+http://iptvparatodos.net:38953/live/yv83qjBhM7/FtpQEmfOMs/15545.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-gXhn1i6LiCM/VKOv0_4IFfI/AAAAAAAAFmw/qoNG1mHsytc/s640/blogger-image--648257053.jpg" group-title="URUGUAY",Saeta 10
 http://tvnext.biz:25462/live/gerard/gerard/3344.rtmp
@@ -1697,16 +1718,16 @@ http://tvnext.biz:25462/live/gerard/gerard/18731.rtmp
 http://tvnext.biz:25462/live/Puma/Puma/18731.rtmp
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/61/Teledoce_logo.png/revision/latest?cb=20140706162325" group-title="URUGUAY",Teledoce HD
-http://servpremium.net:25461/live/18/RAEYikatTf/4208.rtmp
+http://iptvparatodos.net:38953/live/yv83qjBhM7/FtpQEmfOMs/8740.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/61/Teledoce_logo.png/revision/latest?cb=20140706162325" group-title="URUGUAY",Teledoce HD
 http://tv.nousiptv.com:25462/live/angelt/12345/3620.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tensai.com.uy/webroot/img/logos/tnu.png" group-title="URUGUAY",TNU (1)
-
+#EXTINF:-1 tvg-logo="http://www.tensai.com.uy/webroot/img/logos/tnu.png" group-title="URUGUAY",TNU
+http://iptvparatodos.net:38953/live/yv83qjBhM7/FtpQEmfOMs/2809.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.sociedaduruguaya.org/wp-content/uploads/2014/06/tvciudad.jpg" group-title="URUGUAY",TV Ciudad
-http://servpremium.net:25461/live/18/RAEYikatTf/4175.rtmp
+http://iptvparatodos.net:38953/live/yv83qjBhM7/FtpQEmfOMs/21108.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.sociedaduruguaya.org/wp-content/uploads/2014/06/tvciudad.jpg" group-title="URUGUAY",TV Ciudad
 http://tv.nousiptv.com:25462/live/angelt/12345/19352.m3u8
@@ -1718,15 +1739,15 @@ http://tv.nousiptv.com:25462/live/angelt/12345/19352.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://vcc.com.uy/web/images/VIVO.jpg" group-title="URUGUAY",Vivo Canal 3
-http://servpremium.net:25461/live/18/RAEYikatTf/4171.rtmp
-
-#EXTINF:-1 tvg-logo="https://mlstaticquic-a.akamaihd.net/2android-tv-box-750-canales-de-cable-canales-uruguayos-y-vtv-D_NQ_NP_884222-MLU26628807182_012018-F.jpg" group-title="URUGUAY",VTV (1)
 
 
-#EXTINF:-1 tvg-logo="https://mlstaticquic-a.akamaihd.net/2android-tv-box-750-canales-de-cable-canales-uruguayos-y-vtv-D_NQ_NP_884222-MLU26628807182_012018-F.jpg" group-title="URUGUAY",VTV (6)
+#EXTINF:-1 tvg-logo="https://mlstaticquic-a.akamaihd.net/2android-tv-box-750-canales-de-cable-canales-uruguayos-y-vtv-D_NQ_NP_884222-MLU26628807182_012018-F.jpg" group-title="URUGUAY",VTV
+http://iptvparatodos.net:38953/live/yv83qjBhM7/FtpQEmfOMs/21763.m3u8
 
+#EXTINF:-1 tvg-logo="https://mlstaticquic-a.akamaihd.net/2android-tv-box-750-canales-de-cable-canales-uruguayos-y-vtv-D_NQ_NP_884222-MLU26628807182_012018-F.jpg" group-title="URUGUAY",VTV HD
+http://iptvparatodos.net:38953/live/yv83qjBhM7/FtpQEmfOMs/8737.m3u8
 
-#EXTINF:-1 tvg-logo="https://mlstaticquic-a.akamaihd.net/2android-tv-box-750-canales-de-cable-canales-uruguayos-y-vtv-D_NQ_NP_884222-MLU26628807182_012018-F.jpg" group-title="URUGUAY",VTV (1)
+#EXTINF:-1 tvg-logo="https://mlstaticquic-a.akamaihd.net/2android-tv-box-750-canales-de-cable-canales-uruguayos-y-vtv-D_NQ_NP_884222-MLU26628807182_012018-F.jpg" group-title="URUGUAY",VTV
 http://tvnext.biz:25462/live/gerard/gerard/22204.rtmp
 
 #EXTINF:-1 tvg-logo="https://mlstaticquic-a.akamaihd.net/2android-tv-box-750-canales-de-cable-canales-uruguayos-y-vtv-D_NQ_NP_884222-MLU26628807182_012018-F.jpg" group-title="URUGUAY",VTV
@@ -1735,7 +1756,7 @@ http://tv.nousiptv.com:25462/live/angelt/12345/3598.m3u8
 #EXTINF:-1 tvg-logo="https://mlstaticquic-a.akamaihd.net/2android-tv-box-750-canales-de-cable-canales-uruguayos-y-vtv-D_NQ_NP_884222-MLU26628807182_012018-F.jpg" group-title="URUGUAY",VTV
 
 
-#EXTINF:-1 tvg-logo="https://mlstaticquic-a.akamaihd.net/2android-tv-box-750-canales-de-cable-canales-uruguayos-y-vtv-D_NQ_NP_884222-MLU26628807182_012018-F.jpg" group-title="URUGUAY",VTV (6)
+#EXTINF:-1 tvg-logo="https://mlstaticquic-a.akamaihd.net/2android-tv-box-750-canales-de-cable-canales-uruguayos-y-vtv-D_NQ_NP_884222-MLU26628807182_012018-F.jpg" group-title="URUGUAY",VTV
 http://tvnext.biz:25462/live/Puma/Puma/22204.rtmp
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd_qBAeUfhUl2q8-nR9zdA_9nNoKZ4TnP7AkZoYF8CKrer9isj" group-title="URUGUAY",VTV +
@@ -1745,7 +1766,7 @@ http://tvnext.biz:25462/live/Puma/Puma/22204.rtmp
 
 
 #EXTINF:-1 tvg-logo="http://vivotvhd.com/img/cha/3024.gif" group-title="URUGUAY",Young Teve
-http://servpremium.net:25461/live/18/RAEYikatTf/4170.rtmp
+
 
 #####################################################################################################################################
 ####################################### VENEZUELA
@@ -1754,7 +1775,7 @@ https://stream.vagalume.fm/hls/1475776167864381/aac.m3u8
 #######################################
 
 #EXTINF:-1 tvg-logo="https://ipysvenezuela.org/wp-content/uploads/2015/07/Destacada_Logo_Globovision.png" group-title="VENEZUELA",Globovisión
-http://servpremium.net:25461/live/18/RAEYikatTf/3465.rtmp
+http://iptvparatodos.net:38953/live/yv83qjBhM7/FtpQEmfOMs/1703.m3u8
 
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple19/v4/6a/5e/78/6a5e7862-acd6-80b4-579c-e3fbf845fbf8/source/512x512bb.jpg" group-title="VENEZUELA",Promar TV
 
@@ -1762,11 +1783,17 @@ http://servpremium.net:25461/live/18/RAEYikatTf/3465.rtmp
 #EXTINF:-1 tvg-logo="http://www.prensario.net/Multimedios/imgs/5984_468.jpg" group-title="VENEZUELA",Telesur
 https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/480p/chunklist.m3u8?GrupoTopIptv
 
+#EXTINF:-1 tvg-logo="http://www.prensario.net/Multimedios/imgs/5984_468.jpg" group-title="VENEZUELA",Telesur
+http://iptvparatodos.net:38953/live/yv83qjBhM7/FtpQEmfOMs/26122.m3u8
+
 #EXTINF:-1 tvg-logo="https://ciudadbqto.com/wp-content/uploads/2017/05/tves.jpg" group-title="VENEZUELA",TVES
 
 
+#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/venevision-logo-01.png" group-title="VENEZUELA",Venevision
+http://iptvparatodos.net:38953/live/yv83qjBhM7/FtpQEmfOMs/1698.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_ve-plus-tv_m.png" group-title="VENEZUELA",Ve Plus
-http://servpremium.net:25461/live/18/RAEYikatTf/3461.rtmp
+
 
 #EXTINF:-1 tvg-logo="http://photocall.tv/images/vpitv.png" group-title="VENEZUELA",VPI
 
