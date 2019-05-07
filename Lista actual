@@ -459,6 +459,9 @@ http://173.236.10.10:1935/webtvminas/webtvminas/live.m3u8
 https://stream.vagalume.fm/hls/1465840912218182609/aac.m3u8
 #######################################
 
+#EXTINF:-1  tvg-logo="http://www.nsmedios.com/players/telesistemas/canal5/1/images/logo/logo.png" group-title="BOLIVIA",15 TV
+http://iptvparatodos.net:38953/live/yv83qjBhM7/FtpQEmfOMs/28097.m3u8
+
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR6QPnA3tRUYOPEQGQIg69vX95LbXkpnA7saigV41hiSexzygH" group-title="BOLIVIA",Activa TV
 
 
@@ -466,13 +469,13 @@ https://stream.vagalume.fm/hls/1465840912218182609/aac.m3u8
 http://186.121.206.197/live/daniel/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://www.oxigeno.bo/sites/default/files/styles/standar_640x480/public/field/image/atb-bolivia-en-vivo.gif?itok=4_e-Ehfa" group-title="BOLIVIA",ATB
-http://servpremium.net:25461/live/18/RAEYikatTf/2534.rtmp
+http://iptvparatodos.net:38953/live/yv83qjBhM7/FtpQEmfOMs/1779.m3u8
+
+#EXTINF:-1  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ad/Bolivia_TV_2016.png/revision/latest?cb=20160622170105" group-title="BOLIVIA",Bolivia TV
+http://iptvparatodos.net:38953/live/yv83qjBhM7/FtpQEmfOMs/20916.m3u8
 
 #EXTINF:-1  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ad/Bolivia_TV_2016.png/revision/latest?cb=20160622170105" group-title="BOLIVIA",Bolivia TV
 
-
-#EXTINF:-1  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ad/Bolivia_TV_2016.png/revision/latest?cb=20160622170105" group-title="BOLIVIA",Bolivia TV
-http://servpremium.net:25461/live/18/RAEYikatTf/2533.rtmp
 
 #EXTINF:-1  tvg-logo="http://cdn.redbolivision.tv.bo/sites/common/img/logo_redbolivision.png" group-title="BOLIVIA",Bolivisión
 
@@ -480,11 +483,17 @@ http://servpremium.net:25461/live/18/RAEYikatTf/2533.rtmp
 #EXTINF:-1  tvg-logo="http://www.cadenaa.tv/web/wp-content/uploads/2018/06/Logo-cabecera.png" group-title="BOLIVIA",Cadena A
 http://136.243.3.70:1935/CadenaA/CadenaA/playlist.m3u8
 
+#EXTINF:-1  tvg-logo="http://www.cadenaa.tv/web/wp-content/uploads/2018/06/Logo-cabecera.png" group-title="BOLIVIA",Cadena A
+http://iptvparatodos.net:38953/live/yv83qjBhM7/FtpQEmfOMs/20917.m3u8
+
 #EXTINF:-1  tvg-logo="http://www.catolicatelevision.com/wp-content/uploads/sites/9/2013/10/logo_ctv2.png" group-title="BOLIVIA",Católica TV
 http://136.243.3.70:1935/CatolicaTv/CatolicaTv/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/3193462255/e1e0b6e7fd2c6a19d238ff4021cc5b82_400x400.jpeg" group-title="BOLIVIA",Cristal TV
+#EXTINF:-1  tvg-logo="http://www.catolicatelevision.com/wp-content/uploads/sites/9/2013/10/logo_ctv2.png" group-title="BOLIVIA",Católica TV
+http://iptvparatodos.net:38953/live/yv83qjBhM7/FtpQEmfOMs/21003.m3u8
 
+#EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/3193462255/e1e0b6e7fd2c6a19d238ff4021cc5b82_400x400.jpeg" group-title="BOLIVIA",Cristal TV
+http://iptvparatodos.net:38953/live/yv83qjBhM7/FtpQEmfOMs/28093.m3u8
 
 #EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/889663440620531712/JlKtXQYa_400x400.jpg" group-title="BOLIVIA",Gigavisión
 
@@ -492,14 +501,35 @@ http://136.243.3.70:1935/CatolicaTv/CatolicaTv/playlist.m3u8
 #EXTINF:-1  tvg-logo="http://www.logospng.com/images/142/mega-tv-en-directo-online-teleame-directos-142590.png" group-title="BOLIVIA",Mega TV
 http://hdp2.imd.la:1935/megatv/megatv/playlist.m3u8
 
+#EXTINF:-1  tvg-logo="http://www.redpalenque.com/img/pcm4.png" group-title="BOLIVIA",Palenque tv
+http://iptvparatodos.net:38953/live/yv83qjBhM7/FtpQEmfOMs/20921.m3u8
+
 #EXTINF:-1  tvg-logo="https://images.mi.tv/channels/pe_pat_m.png" group-title="BOLIVIA",PAT La Paz
 http://192.99.38.174:1935/patbolivia/patlapaz/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://images.mi.tv/channels/pe_pat_m.png" group-title="BOLIVIA",PAT La Paz
+http://iptvparatodos.net:38953/live/yv83qjBhM7/FtpQEmfOMs/35592.m3u8
 
 #EXTINF:-1  tvg-logo="https://images.mi.tv/channels/pe_pat_m.png" group-title="BOLIVIA",PAT Santa Cruz
 http://192.99.38.174:1935/patbolivia/patsantacruz/playlist.m3u8
 
+#EXTINF:-1  tvg-logo="https://images.mi.tv/channels/pe_pat_m.png" group-title="BOLIVIA",PAT Santa Cruz
+http://iptvparatodos.net:38953/live/yv83qjBhM7/FtpQEmfOMs/20920.m3u8
+
 #EXTINF:-1  tvg-logo="https://img11.androidappsapk.co/300/d/9/0/com.trunect2.rtp.png" group-title="BOLIVIA",RTP
 http://136.243.3.70:1935/RtpBolivia/RtpBolivia/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://img11.androidappsapk.co/300/d/9/0/com.trunect2.rtp.png" group-title="BOLIVIA",RTP
+http://iptvparatodos.net:38953/live/yv83qjBhM7/FtpQEmfOMs/20923.m3u8
+
+#EXTINF:-1  tvg-logo="http://tvofftravel.com/wp-content/uploads/sites/4/2015/04/logoOficial.png" group-title="BOLIVIA",Tv Off
+http://iptvparatodos.net:38953/live/yv83qjBhM7/FtpQEmfOMs/28094.m3u8
+
+#EXTINF:-1  tvg-logo="http://www.anp-bolivia.com/wp-content/uploads/2018/12/TVU-LOGO-470x300.jpg" group-title="BOLIVIA",TVU
+http://iptvparatodos.net:38953/live/yv83qjBhM7/FtpQEmfOMs/28098.m3u8
+
+#EXTINF:-1  tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/Red-Uno-Bolivia.png" group-title="BOLIVIA",Uno tv
+http://iptvparatodos.net:38953/live/yv83qjBhM7/FtpQEmfOMs/55464.m3u8
 
 ######################################################################################################################################
 ####################################### CHILE
