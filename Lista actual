@@ -634,13 +634,10 @@ https://stream.vagalume.fm/hls/147015501223418/aac.m3u8
 #######################################
 
 #EXTINF:-1 tvg-logo="https://canal1.com.co/wp-content/uploads/2019/01/UNO-PARA-TODOS-01-1-1.png" group-title="COLOMBIA",Canal 1
+http://iptvparatodos.net:38953/live/yv83qjBhM7/FtpQEmfOMs/23134.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://canal1.com.co/wp-content/uploads/2019/01/UNO-PARA-TODOS-01-1-1.png" group-title="COLOMBIA",Canal 1 (2)
-http://servpremium.net:25461/live/18/RAEYikatTf/4161.rtmp
-
-#EXTINF:-1 tvg-logo="https://havokgt.files.wordpress.com/2016/04/7a44b-claro-peru.gif" group-title="COLOMBIA",Canal Claro (2)
-
+#EXTINF:-1 tvg-logo="https://havokgt.files.wordpress.com/2016/04/7a44b-claro-peru.gif" group-title="COLOMBIA",Canal Claro
+http://iptvparatodos.net:38953/live/yv83qjBhM7/FtpQEmfOMs/1812.m3u8
 
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/co_cali-tv_m.png" group-title="COLOMBIA",Cali TV 
 
@@ -648,11 +645,11 @@ http://servpremium.net:25461/live/18/RAEYikatTf/4161.rtmp
 #EXTINF:-1 tvg-logo="https://www.ecured.cu/images/thumb/5/53/CaracolTV2017.png/260px-CaracolTV2017.png" group-title="COLOMBIA",Caracol
 http://tvnext.biz:25462/live/gerard/gerard/3213.rtmp
 
-#EXTINF:-1 tvg-logo="https://www.ecured.cu/images/thumb/5/53/CaracolTV2017.png/260px-CaracolTV2017.png" group-title="COLOMBIA",Caracol HD
-http://servpremium.net:25461/live/18/RAEYikatTf/4160.rtmp
+#EXTINF:-1 tvg-logo="https://www.ecured.cu/images/thumb/5/53/CaracolTV2017.png/260px-CaracolTV2017.png" group-title="COLOMBIA",Caracol
+http://iptvparatodos.net:38953/live/yv83qjBhM7/FtpQEmfOMs/1539.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.ecured.cu/images/thumb/5/53/CaracolTV2017.png/260px-CaracolTV2017.png" group-title="COLOMBIA",Caracol HD
-http://stream.tvpor-internet.net/manifest/05/caracol.rtmp
+http://iptvparatodos.net:38953/live/yv83qjBhM7/FtpQEmfOMs/1990.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.ecured.cu/images/thumb/5/53/CaracolTV2017.png/260px-CaracolTV2017.png" group-title="COLOMBIA",Caracol
 http://tvnext.biz:25462/live/Puma/Puma/3213.rtmp
@@ -661,16 +658,16 @@ http://tvnext.biz:25462/live/Puma/Puma/3213.rtmp
 
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/06/city-tv-356x220.png" group-title="COLOMBIA",City TV
-http://servpremium.net:25461/live/18/RAEYikatTf/4594.rtmp
+http://iptvparatodos.net:38953/live/yv83qjBhM7/FtpQEmfOMs/1759.m3u8
+
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/06/city-tv-356x220.png" group-title="COLOMBIA",City TV
+http://iptvparatodos.net:38953/live/yv83qjBhM7/FtpQEmfOMs/1930.m3u8
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/06/city-tv-356x220.png" group-title="COLOMBIA",City TV
 
 
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/06/city-tv-356x220.png" group-title="COLOMBIA",City TV
-
-
-#EXTINF:-1 tvg-logo="https://havokgt.files.wordpress.com/2016/04/7a44b-claro-peru.gif" group-title="COLOMBIA",Claro Cinema (2) 
-
+#EXTINF:-1 tvg-logo="https://havokgt.files.wordpress.com/2016/04/7a44b-claro-peru.gif" group-title="COLOMBIA",Claro Musica 
+http://iptvparatodos.net:38953/live/yv83qjBhM7/FtpQEmfOMs/1761.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/386408609/cnc2_400x400.png" group-title="COLOMBIA",CNC 
 
@@ -694,22 +691,25 @@ http://tvnext.biz:25462/live/gerard/gerard/4002.rtmp
 http://tvnext.biz:25462/live/Puma/Puma/4002.rtmp
 
 #EXTINF:-1 tvg-logo="https://colombia.mom-rsf.org/typo3temp/_processed_/b/3/csm_511-941_import_12632a7631.png" group-title="COLOMBIA",RCN HD
-
+http://iptvparatodos.net:38953/live/yv83qjBhM7/FtpQEmfOMs/1523.m3u8
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.revistaquetal.com/wp-content/uploads/2013/10/rcn-television.jpg" group-title="COLOMBIA",RCN Novelas
-
+http://iptvparatodos.net:38953/live/yv83qjBhM7/FtpQEmfOMs/1945.m3u8
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.revistaquetal.com/wp-content/uploads/2013/10/rcn-television.jpg" group-title="COLOMBIA",RCN Novelas
 
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_teleantioquia-hd_m.png" group-title="COLOMBIA",Teleantioquía
-http://servpremium.net:25461/live/18/RAEYikatTf/3348.rtmp
+http://iptvparatodos.net:38953/live/yv83qjBhM7/FtpQEmfOMs/1766.m3u8
 
 #EXTINF:-1 tvg-logo="https://rafaelpovedatv.com/wp-content/uploads/2017/04/logo-tele-cafe.png" group-title="COLOMBIA",Telecafé
 
 
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/telecaribe.png" group-title="COLOMBIA",Telecaribe
+http://iptvparatodos.net:38953/live/yv83qjBhM7/FtpQEmfOMs/1841.m3u8
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1027216837401034752/tnxpCuEu_400x400.jpg" group-title="COLOMBIA",Telepacifico
-http://servpremium.net:25461/live/18/RAEYikatTf/3345.rtmp
+http://iptvparatodos.net:38953/live/yv83qjBhM7/FtpQEmfOMs/1760.m3u8
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/canal-trece-colombia-2012-2016-logo-286AB7AB77-seeklogo.com.png" group-title="COLOMBIA",Trece
 https://cdn.logicideas.media/canaltrece-live/canal13.smil/chunklist_b4500000.m3u8
