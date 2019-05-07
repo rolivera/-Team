@@ -544,43 +544,46 @@ https://stream.vagalume.fm/hls/14647977281792658143/aac.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_canal-13_m.png" group-title="CHILE",Canal 13
+http://iptvparatodos.net:38953/live/yv83qjBhM7/FtpQEmfOMs/1751.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_canal-13_m.png" group-title="CHILE",Canal 13
 http://tvnext.biz:25462/live/gerard/gerard/3853.rtmp
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_canal-13_m.png" group-title="CHILE",Canal 13
 http://tvnext.biz:25462/live/Puma/Puma/3853.rtmp
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_canal-13_m.png" group-title="CHILE",Canal 13 HD
-http://servpremium.net:25461/live/18/RAEYikatTf/4604.rtmp
 
-#EXTINF:-1 tvg-logo="http://www.chilevision.cl/logo-chilevision.png" group-title="CHILE",Chilevisión Sur
 
+#EXTINF:-1 tvg-logo="http://www.chilevision.cl/logo-chilevision.png" group-title="CHILE",Chilevisión HD
+http://iptvparatodos.net:38953/live/yv83qjBhM7/FtpQEmfOMs/2003.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.chilevision.cl/logo-chilevision.png" group-title="CHILE",Chilevisión 
-
+http://iptvparatodos.net:38953/live/yv83qjBhM7/FtpQEmfOMs/1696.m3u8
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/El-Pinguino-TV.png" group-title="CHILE",El Pingüino
 http://streaming.elpinguino.com:1935/live/pinguinotv_720p/hasbahca.m3u8?GrupoTopIptv
 
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/El-Pinguino-TV.png" group-title="CHILE",El Pingüino
-
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/El-Pinguino-TV.png" group-title="CHILE",El Pingüino HD
+http://iptvparatodos.net:38953/live/yv83qjBhM7/FtpQEmfOMs/1998.m3u8
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/El-Pinguino-TV.png" group-title="CHILE",El Pingüino HD
-http://servpremium.net:25461/live/18/RAEYikatTf/4070.rtmp
+
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/vrXZmdv.jpg" group-title="CHILE", Holvoet TV
 http://unlimited5-cl.dps.live/holvoettv/holvoettv.smil/playlist.m3u8?GrupoTopIptv
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/71/fd/45/71fd456abe5a03ee0d2a17162e0cbd89.png" group-title="CHILE",La Red
-
+http://iptvparatodos.net:38953/live/yv83qjBhM7/FtpQEmfOMs/2008.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/71/fd/45/71fd456abe5a03ee0d2a17162e0cbd89.png" group-title="CHILE",La Red HD
-http://servpremium.net:25461/live/18/RAEYikatTf/4069.rtmp
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/aam.cl/wp-content/uploads/2018/08/Mega_Chile_Alternate_Logo.png?fit=200%2C200&ssl=1" group-title="CHILE",Mega
 
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/aam.cl/wp-content/uploads/2018/08/Mega_Chile_Alternate_Logo.png?fit=200%2C200&ssl=1" group-title="CHILE",Mega
-http://servpremium.net:25461/live/18/RAEYikatTf/3363.rtmp
+
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/aam.cl/wp-content/uploads/2018/08/Mega_Chile_Alternate_Logo.png?fit=200%2C200&ssl=1" group-title="CHILE",Mega
+
 
 #EXTINF:-1 tvg-logo="http://niu.cl/wp-content/uploads/2017/07/radio.png" group-title="CHILE", Niu Media
 
@@ -588,17 +591,17 @@ http://servpremium.net:25461/live/18/RAEYikatTf/3363.rtmp
 #EXTINF:-1 tvg-logo="http://www.xn--ubletv-vwa.cl/gallery_gen/206f25ceca6e5baf9ad8adf299c792f7_200x200.png" group-title="CHILE",Ñuble TV
 
 
-#EXTINF:-1 tvg-logo="http://static.13.cl/7/sites/all/themes/rec_v2/images/default_2018.jpg" group-title="CHILE", Rec TV
+#EXTINF:-1 tvg-logo="http://static.13.cl/7/sites/all/themes/rec_v2/images/default_2018.jpg" group-title="CHILE",Rec TV
+http://iptvparatodos.net:38953/live/yv83qjBhM7/FtpQEmfOMs/1710.m3u8
 
+#EXTINF:-1 tvg-logo="http://static.13.cl/7/sites/all/themes/rec_v2/images/default_2018.jpg" group-title="CHILE",Rec TV
 
-#EXTINF:-1 tvg-logo="http://static.13.cl/7/sites/all/themes/rec_v2/images/default_2018.jpg" group-title="CHILE", Rec TV
-http://servpremium.net:25461/live/18/RAEYikatTf/4790.rtmp
 
 #EXTINF:-1 tvg-logo="https://img.soy-chile.cl/Fotos/2018/10/29/file_20181029173540.jpg" group-title="CHILE",TV+
-http://servpremium.net:25461/live/18/RAEYikatTf/3361.rtmp
+
 
 #EXTINF:-1 tvg-logo="http://www.periodismo.uchile.cl/noticias/images/tvnlogo.jpg" group-title="CHILE", TVN
-
+http://iptvparatodos.net:38953/live/yv83qjBhM7/FtpQEmfOMs/1935.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.periodismo.uchile.cl/noticias/images/tvnlogo.jpg" group-title="CHILE", TVN
 
@@ -615,8 +618,14 @@ http://tvnext.biz:25462/live/Puma/Puma/3619.rtmp
 #EXTINF:-1 tvg-logo="https://s3-media2.fl.yelpcdn.com/bphoto/CNa6BsIMxhGaJZVFoYESnA/ls.jpg" group-title="CHILE",Umag
 http://edge1.cl.grupoz.cl/tser5/live/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://media.metrolatam.com/2017/11/30/viax574x383-f3ef6b593e33557ff8210dab34c5e231-600x400.jpg" group-title="CHILE",Via X
+http://iptvparatodos.net:38953/live/yv83qjBhM7/FtpQEmfOMs/55930.m3u8
+
 #EXTINF:-1 tvg-logo="http://canalvtv.cl/2017/wp-content/uploads/2017/06/vtv.png" group-title="CHILE",VTV
 
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_zona-latina_m.png" group-title="CHILE",Zona Latina
+http://iptvparatodos.net:38953/live/yv83qjBhM7/FtpQEmfOMs/1931.m3u8
 
 ######################################################################################################################################
 ####################################### COLOMBIA
