@@ -152,11 +152,17 @@ http://unlimited2-us.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/08/NETargentina.png/revision/latest?cb=20180702162652" group-title="ARGENTINA",Net TV
 http://infinity.ddns.me:25461/margarita/margarita/12860
 
+#EXTINF:-1 tvg-logo="http://www.rtnweb.gob.ar/wp-content/uploads/2017/04/LOGO-RTN-Web.png" group-title="ARGENTINA",Rtn
+http://74.91.20.42:8080/alex/alex/352
+
 #EXTINF:-1 tvg-logo="https://digitalmediawire.com/wp-content/uploads/2016/11/Telefe.jpg" group-title="ARGENTINA",Telefe Cordoba
 http://iptvparatodos.net:38953/live/yv83qjBhM7/FtpQEmfOMs/28724.m3u8
 
 #EXTINF:-1 tvg-logo="https://digitalmediawire.com/wp-content/uploads/2016/11/Telefe.jpg" group-title="ARGENTINA",Telefe Bahia Blanca
 http://iptvparatodos.net:38953/live/yv83qjBhM7/FtpQEmfOMs/26162.m3u8
+
+#EXTINF:-1 tvg-logo="https://digitalmediawire.com/wp-content/uploads/2016/11/Telefe.jpg" group-title="ARGENTINA",Telefe
+http://74.91.20.42:8080/alex/alex/416
 
 #EXTINF:-1 tvg-logo="https://digitalmediawire.com/wp-content/uploads/2016/11/Telefe.jpg" group-title="ARGENTINA",Telefe
 http://iptvparatodos.net:38953/live/yv83qjBhM7/FtpQEmfOMs/2052.m3u8
@@ -170,13 +176,16 @@ http://infinity.ddns.me:25461/margarita/margarita/12540
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/506483696065449984/BATn-jAe.png" group-title="ARGENTINA",Telpin
 http://infinity.ddns.me:25461/margarita/margarita/12490
 
-#EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/11/e455d-tlx.png" group-title="ARGENTINA",TLX
+#EXTINF:-1 tvg-logo="http://photocall.tv/images/tlx.png" group-title="ARGENTINA",TLX
+http://74.91.20.42:8080/alex/alex/353
+
+#EXTINF:-1 tvg-logo="http://photocall.tv/images/tlx.png" group-title="ARGENTINA",TLX
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?iptvgratis?chile.m3u8?GrupoTopIptv
 
-#EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/11/e455d-tlx.png" group-title="ARGENTINA",TLX
+#EXTINF:-1 tvg-logo="http://photocall.tv/images/tlx.png" group-title="ARGENTINA",TLX
 http://iptvparatodos.net:38953/live/yv83qjBhM7/FtpQEmfOMs/1997.m3u8
 
-#EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/11/e455d-tlx.png" group-title="ARGENTINA",TLX
+#EXTINF:-1 tvg-logo="http://photocall.tv/images/tlx.png" group-title="ARGENTINA",TLX
 http://infinity.ddns.me:25461/margarita/margarita/12655
 
 #EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/11/d15ad-tn.png" group-title="ARGENTINA",TN 
@@ -426,6 +435,9 @@ https://stream.vagalume.fm/hls/14647977281792658143/aac.m3u8
 #EXTINF:-1 tvg-logo="https://tv.wurtlitzer.com/imagenes/canales/noticias/canal24horas.png" group-title="CHILE",24 Horas HD
 
 
+#EXTINF:-1 tvg-logo="http://photocall.tv/images/c9bb.png" group-title="CHILE",Canal 9
+http://74.91.20.42:8080/alex/alex/418
+
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_canal-13_m.png" group-title="CHILE",Canal 13
 
 
@@ -451,7 +463,7 @@ http://streaming.elpinguino.com:1935/live/pinguinotv_720p/hasbahca.m3u8?GrupoTop
 http://iptvparatodos.net:38953/live/yv83qjBhM7/FtpQEmfOMs/1998.m3u8
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/El-Pinguino-TV.png" group-title="CHILE",El Pingüino HD
-
+http://74.91.20.42:8080/alex/alex/419
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/vrXZmdv.jpg" group-title="CHILE", Holvoet TV
 http://unlimited5-cl.dps.live/holvoettv/holvoettv.smil/playlist.m3u8?GrupoTopIptv
@@ -459,8 +471,8 @@ http://unlimited5-cl.dps.live/holvoettv/holvoettv.smil/playlist.m3u8?GrupoTopIpt
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/71/fd/45/71fd456abe5a03ee0d2a17162e0cbd89.png" group-title="CHILE",La Red
 http://iptvparatodos.net:38953/live/yv83qjBhM7/FtpQEmfOMs/2008.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/71/fd/45/71fd456abe5a03ee0d2a17162e0cbd89.png" group-title="CHILE",La Red HD
-
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/71/fd/45/71fd456abe5a03ee0d2a17162e0cbd89.png" group-title="CHILE",La Red
+http://74.91.20.42:8080/alex/alex/417
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/aam.cl/wp-content/uploads/2018/08/Mega_Chile_Alternate_Logo.png?fit=200%2C200&ssl=1" group-title="CHILE",Mega
 
@@ -975,8 +987,8 @@ http://coracyt.mega00.com:1935/live/coracyt/coracyt/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://tvpacifico.mx/internacional/tvp/logo_tvp_internacional.png" group-title="MEXICO",TVP
 
 
-#EXTINF:-1 tvg-logo="https://files.merca20.com/uploads/2018/04/unicable.jpg" group-title="MEXICO",Unicable
-
+#EXTINF:-1 tvg-logo="https://destel.mx/wp-content/uploads/2016/04/520.png" group-title="MEXICO",Unicable
+http://74.91.20.42:8080/alex/alex/325
 
 #EXTINF:-1 tvg-logo="https://tejanonation.files.wordpress.com/2015/06/unimas.png" group-title="MEXICO",Unimas
 
@@ -1385,6 +1397,9 @@ http://tvnext.biz:25462/live/Puma/Puma/5473.rtmp
 
 #EXTINF:-1 tvg-logo="http://telecanal28.net/wp-content/uploads/2019/03/cropped-logo-tl28.png" group-title="R.DOMINICANA",Tc 28
 http://iptvparatodos.net:38953/live/yv83qjBhM7/FtpQEmfOMs/28077.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="VTV 32" tvg-logo="https://pbs.twimg.com/profile_images/1101586496996458496/ZsUKrXSC_400x400.jpg" group-title="R.DOMINICANA",VTV 32
+http://74.91.20.42:8080/alex/alex/413
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/765228848912949248/XjJ-lU2K.jpg" group-title="R.DOMINICANA",Zol TV
 
@@ -2036,6 +2051,9 @@ http://149.28.37.110:8080/BBCAmerica/video.m3u8?token=b5m6-1x-a3
 #EXTINF:-1 tvg-logo="https://orig00.deviantart.net/1354/f/2016/129/2/d/untitled_drawing_by_jared33-da1wdty.png" group-title="PREMIUM USA",Cartoon Network
 http://149.28.37.110:8080/CartoonNetwork/video.m3u8?token=b5m6-1x-a3
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pMhTxmf.png" group-title="PREMIUM USA",Cbs
+http://74.91.20.42:8080/alex/alex/410
+
 #EXTINF:-1 tvg-logo="https://sitejerk.com/images/bravo-logo-transparent-3.png" group-title="PREMIUM USA",Bravo
 http://149.28.37.110:8080/Bravo/video.m3u8?token=b5m6-1x-a3
 
@@ -2272,6 +2290,9 @@ http://spot-1.spotv.me:8080/media_new/ptv2_new/45
 #EXTINF:-1 tvg-logo="http://new.lamac.org/system/channels/logos/000/000/044/original/pic_comedycentral.png?1522177270" group-title="PREMIUM ESPAÑA",Comedy Central
 
 
+#EXTINF:-1 tvg-logo="https://assets.corusent.com/wp-content/uploads/2015/07/logos_tv_womenfamily_cosmo.png" group-title="PREMIUM ESPAÑA",Cosmo tv
+http://74.91.20.42:8080/alex/alex/378
+
 #EXTINF:-1 tvg-logo="https://www.neeo.es/wp-content/uploads/nuevo-logo-crimen.png" group-title="PREMIUM ESPAÑA",Crimen Investigacion
 
 
@@ -2296,7 +2317,16 @@ http://spot-1.spotv.me:8080/media_new/ptv2_new/2839
 #EXTINF:-1 tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/divinity_circular_500_-1_d687.png" group-title="PREMIUM ESPAÑA",Divinity
 http://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
 
-#EXTINF:-1 tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/fdf_logo_500_-1_fb06.png" group-title="PREMIUM ESPAÑA",FDF Mediaset
+#EXTINF:-1 tvg-logo="http://photocall.tv/images/DCRMAX.png" group-title="PREMIUM ESPAÑA",Dmax
+http://74.91.20.42:8080/alex/alex/387
+
+#EXTINF:-1 tvg-logo="http://photocall.tv/images/ENERGY.png" group-title="PREMIUM ESPAÑA",Energy
+http://74.91.20.42:8080/alex/alex/383
+
+#EXTINF:-1 tvg-logo="http://photocall.tv/images/FDFIC.png" group-title="PREMIUM ESPAÑA",FDF Mediaset
+http://74.91.20.42:8080/alex/alex/384
+
+#EXTINF:-1 tvg-logo="http://photocall.tv/images/FDFIC.png" group-title="PREMIUM ESPAÑA",FDF Mediaset
 http://spot-1.spotv.me:8080/media_new/ptv2_new/44
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Al6Y2.png" group-title="PREMIUM ESPAÑA",Fox
@@ -2341,17 +2371,23 @@ http://ott-cdn.ucom.am/s35/index.m3u8
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/02/Navarra-TV.png" group-title="PREMIUM ESPAÑA",Navarra TV
 http://nws.nice264.com/SmilLive/getLiveIOS.smil?stream=NTV_livenatvmb&system=NTV&protocol=http_cupertino/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://photocall.tv/images/NOVA.png" group-title="PREMIUM ESPAÑA",Nova
+http://74.91.20.42:8080/alex/alex/376
+
 #EXTINF:-1 tvg-logo="http://vertelevisor.com/imagenes/paramount-channel.png" group-title="PREMIUM ESPAÑA",Paramount
 http://paramount.live.flumotion.com/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://vertelevisor.com/imagenes/paramount-channel.png" group-title="PREMIUM ESPAÑA",Paramount
-
+http://74.91.20.42:8080/alex/alex/386
 
 #EXTINF:-1 tvg-logo="https://www.programacion.tv/images/syfy.png" group-title="PREMIUM ESPAÑA",Syfy
 
 
 #EXTINF:-1 tvg-logo="https://gartel.es/canales/tcm.png" group-title="PREMIUM ESPAÑA",Tcm
 
+
+#EXTINF:-1 tvg-logo="http://photocall.tv/images/ten.png" group-title="PREMIUM ESPAÑA",Ten
+http://74.91.20.42:8080/alex/alex/385
 
 #EXTINF:-1 tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/telecinco_logo_500_-1_c0eb.png" group-title="PREMIUM ESPAÑA",Telecinco
 http://spot-1.spotv.me:8080/media_new/ptv2_new/38
@@ -4658,6 +4694,9 @@ http://tvnext.biz:25462/live/Puma/Puma/3085.rtmp
 http://tv-prime.tv:8080/gabriel703/gabriel703/958
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1195339903/ICON2.png" group-title="INFANTIL LATINO",Cachipum
+http://74.91.20.42:8080/alex/alex/404
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1195339903/ICON2.png" group-title="INFANTIL LATINO",Cachipum
 http://edge1.cl.grupoz.cl/cachipuntv/live/chunklist_w2057048261.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1195339903/ICON2.png" group-title="INFANTIL LATINO",Cachipum
@@ -4686,6 +4725,9 @@ http://tv-prime.tv:8080/gabriel703/gabriel703/704
 
 #EXTINF:-1 tvg-logo="https://www.canalipe.tv/sites/default/files/web/programas/logoipeplay/logo_chicosipe.png" group-title="INFANTIL LATINO",Chicos Ipe
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.canalipe.tv/sites/default/files/web/programas/logoipeplay/logo_chicosipe.png" group-title="INFANTIL LATINO",Chicos Ipe
+http://74.91.20.42:8080/alex/alex/406
 
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_kids-mediano.png" group-title="INFANTIL LATINO",Discovery Kids (1)
 http://tv.nousiptv.com:25462/juanfe/juanfe/3254
@@ -4785,6 +4827,9 @@ http://tv-prime.tv:8080/gabriel703/gabriel703/200
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-FLvPUqc-seM/W15n9C2cisI/AAAAAAAAkqM/H3PFkx-peyQiIFQnPPHDlOxc80H5fHDgwCK8BGAs/s250/2018-07-29.png" group-title="INFANTIL LATINO",Locomotion
 http://locomotiontv.com/envivo/loco_channel/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-FLvPUqc-seM/W15n9C2cisI/AAAAAAAAkqM/H3PFkx-peyQiIFQnPPHDlOxc80H5fHDgwCK8BGAs/s250/2018-07-29.png" group-title="INFANTIL LATINO",Locomotion
+http://74.91.20.42:8080/alex/alex/398
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-FLvPUqc-seM/W15n9C2cisI/AAAAAAAAkqM/H3PFkx-peyQiIFQnPPHDlOxc80H5fHDgwCK8BGAs/s250/2018-07-29.png" group-title="INFANTIL LATINO",Locomotion (3)
 http://infinity.ddns.me:25461/margarita/margarita/12492
@@ -5278,6 +5323,9 @@ http://216.245.204.227:8054/live
 
 #EXTINF:-1 tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/3.png" group-title="NOTICIAS LATINO",Canal 26
 http://200.115.193.177/live/26hd-180/playlist.m3u8?GrupoTopIptv
+
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/cnn-1-logo-png-transparent.png" group-title="NOTICIAS LATINO",Cnn
+http://74.91.20.42:8080/alex/alex/368
 
 #EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/cnn-1-logo-png-transparent.png" group-title="NOTICIAS LATINO",Cnn (3)
 http://infinity.ddns.me:25461/margarita/margarita/13179
@@ -7004,6 +7052,9 @@ http://infinity.ddns.me:25461/margarita/margarita/3712
 #EXTINF:-1 tvg-logo="https://www.tkscable.com/uploads/pics/Channel_Logos/fs2.png" group-title="DEPORTES INTERNACIONAL",Fox Sports 2 USA
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2a/Fox_Sports_Racing.jpg.png" group-title="DEPORTES INTERNACIONAL",Fox Sports Racing
+http://74.91.20.42:8080/alex/alex/412
+
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51OUvjSSpZL._SY355_.png" group-title="DEPORTES INTERNACIONAL",Golf FR
 
 
@@ -7029,7 +7080,7 @@ http://infinity.ddns.me:25461/margarita/margarita/3712
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.freelogovectors.net/wp-content/uploads/2018/08/mlb_major_league_baseball_logo.png" group-title="DEPORTES INTERNACIONAL",MLB USA
-
+http://74.91.20.42:8080/alex/alex/373
 
 #EXTINF:-1 tvg-logo="http://www.freelogovectors.net/wp-content/uploads/2018/08/mlb_major_league_baseball_logo.png" group-title="DEPORTES INTERNACIONAL",MLB USA
 
@@ -7190,6 +7241,9 @@ http://5.196.138.6:1935/live/nrjbelgique_720p/plylist.m3u8?GrupoTopIptv
 
 #EXTINF:-1 tvg-logo="http://www.portalfoxmix.cl/radioenvivo/images/portalfoxmix-radio-logo-gran-tras.png" group-title="MUSICA",Portal Foxmix
 http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/chunklist_w707723531.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rZuWrF8.png" group-title="MUSICA",Power
+http://74.91.20.42:8080/alex/alex/351
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rZuWrF8.png" group-title="MUSICA",Power
 http://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8
