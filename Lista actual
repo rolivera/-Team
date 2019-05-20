@@ -32,10 +32,13 @@ http://comcdi.com:25461/live/angel01/angel01/22618.rtmp
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/D4R-oZiW0AAZWN_.jpg" group-title="ARGENTINA",América Tucuman
 http://iptvparatodos.net:38953/live/yv83qjBhM7/FtpQEmfOMs/56374.m3u8
 
-#EXTINF:-1 tvg-logo="https://img1.androidappsapk.co/300/7/0/6/net.coninfo.admin.trecemaxtelevisin.png" group-title="ARGENTINA",13 Max SD
+#EXTINF:-1 tvg-logo="http://photocall.tv/images/13max.png" group-title="ARGENTINA",13 Max SD
 http://coninfo.net:1935/13maxhd/live_720p/chunklist_w352743074.m3u8
 
-#EXTINF:-1 tvg-logo="https://img1.androidappsapk.co/300/7/0/6/net.coninfo.admin.trecemaxtelevisin.png" group-title="ARGENTINA",13 Max
+#EXTINF:-1 tvg-logo="http://photocall.tv/images/13max.png" group-title="ARGENTINA",13 Max
+http://74.91.20.42:8080/alex/alex/347
+
+#EXTINF:-1 tvg-logo="http://photocall.tv/images/13max.png" group-title="ARGENTINA",13 Max
 http://iptvparatodos.net:38953/live/yv83qjBhM7/FtpQEmfOMs/23573.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_argentinisima-satelital_m.png" group-title="ARGENTINA",Argentinisima Satelital
@@ -83,6 +86,12 @@ http://iptvparatodos.net:38953/live/yv83qjBhM7/FtpQEmfOMs/22789.m3u8
 #EXTINF:-1 tvg-logo="http://smday.com.ar/cordoba/wp-content/uploads/2018/09/canal-10.png" group-title="ARGENTINA",Canal 10 Cordoba
 http://iptvparatodos.net:38953/live/yv83qjBhM7/FtpQEmfOMs/21104.m3u8
 
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7e/Tv-rionegrina-lu92-tv-canal-10-logo.png" group-title="ARGENTINA",Canal 10 Rio Negro
+http://74.91.20.42:8080/alex/alex/350
+
+#EXTINF:-1 tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/3.png" group-title="ARGENTINA",Canal 26
+http://74.91.20.42:8080/alex/alex/354
+
 #EXTINF:-1 tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/3.png" group-title="ARGENTINA",Canal 26
 http://iptvparatodos.net:38953/live/yv83qjBhM7/FtpQEmfOMs/1899.m3u8
 
@@ -106,6 +115,9 @@ http://iptvparatodos.net:38953/live/yv83qjBhM7/FtpQEmfOMs/28092.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cablevideodigitalbionik.com.ar/img/logoscanales/cn23.jpg" group-title="ARGENTINA",CN23
 http://iptvparatodos.net:38953/live/yv83qjBhM7/FtpQEmfOMs/28105.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/677195098405412864/w1GSVqNs_400x400.png" group-title="ARGENTINA",CN3
+http://74.91.20.42:8080/alex/alex/348
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/677195098405412864/w1GSVqNs_400x400.png" group-title="ARGENTINA",CN3
 http://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
@@ -142,6 +154,9 @@ http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8?GrupoTopIptv
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_magazine_m.png" group-title="ARGENTINA",Magazine
 http://infinity.ddns.me:25461/margarita/margarita/12819
+
+#EXTINF:-1 tvg-logo="http://multivision.tv/wp-content/uploads/2018/08/HOR-HD.png" group-title="ARGENTINA",Multivisión
+http://74.91.20.42:8080/alex/alex/349
 
 #EXTINF:-1 tvg-logo="http://multivision.tv/wp-content/uploads/2018/08/HOR-HD.png" group-title="ARGENTINA",Multivisión
 http://panel.dattalive.com:1935/8250/8250/chunklist_w689217833.m3u8?GrupoTopIptv
@@ -740,6 +755,9 @@ http://iptvparatodos.net:38953/live/yv83qjBhM7/FtpQEmfOMs/1843.m3u8
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tvc-ecuador-logo-DE265485AA-seeklogo.com.png" group-title="ECUADOR",TVC
 http://iptvparatodos.net:38953/live/yv83qjBhM7/FtpQEmfOMs/1551.m3u8
+
+#EXTINF:-1 tvg-logo="https://www15.ucsg.edu.ec/biblioteca/buscadorOPAC/images/LOGO.png" group-title="ECUADOR",UCSG
+http://74.91.20.42:8080/alex/alex/341
 
 ######################################################################################################################################
 ####################################### HONDURAS
@@ -2358,6 +2376,9 @@ http://spot-1.spotv.me:8080/media_new/ptv2_new/39
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oJTCoH8.png" group-title="PREMIUM ESPAÑA",Levante TV
 http://teledifusion.tv:1935/levantetvlive/levantetvlive/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/03/lifetv.png" group-title="PREMIUM ESPAÑA",Life tv
+http://74.91.20.42:8080/alex/alex/326
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/03/lifetv.png" group-title="PREMIUM ESPAÑA",Life tv
 http://178.132.6.97/uzivo/lifetvesp976/playlist.m3u8
