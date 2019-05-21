@@ -123,6 +123,9 @@ http://74.91.20.42:8080/noel/noel/348
 http://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.gmkfreelogos.com/logos/C/img/Cronica.gif" group-title="ARGENTINA",Crónica
+http://74.91.20.42:8080/noel/noel/662
+
+#EXTINF:-1 tvg-logo="https://www.gmkfreelogos.com/logos/C/img/Cronica.gif" group-title="ARGENTINA",Crónica
 http://iptvparatodos.net:38953/live/yv83qjBhM7/FtpQEmfOMs/15374.m3u8
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-vkeG0RQIHnE/WGhvc62WN2I/AAAAAAAABVY/BYhPhbmV8PkibYnkoMh4oUswZ2JLVp_7QCLcB/s1600/elnuevenuevo.png" group-title="ARGENTINA",El Nueve
@@ -475,6 +478,9 @@ http://iptvparatodos.net:38953/live/yv83qjBhM7/FtpQEmfOMs/2003.m3u8
 http://iptvparatodos.net:38953/live/yv83qjBhM7/FtpQEmfOMs/1696.m3u8
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/El-Pinguino-TV.png" group-title="CHILE",El Pingüino
+http://74.91.20.42:8080/noel/noel/474
+
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/El-Pinguino-TV.png" group-title="CHILE",El Pingüino
 http://streaming.elpinguino.com:1935/live/pinguinotv_720p/hasbahca.m3u8?GrupoTopIptv
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/El-Pinguino-TV.png" group-title="CHILE",El Pingüino HD
@@ -496,7 +502,7 @@ http://iptvparatodos.net:38953/live/yv83qjBhM7/FtpQEmfOMs/2008.m3u8
 http://74.91.20.42:8080/noel/noel/417
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/aam.cl/wp-content/uploads/2018/08/Mega_Chile_Alternate_Logo.png?fit=200%2C200&ssl=1" group-title="CHILE",Mega
-
+http://74.91.20.42:8080/noel/noel/473
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/aam.cl/wp-content/uploads/2018/08/Mega_Chile_Alternate_Logo.png?fit=200%2C200&ssl=1" group-title="CHILE",Mega
 
@@ -513,17 +519,17 @@ http://74.91.20.42:8080/noel/noel/417
 #EXTINF:-1 tvg-logo="http://static.13.cl/7/sites/all/themes/rec_v2/images/default_2018.jpg" group-title="CHILE",Rec TV
 
 
+#EXTINF:-1 tvg-logo="https://img8.androidappsapk.co/300/8/b/3/com.trece.t13.png" group-title="CHILE",T13
+http://74.91.20.42:8080/noel/noel/665
+
 #EXTINF:-1 tvg-logo="https://img.soy-chile.cl/Fotos/2018/10/29/file_20181029173540.jpg" group-title="CHILE",TV+
 
 
-#EXTINF:-1 tvg-logo="http://www.periodismo.uchile.cl/noticias/images/tvnlogo.jpg" group-title="CHILE", TVN
+#EXTINF:-1 tvg-logo="http://www.periodismo.uchile.cl/noticias/images/tvnlogo.jpg" group-title="CHILE",TVN HD
+http://74.91.20.42:8080/noel/noel/664
+
+#EXTINF:-1 tvg-logo="http://www.periodismo.uchile.cl/noticias/images/tvnlogo.jpg" group-title="CHILE",TVN
 http://iptvparatodos.net:38953/live/yv83qjBhM7/FtpQEmfOMs/1935.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.periodismo.uchile.cl/noticias/images/tvnlogo.jpg" group-title="CHILE", TVN
-
-
-#EXTINF:-1 tvg-logo="http://www.periodismo.uchile.cl/noticias/images/tvnlogo.jpg" group-title="CHILE", TVN
-
 
 #EXTINF:-1 tvg-logo="https://media.pagina7.cl/2018/10/1200px-Logo_de_UCV_Televisión_2018-700x345.png" group-title="CHILE", UCV 
 
@@ -1130,14 +1136,13 @@ https://stream.vagalume.fm/hls/1507663468882713/aac.m3u8
 http://iptvparatodos.net:38953/live/yv83qjBhM7/FtpQEmfOMs/1643.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.jssor.com/andre89/tv-antares.png" group-title="PERU",Antares
+http://74.91.20.42:8080/noel/noel/508
+
+#EXTINF:-1 tvg-logo="https://www.jssor.com/andre89/tv-antares.png" group-title="PERU",Antares
 http://iptvparatodos.net:38953/live/yv83qjBhM7/FtpQEmfOMs/8924.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.jssor.com/andre89/tv-antares.png" group-title="PERU",Antares
 http://173.192.105.252:1935/iptvantares/liveantarestv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.jssor.com/andre89/tv-antares.png" group-title="PERU",Antares
-
-
 
 #EXTINF:-1 tvg-logo="https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2018/01/atv.png?resize=218%2C150" group-title="PERU",ATV HD
 http://74.91.20.42:8080/noel/noel/547
@@ -1148,8 +1153,8 @@ http://iptvparatodos.net:38953/live/yv83qjBhM7/FtpQEmfOMs/1642.m3u8
 #EXTINF:-1 tvg-logo="https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/atv.png?resize=218%2C150" group-title="PERU",ATV Plus HD
 http://74.91.20.42:8080/noel/noel/548
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi7dwi6zcgfauHR07Vmz3dLsR5pAEOVOpxLS0fYGzC2Br3LvKK" group-title="PERU",BHTV
-
+#EXTINF:-1 tvg-logo="http://photocall.tv/images/bhtv.png" group-title="PERU",BHTV
+http://74.91.20.42:8080/noel/noel/509
 
 #EXTINF:-1 tvg-logo="https://cablenetword.com/img/logo/logo.png" group-title="PERU",Cable Netword
 
@@ -1219,6 +1224,9 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIPE0002&mode=12
 
 #EXTINF:-1 tvg-logo="https://www.neourbe.pe/wp-content/uploads/2019/02/tv-noticias.png" group-title="PERU",TV Noticias 7.3
 http://iptvparatodos.net:38953/live/yv83qjBhM7/FtpQEmfOMs/8919.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/TVPer%C3%BA_-_Logo_2012_V1.png" group-title="PERU",TV Perú HD
+http://74.91.20.42:8080/noel/noel/495
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/TVPer%C3%BA_-_Logo_2012_V1.png" group-title="PERU",TV Perú
 http://iptvparatodos.net:38953/live/yv83qjBhM7/FtpQEmfOMs/8920.m3u8
@@ -1575,6 +1583,9 @@ http://iptvparatodos.net:38953/live/yv83qjBhM7/FtpQEmfOMs/8739.m3u8
 #EXTINF:-1 tvg-logo="http://kantaribopemedia.com.uy/imagenes/Canales/can4.png" group-title="URUGUAY",Montecarlo HD
 
 
+#EXTINF:-1 tvg-logo="https://www.canalm.tv/plantillas/temas17/canal-M-17/images/canalm@3.png" group-title="URUGUAY",Montevideo Portal HD
+http://74.91.20.42:8080/noel/noel/497
+
 #EXTINF:-1 tvg-logo="https://www.canalm.tv/plantillas/temas17/canal-M-17/images/canalm@3.png" group-title="URUGUAY",Montevideo Portal
 http://wowza.montevideo.com.uy:1936/live/_definst_/mvdstrem/chunklist_w1488231185.m3u8
 
@@ -1727,6 +1738,41 @@ http://fmhot.04.cl.cdnz.cl/fmhot/smil:cdn.smil/chunklist_b1800000_slesp.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/INArx0I.png" group-title="CINE LATINO",FMHot HD
 http://infinity.ddns.me:25461/margarita/margarita/13371
+
+#EXTINF:-1 tvg-logo="https://d3ciwvs59ifrt8.cloudfront.net/014fd384-d12b-4c2e-a7b2-8b248dad7dd3/eaa64db8-33bd-4374-8728-94e4dd654e79.png" group-title="CINE LATINO",Cinema PPV 01
+http://74.91.20.42:8080/noel/noel/634
+
+#EXTINF:-1 tvg-logo="https://d3ciwvs59ifrt8.cloudfront.net/014fd384-d12b-4c2e-a7b2-8b248dad7dd3/eaa64db8-33bd-4374-8728-94e4dd654e79.png" group-title="CINE LATINO",Cinema PPV 03
+http://74.91.20.42:8080/noel/noel/632
+
+#EXTINF:-1 tvg-logo="https://d3ciwvs59ifrt8.cloudfront.net/014fd384-d12b-4c2e-a7b2-8b248dad7dd3/eaa64db8-33bd-4374-8728-94e4dd654e79.png" group-title="CINE LATINO",Cinema PPV 04
+http://74.91.20.42:8080/noel/noel/631
+
+#EXTINF:-1 tvg-logo="https://d3ciwvs59ifrt8.cloudfront.net/014fd384-d12b-4c2e-a7b2-8b248dad7dd3/eaa64db8-33bd-4374-8728-94e4dd654e79.png" group-title="CINE LATINO",Cinema PPV 05
+http://74.91.20.42:8080/noel/noel/630
+
+#EXTINF:-1 tvg-logo="https://d3ciwvs59ifrt8.cloudfront.net/014fd384-d12b-4c2e-a7b2-8b248dad7dd3/eaa64db8-33bd-4374-8728-94e4dd654e79.png" group-title="CINE LATINO",Cinema PPV 06
+http://74.91.20.42:8080/noel/noel/629
+
+#EXTINF:-1 tvg-logo="https://d3ciwvs59ifrt8.cloudfront.net/014fd384-d12b-4c2e-a7b2-8b248dad7dd3/eaa64db8-33bd-4374-8728-94e4dd654e79.png" group-title="CINE LATINO",Cinema PPV 07
+http://74.91.20.42:8080/noel/noel/628
+
+#EXTINF:-1 tvg-logo="https://d3ciwvs59ifrt8.cloudfront.net/014fd384-d12b-4c2e-a7b2-8b248dad7dd3/eaa64db8-33bd-4374-8728-94e4dd654e79.png" group-title="CINE LATINO",Cinema PPV 08
+http://74.91.20.42:8080/noel/noel/627
+
+#EXTINF:-1 tvg-logo="https://d3ciwvs59ifrt8.cloudfront.net/014fd384-d12b-4c2e-a7b2-8b248dad7dd3/eaa64db8-33bd-4374-8728-94e4dd654e79.png" group-title="CINE LATINO",Cinema PPV 09
+http://74.91.20.42:8080/noel/noel/626
+
+#EXTINF:-1 tvg-logo="https://d3ciwvs59ifrt8.cloudfront.net/014fd384-d12b-4c2e-a7b2-8b248dad7dd3/eaa64db8-33bd-4374-8728-94e4dd654e79.png" group-title="CINE LATINO",Cinema PPV 10
+http://74.91.20.42:8080/noel/noel/625
+
+#EXTINF:-1 tvg-logo="https://d3ciwvs59ifrt8.cloudfront.net/014fd384-d12b-4c2e-a7b2-8b248dad7dd3/eaa64db8-33bd-4374-8728-94e4dd654e79.png" group-title="CINE LATINO",Cinema PPV 11
+http://74.91.20.42:8080/noel/noel/624
+
+#EXTINF:-1 tvg-logo="https://d3ciwvs59ifrt8.cloudfront.net/014fd384-d12b-4c2e-a7b2-8b248dad7dd3/eaa64db8-33bd-4374-8728-94e4dd654e79.png" group-title="CINE LATINO",Cinema PPV 12
+http://74.91.20.42:8080/noel/noel/623
+
+
 
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/G/15/x-locale/cs/help/images/gateway/Prime_clear-bg._CB477987167_.png" group-title="CINE LATINO",Prime Accion
 http://tv-prime.tv:8080/olguin/olguin/30836
@@ -2306,7 +2352,7 @@ http://149.28.37.110:8080/SonyMovieChannel/video.m3u8?token=b5m6-1x-a3
 
 
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/starz-logo-png-.png" group-title="PREMIUM USA",Starz
-
+http://74.91.20.42:8080/noel/noel/136
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_WzPJ6eidOV0x1eohRrq3JYrXUwUPLK4dxMXw6oORHYzhtr8x" group-title="PREMIUM USA",Star Z Encore
 
@@ -7706,6 +7752,9 @@ http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w53831157
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/tRonseR.png" group-title="MUSICA",NRJ Hits
 http://5.196.138.6:1935/live/nrjbelgique_720p/plylist.m3u8?GrupoTopIptv
+
+#EXTINF:-1 tvg-logo="http://www.portalfoxmix.cl/radioenvivo/images/portalfoxmix-radio-logo-gran-tras.png" group-title="MUSICA",Portal Foxmix HD
+http://74.91.20.42:8080/noel/noel/475
 
 #EXTINF:-1 tvg-logo="http://www.portalfoxmix.cl/radioenvivo/images/portalfoxmix-radio-logo-gran-tras.png" group-title="MUSICA",Portal Foxmix
 http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/chunklist_w707723531.m3u8
