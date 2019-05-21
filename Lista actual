@@ -2968,6 +2968,9 @@ http://tvnext.biz:25462/live/Puma/Puma/3266.rtmp
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_MOVIES.png" group-title="PREMIUM LATINO",Fox Movies (7)
 http://tv-prime.tv:8080/gabriel703/gabriel703/665
 
+#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_SERIES.png" group-title="PREMIUM LATINO",Fox Series HD
+http://74.91.20.42:8080/noel/noel/690
+
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_SERIES.png" group-title="PREMIUM LATINO",Fox Series (1)
 http://tv.nousiptv.com:25462/juanfe/juanfe/3262
 
@@ -3009,6 +3012,9 @@ http://infinity.ddns.me:25461/Giordano1/Giordano1/1280
 
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-JBwoh8YDdKY/TyztsSnAnTI/AAAAAAAAAMc/UHfWADlmytY/s1600/fx_hd.png" group-title="PREMIUM LATINO",Fx (7)
 http://tv-prime.tv:8080/gabriel703/gabriel703/657
+
+#EXTINF:-1 tvg-logo="http://cdd657a867bca3d5084e-b68367b7dbe633942cc09bdd6fb9eaea.r58.cf2.rackcdn.com/fxmoviechannel.png" group-title="PREMIUM LATINO",Fxm HD
+http://74.91.20.42:8080/noel/noel/461
 
 #EXTINF:-1 tvg-logo="http://cdd657a867bca3d5084e-b68367b7dbe633942cc09bdd6fb9eaea.r58.cf2.rackcdn.com/fxmoviechannel.png" group-title="PREMIUM LATINO",Fxm (1)
 http://tv.nousiptv.com:25462/juanfe/juanfe/4009
@@ -3453,6 +3459,9 @@ http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/64414
 
 #EXTINF:-1 tvg-logo="https://www.programacion.tv/images/syfy.png" group-title="PREMIUM LATINO",Syfy (7)
 http://tv-prime.tv:8080/gabriel703/gabriel703/1027
+
+#EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/011/original/pic_tbs.png?1522176341" group-title="PREMIUM LATINO",Tbs HD
+http://74.91.20.42:8080/noel/noel/469
 
 #EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/011/original/pic_tbs.png?1522176341" group-title="PREMIUM LATINO",Tbs (1)
 http://tv.nousiptv.com:25462/juanfe/juanfe/4011
@@ -7048,6 +7057,12 @@ http://infinity.ddns.me:25461/margarita/margarita/3727
 #EXTINF:-1 tvg-logo="http://www.deltatre.com/wp-content/uploads/2014/02/300px-black.png" group-title="DEPORTES LATINO",Univisión Deportes (4)
 http://infinity.ddns.me:25461/Giordano1/Giordano1/3727
 
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/VTVURU.png" group-title="DEPORTES LATINO",VTV SD
+http://74.91.20.42:8080/noel/noel/702
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/VTVURU.png" group-title="DEPORTES LATINO",VTV HD
+http://74.91.20.42:8080/noel/noel/703
+
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/VTVURU.png" group-title="DEPORTES LATINO",VTV (1)
 http://tv.nousiptv.com:25462/juanfe/juanfe/3598
 
@@ -7425,14 +7440,11 @@ http://80.80.160.168/live/6/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ya-webdesign.com/images/espn-2-logo-png-1.png" group-title="DEPORTES INTERNACIONAL",Espn 2 USA
 http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://satsis.info/uploads/posts/2016-01/1453717931_www.satsis.info__eurosport-1.jpg" group-title="DEPORTES INTERNACIONAL",Eurosport 1 FR
+#EXTINF:-1 tvg-logo="https://satsis.info/uploads/posts/2016-01/1453717931_www.satsis.info__eurosport-1.jpg" group-title="DEPORTES INTERNACIONAL",Eurosport 1
+http://74.91.20.42:8080/noel/noel/728
 
-
-#EXTINF:-1 tvg-logo="https://satsis.info/uploads/posts/2016-01/1453717931_www.satsis.info__eurosport-1.jpg" group-title="DEPORTES INTERNACIONAL",Eurosport 1 PT
-
-
-#EXTINF:-1 tvg-logo="https://satsis.info/uploads/posts/2016-01/1453717931_www.satsis.info__eurosport-1.jpg" group-title="DEPORTES INTERNACIONAL",Eurosport 2 ES
-
+#EXTINF:-1 tvg-logo="https://satsis.info/uploads/posts/2016-01/1453717931_www.satsis.info__eurosport-1.jpg" group-title="DEPORTES INTERNACIONAL",Eurosport 2 
+http://74.91.20.42:8080/noel/noel/729
 
 #EXTINF:-1 tvg-logo="https://www.gmkfreelogos.com/logos/E/img/Ex_TV.gif" group-title="DEPORTES INTERNACIONAL",Extreme Sports USA
 
@@ -7574,6 +7586,12 @@ https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d
 
 #EXTINF:-1 tvg-logo="https://static-25.sinclairstoryline.com/resources/assets/tennischannel/images/TennisChannel.whiteBg.png" group-title="DEPORTES INTERNACIONAL",Tennis Channel USA
 http://infinity.ddns.me:25461/margarita/margarita/14266
+
+#EXTINF:-1 tvg-logo="http://static-content.iptv66.tv/stalker_portal/misc/logos/240/3297.png" group-title="DEPORTES INTERNACIONAL",TSN 1
+http://74.91.20.42:8080/noel/noel/735
+
+#EXTINF:-1 tvg-logo="http://static-content.iptv66.tv/stalker_portal/misc/logos/240/3302.png" group-title="DEPORTES INTERNACIONAL",TSN 2
+http://74.91.20.42:8080/noel/noel/736
 
 #EXTINF:-1 tvg-logo="http://pluspng.com/img-png/ufc-png-logo-800.png" group-title="DEPORTES INTERNACIONAL",Ufc UK
 
