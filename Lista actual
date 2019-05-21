@@ -1716,6 +1716,9 @@ http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/p
 #EXTINF:-1 tvg-logo="http://acsnetwork.tv/uploads/4/4/9/7/4497966/8277950.png" group-title="CINE LATINO",ACS Retro
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/INArx0I.png" group-title="CINE LATINO",FMHot HD
+http://74.91.20.42:8080/noel/noel/685
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/INArx0I.png" group-title="CINE LATINO",FMHot Pelis
 http://fmhot.04.cl.cdnz.cl/fmhot/smil:cdn.smil/playlist.m3u8
 
@@ -2676,6 +2679,9 @@ http://tvnext.biz:25462/live/Puma/Puma/3084.rtmp
 
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cine/16.png" group-title="PREMIUM LATINO",Cinemax (7)
 http://tv-prime.tv:8080/gabriel703/gabriel703/996
+
+#EXTINF:-1 tvg-logo="http://newprinter.com.ar/wp-content/uploads/2019/02/claro-pb-logo-vector-400x400.png" group-title="PREMIUM LATINO",Claro Cinema HD
+http://74.91.20.42:8080/noel/noel/459
 
 #EXTINF:-1 tvg-logo="http://new.lamac.org/system/channels/logos/000/000/044/original/pic_comedycentral.png?1522177270" group-title="PREMIUM LATINO",Comedy Central HD
 http://74.91.20.42:8080/noel/noel/695
@@ -6436,6 +6442,9 @@ http://tv-prime.tv:8080/gabriel703/gabriel703/29478
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/02/bolivia-deportes.png" group-title="DEPORTES LATINO",Bolivia Deportes
 http://btvboliviatv.srfms.com:6568/live/livestream/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/Logo_CDF-TURNER_2019.png" group-title="DEPORTES LATINO",Cdf HD
+http://74.91.20.42:8080/noel/noel/661
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/Logo_CDF-TURNER_2019.png" group-title="DEPORTES LATINO",Cdf (1)
 http://tv.nousiptv.com:25462/juanfe/juanfe/16138
 
@@ -6589,8 +6598,8 @@ http://tv-prime.tv:8080/gabriel703/gabriel703/1197
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/02/cos-fc.png" group-title="DEPORTES LATINO",C.O.S FC
 
 
-#EXTINF:-1 tvg-logo="http://www.megaredargentina.com.ar/images/Canales/Deportv.png" group-title="DEPORTES LATINO",Deportv (1)
-
+#EXTINF:-1 tvg-logo="http://www.megaredargentina.com.ar/images/Canales/Deportv.png" group-title="DEPORTES LATINO",Deportv HD
+http://74.91.20.42:8080/noel/noel/1874
 
 #EXTINF:-1 tvg-logo="http://www.megaredargentina.com.ar/images/Canales/Deportv.png" group-title="DEPORTES LATINO",Deportv (2)
 
@@ -6951,6 +6960,9 @@ http://tv-prime.tv:8080/gabriel703/gabriel703/265
 
 #EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/goltv.png" group-title="DEPORTES LATINO",Gol TV Uruguay (7)
 
+
+#EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/AFIZZIONADOS.png" group-title="DEPORTES LATINO",Izzi Afizzionados HD
+http://74.91.20.42:8080/noel/noel/534
 
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/AFIZZIONADOS.png" group-title="DEPORTES LATINO",Izzi Afizzionados (1)
 http://tv.nousiptv.com:25462/juanfe/juanfe/8248
@@ -7570,7 +7582,18 @@ http://iptv.matthuisman.nz/nz/tv.redbull.tv.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://web.static.nowtv.com/images/NOWTV_2019/Brand/P1/SS-Arena.png" group-title="DEPORTES INTERNACIONAL",Sky Sport Arena UK
+http://74.91.20.42:8080/noel/noel/659
 
+
+#EXTINF:-1 tvg-logo="https://hannahsellman.files.wordpress.com/2014/11/f1-logo-f.png" group-title="DEPORTES INTERNACIONAL",Sky Sport F1
+http://74.91.20.42:8080/noel/noel/656
+
+
+#EXTINF:-1 tvg-logo="http://www.userlogos.org/files/logos/zeppelin0291/sky%20sports.football.png" group-title="DEPORTES INTERNACIONAL",Sky Sport Football
+http://74.91.20.42:8080/noel/noel/658
+
+#EXTINF:-1 tvg-logo="https://www.eir.ie/opencms/export/sites/default/.galleries/eir/tv/logos/skysports/skysportsgolf_130x130.png" group-title="DEPORTES INTERNACIONAL",Sky Sport Golf
+http://74.91.20.42:8080/noel/noel/653
 
 #EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/213-2133982_sky-sports-logo-png.png" group-title="DEPORTES INTERNACIONAL",Sky Sport Premier League UK
 
@@ -7584,6 +7607,9 @@ https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d
 #EXTINF:-1 tvg-logo="https://www.tivu.tv/_common/images/cover-canali/supertennis_hd.jpg" group-title="DEPORTES INTERNACIONAL",Super Tennis IT
 
 
+#EXTINF:-1 tvg-logo="https://static-25.sinclairstoryline.com/resources/assets/tennischannel/images/TennisChannel.whiteBg.png" group-title="DEPORTES INTERNACIONAL",Tennis Channel HD
+http://74.91.20.42:8080/noel/noel/1565
+
 #EXTINF:-1 tvg-logo="https://static-25.sinclairstoryline.com/resources/assets/tennischannel/images/TennisChannel.whiteBg.png" group-title="DEPORTES INTERNACIONAL",Tennis Channel USA
 http://infinity.ddns.me:25461/margarita/margarita/14266
 
@@ -7593,8 +7619,8 @@ http://74.91.20.42:8080/noel/noel/735
 #EXTINF:-1 tvg-logo="http://static-content.iptv66.tv/stalker_portal/misc/logos/240/3302.png" group-title="DEPORTES INTERNACIONAL",TSN 2
 http://74.91.20.42:8080/noel/noel/736
 
-#EXTINF:-1 tvg-logo="http://pluspng.com/img-png/ufc-png-logo-800.png" group-title="DEPORTES INTERNACIONAL",Ufc UK
-
+#EXTINF:-1 tvg-logo="https://cdn.vox-cdn.com/thumbor/laTiIOllFhoqXNOEHLfL8zePWMs=/0x53:1000x720/1200x800/filters:focal(0x53:1000x720)/cdn.vox-cdn.com/uploads/chorus_image/image/29638231/ufc_fightpass_logo_f_png.0.png" group-title="DEPORTES INTERNACIONAL",Ufc Fight Pass
+http://74.91.20.42:8080/noel/noel/1561
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/W/wwe-logo-71A46059D8-seeklogo.com.png" group-title="DEPORTES INTERNACIONAL",WWE USA
 http://74.91.20.42:8080/noel/noel/137
