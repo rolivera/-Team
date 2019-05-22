@@ -1391,6 +1391,12 @@ https://stream.vagalume.fm/hls/1470169276225492/aac.m3u8
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/04/1000xhora.png" group-title="URUGUAY",1000 x Hora
 http://iptvparatodos.net:38953/live/yv83qjBhM7/FtpQEmfOMs/26768.m3u8
 
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/04/canal-2-lascano.png" group-title="URUGUAY",Canal 2 Lascano (6)
+http://iptv.dns-extreme.info:25461/victorest/qwerty123/413
+
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/04/canal-2-san-carlos.png" group-title="URUGUAY",Canal 2 San Carlos (6)
+http://iptv.dns-extreme.info:25461/victorest/qwerty123/412
+
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/04/canal-2-san-carlos.png" group-title="URUGUAY",Canal 2 San Carlos
 http://iptvparatodos.net:38953/live/yv83qjBhM7/FtpQEmfOMs/35099.m3u8
 
@@ -1402,6 +1408,9 @@ http://infinity.ddns.me:25461/margarita/margarita/15397
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/04/canal4-2.png" group-title="URUGUAY",Canal 4 Juan Lacaze
 
+
+#EXTINF:-1 tvg-logo="http://www.paysandu.tv/s/wp-content/uploads/2015/07/logo-canal-4-paysandu@2x.png" group-title="URUGUAY",Canal 4 Paysandú (6)
+http://iptv.dns-extreme.info:25461/victorest/qwerty123/411
 
 #EXTINF:-1 tvg-logo="http://www.paysandu.tv/s/wp-content/uploads/2015/07/logo-canal-4-paysandu@2x.png" group-title="URUGUAY",Canal 4 Paysandú
 http://infinity.ddns.me:25461/margarita/margarita/16088
@@ -1415,11 +1424,11 @@ http://infinity.ddns.me:25461/margarita/margarita/16089
 #EXTINF:-1 tvg-logo="http://vivotvhd.com/img/cha/505.gif" group-title="URUGUAY",Canal 4 Treinta y Tres
 
 
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/04/canal-5-noticias-y-deportes-324x160.png" group-title="URUGUAY",Canal 5 ND Colonia
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/04/canal-5-noticias-y-deportes-324x160.png" group-title="URUGUAY",Canal 5 ND Colonia (6)
+http://iptv.dns-extreme.info:25461/victorest/qwerty123/409
 
-
-#EXTINF:-1 tvg-logo="http://vivotvhd.com/img/cha/175.gif" group-title="URUGUAY",Canal 6 Durazno
-
+#EXTINF:-1 tvg-logo="http://vivotvhd.com/img/cha/175.gif" group-title="URUGUAY",Canal 6 Durazno (6)
+http://iptv.dns-extreme.info:25461/victorest/qwerty123/402
 
 #EXTINF:-1 tvg-logo="http://vivotvhd.com/img/cha/504.gif" group-title="URUGUAY",Canal 7 Punta del Este
 
@@ -1436,6 +1445,12 @@ http://infinity.ddns.me:25461/margarita/margarita/16089
 #EXTINF:-1 tvg-logo="http://vivotvhd.com/img/cha/164.gif" group-title="URUGUAY",Canal 11 Las Piedras
 
 
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/04/canal-11-treinta-y-tres.png" group-title="URUGUAY",Canal 11 Treinta Tres (6)
+http://iptv.dns-extreme.info:25461/victorest/qwerty123/415
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/702229243741216773/PPmLWRSE_400x400.png" group-title="URUGUAY",Canal 12 Melo (6)
+http://iptv.dns-extreme.info:25461/victorest/qwerty123/414
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/702229243741216773/PPmLWRSE_400x400.png" group-title="URUGUAY",Canal 12 Melo
 http://iptvparatodos.net:38953/live/yv83qjBhM7/FtpQEmfOMs/35100.m3u8
 
@@ -1445,8 +1460,11 @@ http://infinity.ddns.me:25461/margarita/margarita/16087
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/KroC87MMOtM/hqdefault.jpg" group-title="URUGUAY",Canal de la Región Canelones
 
 
-#EXTINF:-1 tvg-logo="http://vivotvhd.com/img/cha/184.gif" group-title="URUGUAY",Canal Maroñas
+#EXTINF:-1 tvg-logo="http://vivotvhd.com/img/cha/184.gif" group-title="URUGUAY",Canal Maroñas (6)
+http://iptv.dns-extreme.info:25461/victorest/qwerty123/397
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Logo_Canal_U_%28Uruguay%29.png" group-title="URUGUAY",Canal U (6)
+http://iptv.dns-extreme.info:25461/victorest/qwerty123/406
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Logo_Canal_U_%28Uruguay%29.png" group-title="URUGUAY",Canal U
 http://iptvparatodos.net:38953/live/yv83qjBhM7/FtpQEmfOMs/24855.m3u8
@@ -1454,8 +1472,14 @@ http://iptvparatodos.net:38953/live/yv83qjBhM7/FtpQEmfOMs/24855.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Logo_Canal_U_%28Uruguay%29.png" group-title="URUGUAY",Canal U
 http://infinity.ddns.me:25461/margarita/margarita/15398
 
+#EXTINF:-1 tvg-logo="http://www.cuta.com.uy/images/CardinalTV/logo_cardinaltv.JPG" group-title="URUGUAY",Cardinal TV (6)
+http://iptv.dns-extreme.info:25461/victorest/qwerty123/404
+
 #EXTINF:-1 tvg-logo="http://www.cuta.com.uy/images/CardinalTV/logo_cardinaltv.JPG" group-title="URUGUAY",Cardinal TV
 http://iptvparatodos.net:38953/live/yv83qjBhM7/FtpQEmfOMs/35101.m3u8
+
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/04/charrua-tv-324x160.png" group-title="URUGUAY",Charrúa TV (6)
+http://iptv.dns-extreme.info:25461/victorest/qwerty123/403
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/04/charrua-tv-324x160.png" group-title="URUGUAY",Charrúa TV
 http://iptvparatodos.net:38953/live/yv83qjBhM7/FtpQEmfOMs/21109.m3u8
@@ -1469,20 +1493,23 @@ http://iptvparatodos.net:38953/live/yv83qjBhM7/FtpQEmfOMs/21109.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQU2uqw5gEtjTV2AgBQJBkl4xAzXowEosN47HS77HOtgzKUtfV" group-title="URUGUAY",La Red
 
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/862298813486256128/l3zBYsZw.jpg" group-title="URUGUAY",Latina Tv Paysandu (6)
+http://iptv.dns-extreme.info:25461/victorest/qwerty123/398
+
+#EXTINF:-1 tvg-logo="http://kantaribopemedia.com.uy/imagenes/Canales/can4.png" group-title="URUGUAY",Montecarlo (6)
+http://iptv.dns-extreme.info:25461/victorest/qwerty123/396
+
+#EXTINF:-1 tvg-logo="http://kantaribopemedia.com.uy/imagenes/Canales/can4.png" group-title="URUGUAY",Montecarlo SD (6)
+http://iptv.dns-extreme.info:25461/victorest/qwerty123/7400
+
 #EXTINF:-1 tvg-logo="http://kantaribopemedia.com.uy/imagenes/Canales/can4.png" group-title="URUGUAY",Montecarlo (1)
 http://tv.nousiptv.com:25462/juanfe/juanfe/18261
 
 #EXTINF:-1 tvg-logo="http://kantaribopemedia.com.uy/imagenes/Canales/can4.png" group-title="URUGUAY",Montecarlo
-
-
-#EXTINF:-1 tvg-logo="http://kantaribopemedia.com.uy/imagenes/Canales/can4.png" group-title="URUGUAY",Montecarlo
 http://iptvparatodos.net:38953/live/yv83qjBhM7/FtpQEmfOMs/8739.m3u8
 
-#EXTINF:-1 tvg-logo="http://kantaribopemedia.com.uy/imagenes/Canales/can4.png" group-title="URUGUAY",Montecarlo
-
-
-#EXTINF:-1 tvg-logo="http://kantaribopemedia.com.uy/imagenes/Canales/can4.png" group-title="URUGUAY",Montecarlo HD
-
+#EXTINF:-1 tvg-logo="https://www.canalm.tv/plantillas/temas17/canal-M-17/images/canalm@3.png" group-title="URUGUAY",Montevideo Portal (6)
+http://iptv.dns-extreme.info:25461/victorest/qwerty123/405
 
 #EXTINF:-1 tvg-logo="https://www.canalm.tv/plantillas/temas17/canal-M-17/images/canalm@3.png" group-title="URUGUAY",Montevideo Portal HD
 http://74.91.20.42:8080/ariel/ariel/497
@@ -1496,8 +1523,11 @@ http://iptvparatodos.net:38953/live/yv83qjBhM7/FtpQEmfOMs/2133.m3u8
 #EXTINF:-1 tvg-logo="https://www.canalm.tv/plantillas/temas17/canal-M-17/images/canalm@3.png" group-title="URUGUAY",Montevideo Portal
 http://infinity.ddns.me:25461/margarita/margarita/7927
 
-#EXTINF:-1 tvg-logo="http://vivotvhd.com/img/cha/3022.gif" group-title="URUGUAY",RTV Rocha
+#EXTINF:-1 tvg-logo="http://vivotvhd.com/img/cha/3022.gif" group-title="URUGUAY",RTV Rocha (6)
+http://iptv.dns-extreme.info:25461/victorest/qwerty123/392
 
+#EXTINF:-1 tvg-logo="http://web10.images.production.s3.amazonaws.com/uploads/image/image/170/inst-logo-web10.png" group-title="URUGUAY",Saeta 10 (6)
+http://iptv.dns-extreme.info:25461/victorest/qwerty123/416
 
 #EXTINF:-1 tvg-logo="http://web10.images.production.s3.amazonaws.com/uploads/image/image/170/inst-logo-web10.png" group-title="URUGUAY",Saeta 10 (1)
 http://tv.nousiptv.com:25462/juanfe/juanfe/3344
@@ -1505,38 +1535,23 @@ http://tv.nousiptv.com:25462/juanfe/juanfe/3344
 #EXTINF:-1 tvg-logo="http://web10.images.production.s3.amazonaws.com/uploads/image/image/170/inst-logo-web10.png" group-title="URUGUAY",Saeta 10
 http://iptvparatodos.net:38953/live/yv83qjBhM7/FtpQEmfOMs/15545.m3u8
 
-#EXTINF:-1 tvg-logo="http://web10.images.production.s3.amazonaws.com/uploads/image/image/170/inst-logo-web10.png" group-title="URUGUAY",Saeta 10
-
-
-#EXTINF:-1 tvg-logo="http://web10.images.production.s3.amazonaws.com/uploads/image/image/170/inst-logo-web10.png" group-title="URUGUAY",Saeta 10
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Teledocecolor2019.png" group-title="URUGUAY",Teledoce
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Teledocecolor2019.png" group-title="URUGUAY",Teledoce (6)
+http://iptv.dns-extreme.info:25461/victorest/qwerty123/399
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Teledocecolor2019.png" group-title="URUGUAY",Teledoce (1)
 http://tv.nousiptv.com:25462/juanfe/juanfe/18731
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Teledocecolor2019.png" group-title="URUGUAY",Teledoce
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Teledocecolor2019.png" group-title="URUGUAY",Teledoce HD
 http://iptvparatodos.net:38953/live/yv83qjBhM7/FtpQEmfOMs/8740.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Teledocecolor2019.png" group-title="URUGUAY",Teledoce HD
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Teledocecolor2019.png" group-title="URUGUAY",Teledoce HD
 http://infinity.ddns.me:25461/margarita/margarita/12726
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Teledocecolor2019.png" group-title="URUGUAY",Teledoce
-
+#EXTINF:-1 tvg-logo="http://www.tensai.com.uy/webroot/img/logos/tnu.png" group-title="URUGUAY",TNU (6)
+http://iptv.dns-extreme.info:25461/victorest/qwerty123/391
 
 #EXTINF:-1 tvg-logo="http://www.tensai.com.uy/webroot/img/logos/tnu.png" group-title="URUGUAY",TNU (1)
 http://tv.nousiptv.com:25462/juanfe/juanfe/19351
-
-#EXTINF:-1 tvg-logo="http://www.tensai.com.uy/webroot/img/logos/tnu.png" group-title="URUGUAY",TNU
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TV_Ciudad.svg/1200px-TV_Ciudad.svg.png" group-title="URUGUAY",TV Ciudad (1)
 http://tv.nousiptv.com:25462/juanfe/juanfe/19352
@@ -1547,6 +1562,9 @@ http://iptvparatodos.net:38953/live/yv83qjBhM7/FtpQEmfOMs/21108.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TV_Ciudad.svg/1200px-TV_Ciudad.svg.png" group-title="URUGUAY",TV Ciudad
 http://infinity.ddns.me:25461/margarita/margarita/15400
 
+#EXTINF:-1 tvg-logo="http://marcapaisuruguay.gub.uy/wp-content/uploads/2015/02/uruguay-natural-marca-pais-retina.png" group-title="URUGUAY",Uruguay Natural (6)
+http://iptv.dns-extreme.info:25461/victorest/qwerty123/389
+
 #EXTINF:-1 tvg-logo="http://marcapaisuruguay.gub.uy/wp-content/uploads/2015/02/uruguay-natural-marca-pais-retina.png" group-title="URUGUAY",Uruguay Natural
 http://infinity.ddns.me:25461/margarita/margarita/16094
 
@@ -1556,14 +1574,17 @@ http://infinity.ddns.me:25461/margarita/margarita/16094
 #EXTINF:-1 tvg-logo="https://vcc.com.uy/web/images/VIVO.jpg" group-title="URUGUAY",Vivo Canal 3
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/VTVURU.png" group-title="URUGUAY",VTV HD (6)
+http://iptv.dns-extreme.info:25461/victorest/qwerty123/388
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/VTVURU.png" group-title="URUGUAY",VTV SD (6)
+http://iptv.dns-extreme.info:25461/victorest/qwerty123/6080
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/VTVURU.png" group-title="URUGUAY",VTV (1)
 http://tv.nousiptv.com:25462/juanfe/juanfe/3598
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/VTVURU.png" group-title="URUGUAY",VTV
 http://iptvparatodos.net:38953/live/yv83qjBhM7/FtpQEmfOMs/21763.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/VTVURU.png" group-title="URUGUAY",VTV
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/VTVURU.png" group-title="URUGUAY",VTV HD (1)
 http://tv.nousiptv.com:25462/juanfe/juanfe/22204
@@ -1573,9 +1594,6 @@ http://iptvparatodos.net:38953/live/yv83qjBhM7/FtpQEmfOMs/8737.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/VTVURU.png" group-title="URUGUAY",VTV FHD (1)
 http://tv.nousiptv.com:25462/juanfe/juanfe/3802
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd_qBAeUfhUl2q8-nR9zdA_9nNoKZ4TnP7AkZoYF8CKrer9isj" group-title="URUGUAY",VTV +
-
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd_qBAeUfhUl2q8-nR9zdA_9nNoKZ4TnP7AkZoYF8CKrer9isj" group-title="URUGUAY",VTV +
 
