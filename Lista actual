@@ -360,7 +360,7 @@ http://173.236.10.10:1935/webtvminas/webtvminas/live.m3u8
 https://stream.vagalume.fm/hls/1465840912218182609/aac.m3u8
 #######################################
 
-#EXTINF:-1  tvg-logo="https://www.oxigeno.bo/sites/default/files/styles/standar_640x480/public/field/image/atb-bolivia-en-vivo.gif?itok=4_e-Ehfa" group-title="BOLIVIA",ATB
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/ATB_logo_nuevo.png" group-title="BOLIVIA",ATB
 http://186.121.206.197/live/daniel/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ad/Bolivia_TV_2016.png/revision/latest?cb=20160622170105" group-title="BOLIVIA",Bolivia TV
@@ -369,7 +369,7 @@ http://186.121.206.197/live/daniel/index.m3u8
 #EXTINF:-1  tvg-logo="http://cdn.redbolivision.tv.bo/sites/common/img/logo_redbolivision.png" group-title="BOLIVIA",Bolivisión
 
 
-#EXTINF:-1  tvg-logo="http://www.cadenaa.tv/web/wp-content/uploads/2018/06/Logo-cabecera.png" group-title="BOLIVIA",Cadena A
+#EXTINF:-1  tvg-logo="http://tvmi.com.bo/wp-content/uploads/sites/2/2018/10/logocadenaa.png" group-title="BOLIVIA",Cadena A
 http://136.243.3.70:1935/CadenaA/CadenaA/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="http://www.catolicatelevision.com/wp-content/uploads/sites/9/2013/10/logo_ctv2.png" group-title="BOLIVIA",Católica TV
@@ -387,10 +387,10 @@ http://hdp2.imd.la:1935/megatv/megatv/playlist.m3u8
 #EXTINF:-1  tvg-logo="http://www.redpalenque.com/img/pcm4.png" group-title="BOLIVIA",Palenque tv
 
 
-#EXTINF:-1  tvg-logo="https://images.mi.tv/channels/pe_pat_m.png" group-title="BOLIVIA",PAT La Paz
+#EXTINF:-1  tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/pattv.png" group-title="BOLIVIA",PAT La Paz
 http://192.99.38.174:1935/patbolivia/patlapaz/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://images.mi.tv/channels/pe_pat_m.png" group-title="BOLIVIA",PAT Santa Cruz
+#EXTINF:-1  tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/pattv.png" group-title="BOLIVIA",PAT Santa Cruz
 http://192.99.38.174:1935/patbolivia/patsantacruz/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://img11.androidappsapk.co/300/d/9/0/com.trunect2.rtp.png" group-title="BOLIVIA",RTP
