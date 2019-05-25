@@ -81,7 +81,7 @@ http://iptvparatodos.net:38953/live/yv83qjBhM7/FtpQEmfOMs/22789.m3u8
 http://iptvparatodos.net:38953/live/yv83qjBhM7/FtpQEmfOMs/21104.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7e/Tv-rionegrina-lu92-tv-canal-10-logo.png" group-title="ARGENTINA",Canal 10 Rio Negro
-
+http://flow.nibbletv.info/CH/VJcxZ7cEbJEm/El-Trece.m3u8
 
 #EXTINF:-1 tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/3.png" group-title="ARGENTINA",Canal 26
 http://74.91.20.42:8080/ariel/ariel/354
@@ -97,6 +97,9 @@ http://live-edge01.telecentro.net.ar/live/26hd-360/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/3.png" group-title="ARGENTINA",Canal 26
 http://200.115.193.177/live/26hd-720/.m3u8
+
+#EXTINF:-1 tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/3.png" group-title="ARGENTINA",Canal 26 SD
+http://flow.nibbletv.info/CH/VJcxZ7cEbJEm/Canal-26.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_ciudad-abierta_m.png" group-title="ARGENTINA",Canal de la Ciudad
 
@@ -137,10 +140,7 @@ http://iptvparatodos.net:38953/live/yv83qjBhM7/FtpQEmfOMs/1898.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4d/El-Trece-HD-Logo-2011-2016.png/revision/latest?cb=20170721071837" group-title="ARGENTINA",El Trece HD
 http://iptvparatodos.net:38953/live/yv83qjBhM7/FtpQEmfOMs/1897.m3u8
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4d/El-Trece-HD-Logo-2011-2016.png/revision/latest?cb=20170721071837" group-title="ARGENTINA",El Trece HD
-
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4d/El-Trece-HD-Logo-2011-2016.png/revision/latest?cb=20170721071837" group-title="ARGENTINA",El Trece retransmisora
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4d/El-Trece-HD-Logo-2011-2016.png/revision/latest?cb=20170721071837" group-title="ARGENTINA",El Trece Río Negro
 http://flow.nibbletv.info/CH/VJcxZ7cEbJEm/El-Trece.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Eltres_RGB-grad_%28positivo%29.png" group-title="ARGENTINA",El Tres
@@ -188,8 +188,8 @@ http://74.91.20.42:8080/alex/alex/416
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Telefe.png" group-title="ARGENTINA",Telefe
 http://iptvparatodos.net:38953/live/yv83qjBhM7/FtpQEmfOMs/2052.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Telefe.png" group-title="ARGENTINA",Telefe HD
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Telefe.png" group-title="ARGENTINA",Telefe SD
+http://flow.nibbletv.info/CH/VJcxZ7cEbJEm/Telefe.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/506483696065449984/BATn-jAe.png" group-title="ARGENTINA",Telpin
 
@@ -209,8 +209,8 @@ http://iptvparatodos.net:38953/live/yv83qjBhM7/FtpQEmfOMs/1997.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/Tn_logo12.png" group-title="ARGENTINA",TN 
 http://iptvparatodos.net:38953/live/yv83qjBhM7/FtpQEmfOMs/1893.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Logo_TV_P%C3%BAblica_Argentina.svg/2087px-Logo_TV_P%C3%BAblica_Argentina.svg.png" group-title="ARGENTINA",TV Pública
-http://iptvparatodos.net:38953/live/yv83qjBhM7/FtpQEmfOMs/1738.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Logo_TV_P%C3%BAblica_Argentina.svg/2087px-Logo_TV_P%C3%BAblica_Argentina.svg.png" group-title="ARGENTINA",TV Pública SD
+http://flow.nibbletv.info/CH/VJcxZ7cEbJEm/TV-Publica.m3u8
 
 ######################################################################################################################################
 ####################################### BRASIL
@@ -1122,6 +1122,9 @@ http://158.69.52.44:25461/CANALES_BUDTV/h23sxgibM0/120
 
 #EXTINF:-1 tvg-logo="https://www.telemundo.com/sites/nbcutelemundo/themes/aurora_tlmd/images/telemundo_logo.png" group-title="MEXICO",Telemundo
 http://tv.iptv5region.com:25461/bronder/12365/3160
+
+#EXTINF:-1 tvg-logo="https://www.telemundo.com/sites/nbcutelemundo/themes/aurora_tlmd/images/telemundo_logo.png" group-title="MEXICO",Telemundo SD
+http://flow.nibbletv.info/CH/VJcxZ7cEbJEm/Telemundo.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.alliance4creativity.com/wp-content/uploads/2017/06/GRUPO-TELEVISA-LOGO.png" group-title="MEXICO",Televisa
 http://158.69.52.44:25461/CANALES_BUDTV/h23sxgibM0/162
@@ -3022,6 +3025,9 @@ http://158.69.52.44:25461/CANALES_BUDTV/h23sxgibM0/243
 #EXTINF:-1 tvg-logo="http://consorciocablevision.uy/wp-content/uploads/senales/HD/PELICULAS/215%20-%20EUROPA-EUROPA.png" group-title="PREMIUM LATINO",Europa Europa (3)
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Al6Y2.png" group-title="PREMIUM LATINO",Fox SD
+http://flow.nibbletv.info/CH/VJcxZ7cEbJEm/FOX.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Al6Y2.png" group-title="PREMIUM LATINO",Fox HD
 http://74.91.20.42:8080/ariel/ariel/12
 
@@ -4657,6 +4663,9 @@ http://158.69.52.44:25461/CANALES_BUDTV/h23sxgibM0/101
 #EXTINF:-1 tvg-logo="https://www.totalplay.com.mx/images/logos/canales/entretenimiento/mas-chic.png" group-title="VARIEDADES LATINO",Mas Chic (7)
 
 
+#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/mtv-png-logo/danielle-vega-mtv-png-logo-17.png" group-title="VARIEDADES LATINO",Mtv SD
+http://flow.nibbletv.info/CH/VJcxZ7cEbJEm/MTV.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/mtv-png-logo/danielle-vega-mtv-png-logo-17.png" group-title="VARIEDADES LATINO",Mtv HD
 http://74.91.20.42:8080/ariel/ariel/95
 
@@ -4677,6 +4686,9 @@ http://158.69.52.44:25461/CANALES_BUDTV/h23sxgibM0/105
 
 #EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/mtv-png-logo/danielle-vega-mtv-png-logo-17.png" group-title="VARIEDADES LATINO",Mtv (6)
 
+
+#EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/MTV_HITS.png" group-title="VARIEDADES LATINO",Mtv Hits SD
+http://flow.nibbletv.info/CH/VJcxZ7cEbJEm/MTV-Hits.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/MTV_HITS.png" group-title="VARIEDADES LATINO",Mtv Hits HD
 http://74.91.20.42:8080/ariel/ariel/96
@@ -5286,6 +5298,9 @@ http://74.91.20.42:8080/ariel/ariel/406
 #EXTINF:-1 tvg-logo="https://www.canalipe.tv/sites/default/files/web/programas/logoipeplay/logo_chicosipe.png" group-title="INFANTIL LATINO",Chicos Ipe (3)
 http://74.91.20.42:8080/alex/alex/406
 
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_kids-mediano.png" group-title="INFANTIL LATINO",Discovery Kids SD
+http://flow.nibbletv.info/CH/VJcxZ7cEbJEm/Discovery-Kids.m3u8
+
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_kids-mediano.png" group-title="INFANTIL LATINO",Discovery Kids HD
 http://74.91.20.42:8080/ariel/ariel/16
 
@@ -5357,6 +5372,9 @@ http://158.69.52.44:25461/CANALES_BUDTV/h23sxgibM0/61
 
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/disney-junior-logo-01.png" group-title="INFANTIL LATINO",Disney Junior (7)
 
+
+#EXTINF:-1 tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2015/10/Disney_XD_-_2015.svg_.png" group-title="INFANTIL LATINO",Disney XD SD
+http://flow.nibbletv.info/CH/VJcxZ7cEbJEm/Disney-XD.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2015/10/Disney_XD_-_2015.svg_.png" group-title="INFANTIL LATINO",Disney XD HD
 http://74.91.20.42:8080/ariel/ariel/19
@@ -5534,6 +5552,9 @@ http://tv.iptv5region.com:25461/bronder/12365/9311
 
 #EXTINF:-1 tvg-logo="http://startvmexico.com/wp-content/uploads/2018/10/tiin.png" group-title="INFANTIL LATINO",Tiin (7)
 
+
+#EXTINF:-1 tvg-logo="https://t3.kn3.net/taringa/A/7/E/6/A/C/RevolucionCN/83A.png" group-title="INFANTIL LATINO",Tooncast SD
+http://flow.nibbletv.info/CH/VJcxZ7cEbJEm/Tooncast.m3u8
 
 #EXTINF:-1 tvg-logo="https://t3.kn3.net/taringa/A/7/E/6/A/C/RevolucionCN/83A.png" group-title="INFANTIL LATINO",Tooncast HD
 http://74.91.20.42:8080/ariel/ariel/22
@@ -6066,6 +6087,9 @@ http://158.69.52.44:25461/CANALES_BUDTV/h23sxgibM0/27
 #EXTINF:-1 tvg-logo="https://comcastspotlight.com/sites/default/files/networks/Animal%20Planet%20Large%20Stacked.png" group-title="DOCUMENTALES LATINOS",Animal Planet (6)
 
 
+#EXTINF:-1 tvg-logo="https://hcil.umd.edu/wp-content/uploads/2015/12/Discovery-Channel-logo.png" group-title="DOCUMENTALES LATINOS",Discovery Channel SD
+http://flow.nibbletv.info/CH/VJcxZ7cEbJEm/Discovery-Channel.m3u8
+
 #EXTINF:-1 tvg-logo="https://hcil.umd.edu/wp-content/uploads/2015/12/Discovery-Channel-logo.png" group-title="DOCUMENTALES LATINOS",Discovery Channel HD
 http://74.91.20.42:8080/ariel/ariel/33
 
@@ -6287,6 +6311,9 @@ http://158.69.52.44:25461/CANALES_BUDTV/h23sxgibM0/89
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/cineframe.mx/wp-content/uploads/2017/08/H2.png" group-title="DOCUMENTALES LATINOS",H2 (7)
 
+
+#EXTINF:-1 tvg-logo="https://diylogodesigns.com/wp-content/uploads/2017/07/national-geographic-logo-vector-768x768.png" group-title="DOCUMENTALES LATINOS",Nat Geo SD
+http://flow.nibbletv.info/CH/VJcxZ7cEbJEm/NatGeo.m3u8
 
 #EXTINF:-1 tvg-logo="https://diylogodesigns.com/wp-content/uploads/2017/07/national-geographic-logo-vector-768x768.png" group-title="DOCUMENTALES LATINOS",Nat Geo (1)
 http://tv.nousiptv.com:25462/juanfe/juanfe/4097
@@ -6693,6 +6720,9 @@ http://tv.nousiptv.com:25462/juanfe/juanfe/3089
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/02/bolivia-deportes.png" group-title="DEPORTES LATINO",Bolivia Deportes
 http://btvboliviatv.srfms.com:6568/live/livestream/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/Logo_CDF-TURNER_2019.png" group-title="DEPORTES LATINO",Cdf SD
+http://flow.nibbletv.info/CH/VJcxZ7cEbJEm/CDF-Premium.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/Logo_CDF-TURNER_2019.png" group-title="DEPORTES LATINO",Cdf HD
 http://74.91.20.42:8080/ariel/ariel/661
 
@@ -6879,6 +6909,9 @@ http://tv.nousiptv.com:25462/juanfe/juanfe/2041
 #EXTINF:-1  tvg-logo="http://infonegocios.biz/uploads/directtvsportsinterna.png" group-title="DEPORTES LATINO",Directv Uruguay (6)
 
 
+#EXTINF:-1  tvg-logo="http://infonegocios.biz/uploads/directtvsportsinterna.png" group-title="DEPORTES LATINO",Directv Sports SD
+http://flow.nibbletv.info/CH/VJcxZ7cEbJEm/DirecTV-Sports.m3u8
+
 #EXTINF:-1  tvg-logo="http://infonegocios.biz/uploads/directtvsportsinterna.png" group-title="DEPORTES LATINO",Directv Sports HD
 http://74.91.20.42:8080/ariel/ariel/687
 
@@ -6936,6 +6969,9 @@ http://tv.iptv5region.com:25461/bronder/12365/2263
 #EXTINF:-1  tvg-logo="http://www.palmares.com.ar/cache/localesmarcascuadradas2directvpositivo1_260_260.png" group-title="DEPORTES LATINO",Directv Sports + (7)
 
 
+#EXTINF:-1 tvg-logo="https://4e0ow51f67h221f1ggcbe9m4-wpengine.netdna-ssl.com/wp-content/uploads/2016/08/ESPN-logo.png" group-title="DEPORTES LATINO",Espn SD
+http://flow.nibbletv.info/CH/VJcxZ7cEbJEm/ESPN.m3u8
+
 #EXTINF:-1 tvg-logo="https://4e0ow51f67h221f1ggcbe9m4-wpengine.netdna-ssl.com/wp-content/uploads/2016/08/ESPN-logo.png" group-title="DEPORTES LATINO",Espn HD
 http://74.91.20.42:8080/ariel/ariel/57
 
@@ -6957,6 +6993,9 @@ http://158.69.52.44:25461/CANALES_BUDTV/h23sxgibM0/238
 #EXTINF:-1 tvg-logo="https://4e0ow51f67h221f1ggcbe9m4-wpengine.netdna-ssl.com/wp-content/uploads/2016/08/ESPN-logo.png" group-title="DEPORTES LATINO",Espn (7)
 
 
+#EXTINF:-1 tvg-logo="https://i.ya-webdesign.com/images/espn-2-logo-png-1.png" group-title="DEPORTES LATINO",Espn 2 SD
+http://flow.nibbletv.info/CH/VJcxZ7cEbJEm/ESPN-2.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ya-webdesign.com/images/espn-2-logo-png-1.png" group-title="DEPORTES LATINO",Espn 2 HD
 http://74.91.20.42:8080/ariel/ariel/58
 
@@ -6977,6 +7016,9 @@ http://158.69.52.44:25461/CANALES_BUDTV/h23sxgibM0/237
 
 #EXTINF:-1 tvg-logo="https://i.ya-webdesign.com/images/espn-2-logo-png-1.png" group-title="DEPORTES LATINO",Espn 2 (7)
 
+
+#EXTINF:-1 tvg-logo="https://tvzamora.net/wp-content/uploads/2016/12/Logo-ESPN-3-By-Bauti.png" group-title="DEPORTES LATINO",Espn 3 SD
+http://flow.nibbletv.info/CH/VJcxZ7cEbJEm/ESPN-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvzamora.net/wp-content/uploads/2016/12/Logo-ESPN-3-By-Bauti.png" group-title="DEPORTES LATINO",Espn 3 (1)
 http://tv.nousiptv.com:25462/juanfe/juanfe/3615
@@ -7046,6 +7088,9 @@ http://tv.nousiptv.com:25462/juanfe/juanfe/3753
 
 #EXTINF:-1 tvg-logo="https://i.ya-webdesign.com/images/fox-sports-1-png-5.png" group-title="DEPORTES LATINO",Fox Sports Uruguay (6)
 
+
+#EXTINF:-1 tvg-logo="https://i.ya-webdesign.com/images/fox-sports-1-png-5.png" group-title="DEPORTES LATINO",Fox Sports SD
+http://flow.nibbletv.info/CH/VJcxZ7cEbJEm/Fox-Sports.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ya-webdesign.com/images/fox-sports-1-png-5.png" group-title="DEPORTES LATINO",Fox Sports HD
 http://74.91.20.42:8080/ariel/ariel/59
@@ -7133,6 +7178,9 @@ http://74.91.20.42:8080/alex/alex/63
 
 #EXTINF:-1 tvg-logo="http://midiafatos.com.br/wp-content/uploads/2017/02/fox_sports2_N.png" group-title="DEPORTES LATINO",Fox Sports 2 Argentina (3)
 
+
+#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/fox-sports3-logos-01.png" group-title="DEPORTES LATINO",Fox Sports 3 SD
+http://flow.nibbletv.info/CH/VJcxZ7cEbJEm/Fox-Sports-3.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/fox-sports3-logos-01.png" group-title="DEPORTES LATINO",Fox Sports 3 HD
 http://74.91.20.42:8080/ariel/ariel/61
