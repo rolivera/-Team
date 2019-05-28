@@ -387,6 +387,12 @@ http://74.91.20.42:8080/ariel/ariel/418
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Canal_13_de_Chile_%28Isotipo_2018%29.svg/1200px-Canal_13_de_Chile_%28Isotipo_2018%29.svg.png" group-title="CHILE",Canal 13
 http://tv.iptv5region.com:25461/bronder/12365/19
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Canal_21_Chill%C3%A1n.png" group-title="CHILE",Canal 21
+http://edge1.cl.grupoz.cl/canal21tv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://web.contivision.cl/ctv/images/logo.png" group-title="CHILE",Contivisión
+https://unlimited4-cl.dps.live/contivision/contivision.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.chilevision.cl/logo-chilevision.png" group-title="CHILE",Chilevisión
 http://tv.iptv5region.com:25461/bronder/12365/13
 
@@ -438,17 +444,32 @@ http://74.91.20.42:8080/ariel/ariel/665
 #EXTINF:-1 tvg-logo="https://img.soy-chile.cl/Fotos/2018/10/29/file_20181029173540.jpg" group-title="CHILE",TV+
 
 
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-snwIA-MbUYs/W15lFEEE7TI/AAAAAAAAkqA/75Rrun41uOMufo_zTiUBpJu4icQcjpSOwCK8BGAs/s317/2018-07-29.png" group-title="CHILE",TV8
+https://593b04c4c5670.streamlock.net/8134/8134/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.periodismo.uchile.cl/noticias/images/tvnlogo.jpg" group-title="CHILE",TVN HD
 http://74.91.20.42:8080/ariel/ariel/664
 
 #EXTINF:-1 tvg-logo="http://www.periodismo.uchile.cl/noticias/images/tvnlogo.jpg" group-title="CHILE",TVN
 http://tv.iptv5region.com:25461/bronder/12365/14
 
-#EXTINF:-1 tvg-logo="https://media.pagina7.cl/2018/10/1200px-Logo_de_UCV_Televisión_2018-700x345.png" group-title="CHILE", UCV 
+#EXTINF:-1 tvg-logo="https://www.tvr.cl/wp-content/uploads/2018/10/cropped-logo-tvr-3.png" group-title="CHILE",TVR
+https://unlimited4-cl.dps.live/tvr/tvr.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/tvred.png" group-title="CHILE",TV Red
+http://li1008-155.members.linode.com:1935/live/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.pagina7.cl/2018/10/1200px-Logo_de_UCV_Televisión_2018-700x345.png" group-title="CHILE",UCV 
+
+
+#EXTINF:-1 tvg-logo="http://www.uestv.cl/wp-content/uploads/2018/07/uestvlogo.png" group-title="CHILE",UES tv
+http://cl.origin.grupoz.cl:1935/uestv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://s3-media2.fl.yelpcdn.com/bphoto/CNa6BsIMxhGaJZVFoYESnA/ls.jpg" group-title="CHILE",Umag
 http://edge1.cl.grupoz.cl/tser5/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3-media2.fl.yelpcdn.com/bphoto/CNa6BsIMxhGaJZVFoYESnA/ls.jpg" group-title="CHILE",Umag
+http://cl.origin.grupoz.cl:1935/tser5/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.metrolatam.com/2017/11/30/viax574x383-f3ef6b593e33557ff8210dab34c5e231-600x400.jpg" group-title="CHILE",Via X
 
