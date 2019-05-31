@@ -369,6 +369,9 @@ https://stream.vagalume.fm/hls/14647977281792658143/aac.m3u8
 #EXTINF:-1 tvg-logo="http://photocall.tv/images/c9bb.png" group-title="CHILE",Canal 9
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Canal_13_de_Chile_%28Isotipo_2018%29.svg/1200px-Canal_13_de_Chile_%28Isotipo_2018%29.svg.png" group-title="CHILE",Canal 13 SD
+http://streams.estreems.com/CHI-CANAL13HD/video.m3u8?token=qGDhXW5-W3
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Canal_13_de_Chile_%28Isotipo_2018%29.svg/1200px-Canal_13_de_Chile_%28Isotipo_2018%29.svg.png" group-title="CHILE",Canal 13
 http://tv.iptv5region.com:25461/bronder/12365/19
 
@@ -377,6 +380,9 @@ http://edge1.cl.grupoz.cl/canal21tv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://web.contivision.cl/ctv/images/logo.png" group-title="CHILE",Contivisión
 https://unlimited4-cl.dps.live/contivision/contivision.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.chilevision.cl/logo-chilevision.png" group-title="CHILE",Chilevisión SD
+http://streams.estreems.com/CHI-CHV/video.m3u8?token=qGDhXW5-W3
 
 #EXTINF:-1 tvg-logo="http://www.chilevision.cl/logo-chilevision.png" group-title="CHILE",Chilevisión
 http://tv.iptv5region.com:25461/bronder/12365/13
@@ -399,8 +405,14 @@ http://unlimited5-cl.dps.live/holvoettv/holvoettv.smil/playlist.m3u8?GrupoTopIpt
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/71/fd/45/71fd456abe5a03ee0d2a17162e0cbd89.png" group-title="CHILE",La Red
 http://tv.iptv5region.com:25461/bronder/12365/27
 
+#EXTINF:-1 tvg-logo="https://i0.wp.com/aam.cl/wp-content/uploads/2018/08/Mega_Chile_Alternate_Logo.png?fit=200%2C200&ssl=1" group-title="CHILE",Mega SD
+http://streams.estreems.com/CHI-MEGAHD/video.m3u8?token=qGDhXW5-W3
+
 #EXTINF:-1 tvg-logo="https://i0.wp.com/aam.cl/wp-content/uploads/2018/08/Mega_Chile_Alternate_Logo.png?fit=200%2C200&ssl=1" group-title="CHILE",Mega
 http://tv.iptv5region.com:25461/bronder/12365/4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/MegaPlus.png" group-title="CHILE",Mega +
+http://mdstrm.com/live-stream-playlist/56f97fc0b9bb39786b04a3b0.m3u8
 
 #EXTINF:-1 tvg-logo="http://niu.cl/wp-content/uploads/2017/07/radio.png" group-title="CHILE", Niu Media
 
@@ -412,13 +424,16 @@ http://tv.iptv5region.com:25461/bronder/12365/4
 http://tv.iptv5region.com:25461/bronder/12365/1157
 
 #EXTINF:-1 tvg-logo="https://img8.androidappsapk.co/300/8/b/3/com.trece.t13.png" group-title="CHILE",T13
-
+http://c13-ply.janus.cl/playlist/stream.m3u8?s=c13hd
 
 #EXTINF:-1 tvg-logo="https://img.soy-chile.cl/Fotos/2018/10/29/file_20181029173540.jpg" group-title="CHILE",TV+
 
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-snwIA-MbUYs/W15lFEEE7TI/AAAAAAAAkqA/75Rrun41uOMufo_zTiUBpJu4icQcjpSOwCK8BGAs/s317/2018-07-29.png" group-title="CHILE",TV8
 https://593b04c4c5670.streamlock.net/8134/8134/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.periodismo.uchile.cl/noticias/images/tvnlogo.jpg" group-title="CHILE",TVN SD
+http://streams.estreems.com/CHI-TVNHD/video.m3u8?token=qGDhXW5-W3
 
 #EXTINF:-1 tvg-logo="http://www.periodismo.uchile.cl/noticias/images/tvnlogo.jpg" group-title="CHILE",TVN
 http://tv.iptv5region.com:25461/bronder/12365/14
@@ -505,7 +520,7 @@ http://158.69.52.44:25461/CANALES_BUDTV/h23sxgibM0/114
 
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/telecaribe.png" group-title="COLOMBIA",Telecaribe
-
+http://telecaribe-deportes.gcdn.anvato.net/hls/live/telecaribedeporteshd2/2196k/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1027216837401034752/tnxpCuEu_400x400.jpg" group-title="COLOMBIA",Telepacifico
 http://158.69.52.44:25461/CANALES_BUDTV/h23sxgibM0/122
@@ -5894,6 +5909,9 @@ http://btvboliviatv.srfms.com:6568/live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/Logo_CDF-TURNER_2019.png" group-title="DEPORTES LATINO",Cdf SD
 http://flow.nibbletv.info/CH/VJcxZ7cEbJEm/CDF-Premium.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/Logo_CDF-TURNER_2019.png" group-title="DEPORTES LATINO",Cdf SD
+http://streams.estreems.com/CHI-CDF/video.m3u8?token=qGDhXW5-W3
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/Logo_CDF-TURNER_2019.png" group-title="DEPORTES LATINO",Cdf (1)
 http://tv.nousiptv.com:25462/live/Oliver/Oliver/16138.m3u8
 
@@ -5944,6 +5962,9 @@ http://tv.iptv5region.com:25461/bronder/12365/4341
 
 #EXTINF:-1 tvg-logo="https://api.dondeloveo.com/api/media/images/1502125045.557Estadio%20CDF%20200x200.png" group-title="DEPORTES LATINO",Cdf Estadio (7)
 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Cdf_p.png" group-title="DEPORTES LATINO",Cdf Premium SD
+http://streams.estreems.com/CHI-CDFPREMIUN/video.m3u8?token=qGDhXW5-W3
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Cdf_p.png" group-title="DEPORTES LATINO",Cdf Premium (1)
 http://tv.nousiptv.com:25462/live/Oliver/Oliver/3586.m3u8
@@ -6059,6 +6080,9 @@ http://tv.nousiptv.com:25462/live/Oliver/Oliver/23239.m3u8
 #EXTINF:-1  tvg-logo="http://infonegocios.biz/uploads/directtvsportsinterna.png" group-title="DEPORTES LATINO",Directv Ecuador (6)
 
 
+#EXTINF:-1  tvg-logo="http://infonegocios.biz/uploads/directtvsportsinterna.png" group-title="DEPORTES LATINO",Directv Uru y Directv Plus
+http://128.199.36.119/hls/veopartidos.m3u8
+
 #EXTINF:-1  tvg-logo="http://infonegocios.biz/uploads/directtvsportsinterna.png" group-title="DEPORTES LATINO",Directv Uruguay (1)
 http://tv.nousiptv.com:25462/live/Oliver/Oliver/2041.m3u8
 
@@ -6089,6 +6113,9 @@ http://158.69.52.44:25461/CANALES_BUDTV/h23sxgibM0/1024
 #EXTINF:-1  tvg-logo="http://infonegocios.biz/uploads/directtvsportsinterna.png" group-title="DEPORTES LATINO",Directv Sports (7)
 
 
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png" group-title="DEPORTES LATINO",Directv Sports 2 URU
+http://159.89.10.82/hls/veopartidos1.m3u8
+
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png" group-title="DEPORTES LATINO",Directv Sports 2 (1)
 
 
@@ -6107,6 +6134,9 @@ http://158.69.52.44:25461/CANALES_BUDTV/h23sxgibM0/1025
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png" group-title="DEPORTES LATINO",Directv Sports 2 (7)
 
 
+#EXTINF:-1  tvg-logo="http://www.palmares.com.ar/cache/localesmarcascuadradas2directvpositivo1_260_260.png" group-title="DEPORTES LATINO",Directv Sports + SD
+http://134.209.61.212/hls/veopartidos.m3u8
+
 #EXTINF:-1  tvg-logo="http://www.palmares.com.ar/cache/localesmarcascuadradas2directvpositivo1_260_260.png" group-title="DEPORTES LATINO",Directv Sports + (1)
 http://tv.nousiptv.com:25462/live/Oliver/Oliver/8520.m3u8
 
@@ -6121,6 +6151,9 @@ http://tv.iptv5region.com:25461/bronder/12365/2263
 
 #EXTINF:-1  tvg-logo="http://www.palmares.com.ar/cache/localesmarcascuadradas2directvpositivo1_260_260.png" group-title="DEPORTES LATINO",Directv Sports + (7)
 
+
+#EXTINF:-1 tvg-logo="https://4e0ow51f67h221f1ggcbe9m4-wpengine.netdna-ssl.com/wp-content/uploads/2016/08/ESPN-logo.png" group-title="DEPORTES LATINO",Espn Deportes SD
+https://fubolive.com/live/espndeportes/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://4e0ow51f67h221f1ggcbe9m4-wpengine.netdna-ssl.com/wp-content/uploads/2016/08/ESPN-logo.png" group-title="DEPORTES LATINO",Espn SD
 http://flow.nibbletv.info/CH/VJcxZ7cEbJEm/ESPN.m3u8
