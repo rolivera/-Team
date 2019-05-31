@@ -5897,6 +5897,15 @@ http://194.67.208.149/hls/107.m3u8
 #EXTINF:-1 tvg-logo="http://duvaec.com/imagenes_editor/userfiles/images/EVENTOS.png" group-title="DEPORTES LATINO",Eventos 4
 http://194.67.208.149/hls/110.m3u8
 
+#EXTINF:-1  tvg-logo="http://veopartidos.com/wp-content/uploads/2018/06/cropped-LogoLargo-3.png" group-title="DEPORTES LATINO",Eventos Veopartidos 1
+http://159.89.10.82/hls/veopartidos1.m3u8
+
+#EXTINF:-1  tvg-logo="http://veopartidos.com/wp-content/uploads/2018/06/cropped-LogoLargo-3.png" group-title="DEPORTES LATINO",Eventos Veopartidos 2
+http://128.199.36.119/hls/veopartidos.m3u8
+
+#EXTINF:-1  tvg-logo="http://veopartidos.com/wp-content/uploads/2018/06/cropped-LogoLargo-3.png" group-title="DEPORTES LATINO",Eventos Veopartidos 3
+http://134.209.61.212/hls/veopartidos.m3u8
+
 #EXTINF:-1  tvg-logo="http://www.megacable.com.mx/images/canales/74_aym-sports.png" group-title="DEPORTES LATINO",Aym Sports (1)
 http://tv.nousiptv.com:25462/live/Oliver/Oliver/3089.m3u8
 
@@ -6080,9 +6089,6 @@ http://tv.nousiptv.com:25462/live/Oliver/Oliver/23239.m3u8
 #EXTINF:-1  tvg-logo="http://infonegocios.biz/uploads/directtvsportsinterna.png" group-title="DEPORTES LATINO",Directv Ecuador (6)
 
 
-#EXTINF:-1  tvg-logo="http://infonegocios.biz/uploads/directtvsportsinterna.png" group-title="DEPORTES LATINO",Directv Uru y Directv Plus
-http://128.199.36.119/hls/veopartidos.m3u8
-
 #EXTINF:-1  tvg-logo="http://infonegocios.biz/uploads/directtvsportsinterna.png" group-title="DEPORTES LATINO",Directv Uruguay (1)
 http://tv.nousiptv.com:25462/live/Oliver/Oliver/2041.m3u8
 
@@ -6113,8 +6119,6 @@ http://158.69.52.44:25461/CANALES_BUDTV/h23sxgibM0/1024
 #EXTINF:-1  tvg-logo="http://infonegocios.biz/uploads/directtvsportsinterna.png" group-title="DEPORTES LATINO",Directv Sports (7)
 
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png" group-title="DEPORTES LATINO",Directv Sports 2 URU
-http://159.89.10.82/hls/veopartidos1.m3u8
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png" group-title="DEPORTES LATINO",Directv Sports 2 (1)
 
@@ -6133,9 +6137,6 @@ http://158.69.52.44:25461/CANALES_BUDTV/h23sxgibM0/1025
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png" group-title="DEPORTES LATINO",Directv Sports 2 (7)
 
-
-#EXTINF:-1  tvg-logo="http://www.palmares.com.ar/cache/localesmarcascuadradas2directvpositivo1_260_260.png" group-title="DEPORTES LATINO",Directv Sports + SD
-http://134.209.61.212/hls/veopartidos.m3u8
 
 #EXTINF:-1  tvg-logo="http://www.palmares.com.ar/cache/localesmarcascuadradas2directvpositivo1_260_260.png" group-title="DEPORTES LATINO",Directv Sports + (1)
 http://tv.nousiptv.com:25462/live/Oliver/Oliver/8520.m3u8
