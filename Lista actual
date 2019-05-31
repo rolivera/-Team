@@ -1352,7 +1352,7 @@ https://stream.vagalume.fm/hls/147396460892793/aac.m3u8
 #######################################
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/antena7.png" group-title="R.DOMINICANA",Antena 7
-
+http://d3e6ki1290i3kk.cloudfront.net/do/antena_latina.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/81d71c42-06eb-4c5f-bb15-737ae2856e48/dbtak69-c35ecdec-a280-4dd5-aa20-625011c90009.png/v1/fill/w_1024,h_284,strp/antena_21_logo__2017__by_kansasda_dbtak69-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9Mjg0IiwicGF0aCI6IlwvZlwvODFkNzFjNDItMDZlYi00YzVmLWJiMTUtNzM3YWUyODU2ZTQ4XC9kYnRhazY5LWMzNWVjZGVjLWEyODAtNGRkNS1hYTIwLTYyNTAxMWM5MDAwOS5wbmciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.JKj8aMVJkn5gQZzpsX-xgGNDGgllmJBK4GSW0JNI4DE" group-title="R.DOMINICANA",Antena 21
 
@@ -1390,6 +1390,9 @@ http://ciez45.live.cloud.influxis.com/ciez45/_definst_/NaranjaTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.orbit.net/admin/upload/news/ygn35g.png" group-title="R.DOMINICANA",Orbit tv
 http://ss6.domint.net:2082/202_str/orbittv/media_w29206476_playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.orbit.net/admin/upload/news/ygn35g.png" group-title="R.DOMINICANA",Orbit tv
+http://ss6.domint.net:2082/202_str/orbittv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://telefuturo.com.do/home/wp-content/themes/telefuturo23/img/logo.png" group-title="R.DOMINICANA",Telefuturo
 
 
@@ -1402,6 +1405,9 @@ http://stream.grupotelemicro.com/5.m3u8
 #EXTINF:-1 tvg-logo="https://www.telenord.com/images/Logo_Telenord.png" group-title="R.DOMINICANA",Telenord
 http://emisoradominicana.net/television/wp-content/uploads/2015/06/telenord.jpg
 
+#EXTINF:-1 tvg-logo="https://www.telenord.com/images/Logo_Telenord.png" group-title="R.DOMINICANA",Telenord
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIDO0029&mode=12
+
 #EXTINF:-1 tvg-logo="https://altice.com.do/sites/default/files/assets/grilla_canales/img/logos/Telesistema.png" group-title="R.DOMINICANA",Telesistema
 
 
@@ -1413,6 +1419,9 @@ http://emisoradominicana.net/television/wp-content/uploads/2015/06/telenord.jpg
 
 #EXTINF:-1 tvg-logo="http://telecanal28.net/wp-content/uploads/2019/03/cropped-logo-tl28.png" group-title="R.DOMINICANA",Tc 28
 
+
+#EXTINF:-1 tvg-logo="http://www.tvs.com.do/tvs/wp-content/uploads/2018/09/top-main.png" group-title="R.DOMINICANA",TVS tv
+http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/chunks.m3u8
 
 #EXTINF:-1 tvg-ID="" tvg-name="VTV 32" tvg-logo="https://pbs.twimg.com/profile_images/1101586496996458496/ZsUKrXSC_400x400.jpg" group-title="R.DOMINICANA",VTV 32
 
@@ -1602,6 +1611,9 @@ http://tv.iptv5region.com:25461/bronder/12365/7418
 
 #EXTINF:-1 tvg-logo="http://channels.roku.com/images/5b26effd97dc43d19762368cc4805ee2-hd.jpg" group-title="CINE LATINO",Zona Play
 http://hd.chileservidores.cl:8080/inicial/zonaplay/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/TVX_El_Salvador.png" group-title="CINE LATINO",TVX
+https://59dc4c699f574.streamlock.net/canal23/canal23/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://shankarsoma.files.wordpress.com/2013/08/pay-per-view-network.png?w=600" group-title="CINE LATINO",Cine PPV
 
