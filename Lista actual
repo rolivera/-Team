@@ -989,6 +989,33 @@ http://tv.iptv5region.com:25461/bronder/12365/1740
 
 
 ######################################################################################################################################
+####################################### NICARAGUA
+#EXTINF:-1 tvg-logo="https://respuestas.tips/wp-content/uploads/2014/04/bandera-nicaragua.jpg" group-title="NICARAGUA",NICARAGUA*********************************************************
+https://stream.vagalume.fm/hls/1470154983100588/aac.m3u8
+#######################################
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/canal-4-nicaragua-logo-B52640A282-seeklogo.com.png" group-title="NICARAGUA",Canal 4
+http://138.117.4.70:8079/streams/d/Canal-4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/6_de_nicaragua-mediano.png" group-title="NICARAGUA",Canal 6
+http://138.117.4.70:8079/streams/d/Canal-6/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Telenica-canal-8.png" group-title="NICARAGUA",Canal 8
+http://138.117.4.70:8079/streams/d/Canal-8/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://cdn.canal10.com.ni/sites/common/img/logo_canal10.png" group-title="NICARAGUA",Canal 10
+http://138.117.4.70:8079/streams/d/Canal-10/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e4/TUTV_El_Salvador_2011.png/revision/latest/scale-to-width-down/200?cb=20170623215815" group-title="NICARAGUA",Canal 11
+http://138.117.4.70:8079/streams/d/Canal-11/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/03/canal-12-nicaragua.png" group-title="NICARAGUA",Canal 12
+http://138.117.4.70:8079/streams/d/Canal-12/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Logo_Viva_Nicaragua_Canal_13.png" group-title="NICARAGUA",Canal 13
+http://138.117.4.70:8079/streams/d/Canal-13/playlist.m3u8
+
+######################################################################################################################################
 ####################################### PANAMA
 #EXTINF:-1 tvg-logo="http://telocuentonews.com/site/wp-content/uploads/2017/11/Bandera-de-Panam%C3%A1.jpg" group-title="PANAMA",PANAMA*********************************************************
 https://stream.vagalume.fm/hls/1470154983100588/aac.m3u8
@@ -997,8 +1024,8 @@ https://stream.vagalume.fm/hls/1470154983100588/aac.m3u8
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/02/ecotv-panama.png" group-title="PANAMA",Eco TV
 
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/948686519111368705/di8oF6kG_400x400.jpg" group-title="PANAMA",Nextv
-
+#EXTINF:-1 tvg-logo="https://i1.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/NEX-TV.png" group-title="PANAMA",Nextv
+http://198.1.117.5:1935/live/livestream/chunklist_w1290911642.m3u8
 
 #EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2017_01/RPC_(2010).png.4630b569f7c275038611229447482050.png" group-title="PANAMA",RPC
 
@@ -1032,6 +1059,9 @@ https://stream.vagalume.fm/hls/14619606471054026608/aac.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.mi.tv/channels/py_red-guarani_m.png" group-title="PARAGUAY",Red Guaraní
 
+
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/06/Red-Paraguaya-de-Comunicaci%C3%B3n-1.png" group-title="PARAGUAY",RPC
+http://174.138.118.252/live/canal13stream_src.m3u8
 
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/9ecff249-5118-4973-9daa-b65bb4374b06_m.jpg" group-title="PARAGUAY",Telefuturo
 
@@ -1333,6 +1363,9 @@ https://stream.vagalume.fm/hls/147396460892793/aac.m3u8
 #EXTINF:-1 tvg-logo="http://vivotvhd.com/img/cha/2044.gif" group-title="R.DOMINICANA",Canal 19
 
 
+#EXTINF:-1 tvg-logo="https://ik.imagekit.io/ulangotv/image/upload/tr:w-150/1321919_logo_tv_recuerdos_canal_56.png" group-title="R.DOMINICANA",Canal 56
+http://media.az-streamingserver.com:1935/7230/7230/chunklist_w107238539.m3u8
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/973571329927647233/Ap9Z8COG_400x400.jpg" group-title="R.DOMINICANA",CDN
 
 
@@ -1346,10 +1379,13 @@ https://stream.vagalume.fm/hls/147396460892793/aac.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://lunatv.do/stream/imagen/logo-stream.png" group-title="R.DOMINICANA",Luna TV
-
+http://ss1.domint.net:2140/luna_str/lunatv/chunklist_w321264520.m3u8
 
 #EXTINF:-1 tvg-logo="http://microvision.com.do/wp-content/uploads/Microvision_567-150.png" group-title="R.DOMINICANA",MicroVision
 http://190.103.183.24:1935/live/MicroHD/chunklist_w1105794626.m3u8
+
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/naranjatv.png" group-title="R.DOMINICANA",Naranja tv
+http://ciez45.live.cloud.influxis.com/ciez45/_definst_/NaranjaTV/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.orbit.net/admin/upload/news/ygn35g.png" group-title="R.DOMINICANA",Orbit tv
 http://ss6.domint.net:2082/202_str/orbittv/media_w29206476_playlist.m3u8
