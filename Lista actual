@@ -168,6 +168,9 @@ https://stream.vagalume.fm/hls/14658544132100453351/aac.m3u8
 #EXTINF:0 tvg-logo="http://www.speedbol.com.br/wp-content/uploads/2017/12/agro-brasil.png" group-title="BRASIL",Agro Brasil
 http://177.54.152.243:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
 
+#EXTINF:0 tvg-logo="http://i.imgur.com/gdWjSaC.png" group-title="BRASIL",Amazon Sat
+http://slrp.sambavideos.sambatech.com/liveevent/amazonsatabr1_3e9c859611a5e7fbedc785bd33c418b5/livestream3/playlist.m3u8
+
 #EXTINF:0 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/band-logo-png-6.png" group-title="BRASIL",Band SD 
 https://5ad482a77183d.streamlock.net/suportesupersuportegmail.com/suportesupersuportegmail.com.stream/playlist.m3u8
 
@@ -261,6 +264,10 @@ http://tv.factoryiptv.com:80/julio12345/julio12345/50929
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/NBR_logo_2016.svg/1280px-NBR_logo_2016.svg.png" group-title="BRASIL",NBR (5)
 http://tv.factoryiptv.com:80/12345678/12345678/50929
 
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/k4haEx6.png" group-title="BRASIL",Rede TV SD
+http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/k4haEx6.png" group-title="BRASIL",Rede TV (1)
 http://tv.factoryiptv.com:80/john/john/51024
 
@@ -320,6 +327,9 @@ http://streamtv.com.br:80/live/luiz/luiz/138.rtmp
 
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Fa8YNjoDpsI/TotxkX45UqI/AAAAAAAAAJw/92TUKz3Hb6E/s1600/logo_tvcaxias.png" group-title="BRASIL",TV Caxias
 http://stmv1.euroti.com.br:1935/caxiashost/caxiashost/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/kai6F2R.png" group-title="BRASIL",TV Cultura SD
+http://wz-brasil1.comets.com.br/tvaperipe/aovivo/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/kai6F2R.png" group-title="BRASIL",TV Cultura (2)
 
@@ -4293,6 +4303,9 @@ http://tv.factoryiptv.com:80/12345678/12345678/50745
 
 #EXTINF:-1 tvg-logo="https://bestofsno.com/wp-content/uploads/2019/03/3.18-culinary.png" group-title="VARIEDADES BRASIL",Food Network (6)
 http://streamtv.com.br:80/live/luiz/luiz/198.rtmp
+
+#EXTINF:-1 tvg-logo="https://skytvplanos.com.br/img/channels/lg-8-canal-futura.png" group-title="VARIEDADES BRASIL",Futura SD
+http://caikron.com.br:1935/unipar/tvup/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://skytvplanos.com.br/img/channels/lg-8-canal-futura.png" group-title="VARIEDADES BRASIL",Futura (1)
 http://tv.factoryiptv.com:80/john/john/41481
