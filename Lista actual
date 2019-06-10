@@ -303,7 +303,7 @@ http://tv.iptv5region.com:25461/bronder/12365/19
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Canal_21_Chill%C3%A1n.png" group-title="06- CHILE",Canal 21
 http://edge1.cl.grupoz.cl/canal21tv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1134848211259146240/PuKrTJM5_400x400.jpg" group-title="06- CHILE",Contivisión
+#EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/file_1492005143.png" group-title="06- CHILE",Contivisión
 https://unlimited4-cl.dps.live/contivision/contivision.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.chilevision.cl/logo-chilevision.png" group-title="06- CHILE",Chilevisión
@@ -380,65 +380,65 @@ https://cdn.logicideas.media/canaltrece-live/smil:canal13.smil/playlist.m3u8
 
 #####################################################################################################################################
 ####################################### COSTA RICA
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2016/06/16/04/34/costa-rica-1460630_960_720.jpg" group-title="COSTA RICA",08 *COSTA RICA*
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2016/06/16/04/34/costa-rica-1460630_960_720.jpg" group-title="08- COSTA RICA",08- COSTA RICA
 https://stream.vagalume.fm/hls/14660050141766497579/aac.m3u8
 #######################################
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Naw5Wnn.png" group-title="COSTA RICA",Extrema TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Naw5Wnn.png" group-title="08- COSTA RICA",Extrema TV
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
-#EXTINF:-1tvg-logo="https://i.imgur.com/OBv7Wb7.png" group-title="COSTA RICA",Super Cinco
+#EXTINF:-1tvg-logo="https://i.imgur.com/OBv7Wb7.png" group-title="08- COSTA RICA",Super Cinco
 http://k4.usastreams.com/superC/superC_1/chunklist_w27246718.m3u8
 
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/telered.png" group-title="COSTA RICA",Telered
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/telered.png" group-title="08- COSTA RICA",Telered
 http://k4.usastreams.com/Telesistemas/Telesistemas/playlist.m3u8?GrupoTopIptv
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/CudLt3UUIAA3HVq.jpg" group-title="COSTA RICA",Ticavisión
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/CudLt3UUIAA3HVq.jpg" group-title="08- COSTA RICA",Ticavisión
 http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YqW3o4z.png" group-title="COSTA RICA",Tv Sur
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YqW3o4z.png" group-title="08- COSTA RICA",Tv Sur
 http://205.164.56.130:1935/tvsur81/tvsur81/playlist.m3u8
 
 ######################################################################################################################################
 ####################################### CUBA
-#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/bandera-cuba-150mt-x90cm-D_NQ_NP_648410-MLU26631446463_012018-F.jpg" group-title="CUBA",09 *CUBA*
+#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/bandera-cuba-150mt-x90cm-D_NQ_NP_648410-MLU26631446463_012018-F.jpg" group-title="09- CUBA",09- CUBA
 https://stream.vagalume.fm/hls/1478199774246251/aac.m3u8
 #######################################
 
-#EXTINF:-1 tvg-logo="https://www.radiotelevisionmarti.com/Content/responsive/OCB/es-CU/img/logo-compact.png" group-title="CUBA",TV Martí
+#EXTINF:-1 tvg-logo="https://www.radiotelevisionmarti.com/Content/responsive/OCB/es-CU/img/logo-compact.png" group-title="09- CUBA",TV Martí
 http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.radiotelevisionmarti.com/Content/responsive/OCB/es-CU/img/logo-compact.png" group-title="CUBA",TV Martí
+#EXTINF:-1 tvg-logo="https://www.radiotelevisionmarti.com/Content/responsive/OCB/es-CU/img/logo-compact.png" group-title="09- CUBA",TV Martí
 http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/index_0540_av-b.m3u8?sd=10&rebase=on
 
 ######################################################################################################################################
 ####################################### ECUADOR
-#EXTINF:-1 tvg-logo="https://l7.alamy.com/zooms/f3925b1e7ee640449771f0d190ccb845/ecuador-flag-dny7aa.jpg" group-title="ECUADOR",10 *ECUADOR*
+#EXTINF:-1 tvg-logo="https://l7.alamy.com/zooms/f3925b1e7ee640449771f0d190ccb845/ecuador-flag-dny7aa.jpg" group-title="10- ECUADOR",10- ECUADOR
 https://stream.vagalume.fm/hls/146411300413492499/aac.m3u8
 #######################################
 
-#EXTINF:-1 tvg-logo="http://photocall.tv/images/ecuavisa.png" group-title="ECUADOR",Ecuavisa
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Logo_Ecuavisa.svg/1280px-Logo_Ecuavisa.svg.png" group-title="10- ECUADOR",Ecuavisa
 http://elcanaldelfutbol.com/static/wowza/test/hls/20001/480p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://photocall.tv/images/ecuavisa.png" group-title="ECUADOR",Ecuavisa
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Logo_Ecuavisa.svg/1280px-Logo_Ecuavisa.svg.png" group-title="10- ECUADOR",Ecuavisa
 http://elcanaldelfutbol.com/static/wowza/test/hls/20001/360p/playlist.m3u8?GrupoTopIptv
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/FXqG3LnBX_A/hqdefault_live.jpg" group-title="ECUADOR",Hechos Ecuador
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/FXqG3LnBX_A/hqdefault_live.jpg" group-title="10- ECUADOR",Hechos Ecuador
 http://37.187.7.106/hechostv/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Oromar_logo.png" group-title="ECUADOR",Oromar TV 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Oromar_logo.png" group-title="10- ECUADOR",Oromar TV 
 http://videos.oromartv.com:8082/hls/oromartv_hi/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://ultimahoraec.com/wp-content/uploads/2017/11/logo_rts.png" group-title="ECUADOR",RTS
+#EXTINF:-1 tvg-logo="https://ultimahoraec.com/wp-content/uploads/2017/11/logo_rts.png" group-title="10- ECUADOR",RTS
 https://d36zvzlneynve1.cloudfront.net/liverts/smil:liverts.smil/chunklist_b1073152.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cnt.gob.ec/tv/wp-content/uploads/sites/5/2019/03/RTU-LOGO-NEGRO.png" group-title="ECUADOR",RTU
+#EXTINF:-1 tvg-logo="https://www.cnt.gob.ec/tv/wp-content/uploads/sites/5/2019/03/RTU-LOGO-NEGRO.png" group-title="10- ECUADOR",RTU
 https://59c3c7bda15f4.streamlock.net:444/rtutv/smil:rtutv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tvc-ecuador-logo-DE265485AA-seeklogo.com.png" group-title="ECUADOR",TVC
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tvc-ecuador-logo-DE265485AA-seeklogo.com.png" group-title="10- ECUADOR",TVC
 https://d2dn7ylrd9r3ds.cloudfront.net/liverts/televicentro.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www15.ucsg.edu.ec/biblioteca/buscadorOPAC/images/LOGO.png" group-title="ECUADOR",UCSG
+#EXTINF:-1 tvg-logo="https://www15.ucsg.edu.ec/biblioteca/buscadorOPAC/images/LOGO.png" group-title="10- ECUADOR",UCSG
 http://ecuastream.net:1935/UCSGHQ/UCSGHQ/playlist.m3u8
 
 ######################################################################################################################################
