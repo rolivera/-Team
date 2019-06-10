@@ -306,9 +306,6 @@ http://edge1.cl.grupoz.cl/canal21tv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.chilevision.cl/logo-chilevision.png" group-title="06- CHILE",Chilevision
 http://tv.iptv5region.com:25461/bronder/12365/13
 
-#EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/file_1492005143.png" group-title="06- CHILE",Contivision
-https://unlimited4-cl.dps.live/contivision/contivision.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://i.imgur.com/VhOolgs.png" group-title="06- CHILE",El Pingüino
 http://tv.iptv5region.com:25461/bronder/12365/7463
 
@@ -443,38 +440,38 @@ http://ecuastream.net:1935/UCSGHQ/UCSGHQ/playlist.m3u8
 
 ######################################################################################################################################
 ####################################### HONDURAS
-#EXTINF:-1 tvg-logo="https://respuestas.tips/wp-content/uploads/2014/04/bandera-honduras.jpg" group-title="HONDURAS",11 *HONDURAS*
+#EXTINF:-1 tvg-logo="https://respuestas.tips/wp-content/uploads/2014/04/bandera-honduras.jpg" group-title="11- HONDURAS",11- HONDURAS
 https://stream.vagalume.fm/hls/1506975770142563/aac.m3u8
 #######################################
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/43/TVAzteca_Honduras_2013.png/revision/latest?cb=20170701214353" group-title="HONDURAS",Azteca Honduras
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/43/TVAzteca_Honduras_2013.png/revision/latest?cb=20170701214353" group-title="11- HONDURAS",Azteca Honduras
 http://aztecalive-lh.akamaihd.net/i/0dcqjxkgx_1@502208/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/5-el-lider.png" group-title="HONDURAS",5 Líder
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/5-el-lider.png" group-title="11- HONDURAS",5 Líder
 https://trinity-lh.akamaihd.net/i/TelevicentroLive1_d@17977/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.ebenezer.hn/wp-content/uploads/2017/08/logoTransparente.png" group-title="HONDURAS",EbenezerTV 
+#EXTINF:-1 tvg-logo="http://www.ebenezer.hn/wp-content/uploads/2017/08/logoTransparente.png" group-title="11- HONDURAS",EbenezerTV 
 http://hds4.worldkast.com:1935/ebenezertv2/ebenezertv2_source/live.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.globotvhonduras.com/GLOBO%20TV.png" group-title="HONDURAS",Globo TV
+#EXTINF:-1 tvg-logo="http://www.globotvhonduras.com/GLOBO%20TV.png" group-title="11- HONDURAS",Globo TV
 http://tv.aliasdns.info:8979/live/g13/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.hch.tv/wp-content/uploads/2017/12/HCH-300x171.png" group-title="HONDURAS",HCH 
+#EXTINF:-1 tvg-logo="https://www.hch.tv/wp-content/uploads/2017/12/HCH-300x171.png" group-title="11- HONDURAS",HCH 
 http://stream.innovandote.com/hch/hch/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.honduras.com/wp-content/uploads/2012/05/logo-mundotv.png" group-title="HONDURAS",MundoTV
+#EXTINF:-1 tvg-logo="http://www.honduras.com/wp-content/uploads/2012/05/logo-mundotv.png" group-title="11- HONDURAS",MundoTV
 http://4.31.30.140:1935/live/mundotv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vWyTg5L.png" group-title="HONDURAS",Teleceiba
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vWyTg5L.png" group-title="11- HONDURAS",Teleceiba
 http://190.11.224.14:8134/liveevent.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tencanal10.tv/wp-content/uploads/2017/05/CovertenLOG2.png" group-title="HONDURAS",Ten
+#EXTINF:-1 tvg-logo="http://www.tencanal10.tv/wp-content/uploads/2017/05/CovertenLOG2.png" group-title="11- HONDURAS",Ten
 http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b1848000.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tencanal10.tv/wp-content/uploads/2017/05/CovertenLOG2.png" group-title="HONDURAS",Ten
+#EXTINF:-1 tvg-logo="http://www.tencanal10.tv/wp-content/uploads/2017/05/CovertenLOG2.png" group-title="11- HONDURAS",Ten
 http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tsi-honduras-logo-A80A69CD6F-seeklogo.com.png" group-title="HONDURAS",TSI
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tsi-honduras-logo-A80A69CD6F-seeklogo.com.png" group-title="11- HONDURAS",TSI
 https://trinity-lh.akamaihd.net/i/TelevicentroLive2_d@508538/master.m3u8
 
 ######################################################################################################################################
