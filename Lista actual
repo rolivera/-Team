@@ -884,6 +884,18 @@ https://nimble.dashmedia.tv/onestudio/western4u/playlist.m3u8
 http://174-36-1-94.webnow.net.br/mega.mp3
 #######################################
 
+#EXTINF:-1 tvg-logo="https://satcesc.com/web/wp-content/uploads/2017/09/Trece.jpg" group-title="27- PREMIUM ESPAÑA",13 TV
+http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="27- PREMIUM ESPAÑA",24 Horas
+http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve01_lv3_aosv4_gl0/irtve01_lv3_aosv4_gl0.isml/irtve01_lv3_aosv4_gl0-audio=128000-video=400000.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.programacion-tdt.com/imgAPP/3_24.min.png" group-title="27- PREMIUM ESPAÑA",3/24
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/chunklist_b548000.m3u8
+
+#EXTINF:-1 tvg-logo="http://diretele.com/wp-content/uploads/2018/09/alcarria-tv-en-directo.png" group-title="27- PREMIUM ESPAÑA",Alcarria TV
+http://217.182.77.27/live/alcarriatv-livestream.m3u8
+
 #EXTINF:-1 tvg-logo="http://webtv.7tvregiondemurcia.es/assets/home/images/logos/television-region-mucia.png" group-title="27- PREMIUM ESPAÑA",Canal 7 Murcia
 http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
 
@@ -893,11 +905,23 @@ http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.televalentin.com/imagenes/logos/CANAL%20SUR%20HD__d1924b3996.png" group-title="27- PREMIUM ESPAÑA",Canal Sur Cocina
 https://593fa17dec176.streamlock.net:443/cscocina/cscocina.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/TV_Canaria.jpg/150px-TV_Canaria.jpg" group-title="27- PREMIUM ESPAÑA",Canaria Sat
+http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.360plr.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Divinity.svg/1200px-Divinity.svg.png" group-title="27- PREMIUM ESPAÑA",Divinity
 http://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
 
+#EXTINF:-1 tvg-logo="http://vfes-images.ott.kaltura.com/f8a96f1f518f49bb96331612e6848330_288X162.png" group-title="27- PREMIUM ESPAÑA",Hit tv España
+http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_3.m3u8
+
 #EXTINF:-1 tvg-logo="https://periodistasbaleares.files.wordpress.com/2016/02/ib3_logo2008-1.png" group-title="27- PREMIUM ESPAÑA",IB3
 http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/IB3.m3u8
+
+#EXTINF:-1 tvg-logo="https://periodistasbaleares.files.wordpress.com/2016/02/ib3_logo2008-1.png" group-title="27- PREMIUM ESPAÑA",IB3
+http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/bitrate_2.m3u8
+
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/01/Ibiza-Global-TV.png" group-title="27- PREMIUM ESPAÑA",Ibiza Global TV
+http://server10.streaming-pro.com:1937/live/ibgtvlive/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/la-1-logo-png-6.png" group-title="27- PREMIUM ESPAÑA",La 1 SD
 http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl7/la1_lv3_aosv4_gl7/la1_lv3_aosv4_gl7.isml/la1_lv3_aosv4_gl7-audio=128000-video=1500000.m3u8
@@ -907,6 +931,12 @@ http://tv.iptv5region.com:25461/bronder/12365/9572
 
 #EXTINF:-1 tvg-logo="http://www.logospng.com/images/75/la-2-spanish-tv-channel-wikipedia-75321.png" group-title="27- PREMIUM ESPAÑA",La 2
 http://tv.iptv5region.com:25461/bronder/12365/9573
+
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/01/Lancelot-tv.png" group-title="27- PREMIUM ESPAÑA",Lancelot TV
+http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/818729431141404672/kSfmbaKL_400x400.jpg" group-title="27- PREMIUM ESPAÑA",Lebrija TV
+http://212.104.160.156:1935/live/lebrijatv2/playlist3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oJTCoH8.png" group-title="27- PREMIUM ESPAÑA",Levante TV
 http://teledifusion.tv:1935/levantetvlive/levantetvlive/master.m3u8
@@ -920,8 +950,20 @@ http://nws.nice264.com/SmilLive/getLiveIOS.smil?stream=NTV_livenatvmb&system=NTV
 #EXTINF:-1 tvg-logo="http://vertelevisor.com/imagenes/paramount-channel.png" group-title="27- PREMIUM ESPAÑA",Paramount
 http://paramount.live.flumotion.com/live/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/RtvCeuta.svg/1200px-RtvCeuta.svg.png" group-title="27- PREMIUM ESPAÑA",RTVCE
+http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Telecinco16.png" group-title="27- PREMIUM ESPAÑA",Telecinco
 https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_3.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.tvalacarta.info/canales/256x256/telemadrid.png" group-title="27- PREMIUM ESPAÑA",Telemadrid
+http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://diretele.com/wp-content/uploads/2018/09/tele-safor.png" group-title="27- PREMIUM ESPAÑA",TeleSafor
+http://video.telesafor.com/hls/video_low.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/7/-/t/7-televalencia.jpg" group-title="27- PREMIUM ESPAÑA",TeleValencia
+http://streaming.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/live.smil/.m3u8
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-aItShmuCJ8c/WZSS3WTjjHI/AAAAAAAAZYs/Q60PxExLRtM4ck16XwDtR3xMDckQ3JslgCLcBGAs/s1600/TOROS.png" group-title="27- PREMIUM ESPAÑA",Toros
 http://tv.iptv5region.com:25461/bronder/12365/9584
@@ -929,8 +971,17 @@ http://tv.iptv5region.com:25461/bronder/12365/9584
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Logo_tv3x.png" group-title="27- PREMIUM ESPAÑA",TV 3
 http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/1024px-Televisi%C3%B3n_de_Galicia_Logo.svg.png" group-title="27- PREMIUM ESPAÑA",TV Galicia
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Logo_tv3x.png" group-title="27- PREMIUM ESPAÑA",TV 3
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3cat_web/chunklist_b1296000_DVR.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/1024px-Televisi%C3%B3n_de_Galicia_Logo.svg.png" group-title="27- PREMIUM ESPAÑA",TV Galicia America
 http://america-crtvg.flumotion.com/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/1024px-Televisi%C3%B3n_de_Galicia_Logo.svg.png" group-title="27- PREMIUM ESPAÑA",TV Galicia Europa
+http://europa-crtvg.flumotion.com/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.laocho.tv/wp-content/themes/mediterra_V1.0/images/logo_TVMed_cabecera.png" group-title="27- PREMIUM ESPAÑA",TV Mediterraneo
+http://streaming.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/smil:live.smil/master.m3u8
 
 #######################################################################################################################################################################################
 #######################################
