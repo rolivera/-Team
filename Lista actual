@@ -3302,16 +3302,16 @@ http://ic.imusicaradios.com.br:8000/brasil.stream.http?url=tunein
 #######################################
 ######################################################################################################################################
 
-#EXTINF:-1 tvg-logo="http://duvaec.com/imagenes_editor/userfiles/images/EVENTOS.png" group-title="41- DEPORTES LATINO",Eventos 1
+#EXTINF:-1 tvg-logo="http://duvaec.com/imagenes_editor/userfiles/images/EVENTOS.png" group-title="41- DEPORTES LATINO",*Eventos 1
 http://194.67.208.149/hls/102.m3u8
 
-#EXTINF:-1 tvg-logo="http://duvaec.com/imagenes_editor/userfiles/images/EVENTOS.png" group-title="41- DEPORTES LATINO",Eventos 2
+#EXTINF:-1 tvg-logo="http://duvaec.com/imagenes_editor/userfiles/images/EVENTOS.png" group-title="41- DEPORTES LATINO",*Eventos 2
 http://194.67.208.149/hls/106.m3u8
 
-#EXTINF:-1 tvg-logo="http://duvaec.com/imagenes_editor/userfiles/images/EVENTOS.png" group-title="41- DEPORTES LATINO",Eventos 3
+#EXTINF:-1 tvg-logo="http://duvaec.com/imagenes_editor/userfiles/images/EVENTOS.png" group-title="41- DEPORTES LATINO",*Eventos 3
 http://194.67.208.149/hls/107.m3u8
 
-#EXTINF:-1 tvg-logo="http://duvaec.com/imagenes_editor/userfiles/images/EVENTOS.png" group-title="41- DEPORTES LATINO",Eventos 4
+#EXTINF:-1 tvg-logo="http://duvaec.com/imagenes_editor/userfiles/images/EVENTOS.png" group-title="41- DEPORTES LATINO",*Eventos 4
 http://194.67.208.149/hls/110.m3u8
 
 #EXTINF:-1  tvg-logo="http://www.megacable.com.mx/images/canales/74_aym-sports.png" group-title="41- DEPORTES LATINO",Aym Sports (1)
@@ -3521,10 +3521,10 @@ http://tv.nousiptv.com:25462/live/nelson/nelson/8248.rtmp
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/AFIZZIONADOS.png" group-title="41- DEPORTES LATINO",Izzi Afizzionados (4)
 http://51.77.246.215:25461/1782/1782/189980
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/868157568597630976/DJOeJK0t_400x400.jpg" group-title="41- DEPORTES LATINO",PX Sports (1)
+#EXTINF:-1 tvg-logo="http://pxsports.com/wp-content/uploads/2017/01/PX-Retina.png" group-title="41- DEPORTES LATINO",PX Sports (1)
 http://51.77.246.215:25461/marcel/marcel/166753
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/868157568597630976/DJOeJK0t_400x400.jpg" group-title="41- DEPORTES LATINO",PX Sports (7)
+#EXTINF:-1 tvg-logo="http://pxsports.com/wp-content/uploads/2017/01/PX-Retina.png" group-title="41- DEPORTES LATINO",PX Sports (7)
 http://51.77.246.215:25461/1782/1782/166753
 
 #EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/77/771a9af9ba8f103834ed62d87387f516.png" group-title="41- DEPORTES LATINO",Tdn (1)
@@ -3639,22 +3639,22 @@ http://tv.factoryiptv.com:80/john/john/58433
 #EXTINF:-1 tvg-logo="https://ik.imagekit.io/ulangotv/image/upload/3797768_logo_dazn_seriea_1.png" group-title="42- ESPORTES BRASIL",Dazn 1 Brasil (4)
 http://tv.factoryiptv.com:80/papa/papa/58433
 
-#EXTINF:-1 tvg-logo="https://4e0ow51f67h221f1ggcbe9m4-wpengine.netdna-ssl.com/wp-content/uploads/2016/08/ESPN-logo.png" group-title="42- ESPORTES BRASIL",Espn BR (1)
+#EXTINF:-1 tvg-logo="https://4e0ow51f67h221f1ggcbe9m4-wpengine.netdna-ssl.com/wp-content/uploads/2016/08/ESPN-logo.png" group-title="42- ESPORTES BRASIL",Espn *BR (1)
 http://tv.factoryiptv.com:80/12345678/12345678/36977
 
-#EXTINF:-1 tvg-logo="https://4e0ow51f67h221f1ggcbe9m4-wpengine.netdna-ssl.com/wp-content/uploads/2016/08/ESPN-logo.png" group-title="42- ESPORTES BRASIL",Espn BR (2)
+#EXTINF:-1 tvg-logo="https://4e0ow51f67h221f1ggcbe9m4-wpengine.netdna-ssl.com/wp-content/uploads/2016/08/ESPN-logo.png" group-title="42- ESPORTES BRASIL",Espn *BR (2)
 http://tv.factoryiptv.com:80/house/house/50740
 
-#EXTINF:-1 tvg-logo="https://4e0ow51f67h221f1ggcbe9m4-wpengine.netdna-ssl.com/wp-content/uploads/2016/08/ESPN-logo.png" group-title="42- ESPORTES BRASIL",Espn BR (3)
+#EXTINF:-1 tvg-logo="https://4e0ow51f67h221f1ggcbe9m4-wpengine.netdna-ssl.com/wp-content/uploads/2016/08/ESPN-logo.png" group-title="42- ESPORTES BRASIL",Espn *BR (3)
 http://tv.factoryiptv.com:80/john/john/50740
 
-#EXTINF:-1 tvg-logo="https://4e0ow51f67h221f1ggcbe9m4-wpengine.netdna-ssl.com/wp-content/uploads/2016/08/ESPN-logo.png" group-title="42- ESPORTES BRASIL",Espn BR (4)
+#EXTINF:-1 tvg-logo="https://4e0ow51f67h221f1ggcbe9m4-wpengine.netdna-ssl.com/wp-content/uploads/2016/08/ESPN-logo.png" group-title="42- ESPORTES BRASIL",Espn *BR (4)
 http://tv.factoryiptv.com:80/papa/papa/50740
 
-#EXTINF:-1 tvg-logo="https://4e0ow51f67h221f1ggcbe9m4-wpengine.netdna-ssl.com/wp-content/uploads/2016/08/ESPN-logo.png" group-title="42- ESPORTES BRASIL",Espn BR (5)
+#EXTINF:-1 tvg-logo="https://4e0ow51f67h221f1ggcbe9m4-wpengine.netdna-ssl.com/wp-content/uploads/2016/08/ESPN-logo.png" group-title="42- ESPORTES BRASIL",Espn *BR (5)
 http://tv.factoryiptv.com:80/12345678/12345678/50740
 
-#EXTINF:-1 tvg-logo="https://4e0ow51f67h221f1ggcbe9m4-wpengine.netdna-ssl.com/wp-content/uploads/2016/08/ESPN-logo.png" group-title="42- ESPORTES BRASIL",Espn BR (6) HD
+#EXTINF:-1 tvg-logo="https://4e0ow51f67h221f1ggcbe9m4-wpengine.netdna-ssl.com/wp-content/uploads/2016/08/ESPN-logo.png" group-title="42- ESPORTES BRASIL",Espn *BR (6) HD
 http://streamtv.com.br:80/live/dede/dede/202.rtmp
 
 #EXTINF:-1 tvg-logo="https://i.ya-webdesign.com/images/espn-2-logo-png-1.png" group-title="42- ESPORTES BRASIL",Espn 2 BR (1)
@@ -3705,22 +3705,22 @@ http://tv.factoryiptv.com:80/papa/papa/38380
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-xSGNOpDB9-A/W1mltwIpEFI/AAAAAAAAObQ/83UBcqoHHyEnWojuARjQbTGkdw4vmP3EACLcBGAs/s320/espnextra.png" group-title="42- ESPORTES BRASIL",Espn Extra BR (6) HD
 http://streamtv.com.br:80/live/dede/dede/726.rtmp
 
-#EXTINF:-1 tvg-logo="https://i.ya-webdesign.com/images/fox-sports-1-png-5.png" group-title="42- ESPORTES BRASIL",Fox Sports BR (1)
+#EXTINF:-1 tvg-logo="https://i.ya-webdesign.com/images/fox-sports-1-png-5.png" group-title="42- ESPORTES BRASIL",Fox Sports *BR (1)
 http://tv.factoryiptv.com:80/12345678/12345678/36970
 
-#EXTINF:-1 tvg-logo="https://i.ya-webdesign.com/images/fox-sports-1-png-5.png" group-title="42- ESPORTES BRASIL",Fox Sports BR (2)
+#EXTINF:-1 tvg-logo="https://i.ya-webdesign.com/images/fox-sports-1-png-5.png" group-title="42- ESPORTES BRASIL",Fox Sports *BR (2)
 http://tv.factoryiptv.com:80/house/house/50756
 
-#EXTINF:-1 tvg-logo="https://i.ya-webdesign.com/images/fox-sports-1-png-5.png" group-title="42- ESPORTES BRASIL",Fox Sports BR (3)
+#EXTINF:-1 tvg-logo="https://i.ya-webdesign.com/images/fox-sports-1-png-5.png" group-title="42- ESPORTES BRASIL",Fox Sports *BR (3)
 http://tv.factoryiptv.com:80/john/john/50756
 
-#EXTINF:-1 tvg-logo="https://i.ya-webdesign.com/images/fox-sports-1-png-5.png" group-title="42- ESPORTES BRASIL",Fox Sports BR (4)
+#EXTINF:-1 tvg-logo="https://i.ya-webdesign.com/images/fox-sports-1-png-5.png" group-title="42- ESPORTES BRASIL",Fox Sports *BR (4)
 http://tv.factoryiptv.com:80/papa/papa/50756
 
-#EXTINF:-1 tvg-logo="https://i.ya-webdesign.com/images/fox-sports-1-png-5.png" group-title="42- ESPORTES BRASIL",Fox Sports BR (5)
+#EXTINF:-1 tvg-logo="https://i.ya-webdesign.com/images/fox-sports-1-png-5.png" group-title="42- ESPORTES BRASIL",Fox Sports *BR (5)
 http://tv.factoryiptv.com:80/12345678/12345678/50756
 
-#EXTINF:-1 tvg-logo="https://i.ya-webdesign.com/images/fox-sports-1-png-5.png" group-title="42- ESPORTES BRASIL",Fox Sports BR (6) HD
+#EXTINF:-1 tvg-logo="https://i.ya-webdesign.com/images/fox-sports-1-png-5.png" group-title="42- ESPORTES BRASIL",Fox Sports *BR (6) HD
 http://streamtv.com.br:80/live/dede/dede/192.rtmp
 
 #EXTINF:-1 tvg-logo="http://midiafatos.com.br/wp-content/uploads/2017/02/fox_sports2_N.png" group-title="42- ESPORTES BRASIL",Fox Sports 2 BR (1)
@@ -3744,22 +3744,22 @@ http://streamtv.com.br:80/live/dede/dede/193.rtmp
 #EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/imgs/d/f/5/df56da6d93822fde1e2b2428701f5675_icon.png?w=256" group-title="42- ESPORTES BRASIL",Placar tv
 http://placartv.futeboltv.com:8081/live/6/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-xk-32sZB5XE/VAHkcQOOlNI/AAAAAAACH5w/pIZYQjvBVsY/s1600/PFC_LOGO_2014.png" group-title="42- ESPORTES BRASIL",Premiere Clubes BR (1)
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-xk-32sZB5XE/VAHkcQOOlNI/AAAAAAACH5w/pIZYQjvBVsY/s1600/PFC_LOGO_2014.png" group-title="42- ESPORTES BRASIL",Premiere *Clubes BR (1)
 http://tv.factoryiptv.com:80/12345678/12345678/36948
 
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-xk-32sZB5XE/VAHkcQOOlNI/AAAAAAACH5w/pIZYQjvBVsY/s1600/PFC_LOGO_2014.png" group-title="42- ESPORTES BRASIL",Premiere Clubes BR (2)
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-xk-32sZB5XE/VAHkcQOOlNI/AAAAAAACH5w/pIZYQjvBVsY/s1600/PFC_LOGO_2014.png" group-title="42- ESPORTES BRASIL",Premiere *Clubes BR (2)
 http://tv.factoryiptv.com:80/house/house/37016
 
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-xk-32sZB5XE/VAHkcQOOlNI/AAAAAAACH5w/pIZYQjvBVsY/s1600/PFC_LOGO_2014.png" group-title="42- ESPORTES BRASIL",Premiere Clubes BR (3)
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-xk-32sZB5XE/VAHkcQOOlNI/AAAAAAACH5w/pIZYQjvBVsY/s1600/PFC_LOGO_2014.png" group-title="42- ESPORTES BRASIL",Premiere *Clubes BR (3)
 http://tv.factoryiptv.com:80/john/john/37016
 
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-xk-32sZB5XE/VAHkcQOOlNI/AAAAAAACH5w/pIZYQjvBVsY/s1600/PFC_LOGO_2014.png" group-title="42- ESPORTES BRASIL",Premiere Clubes BR (4)
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-xk-32sZB5XE/VAHkcQOOlNI/AAAAAAACH5w/pIZYQjvBVsY/s1600/PFC_LOGO_2014.png" group-title="42- ESPORTES BRASIL",Premiere *Clubes BR (4)
 http://tv.factoryiptv.com:80/papa/papa/37016
 
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-xk-32sZB5XE/VAHkcQOOlNI/AAAAAAACH5w/pIZYQjvBVsY/s1600/PFC_LOGO_2014.png" group-title="42- ESPORTES BRASIL",Premiere Clubes BR (5)
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-xk-32sZB5XE/VAHkcQOOlNI/AAAAAAACH5w/pIZYQjvBVsY/s1600/PFC_LOGO_2014.png" group-title="42- ESPORTES BRASIL",Premiere *Clubes BR (5)
 http://tv.factoryiptv.com:80/12345678/12345678/37016
 
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-xk-32sZB5XE/VAHkcQOOlNI/AAAAAAACH5w/pIZYQjvBVsY/s1600/PFC_LOGO_2014.png" group-title="42- ESPORTES BRASIL",Premiere Clubes BR (6) HD
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-xk-32sZB5XE/VAHkcQOOlNI/AAAAAAACH5w/pIZYQjvBVsY/s1600/PFC_LOGO_2014.png" group-title="42- ESPORTES BRASIL",Premiere *Clubes BR (6) HD
 http://streamtv.com.br:80/live/dede/dede/143.rtmp
 
 #EXTINF:-1 tvg-logo="http://sky.vteximg.com.br/arquivos/ids/156116/premiere.png?v=636446348764830000" group-title="42- ESPORTES BRASIL",Premiere 2 BR (1)
@@ -3798,22 +3798,22 @@ http://tv.factoryiptv.com:80/12345678/12345678/36905
 #EXTINF:-1 tvg-logo="http://sky.vteximg.com.br/arquivos/ids/156116/premiere.png?v=636446348764830000" group-title="42- ESPORTES BRASIL",Premiere 7 BR (2)
 http://tv.factoryiptv.com:80/house/house/50987
 
-#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/sportv-logo-png-7.png" group-title="42- ESPORTES BRASIL",Sportv BR (1)
+#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/sportv-logo-png-7.png" group-title="42- ESPORTES BRASIL",Sportv *BR (1)
 http://tv.factoryiptv.com:80/12345678/12345678/37255
 
-#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/sportv-logo-png-7.png" group-title="42- ESPORTES BRASIL",Sportv BR (2)
+#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/sportv-logo-png-7.png" group-title="42- ESPORTES BRASIL",Sportv *BR (2)
 http://tv.factoryiptv.com:80/house/house/37256
 
-#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/sportv-logo-png-7.png" group-title="42- ESPORTES BRASIL",Sportv BR (3)
+#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/sportv-logo-png-7.png" group-title="42- ESPORTES BRASIL",Sportv *BR (3)
 http://tv.factoryiptv.com:80/john/john/37256
 
-#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/sportv-logo-png-7.png" group-title="42- ESPORTES BRASIL",Sportv BR (4)
+#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/sportv-logo-png-7.png" group-title="42- ESPORTES BRASIL",Sportv *BR (4)
 http://tv.factoryiptv.com:80/papa/papa/37256
 
-#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/sportv-logo-png-7.png" group-title="42- ESPORTES BRASIL",Sportv BR (5)
+#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/sportv-logo-png-7.png" group-title="42- ESPORTES BRASIL",Sportv *BR (5)
 http://tv.factoryiptv.com:80/12345678/12345678/37256
 
-#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/sportv-logo-png-7.png" group-title="42- ESPORTES BRASIL",Sportv BR (6) HD
+#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/sportv-logo-png-7.png" group-title="42- ESPORTES BRASIL",Sportv *BR (6) HD
 http://streamtv.com.br:80/live/dede/dede/134.rtmp
 
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/logo-sportv-png-1.png" group-title="42- ESPORTES BRASIL",Sportv 2 BR (1)
