@@ -753,14 +753,29 @@ http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/chunks.m3u8
 https://stream.vagalume.fm/hls/1470169276225492/aac.m3u8
 #######################################
 
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2019/04/canal-10-uruguay-en-vivo.png" group-title="20- URUGUAY",Canal 4 Montecarlo HD
+http://tv.nousiptv.com:25462/072233/072233/18261
+
+#EXTINF:-1 tvg-logo="http://www.tnu.com.uy/image/1024x1024.png" group-title="20- URUGUAY",Canal 5 TNU HD
+http://tv.nousiptv.com:25462/072233/072233/19351
+
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2019/04/canal-10-uruguay-en-vivo.png" group-title="20- URUGUAY",Canal 10 Saeta HD
+http://tv.nousiptv.com:25462/072233/072233/3344
+
 #EXTINF:-1 tvg-logo="https://www.canalm.tv/plantillas/temas17/canal-M-17/images/canalm@3.png" group-title="20- URUGUAY",Montevideo Portal
 http://wowza.montevideo.com.uy:1936/live/_definst_/mvdstrem/chunklist_w1488231185.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/LogoTeledoce2019Azul.png" group-title="20- URUGUAY",Teledoce HD
+http://tv.nousiptv.com:25462/072233/072233/18731
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/LogoTeledoce2019Azul.png" group-title="20- URUGUAY",Teledoce (1)
 http://51.77.246.215:25461/marcel/marcel/244033
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/LogoTeledoce2019Azul.png" group-title="20- URUGUAY",Teledoce (4)
 http://51.77.246.215:25461/1782/1782/244033
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/VTVURU.png" group-title="20- URUGUAY",VTV HD
+http://tv.nousiptv.com:25462/072233/072233/22204
 
 #####################################################################################################################################
 ####################################### VENEZUELA
