@@ -759,9 +759,6 @@ http://tv.nousiptv.com:25462/072233/072233/18261
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/canal-4-montecarlo-en-vivo.png" group-title="20- URUGUAY",Canal 04 Montecarlo HD
 http://disfruta.net:8000/1405veopag/tS8pNS5N8x/3434
 
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/canal-4-montecarlo-en-vivo.png" group-title="20- URUGUAY",Canal 04 Montecarlo WEB
-http://playback2.akamaized.net/streams/152816_4235094_lsio52uh8ck1tjkfn17_1/master.m3u8?dw=80&hdnts=exp=1560480520~acl=/streams/152816_4235094_lsio52uh8ck1tjkfn17_1/master.m3u8*~hmac=d4a2aed9876b785b4702f41568685be2e59c5ebeb476818c7f339f7afe8289b5
-
 #EXTINF:-1 tvg-logo="http://www.tnu.com.uy/image/1024x1024.png" group-title="20- URUGUAY",Canal 05 TNU HD
 http://tv.nousiptv.com:25462/072233/072233/19351
 
@@ -770,6 +767,9 @@ http://tv.nousiptv.com:25462/072233/072233/3344
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2019/04/canal-10-uruguay-en-vivo.png" group-title="20- URUGUAY",Canal 10 Saeta HD
 http://disfruta.net:8000/1405veopag/tS8pNS5N8x/3435
+
+#EXTINF:-1 tvg-logo="   " group-title="20- URUGUAY",Cardinal tv
+http://vxlive.cdn.antel.net.uy/auth_livesignal_803,vxttoken=cGF0aFVSST0lMkZhdXRoX2xpdmVzaWduYWxfODAzJTJGdnhmbXQlM0RobHMlMkYlMkEmZXhwaXJ5PTE1NjA1MDM5OTAmcmFuZG9tPVJBVGdKOGlVSEomYy1pcD0xOTAuMTM1LjE5My4xNTgsNmE1MTNkZDk1YzJjMzU1NTQzNWFjNjlhNDI3YjEwODM4MGU0MjM0NTY0OGNjNzIxYzNiYjhkOGE2NjYzMTQ2Ng==/vxfmt=hls/h_2b46d343d22136232c012c4b8b6ffa22/var3000000/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.canalm.tv/plantillas/temas17/canal-M-17/images/canalm@3.png" group-title="20- URUGUAY",Montevideo Portal
 http://wowza.montevideo.com.uy:1936/live/_definst_/mvdstrem/chunklist_w1488231185.m3u8
