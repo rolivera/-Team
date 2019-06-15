@@ -4248,6 +4248,9 @@ https://stream.vagalume.fm/hls/1478022035646498/aac.m3u8
 #######################################
 ######################################################################################################################################
 
+#EXTINF:-1 tvg-logo="https://img.vagalume.fm/1520610946872575/default" group-title="RADIOS",Músicas Virais
+https://stream.vagalume.fm/hls/14623883771774082279/aac.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s162479q.png" group-title="RADIOS",RADIO K-POP
 https://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
@@ -4292,9 +4295,6 @@ https://stream.vagalume.fm/hls/147015499779090/aac.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.pulsourbano.com.ar/wp-content/uploads/mpb_by_thebaasch.png" group-title="RADIOS",RADIO MPB
 https://stream.vagalume.fm/hls/1470154983100588/aac.m3u8
-
-#EXTINF:-1 tvg-logo="http://radiosertanejacaipira.com.br/images/radio-alo-sertao-caipira.png" group-title="RADIOS",RADIO SERTANEJO
-https://stream.vagalume.fm/hls/14619606471054026608/aac.m3u8
 
 #EXTINF:-1 tvg-logo="https://static-co.radio.net/images/broadcasts/0b/87/100413/1/c175.png" group-title="RADIOS",RADIO 80
 https://stream.vagalume.fm/hls/1507663468882713/aac.m3u8
