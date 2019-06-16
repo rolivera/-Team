@@ -3,20 +3,29 @@
 #EXTINF:-1 tvg-logo="https://avatars1.githubusercontent.com/u/45984933?s=180&v=4" group-title="TOP CINE",TOP CINE
 https://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/12-vlc_media_player-512.png" group-title="Ver en VLC",*VLC*
+#EXTINF:-1 tvg-logo="https://www.playframework.com/assets/images/logos/1d627942f0b2f115f8638936a212244a-play_icon_full_color.png" group-title="Ver en VLC",*VLC*
 http://192.99.150.31:9125/stream
 
-#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/peoplepng/wp-content/uploads/2018/12/14154802/Happy-New-Year-2019-Typography-Free-Vector-and-PNG.png" group-title="2019",*2019*
+#EXTINF:-1 tvg-logo="https://www.playframework.com/assets/images/logos/1d627942f0b2f115f8638936a212244a-play_icon_full_color.png" group-title="2019",*2019*
 http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.logospng.com/images/120/we-open-the-season-2018-for-our-volunteer-opportunities-120853.png" group-title="2018",*2018*
+#EXTINF:-1 tvg-logo="https://www.playframework.com/assets/images/logos/1d627942f0b2f115f8638936a212244a-play_icon_full_color.png" group-title="2018",*2018*
 http://antena1.newradio.it/stream?1519462006844
 
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2016/12/12/13/48/new-years-eve-1901650_960_720.png" group-title="2017",*2017*
+#EXTINF:-1 tvg-logo="https://www.playframework.com/assets/images/logos/1d627942f0b2f115f8638936a212244a-play_icon_full_color.png" group-title="2017",*2017*
 http://74.63.237.85:8598/live
 
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2015/05/27/09/57/number-786169_960_720.png" group-title="2016",*2016*
+#EXTINF:-1 tvg-logo="https://www.playframework.com/assets/images/logos/1d627942f0b2f115f8638936a212244a-play_icon_full_color.png" group-title="2016",*2016*
 https://stream.vagalume.fm/hls/1507663468882713/aac.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.playframework.com/assets/images/logos/1d627942f0b2f115f8638936a212244a-play_icon_full_color.png" group-title="Anteriores a 2015",*Anteriores a 2015*
+https://stream.vagalume.fm/hls/1507663468882713/aac.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.playframework.com/assets/images/logos/1d627942f0b2f115f8638936a212244a-play_icon_full_color.png" group-title="Filmes portugués BR",*Filmes portugués BR*
+https://stream.vagalume.fm/hls/1507663468882713/aac.m3u8
+
+
+
 
 #EXTINF:-1 tvg-logo="https://www.cartelera.com.uy/imagenes_espectaculos/moviedetail13/26144.jpg" group-title="Ver en VLC",Capitana Marvel (VLC)
 https://storage.googleapis.com/skilled-bee-239905-6.appspot.com/654987234/7d7026bad1e68d3605263635f94b6d744e256b74b6a02dadc79b03db44720446-dtdxdSzEAuX3eDHHgChc.mp4
