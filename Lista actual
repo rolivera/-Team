@@ -90,9 +90,6 @@ http://177.54.152.243:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
 #EXTINF:0 tvg-logo="http://i.imgur.com/gdWjSaC.png" group-title="04- BRASIL",Amazon Sat
 http://slrp.sambavideos.sambatech.com/liveevent/amazonsatabr1_3e9c859611a5e7fbedc785bd33c418b5/livestream3/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/band-logo-png-6.png" group-title="04- BRASIL",Band SD 
-https://5ad482a77183d.streamlock.net/suportesupersuportegmail.com/suportesupersuportegmail.com.stream/playlist.m3u8
-
 #EXTINF:0 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/band-logo-png-6.png" group-title="04- BRASIL",Band (1) HD
 http://pndxt01.dyndns.org:25461/live/fabio01/fabio01/14776.rtmp
 
@@ -183,9 +180,6 @@ http://tv.factoryiptv.com:80/harrison/harrison/50929
 #EXTINF:-1 tvg-logo="http://i.imgur.com/k4haEx6.png" group-title="04- BRASIL",Rede TV SD
 http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/k4haEx6.png" group-title="04- BRASIL",Rede TV (1) HD
-http://pndxt01.dyndns.org:25461/live/fabio01/fabio01/3753.rtmp
-
 #EXTINF:-1 tvg-logo="http://i.imgur.com/k4haEx6.png" group-title="04- BRASIL",Rede TV (2)
 http://streaminglist.live:8880/ricardo/ricardo/1756
 
@@ -240,12 +234,6 @@ http://pndxt01.dyndns.org:25461/live/fabio01/fabio01/3750.rtmp
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/84/Sistema_Brasileiro_de_Televis%C3%A3o.svg/220px-Sistema_Brasileiro_de_Televis%C3%A3o.svg.png" group-title="04- BRASIL",SBT SD
 https://5a1c76baf08c0.streamlock.net/z343-live/stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Fa8YNjoDpsI/TotxkX45UqI/AAAAAAAAAJw/92TUKz3Hb6E/s1600/logo_tvcaxias.png" group-title="04- BRASIL",TV Caxias
-http://stmv1.euroti.com.br:1935/caxiashost/caxiashost/live.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/kai6F2R.png" group-title="04- BRASIL",TV Cultura SD
-http://wz-brasil1.comets.com.br/tvaperipe/aovivo/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://webtvminas.com/wp-content/uploads/2015/05/logo1.png" group-title="04- BRASIL",Web TV Minas
 http://173.236.10.10:1935/webtvminas/webtvminas/live.m3u8
 
@@ -254,9 +242,6 @@ http://173.236.10.10:1935/webtvminas/webtvminas/live.m3u8
 #EXTINF:-1 tvg-logo="https://besthqwallpapers.com/Uploads/11-10-2017/23554/thumb2-bolivian-flag-bolivia-national-flag-national-symbols-flag-of-bolivia.jpg" group-title="05- BOLIVIA",05- BOLIVIA
 https://stream.vagalume.fm/hls/1465840912218182609/aac.m3u8
 #######################################
-
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/ATB_logo_nuevo.png" group-title="05- BOLIVIA",ATB SD
-http://stmv1.questreaming.com/atb/atb/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ad/Bolivia_TV_2016.png/revision/latest?cb=20160622170105" group-title="05- BOLIVIA",Bolivia TV
 http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
@@ -558,9 +543,6 @@ http://live.gvstream.net:1935/e-tv-video/play.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1024px-Pasiones_Tv_logo.svg.png" group-title="13- MEXICO",Pasiones
 http://tv.iptv5region.com:25461/bronder/12365/5491
 
-#EXTINF:-1 tvg-logo="http://rcgespectaculares.com.mx/images/rcg-logo-2014-288.png" group-title="13- MEXICO",RCG
-http://wowzacontrol.com:1936/stream34/stream34/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/cb973f_4cb07abd906a4ecb89a09c031a6f6f54~mv2_d_3658_1973_s_2.png/v1/fill/w_399,h_215,al_c,usm_0.66_1.00_0.01/cb973f_4cb07abd906a4ecb89a09c031a6f6f54~mv2_d_3658_1973_s_2.png" group-title="13- MEXICO",RTQ
 http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8?GrupoTopIptv
 
@@ -750,9 +732,6 @@ http://s1.electru.biz:8080/12345/12345/83288
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2019/04/canal-10-uruguay-en-vivo.png" group-title="20- URUGUAY",Canal 10 Saeta
 http://s1.electru.biz:8080/christiana/christiana/83288
 
-#EXTINF:-1 tvg-logo="https://www.canalm.tv/plantillas/temas17/canal-M-17/images/canalm@3.png" group-title="20- URUGUAY",Montevideo Portal
-http://wowza.montevideo.com.uy:1936/live/_definst_/mvdstrem/chunklist_w1488231185.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/LogoTeledoce2019Azul.png" group-title="20- URUGUAY",Teledoce
 http://51.77.246.215:25461/marcel/marcel/244033
 
@@ -884,101 +863,23 @@ http://streamtv.com.br:80/live/dede/dede/20181.rtmp
 http://ic7.101.ru:8000/a8
 #######################################
 
-#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/4/4c/American_Broadcasting_Company_logo_2013.jpg" group-title="26- PREMIUM USA",ABC West
-http://s1.electru.biz:8080/12345/12345/85561
-
 #EXTINF:-1 tvg-logo="http://www.horrorchannel.co.uk/grfx/stuff/horror-channel-logo.png" group-title="26- PREMIUM USA",American Horror
 http://170.178.189.66:1935/live/Stream1/.m3u8
-
-#EXTINF:-1 tvg-logo="https://comcastspotlight.com/sites/default/files/networks/Animal%20Planet%20Large%20Stacked.png" group-title="26- PREMIUM USA",Animal Planet
-http://s1.electru.biz:8080/12345/12345/85556
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4c/Axs-tv-button-logo-blue.png" group-title="26- PREMIUM USA",AXS tv
-http://s1.electru.biz:8080/12345/12345/84718
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Bravo_2017_logo.svg/1200px-Bravo_2017_logo.svg.png" group-title="26- PREMIUM USA",Bravo
-http://s1.electru.biz:8080/12345/12345/85548
-
-#EXTINF:-1 tvg-logo="https://orig00.deviantart.net/1354/f/2016/129/2/d/untitled_drawing_by_jared33-da1wdty.png" group-title="26- PREMIUM USA",Cartoon Network
-http://s1.electru.biz:8080/12345/12345/85538
-
-#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cine/16.png" group-title="26- PREMIUM USA",Cinemax
-http://s1.electru.biz:8080/12345/12345/85537
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/CBS_2.png" group-title="26- PREMIUM USA",CBS NY
-http://s1.electru.biz:8080/12345/12345/85544
 
 #EXTINF:-1 tvg-logo="https://sc.dish.com/shared/images/station-logos/CNBC.png" group-title="26- PREMIUM USA",CNBC
 http://s1.electru.biz:8080/12345/12345/94575
 
-#EXTINF:-1 tvg-logo="http://new.lamac.org/system/channels/logos/000/000/044/original/pic_comedycentral.png?1522177270" group-title="26- PREMIUM USA",Comedy Central
-http://s1.electru.biz:8080/12345/12345/85532
-
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51Ejn1AzFnL.png" group-title="26- PREMIUM USA",Cooking Channel
-http://s1.electru.biz:8080/12345/12345/85531
-
-#EXTINF:-1 tvg-logo="https://mrantenna.com/wp-content/uploads/2016/01/COZI_TV_logo.png" group-title="26- PREMIUM USA",Cozy tv
-http://s1.electru.biz:8080/12345/12345/85540
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Crime_and_Investigation_logo.png" group-title="26- PREMIUM USA",Crime & Investigation
-http://s1.electru.biz:8080/12345/12345/85529
-
-#EXTINF:-1 tvg-logo="https://hcil.umd.edu/wp-content/uploads/2015/12/Discovery-Channel-logo.png" group-title="26- PREMIUM USA",Discovery Channel
-http://s1.electru.biz:8080/12345/12345/85525
-
-#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Discovery_Life_logo.svg/490px-Discovery_Life_logo.svg.png" group-title="26- PREMIUM USA",Discovery Life
-http://s1.electru.biz:8080/12345/12345/85523
-
-#EXTINF:-1 tvg-logo="http://logosvector.net/wp-content/uploads/2014/07/new-disney-channel-logo.png" group-title="26- PREMIUM USA",Disney Channel
-http://s1.electru.biz:8080/12345/12345/85521
-
-#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/disney-junior-logo-01.png" group-title="26- PREMIUM USA",Disney Junior
-http://s1.electru.biz:8080/12345/12345/85520
-
-#EXTINF:-1 tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2015/10/Disney_XD_-_2015.svg_.png" group-title="26- PREMIUM USA",Disney XD
-http://s1.electru.biz:8080/12345/12345/85519
-
-#EXTINF:-1 tvg-logo="https://static-us-east-2-fastly-a.www.philo.com/images/channel_logos/DIYHD/large_white.png" group-title="26- PREMIUM USA",Diy Network
-http://s1.electru.biz:8080/12345/12345/85528
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Fng-logo-og.png" group-title="26- PREMIUM USA",Fox East
-http://s1.electru.biz:8080/12345/12345/85508
-
 #EXTINF:-1 tvg-logo="https://www.telecablecr.com/wp-content/uploads/2018/11/LOGO-FOXPREMIUM_CINEMA.png"  group-title="26- PREMIUM USA",Fox Cinema
 http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/da/5c/71/da5c71b70cfdeec04a64b8b128894926.png" group-title="26- PREMIUM USA",Hallmark Channel
-http://s1.electru.biz:8080/12345/12345/85494
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/da/5c/71/da5c71b70cfdeec04a64b8b128894926.png" group-title="26- PREMIUM USA",Hallmark Movies
-http://s1.electru.biz:8080/12345/12345/85492
-
-#EXTINF:-1 tvg-logo="https://vectors.pro/wp-content/uploads/2017/10/hbo-logo-vector.png" group-title="26- PREMIUM USA",HBO East
-http://s1.electru.biz:8080/12345/12345/85499
 
 #EXTINF:-1 tvg-logo="http://aux4.iconspalace.com/uploads/797638582344877408.png"  group-title="26- PREMIUM USA",Hbo 2
 http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
 
-#EXTINF:-1 tvg-logo="https://assets.corusent.com/wp-content/uploads/2017/06/logo_tv_lifetime_june2017-500x250.png" group-title="26- PREMIUM USA",Lifetime
-http://s1.electru.biz:8080/12345/12345/85485
-
 #EXTINF:-1 tvg-logo="https://static.radio.es/images/broadcasts/2d/18/100612/1/c300.png" group-title="26- PREMIUM USA",MSNBC
 http://s1.electru.biz:8080/12345/12345/86423
 
-#EXTINF:-1 tvg-logo="https://diylogodesigns.com/wp-content/uploads/2017/07/national-geographic-logo-vector-768x768.png" group-title="26- PREMIUM USA",Nat Geo
-http://s1.electru.biz:8080/12345/12345/85474
-
-#EXTINF:-1 tvg-logo="http://www.lettreaudiovisuel.com/wp-content/uploads/2014/12/Nat-Geo-Wild.png" group-title="26- PREMIUM USA",Nat Geo Wild
-http://s1.electru.biz:8080/12345/12345/85475
-
 #EXTINF:-1 tvg-logo="https://news12.images.worldnow.com/images/13228352_G.png" group-title="26- PREMIUM USA",News 12
 http://s1.electru.biz:8080/12345/12345/28294
-
-#EXTINF:-1 tvg-logo="http://elpoderdelasideas.com/wp-content/uploads/Oxygen_NewLogo_RGB_Black_Final.png" group-title="26- PREMIUM USA",Oxigen
-http://s1.electru.biz:8080/12345/12345/85468
-
-#EXTINF:-1 tvg-logo="https://cine3-media.s3-accelerate.amazonaws.com/2013/11/USA-Network.png" group-title="26- PREMIUM USA",USA Network
-http://s1.electru.biz:8080/12345/12345/85437
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1767870182/Western_TV_Logo_smaller.png" group-title="26- PREMIUM USA",Western TV
 https://nimble.dashmedia.tv/onestudio/western4u/playlist.m3u8
@@ -1007,23 +908,11 @@ http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
 #EXTINF:-1 tvg-logo="http://www.canalextremadura.es/sites/all/themes/canalex_2016/images/canalex/LogoHorizontal.png" group-title="27- PREMIUM ESPAÑA",Canal Extremadura
 http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.televalentin.com/imagenes/logos/CANAL%20SUR%20HD__d1924b3996.png" group-title="27- PREMIUM ESPAÑA",Canal Sur Cocina
-https://593fa17dec176.streamlock.net:443/cscocina/cscocina.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/TV_Canaria.jpg/150px-TV_Canaria.jpg" group-title="27- PREMIUM ESPAÑA",Canaria Sat
-http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.360plr.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Divinity.svg/1200px-Divinity.svg.png" group-title="27- PREMIUM ESPAÑA",Divinity
 http://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
 
 #EXTINF:-1 tvg-logo="http://vfes-images.ott.kaltura.com/f8a96f1f518f49bb96331612e6848330_288X162.png" group-title="27- PREMIUM ESPAÑA",Hit tv España
 http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_3.m3u8
-
-#EXTINF:-1 tvg-logo="https://periodistasbaleares.files.wordpress.com/2016/02/ib3_logo2008-1.png" group-title="27- PREMIUM ESPAÑA",IB3
-http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/IB3.m3u8
-
-#EXTINF:-1 tvg-logo="https://periodistasbaleares.files.wordpress.com/2016/02/ib3_logo2008-1.png" group-title="27- PREMIUM ESPAÑA",IB3
-http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/bitrate_2.m3u8
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/01/Ibiza-Global-TV.png" group-title="27- PREMIUM ESPAÑA",Ibiza Global TV
 http://server10.streaming-pro.com:1937/live/ibgtvlive/playlist.m3u8
@@ -1404,12 +1293,6 @@ http://51.77.246.215:25461/marcel/marcel/835
 #EXTINF:-1 tvg-logo="http://contenidos.cablevision.com.mx/guia_programacion/channels/634.png" group-title="28- PREMIUM LATINO",Hbo Plus (4)
 http://51.77.246.215:25461/1782/1782/835
 
-#EXTINF:-1 tvg-logo="http://contenidos.cablevision.com.mx/guia_programacion/channels/634.png" group-title="28- PREMIUM LATINO",Hbo Plus (5) HD
-http://s1.electru.biz:8080/12345/12345/64424
-
-#EXTINF:-1 tvg-logo="http://contenidos.cablevision.com.mx/guia_programacion/channels/634.png" group-title="28- PREMIUM LATINO",Hbo Plus (6) FHD
-http://s1.electru.biz:8080/christiana/christiana/64424
-
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/mx/HBOSignature.mx.png" group-title="28- PREMIUM LATINO",Hbo Signature (1)
 http://51.77.246.215:25461/marcel/marcel/493
 
@@ -1490,9 +1373,6 @@ http://51.77.246.215:25461/1782/1782/133315
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/04/9e/d4/049ed43cd66568e2061b7bb44a00a925.png" group-title="28- PREMIUM LATINO",Studio Universal (1)
 http://51.77.246.215:25461/marcel/marcel/40171
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/04/9e/d4/049ed43cd66568e2061b7bb44a00a925.png" group-title="28- PREMIUM LATINO",Studio Universal (3)
-http://tv.nousiptv.com:25462/live/nelson/nelson/3229.rtmp
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/04/9e/d4/049ed43cd66568e2061b7bb44a00a925.png" group-title="28- PREMIUM LATINO",Studio Universal (4)
 http://51.77.246.215:25461/1782/1782/40171
