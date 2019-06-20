@@ -331,9 +331,6 @@ https://stream.vagalume.fm/hls/14647977281792658143/aac.m3u8
 #######################################
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Canal_13_de_Chile_%28Isotipo_2018%29.svg/1200px-Canal_13_de_Chile_%28Isotipo_2018%29.svg.png" group-title="06- CHILE",Canal 13
-http://nettv-xcruiser.com:8000/0wUIdUoOAL/2rE9yqWd9w/55813
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Canal_13_de_Chile_%28Isotipo_2018%29.svg/1200px-Canal_13_de_Chile_%28Isotipo_2018%29.svg.png" group-title="06- CHILE",Canal 13
 http://tv.iptv5region.com:25461/bronder/12365/19
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Canal_21_Chill%C3%A1n.png" group-title="06- CHILE",Canal 21
@@ -392,6 +389,9 @@ http://edge1.cl.grupoz.cl/tser5/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://s3-media2.fl.yelpcdn.com/bphoto/CNa6BsIMxhGaJZVFoYESnA/ls.jpg" group-title="06- CHILE",Umag
 http://cl.origin.grupoz.cl:1935/tser5/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://canalvtv.cl/2017/wp-content/uploads/2017/06/vtv.png" group-title="06- CHILE",VTV
+http://nettv-xcruiser.com:8000/0wUIdUoOAL/2rE9yqWd9w/55813
 
 ######################################################################################################################################
 ####################################### COLOMBIA
@@ -719,9 +719,6 @@ http://174.138.118.252/live/canal13stream_src.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2016/06/16/04/27/peru-1460618_960_720.jpg" group-title="17- PERU",17- PERU
 https://stream.vagalume.fm/hls/1507663468882713/aac.m3u8
 #######################################
-
-#EXTINF:-1 tvg-logo="http://pluspng.com/img-png/logo-america-tv-png-america-television-canal-4-en-vivo-300.png" group-title="17- PERU",America TV
-http://nettv-xcruiser.com:8000/0wUIdUoOAL/2rE9yqWd9w/55802
 
 #EXTINF:-1 tvg-logo="http://pluspng.com/img-png/logo-america-tv-png-america-television-canal-4-en-vivo-300.png" group-title="17- PERU",America TV
 http://nettv-xcruiser.com:8000/0wUIdUoOAL/2rE9yqWd9w/55856
