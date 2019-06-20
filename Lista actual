@@ -26,14 +26,32 @@ http://coninfo.net:1935/13maxhd/live_720p/chunklist_w352743074.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Logo_13max_HD.png" group-title="03- ARGENTINA",13 Max
 http://coninfo.net:1935/13maxhd/live_720p/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/09/d5d1c-a24.png" group-title="03- ARGENTINA",A24
+http://nettv-xcruiser.com:8000/0wUIdUoOAL/2rE9yqWd9w/55857
+
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/c5n.png" group-title="03- ARGENTINA",C5N
+http://nettv-xcruiser.com:8000/0wUIdUoOAL/2rE9yqWd9w/55855
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/732661005952618496/5pxo5q9h_400x400.jpg" group-title="03- ARGENTINA",Canal 4 Jujuy
 http://190.52.32.13:1935/canal4/smil:manifest.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/--LWP2IqfJz0/WvMMjRwM5iI/AAAAAAAAhNk/FcXygo8Uk1kqkPr1HITAolJzau-Yd5pAwCK4BGAYYCw/s1600/LOGO%2BCANAL_00005.png" group-title="03- ARGENTINA",Canal 4 Posadas
+http://nettv-xcruiser.com:8000/0wUIdUoOAL/2rE9yqWd9w/55853
 
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/--LWP2IqfJz0/WvMMjRwM5iI/AAAAAAAAhNk/FcXygo8Uk1kqkPr1HITAolJzau-Yd5pAwCK4BGAYYCw/s1600/LOGO%2BCANAL_00005.png" group-title="03- ARGENTINA",Canal 4 Posadas
 http://184.154.28.210:1935/canal4/canal4/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-44kPLvDzBdw/VGNbbtj5QKI/AAAAAAAAAck/aIw5BlkPirc/s1600/Logo%2Bnuevo%2Bcanal%2B7.jpg" group-title="03- ARGENTINA",Canal 7 Jujuy
 https://5975e06a1f292.streamlock.net:4443/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/09/Canal-10-Cordoba.png" group-title="03- ARGENTINA",Canal 10 Cordoba
+http://nettv-xcruiser.com:8000/0wUIdUoOAL/2rE9yqWd9w/55850
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/609105302705860609/-p1dMW2T_400x400.png" group-title="03- ARGENTINA",Canal 12 Cordoba
+http://nettv-xcruiser.com:8000/0wUIdUoOAL/2rE9yqWd9w/55860
+
+#EXTINF:-1 tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/3.png" group-title="03- ARGENTINA",Canal 26 HD
+http://nettv-xcruiser.com:8000/0wUIdUoOAL/2rE9yqWd9w/55854
 
 #EXTINF:-1 tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/3.png" group-title="03- ARGENTINA",Canal 26
 http://live-edge01.telecentro.net.ar/live/26hd-360/playlist.m3u8
@@ -44,29 +62,53 @@ http://200.115.193.177/live/26hd-720/.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/3.png" group-title="03- ARGENTINA",Canal 26 SD
 http://flow.nibbletv.info/CH/VJcxZ7cEbJEm/Canal-26.m3u8
 
+#EXTINF:-1 tvg-logo="http://television.com.ar/wp-content/uploads/2016/05/index.png" group-title="03- ARGENTINA",Canal de la Ciudad
+http://nettv-xcruiser.com:8000/0wUIdUoOAL/2rE9yqWd9w/55858
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1017835856411971584/Q2dVZVUA_400x400.jpg" group-title="03- ARGENTINA",Canal Provincial
 http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/677195098405412864/w1GSVqNs_400x400.png" group-title="03- ARGENTINA",CN3
 http://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/E/elnueve-ls83-tv-canal-9-logo-ED93AA8C82-seeklogo.com.png" group-title="03- ARGENTINA",El Nueve
+http://nettv-xcruiser.com:8000/0wUIdUoOAL/2rE9yqWd9w/55859
+
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4d/El-Trece-HD-Logo-2011-2016.png/revision/latest?cb=20170721071837" group-title="03- ARGENTINA",El Trece Río Negro
 http://flow.nibbletv.info/CH/VJcxZ7cEbJEm/El-Trece.m3u8
+
+#EXTINF:-1 tvg-logo="https://sc.dish.com/shared/images/station-logos/glvsn.png" group-title="03- ARGENTINA",Galavision
+http://nettv-xcruiser.com:8000/0wUIdUoOAL/2rE9yqWd9w/55827
 
 #EXTINF:-1 tvg-logo="http://www.mundou.edu.ar/img/canales/a1v2ltjc.png" group-title="03- ARGENTINA",Litus
 http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8?GrupoTopIptv
 
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/09/canal-9-multivision.png" group-title="03- ARGENTINA",Multivision
+http://nettv-xcruiser.com:8000/0wUIdUoOAL/2rE9yqWd9w/55852
+
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/08/NETargentina.png/revision/latest?cb=20180702162652" group-title="03- ARGENTINA",Net TV
 http://unlimited2-us.dps.live/nettv/nettv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Telefe.png" group-title="03- ARGENTINA",Telefe HD
+http://nettv-xcruiser.com:8000/0wUIdUoOAL/2rE9yqWd9w/55847
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Telefe.png" group-title="03- ARGENTINA",Telefe SD
 http://flow.nibbletv.info/CH/VJcxZ7cEbJEm/Telefe.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/506483696065449984/BATn-jAe.png" group-title="03- ARGENTINA",Telpin
+http://nettv-xcruiser.com:8000/0wUIdUoOAL/2rE9yqWd9w/55846
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/506483696065449984/BATn-jAe.png" group-title="03- ARGENTINA",Telpin
 http://wowza.telpin.com.ar:1935/telpintv/ttv.stream_720p/playlist.m3u8?GrupoTopIptv
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Telemax.png" group-title="03- ARGENTINA",TLX
+http://nettv-xcruiser.com:8000/0wUIdUoOAL/2rE9yqWd9w/55848
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Telemax.png" group-title="03- ARGENTINA",TLX
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?GrupoTopIptv
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Logo_TV_P%C3%BAblica_Argentina.svg/2087px-Logo_TV_P%C3%BAblica_Argentina.svg.png" group-title="03- ARGENTINA",TV Pública
+http://nettv-xcruiser.com:8000/0wUIdUoOAL/2rE9yqWd9w/55861
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Logo_TV_P%C3%BAblica_Argentina.svg/2087px-Logo_TV_P%C3%BAblica_Argentina.svg.png" group-title="03- ARGENTINA",TV Pública HD
 https://chunks01.tvpublica.com.ar/video/BJQRNMF6b_720/index.m3u8
@@ -289,10 +331,16 @@ https://stream.vagalume.fm/hls/14647977281792658143/aac.m3u8
 #######################################
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Canal_13_de_Chile_%28Isotipo_2018%29.svg/1200px-Canal_13_de_Chile_%28Isotipo_2018%29.svg.png" group-title="06- CHILE",Canal 13
+http://nettv-xcruiser.com:8000/0wUIdUoOAL/2rE9yqWd9w/55813
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Canal_13_de_Chile_%28Isotipo_2018%29.svg/1200px-Canal_13_de_Chile_%28Isotipo_2018%29.svg.png" group-title="06- CHILE",Canal 13
 http://tv.iptv5region.com:25461/bronder/12365/19
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Canal_21_Chill%C3%A1n.png" group-title="06- CHILE",Canal 21
 http://edge1.cl.grupoz.cl/canal21tv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.chilevision.cl/logo-chilevision.png" group-title="06- CHILE",Chilevision
+http://nettv-xcruiser.com:8000/0wUIdUoOAL/2rE9yqWd9w/55809
 
 #EXTINF:-1 tvg-logo="http://www.chilevision.cl/logo-chilevision.png" group-title="06- CHILE",Chilevision
 http://tv.iptv5region.com:25461/bronder/12365/13
@@ -305,6 +353,9 @@ http://streaming.elpinguino.com:1935/live/pinguinotv_720p/hasbahca.m3u8?GrupoTop
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/vrXZmdv.jpg" group-title="06- CHILE",Holvoet TV
 http://unlimited5-cl.dps.live/holvoettv/holvoettv.smil/playlist.m3u8?GrupoTopIptv
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/aam.cl/wp-content/uploads/2018/08/Mega_Chile_Alternate_Logo.png?fit=200%2C200&ssl=1" group-title="06- CHILE",Mega
+http://nettv-xcruiser.com:8000/0wUIdUoOAL/2rE9yqWd9w/55810
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/aam.cl/wp-content/uploads/2018/08/Mega_Chile_Alternate_Logo.png?fit=200%2C200&ssl=1" group-title="06- CHILE",Mega
 http://tv.iptv5region.com:25461/bronder/12365/4
@@ -320,6 +371,9 @@ http://c13-ply.janus.cl/playlist/stream.m3u8?s=c13hd
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-snwIA-MbUYs/W15lFEEE7TI/AAAAAAAAkqA/75Rrun41uOMufo_zTiUBpJu4icQcjpSOwCK8BGAs/s317/2018-07-29.png" group-title="06- CHILE",TV8
 https://593b04c4c5670.streamlock.net/8134/8134/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.periodismo.uchile.cl/noticias/images/tvnlogo.jpg" group-title="06- CHILE",TVN HD
+http://nettv-xcruiser.com:8000/0wUIdUoOAL/2rE9yqWd9w/55808
 
 #EXTINF:-1 tvg-logo="http://www.periodismo.uchile.cl/noticias/images/tvnlogo.jpg" group-title="06- CHILE",TVN
 http://tv.iptv5region.com:25461/bronder/12365/14
@@ -486,6 +540,12 @@ http://livestreaming.videolina.it/live/Videolina/playlist.m3u8
 https://stream.vagalume.fm/hls/147015499779090/aac.m3u8
 #######################################
 
+#EXTINF:-1 tvg-logo="https://img2.androidappsapk.co/300/3/d/2/com.noticias.adn40.png" group-title="13- MEXICO",ADN 40
+http://nettv-xcruiser.com:8000/0wUIdUoOAL/2rE9yqWd9w/55971
+
+#EXTINF:-1 tvg-logo="https://cdmigrante.org/wp-content/uploads/2018/02/10.png" group-title="13- MEXICO",Aristegui
+http://nettv-xcruiser.com:8000/0wUIdUoOAL/2rE9yqWd9w/55970
+
 #EXTINF:-1 tvg-logo="http://consorciocablevision.uy/wp-content/uploads/senales/HD/VARIEDADES/209%20-%20azcorazon.png" group-title="13- MEXICO",AZ Corazón
 http://tv.iptv5region.com:25461/bronder/12365/9324
 
@@ -493,7 +553,16 @@ http://tv.iptv5region.com:25461/bronder/12365/9324
 http://tv.iptv5region.com:25461/bronder/12365/5495
 
 #EXTINF:-1 tvg-logo="http://www.ipsummediagroup.com/blog/wp-content/uploads/2016/12/Logo-Viejo-Azteca-7.jpg" group-title="13- MEXICO",Azteca 7
+http://nettv-xcruiser.com:8000/0wUIdUoOAL/2rE9yqWd9w/55968
+
+#EXTINF:-1 tvg-logo="http://www.ipsummediagroup.com/blog/wp-content/uploads/2016/12/Logo-Viejo-Azteca-7.jpg" group-title="13- MEXICO",Azteca 7
 http://tv.iptv5region.com:25461/bronder/12365/9327
+
+#EXTINF:-1 tvg-logo="http://www.megacable.com.mx/images/canales/894_azteca-13.png" group-title="13- MEXICO",Azteca 13
+http://nettv-xcruiser.com:8000/0wUIdUoOAL/2rE9yqWd9w/55969
+
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/Azteca-Noticias.png" group-title="13- MEXICO",Azteca Noticias
+http://nettv-xcruiser.com:8000/0wUIdUoOAL/2rE9yqWd9w/55967
 
 #EXTINF:-1 tvg-logo="https://tvpremiumhd.com/channels/live/upload/1706.png" group-title="13- MEXICO",Azteca Uno
 http://tv.iptv5region.com:25461/bronder/12365/9322
@@ -502,10 +571,16 @@ http://tv.iptv5region.com:25461/bronder/12365/9322
 https://aztecalive-lh.akamaihd.net/i/0qfv8evsp_1@458764/index_3_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Logo_LasEstrellas_Negro.svg/1280px-Logo_LasEstrellas_Negro.svg.png" group-title="13- MEXICO",Canal de las Estrellas
+http://nettv-xcruiser.com:8000/0wUIdUoOAL/2rE9yqWd9w/55964
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Logo_LasEstrellas_Negro.svg/1280px-Logo_LasEstrellas_Negro.svg.png" group-title="13- MEXICO",Canal de las Estrellas
 http://tv.iptv5region.com:25461/bronder/12365/9321
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/canal4.png" group-title="13- MEXICO",Canal 4
 http://162.241.190.126:1935/live/canal4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-M%C3%A9xico.png" group-title="13- MEXICO",Canal 5 HD
+http://nettv-xcruiser.com:8000/0wUIdUoOAL/2rE9yqWd9w/55966
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-M%C3%A9xico.png" group-title="13- MEXICO",Canal 5
 http://189.216.247.113/Content/HLS/Live/Channel(XHGC)/Stream(05)/index.m3u8
@@ -515,6 +590,9 @@ http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8?GrupoTopIptv
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/943986668670894080/a3769um2_400x400.jpg" group-title="13- MEXICO",Canal 15 Zacatecas
 http://wowza.zuperdns.net:1935/zuperhosting.live.grupob.canal20zacatecas/smil:livestream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Logo_CanalOnce.png" group-title="13- MEXICO",Canal Once
+http://nettv-xcruiser.com:8000/0wUIdUoOAL/2rE9yqWd9w/55963
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Logo_CanalOnce.png" group-title="13- MEXICO",Canal Once
 https://180ce25c70.site.internapcdn.net/ryta_live/chunklist_b481072.m3u8
@@ -579,6 +657,9 @@ http://51.77.246.215:25461/1782/1782/40553
 #EXTINF:-1 tvg-logo="https://www.tlaxcalatelevision.tv/images/logo-tlaxcala-television-2019-final.png" group-title="13- MEXICO",Tlaxcala TV
 http://coracyt.mega00.com:1935/live/coracyt/coracyt/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_unicable_m.png" group-title="13- MEXICO",Unicable
+http://nettv-xcruiser.com:8000/0wUIdUoOAL/2rE9yqWd9w/55972
+
 #EXTINF:-1 tvg-logo="https://tejanonation.files.wordpress.com/2015/06/unimas.png" group-title="13- MEXICO",Unimas
 http://51.77.246.215:25461/marcel/marcel/189152
 
@@ -639,14 +720,26 @@ http://174.138.118.252/live/canal13stream_src.m3u8
 https://stream.vagalume.fm/hls/1507663468882713/aac.m3u8
 #######################################
 
+#EXTINF:-1 tvg-logo="http://pluspng.com/img-png/logo-america-tv-png-america-television-canal-4-en-vivo-300.png" group-title="17- PERU",America TV
+http://nettv-xcruiser.com:8000/0wUIdUoOAL/2rE9yqWd9w/55802
+
+#EXTINF:-1 tvg-logo="http://pluspng.com/img-png/logo-america-tv-png-america-television-canal-4-en-vivo-300.png" group-title="17- PERU",America TV
+http://nettv-xcruiser.com:8000/0wUIdUoOAL/2rE9yqWd9w/55856
+
 #EXTINF:-1 tvg-logo="https://www.jssor.com/andre89/tv-antares.png" group-title="17- PERU",Antares
 http://173.192.105.252:1935/iptvantares/liveantarestv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/ATV_%28Peru%29_-_2018_logo.png" group-title="17- PERU",ATV
+http://nettv-xcruiser.com:8000/0wUIdUoOAL/2rE9yqWd9w/55801
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/ATV_%28Peru%29_-_2018_logo.png" group-title="17- PERU",ATV
 https://dqsz3cincv704.cloudfront.net/pe/smil:canal_atv.smil/chunklist_b1056768.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/atv.png?resize=218%2C150" group-title="17- PERU",ATV Plus
 https://dqsz3cincv704.cloudfront.net/pe/smil:atv_mas.smil/chunklist_b1056768.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/Capital_tv.png" group-title="17- PERU",Capital TV
+http://nettv-xcruiser.com:8000/0wUIdUoOAL/2rE9yqWd9w/55800
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oWya6SB.png" group-title="17- PERU",Central TV
 http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
@@ -669,6 +762,12 @@ http://d2fxrfbiedz1tm.cloudfront.net/livepaxtv/smil:PC.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.neourbe.pe/wp-content/uploads/2019/02/tv-noticias.png" group-title="17- PERU",TV Noticias 7.3
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIPE0002&mode=12
 
+#EXTINF:-1 tvg-logo="https://peru.mom-rsf.org/typo3temp/_processed_/1/b/csm_2121-205_company_import_039be0b331.png" group-title="17- PERU",Panamericana
+http://nettv-xcruiser.com:8000/0wUIdUoOAL/2rE9yqWd9w/55796
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/TVPer%C3%BA_-_Logo_2012_V1.png" group-title="17- PERU",TV Perú
+http://nettv-xcruiser.com:8000/0wUIdUoOAL/2rE9yqWd9w/55795
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/TVPer%C3%BA_-_Logo_2012_V1.png" group-title="17- PERU",TV Perú
 http://tv.iptv5region.com:25461/bronder/12365/7450
 
@@ -677,6 +776,9 @@ http://cdnh15.iblups.com/hls/R9WtilpKKB.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/TVPer%C3%BA_-_Logo_2012_V1.png" group-title="17- PERU",TV Perú SD
 http://cdnh4.iblups.com/hls/irtp.m3u8
+
+#EXTINF:-1 tvg-logo="http://ipuntotv.com/IMAGES/Peru-Magico-logo.png" group-title="17- PERU",Perú Magico
+http://nettv-xcruiser.com:8000/0wUIdUoOAL/2rE9yqWd9w/55798
 
 ######################################################################################################################################
 ####################################### PORTUGAL
