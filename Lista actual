@@ -26,32 +26,14 @@ http://coninfo.net:1935/13maxhd/live_720p/chunklist_w352743074.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Logo_13max_HD.png" group-title="03- ARGENTINA",13 Max
 http://coninfo.net:1935/13maxhd/live_720p/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/09/d5d1c-a24.png" group-title="03- ARGENTINA",A24
-http://nettv-xcruiser.com:8000/0wUIdUoOAL/2rE9yqWd9w/55857
-
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/c5n.png" group-title="03- ARGENTINA",C5N
-http://nettv-xcruiser.com:8000/0wUIdUoOAL/2rE9yqWd9w/55855
-
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/732661005952618496/5pxo5q9h_400x400.jpg" group-title="03- ARGENTINA",Canal 4 Jujuy
 http://190.52.32.13:1935/canal4/smil:manifest.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/--LWP2IqfJz0/WvMMjRwM5iI/AAAAAAAAhNk/FcXygo8Uk1kqkPr1HITAolJzau-Yd5pAwCK4BGAYYCw/s1600/LOGO%2BCANAL_00005.png" group-title="03- ARGENTINA",Canal 4 Posadas
-http://nettv-xcruiser.com:8000/0wUIdUoOAL/2rE9yqWd9w/55853
 
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/--LWP2IqfJz0/WvMMjRwM5iI/AAAAAAAAhNk/FcXygo8Uk1kqkPr1HITAolJzau-Yd5pAwCK4BGAYYCw/s1600/LOGO%2BCANAL_00005.png" group-title="03- ARGENTINA",Canal 4 Posadas
 http://184.154.28.210:1935/canal4/canal4/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-44kPLvDzBdw/VGNbbtj5QKI/AAAAAAAAAck/aIw5BlkPirc/s1600/Logo%2Bnuevo%2Bcanal%2B7.jpg" group-title="03- ARGENTINA",Canal 7 Jujuy
 https://5975e06a1f292.streamlock.net:4443/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/09/Canal-10-Cordoba.png" group-title="03- ARGENTINA",Canal 10 Cordoba
-http://nettv-xcruiser.com:8000/0wUIdUoOAL/2rE9yqWd9w/55850
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/609105302705860609/-p1dMW2T_400x400.png" group-title="03- ARGENTINA",Canal 12 Cordoba
-http://nettv-xcruiser.com:8000/0wUIdUoOAL/2rE9yqWd9w/55860
-
-#EXTINF:-1 tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/3.png" group-title="03- ARGENTINA",Canal 26 HD
-http://nettv-xcruiser.com:8000/0wUIdUoOAL/2rE9yqWd9w/55854
 
 #EXTINF:-1 tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/3.png" group-title="03- ARGENTINA",Canal 26
 http://live-edge01.telecentro.net.ar/live/26hd-360/playlist.m3u8
@@ -62,59 +44,29 @@ http://200.115.193.177/live/26hd-720/.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/3.png" group-title="03- ARGENTINA",Canal 26 SD
 http://flow.nibbletv.info/CH/VJcxZ7cEbJEm/Canal-26.m3u8
 
-#EXTINF:-1 tvg-logo="http://television.com.ar/wp-content/uploads/2016/05/index.png" group-title="03- ARGENTINA",Canal de la Ciudad
-http://nettv-xcruiser.com:8000/0wUIdUoOAL/2rE9yqWd9w/55858
-
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1017835856411971584/Q2dVZVUA_400x400.jpg" group-title="03- ARGENTINA",Canal Provincial
 http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/677195098405412864/w1GSVqNs_400x400.png" group-title="03- ARGENTINA",CN3
 http://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/E/elnueve-ls83-tv-canal-9-logo-ED93AA8C82-seeklogo.com.png" group-title="03- ARGENTINA",El Nueve
-http://nettv-xcruiser.com:8000/0wUIdUoOAL/2rE9yqWd9w/55859
-
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4d/El-Trece-HD-Logo-2011-2016.png/revision/latest?cb=20170721071837" group-title="03- ARGENTINA",El Trece Río Negro
 http://flow.nibbletv.info/CH/VJcxZ7cEbJEm/El-Trece.m3u8
-
-#EXTINF:-1 tvg-logo="https://sc.dish.com/shared/images/station-logos/glvsn.png" group-title="03- ARGENTINA",Galavision
-http://nettv-xcruiser.com:8000/0wUIdUoOAL/2rE9yqWd9w/55827
 
 #EXTINF:-1 tvg-logo="http://www.mundou.edu.ar/img/canales/a1v2ltjc.png" group-title="03- ARGENTINA",Litus
 http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8?GrupoTopIptv
 
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/09/canal-9-multivision.png" group-title="03- ARGENTINA",Multivision
-http://nettv-xcruiser.com:8000/0wUIdUoOAL/2rE9yqWd9w/55852
-
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/08/NETargentina.png/revision/latest?cb=20180702162652" group-title="03- ARGENTINA",Net TV
 http://unlimited2-us.dps.live/nettv/nettv.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Telefe.png" group-title="03- ARGENTINA",Telefe HD
-http://nettv-xcruiser.com:8000/0wUIdUoOAL/2rE9yqWd9w/55847
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Telefe.png" group-title="03- ARGENTINA",Telefe SD
 http://flow.nibbletv.info/CH/VJcxZ7cEbJEm/Telefe.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/506483696065449984/BATn-jAe.png" group-title="03- ARGENTINA",Telpin
-http://nettv-xcruiser.com:8000/0wUIdUoOAL/2rE9yqWd9w/55846
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/506483696065449984/BATn-jAe.png" group-title="03- ARGENTINA",Telpin
 http://wowza.telpin.com.ar:1935/telpintv/ttv.stream_720p/playlist.m3u8?GrupoTopIptv
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Telemax.png" group-title="03- ARGENTINA",TLX
-http://nettv-xcruiser.com:8000/0wUIdUoOAL/2rE9yqWd9w/55848
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Telemax.png" group-title="03- ARGENTINA",TLX
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?GrupoTopIptv
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Logo_TV_P%C3%BAblica_Argentina.svg/2087px-Logo_TV_P%C3%BAblica_Argentina.svg.png" group-title="03- ARGENTINA",TV Pública
-http://nettv-xcruiser.com:8000/0wUIdUoOAL/2rE9yqWd9w/55861
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Logo_TV_P%C3%BAblica_Argentina.svg/2087px-Logo_TV_P%C3%BAblica_Argentina.svg.png" group-title="03- ARGENTINA",TV Pública HD
-https://chunks01.tvpublica.com.ar/video/BJQRNMF6b_720/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Logo_TV_P%C3%BAblica_Argentina.svg/2087px-Logo_TV_P%C3%BAblica_Argentina.svg.png" group-title="03- ARGENTINA",TV Pública
-https://chunks01.tvpublica.com.ar/video/BJQRNMF6b_480/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Logo_TV_P%C3%BAblica_Argentina.svg/2087px-Logo_TV_P%C3%BAblica_Argentina.svg.png" group-title="03- ARGENTINA",TV Pública SD
 http://flow.nibbletv.info/CH/VJcxZ7cEbJEm/TV-Publica.m3u8
@@ -337,9 +289,6 @@ http://tv.iptv5region.com:25461/bronder/12365/19
 http://edge1.cl.grupoz.cl/canal21tv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.chilevision.cl/logo-chilevision.png" group-title="06- CHILE",Chilevision
-http://nettv-xcruiser.com:8000/0wUIdUoOAL/2rE9yqWd9w/55809
-
-#EXTINF:-1 tvg-logo="http://www.chilevision.cl/logo-chilevision.png" group-title="06- CHILE",Chilevision
 http://tv.iptv5region.com:25461/bronder/12365/13
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/VhOolgs.png" group-title="06- CHILE",El Pingüino
@@ -350,9 +299,6 @@ http://streaming.elpinguino.com:1935/live/pinguinotv_720p/hasbahca.m3u8?GrupoTop
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/vrXZmdv.jpg" group-title="06- CHILE",Holvoet TV
 http://unlimited5-cl.dps.live/holvoettv/holvoettv.smil/playlist.m3u8?GrupoTopIptv
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/aam.cl/wp-content/uploads/2018/08/Mega_Chile_Alternate_Logo.png?fit=200%2C200&ssl=1" group-title="06- CHILE",Mega
-http://nettv-xcruiser.com:8000/0wUIdUoOAL/2rE9yqWd9w/55810
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/aam.cl/wp-content/uploads/2018/08/Mega_Chile_Alternate_Logo.png?fit=200%2C200&ssl=1" group-title="06- CHILE",Mega
 http://tv.iptv5region.com:25461/bronder/12365/4
@@ -368,9 +314,6 @@ http://c13-ply.janus.cl/playlist/stream.m3u8?s=c13hd
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-snwIA-MbUYs/W15lFEEE7TI/AAAAAAAAkqA/75Rrun41uOMufo_zTiUBpJu4icQcjpSOwCK8BGAs/s317/2018-07-29.png" group-title="06- CHILE",TV8
 https://593b04c4c5670.streamlock.net/8134/8134/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.periodismo.uchile.cl/noticias/images/tvnlogo.jpg" group-title="06- CHILE",TVN HD
-http://nettv-xcruiser.com:8000/0wUIdUoOAL/2rE9yqWd9w/55808
 
 #EXTINF:-1 tvg-logo="http://www.periodismo.uchile.cl/noticias/images/tvnlogo.jpg" group-title="06- CHILE",TVN
 http://tv.iptv5region.com:25461/bronder/12365/14
@@ -390,47 +333,23 @@ http://edge1.cl.grupoz.cl/tser5/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3-media2.fl.yelpcdn.com/bphoto/CNa6BsIMxhGaJZVFoYESnA/ls.jpg" group-title="06- CHILE",Umag
 http://cl.origin.grupoz.cl:1935/tser5/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://canalvtv.cl/2017/wp-content/uploads/2017/06/vtv.png" group-title="06- CHILE",VTV
-http://nettv-xcruiser.com:8000/0wUIdUoOAL/2rE9yqWd9w/55813
-
 ######################################################################################################################################
 ####################################### COLOMBIA
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2016/06/16/01/23/colombia-1460312_960_720.jpg" group-title="07- COLOMBIA",07- COLOMBIA
 https://stream.vagalume.fm/hls/147015501223418/aac.m3u8
 #######################################
 
-#EXTINF:-1 tvg-logo="https://colombia.mom-rsf.org/typo3temp/_processed_/4/c/csm_515-941_import_1f4f07e98e.png" group-title="07- COLOMBIA",CableNoticias
-http://nettv-xcruiser.com:8000/live/0wUIdUoOAL/2rE9yqWd9w/55782.rtmp
-
-#EXTINF:-1 tvg-logo="https://www.ecured.cu/images/thumb/5/53/CaracolTV2017.png/260px-CaracolTV2017.png" group-title="07- COLOMBIA",Caracol HD
-http://nettv-xcruiser.com:8000/live/0wUIdUoOAL/2rE9yqWd9w/55786.rtmp
-
-#EXTINF:-1 tvg-logo="https://www.ecured.cu/images/thumb/5/53/CaracolTV2017.png/260px-CaracolTV2017.png" group-title="07- COLOMBIA",Caracol
-http://nettv-xcruiser.com:8000/live/0wUIdUoOAL/2rE9yqWd9w/55785.rtmp
-
 #EXTINF:-1 tvg-logo="https://www.ecured.cu/images/thumb/5/53/CaracolTV2017.png/260px-CaracolTV2017.png" group-title="07- COLOMBIA",Caracol
 http://tv.iptv5region.com:25461/bronder/12365/497
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/0a25f3c8-0d46-465d-8705-fee139872f8b_m.jpg" group-title="07- COLOMBIA",City tv
-http://nettv-xcruiser.com:8000/live/0wUIdUoOAL/2rE9yqWd9w/55781.rtmp
-
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/386408609/cnc2_400x400.png" group-title="07- COLOMBIA",CNC 
 http://66.240.236.25:1936/canalcnc/canalcnc/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/NTN24_Logo.png" group-title="07- COLOMBIA",NTN24
-http://nettv-xcruiser.com:8000/live/0wUIdUoOAL/2rE9yqWd9w/55780.rtmp
 
 #EXTINF:-1 tvg-logo="http://www.ranchenatotv.co/wp-content/uploads/2018/10/500PX.png" group-title="07- COLOMBIA",Ranchenato
 http://66.240.236.25:1936/ranchenato/ranchenato/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Red%2B_2018_logo.png/200px-Red%2B_2018_logo.png" group-title="07- COLOMBIA",Red Mas
 http://infored.lcdn.claro.net.co/Content/hls_clear/live/Channel(REDTVHD)/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.uniminutoradio.com.co/wp-content/uploads/2018/01/RCN-Television.png" group-title="07- COLOMBIA",RCN
-http://nettv-xcruiser.com:8000/live/0wUIdUoOAL/2rE9yqWd9w/55784.rtmp
-
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/Teleantioquia.png" group-title="07- COLOMBIA",Teleantioquia
-http://nettv-xcruiser.com:8000/live/0wUIdUoOAL/2rE9yqWd9w/55778.rtmp
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/telecaribe.png" group-title="07- COLOMBIA",Telecaribe
 http://telecaribe-hd.gcdn.anvato.net/hls/live/telecaribehd/2196k/index.m3u8
@@ -525,12 +444,6 @@ http://4.31.30.140:1935/live/mundotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vWyTg5L.png" group-title="11- HONDURAS",Teleceiba
 http://190.11.224.14:8134/liveevent.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tencanal10.tv/wp-content/uploads/2017/05/CovertenLOG2.png" group-title="11- HONDURAS",Ten
-http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b1848000.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.tencanal10.tv/wp-content/uploads/2017/05/CovertenLOG2.png" group-title="11- HONDURAS",Ten
-http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tsi-honduras-logo-A80A69CD6F-seeklogo.com.png" group-title="11- HONDURAS",TSI
 https://trinity-lh.akamaihd.net/i/TelevicentroLive2_d@508538/master.m3u8
 
@@ -561,12 +474,6 @@ http://livestreaming.videolina.it/live/Videolina/playlist.m3u8
 https://stream.vagalume.fm/hls/147015499779090/aac.m3u8
 #######################################
 
-#EXTINF:-1 tvg-logo="https://img2.androidappsapk.co/300/3/d/2/com.noticias.adn40.png" group-title="13- MEXICO",ADN 40
-http://nettv-xcruiser.com:8000/0wUIdUoOAL/2rE9yqWd9w/55971
-
-#EXTINF:-1 tvg-logo="https://cdmigrante.org/wp-content/uploads/2018/02/10.png" group-title="13- MEXICO",Aristegui
-http://nettv-xcruiser.com:8000/0wUIdUoOAL/2rE9yqWd9w/55970
-
 #EXTINF:-1 tvg-logo="http://consorciocablevision.uy/wp-content/uploads/senales/HD/VARIEDADES/209%20-%20azcorazon.png" group-title="13- MEXICO",AZ Corazón
 http://tv.iptv5region.com:25461/bronder/12365/9324
 
@@ -574,16 +481,7 @@ http://tv.iptv5region.com:25461/bronder/12365/9324
 http://tv.iptv5region.com:25461/bronder/12365/5495
 
 #EXTINF:-1 tvg-logo="http://www.ipsummediagroup.com/blog/wp-content/uploads/2016/12/Logo-Viejo-Azteca-7.jpg" group-title="13- MEXICO",Azteca 7
-http://nettv-xcruiser.com:8000/0wUIdUoOAL/2rE9yqWd9w/55968
-
-#EXTINF:-1 tvg-logo="http://www.ipsummediagroup.com/blog/wp-content/uploads/2016/12/Logo-Viejo-Azteca-7.jpg" group-title="13- MEXICO",Azteca 7
 http://tv.iptv5region.com:25461/bronder/12365/9327
-
-#EXTINF:-1 tvg-logo="http://www.megacable.com.mx/images/canales/894_azteca-13.png" group-title="13- MEXICO",Azteca 13
-http://nettv-xcruiser.com:8000/0wUIdUoOAL/2rE9yqWd9w/55969
-
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/Azteca-Noticias.png" group-title="13- MEXICO",Azteca Noticias
-http://nettv-xcruiser.com:8000/0wUIdUoOAL/2rE9yqWd9w/55967
 
 #EXTINF:-1 tvg-logo="https://tvpremiumhd.com/channels/live/upload/1706.png" group-title="13- MEXICO",Azteca Uno
 http://tv.iptv5region.com:25461/bronder/12365/9322
@@ -592,16 +490,10 @@ http://tv.iptv5region.com:25461/bronder/12365/9322
 https://aztecalive-lh.akamaihd.net/i/0qfv8evsp_1@458764/index_3_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Logo_LasEstrellas_Negro.svg/1280px-Logo_LasEstrellas_Negro.svg.png" group-title="13- MEXICO",Canal de las Estrellas
-http://nettv-xcruiser.com:8000/0wUIdUoOAL/2rE9yqWd9w/55964
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Logo_LasEstrellas_Negro.svg/1280px-Logo_LasEstrellas_Negro.svg.png" group-title="13- MEXICO",Canal de las Estrellas
 http://tv.iptv5region.com:25461/bronder/12365/9321
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/canal4.png" group-title="13- MEXICO",Canal 4
 http://162.241.190.126:1935/live/canal4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-M%C3%A9xico.png" group-title="13- MEXICO",Canal 5 HD
-http://nettv-xcruiser.com:8000/0wUIdUoOAL/2rE9yqWd9w/55966
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-M%C3%A9xico.png" group-title="13- MEXICO",Canal 5
 http://189.216.247.113/Content/HLS/Live/Channel(XHGC)/Stream(05)/index.m3u8
@@ -613,16 +505,10 @@ http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8?GrupoTopIptv
 http://wowza.zuperdns.net:1935/zuperhosting.live.grupob.canal20zacatecas/smil:livestream.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Logo_CanalOnce.png" group-title="13- MEXICO",Canal Once
-http://nettv-xcruiser.com:8000/0wUIdUoOAL/2rE9yqWd9w/55963
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Logo_CanalOnce.png" group-title="13- MEXICO",Canal Once
 https://180ce25c70.site.internapcdn.net/ryta_live/chunklist_b481072.m3u8
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/Capital21.png" group-title="13- MEXICO",Capital 21
 http://23.227.189.81/ciudadtv/abr_ciudadtv/playlist.m3u8?GrupoTopIptv
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1057408851253714946/GSxqNEQv_400x400.jpg" group-title="13- MEXICO",Foro tv
-http://nettv-xcruiser.com:8000/live/0wUIdUoOAL/2rE9yqWd9w/55960.rtmp
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/776461277820354560/qlnkXHo8_400x400.jpg" group-title="13- MEXICO",Galavisión
 http://51.77.246.215:25461/marcel/marcel/41236
@@ -630,14 +516,8 @@ http://51.77.246.215:25461/marcel/marcel/41236
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/776461277820354560/qlnkXHo8_400x400.jpg" group-title="13- MEXICO",Galavisión
 http://51.77.246.215:25461/1782/1782/41236
 
-#EXTINF:-1 tvg-logo="http://radioytvmexiquense.mx/harem1/information/contenido/imagenes/155c873f-0fb8-40bb-be1c-052c72d15836.png" group-title="13- MEXICO",Mexiquense
-http://nettv-xcruiser.com:8000/live/0wUIdUoOAL/2rE9yqWd9w/55958.rtmp
-
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/11/milenio-TV.png" group-title="13- MEXICO",Milenio
 http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DHOocZiU0AE30ro.png" group-title="13- MEXICO",Multimedios HD
-http://nettv-xcruiser.com:8000/0wUIdUoOAL/2rE9yqWd9w/55878
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DHOocZiU0AE30ro.png" group-title="13- MEXICO",Multimedios
 http://mdstrm.com/live-stream-playlist_400/57b4dbf5dbbfc8f16bb63ce1.m3u8
@@ -659,9 +539,6 @@ http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8?GrupoTopIptv
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/telemar.png" group-title="13- MEXICO",Telemar
 http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u
-
-#EXTINF:-1 tvg-logo="https://www.telemundo.com/sites/nbcutelemundo/themes/aurora_tlmd/images/telemundo_logo.png" group-title="13- MEXICO",Telemundo HD
-http://nettv-xcruiser.com:8000/live/0wUIdUoOAL/2rE9yqWd9w/55953.rtmp
 
 #EXTINF:-1 tvg-logo="https://www.telemundo.com/sites/nbcutelemundo/themes/aurora_tlmd/images/telemundo_logo.png" group-title="13- MEXICO",Telemundo
 http://tv.iptv5region.com:25461/bronder/12365/3160
@@ -687,29 +564,8 @@ http://51.77.246.215:25461/marcel/marcel/40553
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/856417812478173184/fQpirsOG.jpg" group-title="13- MEXICO",Telemundo 52
 http://51.77.246.215:25461/1782/1782/40553
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/856417812478173184/fQpirsOG.jpg" group-title="13- MEXICO",Telemundo Arizona HD
-http://nettv-xcruiser.com:8000/live/0wUIdUoOAL/2rE9yqWd9w/55951.rtmp
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/856417812478173184/fQpirsOG.jpg" group-title="13- MEXICO",Telemundo Boston HD
-http://nettv-xcruiser.com:8000/live/0wUIdUoOAL/2rE9yqWd9w/55950.rtmp
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/856417812478173184/fQpirsOG.jpg" group-title="13- MEXICO",Telemundo Chicago HD
-http://nettv-xcruiser.com:8000/live/0wUIdUoOAL/2rE9yqWd9w/55949.rtmp
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/856417812478173184/fQpirsOG.jpg" group-title="13- MEXICO",Telemundo Dallas HD
-http://nettv-xcruiser.com:8000/live/0wUIdUoOAL/2rE9yqWd9w/55948.rtmp
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/856417812478173184/fQpirsOG.jpg" group-title="13- MEXICO",Telemundo Fresno HD
-http://nettv-xcruiser.com:8000/live/0wUIdUoOAL/2rE9yqWd9w/55947.rtmp
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/856417812478173184/fQpirsOG.jpg" group-title="13- MEXICO",Telemundo Texas HD
-http://nettv-xcruiser.com:8000/live/0wUIdUoOAL/2rE9yqWd9w/55952.rtmp
-
 #EXTINF:-1 tvg-logo="https://www.tlaxcalatelevision.tv/images/logo-tlaxcala-television-2019-final.png" group-title="13- MEXICO",Tlaxcala TV
 http://coracyt.mega00.com:1935/live/coracyt/coracyt/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_unicable_m.png" group-title="13- MEXICO",Unicable
-http://nettv-xcruiser.com:8000/0wUIdUoOAL/2rE9yqWd9w/55972
 
 #EXTINF:-1 tvg-logo="https://tejanonation.files.wordpress.com/2015/06/unimas.png" group-title="13- MEXICO",Unimas
 http://51.77.246.215:25461/marcel/marcel/189152
@@ -771,23 +627,14 @@ http://174.138.118.252/live/canal13stream_src.m3u8
 https://stream.vagalume.fm/hls/1507663468882713/aac.m3u8
 #######################################
 
-#EXTINF:-1 tvg-logo="http://pluspng.com/img-png/logo-america-tv-png-america-television-canal-4-en-vivo-300.png" group-title="17- PERU",America TV
-http://nettv-xcruiser.com:8000/0wUIdUoOAL/2rE9yqWd9w/55856
-
 #EXTINF:-1 tvg-logo="https://www.jssor.com/andre89/tv-antares.png" group-title="17- PERU",Antares
 http://173.192.105.252:1935/iptvantares/liveantarestv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/ATV_%28Peru%29_-_2018_logo.png" group-title="17- PERU",ATV
-http://nettv-xcruiser.com:8000/0wUIdUoOAL/2rE9yqWd9w/55801
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/ATV_%28Peru%29_-_2018_logo.png" group-title="17- PERU",ATV
 https://dqsz3cincv704.cloudfront.net/pe/smil:canal_atv.smil/chunklist_b1056768.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/atv.png?resize=218%2C150" group-title="17- PERU",ATV Plus
 https://dqsz3cincv704.cloudfront.net/pe/smil:atv_mas.smil/chunklist_b1056768.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/Capital_tv.png" group-title="17- PERU",Capital TV
-http://nettv-xcruiser.com:8000/0wUIdUoOAL/2rE9yqWd9w/55800
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oWya6SB.png" group-title="17- PERU",Central TV
 http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
@@ -810,12 +657,6 @@ http://d2fxrfbiedz1tm.cloudfront.net/livepaxtv/smil:PC.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.neourbe.pe/wp-content/uploads/2019/02/tv-noticias.png" group-title="17- PERU",TV Noticias 7.3
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIPE0002&mode=12
 
-#EXTINF:-1 tvg-logo="https://peru.mom-rsf.org/typo3temp/_processed_/1/b/csm_2121-205_company_import_039be0b331.png" group-title="17- PERU",Panamericana
-http://nettv-xcruiser.com:8000/0wUIdUoOAL/2rE9yqWd9w/55796
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/TVPer%C3%BA_-_Logo_2012_V1.png" group-title="17- PERU",TV Perú
-http://nettv-xcruiser.com:8000/0wUIdUoOAL/2rE9yqWd9w/55795
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/TVPer%C3%BA_-_Logo_2012_V1.png" group-title="17- PERU",TV Perú
 http://tv.iptv5region.com:25461/bronder/12365/7450
 
@@ -824,9 +665,6 @@ http://cdnh15.iblups.com/hls/R9WtilpKKB.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/TVPer%C3%BA_-_Logo_2012_V1.png" group-title="17- PERU",TV Perú SD
 http://cdnh4.iblups.com/hls/irtp.m3u8
-
-#EXTINF:-1 tvg-logo="http://ipuntotv.com/IMAGES/Peru-Magico-logo.png" group-title="17- PERU",Perú Magico
-http://nettv-xcruiser.com:8000/0wUIdUoOAL/2rE9yqWd9w/55798
 
 ######################################################################################################################################
 ####################################### PORTUGAL
@@ -842,9 +680,6 @@ https://stream.vagalume.fm/hls/147396460892793/aac.m3u8
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/antena7.png" group-title="19- R.DOMINICANA",Antena 7
 http://d3e6ki1290i3kk.cloudfront.net/do/antena_latina.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://lunatv.do/stream/imagen/logo-stream.png" group-title="19- R.DOMINICANA",Luna TV
-http://ss1.domint.net:2140/luna_str/lunatv/chunklist_w321264520.m3u8
 
 #EXTINF:-1 tvg-logo="http://microvision.com.do/wp-content/uploads/Microvision_567-150.png" group-title="19- R.DOMINICANA",MicroVision
 http://190.103.183.24:1935/live/MicroHD/chunklist_w1105794626.m3u8
@@ -874,34 +709,13 @@ https://stream.vagalume.fm/hls/1470169276225492/aac.m3u8
 #######################################
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/canal-4-montecarlo-en-vivo.png" group-title="20- URUGUAY",Canal 04 Montecarlo
-http://s1.electru.biz:8080/12345/12345/61726
-
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/canal-4-montecarlo-en-vivo.png" group-title="20- URUGUAY",Canal 04 Montecarlo
 http://s1.electru.biz:8080/christiana/christiana/61726
-
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2019/04/canal-10-uruguay-en-vivo.png" group-title="20- URUGUAY",Canal 10 Saeta
-http://s1.electru.biz:8080/12345/12345/83288
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2019/04/canal-10-uruguay-en-vivo.png" group-title="20- URUGUAY",Canal 10 Saeta
 http://s1.electru.biz:8080/christiana/christiana/83288
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/LogoTeledoce2019Azul.png" group-title="20- URUGUAY",Teledoce
-http://51.77.246.215:25461/marcel/marcel/244033
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/LogoTeledoce2019Azul.png" group-title="20- URUGUAY",Teledoce
-http://51.77.246.215:25461/1782/1782/244033
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/VTVURU.png" group-title="20- URUGUAY",VTV
-http://s1.electru.biz:8080/12345/12345/32500
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/VTVURU.png" group-title="20- URUGUAY",VTV
 http://s1.electru.biz:8080/christiana/christiana/32500
-
-#EXTINF:-1 tvg-logo="http://www.consorciocablevision.uy/wp-content/uploads/senales/HD/NACIONALES/5%20VTV+.jpg" group-title="20- URUGUAY",VTV +
-http://s1.electru.biz:8080/12345/12345/62450
-
-#EXTINF:-1 tvg-logo="http://www.consorciocablevision.uy/wp-content/uploads/senales/HD/NACIONALES/5%20VTV+.jpg" group-title="20- URUGUAY",VTV +
-http://s1.electru.biz:8080/christiana/christiana/62450
 
 #####################################################################################################################################
 ####################################### VENEZUELA
@@ -1019,20 +833,11 @@ http://ic7.101.ru:8000/a8
 #EXTINF:-1 tvg-logo="http://www.horrorchannel.co.uk/grfx/stuff/horror-channel-logo.png" group-title="26- PREMIUM USA",American Horror
 http://170.178.189.66:1935/live/Stream1/.m3u8
 
-#EXTINF:-1 tvg-logo="https://sc.dish.com/shared/images/station-logos/CNBC.png" group-title="26- PREMIUM USA",CNBC
-http://s1.electru.biz:8080/12345/12345/94575
-
 #EXTINF:-1 tvg-logo="https://www.telecablecr.com/wp-content/uploads/2018/11/LOGO-FOXPREMIUM_CINEMA.png"  group-title="26- PREMIUM USA",Fox Cinema
 http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
 
 #EXTINF:-1 tvg-logo="http://aux4.iconspalace.com/uploads/797638582344877408.png"  group-title="26- PREMIUM USA",Hbo 2
 http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.radio.es/images/broadcasts/2d/18/100612/1/c300.png" group-title="26- PREMIUM USA",MSNBC
-http://s1.electru.biz:8080/12345/12345/86423
-
-#EXTINF:-1 tvg-logo="https://news12.images.worldnow.com/images/13228352_G.png" group-title="26- PREMIUM USA",News 12
-http://s1.electru.biz:8080/12345/12345/28294
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1767870182/Western_TV_Logo_smaller.png" group-title="26- PREMIUM USA",Western TV
 https://nimble.dashmedia.tv/onestudio/western4u/playlist.m3u8
@@ -1143,9 +948,6 @@ http://tv.iptv5region.com:25461/bronder/12365/5476
 #EXTINF:-1 tvg-logo="https://www.directv.com/images/logos/channels/dark/large/313.png" group-title="28- PREMIUM LATINO",Amc (4)
 http://51.77.246.215:25461/1782/1782/41135
 
-#EXTINF:-1 tvg-logo="https://www.directv.com/images/logos/channels/dark/large/313.png" group-title="28- PREMIUM LATINO",Amc (5) HD
-http://nettv-xcruiser.com:8000/live/0wUIdUoOAL/2rE9yqWd9w/55841.rtmp
-
 #EXTINF:-1 tvg-logo="https://www.directv.com/images/logos/channels/dark/large/313.png" group-title="28- PREMIUM LATINO",Amc (6) FHD
 http://s1.electru.biz:8080/christiana/christiana/64450
 
@@ -1157,9 +959,6 @@ http://tv.iptv5region.com:25461/bronder/12365/5501
 
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/axn.png" group-title="28- PREMIUM LATINO",Axn (4)
 http://51.77.246.215:25461/1782/1782/41229
-
-#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/axn.png" group-title="28- PREMIUM LATINO",Axn (5) HD
-http://nettv-xcruiser.com:8000/live/0wUIdUoOAL/2rE9yqWd9w/55916.rtmp
 
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/axn.png" group-title="28- PREMIUM LATINO",Axn (6) FHD
 http://s1.electru.biz:8080/christiana/christiana/64449
@@ -1218,9 +1017,6 @@ http://tv.iptv5region.com:25461/bronder/12365/5475
 #EXTINF:-1 tvg-logo="http://new.lamac.org/system/channels/logos/000/000/044/original/pic_comedycentral.png?1522177270" group-title="28- PREMIUM LATINO",Comedy Central (4)
 http://51.77.246.215:25461/1782/1782/41137
 
-#EXTINF:-1 tvg-logo="http://new.lamac.org/system/channels/logos/000/000/044/original/pic_comedycentral.png?1522177270" group-title="28- PREMIUM LATINO",Comedy Central (5)
-http://nettv-xcruiser.com:8000/live/0wUIdUoOAL/2rE9yqWd9w/55839.rtmp
-
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/de_pelicula_hd-mediano.png" group-title="28- PREMIUM LATINO",De Película (1)
 http://51.77.246.215:25461/marcel/marcel/43506
 
@@ -1245,17 +1041,11 @@ http://flow.nibbletv.info/CH/VJcxZ7cEbJEm/FOX.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Al6Y2.png" group-title="28- PREMIUM LATINO",Fox (2)
 http://tv.iptv5region.com:25461/bronder/12365/5485
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Al6Y2.png" group-title="28- PREMIUM LATINO",Fox (5) HD
-http://nettv-xcruiser.com:8000/live/0wUIdUoOAL/2rE9yqWd9w/55874.rtmp
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Al6Y2.png" group-title="28- PREMIUM LATINO",Fox (6) FHD
 http://s1.electru.biz:8080/christiana/christiana/64441
 
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_ACTION.png" group-title="28- PREMIUM LATINO",Fox Action (2)
 http://tv.iptv5region.com:25461/bronder/12365/5465
-
-#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_ACTION.png" group-title="28- PREMIUM LATINO",Fox Action (5) HD
-http://nettv-xcruiser.com:8000/live/0wUIdUoOAL/2rE9yqWd9w/55873.rtmp
 
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_ACTION.png" group-title="28- PREMIUM LATINO",Fox Action (6) FHD
 http://s1.electru.biz:8080/christiana/christiana/64440
@@ -1314,9 +1104,6 @@ http://tv.iptv5region.com:25461/bronder/12365/5542
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_MOVIES.png" group-title="28- PREMIUM LATINO",Fox Movies (4)
 http://51.77.246.215:25461/1782/1782/42110
 
-#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_MOVIES.png" group-title="28- PREMIUM LATINO",Fox Movies (5) HD
-http://nettv-xcruiser.com:8000/live/0wUIdUoOAL/2rE9yqWd9w/55872.rtmp
-
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_MOVIES.png" group-title="28- PREMIUM LATINO",Fox Movies (6) FHD
 http://s1.electru.biz:8080/christiana/christiana/64435
 
@@ -1326,9 +1113,6 @@ http://51.77.246.215:25461/marcel/marcel/54520
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_SERIES.png" group-title="28- PREMIUM LATINO",Fox Series (4)
 http://51.77.246.215:25461/1782/1782/54520
 
-#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_SERIES.png" group-title="28- PREMIUM LATINO",Fox Series (5) HD
-http://nettv-xcruiser.com:8000/live/0wUIdUoOAL/2rE9yqWd9w/55871.rtmp
-
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_SERIES.png" group-title="28- PREMIUM LATINO",Fox Series (6) FHD
 http://s1.electru.biz:8080/christiana/christiana/64434
 
@@ -1337,9 +1121,6 @@ http://51.77.246.215:25461/marcel/marcel/41153
 
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-JBwoh8YDdKY/TyztsSnAnTI/AAAAAAAAAMc/UHfWADlmytY/s1600/fx_hd.png" group-title="28- PREMIUM LATINO",Fx (4)
 http://51.77.246.215:25461/1782/1782/41153
-
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-JBwoh8YDdKY/TyztsSnAnTI/AAAAAAAAAMc/UHfWADlmytY/s1600/fx_hd.png" group-title="28- PREMIUM LATINO",Fx (5)
-http://nettv-xcruiser.com:8000/live/0wUIdUoOAL/2rE9yqWd9w/55875.rtmp
 
 #EXTINF:-1 tvg-logo="http://cdd657a867bca3d5084e-b68367b7dbe633942cc09bdd6fb9eaea.r58.cf2.rackcdn.com/fxmoviechannel.png" group-title="28- PREMIUM LATINO",Fxm (1)
 http://51.77.246.215:25461/marcel/marcel/39002
@@ -1352,9 +1133,6 @@ http://51.77.246.215:25461/marcel/marcel/1657
 
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-JnaRqfsfRf0/VVJ222hRX7I/AAAAAAAAAbw/svcXPJkGr5E/s1600/golden.png" group-title="28- PREMIUM LATINO",Golden (4)
 http://51.77.246.215:25461/1782/1782/1657
-
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-JnaRqfsfRf0/VVJ222hRX7I/AAAAAAAAAbw/svcXPJkGr5E/s1600/golden.png" group-title="28- PREMIUM LATINO",Golden (5)
-http://nettv-xcruiser.com:8000/live/0wUIdUoOAL/2rE9yqWd9w/55826.rtmp
 
 #EXTINF:-1 tvg-logo="http://mediapunta.net/images/goldenedge1%20-%20copia.png" group-title="28- PREMIUM LATINO",Golden Edge (1)
 http://51.77.246.215:25461/marcel/marcel/166754
@@ -1389,9 +1167,6 @@ http://tv.iptv5region.com:25461/bronder/12365/43
 #EXTINF:-1 tvg-logo="https://vectors.pro/wp-content/uploads/2017/10/hbo-logo-vector.png" group-title="28- PREMIUM LATINO",Hbo (4)
 http://51.77.246.215:25461/1782/1782/41125
 
-#EXTINF:-1 tvg-logo="https://vectors.pro/wp-content/uploads/2017/10/hbo-logo-vector.png" group-title="28- PREMIUM LATINO",Hbo (5) HD
-http://nettv-xcruiser.com:8000/live/0wUIdUoOAL/2rE9yqWd9w/55887.rtmp
-
 #EXTINF:-1 tvg-logo="https://vectors.pro/wp-content/uploads/2017/10/hbo-logo-vector.png" group-title="28- PREMIUM LATINO",Hbo (6) FHD
 http://s1.electru.biz:8080/christiana/christiana/32305
 
@@ -1404,9 +1179,6 @@ http://tv.iptv5region.com:25461/bronder/12365/5504
 #EXTINF:-1 tvg-logo="http://aux4.iconspalace.com/uploads/797638582344877408.png" group-title="28- PREMIUM LATINO",Hbo 2 (4)
 http://51.77.246.215:25461/1782/1782/6828
 
-#EXTINF:-1 tvg-logo="http://aux4.iconspalace.com/uploads/797638582344877408.png" group-title="28- PREMIUM LATINO",Hbo 2 (5) HD
-http://nettv-xcruiser.com:8000/live/0wUIdUoOAL/2rE9yqWd9w/55886.rtmp
-
 #EXTINF:-1 tvg-logo="http://aux4.iconspalace.com/uploads/797638582344877408.png" group-title="28- PREMIUM LATINO",Hbo 2 (6) FHD
 http://s1.electru.biz:8080/christiana/christiana/35164
 
@@ -1415,9 +1187,6 @@ http://51.77.246.215:25461/marcel/marcel/494
 
 #EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/hbo-family-logo-320x320-745790760.png" group-title="28- PREMIUM LATINO",Hbo Family (4)
 http://51.77.246.215:25461/1782/1782/494
-
-#EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/hbo-family-logo-320x320-745790760.png" group-title="28- PREMIUM LATINO",Hbo Family (5) HD
-http://nettv-xcruiser.com:8000/live/0wUIdUoOAL/2rE9yqWd9w/55885.rtmp
 
 #EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/hbo-family-logo-320x320-745790760.png" group-title="28- PREMIUM LATINO",Hbo Family (6) FHD
 http://s1.electru.biz:8080/christiana/christiana/64427
@@ -1428,9 +1197,6 @@ http://51.77.246.215:25461/marcel/marcel/835
 #EXTINF:-1 tvg-logo="http://contenidos.cablevision.com.mx/guia_programacion/channels/634.png" group-title="28- PREMIUM LATINO",Hbo Plus (4)
 http://51.77.246.215:25461/1782/1782/835
 
-#EXTINF:-1 tvg-logo="http://contenidos.cablevision.com.mx/guia_programacion/channels/634.png" group-title="28- PREMIUM LATINO",Hbo Plus (5)
-http://nettv-xcruiser.com:8000/live/0wUIdUoOAL/2rE9yqWd9w/55884.rtmp
-
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/mx/HBOSignature.mx.png" group-title="28- PREMIUM LATINO",Hbo Signature (1)
 http://51.77.246.215:25461/marcel/marcel/493
 
@@ -1439,9 +1205,6 @@ http://tv.iptv5region.com:25461/bronder/12365/5484
 
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/mx/HBOSignature.mx.png" group-title="28- PREMIUM LATINO",Hbo Signature (4)
 http://51.77.246.215:25461/1782/1782/493
-
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/mx/HBOSignature.mx.png" group-title="28- PREMIUM LATINO",Hbo Signature (5) HD
-http://nettv-xcruiser.com:8000/live/0wUIdUoOAL/2rE9yqWd9w/55883.rtmp
 
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/mx/HBOSignature.mx.png" group-title="28- PREMIUM LATINO",Hbo Signature (6) FHD
 http://s1.electru.biz:8080/christiana/christiana/64426
@@ -1488,9 +1251,6 @@ http://tv.iptv5region.com:25461/bronder/12365/5481
 #EXTINF:-1 tvg-logo="http://vertelevisor.com/imagenes/paramount-channel.png" group-title="28- PREMIUM LATINO",Paramount (4)
 http://51.77.246.215:25461/1782/1782/133316
 
-#EXTINF:-1 tvg-logo="http://vertelevisor.com/imagenes/paramount-channel.png" group-title="28- PREMIUM LATINO",Paramount (5)
-http://nettv-xcruiser.com:8000/live/0wUIdUoOAL/2rE9yqWd9w/55889.rtmp
-
 #EXTINF:-1 tvg-logo="https://www.totalplay.com.mx/images/logos/canales/entretenimiento/canal-sony.png" group-title="28- PREMIUM LATINO",Sony (1)
 http://51.77.246.215:25461/marcel/marcel/41152
 
@@ -1506,17 +1266,11 @@ http://51.77.246.215:25461/marcel/marcel/133315
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8.png" group-title="28- PREMIUM LATINO",Space (4)
 http://51.77.246.215:25461/1782/1782/133315
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8.png" group-title="28- PREMIUM LATINO",Space (5)
-http://nettv-xcruiser.com:8000/live/0wUIdUoOAL/2rE9yqWd9w/55891.rtmp
-
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/04/9e/d4/049ed43cd66568e2061b7bb44a00a925.png" group-title="28- PREMIUM LATINO",Studio Universal (1)
 http://51.77.246.215:25461/marcel/marcel/40171
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/04/9e/d4/049ed43cd66568e2061b7bb44a00a925.png" group-title="28- PREMIUM LATINO",Studio Universal (4)
 http://51.77.246.215:25461/1782/1782/40171
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/04/9e/d4/049ed43cd66568e2061b7bb44a00a925.png" group-title="28- PREMIUM LATINO",Studio Universal (5)
-http://nettv-xcruiser.com:8000/live/0wUIdUoOAL/2rE9yqWd9w/55892.rtmp
 
 #EXTINF:-1 tvg-logo="https://www.programacion.tv/images/syfy.png" group-title="28- PREMIUM LATINO",Syfy (1)
 http://51.77.246.215:25461/marcel/marcel/8465
@@ -1533,26 +1287,17 @@ http://51.77.246.215:25461/marcel/marcel/41122
 #EXTINF:-1 tvg-logo="http://mareatvcable.com/wp-content/uploads/2017/12/44-tntlogo.png" group-title="28- PREMIUM LATINO",Tnt (4)
 http://51.77.246.215:25461/1782/1782/41122
 
-#EXTINF:-1 tvg-logo="http://mareatvcable.com/wp-content/uploads/2017/12/44-tntlogo.png" group-title="28- PREMIUM LATINO",Tnt (5) HD
-http://nettv-xcruiser.com:8000/live/0wUIdUoOAL/2rE9yqWd9w/55882.rtmp
-
 #EXTINF:-1 tvg-logo="http://mareatvcable.com/wp-content/uploads/2017/12/44-tntlogo.png" group-title="28- PREMIUM LATINO",Tnt (6) FHD
 http://s1.electru.biz:8080/christiana/christiana/64411
 
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/tnt-series-logo-01.png" group-title="28- PREMIUM LATINO",Tnt Series (2)
 http://tv.iptv5region.com:25461/bronder/12365/5536
 
-#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/tnt-series-logo-01.png" group-title="28- PREMIUM LATINO",Tnt Series (5) HD
-http://nettv-xcruiser.com:8000/live/0wUIdUoOAL/2rE9yqWd9w/55881.rtmp
-
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/tnt-series-logo-01.png" group-title="28- PREMIUM LATINO",Tnt Series (6) FHD
 http://s1.electru.biz:8080/christiana/christiana/32298
 
 #EXTINF:-1 tvg-logo="http://www.temporadafinal.com/gallery/5400ebfa0cc26universal-channel-.png" group-title="28- PREMIUM LATINO",Universal Channel (2)
 http://tv.iptv5region.com:25461/bronder/12365/5499
-
-#EXTINF:-1 tvg-logo="http://www.temporadafinal.com/gallery/5400ebfa0cc26universal-channel-.png" group-title="28- PREMIUM LATINO",Universal Channel (5) HD
-http://nettv-xcruiser.com:8000/live/0wUIdUoOAL/2rE9yqWd9w/55877.rtmp
 
 #EXTINF:-1 tvg-logo="http://www.temporadafinal.com/gallery/5400ebfa0cc26universal-channel-.png" group-title="28- PREMIUM LATINO",Universal Channel (6) FHD
 http://s1.electru.biz:8080/christiana/christiana/64409
@@ -1562,9 +1307,6 @@ http://51.77.246.215:25461/marcel/marcel/52611
 
 #EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/08/d3e81-wb-hd-2011.png" group-title="28- PREMIUM LATINO",Warner Channel (4)
 http://51.77.246.215:25461/1782/1782/52611
-
-#EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/08/d3e81-wb-hd-2011.png" group-title="28- PREMIUM LATINO",Warner Channel (5) HD
-http://nettv-xcruiser.com:8000/live/0wUIdUoOAL/2rE9yqWd9w/55815.rtmp
 
 #EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/08/d3e81-wb-hd-2011.png" group-title="28- PREMIUM LATINO",Warner Channel (6) FHD
 http://s1.electru.biz:8080/christiana/christiana/32301
@@ -2214,9 +1956,6 @@ http://51.77.246.215:25461/marcel/marcel/41140
 #EXTINF:-1 tvg-logo="http://i68.tinypic.com/10qdo4k.png" group-title="30- VARIEDADES LATINO",E! (4)
 http://51.77.246.215:25461/1782/1782/41140
 
-#EXTINF:-1 tvg-logo="http://i68.tinypic.com/10qdo4k.png" group-title="30- VARIEDADES LATINO",E! (5)
-http://s1.electru.biz:8080/12345/12345/35163
-
 #EXTINF:-1 tvg-logo="http://i68.tinypic.com/10qdo4k.png" group-title="30- VARIEDADES LATINO",E! (6)
 http://s1.electru.biz:8080/christiana/christiana/35163
 
@@ -2253,9 +1992,6 @@ http://51.77.246.215:25461/marcel/marcel/61938
 #EXTINF:-1 tvg-logo="https://www.directv.com/images/logos/channels/dark/large/466.png" group-title="30- VARIEDADES LATINO",Hola TV (4)
 http://51.77.246.215:25461/1782/1782/61938
 
-#EXTINF:-1 tvg-logo="https://www.directv.com/images/logos/channels/dark/large/466.png" group-title="30- VARIEDADES LATINO",Hola TV (5)
-http://s1.electru.biz:8080/12345/12345/31860
-
 #EXTINF:-1 tvg-logo="https://www.directv.com/images/logos/channels/dark/large/466.png" group-title="30- VARIEDADES LATINO",Hola TV (6)
 http://s1.electru.biz:8080/christiana/christiana/31860
 
@@ -2288,9 +2024,6 @@ http://tv.iptv5region.com:25461/bronder/12365/5493
 
 #EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/mtv-png-logo/danielle-vega-mtv-png-logo-17.png" group-title="30- VARIEDADES LATINO",Mtv (4)
 http://51.77.246.215:25461/1782/1782/41136
-
-#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/mtv-png-logo/danielle-vega-mtv-png-logo-17.png" group-title="30- VARIEDADES LATINO",Mtv (5)
-http://s1.electru.biz:8080/12345/12345/35172
 
 #EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/mtv-png-logo/danielle-vega-mtv-png-logo-17.png" group-title="30- VARIEDADES LATINO",Mtv (6)
 http://s1.electru.biz:8080/christiana/christiana/35172
@@ -2333,9 +2066,6 @@ http://tv.iptv5region.com:25461/bronder/12365/5464
 
 #EXTINF:-1 tvg-logo="https://tvnotiblog.com/wp-content/uploads/2012/04/trutv.png" group-title="30- VARIEDADES LATINO",Trutv (4)
 http://51.77.246.215:25461/1782/1782/42067
-
-#EXTINF:-1 tvg-logo="https://tvnotiblog.com/wp-content/uploads/2012/04/trutv.png" group-title="30- VARIEDADES LATINO",Trutv (5)
-http://s1.electru.biz:8080/12345/12345/64410
 
 #EXTINF:-1 tvg-logo="https://tvnotiblog.com/wp-content/uploads/2012/04/trutv.png" group-title="30- VARIEDADES LATINO",Trutv (6)
 http://s1.electru.biz:8080/christiana/christiana/64410
@@ -2678,9 +2408,6 @@ http://51.77.246.215:25461/1782/1782/58563
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/boing-logo-png.png" group-title="32- INFANTIL LATINO",Boing
 https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
 
-#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/boing-logo-png.png" group-title="32- INFANTIL LATINO",Boing (5)
-http://s1.electru.biz:8080/12345/12345/100769
-
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/boing-logo-png.png" group-title="32- INFANTIL LATINO",Boing (6)
 http://s1.electru.biz:8080/christiana/christiana/100769
 
@@ -2713,9 +2440,6 @@ http://tv.iptv5region.com:25461/bronder/12365/5548
 
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_kids-mediano.png" group-title="32- INFANTIL LATINO",Discovery Kids (4)
 http://51.77.246.215:25461/1782/1782/138371
-
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_kids-mediano.png" group-title="32- INFANTIL LATINO",Discovery Kids (5)
-http://s1.electru.biz:8080/12345/12345/60767
 
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_kids-mediano.png" group-title="32- INFANTIL LATINO",Discovery Kids (6)
 http://s1.electru.biz:8080/christiana/christiana/60767
@@ -2750,9 +2474,6 @@ http://51.77.246.215:25461/1782/1782/135906
 #EXTINF:-1 tvg-logo="http://static.etc.cl/_common/images/logoetc_2015.png" group-title="32- INFANTIL LATINO",Etc (2)
 http://tv.iptv5region.com:25461/bronder/12365/28
 
-#EXTINF:-1 tvg-logo="http://static.etc.cl/_common/images/logoetc_2015.png" group-title="32- INFANTIL LATINO",Etc (5)
-http://s1.electru.biz:8080/12345/12345/102768
-
 #EXTINF:-1 tvg-logo="http://static.etc.cl/_common/images/logoetc_2015.png" group-title="32- INFANTIL LATINO",Etc (6)
 http://s1.electru.biz:8080/christiana/christiana/102768
 
@@ -2767,9 +2488,6 @@ http://tv.iptv5region.com:25461/bronder/12365/5546
 
 #EXTINF:-1 tvg-logo="https://www.natgeokidsla.com/img/logo-3d.7a64e4ed.png" group-title="32- INFANTIL LATINO",Nat Geo Kids (4)
 http://51.77.246.215:25461/1782/1782/166761
-
-#EXTINF:-1 tvg-logo="https://www.natgeokidsla.com/img/logo-3d.7a64e4ed.png" group-title="32- INFANTIL LATINO",Nat Geo Kids (5)
-http://s1.electru.biz:8080/12345/12345/35173
 
 #EXTINF:-1 tvg-logo="https://www.natgeokidsla.com/img/logo-3d.7a64e4ed.png" group-title="32- INFANTIL LATINO",Nat Geo Kids (6)
 http://s1.electru.biz:8080/christiana/christiana/35173
@@ -2798,9 +2516,6 @@ http://tv.iptv5region.com:25461/bronder/12365/5506
 #EXTINF:-1 tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/NICK%20JR.png" group-title="32- INFANTIL LATINO",Nick Junior (4)
 http://51.77.246.215:25461/1782/1782/42150
 
-#EXTINF:-1 tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/NICK%20JR.png" group-title="32- INFANTIL LATINO",Nick Junior (5)
-http://s1.electru.biz:8080/12345/12345/35167
-
 #EXTINF:-1 tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/NICK%20JR.png" group-title="32- INFANTIL LATINO",Nick Junior (6)
 http://s1.electru.biz:8080/christiana/christiana/35167
 
@@ -2827,9 +2542,6 @@ http://tv.iptv5region.com:25461/bronder/12365/5498
 
 #EXTINF:-1 tvg-logo="https://t3.kn3.net/taringa/A/7/E/6/A/C/RevolucionCN/83A.png" group-title="32- INFANTIL LATINO",Tooncast (4)
 http://51.77.246.215:25461/1782/1782/61978
-
-#EXTINF:-1 tvg-logo="https://t3.kn3.net/taringa/A/7/E/6/A/C/RevolucionCN/83A.png" group-title="32- INFANTIL LATINO",Tooncast (5)
-http://s1.electru.biz:8080/12345/12345/35178
 
 #EXTINF:-1 tvg-logo="https://t3.kn3.net/taringa/A/7/E/6/A/C/RevolucionCN/83A.png" group-title="32- INFANTIL LATINO",Tooncast (6)
 http://s1.electru.biz:8080/christiana/christiana/35178
@@ -3224,9 +2936,6 @@ http://tv.iptv5region.com:25461/bronder/12365/5565
 #EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/020/original/pic_a_e.png?1522180692" group-title="38- DOCUMENTALES LATINOS",A&E (4)
 http://51.77.246.215:25461/1782/1782/41055
 
-#EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/020/original/pic_a_e.png?1522180692" group-title="38- DOCUMENTALES LATINOS",A&E (5)
-http://s1.electru.biz:8080/12345/12345/64451
-
 #EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/020/original/pic_a_e.png?1522180692" group-title="38- DOCUMENTALES LATINOS",A&E (6)
 http://s1.electru.biz:8080/christiana/christiana/64451
 
@@ -3263,9 +2972,6 @@ http://51.77.246.215:25461/marcel/marcel/125998
 #EXTINF:-1 tvg-logo="https://static.brandfolder.com/discoveryfamilia/logo/discoveryfamilia-primary-logo.png" group-title="38- DOCUMENTALES LATINOS",Discovery Familia (4)
 http://51.77.246.215:25461/1782/1782/125998
 
-#EXTINF:-1 tvg-logo="https://static.brandfolder.com/discoveryfamilia/logo/discoveryfamilia-primary-logo.png" group-title="38- DOCUMENTALES LATINOS",Discovery Familia (5)
-http://s1.electru.biz:8080/12345/12345/101177
-
 #EXTINF:-1 tvg-logo="https://static.brandfolder.com/discoveryfamilia/logo/discoveryfamilia-primary-logo.png" group-title="38- DOCUMENTALES LATINOS",Discovery Familia (6)
 http://s1.electru.biz:8080/christiana/christiana/101177
 
@@ -3274,9 +2980,6 @@ http://51.77.246.215:25461/marcel/marcel/41133
 
 #EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/027/original/pic_investigactiondisc.png?1522177058" group-title="38- DOCUMENTALES LATINOS",Discovery Investigation (4)
 http://51.77.246.215:25461/1782/1782/41133
-
-#EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/027/original/pic_investigactiondisc.png?1522177058" group-title="38- DOCUMENTALES LATINOS",Discovery Investigation (5)
-http://s1.electru.biz:8080/12345/12345/35133
 
 #EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/027/original/pic_investigactiondisc.png?1522177058" group-title="38- DOCUMENTALES LATINOS",Discovery Investigation (6)
 http://s1.electru.biz:8080/christiana/christiana/35133
@@ -3316,9 +3019,6 @@ http://tv.iptv5region.com:25461/bronder/12365/5549
 
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/discovery-turbo-logo-01.png" group-title="38- DOCUMENTALES LATINOS",Discovery Turbo (4)
 http://51.77.246.215:25461/1782/1782/41225
-
-#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/discovery-turbo-logo-01.png" group-title="38- DOCUMENTALES LATINOS",Discovery Turbo (5)
-http://s1.electru.biz:8080/12345/12345/60764
 
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/discovery-turbo-logo-01.png" group-title="38- DOCUMENTALES LATINOS",Discovery Turbo (6)
 http://s1.electru.biz:8080/christiana/christiana/60764
@@ -3374,9 +3074,6 @@ http://tv.iptv5region.com:25461/bronder/12365/5529
 #EXTINF:-1 tvg-logo="http://www.lettreaudiovisuel.com/wp-content/uploads/2014/12/Nat-Geo-Wild.png" group-title="38- DOCUMENTALES LATINOS",Nat Geo Wild (4)
 http://51.77.246.215:25461/1782/1782/42065
 
-#EXTINF:-1 tvg-logo="http://www.lettreaudiovisuel.com/wp-content/uploads/2014/12/Nat-Geo-Wild.png" group-title="38- DOCUMENTALES LATINOS",Nat Geo Wild (5)
-http://s1.electru.biz:8080/12345/12345/35174
-
 #EXTINF:-1 tvg-logo="http://www.lettreaudiovisuel.com/wp-content/uploads/2014/12/Nat-Geo-Wild.png" group-title="38- DOCUMENTALES LATINOS",Nat Geo Wild (6)
 http://s1.electru.biz:8080/christiana/christiana/35174
 
@@ -3388,9 +3085,6 @@ http://tv.iptv5region.com:25461/bronder/12365/5434
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/TLC_Logo_Germany.svg/1280px-TLC_Logo_Germany.svg.png" group-title="38- DOCUMENTALES LATINOS",Tlc (4)
 http://51.77.246.215:25461/1782/1782/41234
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/TLC_Logo_Germany.svg/1280px-TLC_Logo_Germany.svg.png" group-title="38- DOCUMENTALES LATINOS",Tlc (5)
-http://s1.electru.biz:8080/12345/12345/61725
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/TLC_Logo_Germany.svg/1280px-TLC_Logo_Germany.svg.png" group-title="38- DOCUMENTALES LATINOS",Tlc (6)
 http://s1.electru.biz:8080/christiana/christiana/61725
@@ -3713,17 +3407,11 @@ http://tv.iptv5region.com:25461/bronder/12365/1
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/Logo_CDF-TURNER_2019.png" group-title="41- DEPORTES LATINO",Cdf (2)
 http://tv.iptv5region.com:25461/bronder/12365/4341
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/Logo_CDF-TURNER_2019.png" group-title="41- DEPORTES LATINO",Cdf (5)
-http://s1.electru.biz:8080/12345/12345/53538
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/Logo_CDF-TURNER_2019.png" group-title="41- DEPORTES LATINO",Cdf (6)
 http://s1.electru.biz:8080/christiana/christiana/53538
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Cdf_p.png" group-title="41- DEPORTES LATINO",Cdf Premium (2)
 http://tv.iptv5region.com:25461/bronder/12365/9481
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Cdf_p.png" group-title="41- DEPORTES LATINO",Cdf Premium (5)
-http://s1.electru.biz:8080/12345/12345/32270
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Cdf_p.png" group-title="41- DEPORTES LATINO",Cdf Premium (6)
 http://s1.electru.biz:8080/christiana/christiana/32270
@@ -3751,9 +3439,6 @@ http://tv.iptv5region.com:25461/bronder/12365/1667
 
 #EXTINF:-1  tvg-logo="http://www.palmares.com.ar/cache/localesmarcascuadradas2directvpositivo1_260_260.png" group-title="41- DEPORTES LATINO",Directv Sports + (2)
 http://tv.iptv5region.com:25461/bronder/12365/2263
-
-#EXTINF:-1  tvg-logo="http://www.palmares.com.ar/cache/localesmarcascuadradas2directvpositivo1_260_260.png" group-title="41- DEPORTES LATINO",Directv Sports + (5)
-http://s1.electru.biz:8080/12345/12345/102773
 
 #EXTINF:-1  tvg-logo="http://www.palmares.com.ar/cache/localesmarcascuadradas2directvpositivo1_260_260.png" group-title="41- DEPORTES LATINO",Directv Sports + (6)
 http://s1.electru.biz:8080/christiana/christiana/102773
@@ -3818,9 +3503,6 @@ http://51.77.246.215:25461/marcel/marcel/39007
 #EXTINF:-1 tvg-logo="https://comcastspotlight.com/sites/default/files/networks/FOX_Deportes.png" group-title="41- DEPORTES LATINO",Fox Deportes (4)
 http://51.77.246.215:25461/1782/1782/39007
 
-#EXTINF:-1 tvg-logo="https://comcastspotlight.com/sites/default/files/networks/FOX_Deportes.png" group-title="41- DEPORTES LATINO",Fox Deportes (5)
-http://s1.electru.biz:8080/12345/12345/42210
-
 #EXTINF:-1 tvg-logo="https://comcastspotlight.com/sites/default/files/networks/FOX_Deportes.png" group-title="41- DEPORTES LATINO",Fox Deportes (6)
 http://s1.electru.biz:8080/christiana/christiana/42210
 
@@ -3863,9 +3545,6 @@ http://tv.iptv5region.com:25461/bronder/12365/5460
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/fox-sports3-logos-01.png" group-title="41- DEPORTES LATINO",Fox Sports 3 (4)
 http://51.77.246.215:25461/1782/1782/40589
 
-#EXTINF:-1 tvg-logo="http://televisionlibre.net/img/Golperu.png" group-title="41- DEPORTES LATINO",Gol Perú (5)
-http://s1.electru.biz:8080/12345/12345/53619
-
 #EXTINF:-1 tvg-logo="http://televisionlibre.net/img/Golperu.png" group-title="41- DEPORTES LATINO",Gol Perú (6)
 http://s1.electru.biz:8080/christiana/christiana/53619
 
@@ -3874,9 +3553,6 @@ http://51.77.246.215:25461/marcel/marcel/130859
 
 #EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/goltv.png" group-title="41- DEPORTES LATINO",Gol Ecuador (4)
 http://51.77.246.215:25461/1782/1782/130859
-
-#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/goltv.png" group-title="41- DEPORTES LATINO",Gol Uruguay (5)
-http://s1.electru.biz:8080/12345/12345/46956
 
 #EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/goltv.png" group-title="41- DEPORTES LATINO",Gol Uruguay (6)
 http://s1.electru.biz:8080/christiana/christiana/46956
@@ -3899,17 +3575,11 @@ http://51.77.246.215:25461/marcel/marcel/215479
 #EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/77/771a9af9ba8f103834ed62d87387f516.png" group-title="41- DEPORTES LATINO",Tdn (4)
 http://51.77.246.215:25461/1782/1782/215479
 
-#EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/77/771a9af9ba8f103834ed62d87387f516.png" group-title="41- DEPORTES LATINO",Tdn (5)
-http://s1.electru.biz:8080/12345/12345/32358
-
 #EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/77/771a9af9ba8f103834ed62d87387f516.png" group-title="41- DEPORTES LATINO",Tdn (6)
 http://s1.electru.biz:8080/christiana/christiana/32358
 
 #EXTINF:-1 tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/3950.png" group-title="41- DEPORTES LATINO",Tnt Sports (2)
 http://tv.iptv5region.com:25461/bronder/12365/5846
-
-#EXTINF:-1 tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/3950.png" group-title="41- DEPORTES LATINO",Tnt Sports (5)
-http://s1.electru.biz:8080/12345/12345/35455
 
 #EXTINF:-1 tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/3950.png" group-title="41- DEPORTES LATINO",Tnt Sports (6)
 http://s1.electru.biz:8080/christiana/christiana/35455
@@ -3929,9 +3599,6 @@ http://tv.iptv5region.com:25461/bronder/12365/11879
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SAZczO7.png" group-title="41- DEPORTES LATINO",TyC (4)
 http://51.77.246.215:25461/1782/1782/41238
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SAZczO7.png" group-title="41- DEPORTES LATINO",TyC (5)
-http://s1.electru.biz:8080/12345/12345/35221
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SAZczO7.png" group-title="41- DEPORTES LATINO",TyC (6)
 http://s1.electru.biz:8080/christiana/christiana/35221
 
@@ -3940,9 +3607,6 @@ http://51.77.246.215:25461/marcel/marcel/14892
 
 #EXTINF:-1 tvg-logo="http://www.deltatre.com/wp-content/uploads/2014/02/300px-black.png" group-title="41- DEPORTES LATINO",Univisión Deportes (4)
 http://51.77.246.215:25461/1782/1782/14892
-
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/VTVURU.png" group-title="41- DEPORTES LATINO",VTV (5)
-http://s1.electru.biz:8080/12345/12345/32500
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/VTVURU.png" group-title="41- DEPORTES LATINO",VTV (6)
 http://s1.electru.biz:8080/christiana/christiana/32500
@@ -3955,9 +3619,6 @@ http://tv.iptv5region.com:25461/bronder/12365/10035
 
 #EXTINF:-1 tvg-logo="http://tvcolombia.emiweb.es/medias/images/winsports-logo280x150.png" group-title="41- DEPORTES LATINO",Win Sports (4)
 http://51.77.246.215:25461/1782/1782/60277
-
-#EXTINF:-1 tvg-logo="http://tvcolombia.emiweb.es/medias/images/winsports-logo280x150.png" group-title="41- DEPORTES LATINO",Win Sports (5)
-http://s1.electru.biz:8080/12345/12345/60655
 
 #EXTINF:-1 tvg-logo="http://tvcolombia.emiweb.es/medias/images/winsports-logo280x150.png" group-title="41- DEPORTES LATINO",Win Sports (6)
 http://s1.electru.biz:8080/christiana/christiana/60655
