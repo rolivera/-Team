@@ -399,8 +399,20 @@ http://nettv-xcruiser.com:8000/0wUIdUoOAL/2rE9yqWd9w/55813
 https://stream.vagalume.fm/hls/147015501223418/aac.m3u8
 #######################################
 
+#EXTINF:-1 tvg-logo="https://colombia.mom-rsf.org/typo3temp/_processed_/4/c/csm_515-941_import_1f4f07e98e.png" group-title="07- COLOMBIA",CableNoticias
+http://nettv-xcruiser.com:8000/live/0wUIdUoOAL/2rE9yqWd9w/55782.rtmp
+
+#EXTINF:-1 tvg-logo="https://www.ecured.cu/images/thumb/5/53/CaracolTV2017.png/260px-CaracolTV2017.png" group-title="07- COLOMBIA",Caracol HD
+http://nettv-xcruiser.com:8000/live/0wUIdUoOAL/2rE9yqWd9w/55786.rtmp
+
+#EXTINF:-1 tvg-logo="https://www.ecured.cu/images/thumb/5/53/CaracolTV2017.png/260px-CaracolTV2017.png" group-title="07- COLOMBIA",Caracol
+http://nettv-xcruiser.com:8000/live/0wUIdUoOAL/2rE9yqWd9w/55785.rtmp
+
 #EXTINF:-1 tvg-logo="https://www.ecured.cu/images/thumb/5/53/CaracolTV2017.png/260px-CaracolTV2017.png" group-title="07- COLOMBIA",Caracol
 http://tv.iptv5region.com:25461/bronder/12365/497
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/0a25f3c8-0d46-465d-8705-fee139872f8b_m.jpg" group-title="07- COLOMBIA",City tv
+http://nettv-xcruiser.com:8000/live/0wUIdUoOAL/2rE9yqWd9w/55781.rtmp
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/386408609/cnc2_400x400.png" group-title="07- COLOMBIA",CNC 
 http://66.240.236.25:1936/canalcnc/canalcnc/chunklist.m3u8
@@ -600,11 +612,17 @@ https://180ce25c70.site.internapcdn.net/ryta_live/chunklist_b481072.m3u8
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/Capital21.png" group-title="13- MEXICO",Capital 21
 http://23.227.189.81/ciudadtv/abr_ciudadtv/playlist.m3u8?GrupoTopIptv
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1057408851253714946/GSxqNEQv_400x400.jpg" group-title="13- MEXICO",Foro tv
+http://nettv-xcruiser.com:8000/live/0wUIdUoOAL/2rE9yqWd9w/55960.rtmp
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/776461277820354560/qlnkXHo8_400x400.jpg" group-title="13- MEXICO",Galavisión
 http://51.77.246.215:25461/marcel/marcel/41236
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/776461277820354560/qlnkXHo8_400x400.jpg" group-title="13- MEXICO",Galavisión
 http://51.77.246.215:25461/1782/1782/41236
+
+#EXTINF:-1 tvg-logo="http://radioytvmexiquense.mx/harem1/information/contenido/imagenes/155c873f-0fb8-40bb-be1c-052c72d15836.png" group-title="13- MEXICO",Mexiquense
+http://nettv-xcruiser.com:8000/live/0wUIdUoOAL/2rE9yqWd9w/55958.rtmp
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/11/milenio-TV.png" group-title="13- MEXICO",Milenio
 http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
