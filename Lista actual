@@ -708,11 +708,38 @@ http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/chunks.m3u8
 https://stream.vagalume.fm/hls/1470169276225492/aac.m3u8
 #######################################
 
+#EXTINF:-1 tvg-logo="http://vivotvhd.com/img/cha/3026.gif" group-title="20- URUGUAY",1000 x Hora tv
+http://tv-cool.com:8000/live/Maximo/Maximo/16410.m3u8
+
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/04/canal-2-vision-canaria.png" group-title="20- URUGUAY",Canal 02 Vision Canaria
+http://tv-cool.com:8000/live/Maximo/Maximo/18027.m3u8
+
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/04/4.png" group-title="20- URUGUAY",Canal 04 Chuy
+http://tv-cool.com:8000/live/Maximo/Maximo/16398.m3u8
+
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/04/canal4-2.png" group-title="20- URUGUAY",Canal 04 Juan Lacaze
+http://tv-cool.com:8000/live/Maximo/Maximo/16396.m3u8
+
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/canal-4-montecarlo-en-vivo.png" group-title="20- URUGUAY",Canal 04 Montecarlo
+http://tv-cool.com:8000/live/Maximo/Maximo/18025.m3u8
+
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/canal-4-montecarlo-en-vivo.png" group-title="20- URUGUAY",Canal 04 Montecarlo
 http://s1.electru.biz:8080/christiana/christiana/61726
 
+#EXTINF:-1 tvg-logo="http://www.paysandu.tv/s/wp-content/uploads/2015/07/logo-canal-4-paysandu@2x.png" group-title="20- URUGUAY",Canal 04 Paysandu
+http://tv-cool.com:8000/live/Maximo/Maximo/16395.m3u8
+
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/04/canal-4-salto-uruagua-1-324x160.png" group-title="20- URUGUAY",Canal 04 Salto
+http://tv-cool.com:8000/live/Maximo/Maximo/16394.m3u8
+
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2019/04/canal-10-uruguay-en-vivo.png" group-title="20- URUGUAY",Canal 10 Saeta
 http://s1.electru.biz:8080/christiana/christiana/83288
+
+#EXTINF:-1 tvg-logo="http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/51144/240/default.jpg" group-title="20- URUGUAY",Dexary
+http://tv-cool.com:8000/live/Maximo/Maximo/21803.m3u8
+
+#EXTINF:-1 tvg-logo="http://vivotvhd.com/img/cha/505.gif" group-title="20- URUGUAY",Plaza Canal T.Tres
+http://tv-cool.com:8000/live/Maximo/Maximo/16397.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/VTVURU.png" group-title="20- URUGUAY",VTV
 http://s1.electru.biz:8080/christiana/christiana/32500
