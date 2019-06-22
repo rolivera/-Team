@@ -474,8 +474,17 @@ http://tv.iptv5region.com:25461/bronder/12365/5495
 #EXTINF:-1 tvg-logo="http://www.ipsummediagroup.com/blog/wp-content/uploads/2016/12/Logo-Viejo-Azteca-7.jpg" group-title="13- MEXICO",Azteca 7
 http://tv.iptv5region.com:25461/bronder/12365/9327
 
+#EXTINF:-1 tvg-logo="http://www.ipsummediagroup.com/blog/wp-content/uploads/2016/12/Logo-Viejo-Azteca-7.jpg" group-title="13- MEXICO",Azteca 7
+http://latvonlive.com:33612/live/5700/1234/450.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/28/Azteca-houston.png" group-title="13- MEXICO",Azteca 51 HD
+http://latvonlive.com:33612/live/5700/1234/807.m3u8
+
 #EXTINF:-1 tvg-logo="https://tvpremiumhd.com/channels/live/upload/1706.png" group-title="13- MEXICO",Azteca Uno
 http://tv.iptv5region.com:25461/bronder/12365/9322
+
+#EXTINF:-1 tvg-logo="https://tvpremiumhd.com/channels/live/upload/1706.png" group-title="13- MEXICO",Azteca Uno FHD
+http://latvonlive.com:33612/live/5700/1234/673.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/C80W69PVwAAy6mF.jpg:large" group-title="13- MEXICO",Azteca + 
 https://aztecalive-lh.akamaihd.net/i/0qfv8evsp_1@458764/index_3_av-p.m3u8?sd=10&rebase=on
@@ -483,11 +492,20 @@ https://aztecalive-lh.akamaihd.net/i/0qfv8evsp_1@458764/index_3_av-p.m3u8?sd=10&
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Logo_LasEstrellas_Negro.svg/1280px-Logo_LasEstrellas_Negro.svg.png" group-title="13- MEXICO",Canal de las Estrellas
 http://tv.iptv5region.com:25461/bronder/12365/9321
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Logo_LasEstrellas_Negro.svg/1280px-Logo_LasEstrellas_Negro.svg.png" group-title="13- MEXICO",Canal de las Estrellas FHD
+http://latvonlive.com:33612/live/5700/1234/449.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Logo_LasEstrellas_Negro.svg/1280px-Logo_LasEstrellas_Negro.svg.png" group-title="13- MEXICO",Canal de las Estrellas Internacional
+http://latvonlive.com:33612/live/5700/1234/643.m3u8
+
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/canal4.png" group-title="13- MEXICO",Canal 4
 http://162.241.190.126:1935/live/canal4/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-M%C3%A9xico.png" group-title="13- MEXICO",Canal 5
 http://189.216.247.113/Content/HLS/Live/Channel(XHGC)/Stream(05)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-M%C3%A9xico.png" group-title="13- MEXICO",Canal 5
+http://latvonlive.com:33612/live/5700/1234/451.m3u8
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/canal10cancum.png" group-title="13- MEXICO",Canal 10 Cancún
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8?GrupoTopIptv
@@ -495,11 +513,23 @@ http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8?GrupoTopIptv
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/943986668670894080/a3769um2_400x400.jpg" group-title="13- MEXICO",Canal 15 Zacatecas
 http://wowza.zuperdns.net:1935/zuperhosting.live.grupob.canal20zacatecas/smil:livestream.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/XHIJ_TV_Canal_44_2012_Logo.png" group-title="13- MEXICO",Canal 44
+http://latvonlive.com:33612/live/5700/1234/35.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Logo_CanalOnce.png" group-title="13- MEXICO",Canal Once
 https://180ce25c70.site.internapcdn.net/ryta_live/chunklist_b481072.m3u8
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/Capital21.png" group-title="13- MEXICO",Capital 21
 http://23.227.189.81/ciudadtv/abr_ciudadtv/playlist.m3u8?GrupoTopIptv
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/Estrella_TV_-_2009_Logo.png" group-title="13- MEXICO",Estrella tv HD
+http://latvonlive.com:33612/live/5700/1234/904.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png" group-title="13- MEXICO",Foro tv HD
+http://latvonlive.com:33612/live/5700/1234/232.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png" group-title="13- MEXICO",Foro tv HD
+http://latvonlive.com:33612/live/5700/1234/651.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/776461277820354560/qlnkXHo8_400x400.jpg" group-title="13- MEXICO",Galavisión
 http://51.77.246.215:25461/marcel/marcel/41236
@@ -507,11 +537,17 @@ http://51.77.246.215:25461/marcel/marcel/41236
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/776461277820354560/qlnkXHo8_400x400.jpg" group-title="13- MEXICO",Galavisión
 http://51.77.246.215:25461/1782/1782/41236
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/776461277820354560/qlnkXHo8_400x400.jpg" group-title="13- MEXICO",Galavisión HD
+http://latvonlive.com:33612/live/5700/1234/231.m3u8
+
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/11/milenio-TV.png" group-title="13- MEXICO",Milenio
 http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DHOocZiU0AE30ro.png" group-title="13- MEXICO",Multimedios
 http://mdstrm.com/live-stream-playlist_400/57b4dbf5dbbfc8f16bb63ce1.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DHOocZiU0AE30ro.png" group-title="13- MEXICO",Multimedios HD
+http://latvonlive.com:33612/live/5700/1234/780.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DHOocZiU0AE30ro.png" group-title="13- MEXICO",Multimedios Laguna
 http://mdstrm.com/live-stream-playlist_1200/57bf686a61ff39e1085d43e1.m3u8
@@ -521,6 +557,9 @@ http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/MULTIMEDIOS.png" group-title="13- MEXICO",Multimedios +
 http://live.gvstream.net:1935/e-tv-video/play.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.mvs-marketing.com/wp-content/uploads/2019/05/Logo_MVS_TV_Color_sitio.png" group-title="13- MEXICO",MVS tv
+http://latvonlive.com:33612/live/5700/1234/2.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1024px-Pasiones_Tv_logo.svg.png" group-title="13- MEXICO",Pasiones
 http://tv.iptv5region.com:25461/bronder/12365/5491
@@ -537,11 +576,17 @@ http://tv.iptv5region.com:25461/bronder/12365/3160
 #EXTINF:-1 tvg-logo="https://www.telemundo.com/sites/nbcutelemundo/themes/aurora_tlmd/images/telemundo_logo.png" group-title="13- MEXICO",Telemundo
 http://flow.nibbletv.info/CH/VJcxZ7cEbJEm/Telemundo.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.telemundo.com/sites/nbcutelemundo/themes/aurora_tlmd/images/telemundo_logo.png" group-title="13- MEXICO",Telemundo HD
+http://latvonlive.com:33612/live/5700/1234/952.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.nbcumv.com/sites/default/files/styles/300_x_300/public/images/preview/2015/07/14/NUP_170087/NUP_170087_0001.JPG?itok=Pi0bW4WR" group-title="13- MEXICO",Telemundo 47
 http://51.77.246.215:25461/marcel/marcel/40341
 
 #EXTINF:-1 tvg-logo="https://www.nbcumv.com/sites/default/files/styles/300_x_300/public/images/preview/2015/07/14/NUP_170087/NUP_170087_0001.JPG?itok=Pi0bW4WR" group-title="13- MEXICO",Telemundo 47
 http://51.77.246.215:25461/1782/1782/40341
+
+#EXTINF:-1 tvg-logo="https://www.nbcumv.com/sites/default/files/styles/300_x_300/public/images/preview/2015/07/14/NUP_170087/NUP_170087_0001.JPG?itok=Pi0bW4WR" group-title="13- MEXICO",Telemundo 47 HD
+http://latvonlive.com:33612/live/5700/1234/313.m3u8
 
 #EXTINF:-1 tvg-logo="https://sugarfactory.com/wp-content/uploads/2017/01/Telemundo-51-Miami-Logo.jpg" group-title="13- MEXICO",Telemundo 51
 http://51.77.246.215:25461/marcel/marcel/40342
@@ -564,11 +609,17 @@ http://51.77.246.215:25461/marcel/marcel/189152
 #EXTINF:-1 tvg-logo="https://sc.dish.com/shared/images/station-logos/unvso.png" group-title="13- MEXICO",Universo
 http://tv.iptv5region.com:25461/bronder/12365/1740
 
+#EXTINF:-1 tvg-logo="https://sc.dish.com/shared/images/station-logos/unvso.png" group-title="13- MEXICO",Universo HD
+http://latvonlive.com:33612/live/5700/1234/226.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/726px-Logo_Univision_2019.svg.png" group-title="13- MEXICO",Univision
 http://51.77.246.215:25461/marcel/marcel/43504
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/726px-Logo_Univision_2019.svg.png" group-title="13- MEXICO",Univision
 http://51.77.246.215:25461/1782/1782/43504
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/726px-Logo_Univision_2019.svg.png" group-title="13- MEXICO",Univision HD
+http://latvonlive.com:33612/live/5700/1234/386.m3u8
 
 ######################################################################################################################################
 ####################################### NICARAGUA
@@ -881,11 +932,35 @@ http://ic7.101.ru:8000/a8
 #EXTINF:-1 tvg-logo="http://www.horrorchannel.co.uk/grfx/stuff/horror-channel-logo.png" group-title="26- PREMIUM USA",American Horror
 http://170.178.189.66:1935/live/Stream1/.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/da/Wbbm.png" group-title="26- PREMIUM USA",CBS 02 HD
+http://latvonlive.com:33612/live/5700/1234/524.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/WBZ_Logo_2014.png" group-title="26- PREMIUM USA",CBS 04 HD
+http://latvonlive.com:33612/live/5700/1234/853.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3f/WGCL46.png" group-title="26- PREMIUM USA",CBS 46 HD
+http://latvonlive.com:33612/live/5700/1234/852.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/946118649085120516/oYDuisL0.jpg"  group-title="26- PREMIUM USA",Fox 05 HD
+http://latvonlive.com:33612/live/5700/1234/840.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/26/WFXT_2015_Logo.png"  group-title="26- PREMIUM USA",Fox 25 HD
+http://latvonlive.com:33612/live/5700/1234/844.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.telecablecr.com/wp-content/uploads/2018/11/LOGO-FOXPREMIUM_CINEMA.png"  group-title="26- PREMIUM USA",Fox Cinema
 http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
 
 #EXTINF:-1 tvg-logo="http://aux4.iconspalace.com/uploads/797638582344877408.png"  group-title="26- PREMIUM USA",Hbo 2
 http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/KXAS-TV_logo.png"  group-title="26- PREMIUM USA",NBC 05 HD
+http://latvonlive.com:33612/live/5700/1234/403.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/27/WJAR10-022014.png"  group-title="26- PREMIUM USA",NBC 10 HD
+http://latvonlive.com:33612/live/5700/1234/829.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/nbc-wxia-11.png"  group-title="26- PREMIUM USA",NBC 11 HD
+http://latvonlive.com:33612/live/5700/1234/828.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1767870182/Western_TV_Logo_smaller.png" group-title="26- PREMIUM USA",Western TV
 https://nimble.dashmedia.tv/onestudio/western4u/playlist.m3u8
@@ -3904,6 +3979,9 @@ http://tv-cool.com:8000/live/Maximo/Maximo/5542.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.deltatre.com/wp-content/uploads/2014/02/300px-black.png" group-title="41- DEPORTES LATINO",Univisión Deportes (4)
 http://51.77.246.215:25461/1782/1782/14892
+
+#EXTINF:-1 tvg-logo="http://www.deltatre.com/wp-content/uploads/2014/02/300px-black.png" group-title="41- DEPORTES LATINO",Univisión Deportes (6) HD
+http://latvonlive.com:33612/live/5700/1234/224.rtmp
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/VTVURU.png" group-title="41- DEPORTES LATINO",VTV (3)
 http://tv-cool.com:8000/live/Maximo/Maximo/18622.m3u8
