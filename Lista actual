@@ -102,6 +102,9 @@ http://streamtv.com.br:80/live/dede/dede/1661.rtmp
 #EXTINF:0 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/band-logo-png-6.png" group-title="04- BRASIL",Band (6)
 http://iptv.csvix.net:8080/live/00001/00001/4864.m3u8
 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="04- BRASIL",Globo SD/Sportv SD
+http://placartv.futeboltv.com:8081/live/6/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="04- BRASIL",Globo SP (1)
 http://iptv.csvix.net:8080/live/cesar/12345/4837.m3u8
 
