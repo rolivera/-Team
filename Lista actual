@@ -941,35 +941,83 @@ http://ic7.101.ru:8000/a8
 #EXTINF:-1 tvg-logo="http://www.horrorchannel.co.uk/grfx/stuff/horror-channel-logo.png" group-title="26- PREMIUM USA",American Horror
 http://170.178.189.66:1935/live/Stream1/.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/da/Wbbm.png" group-title="26- PREMIUM USA",CBS 02 HD
-http://latvonlive.com:33612/live/1122/1122/524.rtmp
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/CartoonNetwork.uk.png" group-title="26- PREMIUM USA",Cartoon Network
+http://210.186.80.171:9000/6.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/WBZ_Logo_2014.png" group-title="26- PREMIUM USA",CBS 04 HD
-http://latvonlive.com:33612/live/1122/1122/853.rtmp
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png" group-title="26- PREMIUM USA",CNBC
+https://1259541102.rsc.cdn77.org/LS-ATL-54548-14/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3f/WGCL46.png" group-title="26- PREMIUM USA",CBS 46 HD
-http://latvonlive.com:33612/live/1122/1122/852.rtmp
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/CrimeAndInvestigationNetwork.uk.png"  group-title="26- PREMIUM USA",Crime & Investigation
+http://210.186.80.171:9000/0.ts
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/946118649085120516/oYDuisL0.jpg"  group-title="26- PREMIUM USA",Fox 05 HD
-http://latvonlive.com:33612/live/1122/1122/840.rtmp
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/DiscoveryScience.uk.png"  group-title="26- PREMIUM USA",Discovery Science
+http://94.46.222.90:5631
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/26/WFXT_2015_Logo.png"  group-title="26- PREMIUM USA",Fox 25 HD
-http://latvonlive.com:33612/live/1122/1122/844.rtmp
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/DiscoveryShed.uk.png"  group-title="26- PREMIUM USA",Discovery Shed
+http://94.46.222.90:5632
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/DiscoveryTurbo.uk.png"  group-title="26- PREMIUM USA",Discovery Turbo
+http://94.46.222.90:5634
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/EEntertainment.us.png"  group-title="26- PREMIUM USA",E!
+http://210.210.155.35/uq2663/h/h10/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/FoodNetwork.uk.png"  group-title="26- PREMIUM USA",Food Network
+http://62.210.27.219:80/live.ts?channelId=58&deviceMac=00:1A:79:48:53:86&uid=471
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/rs/FOX.rs.png"  group-title="26- PREMIUM USA",Fox
+http://185.246.209.109:8080/FOX/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.telecablecr.com/wp-content/uploads/2018/11/LOGO-FOXPREMIUM_CINEMA.png"  group-title="26- PREMIUM USA",Fox Cinema
 http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
 
+#EXTINF:-1 tvg-logo="https://theme.zdassets.com/theme_assets/63348/e7cb70c951f61aabc336eb96db1f6e7788f9241e.png"  group-title="26- PREMIUM USA",Fox News
+https://1259541102.rsc.cdn77.org/LS-ATL-54548-4/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="http://aux4.iconspalace.com/uploads/797638582344877408.png"  group-title="26- PREMIUM USA",Hbo 2
 http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/KXAS-TV_logo.png"  group-title="26- PREMIUM USA",NBC 05 HD
-http://latvonlive.com:33612/live/1122/1122/403.rtmp
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/InvestigationDiscovery.uk.png"  group-title="26- PREMIUM USA",Investigation Discovery 
+http://80.80.160.168/live/5/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/27/WJAR10-022014.png"  group-title="26- PREMIUM USA",NBC 10 HD
-http://latvonlive.com:33612/live/1122/1122/829.rtmp
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JBWjYhJ.png"  group-title="26- PREMIUM USA",Movie 4U 
+https://nimble.dashmedia.tv/onestudio/movee4u/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/nbc-wxia-11.png"  group-title="26- PREMIUM USA",NBC 11 HD
-http://latvonlive.com:33612/live/1122/1122/828.rtmp
+#EXTINF:-1 tvg-logo="https://www.wola.org/wp-content/uploads/2015/09/msnbc-logo-vector-download.jpg"  group-title="26- PREMIUM USA",MSNBC
+https://1259541102.rsc.cdn77.org/LS-ATL-54548-15/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/Nickelodeon.kr.png"  group-title="26- PREMIUM USA",Nickelodeon
+http://olegov.iptvzone.me/iptv/ZU54SDN3F82CRM/1069/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/es/ParamountChannel.es.png"  group-title="26- PREMIUM USA",Paramount
+http://185.246.209.109:8080/PARAMOUNT/mpegts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1b/Planet_Green_Logo.png"  group-title="26- PREMIUM USA",Planet Green
+http://80.80.160.168/live/4/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Action.png"  group-title="26- PREMIUM USA",Sky Cinema Action
+http://95.170.215.118/hls/m3u8/Sky-MoviesAction.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Premiere.png"  group-title="26- PREMIUM USA",Sky Cinema Premiere
+http://95.170.215.118/hls/m3u8/Sky-MoviesPremie.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Select.png"  group-title="26- PREMIUM USA",Sky Cinema Select
+http://95.170.215.118/hls/m3u8/Sky-MoviesSelect.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkyNews.uk.png"  group-title="26- PREMIUM USA",Sky News
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Sony_Movie_Channel.png"  group-title="26- PREMIUM USA",Sony Movies
+http://94.46.222.90:5441
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AwNQHqC.png"  group-title="26- PREMIUM USA",The Country Network
+https://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tctkids.tv/images/TCTKids/TCTKidslogo.png"  group-title="26- PREMIUM USA",TCT Kids
+http://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/FamilyHLS/FamilyHLS_Live_1200.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5b/WB-Logo.PNG"  group-title="26- PREMIUM USA",Warner Channel
+http://103.205.133.44:1935/ns/WARNERBROS/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1767870182/Western_TV_Logo_smaller.png" group-title="26- PREMIUM USA",Western TV
 https://nimble.dashmedia.tv/onestudio/western4u/playlist.m3u8
