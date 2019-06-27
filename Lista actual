@@ -938,11 +938,26 @@ http://streamtv.com.br:80/live/dede/dede/20181.rtmp
 http://ic7.101.ru:8000/a8
 #######################################
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8f/5Star_logo.png" group-title="26- PREMIUM USA",5 Star
+http://94.46.222.90:6703
+
 #EXTINF:-1 tvg-logo="http://www.horrorchannel.co.uk/grfx/stuff/horror-channel-logo.png" group-title="26- PREMIUM USA",American Horror
 http://170.178.189.66:1935/live/Stream1/.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/AnimalPlanet.uk.png" group-title="26- PREMIUM USA",Animal Planet
+http://80.80.160.168/live/1/1500000/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Blaze.uk.png" group-title="26- PREMIUM USA",Blaze
+http://94.46.222.90:5526
+
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/CartoonNetwork.uk.png" group-title="26- PREMIUM USA",Cartoon Network
 http://210.186.80.171:9000/6.ts
+
+#EXTINF:-1 tvg-logo="https://cbsnewyork.files.wordpress.com/2018/06/3_newyork_cbs2_wlny1055.png" group-title="26- PREMIUM USA",CBS 2 New York
+https://cbslocallive-i.akamaihd.net/hls/live/724686/CBSNNY_2/master_2200.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a9/KHSL-TV_CBS_12_2013_Logo.png" group-title="26- PREMIUM USA",CBS 12
+http://170.250.96.20:8110/cbs.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png" group-title="26- PREMIUM USA",CNBC
 https://1259541102.rsc.cdn77.org/LS-ATL-54548-14/tracks-v1a1/mono.m3u8
@@ -968,17 +983,26 @@ http://62.210.27.219:80/live.ts?channelId=58&deviceMac=00:1A:79:48:53:86&uid=471
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/rs/FOX.rs.png"  group-title="26- PREMIUM USA",Fox
 http://185.246.209.109:8080/FOX/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FOX32WFLD.us.png"  group-title="26- PREMIUM USA",Fox 32 Chicago
+http://109.236.92.216:9090/CTVNews/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.telecablecr.com/wp-content/uploads/2018/11/LOGO-FOXPREMIUM_CINEMA.png"  group-title="26- PREMIUM USA",Fox Cinema
 http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
 
 #EXTINF:-1 tvg-logo="https://theme.zdassets.com/theme_assets/63348/e7cb70c951f61aabc336eb96db1f6e7788f9241e.png"  group-title="26- PREMIUM USA",Fox News
 https://1259541102.rsc.cdn77.org/LS-ATL-54548-4/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/GoodFood.uk.png"  group-title="26- PREMIUM USA",Good Food
+http://94.46.222.90:3545
+
 #EXTINF:-1 tvg-logo="http://aux4.iconspalace.com/uploads/797638582344877408.png"  group-title="26- PREMIUM USA",Hbo 2
 http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/InvestigationDiscovery.uk.png"  group-title="26- PREMIUM USA",Investigation Discovery 
 http://80.80.160.168/live/5/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/COQM8bM.png"  group-title="26- PREMIUM USA",Kool
+http://173.199.158.79:1935/roku/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JBWjYhJ.png"  group-title="26- PREMIUM USA",Movie 4U 
 https://nimble.dashmedia.tv/onestudio/movee4u/playlist.m3u8
@@ -1015,6 +1039,12 @@ https://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.tctkids.tv/images/TCTKids/TCTKidslogo.png"  group-title="26- PREMIUM USA",TCT Kids
 http://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/FamilyHLS/FamilyHLS_Live_1200.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2a/True_Entertainment_logo.png"  group-title="26- PREMIUM USA",True Entertainment
+http://94.46.222.90:4366
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7zieaS3.png"  group-title="26- PREMIUM USA",Voice of America
+http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/index_0540_av-b.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5b/WB-Logo.PNG"  group-title="26- PREMIUM USA",Warner Channel
 http://103.205.133.44:1935/ns/WARNERBROS/playlist.m3u8
@@ -4564,6 +4594,9 @@ http://ic.imusicaradios.com.br:8000/brasil.stream.http?url=tunein
 #######################################
 ######################################################################################################################################
 
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ae/AbuDhabiSports1.ae.png" group-title="43- DEPORTES INTERNACIONAL",Abu Dhabi Sports 1
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b4/Big_Ten_Network.png" group-title="43- DEPORTES INTERNACIONAL",Big Ten
 http://161.0.157.38/PLTV/88888888/224/3221226177/index.m3u8
 
@@ -4579,6 +4612,9 @@ http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Eurosport_Logo_2015.png/800px-Eurosport_Logo_2015.png" group-title="43- DEPORTES INTERNACIONAL",Eurosport 1
 http://wc7.beeyooo.com/tv11.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.fightbox.com/images/stories/menu_fb_roll.png" group-title="43- DEPORTES INTERNACIONAL",FightBox
+http://92.43.140.249/s86/04.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2a/Fox_Sports_Racing.jpg.png" group-title="43- DEPORTES INTERNACIONAL",Fox Sports Racing
 http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
 
@@ -4593,6 +4629,9 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebas
 
 #EXTINF:-1 tvg-logo="http://www.sgnl.tv/img/clients-redbull.png" group-title="43- DEPORTES INTERNACIONAL",Redbull USA
 http://iptv.matthuisman.nz/nz/tv.redbull.tv.m3u8
+
+#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a1428.png" group-title="43- DEPORTES INTERNACIONAL",RMC Sports 2 FR
+http://89.163.140.211:9898/sfrsport2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.killthecablebill.com/images/cancelcable/ZqtDHeTe_400x400.jpg" group-title="43- DEPORTES INTERNACIONAL",Stadium Sports USA
 https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/0.m3u8
