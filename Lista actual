@@ -102,6 +102,9 @@ http://streamtv.com.br:80/live/dede/dede/1661.rtmp
 #EXTINF:0 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/band-logo-png-6.png" group-title="04- BRASIL",Band (6)
 http://iptv.csvix.net:8080/live/00001/00001/4864.m3u8
 
+#EXTINF:0 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/band-logo-png-6.png" group-title="04- BRASIL",Band Internacional
+http://ummodigital.com:2082/live/Marcelo2019/Marcelo2019/5693.rtmp
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="04- BRASIL",Globo SD/Sportv SD
 http://placartv.futeboltv.com:8081/live/6/playlist.m3u8
 
@@ -158,6 +161,9 @@ http://streamtv.com.br:80/live/dede/dede/1612.rtmp
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c3/RBS_TV.png" group-title="04- BRASIL",Globo RBS (6)
 http://iptv.csvix.net:8080/live/00001/00001/4801.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="04- BRASIL",Globo Internacional
+http://ummodigital.com:2082/live/Marcelo2019/Marcelo2019/791.rtmp
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/NBR_logo_2016.svg/1280px-NBR_logo_2016.svg.png" group-title="04- BRASIL",NBR (1)
 http://cdn.ontvhdbr.co:8880/milena/123456/21747
@@ -4629,6 +4635,9 @@ http://iptv.csvix.net:8080/live/00001/00001/10717.m3u8
 #EXTINF:-1 tvg-logo="https://i.ya-webdesign.com/images/fox-sports-1-png-5.png" group-title="42- ESPORTES BRASIL",Fox Sports *BR SD
 http://placartv.futeboltv.com:8081/live/4/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ya-webdesign.com/images/fox-sports-1-png-5.png" group-title="42- ESPORTES BRASIL",Fox Sports *BR HD
+http://ummodigital.com:2082/live/Marcelo2019/Marcelo2019/10300.rtmp
+
 #EXTINF:-1 tvg-logo="https://i.ya-webdesign.com/images/fox-sports-1-png-5.png" group-title="42- ESPORTES BRASIL",Fox Sports *BR (1) FHD
 http://cdn.ontvhdbr.co:8880/milena/123456/22079
 
@@ -4646,6 +4655,10 @@ http://tv.factoryiptv.com:80/harrison/harrison/50756
 
 #EXTINF:-1 tvg-logo="https://i.ya-webdesign.com/images/fox-sports-1-png-5.png" group-title="42- ESPORTES BRASIL",Fox Sports *BR (6)
 http://iptv.csvix.net:8080/live/00001/00001/4969.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://midiafatos.com.br/wp-content/uploads/2017/02/fox_sports2_N.png" group-title="42- ESPORTES BRASIL",Fox Sports 2 BR HD
+http://ummodigital.com:2082/live/Marcelo2019/Marcelo2019/10301.rtmp
 
 #EXTINF:-1 tvg-logo="http://midiafatos.com.br/wp-content/uploads/2017/02/fox_sports2_N.png" group-title="42- ESPORTES BRASIL",Fox Sports 2 BR (1) FHD
 http://cdn.ontvhdbr.co:8880/milena/123456/22065
@@ -4667,6 +4680,9 @@ http://iptv.csvix.net:8080/live/00001/00001/4550.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/imgs/d/f/5/df56da6d93822fde1e2b2428701f5675_icon.png?w=256" group-title="42- ESPORTES BRASIL",Placar tv
 http://placartv.futeboltv.com:8081/live/6/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-xk-32sZB5XE/VAHkcQOOlNI/AAAAAAACH5w/pIZYQjvBVsY/s1600/PFC_LOGO_2014.png" group-title="42- ESPORTES BRASIL",Premiere *Clubes BR HD
+http://ummodigital.com:2082/live/Marcelo2019/Marcelo2019/5690.rtmp
 
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-xk-32sZB5XE/VAHkcQOOlNI/AAAAAAACH5w/pIZYQjvBVsY/s1600/PFC_LOGO_2014.png" group-title="42- ESPORTES BRASIL",Premiere *Clubes BR (1) FHD
 http://cdn.ontvhdbr.co:8880/milena/123456/13475
