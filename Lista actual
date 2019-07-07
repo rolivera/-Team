@@ -231,6 +231,9 @@ http://streamtv.com.br:80/live/dede/dede/1565.rtmp
 #EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="04- BRASIL",Record (6)
 http://iptv.csvix.net:8080/12345/12345/4611
 
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" group-title="04- BRASIL",SBT Alternativa
+http://192.119.9.66/live/A89AB93D-F7EE-421B-92ab-684C48F218DD.ts
+
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" group-title="04- BRASIL",SBT Interior SD
 https://5a1c76baf08c0.streamlock.net/z343-live/stream/playlist.m3u8
 
