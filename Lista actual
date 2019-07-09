@@ -1100,6 +1100,9 @@ http://62.210.27.219:80/live.ts?channelId=58&deviceMac=00:1A:79:48:53:86&uid=471
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/rs/FOX.rs.png"  group-title="26- PREMIUM USA",Fox
 http://185.246.209.109:8080/FOX/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/6/6554.1489225299.png"  group-title="26- PREMIUM USA",Fox Sports News
+http://192.119.9.66/live/cyp-3E89DE954D0C467Cbc656D45915A.ts
+
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FOX32WFLD.us.png"  group-title="26- PREMIUM USA",Fox 32 Chicago
 http://109.236.92.216:9090/CTVNews/tracks-v1a1/mono.m3u8
 
@@ -4712,9 +4715,6 @@ http://tv.factoryiptv.com:80/avenir/avenir/38380
 
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-xSGNOpDB9-A/W1mltwIpEFI/AAAAAAAAObQ/83UBcqoHHyEnWojuARjQbTGkdw4vmP3EACLcBGAs/s320/espnextra.png" group-title="42- ESPORTES BRASIL",Espn Extra BR (6)
 http://iptv.csvix.net:8080/12345/12345/10717
-
-#EXTINF:-1 tvg-logo="https://i.ya-webdesign.com/images/fox-sports-1-png-5.png" group-title="42- ESPORTES BRASIL",Fox Sports News *BR (1)
-http://192.119.9.66/live/cyp-3E89DE954D0C467Cbc656D45915A.ts
 
 #EXTINF:-1 tvg-logo="https://i.ya-webdesign.com/images/fox-sports-1-png-5.png" group-title="42- ESPORTES BRASIL",Fox Sports *BR SD
 http://placartv.futeboltv.com:8081/live/4/playlist.m3u8
