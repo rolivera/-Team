@@ -1217,8 +1217,17 @@ http://94.46.222.90:6703
 #EXTINF:-1 tvg-logo="http://www.horrorchannel.co.uk/grfx/stuff/horror-channel-logo.png" group-title="26- PREMIUM USA",American Horror
 http://170.178.189.66:1935/live/Stream1/.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.directv.com/images/logos/channels/dark/large/313.png" group-title="26- PREMIUM USA",Amc
+http://51.77.246.215:25461/marcel/marcel/8549
+
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/AnimalPlanet.uk.png" group-title="26- PREMIUM USA",Animal Planet
 http://80.80.160.168/live/1/1500000/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/AnimalPlanet.uk.png" group-title="26- PREMIUM USA",Animal Planet
+http://51.77.246.215:25461/marcel/marcel/8548
+
+#EXTINF:-1 tvg-logo="https://sc.dish.com/shared/images/station-logos/BBCA.png" group-title="26- PREMIUM USA",BBC America
+http://51.77.246.215:25461/marcel/marcel/8547
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Blaze.uk.png" group-title="26- PREMIUM USA",Blaze
 http://94.46.222.90:5526
@@ -1232,11 +1241,20 @@ https://cbslocallive-i.akamaihd.net/hls/live/724686/CBSNNY_2/master_2200.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a9/KHSL-TV_CBS_12_2013_Logo.png" group-title="26- PREMIUM USA",CBS 12
 http://170.250.96.20:8110/cbs.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cine/16.png" group-title="26- PREMIUM USA",Cinemax
+http://51.77.246.215:25461/marcel/marcel/8537
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png" group-title="26- PREMIUM USA",CNBC
 https://1259541102.rsc.cdn77.org/LS-ATL-54548-14/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png" group-title="26- PREMIUM USA",CNBC
+http://51.77.246.215:25461/marcel/marcel/8536
+
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/CrimeAndInvestigationNetwork.uk.png"  group-title="26- PREMIUM USA",Crime & Investigation
 http://210.186.80.171:9000/0.ts
+
+#EXTINF:-1 tvg-logo="http://www.elpoderdelasideas.com/wp-content/uploads/Destination-America-logo-2015-550x463.png"  group-title="26- PREMIUM USA",Destination America
+http://51.77.246.215:25461/marcel/marcel/8531
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/DiscoveryScience.uk.png"  group-title="26- PREMIUM USA",Discovery Science
 http://94.46.222.90:5631
