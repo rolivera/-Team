@@ -807,17 +807,56 @@ http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/chunks.m3u8
 https://stream.vagalume.fm/hls/1470169276225492/aac.m3u8
 #######################################
 
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/04/1000xhora-324x160.png" group-title="20- URUGUAY",1000 x Hora (4)
+http://shacktv.com:8080/shooter44/shooter44/105614
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/LogoA%2BVUruguay20102017.png" group-title="20- URUGUAY",A+V (4)
+http://shacktv.com:8080/shooter44/shooter44/105613
+
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/04/canal-2-lascano.png" group-title="20- URUGUAY",Canal 2 Lascano
+http://shacktv.com:8080/shooter44/shooter44/105609
+
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/04/canal-2-san-carlos.png" group-title="20- URUGUAY",Canal 2 San Carlos
+http://shacktv.com:8080/shooter44/shooter44/105608
+
+#EXTINF:-1 tvg-logo="http://www.paysandu.tv/s/wp-content/uploads/2015/07/logo-canal-4-paysandu@2x.png" group-title="20- URUGUAY",Canal 4 Paysandú
+http://shacktv.com:8080/shooter44/shooter44/105607
+
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/04/canal-4-salto-uruagua-1.png" group-title="20- URUGUAY",Canal 4 Salto
+http://shacktv.com:8080/shooter44/shooter44/105606
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Canal7TWnlhy.png" group-title="20- URUGUAY",Canal 7 Punta del Este
+http://shacktv.com:8080/shooter44/shooter44/105603
+
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/04/canal-12-melo.png" group-title="20- URUGUAY",Canal 12 Melo (4)
+http://shacktv.com:8080/shooter44/shooter44/105610
+
+#EXTINF:-1 tvg-logo="https://emarketers.com.uy/wp-content/uploads/2015/09/Logo-CANAL-U.png" group-title="20- URUGUAY",Canal U
+http://shacktv.com:8080/shooter44/shooter44/105600
+
+#EXTINF:-1 tvg-logo="http://www.cuta.com.uy/images/CardinalTV/logo_cardinaltv.JPG" group-title="20- URUGUAY",Cardinal tv
+http://shacktv.com:8080/shooter44/shooter44/105598
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/LogoLaRed2018.png/100px-LogoLaRed2018.png" group-title="20- URUGUAY",La Red Artigas (4)
+http://shacktv.com:8080/shooter44/shooter44/105612
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1107997180311281665/c72fyy_F_400x400.png" group-title="20- URUGUAY",Montecarlo (4)
 http://shacktv.com:8080/shooter44/shooter44/105581
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/912770611419783168/O0rCFK49_400x400.jpg" group-title="20- URUGUAY",Montevideo Portal (4)
 http://shacktv.com:8080/shooter44/shooter44/105599
 
-#EXTINF:-1 tvg-logo="https://media.tvalacarta.info/canales/256x256/canal10.png" group-title="20- URUGUAY",Saeta (4)
+#EXTINF:-1 tvg-logo="https://media.tvalacarta.info/canales/256x256/canal10.png" group-title="20- URUGUAY",Saeta Canal 10 (4)
 http://shacktv.com:8080/shooter44/shooter44/105580
+
+#EXTINF:-1 tvg-logo="https://media.tvalacarta.info/canales/256x256/canal10.png" group-title="20- URUGUAY",Saeta Canal 10 (4) HD
+http://shacktv.com:8080/shooter44/shooter44/105583
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/LogoTeledoce2019Azul.png" group-title="20- URUGUAY",Teledoce (4)
 http://shacktv.com:8080/shooter44/shooter44/105579
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/LogoTeledoce2019Azul.png" group-title="20- URUGUAY",Teledoce (4) HD
+http://shacktv.com:8080/shooter44/shooter44/105582
 
 #####################################################################################################################################
 ####################################### VENEZUELA
