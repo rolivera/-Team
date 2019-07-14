@@ -59,6 +59,12 @@ http://unlimited2-us.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Telefe.png" group-title="03- ARGENTINA",Telefe SD
 http://flow.nibbletv.info/CH/VJcxZ7cEbJEm/Telefe.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Telefe.png" group-title="03- ARGENTINA",Telefe
+http://shacktv.com:8080/shooter44/shooter44/111080
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Telefe.png" group-title="03- ARGENTINA",Telefe
+http://shacktv.com:8080/skylar/skylar/111080
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/506483696065449984/BATn-jAe.png" group-title="03- ARGENTINA",Telpin
 http://wowza.telpin.com.ar:1935/telpintv/ttv.stream_720p/playlist.m3u8?GrupoTopIptv
 
@@ -909,6 +915,9 @@ http://shacktv.com:8080/shooter44/shooter44/105582
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/LogoTeledoce2019Azul.png" group-title="20- URUGUAY",Teledoce (5) HD
 http://shacktv.com:8080/skylar/skylar/105582
 
+#EXTINF:-1 tvg-logo="http://www.bienaldemontevideo.com/imgs/pat/vtv.png" group-title="20- URUGUAY",VTV SD
+http://trinity-lh.akamaihd.net/i/GolTVModel4A_d@422865/index_500_av-p.m3u8
+
 #####################################################################################################################################
 ####################################### VENEZUELA
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2016/06/16/04/18/venezuela-1460595_960_720.jpg" group-title="21- VENEZUELA",21- VENEZUELA
@@ -1248,6 +1257,9 @@ http://51.77.246.215:25461/1782/1782/41135
 #EXTINF:-1 tvg-logo="https://www.directv.com/images/logos/channels/dark/large/313.png" group-title="28- PREMIUM LATINO",Amc (4)
 http://shacktv.com:8080/shooter44/shooter44/111203
 
+#EXTINF:-1 tvg-logo="https://www.directv.com/images/logos/channels/dark/large/313.png" group-title="28- PREMIUM LATINO",Amc (5)
+http://shacktv.com:8080/skylar/skylar/111203
+
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/axn.png" group-title="28- PREMIUM LATINO",Axn (1)
 http://51.77.246.215:25461/marcel/marcel/41229
 
@@ -1259,6 +1271,9 @@ http://51.77.246.215:25461/1782/1782/41229
 
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/axn.png" group-title="28- PREMIUM LATINO",Axn (4)
 http://shacktv.com:8080/shooter44/shooter44/111202
+
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/axn.png" group-title="28- PREMIUM LATINO",Axn (5)
+http://shacktv.com:8080/skylar/skylar/111202
 
 #EXTINF:-1 tvg-logo="http://comcab.mx/images/canales/comcab-cinecanal.png" group-title="28- PREMIUM LATINO",Cinecanal (1)
 http://51.77.246.215:25461/marcel/marcel/41047
@@ -1272,6 +1287,9 @@ http://51.77.246.215:25461/1782/1782/41047
 #EXTINF:-1 tvg-logo="http://comcab.mx/images/canales/comcab-cinecanal.png" group-title="28- PREMIUM LATINO",Cinecanal (4)
 http://shacktv.com:8080/shooter44/shooter44/111158
 
+#EXTINF:-1 tvg-logo="http://comcab.mx/images/canales/comcab-cinecanal.png" group-title="28- PREMIUM LATINO",Cinecanal (5)
+http://shacktv.com:8080/skylar/skylar/111158
+
 #EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/12/52a34-cl.png" group-title="28- PREMIUM LATINO",Cine Latino (1)
 http://51.77.246.215:25461/marcel/marcel/41048
 
@@ -1283,6 +1301,9 @@ http://51.77.246.215:25461/1782/1782/41048
 
 #EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/12/52a34-cl.png" group-title="28- PREMIUM LATINO",Cine Latino (4)
 http://shacktv.com:8080/shooter44/shooter44/114920
+
+#EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/12/52a34-cl.png" group-title="28- PREMIUM LATINO",Cine Latino (5)
+http://shacktv.com:8080/skylar/skylar/114920
 
 #EXTINF:-1 tvg-logo="http://www.cinemadinamita.com/img/logos/Inicio.png" group-title="28- PREMIUM LATINO",Cine Dinamita
 http://187.178.30.73:9981/stream/channelid/317968092
@@ -1299,6 +1320,9 @@ http://51.77.246.215:25461/1782/1782/60298
 #EXTINF:-1 tvg-logo="http://www.cinemadinamita.com/img/logos/Inicio.png" group-title="28- PREMIUM LATINO",Cine Dinamita (4)
 http://shacktv.com:8080/shooter44/shooter44/111143
 
+#EXTINF:-1 tvg-logo="http://www.cinemadinamita.com/img/logos/Inicio.png" group-title="28- PREMIUM LATINO",Cine Dinamita (5)
+http://shacktv.com:8080/skylar/skylar/111143
+
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cine/16.png" group-title="28- PREMIUM LATINO",Cinemax (1)
 http://51.77.246.215:25461/marcel/marcel/42205
 
@@ -1310,6 +1334,9 @@ http://51.77.246.215:25461/1782/1782/42205
 
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cine/16.png" group-title="28- PREMIUM LATINO",Cinemax (4)
 http://shacktv.com:8080/shooter44/shooter44/111149
+
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cine/16.png" group-title="28- PREMIUM LATINO",Cinemax (5)
+http://shacktv.com:8080/skylar/skylar/111149
 
 #EXTINF:-1 tvg-logo="http://newprinter.com.ar/wp-content/uploads/2019/02/claro-pb-logo-vector-400x400.png" group-title="28- PREMIUM LATINO",Claro Cinema (1)
 http://51.77.246.215:25461/marcel/marcel/60352
@@ -1323,6 +1350,9 @@ http://51.77.246.215:25461/1782/1782/60352
 #EXTINF:-1 tvg-logo="http://newprinter.com.ar/wp-content/uploads/2019/02/claro-pb-logo-vector-400x400.png" group-title="28- PREMIUM LATINO",Claro Cinema (4)
 http://shacktv.com:8080/shooter44/shooter44/104915
 
+#EXTINF:-1 tvg-logo="http://newprinter.com.ar/wp-content/uploads/2019/02/claro-pb-logo-vector-400x400.png" group-title="28- PREMIUM LATINO",Claro Cinema (5)
+http://shacktv.com:8080/skylar/skylar/104915
+
 #EXTINF:-1 tvg-logo="http://new.lamac.org/system/channels/logos/000/000/044/original/pic_comedycentral.png?1522177270" group-title="28- PREMIUM LATINO",Comedy Central (1)
 http://51.77.246.215:25461/marcel/marcel/41137
 
@@ -1335,6 +1365,9 @@ http://51.77.246.215:25461/1782/1782/41137
 #EXTINF:-1 tvg-logo="http://new.lamac.org/system/channels/logos/000/000/044/original/pic_comedycentral.png?1522177270" group-title="28- PREMIUM LATINO",Comedy Central (4)
 http://shacktv.com:8080/shooter44/shooter44/111188
 
+#EXTINF:-1 tvg-logo="http://new.lamac.org/system/channels/logos/000/000/044/original/pic_comedycentral.png?1522177270" group-title="28- PREMIUM LATINO",Comedy Central (5)
+http://shacktv.com:8080/skylar/skylar/111188
+
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/de_pelicula_hd-mediano.png" group-title="28- PREMIUM LATINO",De Película (1)
 http://51.77.246.215:25461/marcel/marcel/43506
 
@@ -1344,6 +1377,9 @@ http://51.77.246.215:25461/1782/1782/43506
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/de_pelicula_hd-mediano.png" group-title="28- PREMIUM LATINO",De Película (4)
 http://shacktv.com:8080/shooter44/shooter44/111142
 
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/de_pelicula_hd-mediano.png" group-title="28- PREMIUM LATINO",De Película (5)
+http://shacktv.com:8080/skylar/skylar/111142
+
 #EXTINF:-1 tvg-logo="http://www.multicanalcatamayo.com/cablevisiondondiego/images/74.png" group-title="28- PREMIUM LATINO",Distrito Comedia (1)
 http://51.77.246.215:25461/marcel/marcel/24511
 
@@ -1352,6 +1388,9 @@ http://51.77.246.215:25461/1782/1782/24511
 
 #EXTINF:-1 tvg-logo="http://www.multicanalcatamayo.com/cablevisiondondiego/images/74.png" group-title="28- PREMIUM LATINO",Distrito Comedia (4)
 http://shacktv.com:8080/shooter44/shooter44/111189
+
+#EXTINF:-1 tvg-logo="http://www.multicanalcatamayo.com/cablevisiondondiego/images/74.png" group-title="28- PREMIUM LATINO",Distrito Comedia (5)
+http://shacktv.com:8080/skylar/skylar/111189
 
 #EXTINF:-1 tvg-logo="http://consorciocablevision.uy/wp-content/uploads/senales/HD/PELICULAS/215%20-%20EUROPA-EUROPA.png" group-title="28- PREMIUM LATINO",Europa Europa (1)
 http://51.77.246.215:25461/marcel/marcel/210682
@@ -1365,6 +1404,9 @@ http://51.77.246.215:25461/1782/1782/210682
 #EXTINF:-1 tvg-logo="http://consorciocablevision.uy/wp-content/uploads/senales/HD/PELICULAS/215%20-%20EUROPA-EUROPA.png" group-title="28- PREMIUM LATINO",Europa Europa (4)
 http://shacktv.com:8080/shooter44/shooter44/111136
 
+#EXTINF:-1 tvg-logo="http://consorciocablevision.uy/wp-content/uploads/senales/HD/PELICULAS/215%20-%20EUROPA-EUROPA.png" group-title="28- PREMIUM LATINO",Europa Europa (5)
+http://shacktv.com:8080/skylar/skylar/111136
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Al6Y2.png" group-title="28- PREMIUM LATINO",Fox
 http://flow.nibbletv.info/CH/VJcxZ7cEbJEm/FOX.m3u8
 
@@ -1374,6 +1416,9 @@ http://megatv.live:80/live/urbano/urbano/308.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Al6Y2.png" group-title="28- PREMIUM LATINO",Fox (4)
 http://shacktv.com:8080/shooter44/shooter44/111209
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Al6Y2.png" group-title="28- PREMIUM LATINO",Fox (5)
+http://shacktv.com:8080/skylar/skylar/111209
+
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_ACTION.png" group-title="28- PREMIUM LATINO",Fox Action
 http://187.178.30.73:9981/stream/channelid/34894770
 
@@ -1382,6 +1427,9 @@ http://megatv.live:80/live/urbano/urbano/168.ts
 
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_ACTION.png" group-title="28- PREMIUM LATINO",Fox Action (4)
 http://shacktv.com:8080/shooter44/shooter44/111153
+
+#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_ACTION.png" group-title="28- PREMIUM LATINO",Fox Action (5)
+http://shacktv.com:8080/skylar/skylar/111153
 
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_CLASSIC.png" group-title="28- PREMIUM LATINO",Fox Classics (1)
 http://51.77.246.215:25461/marcel/marcel/40486
@@ -1395,6 +1443,9 @@ http://51.77.246.215:25461/1782/1782/40486
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_CLASSIC.png" group-title="28- PREMIUM LATINO",Fox Classics (4)
 http://shacktv.com:8080/shooter44/shooter44/111151
 
+#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_CLASSIC.png" group-title="28- PREMIUM LATINO",Fox Classics (5)
+http://shacktv.com:8080/skylar/skylar/111151
+
 #EXTINF:-1 tvg-logo="https://www.telecablecr.com/wp-content/uploads/2018/11/LOGO-FOXPREMIUM_CINEMA.png" group-title="28- PREMIUM LATINO",Fox Cinema (1)
 http://51.77.246.215:25461/marcel/marcel/42112
 
@@ -1406,6 +1457,9 @@ http://51.77.246.215:25461/1782/1782/42112
 
 #EXTINF:-1 tvg-logo="https://www.telecablecr.com/wp-content/uploads/2018/11/LOGO-FOXPREMIUM_CINEMA.png" group-title="28- PREMIUM LATINO",Fox Cinema (4)
 http://shacktv.com:8080/shooter44/shooter44/104879
+
+#EXTINF:-1 tvg-logo="https://www.telecablecr.com/wp-content/uploads/2018/11/LOGO-FOXPREMIUM_CINEMA.png" group-title="28- PREMIUM LATINO",Fox Cinema (5)
+http://shacktv.com:8080/skylar/skylar/104879
 
 #EXTINF:-1 tvg-logo="https://www.telecablecr.com/wp-content/uploads/2018/11/LOGO-FOXPREMIUM_COMEDY.png" group-title="28- PREMIUM LATINO",Fox Comedy (1)
 http://51.77.246.215:25461/marcel/marcel/831
@@ -1419,6 +1473,9 @@ http://51.77.246.215:25461/1782/1782/831
 #EXTINF:-1 tvg-logo="https://www.telecablecr.com/wp-content/uploads/2018/11/LOGO-FOXPREMIUM_COMEDY.png" group-title="28- PREMIUM LATINO",Fox Comedy (4)
 http://shacktv.com:8080/shooter44/shooter44/111150
 
+#EXTINF:-1 tvg-logo="https://www.telecablecr.com/wp-content/uploads/2018/11/LOGO-FOXPREMIUM_COMEDY.png" group-title="28- PREMIUM LATINO",Fox Comedy (5)
+http://shacktv.com:8080/skylar/skylar/111150
+
 #EXTINF:-1 tvg-logo="https://www.telecablecr.com/wp-content/uploads/2018/11/LOGO-FOXPREMIUM_FAMILYHD.png" group-title="28- PREMIUM LATINO",Fox Family (1)
 http://51.77.246.215:25461/marcel/marcel/6827
 
@@ -1431,6 +1488,9 @@ http://51.77.246.215:25461/1782/1782/6827
 #EXTINF:-1 tvg-logo="https://www.telecablecr.com/wp-content/uploads/2018/11/LOGO-FOXPREMIUM_FAMILYHD.png" group-title="28- PREMIUM LATINO",Fox Family (4)
 http://shacktv.com:8080/shooter44/shooter44/111152
 
+#EXTINF:-1 tvg-logo="https://www.telecablecr.com/wp-content/uploads/2018/11/LOGO-FOXPREMIUM_FAMILYHD.png" group-title="28- PREMIUM LATINO",Fox Family (5)
+http://shacktv.com:8080/skylar/skylar/111152
+
 #EXTINF:-1 tvg-logo="http://neurads.com/wp-content/uploads/foxlife-2.png" group-title="28- PREMIUM LATINO",Fox Life (1)
 http://51.77.246.215:25461/marcel/marcel/167802
 
@@ -1442,6 +1502,9 @@ http://51.77.246.215:25461/1782/1782/167802
 
 #EXTINF:-1 tvg-logo="http://neurads.com/wp-content/uploads/foxlife-2.png" group-title="28- PREMIUM LATINO",Fox Life (4)
 http://shacktv.com:8080/shooter44/shooter44/111194
+
+#EXTINF:-1 tvg-logo="http://neurads.com/wp-content/uploads/foxlife-2.png" group-title="28- PREMIUM LATINO",Fox Life (5)
+http://shacktv.com:8080/skylar/skylar/111194
 
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_MOVIES.png" group-title="28- PREMIUM LATINO",Fox Movies
 http://187.178.30.73:9981/stream/channelid/1935663406
@@ -1458,6 +1521,9 @@ http://51.77.246.215:25461/1782/1782/42110
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_MOVIES.png" group-title="28- PREMIUM LATINO",Fox Movies (4)
 http://shacktv.com:8080/shooter44/shooter44/111154
 
+#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_MOVIES.png" group-title="28- PREMIUM LATINO",Fox Movies (5)
+http://shacktv.com:8080/skylar/skylar/111154
+
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_SERIES.png" group-title="28- PREMIUM LATINO",Fox Series
 http://187.178.30.73:9981/stream/channelid/2020075903
 
@@ -1473,6 +1539,9 @@ http://51.77.246.215:25461/1782/1782/54520
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_SERIES.png" group-title="28- PREMIUM LATINO",Fox Series (4)
 http://shacktv.com:8080/shooter44/shooter44/111155
 
+#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_SERIES.png" group-title="28- PREMIUM LATINO",Fox Series (5)
+http://shacktv.com:8080/skylar/skylar/111155
+
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-JBwoh8YDdKY/TyztsSnAnTI/AAAAAAAAAMc/UHfWADlmytY/s1600/fx_hd.png" group-title="28- PREMIUM LATINO",Fx (1)
 http://51.77.246.215:25461/marcel/marcel/41153
 
@@ -1485,6 +1554,9 @@ http://51.77.246.215:25461/1782/1782/41153
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-JBwoh8YDdKY/TyztsSnAnTI/AAAAAAAAAMc/UHfWADlmytY/s1600/fx_hd.png" group-title="28- PREMIUM LATINO",Fx (4)
 http://shacktv.com:8080/shooter44/shooter44/111205
 
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-JBwoh8YDdKY/TyztsSnAnTI/AAAAAAAAAMc/UHfWADlmytY/s1600/fx_hd.png" group-title="28- PREMIUM LATINO",Fx (5)
+http://shacktv.com:8080/skylar/skylar/111205
+
 #EXTINF:-1 tvg-logo="http://cdd657a867bca3d5084e-b68367b7dbe633942cc09bdd6fb9eaea.r58.cf2.rackcdn.com/fxmoviechannel.png" group-title="28- PREMIUM LATINO",Fxm (1)
 http://51.77.246.215:25461/marcel/marcel/39002
 
@@ -1496,6 +1568,9 @@ http://51.77.246.215:25461/1782/1782/39002
 
 #EXTINF:-1 tvg-logo="http://cdd657a867bca3d5084e-b68367b7dbe633942cc09bdd6fb9eaea.r58.cf2.rackcdn.com/fxmoviechannel.png" group-title="28- PREMIUM LATINO",Fxm (4)
 http://shacktv.com:8080/shooter44/shooter44/111146
+
+#EXTINF:-1 tvg-logo="http://cdd657a867bca3d5084e-b68367b7dbe633942cc09bdd6fb9eaea.r58.cf2.rackcdn.com/fxmoviechannel.png" group-title="28- PREMIUM LATINO",Fxm (5)
+http://shacktv.com:8080/skylar/skylar/111146
 
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-JnaRqfsfRf0/VVJ222hRX7I/AAAAAAAAAbw/svcXPJkGr5E/s1600/golden.png" group-title="28- PREMIUM LATINO",Golden (1)
 http://51.77.246.215:25461/marcel/marcel/1657
@@ -1521,6 +1596,9 @@ http://megatv.live:80/live/urbano/urbano/197.ts
 #EXTINF:-1 tvg-logo="https://www.totalplay.com.mx/images/logos/canales/cine/g-plus.png" group-title="28- PREMIUM LATINO",Golden Plus (4)
 http://shacktv.com:8080/shooter44/shooter44/111147
 
+#EXTINF:-1 tvg-logo="https://www.totalplay.com.mx/images/logos/canales/cine/g-plus.png" group-title="28- PREMIUM LATINO",Golden Plus (5)
+http://shacktv.com:8080/skylar/skylar/111147
+
 #EXTINF:-1 tvg-logo="https://www.telecablecr.com/wp-content/uploads/2017/07/golden_03.png" group-title="28- PREMIUM LATINO",Golden Premier (1)
 http://51.77.246.215:25461/marcel/marcel/215252
 
@@ -1532,6 +1610,9 @@ http://51.77.246.215:25461/1782/1782/215252
 
 #EXTINF:-1 tvg-logo="https://www.telecablecr.com/wp-content/uploads/2017/07/golden_03.png" group-title="28- PREMIUM LATINO",Golden Premier (4)
 http://shacktv.com:8080/shooter44/shooter44/104860
+
+#EXTINF:-1 tvg-logo="https://www.telecablecr.com/wp-content/uploads/2017/07/golden_03.png" group-title="28- PREMIUM LATINO",Golden Premier (5)
+http://shacktv.com:8080/skylar/skylar/104860
 
 #EXTINF:-1 tvg-logo="https://vectors.pro/wp-content/uploads/2017/10/hbo-logo-vector.png" group-title="28- PREMIUM LATINO",Hbo (1)
 http://51.77.246.215:25461/marcel/marcel/41125
@@ -1548,6 +1629,9 @@ http://shacktv.com:8080/shooter44/shooter44/111164
 #EXTINF:-1 tvg-logo="https://vectors.pro/wp-content/uploads/2017/10/hbo-logo-vector.png" group-title="28- PREMIUM LATINO",Hbo (4) Sub
 http://shacktv.com:8080/shooter44/shooter44/104852
 
+#EXTINF:-1 tvg-logo="https://vectors.pro/wp-content/uploads/2017/10/hbo-logo-vector.png" group-title="28- PREMIUM LATINO",Hbo (5)
+http://shacktv.com:8080/skylar/skylar/111164
+
 #EXTINF:-1 tvg-logo="http://aux4.iconspalace.com/uploads/797638582344877408.png" group-title="28- PREMIUM LATINO",Hbo 2 (1)
 http://51.77.246.215:25461/marcel/marcel/6828
 
@@ -1559,6 +1643,9 @@ http://51.77.246.215:25461/1782/1782/6828
 
 #EXTINF:-1 tvg-logo="http://aux4.iconspalace.com/uploads/797638582344877408.png" group-title="28- PREMIUM LATINO",Hbo 2 (4)
 http://shacktv.com:8080/shooter44/shooter44/111163
+
+#EXTINF:-1 tvg-logo="http://aux4.iconspalace.com/uploads/797638582344877408.png" group-title="28- PREMIUM LATINO",Hbo 2 (5)
+http://shacktv.com:8080/skylar/skylar/111163
 
 #EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/hbo-family-logo-320x320-745790760.png" group-title="28- PREMIUM LATINO",Hbo Family (1)
 http://51.77.246.215:25461/marcel/marcel/494
@@ -1572,6 +1659,9 @@ http://51.77.246.215:25461/1782/1782/494
 #EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/hbo-family-logo-320x320-745790760.png" group-title="28- PREMIUM LATINO",Hbo Family (4)
 http://shacktv.com:8080/shooter44/shooter44/111161
 
+#EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/hbo-family-logo-320x320-745790760.png" group-title="28- PREMIUM LATINO",Hbo Family (5)
+http://shacktv.com:8080/skylar/skylar/111161
+
 #EXTINF:-1 tvg-logo="http://contenidos.cablevision.com.mx/guia_programacion/channels/634.png" group-title="28- PREMIUM LATINO",Hbo Plus (1)
 http://51.77.246.215:25461/marcel/marcel/835
 
@@ -1583,6 +1673,9 @@ http://51.77.246.215:25461/1782/1782/835
 
 #EXTINF:-1 tvg-logo="http://contenidos.cablevision.com.mx/guia_programacion/channels/634.png" group-title="28- PREMIUM LATINO",Hbo Plus (4)
 http://shacktv.com:8080/shooter44/shooter44/111162
+
+#EXTINF:-1 tvg-logo="http://contenidos.cablevision.com.mx/guia_programacion/channels/634.png" group-title="28- PREMIUM LATINO",Hbo Plus (5)
+http://shacktv.com:8080/skylar/skylar/111162
 
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/mx/HBOSignature.mx.png" group-title="28- PREMIUM LATINO",Hbo Signature (1)
 http://51.77.246.215:25461/marcel/marcel/493
@@ -1596,6 +1689,9 @@ http://51.77.246.215:25461/1782/1782/493
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/mx/HBOSignature.mx.png" group-title="28- PREMIUM LATINO",Hbo Signature (4)
 http://shacktv.com:8080/shooter44/shooter44/104853
 
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/mx/HBOSignature.mx.png" group-title="28- PREMIUM LATINO",Hbo Signature (5)
+http://shacktv.com:8080/skylar/skylar/104853
+
 #EXTINF:-1 tvg-logo="http://sky.vteximg.com.br/arquivos/ids/156096/maxprime-hd.png?v=636446344633130000" group-title="28- PREMIUM LATINO",Max Prime (1)
 http://51.77.246.215:25461/marcel/marcel/215440
 
@@ -1607,6 +1703,9 @@ http://51.77.246.215:25461/1782/1782/215440
 
 #EXTINF:-1 tvg-logo="http://sky.vteximg.com.br/arquivos/ids/156096/maxprime-hd.png?v=636446344633130000" group-title="28- PREMIUM LATINO",Max Prime (4)
 http://shacktv.com:8080/shooter44/shooter44/111160
+
+#EXTINF:-1 tvg-logo="http://sky.vteximg.com.br/arquivos/ids/156096/maxprime-hd.png?v=636446344633130000" group-title="28- PREMIUM LATINO",Max Prime (5)
+http://shacktv.com:8080/skylar/skylar/111160
 
 #EXTINF:-1 tvg-logo="https://www.totalplay.com.mx/images/logos/canales/hbomax/max-up.png" group-title="28- PREMIUM LATINO",Max Up (1)
 http://51.77.246.215:25461/marcel/marcel/52705
@@ -1620,6 +1719,9 @@ http://51.77.246.215:25461/1782/1782/52705
 #EXTINF:-1 tvg-logo="https://www.totalplay.com.mx/images/logos/canales/hbomax/max-up.png" group-title="28- PREMIUM LATINO",Max Up (4)
 http://shacktv.com:8080/shooter44/shooter44/104839
 
+#EXTINF:-1 tvg-logo="https://www.totalplay.com.mx/images/logos/canales/hbomax/max-up.png" group-title="28- PREMIUM LATINO",Max Up (5)
+http://shacktv.com:8080/skylar/skylar/104839
+
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/1f/33/2b/1f332b99b982af05cfc8e0219746f006.jpg" group-title="28- PREMIUM LATINO",Multicinema (2)
 http://megatv.live:80/live/urbano/urbano/173.ts
 
@@ -1631,6 +1733,9 @@ http://51.77.246.215:25461/1782/1782/60306
 
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/multipremier-logo-01.png" group-title="28- PREMIUM LATINO",Multipremier (4)
 http://shacktv.com:8080/shooter44/shooter44/104835
+
+#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/multipremier-logo-01.png" group-title="28- PREMIUM LATINO",Multipremier (5)
+http://shacktv.com:8080/skylar/skylar/104835
 
 #EXTINF:-1 tvg-logo="http://vertelevisor.com/imagenes/paramount-channel.png" group-title="28- PREMIUM LATINO",Paramount (1)
 http://51.77.246.215:25461/marcel/marcel/133316
@@ -1644,6 +1749,9 @@ http://51.77.246.215:25461/1782/1782/133316
 #EXTINF:-1 tvg-logo="http://vertelevisor.com/imagenes/paramount-channel.png" group-title="28- PREMIUM LATINO",Paramount (4)
 http://shacktv.com:8080/shooter44/shooter44/104828
 
+#EXTINF:-1 tvg-logo="http://vertelevisor.com/imagenes/paramount-channel.png" group-title="28- PREMIUM LATINO",Paramount (5)
+http://shacktv.com:8080/skylar/skylar/104828
+
 #EXTINF:-1 tvg-logo="https://www.totalplay.com.mx/images/logos/canales/entretenimiento/canal-sony.png" group-title="28- PREMIUM LATINO",Sony (1)
 http://51.77.246.215:25461/marcel/marcel/41152
 
@@ -1655,6 +1763,9 @@ http://51.77.246.215:25461/1782/1782/41152
 
 #EXTINF:-1 tvg-logo="https://www.totalplay.com.mx/images/logos/canales/entretenimiento/canal-sony.png" group-title="28- PREMIUM LATINO",Sony (4)
 http://shacktv.com:8080/shooter44/shooter44/111208
+
+#EXTINF:-1 tvg-logo="https://www.totalplay.com.mx/images/logos/canales/entretenimiento/canal-sony.png" group-title="28- PREMIUM LATINO",Sony (5)
+http://shacktv.com:8080/skylar/skylar/111208
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8.png" group-title="28- PREMIUM LATINO",Space (1)
 http://51.77.246.215:25461/marcel/marcel/133315
@@ -1668,6 +1779,9 @@ http://51.77.246.215:25461/1782/1782/133315
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8.png" group-title="28- PREMIUM LATINO",Space (4)
 http://shacktv.com:8080/shooter44/shooter44/111156
 
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8.png" group-title="28- PREMIUM LATINO",Space (5)
+http://shacktv.com:8080/skylar/skylar/111156
+
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/04/9e/d4/049ed43cd66568e2061b7bb44a00a925.png" group-title="28- PREMIUM LATINO",Studio Universal (1)
 http://51.77.246.215:25461/marcel/marcel/40171
 
@@ -1680,6 +1794,9 @@ http://51.77.246.215:25461/1782/1782/40171
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/04/9e/d4/049ed43cd66568e2061b7bb44a00a925.png" group-title="28- PREMIUM LATINO",Studio Universal (4)
 http://shacktv.com:8080/shooter44/shooter44/111141
 
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/04/9e/d4/049ed43cd66568e2061b7bb44a00a925.png" group-title="28- PREMIUM LATINO",Studio Universal (5)
+http://shacktv.com:8080/skylar/skylar/111141
+
 #EXTINF:-1 tvg-logo="https://www.programacion.tv/images/syfy.png" group-title="28- PREMIUM LATINO",Syfy (1)
 http://51.77.246.215:25461/marcel/marcel/8465
 
@@ -1689,11 +1806,17 @@ http://51.77.246.215:25461/1782/1782/8465
 #EXTINF:-1 tvg-logo="https://www.programacion.tv/images/syfy.png" group-title="28- PREMIUM LATINO",Syfy (4)
 http://shacktv.com:8080/shooter44/shooter44/111197
 
+#EXTINF:-1 tvg-logo="https://www.programacion.tv/images/syfy.png" group-title="28- PREMIUM LATINO",Syfy (5)
+http://shacktv.com:8080/skylar/skylar/111197
+
 #EXTINF:-1 tvg-logo="https://gartel.es/canales/tcm.png" group-title="28- PREMIUM LATINO",Tcm (2)
 http://megatv.live:80/live/urbano/urbano/259.ts
 
 #EXTINF:-1 tvg-logo="https://gartel.es/canales/tcm.png" group-title="28- PREMIUM LATINO",Tcm (4)
 http://shacktv.com:8080/shooter44/shooter44/111138
+
+#EXTINF:-1 tvg-logo="https://gartel.es/canales/tcm.png" group-title="28- PREMIUM LATINO",Tcm (5)
+http://shacktv.com:8080/skylar/skylar/111138
 
 #EXTINF:-1 tvg-logo="http://mareatvcable.com/wp-content/uploads/2017/12/44-tntlogo.png" group-title="28- PREMIUM LATINO",Tnt (1)
 http://51.77.246.215:25461/marcel/marcel/41122
