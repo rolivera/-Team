@@ -1893,7 +1893,7 @@ http://185.165.243.104:25461/afonso/afonso/183438
 http://185.165.243.104:25461/van/van/183438
 
 #EXTINF:-1 tvg-logo="https://www.directv.com/images/logos/channels/dark/large/313.png" group-title="29- PREMIUM BRASIL",Amc (6)
-http://iptv.csvix.net:8080/12345/12345/4791
+https://dn81l09fo7jaf.cloudfront.net/hls1/amc.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/axn.png" group-title="29- PREMIUM BRASIL",Axn (2)
 http://185.165.243.104:25461/aguinaldo/aguinaldo/183429
@@ -1908,7 +1908,7 @@ http://185.165.243.104:25461/afonso/afonso/183429
 http://185.165.243.104:25461/van/van/183429
 
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/axn.png" group-title="29- PREMIUM BRASIL",Axn (6)
-http://iptv.csvix.net:8080/12345/12345/4769
+https://dn81l09fo7jaf.cloudfront.net/hls1/axn.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cine/16.png" group-title="29- PREMIUM BRASIL",Cinemax (1)
 http://192.119.9.66/live/3CAE4BE6-1960-40EB-ab26-8EC37D983EB0.ts
@@ -1926,7 +1926,7 @@ http://185.165.243.104:25461/afonso/afonso/183403
 http://185.165.243.104:25461/van/van/183403
 
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cine/16.png" group-title="29- PREMIUM BRASIL",Cinemax (6)
-http://iptv.csvix.net:8080/12345/12345/4865
+https://dn81l09fo7jaf.cloudfront.net/hls1/cinemax.m3u8
 
 #EXTINF:-1 tvg-logo="http://new.lamac.org/system/channels/logos/000/000/044/original/pic_comedycentral.png?1522177270" group-title="29- PREMIUM BRASIL",Comedy Central (1)
 http://192.119.9.66/live/1234C617-A20F-4FE1-b962-12E55F7123A2.ts
@@ -1939,6 +1939,9 @@ http://185.165.243.104:25461/afonso/afonso/183394
 
 #EXTINF:-1 tvg-logo="http://new.lamac.org/system/channels/logos/000/000/044/original/pic_comedycentral.png?1522177270" group-title="29- PREMIUM BRASIL",Comedy Central (5)
 http://185.165.243.104:25461/van/van/183394
+
+#EXTINF:-1 tvg-logo="http://new.lamac.org/system/channels/logos/000/000/044/original/pic_comedycentral.png?1522177270" group-title="29- PREMIUM BRASIL",Comedy Central (6)
+https://dn81l09fo7jaf.cloudfront.net/hls1/comedycentral.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Al6Y2.png" group-title="29- PREMIUM BRASIL",Fox (1)
 http://192.119.9.66/live/DAD6B460-4635-4986-bad2-8E9673D54CB0.ts
@@ -1956,7 +1959,7 @@ http://185.165.243.104:25461/afonso/afonso/183334
 http://185.165.243.104:25461/van/van/183334
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Al6Y2.png" group-title="29- PREMIUM BRASIL",Fox (6)
-http://iptv.csvix.net:8080/12345/12345/4968
+https://dn81l09fo7jaf.cloudfront.net/hls1/fox.m3u8
 
 #EXTINF:-1 tvg-logo="http://neurads.com/wp-content/uploads/foxlife-2.png" group-title="29- PREMIUM BRASIL",Fox Life (1)
 http://192.119.9.66/live/7E89A300-DC45-491E-8725-4A3563BCA55C.ts
@@ -1974,7 +1977,7 @@ http://185.165.243.104:25461/afonso/afonso/183331
 http://185.165.243.104:25461/van/van/183331
 
 #EXTINF:-1 tvg-logo="http://neurads.com/wp-content/uploads/foxlife-2.png" group-title="29- PREMIUM BRASIL",Fox Life (6)
-http://iptv.csvix.net:8080/12345/12345/4551
+https://dn81l09fo7jaf.cloudfront.net/hls1/foxlife.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/59/FOXPremium1.png/revision/latest?cb=20170324170019" group-title="29- PREMIUM BRASIL",Fox Premium 1 (1)
 http://192.119.9.66/live/6D65C787-24B5-4A10-ba47-CD1A02A14BED.ts
@@ -1992,7 +1995,7 @@ http://185.165.243.104:25461/afonso/afonso/183329
 http://185.165.243.104:25461/van/van/183329
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/59/FOXPremium1.png/revision/latest?cb=20170324170019" group-title="29- PREMIUM BRASIL",Fox Premium 1 (6)
-http://iptv.csvix.net:8080/12345/12345/18725
+https://dn81l09fo7jaf.cloudfront.net/hls1/foxpremium1.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/28/FOXPremium2.png/revision/latest?cb=20170324170127" group-title="29- PREMIUM BRASIL",Fox Premium 2 (1)
 http://192.119.9.66/live/guI7VZMqqTfuxAzMWu6sQoE4ceTsRDqd.ts
@@ -2007,7 +2010,7 @@ http://185.165.243.104:25461/afonso/afonso/183326
 http://185.165.243.104:25461/van/van/183326
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/28/FOXPremium2.png/revision/latest?cb=20170324170127" group-title="29- PREMIUM BRASIL",Fox Premium 2 (6)
-http://iptv.csvix.net:8080/12345/12345/18723
+https://dn81l09fo7jaf.cloudfront.net/hls1/foxpremium2.m3u8
 
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-JBwoh8YDdKY/TyztsSnAnTI/AAAAAAAAAMc/UHfWADlmytY/s1600/fx_hd.png" group-title="29- PREMIUM BRASIL",Fx (1)
 http://192.119.9.66/live/C32B5BA2-7CE8-4091-b2f6-4E1FAD71D2F8.ts
@@ -2025,7 +2028,7 @@ http://185.165.243.104:25461/afonso/afonso/183314
 http://185.165.243.104:25461/van/van/183314
 
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-JBwoh8YDdKY/TyztsSnAnTI/AAAAAAAAAMc/UHfWADlmytY/s1600/fx_hd.png" group-title="29- PREMIUM BRASIL",Fx (6)
-http://iptv.csvix.net:8080/12345/12345/4548
+https://dn81l09fo7jaf.cloudfront.net/hls1/fx.m3u8
 
 #EXTINF:-1 tvg-logo="https://vectors.pro/wp-content/uploads/2017/10/hbo-logo-vector.png" group-title="29- PREMIUM BRASIL",Hbo (1)
 http://192.119.9.66/live/B2C15DCC-0260-41EE-a09b-C482C6A77623.ts
@@ -2043,7 +2046,7 @@ http://185.165.243.104:25461/afonso/afonso/183270
 http://185.165.243.104:25461/van/van/183270
 
 #EXTINF:-1 tvg-logo="https://vectors.pro/wp-content/uploads/2017/10/hbo-logo-vector.png" group-title="29- PREMIUM BRASIL",Hbo (6)
-http://iptv.csvix.net:8080/12345/12345/4600
+https://dn81l09fo7jaf.cloudfront.net/hls1/hbo.m3u8
 
 #EXTINF:-1 tvg-logo="http://aux4.iconspalace.com/uploads/797638582344877408.png" group-title="29- PREMIUM BRASIL",Hbo 2 (1)
 http://192.119.9.66/live/DCFC9E24-DE24-4E8A-8463-D8CD2AAAE0DD.ts
@@ -2061,7 +2064,7 @@ http://185.165.243.104:25461/afonso/afonso/183269
 http://185.165.243.104:25461/van/van/183269
 
 #EXTINF:-1 tvg-logo="http://aux4.iconspalace.com/uploads/797638582344877408.png" group-title="29- PREMIUM BRASIL",Hbo 2 (6)
-http://iptv.csvix.net:8080/12345/12345/4619
+https://dn81l09fo7jaf.cloudfront.net/hls1/hbo2.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/hbo-family-logo-320x320-745790760.png" group-title="29- PREMIUM BRASIL",Hbo Family (1)
 http://192.119.9.66/live/4D5BDDC7-5CC3-42A0-97b7-FD21601AB745.ts
@@ -2079,7 +2082,7 @@ http://185.165.243.104:25461/afonso/afonso/183266
 http://185.165.243.104:25461/van/van/183266
 
 #EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/hbo-family-logo-320x320-745790760.png" group-title="29- PREMIUM BRASIL",Hbo Family (6)
-http://iptv.csvix.net:8080/12345/12345/4919
+https://dn81l09fo7jaf.cloudfront.net/hls1/hbofamily.m3u8
 
 #EXTINF:-1 tvg-logo="http://contenidos.cablevision.com.mx/guia_programacion/channels/634.png" group-title="29- PREMIUM BRASIL",Hbo Plus (1)
 http://192.119.9.66/live/AD0EE87B-9728-4E4D-b636-D8CAF0CAF16C.ts
@@ -2097,7 +2100,7 @@ http://185.165.243.104:25461/afonso/afonso/183262
 http://185.165.243.104:25461/van/van/183262
 
 #EXTINF:-1 tvg-logo="http://contenidos.cablevision.com.mx/guia_programacion/channels/634.png" group-title="29- PREMIUM BRASIL",Hbo Plus (6)
-http://iptv.csvix.net:8080/12345/12345/4618
+https://dn81l09fo7jaf.cloudfront.net/hls1/hboplus.m3u8
 
 #EXTINF:-1 tvg-logo="http://contenidos.cablevision.com.mx/guia_programacion/channels/634.png" group-title="29- PREMIUM BRASIL",Hbo Plus E (2)
 http://185.165.243.104:25461/aguinaldo/aguinaldo/183259
@@ -2127,7 +2130,7 @@ http://185.165.243.104:25461/afonso/afonso/183257
 http://185.165.243.104:25461/van/van/183257
 
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/mx/HBOSignature.mx.png" group-title="29- PREMIUM BRASIL",Hbo Signature (6)
-http://iptv.csvix.net:8080/12345/12345/4648
+https://dn81l09fo7jaf.cloudfront.net/hls1/hbosignature.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/I.Sat_logo.svg/1200px-I.Sat_logo.svg.png" group-title="29- PREMIUM BRASIL",I Sat (1)
 http://192.119.9.66/live/85Zgd48ymjb6GeRVR8AmvvrV5PHdrIKl.ts
@@ -2148,7 +2151,7 @@ http://185.165.243.104:25461/afonso/afonso/183245
 http://185.165.243.104:25461/van/van/183245
 
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-I_y7DS7ckN4/U2Au0ohgyEI/AAAAAAAACRI/UUmABBsgA2A/s1600/Max_HD-fullcaleta.biz.png" group-title="29- PREMIUM BRASIL",Max (6)
-http://iptv.csvix.net:8080/12345/12345/4839
+https://dn81l09fo7jaf.cloudfront.net/hls1/max.m3u8
 
 #EXTINF:-1 tvg-logo="http://sky.vteximg.com.br/arquivos/ids/156096/maxprime-hd.png?v=636446344633130000" group-title="29- PREMIUM BRASIL",Max Prime (1)
 http://192.119.9.66/live/A85FC536-963C-4367-97a7-CFAC0EA0FD1E.ts
@@ -2166,7 +2169,7 @@ http://185.165.243.104:25461/afonso/afonso/183243
 http://185.165.243.104:25461/van/van/183243
 
 #EXTINF:-1 tvg-logo="http://sky.vteximg.com.br/arquivos/ids/156096/maxprime-hd.png?v=636446344633130000" group-title="29- PREMIUM BRASIL",Max Prime (6)
-http://iptv.csvix.net:8080/12345/12345/4870
+https://dn81l09fo7jaf.cloudfront.net/hls1/maxprime.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.totalplay.com.mx/images/logos/canales/hbomax/max-up.png" group-title="29- PREMIUM BRASIL",Max Up (1)
 http://192.119.9.66/live/0288CECA-5616-4234-bf1a-4E33F4AD925C.ts
@@ -2184,7 +2187,7 @@ http://185.165.243.104:25461/afonso/afonso/183238
 http://185.165.243.104:25461/van/van/183238
 
 #EXTINF:-1 tvg-logo="https://www.totalplay.com.mx/images/logos/canales/hbomax/max-up.png" group-title="29- PREMIUM BRASIL",Max Up (6)
-http://iptv.csvix.net:8080/12345/12345/4811
+https://dn81l09fo7jaf.cloudfront.net/hls1/maxup.m3u8
 
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/megapix-logo-png-7.png" group-title="29- PREMIUM BRASIL",Megapix (1)
 http://192.119.9.66/live/D85A8E66-8B2A-4A9A-8ece-C152789B8ADF.ts
@@ -2202,7 +2205,7 @@ http://185.165.243.104:25461/afonso/afonso/183236
 http://185.165.243.104:25461/van/van/183236
 
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/megapix-logo-png-7.png" group-title="29- PREMIUM BRASIL",Megapix (6)
-http://iptv.csvix.net:8080/12345/12345/4871
+https://dn81l09fo7jaf.cloudfront.net/hls1/megapix.m3u8
 
 #EXTINF:-1 tvg-logo="http://vertelevisor.com/imagenes/paramount-channel.png" group-title="29- PREMIUM BRASIL",Paramount (1)
 http://192.119.9.66/live/34179B81-87C5-4711-8d8e-1B8D8E23D177.ts
@@ -2220,7 +2223,7 @@ http://185.165.243.104:25461/afonso/afonso/183207
 http://185.165.243.104:25461/van/van/183207
 
 #EXTINF:-1 tvg-logo="http://vertelevisor.com/imagenes/paramount-channel.png" group-title="29- PREMIUM BRASIL",Paramount (6)
-http://iptv.csvix.net:8080/12345/12345/4804
+https://dn81l09fo7jaf.cloudfront.net/hls1/paramount.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.totalplay.com.mx/images/logos/canales/entretenimiento/canal-sony.png" group-title="29- PREMIUM BRASIL",Sony (1)
 http://192.119.9.66/live/31758E4F-5422-465B-b2b0-5049F10E212B.ts
@@ -2238,7 +2241,7 @@ http://185.165.243.104:25461/afonso/afonso/183160
 http://185.165.243.104:25461/van/van/183160
 
 #EXTINF:-1 tvg-logo="https://www.totalplay.com.mx/images/logos/canales/entretenimiento/canal-sony.png" group-title="29- PREMIUM BRASIL",Sony (6)
-http://iptv.csvix.net:8080/12345/12345/4806
+https://dn81l09fo7jaf.cloudfront.net/hls1/sony.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8.png" group-title="29- PREMIUM BRASIL",Space (1)
 http://192.119.9.66/live/D7E6E135-5520-406B-a08e-A51674E80667.ts
@@ -2256,7 +2259,7 @@ http://185.165.243.104:25461/afonso/afonso/183157
 http://185.165.243.104:25461/van/van/183157
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8.png" group-title="29- PREMIUM BRASIL",Space (6)
-http://iptv.csvix.net:8080/12345/12345/4842
+https://dn81l09fo7jaf.cloudfront.net/hls1/space.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/04/9e/d4/049ed43cd66568e2061b7bb44a00a925.png" group-title="29- PREMIUM BRASIL",Studio Universal (1)
 http://192.119.9.66/live/C84F9203-7C0B-48DC-8020-04BAEC20A6FC.ts
@@ -2274,7 +2277,7 @@ http://185.165.243.104:25461/afonso/afonso/183146
 http://185.165.243.104:25461/van/van/183146
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/04/9e/d4/049ed43cd66568e2061b7bb44a00a925.png" group-title="29- PREMIUM BRASIL",Studio Universal (6)
-http://iptv.csvix.net:8080/12345/12345/4844
+https://dn81l09fo7jaf.cloudfront.net/hls1/studiouniversal.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.programacion.tv/images/syfy.png" group-title="29- PREMIUM BRASIL",Syfy (1)
 http://192.119.9.66/live/562366C6-6676-453E-96a9-E97D57F3C951.ts
@@ -2292,7 +2295,7 @@ http://185.165.243.104:25461/afonso/afonso/183143
 http://185.165.243.104:25461/van/van/183143
 
 #EXTINF:-1 tvg-logo="https://www.programacion.tv/images/syfy.png" group-title="29- PREMIUM BRASIL",Syfy (6)
-http://iptv.csvix.net:8080/12345/12345/4879
+https://dn81l09fo7jaf.cloudfront.net/hls1/syfy.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Telecine_Action_2.png" group-title="29- PREMIUM BRASIL",Telecine Action (1)
 http://192.119.9.66/live/39BF6921-889C-43C9-aef5-4E11BD9D6653.ts
@@ -2310,7 +2313,7 @@ http://185.165.243.104:25461/afonso/afonso/183138
 http://185.165.243.104:25461/van/van/183138
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Telecine_Action_2.png" group-title="29- PREMIUM BRASIL",Telecine Action (6)
-http://iptv.csvix.net:8080/12345/12345/4976
+https://dn81l09fo7jaf.cloudfront.net/hls1/telecineaction.m3u8
 
 #EXTINF:-1 tvg-logo="https://skytvplanos.com.br/img/channels/lg-66-canal-tc-cult.png" group-title="29- PREMIUM BRASIL",Telecine Cult (1)
 http://192.119.9.66/live/8D84A824-DCB7-496F-b971-C9500AFA435E.ts
@@ -2328,7 +2331,7 @@ http://185.165.243.104:25461/afonso/afonso/183135
 http://185.165.243.104:25461/van/van/183135
 
 #EXTINF:-1 tvg-logo="https://skytvplanos.com.br/img/channels/lg-66-canal-tc-cult.png" group-title="29- PREMIUM BRASIL",Telecine Cult (6)
-http://iptv.csvix.net:8080/12345/12345/4623
+https://dn81l09fo7jaf.cloudfront.net/hls1/telecinecult.m3u8
 
 #EXTINF:-1 tvg-logo="https://skytvplanos.com.br/img/channels/lg-65-canal-tc-fun.png" group-title="29- PREMIUM BRASIL",Telecine Fun (1)
 http://192.119.9.66/live/7DB0D9C7-2185-49EB-bbb8-0B717185979E.ts
@@ -2346,7 +2349,7 @@ http://185.165.243.104:25461/afonso/afonso/183132
 http://185.165.243.104:25461/van/van/183132
 
 #EXTINF:-1 tvg-logo="https://skytvplanos.com.br/img/channels/lg-65-canal-tc-fun.png" group-title="29- PREMIUM BRASIL",Telecine Fun (6)
-http://iptv.csvix.net:8080/12345/12345/4798
+https://dn81l09fo7jaf.cloudfront.net/hls1/telecinefun.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_telecine-pipoca-hd_m.png" group-title="29- PREMIUM BRASIL",Telecine Pipoca (1)
 http://192.119.9.66/live/0895A939-61BE-4D12-b427-27123DB260E0.ts
@@ -2364,7 +2367,7 @@ http://185.165.243.104:25461/afonso/afonso/183129
 http://185.165.243.104:25461/van/van/183129
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_telecine-pipoca-hd_m.png" group-title="29- PREMIUM BRASIL",Telecine Pipoca (6)
-http://iptv.csvix.net:8080/12345/12345/4846
+https://dn81l09fo7jaf.cloudfront.net/hls1/telecinepipoca.m3u8
 
 #EXTINF:-1 tvg-logo="http://logowiki.net/wp-content/uploads/2018/01/Telecine-Premium-Logo-1-9853.png" group-title="29- PREMIUM BRASIL",Telecine Premium (1)
 http://192.119.9.66/live/106FA860-511B-400C-b1e5-A9252CB8EE8A.ts
@@ -2382,7 +2385,7 @@ http://185.165.243.104:25461/afonso/afonso/183125
 http://185.165.243.104:25461/van/van/183125
 
 #EXTINF:-1 tvg-logo="http://logowiki.net/wp-content/uploads/2018/01/Telecine-Premium-Logo-1-9853.png" group-title="29- PREMIUM BRASIL",Telecine Premium (6)
-http://iptv.csvix.net:8080/12345/12345/4930
+https://dn81l09fo7jaf.cloudfront.net/hls1/telecinepremium.m3u8
 
 #EXTINF:-1 tvg-logo="https://skytvplanos.com.br/img/channels/lg-263-canal-tc-touch-hd.png" group-title="29- PREMIUM BRASIL",Telecine Touch (1)
 http://192.119.9.66/live/D45874BB-F421-4633-addf-0F8D59749CA8.ts
@@ -2400,7 +2403,7 @@ http://185.165.243.104:25461/afonso/afonso/183123
 http://185.165.243.104:25461/van/van/183123
 
 #EXTINF:-1 tvg-logo="https://skytvplanos.com.br/img/channels/lg-263-canal-tc-touch-hd.png" group-title="29- PREMIUM BRASIL",Telecine Touch (6)
-http://iptv.csvix.net:8080/12345/12345/4613
+https://dn81l09fo7jaf.cloudfront.net/hls1/telecinetouch.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/011/original/pic_tbs.png?1522176341" group-title="29- PREMIUM BRASIL",Tbs (1)
 http://192.119.9.66/live/272047B5-CA93-4F30-8851-52ADF52DD547.ts
@@ -2417,9 +2420,6 @@ http://185.165.243.104:25461/afonso/afonso/183140
 #EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/011/original/pic_tbs.png?1522176341" group-title="29- PREMIUM BRASIL",Tbs (5)
 http://185.165.243.104:25461/van/van/183140
 
-#EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/011/original/pic_tbs.png?1522176341" group-title="29- PREMIUM BRASIL",Tbs (6)
-http://iptv.csvix.net:8080/12345/12345/4926
-
 #EXTINF:-1 tvg-logo="https://gartel.es/canales/tcm.png" group-title="29- PREMIUM BRASIL",Tcm (2)
 http://185.165.243.104:25461/aguinaldo/aguinaldo/183139
 
@@ -2433,7 +2433,7 @@ http://185.165.243.104:25461/afonso/afonso/183139
 http://185.165.243.104:25461/van/van/183139
 
 #EXTINF:-1 tvg-logo="https://gartel.es/canales/tcm.png" group-title="29- PREMIUM BRASIL",Tcm (6)
-http://iptv.csvix.net:8080/12345/12345/4845
+https://dn81l09fo7jaf.cloudfront.net/hls1/tcm.m3u8
 
 #EXTINF:-1 tvg-logo="http://mareatvcable.com/wp-content/uploads/2017/12/44-tntlogo.png" group-title="29- PREMIUM BRASIL",Tnt (1)
 http://192.119.9.66/live/48A21980-EA88-4BA3-b128-267444A96B53.ts
@@ -2451,7 +2451,7 @@ http://185.165.243.104:25461/afonso/afonso/183119
 http://185.165.243.104:25461/van/van/183119
 
 #EXTINF:-1 tvg-logo="http://mareatvcable.com/wp-content/uploads/2017/12/44-tntlogo.png" group-title="29- PREMIUM BRASIL",Tnt (6)
-http://iptv.csvix.net:8080/12345/12345/4563
+https://dn81l09fo7jaf.cloudfront.net/hls1/tnt.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/tnt-series-logo-01.png" group-title="29- PREMIUM BRASIL",Tnt Series (1)
 http://192.119.9.66/live/XLpOozM8aS4MU5SdcazKc9chVmEzUY9G.ts
@@ -2469,7 +2469,7 @@ http://185.165.243.104:25461/afonso/afonso/183115
 http://185.165.243.104:25461/van/van/183115
 
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/tnt-series-logo-01.png" group-title="29- PREMIUM BRASIL",Tnt Series (6)
-http://iptv.csvix.net:8080/12345/12345/4847
+https://dn81l09fo7jaf.cloudfront.net/hls1/tntseries.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.temporadafinal.com/gallery/5400ebfa0cc26universal-channel-.png" group-title="29- PREMIUM BRASIL",Universal Channel (1)
 http://192.119.9.66/live/16C30F29-5D48-43C5-a3a3-5C2A69320A57.ts
@@ -2487,7 +2487,7 @@ http://185.165.243.104:25461/afonso/afonso/183106
 http://185.165.243.104:25461/van/van/183106
 
 #EXTINF:-1 tvg-logo="http://www.temporadafinal.com/gallery/5400ebfa0cc26universal-channel-.png" group-title="29- PREMIUM BRASIL",Universal Channel (6)
-http://iptv.csvix.net:8080/12345/12345/4645
+https://dn81l09fo7jaf.cloudfront.net/hls1/universal.m3u8
 
 #EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/08/d3e81-wb-hd-2011.png" group-title="29- PREMIUM BRASIL",Warner Channel (1)
 http://192.119.9.66/live/5BB0A0AE-00B9-426E-8cad-2372A6A24C08.ts
@@ -2505,7 +2505,7 @@ http://185.165.243.104:25461/afonso/afonso/183098
 http://185.165.243.104:25461/van/van/183098
 
 #EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/08/d3e81-wb-hd-2011.png" group-title="29- PREMIUM BRASIL",Warner Channel (6)
-http://iptv.csvix.net:8080/12345/12345/4654
+https://dn81l09fo7jaf.cloudfront.net/hls1/warner.m3u8
 
 ######################################################################################################################################
 #######################################
