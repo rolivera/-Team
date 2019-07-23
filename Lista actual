@@ -3869,7 +3869,7 @@ http://mixaac.crossradio.com.br:1100/live
 ######################################################################################################################################
 
 #EXTINF:-1 tvg-logo="https://www.televisioneducativa.gob.mx/work/models/DGTVE/Template/resource/canales/img/ingenio.png" group-title="40- EDUCATIVOS",Ingenio TV (1)
-http://51.77.246.215:25461/marcel/marcel/214658
+http://ca.stablechannels.tv:8080/live/uqviuunk/Yv4Ino625z/11329.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/TEC_TV_-_2012_logo.png" group-title="40- EDUCATIVOS",Tec TV
 http://tec_tv.secure2.footprint.net/egress/bhandler/streamroot_lsd2latam/tec_tv/manifest.m3u8
@@ -3882,7 +3882,7 @@ http://ic.imusicaradios.com.br:8000/brasil.stream.http?url=tunein
 ######################################################################################################################################
 
 #EXTINF:-1  tvg-logo="http://www.megacable.com.mx/images/canales/74_aym-sports.png" group-title="41- DEPORTES LATINO",Aym Sports (1)
-http://51.77.246.215:25461/marcel/marcel/137111
+http://ca.stablechannels.tv:8080/live/uqviuunk/Yv4Ino625z/11342.m3u8
 
 #EXTINF:-1  tvg-logo="http://www.megacable.com.mx/images/canales/74_aym-sports.png" group-title="41- DEPORTES LATINO",Aym Sports (3)
 http://51.77.246.215:25461/1782/1782/137111
@@ -3893,11 +3893,17 @@ http://btvboliviatv.srfms.com:6568/live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/Logo_CDF-TURNER_2019.png" group-title="41- DEPORTES LATINO",Cdf
 http://187.178.30.73:9981/stream/channelid/1742716645
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/Logo_CDF-TURNER_2019.png" group-title="41- DEPORTES LATINO",Cdf (1)
+http://ca.stablechannels.tv:8080/live/uqviuunk/Yv4Ino625z/18498.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/Logo_CDF-TURNER_2019.png" group-title="41- DEPORTES LATINO",Cdf (4)
 http://shacktv.com:8080/shooter44/shooter44/111125
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/Logo_CDF-TURNER_2019.png" group-title="41- DEPORTES LATINO",Cdf (5)
 http://shacktv.com:8080/skylar/skylar/111125
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/fa/Logocdfpremium2019.png/revision/latest?cb=20190216005645" group-title="41- DEPORTES LATINO",Cdf Premium (1)
+http://ca.stablechannels.tv:8080/live/uqviuunk/Yv4Ino625z/14224.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/fa/Logocdfpremium2019.png/revision/latest?cb=20190216005645" group-title="41- DEPORTES LATINO",Cdf Premium (4)
 http://shacktv.com:8080/shooter44/shooter44/61226
@@ -3911,6 +3917,15 @@ http://edge1.cl.grupoz.cl/cdofree/live/chunklist_w822432298.m3u8?GrupoTopIptv
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/06/cdo.png" group-title="41- DEPORTES LATINO",Cdo
 http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/06/cdo.png" group-title="41- DEPORTES LATINO",Cdo (1)
+http://ca.stablechannels.tv:8080/live/uqviuunk/Yv4Ino625z/14223.m3u8
+
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/06/cdo.png" group-title="41- DEPORTES LATINO",Cdo Play (1)
+http://ca.stablechannels.tv:8080/live/uqviuunk/Yv4Ino625z/14875.m3u8
+
+#EXTINF:-1 tvg-logo="https://lisa.zapping.live/uploads/canales/color/cdo.jpg" group-title="41- DEPORTES LATINO",Cdo Premium (1)
+http://ca.stablechannels.tv:8080/live/uqviuunk/Yv4Ino625z/4896.m3u8
+
 #EXTINF:-1 tvg-logo="https://lisa.zapping.live/uploads/canales/color/cdo.jpg" group-title="41- DEPORTES LATINO",Cdo Premium (4)
 http://shacktv.com:8080/shooter44/shooter44/61055
 
@@ -3918,7 +3933,7 @@ http://shacktv.com:8080/shooter44/shooter44/61055
 http://shacktv.com:8080/skylar/skylar/61055
 
 #EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/claro-sports.png" group-title="41- DEPORTES LATINO",Claro Sports (1)
-http://51.77.246.215:25461/marcel/marcel/60385
+http://ca.stablechannels.tv:8080/live/uqviuunk/Yv4Ino625z/13985.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/claro-sports.png" group-title="41- DEPORTES LATINO",Claro Sports (3)
 http://51.77.246.215:25461/1782/1782/60385
@@ -3935,17 +3950,26 @@ http://shacktv.com:8080/shooter44/shooter44/104913
 #EXTINF:-1 tvg-logo="http://mundovideomx.tv/imagenes/picons/l/claro.sports2..png" group-title="41- DEPORTES LATINO",Claro Sports 2 (5)
 http://shacktv.com:8080/skylar/skylar/104913
 
+#EXTINF:-1 tvg-logo="http://infonegocios.biz/uploads/directtvsportsinterna.png" group-title="41- DEPORTES LATINO",Directv Sports (1)
+http://ca.stablechannels.tv:8080/live/uqviuunk/Yv4Ino625z/17431.m3u8
+
 #EXTINF:-1 tvg-logo="http://infonegocios.biz/uploads/directtvsportsinterna.png" group-title="41- DEPORTES LATINO",Directv Sports (4)
 http://shacktv.com:8080/shooter44/shooter44/61058
 
 #EXTINF:-1 tvg-logo="http://infonegocios.biz/uploads/directtvsportsinterna.png" group-title="41- DEPORTES LATINO",Directv Sports (5)
 http://shacktv.com:8080/skylar/skylar/61058
 
+#EXTINF:-1 tvg-logo="http://telemicrotv.net/wp-content/uploads/2019/03/directvsports2.jpg" group-title="41- DEPORTES LATINO",Directv Sports 2 (1)
+http://ca.stablechannels.tv:8080/live/uqviuunk/Yv4Ino625z/16981.m3u8
+
 #EXTINF:-1 tvg-logo="http://telemicrotv.net/wp-content/uploads/2019/03/directvsports2.jpg" group-title="41- DEPORTES LATINO",Directv Sports 2 (4)
 http://shacktv.com:8080/shooter44/shooter44/61057
 
 #EXTINF:-1 tvg-logo="http://telemicrotv.net/wp-content/uploads/2019/03/directvsports2.jpg" group-title="41- DEPORTES LATINO",Directv Sports 2 (5)
 http://shacktv.com:8080/skylar/skylar/61057
+
+#EXTINF:-1 tvg-logo="http://alcymedia.com/wp-content/uploads/2017/08/directvsportsplustv.png" group-title="41- DEPORTES LATINO",Directv Sports + (1)
+http://ca.stablechannels.tv:8080/live/uqviuunk/Yv4Ino625z/16980.m3u8
 
 #EXTINF:-1 tvg-logo="http://alcymedia.com/wp-content/uploads/2017/08/directvsportsplustv.png" group-title="41- DEPORTES LATINO",Directv Sports + (4)
 http://shacktv.com:8080/shooter44/shooter44/61061
@@ -3963,7 +3987,7 @@ http://187.178.30.73:9981/stream/channelid/1734869303
 http://flow.nibbletv.info/CH/VJcxZ7cEbJEm/ESPN.m3u8
 
 #EXTINF:-1 tvg-logo="https://4e0ow51f67h221f1ggcbe9m4-wpengine.netdna-ssl.com/wp-content/uploads/2016/08/ESPN-logo.png" group-title="41- DEPORTES LATINO",Espn (1)
-http://51.77.246.215:25461/marcel/marcel/40504
+http://ca.stablechannels.tv:8080/live/uqviuunk/Yv4Ino625z/16972.m3u8
 
 #EXTINF:-1 tvg-logo="https://4e0ow51f67h221f1ggcbe9m4-wpengine.netdna-ssl.com/wp-content/uploads/2016/08/ESPN-logo.png" group-title="41- DEPORTES LATINO",Espn (4)
 http://shacktv.com:8080/shooter44/shooter44/111124
@@ -3978,7 +4002,7 @@ http://187.178.30.73:9981/stream/channelid/747569857
 http://flow.nibbletv.info/CH/VJcxZ7cEbJEm/ESPN-2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ya-webdesign.com/images/espn-2-logo-png-1.png" group-title="41- DEPORTES LATINO",Espn 2 (1)
-http://51.77.246.215:25461/marcel/marcel/40491
+http://ca.stablechannels.tv:8080/live/uqviuunk/Yv4Ino625z/16978.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ya-webdesign.com/images/espn-2-logo-png-1.png" group-title="41- DEPORTES LATINO",Espn 2 (3)
 http://51.77.246.215:25461/1782/1782/40491
@@ -3992,11 +4016,8 @@ http://shacktv.com:8080/skylar/skylar/111123
 #EXTINF:-1 tvg-logo="https://tvzamora.net/wp-content/uploads/2016/12/Logo-ESPN-3-By-Bauti.png" group-title="41- DEPORTES LATINO",Espn 3
 http://flow.nibbletv.info/CH/VJcxZ7cEbJEm/ESPN-3.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvzamora.net/wp-content/uploads/2016/12/Logo-ESPN-3-By-Bauti.png" group-title="41- DEPORTES LATINO",Espn 3 (1) MX
-http://51.77.246.215:25461/marcel/marcel/40490
-
-#EXTINF:-1 tvg-logo="https://tvzamora.net/wp-content/uploads/2016/12/Logo-ESPN-3-By-Bauti.png" group-title="41- DEPORTES LATINO",Espn 3 (1) CO
-http://51.77.246.215:25461/marcel/marcel/215179
+#EXTINF:-1 tvg-logo="https://tvzamora.net/wp-content/uploads/2016/12/Logo-ESPN-3-By-Bauti.png" group-title="41- DEPORTES LATINO",Espn 3 (1)
+http://ca.stablechannels.tv:8080/live/uqviuunk/Yv4Ino625z/16977.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvzamora.net/wp-content/uploads/2016/12/Logo-ESPN-3-By-Bauti.png" group-title="41- DEPORTES LATINO",Espn 3 (3)
 http://51.77.246.215:25461/1782/1782/40490
@@ -4008,13 +4029,13 @@ http://shacktv.com:8080/shooter44/shooter44/111122
 http://shacktv.com:8080/skylar/skylar/111122
 
 #EXTINF:-1 tvg-logo="https://league-mp7static.mlsdigital.net/styles/full_landscape/s3/images/espn_plus_white.png" group-title="41- DEPORTES LATINO",Espn + (1)
-http://51.77.246.215:25461/marcel/marcel/41128
+http://ca.stablechannels.tv:8080/live/uqviuunk/Yv4Ino625z/16973.m3u8
 
 #EXTINF:-1 tvg-logo="https://league-mp7static.mlsdigital.net/styles/full_landscape/s3/images/espn_plus_white.png" group-title="41- DEPORTES LATINO",Espn + (3)
 http://51.77.246.215:25461/1782/1782/41128
 
 #EXTINF:-1 tvg-logo="https://comcastspotlight.com/sites/default/files/networks/FOX_Deportes.png" group-title="41- DEPORTES LATINO",Fox Deportes (1)
-http://51.77.246.215:25461/marcel/marcel/39007
+http://ca.stablechannels.tv:8080/live/uqviuunk/Yv4Ino625z/11113.m3u8
 
 #EXTINF:-1 tvg-logo="https://comcastspotlight.com/sites/default/files/networks/FOX_Deportes.png" group-title="41- DEPORTES LATINO",Fox Deportes (3)
 http://51.77.246.215:25461/1782/1782/39007
@@ -4031,11 +4052,8 @@ http://187.178.30.73:9981/stream/channelid/369532750
 #EXTINF:-1 tvg-logo="https://i.ya-webdesign.com/images/fox-sports-1-png-5.png" group-title="41- DEPORTES LATINO",Fox Sports
 http://flow.nibbletv.info/CH/VJcxZ7cEbJEm/Fox-Sports.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ya-webdesign.com/images/fox-sports-1-png-5.png" group-title="41- DEPORTES LATINO",Fox Sports (1) MX
-http://51.77.246.215:25461/marcel/marcel/42206
-
-#EXTINF:-1 tvg-logo="https://i.ya-webdesign.com/images/fox-sports-1-png-5.png" group-title="41- DEPORTES LATINO",Fox Sports (1) CO
-http://51.77.246.215:25461/marcel/marcel/60269
+#EXTINF:-1 tvg-logo="https://i.ya-webdesign.com/images/fox-sports-1-png-5.png" group-title="41- DEPORTES LATINO",Fox Sports (1)
+http://ca.stablechannels.tv:8080/live/uqviuunk/Yv4Ino625z/16968.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ya-webdesign.com/images/fox-sports-1-png-5.png" group-title="41- DEPORTES LATINO",Fox Sports (3)
 http://51.77.246.215:25461/1782/1782/42206
@@ -4049,11 +4067,8 @@ http://shacktv.com:8080/skylar/skylar/111132
 #EXTINF:-1 tvg-logo="http://midiafatos.com.br/wp-content/uploads/2017/02/fox_sports2_N.png" group-title="41- DEPORTES LATINO",Fox Sports 2
 http://187.178.30.73:9981/stream/channelid/714118413
 
-#EXTINF:-1 tvg-logo="http://midiafatos.com.br/wp-content/uploads/2017/02/fox_sports2_N.png" group-title="41- DEPORTES LATINO",Fox Sports 2 (1) MX
-http://51.77.246.215:25461/marcel/marcel/40588
-
-#EXTINF:-1 tvg-logo="http://midiafatos.com.br/wp-content/uploads/2017/02/fox_sports2_N.png" group-title="41- DEPORTES LATINO",Fox Sports 2 (1) CO
-http://51.77.246.215:25461/marcel/marcel/60267
+#EXTINF:-1 tvg-logo="http://midiafatos.com.br/wp-content/uploads/2017/02/fox_sports2_N.png" group-title="41- DEPORTES LATINO",Fox Sports 2 (1)
+http://ca.stablechannels.tv:8080/live/uqviuunk/Yv4Ino625z/11711.m3u8
 
 #EXTINF:-1 tvg-logo="http://midiafatos.com.br/wp-content/uploads/2017/02/fox_sports2_N.png" group-title="41- DEPORTES LATINO",Fox Sports 2 (3)
 http://51.77.246.215:25461/1782/1782/40588
@@ -4067,11 +4082,8 @@ http://shacktv.com:8080/skylar/skylar/111131
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/fox-sports3-logos-01.png" group-title="41- DEPORTES LATINO",Fox Sports 3
 http://187.178.30.73:9981/stream/channelid/2121956186
 
-#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/fox-sports3-logos-01.png" group-title="41- DEPORTES LATINO",Fox Sports 3 (1) MX
-http://51.77.246.215:25461/marcel/marcel/40589
-
-#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/fox-sports3-logos-01.png" group-title="41- DEPORTES LATINO",Fox Sports 3 (1) CO
-http://51.77.246.215:25461/marcel/marcel/60268
+#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/fox-sports3-logos-01.png" group-title="41- DEPORTES LATINO",Fox Sports 3 (1)
+http://ca.stablechannels.tv:8080/live/uqviuunk/Yv4Ino625z/11712.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/fox-sports3-logos-01.png" group-title="41- DEPORTES LATINO",Fox Sports 3 (3)
 http://51.77.246.215:25461/1782/1782/40589
@@ -4085,11 +4097,17 @@ http://shacktv.com:8080/skylar/skylar/111130
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Fox_Sports_Premium_%28Argentina%29_-_2018_logo.png" group-title="41- DEPORTES LATINO",Fox Sports Premium
 http://187.178.30.73:9981/stream/channelid/441225195
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Fox_Sports_Premium_%28Argentina%29_-_2018_logo.png" group-title="41- DEPORTES LATINO",Fox Sports Premium (1)
+http://ca.stablechannels.tv:8080/live/uqviuunk/Yv4Ino625z/18485.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/goltv.png" group-title="41- DEPORTES LATINO",Gol Ecuador (1)
-http://51.77.246.215:25461/marcel/marcel/130859
+http://ca.stablechannels.tv:8080/live/uqviuunk/Yv4Ino625z/16955.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/goltv.png" group-title="41- DEPORTES LATINO",Gol Ecuador (3)
 http://51.77.246.215:25461/1782/1782/130859
+
+#EXTINF:-1 tvg-logo="http://www.brandemia.org/sites/default/files/captura_de_pantalla_2016-04-28_a_las_11.36.23_copia.png" group-title="41- DEPORTES LATINO",Gol Perú (1)
+http://ca.stablechannels.tv:8080/live/uqviuunk/Yv4Ino625z/16953.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.brandemia.org/sites/default/files/captura_de_pantalla_2016-04-28_a_las_11.36.23_copia.png" group-title="41- DEPORTES LATINO",Gol Perú (4)
 http://shacktv.com:8080/shooter44/shooter44/61237
@@ -4104,22 +4122,22 @@ http://shacktv.com:8080/shooter44/shooter44/111127
 http://shacktv.com:8080/skylar/skylar/111127
 
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/AFIZZIONADOS.png" group-title="41- DEPORTES LATINO",Izzi Afizzionados (1)
-http://51.77.246.215:25461/marcel/marcel/189980
+http://ca.stablechannels.tv:8080/live/uqviuunk/Yv4Ino625z/11259.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/AFIZZIONADOS.png" group-title="41- DEPORTES LATINO",Izzi Afizzionados (3)
 http://51.77.246.215:25461/1782/1782/189980
-
-#EXTINF:-1 tvg-logo="http://pxsports.com/wp-content/uploads/2017/01/PX-Retina.png" group-title="41- DEPORTES LATINO",PX Sports (1)
-http://51.77.246.215:25461/marcel/marcel/166753
 
 #EXTINF:-1 tvg-logo="http://pxsports.com/wp-content/uploads/2017/01/PX-Retina.png" group-title="41- DEPORTES LATINO",PX Sports (3)
 http://51.77.246.215:25461/1782/1782/166753
 
 #EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/77/771a9af9ba8f103834ed62d87387f516.png" group-title="41- DEPORTES LATINO",Tdn (1)
-http://51.77.246.215:25461/marcel/marcel/215479
+http://ca.stablechannels.tv:8080/live/uqviuunk/Yv4Ino625z/16949.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/77/771a9af9ba8f103834ed62d87387f516.png" group-title="41- DEPORTES LATINO",Tdn (3)
 http://51.77.246.215:25461/1782/1782/215479
+
+#EXTINF:-1 tvg-logo="http://budtv.ottmex.com/posters/1529007557436.png" group-title="41- DEPORTES LATINO",Tnt Sports (1)
+http://ca.stablechannels.tv:8080/live/uqviuunk/Yv4Ino625z/14728.m3u8
 
 #EXTINF:-1 tvg-logo="http://budtv.ottmex.com/posters/1529007557436.png" group-title="41- DEPORTES LATINO",Tnt Sports (4)
 http://shacktv.com:8080/shooter44/shooter44/61205
@@ -4128,13 +4146,13 @@ http://shacktv.com:8080/shooter44/shooter44/61205
 http://shacktv.com:8080/skylar/skylar/61205
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e1/TVC_Deportes_%282016-_%29.png/revision/latest?cb=20160124184041" group-title="41- DEPORTES LATINO",Tvc Deportes (1)
-http://51.77.246.215:25461/marcel/marcel/36214
+http://ca.stablechannels.tv:8080/live/uqviuunk/Yv4Ino625z/11343.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e1/TVC_Deportes_%282016-_%29.png/revision/latest?cb=20160124184041" group-title="41- DEPORTES LATINO",Tvc Deportes (3)
 http://51.77.246.215:25461/1782/1782/36214
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SAZczO7.png" group-title="41- DEPORTES LATINO",TyC (1)
-http://51.77.246.215:25461/marcel/marcel/41238
+http://ca.stablechannels.tv:8080/live/uqviuunk/Yv4Ino625z/16947.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SAZczO7.png" group-title="41- DEPORTES LATINO",TyC (3)
 http://51.77.246.215:25461/1782/1782/41238
@@ -4146,7 +4164,7 @@ http://shacktv.com:8080/shooter44/shooter44/111126
 http://shacktv.com:8080/skylar/skylar/111126
 
 #EXTINF:-1 tvg-logo="http://www.deltatre.com/wp-content/uploads/2014/02/300px-black.png" group-title="41- DEPORTES LATINO",Univisión Deportes (1)
-http://51.77.246.215:25461/marcel/marcel/14892
+http://ca.stablechannels.tv:8080/live/uqviuunk/Yv4Ino625z/16945.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.deltatre.com/wp-content/uploads/2014/02/300px-black.png" group-title="41- DEPORTES LATINO",Univisión Deportes (3)
 http://51.77.246.215:25461/1782/1782/14892
@@ -4156,6 +4174,9 @@ http://shacktv.com:8080/shooter44/shooter44/21671
 
 #EXTINF:-1 tvg-logo="http://www.deltatre.com/wp-content/uploads/2014/02/300px-black.png" group-title="41- DEPORTES LATINO",Univisión Deportes (5)
 http://shacktv.com:8080/skylar/skylar/21671
+
+#EXTINF:-1 tvg-logo="http://www.bienaldemontevideo.com/imgs/pat/vtv.png" group-title="41- DEPORTES LATINO",Vtv (1)
+http://ca.stablechannels.tv:8080/live/uqviuunk/Yv4Ino625z/13000.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.bienaldemontevideo.com/imgs/pat/vtv.png" group-title="41- DEPORTES LATINO",Vtv (4)
 http://shacktv.com:8080/shooter44/shooter44/105585
@@ -4170,7 +4191,7 @@ http://shacktv.com:8080/shooter44/shooter44/105584
 http://shacktv.com:8080/skylar/skylar/105584
 
 #EXTINF:-1 tvg-logo="http://tvcolombia.emiweb.es/medias/images/winsports-logo280x150.png" group-title="41- DEPORTES LATINO",Win Sports (1)
-http://51.77.246.215:25461/marcel/marcel/60277
+http://ca.stablechannels.tv:8080/live/uqviuunk/Yv4Ino625z/16942.m3u8
 
 #EXTINF:-1 tvg-logo="http://tvcolombia.emiweb.es/medias/images/winsports-logo280x150.png" group-title="41- DEPORTES LATINO",Win Sports (3)
 http://51.77.246.215:25461/1782/1782/60277
