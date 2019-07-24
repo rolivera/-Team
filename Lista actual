@@ -81,6 +81,9 @@ https://stream.vagalume.fm/hls/14658544132100453351/aac.m3u8
 #EXTINF:0 tvg-logo="http://www.speedbol.com.br/wp-content/uploads/2017/12/agro-brasil.png" group-title="04- BRASIL",Agro Brasil
 http://177.54.152.243:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
 
+#EXTINF:0 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/band-logo-png-6.png" group-title="04- BRASIL",Band (1)
+http://maxptv.ddns.net:25461/2/2/219
+
 #EXTINF:0 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/band-logo-png-6.png" group-title="04- BRASIL",Band (3)
 http://tv.factoryiptv.com:80/claudio/claudio/37127
 
@@ -89,9 +92,6 @@ http://185.165.243.104:25461/afonso/afonso/183417
 
 #EXTINF:0 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/band-logo-png-6.png" group-title="04- BRASIL",Band (5)
 http://185.165.243.104:25461/van/van/183417
-
-#EXTINF:0 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/band-logo-png-6.png" group-title="04- BRASIL",Band (6)
-
 
 #EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/tvgazeta.png" group-title="04- BRASIL",Gazeta (4)
 http://185.165.243.104:25461/afonso/afonso/183109
@@ -102,20 +102,8 @@ http://185.165.243.104:25461/van/van/183109
 #EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="04- BRASIL",Globo SD/Sportv SD
 http://placartv.futeboltv.com:8081/live/6/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="04- BRASIL",Globo Brasilia (1)
-http://192.119.9.66/live/765F0119-14A6-4092-a1ac-B90749DF5BAC.ts
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="04- BRASIL",Globo Minas (1)
-http://192.119.9.66/live/cbcc8be34dae221438ec265721521995.ts
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="04- BRASIL",Globo Nordeste (1)
-http://192.119.9.66/live/cyp-C4092F99E8AA42AE93b59A3C262B.ts
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="04- BRASIL",Globo Paraná (1)
-http://192.119.9.66/live/cyp-BACA93C15D1244B5a536244D1FBA.ts
-
 #EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="04- BRASIL",Globo SP (1)
-http://192.119.9.66/live/0E71CD25-6207-4EB0-8545-DF56BF0F931E.ts
+http://maxptv.ddns.net:25461/2/2/67
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="04- BRASIL",Globo SP (3)
 http://tv.factoryiptv.com:80/claudio/claudio/37090
@@ -126,6 +114,9 @@ http://185.165.243.104:25461/afonso/afonso/183289
 #EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="04- BRASIL",Globo SP (5)
 http://185.165.243.104:25461/van/van/183289
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/6/67/EPTV.png/200px-EPTV.png" group-title="04- BRASIL",Globo Rio Preto (1)
+http://maxptv.ddns.net:25461/2/2/700
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="04- BRASIL",Globo RJ (3)
 http://tv.factoryiptv.com:80/claudio/claudio/37091
 
@@ -134,9 +125,6 @@ http://185.165.243.104:25461/afonso/afonso/183293
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="04- BRASIL",Globo RJ (5)
 http://185.165.243.104:25461/van/van/183293
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c3/RBS_TV.png" group-title="04- BRASIL",Globo RBS (1)
-http://192.119.9.66/live/cyp-26AD03DA528647C7863b7F66CBDC.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c3/RBS_TV.png" group-title="04- BRASIL",Globo RBS (3)
 http://tv.factoryiptv.com:80/claudio/claudio/40253
@@ -147,20 +135,14 @@ http://185.165.243.104:25461/afonso/afonso/183513
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c3/RBS_TV.png" group-title="04- BRASIL",Globo RBS (5)
 http://185.165.243.104:25461/van/van/183513
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/NBR_logo_2016.svg/1280px-NBR_logo_2016.svg.png" group-title="04- BRASIL",NBR (1)
-http://192.119.9.66/live/FD539875-2FD8-4EB1-b01d-AEC0FEF16C40.ts
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/NBR_logo_2016.svg/1280px-NBR_logo_2016.svg.png" group-title="04- BRASIL",NBR (3)
 http://tv.factoryiptv.com:80/claudio/claudio/50929
-
-#EXTINF:-1 tvg-logo="http://imagem.natelinha.uol.com.br/grande/redebrasil-logo2015.jpg" group-title="04- BRASIL",Rede Brasil (1)
-http://192.119.9.66/live/C091D26A-6B9B-4DDB-ac68-5B2DCF2AF470.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/LOGO_REDETV%21.png" group-title="04- BRASIL",Rede TV SD
 http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/k4haEx6.png" group-title="04- BRASIL",Rede TV (1)
-http://192.119.9.66/live/25819AE5-B0CB-40FC-9274-A2F2EDD1FF86.ts
+http://maxptv.ddns.net:25461/2/2/2472
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/k4haEx6.png" group-title="04- BRASIL",Rede TV (3)
 http://tv.factoryiptv.com:80/claudio/claudio/51024
@@ -172,7 +154,7 @@ http://185.165.243.104:25461/afonso/afonso/183171
 http://185.165.243.104:25461/van/van/183171
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="04- BRASIL",Record (1)
-http://192.119.9.66/live/gy8sjex0hws25l5j3jq50mltk20z965m.ts
+http://maxptv.ddns.net:25461/2/2/63
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="04- BRASIL",Record (3)
 http://tv.factoryiptv.com:80/claudio/claudio/37051
@@ -186,6 +168,9 @@ http://185.165.243.104:25461/van/van/183174
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" group-title="04- BRASIL",SBT Interior SD
 https://5a1c76baf08c0.streamlock.net/z343-live/stream/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="04- BRASIL",SBT (1)
+http://maxptv.ddns.net:25461/2/2/57
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="04- BRASIL",SBT (3)
 http://tv.factoryiptv.com:80/claudio/claudio/51044
 
@@ -195,8 +180,8 @@ http://185.165.243.104:25461/afonso/afonso/183163
 #EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="04- BRASIL",SBT (5)
 http://185.165.243.104:25461/van/van/183163
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="04- BRASIL",SBT (6)
-
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tv-cultura-logo-8043A38965-seeklogo.com.png" group-title="04- BRASIL",Tv Cultura (1)
+http://maxptv.ddns.net:25461/2/2/191
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tv-cultura-logo-8043A38965-seeklogo.com.png" group-title="04- BRASIL",Tv Cultura (4)
 http://185.165.243.104:25461/afonso/afonso/183390
@@ -1637,7 +1622,7 @@ http://ic7.101.ru:8000/a23
 #######################################################################################################################################################################################
 
 #EXTINF:-1 tvg-logo="https://www.directv.com/images/logos/channels/dark/large/313.png" group-title="29- PREMIUM BRASIL",Amc (1)
-http://192.119.9.66/live/CB9A2D16-F165-4B16-b69f-21FA119082D2.ts
+http://maxptv.ddns.net:25461/2/2/228
 
 #EXTINF:-1 tvg-logo="https://www.directv.com/images/logos/channels/dark/large/313.png" group-title="29- PREMIUM BRASIL",Amc (2)
 https://d2x66w752hdvvk.cloudfront.net/hls1/amc.m3u8
@@ -1653,6 +1638,9 @@ http://streamtv.com.br:80/live/julia10/julia10/232.rtmp
 
 #EXTINF:-1 tvg-logo="https://www.directv.com/images/logos/channels/dark/large/313.png" group-title="29- PREMIUM BRASIL",Amc (6) FHD
 http://iptvtool.es:9977/live/Gustabo._Zener/qqy2icQjp4/59456.rtmp
+
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/axn.png" group-title="29- PREMIUM BRASIL",Axn (1)
+http://maxptv.ddns.net:25461/2/2/223
 
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/axn.png" group-title="29- PREMIUM BRASIL",Axn (2)
 https://d2x66w752hdvvk.cloudfront.net/hls1/axn.m3u8
@@ -1670,7 +1658,7 @@ http://streamtv.com.br:80/live/julia10/julia10/229.rtmp
 http://iptvtool.es:9977/live/Gustabo._Zener/qqy2icQjp4/59453.rtmp
 
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cine/16.png" group-title="29- PREMIUM BRASIL",Cinemax (1)
-http://192.119.9.66/live/3CAE4BE6-1960-40EB-ab26-8EC37D983EB0.ts
+http://maxptv.ddns.net:25461/2/2/197
 
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cine/16.png" group-title="29- PREMIUM BRASIL",Cinemax (2)
 https://d2x66w752hdvvk.cloudfront.net/hls1/cinemax.m3u8
@@ -1685,7 +1673,7 @@ http://185.165.243.104:25461/afonso/afonso/183403
 http://streamtv.com.br:80/live/julia10/julia10/219.rtmp
 
 #EXTINF:-1 tvg-logo="http://new.lamac.org/system/channels/logos/000/000/044/original/pic_comedycentral.png?1522177270" group-title="29- PREMIUM BRASIL",Comedy Central (1)
-http://192.119.9.66/live/1234C617-A20F-4FE1-b962-12E55F7123A2.ts
+http://maxptv.ddns.net:25461/2/2/193
 
 #EXTINF:-1 tvg-logo="http://new.lamac.org/system/channels/logos/000/000/044/original/pic_comedycentral.png?1522177270" group-title="29- PREMIUM BRASIL",Comedy Central (2)
 https://d2x66w752hdvvk.cloudfront.net/hls1/comedycentral.m3u8
@@ -1700,7 +1688,7 @@ http://streamtv.com.br:80/live/julia10/julia10/217.rtmp
 http://iptvtool.es:9977/live/Gustabo._Zener/qqy2icQjp4/59437.rtmp
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Al6Y2.png" group-title="29- PREMIUM BRASIL",Fox (1)
-http://192.119.9.66/live/DAD6B460-4635-4986-bad2-8E9673D54CB0.ts
+http://maxptv.ddns.net:25461/2/2/147
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Al6Y2.png" group-title="29- PREMIUM BRASIL",Fox (2)
 https://d2x66w752hdvvk.cloudfront.net/hls1/fox.m3u8
@@ -1718,7 +1706,7 @@ http://streamtv.com.br:80/live/julia10/julia10/197.rtmp
 http://iptvtool.es:9977/live/Gustabo._Zener/qqy2icQjp4/59422.rtmp
 
 #EXTINF:-1 tvg-logo="http://neurads.com/wp-content/uploads/foxlife-2.png" group-title="29- PREMIUM BRASIL",Fox Life (1)
-http://192.119.9.66/live/7E89A300-DC45-491E-8725-4A3563BCA55C.ts
+http://maxptv.ddns.net:25461/2/2/152
 
 #EXTINF:-1 tvg-logo="http://neurads.com/wp-content/uploads/foxlife-2.png" group-title="29- PREMIUM BRASIL",Fox Life (2)
 https://d2x66w752hdvvk.cloudfront.net/hls1/foxlife.m3u8
@@ -1733,7 +1721,7 @@ http://185.165.243.104:25461/afonso/afonso/183331
 http://streamtv.com.br:80/live/julia10/julia10/196.rtmp
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/59/FOXPremium1.png/revision/latest?cb=20170324170019" group-title="29- PREMIUM BRASIL",Fox Premium 1 (1)
-http://192.119.9.66/live/6D65C787-24B5-4A10-ba47-CD1A02A14BED.ts
+http://maxptv.ddns.net:25461/2/2/148
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/59/FOXPremium1.png/revision/latest?cb=20170324170019" group-title="29- PREMIUM BRASIL",Fox Premium 1 (2)
 https://d2x66w752hdvvk.cloudfront.net/hls1/foxpremium1.m3u8
@@ -1748,7 +1736,7 @@ http://185.165.243.104:25461/afonso/afonso/183329
 http://streamtv.com.br:80/live/julia10/julia10/195.rtmp
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/28/FOXPremium2.png/revision/latest?cb=20170324170127" group-title="29- PREMIUM BRASIL",Fox Premium 2 (1)
-http://192.119.9.66/live/guI7VZMqqTfuxAzMWu6sQoE4ceTsRDqd.ts
+http://maxptv.ddns.net:25461/2/2/150
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/28/FOXPremium2.png/revision/latest?cb=20170324170127" group-title="29- PREMIUM BRASIL",Fox Premium 2 (2)
 https://d2x66w752hdvvk.cloudfront.net/hls1/foxpremium2.m3u8
@@ -1760,7 +1748,7 @@ http://185.165.243.104:25461/afonso/afonso/183326
 http://streamtv.com.br:80/live/julia10/julia10/194.rtmp
 
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-JBwoh8YDdKY/TyztsSnAnTI/AAAAAAAAAMc/UHfWADlmytY/s1600/fx_hd.png" group-title="29- PREMIUM BRASIL",Fx (1)
-http://192.119.9.66/live/C32B5BA2-7CE8-4091-b2f6-4E1FAD71D2F8.ts
+http://maxptv.ddns.net:25461/2/2/141
 
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-JBwoh8YDdKY/TyztsSnAnTI/AAAAAAAAAMc/UHfWADlmytY/s1600/fx_hd.png" group-title="29- PREMIUM BRASIL",Fx (2)
 https://d2x66w752hdvvk.cloudfront.net/hls1/fx.m3u8
@@ -1775,7 +1763,7 @@ http://185.165.243.104:25461/afonso/afonso/183314
 http://streamtv.com.br:80/live/julia10/julia10/190.rtmp
 
 #EXTINF:-1 tvg-logo="https://vectors.pro/wp-content/uploads/2017/10/hbo-logo-vector.png" group-title="29- PREMIUM BRASIL",Hbo (1)
-http://192.119.9.66/live/B2C15DCC-0260-41EE-a09b-C482C6A77623.ts
+http://maxptv.ddns.net:25461/2/2/123
 
 #EXTINF:-1 tvg-logo="https://vectors.pro/wp-content/uploads/2017/10/hbo-logo-vector.png" group-title="29- PREMIUM BRASIL",Hbo (2)
 https://d2x66w752hdvvk.cloudfront.net/hls1/hbo.m3u8
@@ -1793,7 +1781,7 @@ http://streamtv.com.br:80/live/julia10/julia10/170.rtmp
 http://iptvtool.es:9977/live/Gustabo._Zener/qqy2icQjp4/59412.rtmp
 
 #EXTINF:-1 tvg-logo="http://aux4.iconspalace.com/uploads/797638582344877408.png" group-title="29- PREMIUM BRASIL",Hbo 2 (1)
-http://192.119.9.66/live/DCFC9E24-DE24-4E8A-8463-D8CD2AAAE0DD.ts
+http://maxptv.ddns.net:25461/2/2/131
 
 #EXTINF:-1 tvg-logo="http://aux4.iconspalace.com/uploads/797638582344877408.png" group-title="29- PREMIUM BRASIL",Hbo 2 (2)
 https://d2x66w752hdvvk.cloudfront.net/hls1/hbo2.m3u8
@@ -1811,7 +1799,7 @@ http://streamtv.com.br:80/live/julia10/julia10/172.rtmp
 http://iptvtool.es:9977/live/Gustabo._Zener/qqy2icQjp4/59407.rtmp
 
 #EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/hbo-family-logo-320x320-745790760.png" group-title="29- PREMIUM BRASIL",Hbo Family (1)
-http://192.119.9.66/live/4D5BDDC7-5CC3-42A0-97b7-FD21601AB745.ts
+http://maxptv.ddns.net:25461/2/2/129
 
 #EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/hbo-family-logo-320x320-745790760.png" group-title="29- PREMIUM BRASIL",Hbo Family (2)
 https://d2x66w752hdvvk.cloudfront.net/hls1/hbofamily.m3u8
@@ -1829,7 +1817,7 @@ http://streamtv.com.br:80/live/julia10/julia10/171.rtmp
 http://iptvtool.es:9977/live/Gustabo._Zener/qqy2icQjp4/59411.rtmp
 
 #EXTINF:-1 tvg-logo="http://contenidos.cablevision.com.mx/guia_programacion/channels/634.png" group-title="29- PREMIUM BRASIL",Hbo Plus (1)
-http://192.119.9.66/live/AD0EE87B-9728-4E4D-b636-D8CAF0CAF16C.ts
+http://maxptv.ddns.net:25461/2/2/124
 
 #EXTINF:-1 tvg-logo="http://contenidos.cablevision.com.mx/guia_programacion/channels/634.png" group-title="29- PREMIUM BRASIL",Hbo Plus (2)
 https://d2x66w752hdvvk.cloudfront.net/hls1/hboplus.m3u8
@@ -1850,7 +1838,7 @@ http://tv.factoryiptv.com:80/claudio/claudio/50793
 http://185.165.243.104:25461/afonso/afonso/183259
 
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/mx/HBOSignature.mx.png" group-title="29- PREMIUM BRASIL",Hbo Signature (1)
-http://192.119.9.66/live/EFC82DA6-9F28-4F49-a4f1-70A528D971CE.ts
+http://maxptv.ddns.net:25461/2/2/121
 
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/mx/HBOSignature.mx.png" group-title="29- PREMIUM BRASIL",Hbo Signature (2)
 https://d2x66w752hdvvk.cloudfront.net/hls1/hbosignature.m3u8
@@ -1868,10 +1856,10 @@ http://streamtv.com.br:80/live/julia10/julia10/168.rtmp
 http://iptvtool.es:9977/live/Gustabo._Zener/qqy2icQjp4/59408.rtmp
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/I.Sat_logo.svg/1200px-I.Sat_logo.svg.png" group-title="29- PREMIUM BRASIL",I Sat (1)
-http://192.119.9.66/live/85Zgd48ymjb6GeRVR8AmvvrV5PHdrIKl.ts
+
 
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-I_y7DS7ckN4/U2Au0ohgyEI/AAAAAAAACRI/UUmABBsgA2A/s1600/Max_HD-fullcaleta.biz.png" group-title="29- PREMIUM BRASIL",Max (1)
-http://192.119.9.66/live/54BFA6BE-FFA2-4BA2-a4ac-6B86B553C157.ts
+http://maxptv.ddns.net:25461/2/2/107
 
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-I_y7DS7ckN4/U2Au0ohgyEI/AAAAAAAACRI/UUmABBsgA2A/s1600/Max_HD-fullcaleta.biz.png" group-title="29- PREMIUM BRASIL",Max (2)
 https://d2x66w752hdvvk.cloudfront.net/hls1/max.m3u8
@@ -1886,7 +1874,7 @@ http://185.165.243.104:25461/afonso/afonso/183245
 http://streamtv.com.br:80/live/julia10/julia10/163.rtmp
 
 #EXTINF:-1 tvg-logo="http://sky.vteximg.com.br/arquivos/ids/156096/maxprime-hd.png?v=636446344633130000" group-title="29- PREMIUM BRASIL",Max Prime (1)
-http://192.119.9.66/live/A85FC536-963C-4367-97a7-CFAC0EA0FD1E.ts
+http://maxptv.ddns.net:25461/2/2/108
 
 #EXTINF:-1 tvg-logo="http://sky.vteximg.com.br/arquivos/ids/156096/maxprime-hd.png?v=636446344633130000" group-title="29- PREMIUM BRASIL",Max Prime (2)
 https://d2x66w752hdvvk.cloudfront.net/hls1/maxprime.m3u8
@@ -1904,7 +1892,7 @@ http://streamtv.com.br:80/live/julia10/julia10/162.rtmp
 http://iptvtool.es:9977/live/Gustabo._Zener/qqy2icQjp4/59401.rtmp
 
 #EXTINF:-1 tvg-logo="https://www.totalplay.com.mx/images/logos/canales/hbomax/max-up.png" group-title="29- PREMIUM BRASIL",Max Up (1)
-http://192.119.9.66/live/0288CECA-5616-4234-bf1a-4E33F4AD925C.ts
+http://maxptv.ddns.net:25461/2/2/105
 
 #EXTINF:-1 tvg-logo="https://www.totalplay.com.mx/images/logos/canales/hbomax/max-up.png" group-title="29- PREMIUM BRASIL",Max Up (2)
 https://d2x66w752hdvvk.cloudfront.net/hls1/maxup.m3u8
@@ -1922,7 +1910,7 @@ http://streamtv.com.br:80/live/julia10/julia10/161.rtmp
 http://iptvtool.es:9977/live/Gustabo._Zener/qqy2icQjp4/59400.rtmp
 
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/megapix-logo-png-7.png" group-title="29- PREMIUM BRASIL",Megapix (1)
-http://192.119.9.66/live/D85A8E66-8B2A-4A9A-8ece-C152789B8ADF.ts
+http://maxptv.ddns.net:25461/2/2/103
 
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/megapix-logo-png-7.png" group-title="29- PREMIUM BRASIL",Megapix (2)
 https://d2x66w752hdvvk.cloudfront.net/hls1/megapix.m3u8
@@ -1940,7 +1928,7 @@ http://streamtv.com.br:80/live/julia10/julia10/160.rtmp
 http://iptvtool.es:9977/live/Gustabo._Zener/qqy2icQjp4/59327.rtmp
 
 #EXTINF:-1 tvg-logo="http://vertelevisor.com/imagenes/paramount-channel.png" group-title="29- PREMIUM BRASIL",Paramount (1)
-http://192.119.9.66/live/34179B81-87C5-4711-8d8e-1B8D8E23D177.ts
+http://maxptv.ddns.net:25461/2/2/85
 
 #EXTINF:-1 tvg-logo="http://vertelevisor.com/imagenes/paramount-channel.png" group-title="29- PREMIUM BRASIL",Paramount (2)
 https://d2x66w752hdvvk.cloudfront.net/hls1/paramount.m3u8
@@ -1958,7 +1946,7 @@ http://streamtv.com.br:80/live/julia10/julia10/150.rtmp
 http://iptvtool.es:9977/live/Gustabo._Zener/qqy2icQjp4/59389.rtmp
 
 #EXTINF:-1 tvg-logo="https://www.totalplay.com.mx/images/logos/canales/entretenimiento/canal-sony.png" group-title="29- PREMIUM BRASIL",Sony (1)
-http://192.119.9.66/live/31758E4F-5422-465B-b2b0-5049F10E212B.ts
+http://maxptv.ddns.net:25461/2/2/51
 
 #EXTINF:-1 tvg-logo="https://www.totalplay.com.mx/images/logos/canales/entretenimiento/canal-sony.png" group-title="29- PREMIUM BRASIL",Sony (2)
 https://d2x66w752hdvvk.cloudfront.net/hls1/sony.m3u8
@@ -1976,7 +1964,7 @@ http://streamtv.com.br:80/live/julia10/julia10/221.rtmp
 http://iptvtool.es:9977/live/Gustabo._Zener/qqy2icQjp4/59442.rtmp
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8.png" group-title="29- PREMIUM BRASIL",Space (1)
-http://192.119.9.66/live/D7E6E135-5520-406B-a08e-A51674E80667.ts
+http://maxptv.ddns.net:25461/2/2/49
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8.png" group-title="29- PREMIUM BRASIL",Space (2)
 https://d2x66w752hdvvk.cloudfront.net/hls1/space.m3u8
@@ -1994,7 +1982,7 @@ http://streamtv.com.br:80/live/julia10/julia10/137.rtmp
 http://iptvtool.es:9977/live/Gustabo._Zener/qqy2icQjp4/59369.rtmp
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/04/9e/d4/049ed43cd66568e2061b7bb44a00a925.png" group-title="29- PREMIUM BRASIL",Studio Universal (1)
-http://192.119.9.66/live/C84F9203-7C0B-48DC-8020-04BAEC20A6FC.ts
+http://maxptv.ddns.net:25461/2/2/41
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/04/9e/d4/049ed43cd66568e2061b7bb44a00a925.png" group-title="29- PREMIUM BRASIL",Studio Universal (2)
 https://d2x66w752hdvvk.cloudfront.net/hls1/studiouniversal.m3u8
@@ -2012,7 +2000,7 @@ http://streamtv.com.br:80/live/julia10/julia10/133.rtmp
 http://iptvtool.es:9977/live/Gustabo._Zener/qqy2icQjp4/59365.rtmp
 
 #EXTINF:-1 tvg-logo="https://www.programacion.tv/images/syfy.png" group-title="29- PREMIUM BRASIL",Syfy (1)
-http://192.119.9.66/live/562366C6-6676-453E-96a9-E97D57F3C951.ts
+http://maxptv.ddns.net:25461/2/2/39
 
 #EXTINF:-1 tvg-logo="https://www.programacion.tv/images/syfy.png" group-title="29- PREMIUM BRASIL",Syfy (2)
 https://d2x66w752hdvvk.cloudfront.net/hls1/syfy.m3u8
@@ -2030,7 +2018,7 @@ http://streamtv.com.br:80/live/julia10/julia10/132.rtmp
 http://iptvtool.es:9977/live/Gustabo._Zener/qqy2icQjp4/59320.rtmp
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Telecine_Action_2.png" group-title="29- PREMIUM BRASIL",Telecine Action (1)
-http://192.119.9.66/live/39BF6921-889C-43C9-aef5-4E11BD9D6653.ts
+http://maxptv.ddns.net:25461/2/2/33
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Telecine_Action_2.png" group-title="29- PREMIUM BRASIL",Telecine Action (2)
 https://d2x66w752hdvvk.cloudfront.net/hls1/telecineaction.m3u8
@@ -2048,7 +2036,7 @@ http://streamtv.com.br:80/live/julia10/julia10/130.rtmp
 http://iptvtool.es:9977/live/Gustabo._Zener/qqy2icQjp4/59362.rtmp
 
 #EXTINF:-1 tvg-logo="https://skytvplanos.com.br/img/channels/lg-66-canal-tc-cult.png" group-title="29- PREMIUM BRASIL",Telecine Cult (1)
-http://192.119.9.66/live/8D84A824-DCB7-496F-b971-C9500AFA435E.ts
+http://maxptv.ddns.net:25461/2/2/32
 
 #EXTINF:-1 tvg-logo="https://skytvplanos.com.br/img/channels/lg-66-canal-tc-cult.png" group-title="29- PREMIUM BRASIL",Telecine Cult (2)
 https://d2x66w752hdvvk.cloudfront.net/hls1/telecinecult.m3u8
@@ -2066,7 +2054,7 @@ http://streamtv.com.br:80/live/julia10/julia10/129.rtmp
 http://iptvtool.es:9977/live/Gustabo._Zener/qqy2icQjp4/59361.rtmp
 
 #EXTINF:-1 tvg-logo="https://skytvplanos.com.br/img/channels/lg-65-canal-tc-fun.png" group-title="29- PREMIUM BRASIL",Telecine Fun (1)
-http://192.119.9.66/live/7DB0D9C7-2185-49EB-bbb8-0B717185979E.ts
+http://maxptv.ddns.net:25461/2/2/29
 
 #EXTINF:-1 tvg-logo="https://skytvplanos.com.br/img/channels/lg-65-canal-tc-fun.png" group-title="29- PREMIUM BRASIL",Telecine Fun (2)
 https://d2x66w752hdvvk.cloudfront.net/hls1/telecinefun.m3u8
@@ -2084,7 +2072,7 @@ http://streamtv.com.br:80/live/julia10/julia10/128.rtmp
 http://iptvtool.es:9977/live/Gustabo._Zener/qqy2icQjp4/59360.rtmp
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_telecine-pipoca-hd_m.png" group-title="29- PREMIUM BRASIL",Telecine Pipoca (1)
-http://192.119.9.66/live/0895A939-61BE-4D12-b427-27123DB260E0.ts
+http://maxptv.ddns.net:25461/2/2/27
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_telecine-pipoca-hd_m.png" group-title="29- PREMIUM BRASIL",Telecine Pipoca (2)
 https://d2x66w752hdvvk.cloudfront.net/hls1/telecinepipoca.m3u8
@@ -2102,7 +2090,7 @@ http://streamtv.com.br:80/live/julia10/julia10/127.rtmp
 http://iptvtool.es:9977/live/Gustabo._Zener/qqy2icQjp4/59359.rtmp
 
 #EXTINF:-1 tvg-logo="http://logowiki.net/wp-content/uploads/2018/01/Telecine-Premium-Logo-1-9853.png" group-title="29- PREMIUM BRASIL",Telecine Premium (1)
-http://192.119.9.66/live/106FA860-511B-400C-b1e5-A9252CB8EE8A.ts
+http://maxptv.ddns.net:25461/2/2/25
 
 #EXTINF:-1 tvg-logo="http://logowiki.net/wp-content/uploads/2018/01/Telecine-Premium-Logo-1-9853.png" group-title="29- PREMIUM BRASIL",Telecine Premium (2)
 https://d2x66w752hdvvk.cloudfront.net/hls1/telecinepremium.m3u8
@@ -2120,7 +2108,7 @@ http://streamtv.com.br:80/live/julia10/julia10/126.rtmp
 http://iptvtool.es:9977/live/Gustabo._Zener/qqy2icQjp4/59358.rtmp
 
 #EXTINF:-1 tvg-logo="https://skytvplanos.com.br/img/channels/lg-263-canal-tc-touch-hd.png" group-title="29- PREMIUM BRASIL",Telecine Touch (1)
-http://192.119.9.66/live/D45874BB-F421-4633-addf-0F8D59749CA8.ts
+http://maxptv.ddns.net:25461/2/2/23
 
 #EXTINF:-1 tvg-logo="https://skytvplanos.com.br/img/channels/lg-263-canal-tc-touch-hd.png" group-title="29- PREMIUM BRASIL",Telecine Touch (2)
 https://d2x66w752hdvvk.cloudfront.net/hls1/telecinetouch.m3u8
@@ -2138,10 +2126,7 @@ http://streamtv.com.br:80/live/julia10/julia10/125.rtmp
 http://iptvtool.es:9977/live/Gustabo._Zener/qqy2icQjp4/59357.rtmp
 
 #EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/011/original/pic_tbs.png?1522176341" group-title="29- PREMIUM BRASIL",Tbs (1)
-http://192.119.9.66/live/272047B5-CA93-4F30-8851-52ADF52DD547.ts
-
-#EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/011/original/pic_tbs.png?1522176341" group-title="29- PREMIUM BRASIL",Tbs (2)
-
+http://maxptv.ddns.net:25461/2/2/37
 
 #EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/011/original/pic_tbs.png?1522176341" group-title="29- PREMIUM BRASIL",Tbs (3)
 http://tv.factoryiptv.com:80/claudio/claudio/41505
@@ -2154,6 +2139,9 @@ http://streamtv.com.br:80/live/julia10/julia10/131.rtmp
 
 #EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/011/original/pic_tbs.png?1522176341" group-title="29- PREMIUM BRASIL",Tbs (6) 
 http://iptvtool.es:9977/live/Gustabo._Zener/qqy2icQjp4/59364.rtmp
+
+#EXTINF:-1 tvg-logo="https://gartel.es/canales/tcm.png" group-title="29- PREMIUM BRASIL",Tcm (1)
+http://maxptv.ddns.net:25461/2/2/35
 
 #EXTINF:-1 tvg-logo="https://gartel.es/canales/tcm.png" group-title="29- PREMIUM BRASIL",Tcm (2)
 https://d2x66w752hdvvk.cloudfront.net/hls1/tcm.m3u8
@@ -2171,7 +2159,7 @@ http://streamtv.com.br:80/live/julia10/julia10/1549.rtmp
 http://iptvtool.es:9977/live/Gustabo._Zener/qqy2icQjp4/59363.rtmp
 
 #EXTINF:-1 tvg-logo="http://mareatvcable.com/wp-content/uploads/2017/12/44-tntlogo.png" group-title="29- PREMIUM BRASIL",Tnt (1)
-http://192.119.9.66/live/48A21980-EA88-4BA3-b128-267444A96B53.ts
+http://maxptv.ddns.net:25461/2/2/19
 
 #EXTINF:-1 tvg-logo="http://mareatvcable.com/wp-content/uploads/2017/12/44-tntlogo.png" group-title="29- PREMIUM BRASIL",Tnt (2)
 https://d2x66w752hdvvk.cloudfront.net/hls1/tnt.m3u8
@@ -2186,7 +2174,7 @@ http://185.165.243.104:25461/afonso/afonso/183119
 http://streamtv.com.br:80/live/julia10/julia10/123.rtmp
 
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/tnt-series-logo-01.png" group-title="29- PREMIUM BRASIL",Tnt Series (1)
-http://192.119.9.66/live/XLpOozM8aS4MU5SdcazKc9chVmEzUY9G.ts
+http://maxptv.ddns.net:25461/2/2/17
 
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/tnt-series-logo-01.png" group-title="29- PREMIUM BRASIL",Tnt Series (2)
 https://d2x66w752hdvvk.cloudfront.net/hls1/tntseries.m3u8
@@ -2204,7 +2192,7 @@ http://streamtv.com.br:80/live/julia10/julia10/122.rtmp
 http://iptvtool.es:9977/live/Gustabo._Zener/qqy2icQjp4/59353.rtmp
 
 #EXTINF:-1 tvg-logo="http://www.temporadafinal.com/gallery/5400ebfa0cc26universal-channel-.png" group-title="29- PREMIUM BRASIL",Universal Channel (1)
-http://192.119.9.66/live/16C30F29-5D48-43C5-a3a3-5C2A69320A57.ts
+http://maxptv.ddns.net:25461/2/2/11
 
 #EXTINF:-1 tvg-logo="http://www.temporadafinal.com/gallery/5400ebfa0cc26universal-channel-.png" group-title="29- PREMIUM BRASIL",Universal Channel (2)
 https://d2x66w752hdvvk.cloudfront.net/hls1/universal.m3u8
@@ -2222,7 +2210,7 @@ http://streamtv.com.br:80/live/julia10/julia10/118.rtmp
 http://iptvtool.es:9977/live/Gustabo._Zener/qqy2icQjp4/59340.rtmp
 
 #EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/08/d3e81-wb-hd-2011.png" group-title="29- PREMIUM BRASIL",Warner Channel (1)
-http://192.119.9.66/live/5BB0A0AE-00B9-426E-8cad-2372A6A24C08.ts
+http://maxptv.ddns.net:25461/2/2/3
 
 #EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/08/d3e81-wb-hd-2011.png" group-title="29- PREMIUM BRASIL",Warner Channel (2)
 https://d2x66w752hdvvk.cloudfront.net/hls1/warner.m3u8
