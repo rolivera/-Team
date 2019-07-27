@@ -928,6 +928,9 @@ http://ic7.101.ru:8000/a15
 #EXTINF:-1 tvg-logo="http://diretele.com/wp-content/uploads/2018/09/alcarria-tv-en-directo.png" group-title="27- PREMIUM ESPAÑA",Alcarria TV
 http://217.182.77.27/live/alcarriatv-livestream.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/243-2437709_open-blaze-canal.png" group-title="27- PREMIUM ESPAÑA",Blaze
+http://54.38.93.177:8000/live/IPTVHIT/ZkczisPJZk/115.ts
+
 #EXTINF:-1 tvg-logo="http://trecetv.es/images/logo-og.png" group-title="27- PREMIUM ESPAÑA",Canal 13
 http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/chunklist.m3u8
 
@@ -946,6 +949,9 @@ http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Divinity.svg/1200px-Divinity.svg.png" group-title="27- PREMIUM ESPAÑA",Divinity
 http://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Historia_CMYKblack.png/1200px-Historia_CMYKblack.png" group-title="27- PREMIUM ESPAÑA",Historia
+http://54.38.93.177:8000/live/IPTVHIT/ZkczisPJZk/104.ts
+
 #EXTINF:-1 tvg-logo="http://vfes-images.ott.kaltura.com/f8a96f1f518f49bb96331612e6848330_288X162.png" group-title="27- PREMIUM ESPAÑA",Hit tv España
 http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_3.m3u8
 
@@ -963,6 +969,9 @@ http://ott-cdn.ucom.am/s35/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/02/Navarra-TV.png" group-title="27- PREMIUM ESPAÑA",Navarra TV
 http://nws.nice264.com/SmilLive/getLiveIOS.smil?stream=NTV_livenatvmb&system=NTV&protocol=http_cupertino/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://vertelevisor.com/imagenes/paramount-channel.png" group-title="27- PREMIUM ESPAÑA",Paramount
+http://54.38.93.177:8000/live/IPTVHIT/ZkczisPJZk/113.ts
 
 #EXTINF:-1 tvg-logo="http://vertelevisor.com/imagenes/paramount-channel.png" group-title="27- PREMIUM ESPAÑA",Paramount
 http://paramount.live.flumotion.com/live/playlist.m3u8
@@ -1161,6 +1170,9 @@ http://shacktv.com:8080/shooter44/shooter44/111136
 http://shacktv.com:8080/skylar/skylar/111136
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Al6Y2.png" group-title="28- PREMIUM LATINO",Fox
+http://54.38.93.177:8000/live/IPTVHIT/ZkczisPJZk/232.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Al6Y2.png" group-title="28- PREMIUM LATINO",Fox
 http://flow.nibbletv.info/CH/VJcxZ7cEbJEm/FOX.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Al6Y2.png" group-title="28- PREMIUM LATINO",Fox (1)
@@ -1174,6 +1186,9 @@ http://shacktv.com:8080/shooter44/shooter44/111209
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Al6Y2.png" group-title="28- PREMIUM LATINO",Fox (5)
 http://shacktv.com:8080/skylar/skylar/111209
+
+#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_ACTION.png" group-title="28- PREMIUM LATINO",Fox Action
+http://54.38.93.177:8000/live/IPTVHIT/ZkczisPJZk/233.ts
 
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_ACTION.png" group-title="28- PREMIUM LATINO",Fox Action
 http://187.178.30.73:9981/stream/channelid/34894770
@@ -1190,6 +1205,9 @@ http://shacktv.com:8080/shooter44/shooter44/111153
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_ACTION.png" group-title="28- PREMIUM LATINO",Fox Action (5)
 http://shacktv.com:8080/skylar/skylar/111153
 
+#EXTINF:-1 tvg-logo="https://www.telecablecr.com/wp-content/uploads/2018/11/LOGO-FOXPREMIUM_COMEDY.png" group-title="28- PREMIUM LATINO",Fox Comedy
+http://54.38.93.177:8000/live/IPTVHIT/ZkczisPJZk/235.ts
+
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_CLASSIC.png" group-title="28- PREMIUM LATINO",Fox Classics (1)
 http://ca.stablechannels.tv:8080/live/uqviuunk/Yv4Ino625z/11371.m3u8
 
@@ -1204,6 +1222,9 @@ http://shacktv.com:8080/shooter44/shooter44/111151
 
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_CLASSIC.png" group-title="28- PREMIUM LATINO",Fox Classics (5)
 http://shacktv.com:8080/skylar/skylar/111151
+
+#EXTINF:-1 tvg-logo="https://www.telecablecr.com/wp-content/uploads/2018/11/LOGO-FOXPREMIUM_CINEMA.png" group-title="28- PREMIUM LATINO",Fox Cinema
+http://54.38.93.177:8000/live/IPTVHIT/ZkczisPJZk/234.ts
 
 #EXTINF:-1 tvg-logo="https://www.telecablecr.com/wp-content/uploads/2018/11/LOGO-FOXPREMIUM_CINEMA.png" group-title="28- PREMIUM LATINO",Fox Cinema (1)
 http://ca.stablechannels.tv:8080/live/uqviuunk/Yv4Ino625z/17045.m3u8
@@ -1220,6 +1241,9 @@ http://shacktv.com:8080/shooter44/shooter44/104879
 #EXTINF:-1 tvg-logo="https://www.telecablecr.com/wp-content/uploads/2018/11/LOGO-FOXPREMIUM_CINEMA.png" group-title="28- PREMIUM LATINO",Fox Cinema (5)
 http://shacktv.com:8080/skylar/skylar/104879
 
+#EXTINF:-1 tvg-logo="https://www.telecablecr.com/wp-content/uploads/2018/11/LOGO-FOXPREMIUM_COMEDY.png" group-title="28- PREMIUM LATINO",Fox Comedy
+http://54.38.93.177:8000/live/IPTVHIT/ZkczisPJZk/236.ts
+
 #EXTINF:-1 tvg-logo="https://www.telecablecr.com/wp-content/uploads/2018/11/LOGO-FOXPREMIUM_COMEDY.png" group-title="28- PREMIUM LATINO",Fox Comedy (1)
 http://ca.stablechannels.tv:8080/live/uqviuunk/Yv4Ino625z/17043.m3u8
 
@@ -1234,6 +1258,9 @@ http://shacktv.com:8080/shooter44/shooter44/111150
 
 #EXTINF:-1 tvg-logo="https://www.telecablecr.com/wp-content/uploads/2018/11/LOGO-FOXPREMIUM_COMEDY.png" group-title="28- PREMIUM LATINO",Fox Comedy (5)
 http://shacktv.com:8080/skylar/skylar/111150
+
+#EXTINF:-1 tvg-logo="https://www.telecablecr.com/wp-content/uploads/2018/11/LOGO-FOXPREMIUM_FAMILYHD.png" group-title="28- PREMIUM LATINO",Fox Family
+http://54.38.93.177:8000/live/IPTVHIT/ZkczisPJZk/237.ts
 
 #EXTINF:-1 tvg-logo="https://www.telecablecr.com/wp-content/uploads/2018/11/LOGO-FOXPREMIUM_FAMILYHD.png" group-title="28- PREMIUM LATINO",Fox Family (1)
 http://ca.stablechannels.tv:8080/live/uqviuunk/Yv4Ino625z/17042.m3u8
@@ -1250,6 +1277,9 @@ http://shacktv.com:8080/shooter44/shooter44/111152
 #EXTINF:-1 tvg-logo="https://www.telecablecr.com/wp-content/uploads/2018/11/LOGO-FOXPREMIUM_FAMILYHD.png" group-title="28- PREMIUM LATINO",Fox Family (5)
 http://shacktv.com:8080/skylar/skylar/111152
 
+#EXTINF:-1 tvg-logo="http://neurads.com/wp-content/uploads/foxlife-2.png" group-title="28- PREMIUM LATINO",Fox Life
+http://54.38.93.177:8000/live/IPTVHIT/ZkczisPJZk/238.ts
+
 #EXTINF:-1 tvg-logo="http://neurads.com/wp-content/uploads/foxlife-2.png" group-title="28- PREMIUM LATINO",Fox Life (1)
 http://ca.stablechannels.tv:8080/live/uqviuunk/Yv4Ino625z/17041.m3u8
 
@@ -1264,6 +1294,9 @@ http://shacktv.com:8080/shooter44/shooter44/111194
 
 #EXTINF:-1 tvg-logo="http://neurads.com/wp-content/uploads/foxlife-2.png" group-title="28- PREMIUM LATINO",Fox Life (5)
 http://shacktv.com:8080/skylar/skylar/111194
+
+#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_MOVIES.png" group-title="28- PREMIUM LATINO",Fox Movies
+http://54.38.93.177:8000/live/IPTVHIT/ZkczisPJZk/240.ts
 
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_MOVIES.png" group-title="28- PREMIUM LATINO",Fox Movies
 http://187.178.30.73:9981/stream/channelid/1935663406
@@ -1282,6 +1315,9 @@ http://shacktv.com:8080/shooter44/shooter44/111154
 
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_MOVIES.png" group-title="28- PREMIUM LATINO",Fox Movies (5)
 http://shacktv.com:8080/skylar/skylar/111154
+
+#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_SERIES.png" group-title="28- PREMIUM LATINO",Fox Series
+http://54.38.93.177:8000/live/IPTVHIT/ZkczisPJZk/240.ts
 
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_SERIES.png" group-title="28- PREMIUM LATINO",Fox Series
 http://187.178.30.73:9981/stream/channelid/2020075903
@@ -3949,6 +3985,15 @@ http://shacktv.com:8080/shooter44/shooter44/61102
 #EXTINF:-1 tvg-logo="https://comcastspotlight.com/sites/default/files/networks/FOX_Deportes.png" group-title="41- DEPORTES LATINO",Fox Deportes (5)
 http://shacktv.com:8080/skylar/skylar/61102
 
+#EXTINF:-1 tvg-logo="https://i.ya-webdesign.com/images/fox-sports-1-png-5.png" group-title="41- DEPORTES LATINO",Fox Sports Sur
+http://54.38.93.177:8000/live/IPTVHIT/ZkczisPJZk/244.ts
+
+#EXTINF:-1 tvg-logo="https://i.ya-webdesign.com/images/fox-sports-1-png-5.png" group-title="41- DEPORTES LATINO",Fox Sports Venezuela
+http://54.38.93.177:8000/live/IPTVHIT/ZkczisPJZk/245.ts
+
+#EXTINF:-1 tvg-logo="https://i.ya-webdesign.com/images/fox-sports-1-png-5.png" group-title="41- DEPORTES LATINO",Fox Sports
+http://54.38.93.177:8000/live/IPTVHIT/ZkczisPJZk/241.ts
+
 #EXTINF:-1 tvg-logo="https://i.ya-webdesign.com/images/fox-sports-1-png-5.png" group-title="41- DEPORTES LATINO",Fox Sports
 http://187.178.30.73:9981/stream/channelid/369532750
 
@@ -3968,6 +4013,9 @@ http://shacktv.com:8080/shooter44/shooter44/111132
 http://shacktv.com:8080/skylar/skylar/111132
 
 #EXTINF:-1 tvg-logo="http://midiafatos.com.br/wp-content/uploads/2017/02/fox_sports2_N.png" group-title="41- DEPORTES LATINO",Fox Sports 2
+http://54.38.93.177:8000/live/IPTVHIT/ZkczisPJZk/244.ts
+
+#EXTINF:-1 tvg-logo="http://midiafatos.com.br/wp-content/uploads/2017/02/fox_sports2_N.png" group-title="41- DEPORTES LATINO",Fox Sports 2
 http://187.178.30.73:9981/stream/channelid/714118413
 
 #EXTINF:-1 tvg-logo="http://midiafatos.com.br/wp-content/uploads/2017/02/fox_sports2_N.png" group-title="41- DEPORTES LATINO",Fox Sports 2 (1)
@@ -3981,6 +4029,9 @@ http://shacktv.com:8080/shooter44/shooter44/111131
 
 #EXTINF:-1 tvg-logo="http://midiafatos.com.br/wp-content/uploads/2017/02/fox_sports2_N.png" group-title="41- DEPORTES LATINO",Fox Sports 2 (5)
 http://shacktv.com:8080/skylar/skylar/111131
+
+#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/fox-sports3-logos-01.png" group-title="41- DEPORTES LATINO",Fox Sports 3
+http://54.38.93.177:8000/live/IPTVHIT/ZkczisPJZk/244.ts
 
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/fox-sports3-logos-01.png" group-title="41- DEPORTES LATINO",Fox Sports 3
 http://187.178.30.73:9981/stream/channelid/2121956186
