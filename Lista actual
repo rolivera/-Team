@@ -649,8 +649,14 @@ https://nimble.dashmedia.tv/onestudio/western4u/playlist.m3u8
 http://ic7.101.ru:8000/a15
 #######################################
 
+#EXTINF:-1 tvg-logo="http://vercanalestv.com/logos/canal-0.png" group-title="27- PREMIUM ESPAÑA",#0
+http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/25602.m3u8
+
 #EXTINF:-1 tvg-logo="http://diretele.com/wp-content/uploads/2018/09/alcarria-tv-en-directo.png" group-title="27- PREMIUM ESPAÑA",Alcarria TV
 http://217.182.77.27/live/alcarriatv-livestream.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.miwuki.com/wp-content/uploads/2016/10/xlogo-antena-3.png.pagespeed.ic.CuvnxaXMb4.png" group-title="27- PREMIUM ESPAÑA",Antena 3
+http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/25610.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/243-2437709_open-blaze-canal.png" group-title="27- PREMIUM ESPAÑA",Blaze
 http://54.38.93.177:8000/live/IPTVHIT/ZkczisPJZk/115.ts
@@ -670,14 +676,32 @@ http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
 #EXTINF:-1 tvg-logo="http://www.canalextremadura.es/sites/all/themes/canalex_2016/images/canalex/LogoHorizontal.png" group-title="27- PREMIUM ESPAÑA",Canal Extremadura
 http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Comedy_Central_Logo_2011_vertikal.png" group-title="27- PREMIUM ESPAÑA",Comedy Central
+http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/25525.m3u8
+
+#EXTINF:-1 tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/cuatro_logo_500_-1_343d.png" group-title="27- PREMIUM ESPAÑA",Cuatro
+http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/25608.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Divinity.svg/1200px-Divinity.svg.png" group-title="27- PREMIUM ESPAÑA",Divinity
 http://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Factor%C3%ADa_de_Ficci%C3%B3n.svg/1200px-Factor%C3%ADa_de_Ficci%C3%B3n.svg.png" group-title="27- PREMIUM ESPAÑA",Factoria de Ficcion
+http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/25509.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Historia_CMYKblack.png/1200px-Historia_CMYKblack.png" group-title="27- PREMIUM ESPAÑA",Historia
 http://54.38.93.177:8000/live/IPTVHIT/ZkczisPJZk/104.ts
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/01/Ibiza-Global-TV.png" group-title="27- PREMIUM ESPAÑA",Ibiza Global TV
 http://server10.streaming-pro.com:1937/live/ibgtvlive/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1200px-Logo_TVE-1.svg.png" group-title="27- PREMIUM ESPAÑA",La 1
+http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/25936.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/823px-Logo_TVE-2.svg.png" group-title="27- PREMIUM ESPAÑA",La 2
+http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/25612.m3u8
+
+#EXTINF:-1 tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/400x300_1845/Source/30850/lasextahd.png" group-title="27- PREMIUM ESPAÑA",La Sexta
+http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/25604.m3u8
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/01/Lancelot-tv.png" group-title="27- PREMIUM ESPAÑA",Lancelot TV
 http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
@@ -687,6 +711,15 @@ http://212.104.160.156:1935/live/lebrijatv2/playlist3.m3u8
 
 #EXTINF:-1 tvg-logo="https://logonoid.com/images/mezzo-tv-logo.png" group-title="27- PREMIUM ESPAÑA",Mezzo
 http://ott-cdn.ucom.am/s35/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Movistar_Acci%C3%B3n.svg/1200px-Movistar_Acci%C3%B3n.svg.png" group-title="27- PREMIUM ESPAÑA",Movistar Accion
+http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/25599.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Movistar_Estrenos.svg/1783px-Movistar_Estrenos.svg.png" group-title="27- PREMIUM ESPAÑA",Movistar Estrenos
+http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/25590.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Movistar_Comedia.svg/1280px-Movistar_Comedia.svg.png" group-title="27- PREMIUM ESPAÑA",Movistar Comedia
+http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/25596.m3u8
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/02/Navarra-TV.png" group-title="27- PREMIUM ESPAÑA",Navarra TV
 http://nws.nice264.com/SmilLive/getLiveIOS.smil?stream=NTV_livenatvmb&system=NTV&protocol=http_cupertino/playlist.m3u8
@@ -702,6 +735,9 @@ http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Telecinco16.png" group-title="27- PREMIUM ESPAÑA",Telecinco
 https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_3.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Telecinco16.png" group-title="27- PREMIUM ESPAÑA",Telecinco
+http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/25606.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.tvalacarta.info/canales/256x256/telemadrid.png" group-title="27- PREMIUM ESPAÑA",Telemadrid
 http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/index.m3u8
