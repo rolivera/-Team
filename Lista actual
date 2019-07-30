@@ -1852,17 +1852,32 @@ http://cdn-01.bonus-tv.ru:8080/shop24_edge/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.directv.com/images/logos/channels/dark/large/673.png" group-title="32- INFANTIL LATINO",Baby First (3)
 http://51.77.246.215:25461/1782/1782/138354
 
+#EXTINF:-1 tvg-logo="http://liveitkodi.com/Logos/BabyTV.png" group-title="32- INFANTIL LATINO",Baby TV (1)
+http://ultraplay.biz:80/casa1/casa1/34913
+
 #EXTINF:-1 tvg-logo="http://liveitkodi.com/Logos/BabyTV.png" group-title="32- INFANTIL LATINO",Baby TV (3)
 http://51.77.246.215:25461/1782/1782/58563
 
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/boing-logo-png.png" group-title="32- INFANTIL LATINO",Boing
 https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
 
+#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/boing-logo-png.png" group-title="32- INFANTIL LATINO",Boing (1)
+http://ultraplay.biz:80/casa1/casa1/37005
+
+#EXTINF:-1 tvg-logo="https://sitejerk.com/images/boomerang-logo-png-15.png" group-title="32- INFANTIL LATINO",Boomerang (1)
+http://ultraplay.biz:80/casa1/casa1/39858
+
 #EXTINF:-1 tvg-logo="https://sitejerk.com/images/boomerang-logo-png-15.png" group-title="32- INFANTIL LATINO",Boomerang (3)
 http://51.77.246.215:25461/1782/1782/50399
 
 #EXTINF:-1 tvg-logo="http://acrotv.com/images/broad/20181126162232476.png" group-title="32- INFANTIL LATINO",Cachipum
 http://edge1.cl.grupoz.cl/cachipuntv/live/chunklist_w2057048261.m3u8?xtreamiptv.m3u8
+
+#EXTINF:-1 tvg-logo="http://acrotv.com/images/broad/20181126162232476.png" group-title="32- INFANTIL LATINO",Cachipum
+http://edge1.cl.grupoz.cl/cachipuntv/live/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://orig00.deviantart.net/1354/f/2016/129/2/d/untitled_drawing_by_jared33-da1wdty.png" group-title="32- INFANTIL LATINO",Cartoon Network (1)
+http://ultraplay.biz:80/casa1/casa1/34912
 
 #EXTINF:-1 tvg-logo="https://orig00.deviantart.net/1354/f/2016/129/2/d/untitled_drawing_by_jared33-da1wdty.png" group-title="32- INFANTIL LATINO",Cartoon Network (3)
 http://51.77.246.215:25461/1782/1782/52612
@@ -1873,11 +1888,17 @@ http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_kids-mediano.png" group-title="32- INFANTIL LATINO",Discovery Kids
 http://187.178.30.73:9981/stream/channelid/925467215
 
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_kids-mediano.png" group-title="32- INFANTIL LATINO",Discovery Kids (1)
+http://ultraplay.biz:80/casa1/casa1/34911
+
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_kids-mediano.png" group-title="32- INFANTIL LATINO",Discovery Kids (3)
 http://51.77.246.215:25461/1782/1782/138371
 
 #EXTINF:-1 tvg-logo="http://logosvector.net/wp-content/uploads/2014/07/new-disney-channel-logo.png" group-title="32- INFANTIL LATINO",Disney Channel
 http://187.178.30.73:9981/stream/channelid/1795678516
+
+#EXTINF:-1 tvg-logo="http://logosvector.net/wp-content/uploads/2014/07/new-disney-channel-logo.png" group-title="32- INFANTIL LATINO",Disney Channel (1)
+http://ultraplay.biz:80/casa1/casa1/39810
 
 #EXTINF:-1 tvg-logo="http://logosvector.net/wp-content/uploads/2014/07/new-disney-channel-logo.png" group-title="32- INFANTIL LATINO",Disney Channel (3)
 http://51.77.246.215:25461/1782/1782/57254
@@ -1885,8 +1906,14 @@ http://51.77.246.215:25461/1782/1782/57254
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/disney-junior-logo-01.png" group-title="32- INFANTIL LATINO",Disney Junior
 http://187.178.30.73:9981/stream/channelid/128762506
 
+#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/disney-junior-logo-01.png" group-title="32- INFANTIL LATINO",Disney Junior (1)
+http://ultraplay.biz:80/casa1/casa1/39809
+
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/disney-junior-logo-01.png" group-title="32- INFANTIL LATINO",Disney Junior (3)
 http://51.77.246.215:25461/1782/1782/5230
+
+#EXTINF:-1 tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2015/10/Disney_XD_-_2015.svg_.png" group-title="32- INFANTIL LATINO",Disney XD (1)
+http://ultraplay.biz:80/casa1/casa1/39808
 
 #EXTINF:-1 tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2015/10/Disney_XD_-_2015.svg_.png" group-title="32- INFANTIL LATINO",Disney XD (3)
 http://51.77.246.215:25461/1782/1782/135906
@@ -1894,20 +1921,38 @@ http://51.77.246.215:25461/1782/1782/135906
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-FLvPUqc-seM/W15n9C2cisI/AAAAAAAAkqM/H3PFkx-peyQiIFQnPPHDlOxc80H5fHDgwCK8BGAs/s250/2018-07-29.png" group-title="32- INFANTIL LATINO",Locomotion
 http://locomotiontv.com/envivo/loco_channel/stream.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.natgeokidsla.com/img/logo-3d.7a64e4ed.png" group-title="32- INFANTIL LATINO",Nat Geo Kids (1)
+http://ultraplay.biz:80/casa1/casa1/39679
+
 #EXTINF:-1 tvg-logo="https://www.natgeokidsla.com/img/logo-3d.7a64e4ed.png" group-title="32- INFANTIL LATINO",Nat Geo Kids (3)
 http://51.77.246.215:25461/1782/1782/166761
+
+#EXTINF:-1 tvg-logo="https://www.e-channel.ec/blog/wp-content/uploads/2015/09/NICK.png" group-title="32- INFANTIL LATINO",Nickelodeon (1)
+http://ultraplay.biz:80/casa1/casa1/39670
 
 #EXTINF:-1 tvg-logo="https://www.e-channel.ec/blog/wp-content/uploads/2015/09/NICK.png" group-title="32- INFANTIL LATINO",Nickelodeon (3)
 http://51.77.246.215:25461/1782/1782/41146
 
+#EXTINF:-1 tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/NICK%20JR.png" group-title="32- INFANTIL LATINO",Nick Junior (1)
+http://ultraplay.biz:80/casa1/casa1/39672
+
 #EXTINF:-1 tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/NICK%20JR.png" group-title="32- INFANTIL LATINO",Nick Junior (3)
 http://51.77.246.215:25461/1782/1782/42150
+
+#EXTINF:-1 tvg-logo="http://logo-load.com/uploads/posts/2016-03/1459331737_nicktoons-logo.png" group-title="32- INFANTIL LATINO",Nick Toons (1)
+http://ultraplay.biz:80/casa1/casa1/39671
 
 #EXTINF:-1 tvg-logo="http://logo-load.com/uploads/posts/2016-03/1459331737_nicktoons-logo.png" group-title="32- INFANTIL LATINO",Nick Toons (3)
 http://51.77.246.215:25461/1782/1782/39009
 
+#EXTINF:-1 tvg-logo="http://startvmexico.com/wp-content/uploads/2018/10/tiin.png" group-title="32- INFANTIL LATINO",Tiin (1)
+http://ultraplay.biz:80/casa1/casa1/39613
+
 #EXTINF:-1 tvg-logo="http://startvmexico.com/wp-content/uploads/2018/10/tiin.png" group-title="32- INFANTIL LATINO",Tiin (3)
 http://51.77.246.215:25461/1782/1782/13361
+
+#EXTINF:-1 tvg-logo="https://t3.kn3.net/taringa/A/7/E/6/A/C/RevolucionCN/83A.png" group-title="32- INFANTIL LATINO",Tooncast (1)
+http://ultraplay.biz:80/casa1/casa1/39602
 
 #EXTINF:-1 tvg-logo="https://t3.kn3.net/taringa/A/7/E/6/A/C/RevolucionCN/83A.png" group-title="32- INFANTIL LATINO",Tooncast (3)
 http://51.77.246.215:25461/1782/1782/61978
