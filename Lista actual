@@ -420,6 +420,9 @@ http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/MULTIMEDIOS.png" group-title="13- MEXICO",Multimedios +
 http://live.gvstream.net:1935/e-tv-video/play.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1200px-Pasiones_Tv_logo.svg.png" group-title="13- MEXICO",Pasiones
+http://tv.iptv5region.com:25461/bronder/12365/5491
+
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/cb973f_4cb07abd906a4ecb89a09c031a6f6f54~mv2_d_3658_1973_s_2.png/v1/fill/w_399,h_215,al_c,usm_0.66_1.00_0.01/cb973f_4cb07abd906a4ecb89a09c031a6f6f54~mv2_d_3658_1973_s_2.png" group-title="13- MEXICO",RTQ
 http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8?GrupoTopIptv
 
@@ -554,17 +557,38 @@ http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/chunks.m3u8
 https://stream.vagalume.fm/hls/1470169276225492/aac.m3u8
 #######################################
 
+#EXTINF:-1 tvg-logo="http://www.1000xhora.tv/images/logo.png" group-title="20- URUGUAY",1000 x Hora (2)
+http://tv.iptv5region.com:25461/bronder/12365/24790
+
+#EXTINF:-1 tvg-logo="http://www.amasv.com.uy/images/1.logo_amasv_web_2016-mediano.png" group-title="20- URUGUAY",A+V (2)
+http://tv.iptv5region.com:25461/bronder/12365/24789
+
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/04/4.png" group-title="20- URUGUAY",Canal 4 Chuy (2)
+http://tv.iptv5region.com:25461/bronder/12365/24786
+
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/04/canal-4-salto-uruagua-1.png" group-title="20- URUGUAY",Canal 4 Salto (2)
+http://tv.iptv5region.com:25461/bronder/12365/24785
+
+#EXTINF:-1 tvg-logo="https://www.canal7.com.uy/images/logo.png" group-title="20- URUGUAY",Canal 7 Punta (2)
+http://tv.iptv5region.com:25461/bronder/12365/24784
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1049437586132008962/TCt-fRpM.jpg" group-title="20- URUGUAY",Canal 8 Rivera (2)
+http://tv.iptv5region.com:25461/bronder/12365/24783
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Logo_Canal_U_%28Uruguay%29.png" group-title="20- URUGUAY",Canal U (2)
+http://tv.iptv5region.com:25461/bronder/12365/24780
+
+#EXTINF:-1 tvg-logo="http://www.maronas.com.uy/public/web/img/og-logo.png" group-title="20- URUGUAY",Maroñas (2)
+http://tv.iptv5region.com:25461/bronder/12365/24779
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1107997180311281665/c72fyy_F_400x400.png" group-title="20- URUGUAY",Montecarlo (2)
-http://tv.nousiptv.com:25462/live/eduardoh/12345/18261.m3u8
+http://tv.iptv5region.com:25461/bronder/12365/24778
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1107997180311281665/c72fyy_F_400x400.png" group-title="20- URUGUAY",Montecarlo (4)
 http://disfruta.net:8000/live/ENRKVAR5/w5kh7m0Zj5/3434.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1107997180311281665/c72fyy_F_400x400.png" group-title="20- URUGUAY",Montecarlo (5)
 http://disfruta.net:8000/live/veoplay0606/9b3bKSLfjy/3434.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.tvalacarta.info/canales/256x256/canal10.png" group-title="20- URUGUAY",Saeta Canal 10 (2)
-http://tv.nousiptv.com:25462/live/eduardoh/12345/3344.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.tvalacarta.info/canales/256x256/canal10.png" group-title="20- URUGUAY",Saeta Canal 10 (4)
 http://disfruta.net:8000/live/ENRKVAR5/w5kh7m0Zj5/3435.m3u8
@@ -575,20 +599,23 @@ http://disfruta.net:8000/live/veoplay0606/9b3bKSLfjy/3435.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/LogoTeledoce2019Azul.png" group-title="20- URUGUAY",Teledoce SD
 https://mdstrm.com/live-stream-playlist/5aba9ca777ed89391543b607.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/LogoTeledoce2019Azul.png" group-title="20- URUGUAY",Teledoce (2)
-http://tv.nousiptv.com:25462/live/eduardoh/12345/18731.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.montevideo.gub.uy/sites/default/files/biblioteca/tvciudad.png" group-title="20- URUGUAY",Tv Ciudad (2)
-http://tv.nousiptv.com:25462/live/eduardoh/12345/19351.m3u8
-
 #EXTINF:-1 tvg-logo="http://www.tensai.com.uy/webroot/img/logos/tnu.png" group-title="20- URUGUAY",TNU (2)
-http://tv.nousiptv.com:25462/live/eduardoh/12345/19352.m3u8
+http://tv.iptv5region.com:25461/bronder/12365/24772
+
+#EXTINF:-1 tvg-logo="http://www.tedxmontevideo.org/images/logo-tvciudad.png" group-title="20- URUGUAY",Tv Ciudad (2)
+http://tv.iptv5region.com:25461/bronder/12365/24773
+
+#EXTINF:-1 tvg-logo="http://casaencantada.com.uy/wp-content/uploads/2017/12/logo-uruguay-natural-2png.png" group-title="20- URUGUAY",Uruguay Natural (2)
+http://tv.iptv5region.com:25461/bronder/12365/24777
 
 #EXTINF:-1 tvg-logo="http://www.bienaldemontevideo.com/imgs/pat/vtv.png" group-title="20- URUGUAY",VTV SD
 http://trinity-lh.akamaihd.net/i/GolTVModel4A_d@422865/index_500_av-p.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.bienaldemontevideo.com/imgs/pat/vtv.png" group-title="20- URUGUAY",VTV (2)
-http://tv.nousiptv.com:25462/live/eduardoh/12345/3598.m3u8
+http://tv.iptv5region.com:25461/bronder/12365/24771
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/VTV%2BUruguay.svg/1200px-VTV%2BUruguay.svg.png" group-title="20- URUGUAY",VTV Plus (2)
+http://tv.iptv5region.com:25461/bronder/12365/24769
 
 #####################################################################################################################################
 ####################################### VENEZUELA
@@ -606,6 +633,9 @@ http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/p
 #######################################
 #######################################################################################################################################################################################
 #######################################################################################################################################################################################
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/INArx0I.png" group-title="22- CINE LATINO",FMHot HD
+http://tv.iptv5region.com:25461/bronder/12365/7418
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/INArx0I.png" group-title="22- CINE LATINO",FMHot SD
 http://fmhot.04.cl.cdnz.cl/fmhot/smil:cdn.smil/playlist.m3u8
@@ -1464,6 +1494,9 @@ http://disfruta.net:8000/live/ENRKVAR5/w5kh7m0Zj5/23455.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/mx/HBOSignature.mx.png" group-title="28- PREMIUM LATINO",Hbo Signature (5)
 http://disfruta.net:8000/live/veoplay0606/9b3bKSLfjy/23455.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/I.Sat_logo.svg/1200px-I.Sat_logo.svg.png" group-title="28- PREMIUM LATINO",I Sat (2)
+http://tv.iptv5region.com:25461/bronder/12365/5428
+
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-I_y7DS7ckN4/U2Au0ohgyEI/AAAAAAAACRI/UUmABBsgA2A/s1600/Max_HD-fullcaleta.biz.png" group-title="28- PREMIUM LATINO",Max (1)
 http://ultraplay.biz:80/casa1/casa1/34855
 
@@ -2058,6 +2091,9 @@ http://antena1.newradio.it/stream?1519462006844
 #######################################
 ######################################################################################################################################
 
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/concert_channel_hd-mediano.png" group-title="30- VARIEDADES LATINO",Concert Channel (2)
+http://tv.iptv5region.com:25461/bronder/12365/5503
+
 #EXTINF:-1 tvg-logo="http://i68.tinypic.com/10qdo4k.png" group-title="30- VARIEDADES LATINO",E!
 http://187.178.30.73:9981/stream/channelid/2113897207
 
@@ -2082,6 +2118,9 @@ http://ultraplay.biz:80/casa1/casa1/39793
 #EXTINF:-1 tvg-logo="https://i.imgur.com/68ztlZE.png" group-title="30- VARIEDADES LATINO",El Gourmet (2)
 http://tv.iptv5region.com:25461/bronder/12365/25947
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/68ztlZE.png" group-title="30- VARIEDADES LATINO",El Gourmet (2)
+http://tv.iptv5region.com:25461/bronder/12365/5519
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/68ztlZE.png" group-title="30- VARIEDADES LATINO",El Gourmet (3)
 http://51.77.246.215:25461/1782/1782/58540
 
@@ -2102,6 +2141,9 @@ http://tv.iptv5region.com:25461/bronder/12365/6005
 
 #EXTINF:-1 tvg-logo="https://bestofsno.com/wp-content/uploads/2019/03/3.18-culinary.png" group-title="30- VARIEDADES LATINO",Food Network (3)
 http://51.77.246.215:25461/1782/1782/58559
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Glitzlogo.png" group-title="30- VARIEDADES LATINO",Glitz (2)
+http://tv.iptv5region.com:25461/bronder/12365/5433
 
 #EXTINF:-1 tvg-logo="https://www.directv.com/images/logos/channels/dark/large/466.png" group-title="30- VARIEDADES LATINO",Hola TV (1)
 http://ultraplay.biz:80/casa1/casa1/39728
@@ -2210,6 +2252,9 @@ http://disfruta.net:8000/live/ENRKVAR5/w5kh7m0Zj5/23491.m3u8
 
 #EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2011/09/c0552-sundancetv-la.png" group-title="30- VARIEDADES LATINO",Sundance (5)
 http://disfruta.net:8000/live/veoplay0606/9b3bKSLfjy/23491.m3u8
+
+#EXTINF:-1 tvg-logo="https://itsdcdn.com/resources/services/logowide/340/201712291719/totalplay-mexico.png" group-title="30- VARIEDADES LATINO",Total Play (2)
+http://tv.iptv5region.com:25461/bronder/12365/13358
 
 #EXTINF:-1 tvg-logo="https://tvnotiblog.com/wp-content/uploads/2012/04/trutv.png" group-title="30- VARIEDADES LATINO",Trutv (1)
 http://ultraplay.biz:80/casa1/casa1/39599
@@ -2479,6 +2524,9 @@ http://edge1.cl.grupoz.cl/cachipuntv/live/chunklist_w2057048261.m3u8?xtreamiptv.
 
 #EXTINF:-1 tvg-logo="http://cachipum.tv/img/logo.png" group-title="32- INFANTIL LATINO",Cachipum
 http://edge1.cl.grupoz.cl/cachipuntv/live/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://cachipum.tv/img/logo.png" group-title="32- INFANTIL LATINO",Cachipum (2)
+http://tv.iptv5region.com:25461/bronder/12365/7453
 
 #EXTINF:-1 tvg-logo="https://orig00.deviantart.net/1354/f/2016/129/2/d/untitled_drawing_by_jared33-da1wdty.png" group-title="32- INFANTIL LATINO",Cartoon Network (1)
 http://ultraplay.biz:80/casa1/casa1/34912
