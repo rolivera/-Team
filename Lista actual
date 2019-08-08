@@ -198,8 +198,20 @@ http://136.243.3.70:1935/RtpBolivia/RtpBolivia/playlist.m3u8
 https://stream.vagalume.fm/hls/14647977281792658143/aac.m3u8
 #######################################
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Canal_13_de_Chile_%28Isotipo_2018%29.svg/300px-Canal_13_de_Chile_%28Isotipo_2018%29.svg.png" group-title="06- CHILE",Canal 13
+http://tv.iptv5region.com:25461/bronder/12365/937
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Canal_13_de_Chile_%28Isotipo_2018%29.svg/300px-Canal_13_de_Chile_%28Isotipo_2018%29.svg.png" group-title="06- CHILE",Canal 13
+http://tv.iptv5region.com:25461/bronder/12365/19
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Canal_21_Chill%C3%A1n.png" group-title="06- CHILE",Canal 21
 http://edge1.cl.grupoz.cl/canal21tv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.chilevision.cl/logo-chilevision.png" group-title="06- CHILE",Chilevision
+http://tv.iptv5region.com:25461/bronder/12365/13
+
+#EXTINF:-1 tvg-logo="http://img2.wikia.nocookie.net/__cb20141225002923/logopedia/images/2/2e/Logo_2015_cnn.png" group-title="06- CHILE",Cnn Chile
+http://tv.iptv5region.com:25461/bronder/12365/25
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/VhOolgs.png" group-title="06- CHILE",El Pingüino
 http://streaming.elpinguino.com:1935/live/pinguinotv_720p/hasbahca.m3u8?GrupoTopIptv
@@ -207,14 +219,23 @@ http://streaming.elpinguino.com:1935/live/pinguinotv_720p/hasbahca.m3u8?GrupoTop
 #EXTINF:0 tvg-logo="https://i.imgur.com/vrXZmdv.jpg" group-title="06- CHILE",Holvoet TV
 http://unlimited5-cl.dps.live/holvoettv/holvoettv.smil/playlist.m3u8?GrupoTopIptv
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/2015megaoficial.png" group-title="06- CHILE",Mega
+http://tv.iptv5region.com:25461/bronder/12365/4
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/MegaPlus.png" group-title="06- CHILE",Mega +
 http://mdstrm.com/live-stream-playlist/56f97fc0b9bb39786b04a3b0.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_rec-tv_m.png" group-title="06- CHILE",Rec tv
+http://tv.iptv5region.com:25461/bronder/12365/1157
 
 #EXTINF:-1 tvg-logo="https://img8.androidappsapk.co/300/8/b/3/com.trece.t13.png" group-title="06- CHILE",T13
 http://c13-ply.janus.cl/playlist/stream.m3u8?s=c13hd
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-snwIA-MbUYs/W15lFEEE7TI/AAAAAAAAkqA/75Rrun41uOMufo_zTiUBpJu4icQcjpSOwCK8BGAs/s317/2018-07-29.png" group-title="06- CHILE",TV8
 https://593b04c4c5670.streamlock.net/8134/8134/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.iab.cl/wp-content/uploads/2012/02/tvn-1.png" group-title="06- CHILE",Tvn
+http://tv.iptv5region.com:25461/bronder/12365/14
 
 #EXTINF:-1 tvg-logo="https://www.tvr.cl/wp-content/uploads/2018/10/cropped-logo-tvr-3.png" group-title="06- CHILE",TVR
 https://unlimited4-cl.dps.live/tvr/tvr.smil/playlist.m3u8
@@ -225,11 +246,20 @@ http://li1008-155.members.linode.com:1935/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.uestv.cl/wp-content/uploads/2018/07/uestvlogo.png" group-title="06- CHILE",UES tv
 http://cl.origin.grupoz.cl:1935/uestv/live/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.concierto.cl/wp-content/uploads/2018/09/ucv-1-365x240.png" group-title="06- CHILE",Ucv
+http://tv.iptv5region.com:25461/bronder/12365/2992
+
 ######################################################################################################################################
 ####################################### COLOMBIA
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2016/06/16/01/23/colombia-1460312_960_720.jpg" group-title="07- COLOMBIA",07- COLOMBIA
 https://stream.vagalume.fm/hls/147015501223418/aac.m3u8
 #######################################
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_caracol-hd_m.png" group-title="07- COLOMBIA",Caracol 
+http://tv.iptv5region.com:25461/bronder/12365/497
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_caracol-hd_m.png" group-title="07- COLOMBIA",Caracol HD
+http://tv.iptv5region.com:25461/bronder/12365/5445
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/386408609/cnc2_400x400.png" group-title="07- COLOMBIA",CNC 
 http://66.240.236.25:1936/canalcnc/canalcnc/chunklist.m3u8
@@ -239,6 +269,9 @@ http://66.240.236.25:1936/ranchenato/ranchenato/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Red%2B_2018_logo.png/200px-Red%2B_2018_logo.png" group-title="07- COLOMBIA",Red Mas
 http://infored.lcdn.claro.net.co/Content/hls_clear/live/Channel(REDTVHD)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/LogoNTyLR.svg/1200px-LogoNTyLR.svg.png" group-title="07- COLOMBIA",Rcn
+http://tv.iptv5region.com:25461/bronder/12365/495
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/telecaribe.png" group-title="07- COLOMBIA",Telecaribe
 http://telecaribe-hd.gcdn.anvato.net/hls/live/telecaribehd/2196k/index.m3u8
@@ -351,6 +384,9 @@ http://livestreaming.videolina.it/live/Videolina/playlist.m3u8
 https://stream.vagalume.fm/hls/147015499779090/aac.m3u8
 #######################################
 
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_az-mundo-hd_m.png" group-title="13- MEXICO",Az Mundo
+http://tv.iptv5region.com:25461/bronder/12365/5495
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/C80W69PVwAAy6mF.jpg:large" group-title="13- MEXICO",Azteca + 
 https://aztecalive-lh.akamaihd.net/i/0qfv8evsp_1@458764/index_3_av-p.m3u8?sd=10&rebase=on
 
@@ -393,8 +429,14 @@ http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u
 #EXTINF:-1 tvg-logo="https://www.telemundo.com/sites/nbcutelemundo/themes/aurora_tlmd/images/telemundo_logo.png" group-title="13- MEXICO",Telemundo
 http://flow.nibbletv.info/CH/VJcxZ7cEbJEm/Telemundo.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.telemundo.com/sites/nbcutelemundo/themes/aurora_tlmd/images/telemundo_logo.png" group-title="13- MEXICO",Telemundo
+http://tv.iptv5region.com:25461/bronder/12365/3160
+
 #EXTINF:-1 tvg-logo="https://www.tlaxcalatelevision.tv/images/logo-tlaxcala-television-2019-final.png" group-title="13- MEXICO",Tlaxcala TV
 http://coracyt.mega00.com:1935/live/coracyt/coracyt/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/UNIVERSO_LOGO_color_black.png" group-title="13- MEXICO",Universo
+http://tv.iptv5region.com:25461/bronder/12365/1740
 
 ######################################################################################################################################
 ####################################### NICARAGUA
@@ -2518,6 +2560,9 @@ http://disfruta.net:8000/live/ENRKVAR5/w5kh7m0Zj5/48.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2015/10/Disney_XD_-_2015.svg_.png" group-title="32- INFANTIL LATINO",Disney XD (5)
 http://disfruta.net:8000/live/veoplay0606/9b3bKSLfjy/48.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/ETC_2016-actual.png" group-title="32- INFANTIL LATINO",Etc (2)
+http://tv.iptv5region.com:25461/bronder/12365/28
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-FLvPUqc-seM/W15n9C2cisI/AAAAAAAAkqM/H3PFkx-peyQiIFQnPPHDlOxc80H5fHDgwCK8BGAs/s250/2018-07-29.png" group-title="32- INFANTIL LATINO",Locomotion
 http://locomotiontv.com/envivo/loco_channel/stream.m3u8
