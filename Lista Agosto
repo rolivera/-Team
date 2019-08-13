@@ -91,6 +91,9 @@ http://streamtv.com.br:80/natalie10/natalie10/3952
 #EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="04- BRASIL",Globo SD/Sportv SD
 http://placartv.futeboltv.com:8081/live/6/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="04- BRASIL",Globo SP (VLC)
+https://ricks.azureedge.net/hls1/boborj.m3u8
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="04- BRASIL",Globo SP (1)
 http://tv.minhalista.me:80/9873/9873/37090
 
@@ -99,6 +102,12 @@ http://streamtv.com.br:80/natalie10/natalie10/1609
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="04- BRASIL",Globo SP (3)
 http://tv.factoryiptv.com:80/claudio/claudio/37090
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="04- BRASIL",Globo RJ SD
+https://5cc00ac6defaf.streamlock.net:1443/naspek/_definst_/naspek.smil/chunklist_w1695793820_b850000.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="04- BRASIL",Globo RJ (VLC)
+https://cdnfe1.azureedge.net/hls1/boborj.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="04- BRASIL",Globo RJ (1)
 http://tv.minhalista.me:80/9873/9873/37091
@@ -147,6 +156,9 @@ http://tv.factoryiptv.com:80/claudio/claudio/37051
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" group-title="04- BRASIL",SBT Interior SD
 https://5a1c76baf08c0.streamlock.net/z343-live/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="04- BRASIL",SBT (VLC)
+https://ricks.azureedge.net/hls1/sbt.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="04- BRASIL",SBT (1)
 http://tv.minhalista.me:80/9873/9873/51044
@@ -1617,6 +1629,9 @@ http://ic7.101.ru:8000/a23
 #######################################################################################################################################################################################
 #######################################################################################################################################################################################
 
+#EXTINF:-1 tvg-logo="https://www.directv.com/images/logos/channels/dark/large/313.png" group-title="29- PREMIUM BRASIL",Amc (VLC)
+https://ricks.azureedge.net/hls1/amc.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.directv.com/images/logos/channels/dark/large/313.png" group-title="29- PREMIUM BRASIL",Amc (1)
 http://tv.minhalista.me:80/9873/9873/50640
 
@@ -1641,6 +1656,9 @@ http://tv.factoryiptv.com:80/claudio/claudio/50647
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/axn.png" group-title="29- PREMIUM BRASIL",Axn (6) FHD
 http://iptvtool.es:9977/live/Gustabo._Zener/qqy2icQjp4/59453.rtmp
 
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cine/16.png" group-title="29- PREMIUM BRASIL",Cinemax (VLC)
+https://ricks.azureedge.net/hls1/cinemax.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cine/16.png" group-title="29- PREMIUM BRASIL",Cinemax (1)
 http://tv.minhalista.me:80/9873/9873/37120
 
@@ -1650,11 +1668,17 @@ http://streamtv.com.br:80/natalie10/natalie10/219
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cine/16.png" group-title="29- PREMIUM BRASIL",Cinemax (3)
 http://tv.factoryiptv.com:80/claudio/claudio/37120
 
+#EXTINF:-1 tvg-logo="http://new.lamac.org/system/channels/logos/000/000/044/original/pic_comedycentral.png?1522177270" group-title="29- PREMIUM BRASIL",Comedy Central (VLC)
+https://ricks.azureedge.net/hls1/ComedyCentral.m3u8
+
 #EXTINF:-1 tvg-logo="http://new.lamac.org/system/channels/logos/000/000/044/original/pic_comedycentral.png?1522177270" group-title="29- PREMIUM BRASIL",Comedy Central (2) HD
 http://streamtv.com.br:80/natalie10/natalie10/1649
 
 #EXTINF:-1 tvg-logo="http://new.lamac.org/system/channels/logos/000/000/044/original/pic_comedycentral.png?1522177270" group-title="29- PREMIUM BRASIL",Comedy Central (6) FHD
 http://iptvtool.es:9977/live/Gustabo._Zener/qqy2icQjp4/59437.rtmp
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Al6Y2.png" group-title="29- PREMIUM BRASIL",Fox (VLC)
+https://ricks.azureedge.net/hls1/fox.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Al6Y2.png" group-title="29- PREMIUM BRASIL",Fox (1)
 http://tv.minhalista.me:80/9873/9873/37101
@@ -1677,6 +1701,9 @@ http://streamtv.com.br:80/natalie10/natalie10/1625
 #EXTINF:-1 tvg-logo="http://neurads.com/wp-content/uploads/foxlife-2.png" group-title="29- PREMIUM BRASIL",Fox Life (3)
 http://tv.factoryiptv.com:80/claudio/claudio/37100
 
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/59/FOXPremium1.png/revision/latest?cb=20170324170019" group-title="29- PREMIUM BRASIL",Fox Premium 1 (VLC)
+https://ricks.azureedge.net/hls1/foxpremium1.m3u8
+
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/59/FOXPremium1.png/revision/latest?cb=20170324170019" group-title="29- PREMIUM BRASIL",Fox Premium 1 (1)
 http://tv.minhalista.me:80/9873/9873/50750
 
@@ -1686,11 +1713,17 @@ http://streamtv.com.br:80/natalie10/natalie10/1624
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/59/FOXPremium1.png/revision/latest?cb=20170324170019" group-title="29- PREMIUM BRASIL",Fox Premium 1 (3)
 http://tv.factoryiptv.com:80/claudio/claudio/50750
 
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/28/FOXPremium2.png/revision/latest?cb=20170324170127" group-title="29- PREMIUM BRASIL",Fox Premium 2 (VLC)
+https://ricks.azureedge.net/hls1/foxpremium2.m3u8
+
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/28/FOXPremium2.png/revision/latest?cb=20170324170127" group-title="29- PREMIUM BRASIL",Fox Premium 2 (2) HD
 http://streamtv.com.br:80/natalie10/natalie10/194
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/28/FOXPremium2.png/revision/latest?cb=20170324170127" group-title="29- PREMIUM BRASIL",Fox Premium 2 (5)
 http://streamtv.com.br:80/live/julia10/julia10/194.rtmp
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-JBwoh8YDdKY/TyztsSnAnTI/AAAAAAAAAMc/UHfWADlmytY/s1600/fx_hd.png" group-title="29- PREMIUM BRASIL",Fx (VLC)
+https://ricks.azureedge.net/hls1/fx.m3u8
 
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-JBwoh8YDdKY/TyztsSnAnTI/AAAAAAAAAMc/UHfWADlmytY/s1600/fx_hd.png" group-title="29- PREMIUM BRASIL",Fx (1)
 http://tv.minhalista.me:80/9873/9873/50771
@@ -1700,6 +1733,9 @@ http://streamtv.com.br:80/natalie10/natalie10/1619
 
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-JBwoh8YDdKY/TyztsSnAnTI/AAAAAAAAAMc/UHfWADlmytY/s1600/fx_hd.png" group-title="29- PREMIUM BRASIL",Fx (3)
 http://tv.factoryiptv.com:80/claudio/claudio/50771
+
+#EXTINF:-1 tvg-logo="https://vectors.pro/wp-content/uploads/2017/10/hbo-logo-vector.png" group-title="29- PREMIUM BRASIL",Hbo (VLC)
+https://ricks.azureedge.net/hls1/hbo.m3u8
 
 #EXTINF:-1 tvg-logo="https://vectors.pro/wp-content/uploads/2017/10/hbo-logo-vector.png" group-title="29- PREMIUM BRASIL",Hbo (1)
 http://tv.minhalista.me:80/9873/9873/37087
@@ -1713,6 +1749,9 @@ http://tv.factoryiptv.com:80/claudio/claudio/37087
 #EXTINF:-1 tvg-logo="https://vectors.pro/wp-content/uploads/2017/10/hbo-logo-vector.png" group-title="29- PREMIUM BRASIL",Hbo (6) FHD
 http://iptvtool.es:9977/live/Gustabo._Zener/qqy2icQjp4/59412.rtmp
 
+#EXTINF:-1 tvg-logo="http://aux4.iconspalace.com/uploads/797638582344877408.png" group-title="29- PREMIUM BRASIL",Hbo 2 (VLC)
+https://ricks.azureedge.net/hls1/hbo2.m3u8
+
 #EXTINF:-1 tvg-logo="http://aux4.iconspalace.com/uploads/797638582344877408.png" group-title="29- PREMIUM BRASIL",Hbo 2 (1)
 http://tv.minhalista.me:80/9873/9873/37086
 
@@ -1725,6 +1764,9 @@ http://tv.factoryiptv.com:80/claudio/claudio/37086
 #EXTINF:-1 tvg-logo="http://aux4.iconspalace.com/uploads/797638582344877408.png" group-title="29- PREMIUM BRASIL",Hbo 2 (6) FHD
 http://iptvtool.es:9977/live/Gustabo._Zener/qqy2icQjp4/59407.rtmp
 
+#EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/hbo-family-logo-320x320-745790760.png" group-title="29- PREMIUM BRASIL",Hbo Family (VLC)
+https://ricks.azureedge.net/hls1/hbofamily.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/hbo-family-logo-320x320-745790760.png" group-title="29- PREMIUM BRASIL",Hbo Family (1)
 http://tv.minhalista.me:80/9873/9873/37085
 
@@ -1736,6 +1778,9 @@ http://tv.factoryiptv.com:80/claudio/claudio/37085
 
 #EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/hbo-family-logo-320x320-745790760.png" group-title="29- PREMIUM BRASIL",Hbo Family (6) FHD
 http://iptvtool.es:9977/live/Gustabo._Zener/qqy2icQjp4/59411.rtmp
+
+#EXTINF:-1 tvg-logo="http://contenidos.cablevision.com.mx/guia_programacion/channels/634.png" group-title="29- PREMIUM BRASIL",Hbo Plus (VLC)
+https://ricks.azureedge.net/hls1/hboplus.m3u8
 
 #EXTINF:-1 tvg-logo="http://contenidos.cablevision.com.mx/guia_programacion/channels/634.png" group-title="29- PREMIUM BRASIL",Hbo Plus (1)
 http://tv.minhalista.me:80/9873/9873/50794
@@ -1776,6 +1821,9 @@ http://streamtv.com.br:80/natalie10/natalie10/1589
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-I_y7DS7ckN4/U2Au0ohgyEI/AAAAAAAACRI/UUmABBsgA2A/s1600/Max_HD-fullcaleta.biz.png" group-title="29- PREMIUM BRASIL",Max (3)
 http://tv.factoryiptv.com:80/claudio/claudio/50849
 
+#EXTINF:-1 tvg-logo="http://sky.vteximg.com.br/arquivos/ids/156096/maxprime-hd.png?v=636446344633130000" group-title="29- PREMIUM BRASIL",Max Prime (VLC)
+https://ricks.azureedge.net/hls1/maxprime.m3u8
+
 #EXTINF:-1 tvg-logo="http://sky.vteximg.com.br/arquivos/ids/156096/maxprime-hd.png?v=636446344633130000" group-title="29- PREMIUM BRASIL",Max Prime (1)
 http://tv.minhalista.me:80/9873/9873/50845
 
@@ -1788,6 +1836,9 @@ http://tv.factoryiptv.com:80/claudio/claudio/50845
 #EXTINF:-1 tvg-logo="http://sky.vteximg.com.br/arquivos/ids/156096/maxprime-hd.png?v=636446344633130000" group-title="29- PREMIUM BRASIL",Max Prime (6) FHD
 http://iptvtool.es:9977/live/Gustabo._Zener/qqy2icQjp4/59401.rtmp
 
+#EXTINF:-1 tvg-logo="https://www.totalplay.com.mx/images/logos/canales/hbomax/max-up.png" group-title="29- PREMIUM BRASIL",Max Up (VLC)
+https://ricks.azureedge.net/hls1/max.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.totalplay.com.mx/images/logos/canales/hbomax/max-up.png" group-title="29- PREMIUM BRASIL",Max Up (1)
 http://tv.minhalista.me:80/9873/9873/50852
 
@@ -1799,6 +1850,9 @@ http://tv.factoryiptv.com:80/claudio/claudio/50852
 
 #EXTINF:-1 tvg-logo="https://www.totalplay.com.mx/images/logos/canales/hbomax/max-up.png" group-title="29- PREMIUM BRASIL",Max Up (6) FHD
 http://iptvtool.es:9977/live/Gustabo._Zener/qqy2icQjp4/59400.rtmp
+
+#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/megapix-logo-png-7.png" group-title="29- PREMIUM BRASIL",Megapix (VLC)
+https://ricks.azureedge.net/hls1/megapix.m3u8
 
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/megapix-logo-png-7.png" group-title="29- PREMIUM BRASIL",Megapix (1)
 http://tv.minhalista.me:80/9873/9873/37072
@@ -1824,6 +1878,9 @@ http://tv.factoryiptv.com:80/claudio/claudio/50945
 #EXTINF:-1 tvg-logo="http://vertelevisor.com/imagenes/paramount-channel.png" group-title="29- PREMIUM BRASIL",Paramount (6)
 http://iptvtool.es:9977/live/Gustabo._Zener/qqy2icQjp4/59389.rtmp
 
+#EXTINF:-1 tvg-logo="https://www.totalplay.com.mx/images/logos/canales/entretenimiento/canal-sony.png" group-title="29- PREMIUM BRASIL",Sony (VLC)
+https://ricks.azureedge.net/hls1/sony.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.totalplay.com.mx/images/logos/canales/entretenimiento/canal-sony.png" group-title="29- PREMIUM BRASIL",Sony (1)
 http://tv.minhalista.me:80/9873/9873/56895
 
@@ -1835,6 +1892,9 @@ http://tv.factoryiptv.com:80/claudio/claudio/56895
 
 #EXTINF:-1 tvg-logo="https://www.totalplay.com.mx/images/logos/canales/entretenimiento/canal-sony.png" group-title="29- PREMIUM BRASIL",Sony (6) HD
 http://iptvtool.es:9977/live/Gustabo._Zener/qqy2icQjp4/59442.rtmp
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8.png" group-title="29- PREMIUM BRASIL",Space (VLC)
+https://ricks.azureedge.net/hls1/space.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8.png" group-title="29- PREMIUM BRASIL",Space (1)
 http://tv.minhalista.me:80/9873/9873/51048
@@ -1848,6 +1908,9 @@ http://tv.factoryiptv.com:80/claudio/claudio/51048
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8.png" group-title="29- PREMIUM BRASIL",Space (6) FHD
 http://iptvtool.es:9977/live/Gustabo._Zener/qqy2icQjp4/59369.rtmp
 
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/04/9e/d4/049ed43cd66568e2061b7bb44a00a925.png" group-title="29- PREMIUM BRASIL",Studio Universal (VLC)
+https://cdnfe1.azureedge.net/hls1/studiouniversal.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/04/9e/d4/049ed43cd66568e2061b7bb44a00a925.png" group-title="29- PREMIUM BRASIL",Studio Universal (1)
 http://tv.minhalista.me:80/9873/9873/51081
 
@@ -1859,6 +1922,9 @@ http://tv.factoryiptv.com:80/claudio/claudio/51081
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/04/9e/d4/049ed43cd66568e2061b7bb44a00a925.png" group-title="29- PREMIUM BRASIL",Studio Universal (6) HD
 http://iptvtool.es:9977/live/Gustabo._Zener/qqy2icQjp4/59365.rtmp
+
+#EXTINF:-1 tvg-logo="https://www.programacion.tv/images/syfy.png" group-title="29- PREMIUM BRASIL",Syfy (VLC)
+https://cdnfe1.azureedge.net/hls1/syfy.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.programacion.tv/images/syfy.png" group-title="29- PREMIUM BRASIL",Syfy (1)
 http://tv.minhalista.me:80/9873/9873/37042
@@ -1872,6 +1938,9 @@ http://tv.factoryiptv.com:80/claudio/claudio/37042
 #EXTINF:-1 tvg-logo="https://www.programacion.tv/images/syfy.png" group-title="29- PREMIUM BRASIL",Syfy (6) FHD
 http://iptvtool.es:9977/live/Gustabo._Zener/qqy2icQjp4/59320.rtmp
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Telecine_Action_2.png" group-title="29- PREMIUM BRASIL",Telecine Action (VLC)
+https://ricks.azureedge.net/hls1/telecineaction.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Telecine_Action_2.png" group-title="29- PREMIUM BRASIL",Telecine Action (1)
 http://tv.minhalista.me:80/9873/9873/37040
 
@@ -1883,6 +1952,9 @@ http://tv.factoryiptv.com:80/claudio/claudio/37040
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Telecine_Action_2.png" group-title="29- PREMIUM BRASIL",Telecine Action (6) HD
 http://iptvtool.es:9977/live/Gustabo._Zener/qqy2icQjp4/59362.rtmp
+
+#EXTINF:-1 tvg-logo="https://skytvplanos.com.br/img/channels/lg-66-canal-tc-cult.png" group-title="29- PREMIUM BRASIL",Telecine Cult (VLC)
+https://ricks.azureedge.net/hls1/telecinecult.m3u8
 
 #EXTINF:-1 tvg-logo="https://skytvplanos.com.br/img/channels/lg-66-canal-tc-cult.png" group-title="29- PREMIUM BRASIL",Telecine Cult (1)
 http://tv.minhalista.me:80/9873/9873/37039
@@ -1896,6 +1968,9 @@ http://tv.factoryiptv.com:80/claudio/claudio/37039
 #EXTINF:-1 tvg-logo="https://skytvplanos.com.br/img/channels/lg-66-canal-tc-cult.png" group-title="29- PREMIUM BRASIL",Telecine Cult (6) FHD
 http://iptvtool.es:9977/live/Gustabo._Zener/qqy2icQjp4/59361.rtmp
 
+#EXTINF:-1 tvg-logo="https://skytvplanos.com.br/img/channels/lg-65-canal-tc-fun.png" group-title="29- PREMIUM BRASIL",Telecine Fun (VLC)
+https://ricks.azureedge.net/hls1/telecinefun.m3u8
+
 #EXTINF:-1 tvg-logo="https://skytvplanos.com.br/img/channels/lg-65-canal-tc-fun.png" group-title="29- PREMIUM BRASIL",Telecine Fun (1)
 http://tv.minhalista.me:80/9873/9873/51088
 
@@ -1907,6 +1982,9 @@ http://tv.factoryiptv.com:80/claudio/claudio/51088
 
 #EXTINF:-1 tvg-logo="https://skytvplanos.com.br/img/channels/lg-65-canal-tc-fun.png" group-title="29- PREMIUM BRASIL",Telecine Fun (6) FHD
 http://iptvtool.es:9977/live/Gustabo._Zener/qqy2icQjp4/59360.rtmp
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_telecine-pipoca-hd_m.png" group-title="29- PREMIUM BRASIL",Telecine Pipoca (VLC)
+https://ricks.azureedge.net/hls1/telecinepipoca.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_telecine-pipoca-hd_m.png" group-title="29- PREMIUM BRASIL",Telecine Pipoca (1)
 http://tv.minhalista.me:80/9873/9873/37038
@@ -1920,6 +1998,9 @@ http://tv.factoryiptv.com:80/claudio/claudio/37038
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_telecine-pipoca-hd_m.png" group-title="29- PREMIUM BRASIL",Telecine Pipoca (6) FHD
 http://iptvtool.es:9977/live/Gustabo._Zener/qqy2icQjp4/59359.rtmp
 
+#EXTINF:-1 tvg-logo="http://logowiki.net/wp-content/uploads/2018/01/Telecine-Premium-Logo-1-9853.png" group-title="29- PREMIUM BRASIL",Telecine Premium (VLC)
+https://ricks.azureedge.net/hls1/telecinepremium.m3u8
+
 #EXTINF:-1 tvg-logo="http://logowiki.net/wp-content/uploads/2018/01/Telecine-Premium-Logo-1-9853.png" group-title="29- PREMIUM BRASIL",Telecine Premium (1)
 http://tv.minhalista.me:80/9873/9873/51109
 
@@ -1931,6 +2012,9 @@ http://tv.factoryiptv.com:80/claudio/claudio/51109
 
 #EXTINF:-1 tvg-logo="http://logowiki.net/wp-content/uploads/2018/01/Telecine-Premium-Logo-1-9853.png" group-title="29- PREMIUM BRASIL",Telecine Premium (6) HD
 http://iptvtool.es:9977/live/Gustabo._Zener/qqy2icQjp4/59358.rtmp
+
+#EXTINF:-1 tvg-logo="https://skytvplanos.com.br/img/channels/lg-263-canal-tc-touch-hd.png" group-title="29- PREMIUM BRASIL",Telecine Touch (VLC)
+https://ricks.azureedge.net/hls1/telecinetouch.m3u8
 
 #EXTINF:-1 tvg-logo="https://skytvplanos.com.br/img/channels/lg-263-canal-tc-touch-hd.png" group-title="29- PREMIUM BRASIL",Telecine Touch (1)
 http://tv.minhalista.me:80/9873/9873/36995
@@ -1968,6 +2052,9 @@ http://tv.factoryiptv.com:80/claudio/claudio/37037
 #EXTINF:-1 tvg-logo="https://gartel.es/canales/tcm.png" group-title="29- PREMIUM BRASIL",Tcm (6)
 http://iptvtool.es:9977/live/Gustabo._Zener/qqy2icQjp4/59363.rtmp
 
+#EXTINF:-1 tvg-logo="http://mareatvcable.com/wp-content/uploads/2017/12/44-tntlogo.png" group-title="29- PREMIUM BRASIL",Tnt (VLC)
+https://ricks.azureedge.net/hls1/tnt.m3u8
+
 #EXTINF:-1 tvg-logo="http://mareatvcable.com/wp-content/uploads/2017/12/44-tntlogo.png" group-title="29- PREMIUM BRASIL",Tnt (1)
 http://tv.minhalista.me:80/9873/9873/37035
 
@@ -1976,6 +2063,9 @@ http://streamtv.com.br:80/natalie10/natalie10/1540
 
 #EXTINF:-1 tvg-logo="http://mareatvcable.com/wp-content/uploads/2017/12/44-tntlogo.png" group-title="29- PREMIUM BRASIL",Tnt (3)
 http://tv.factoryiptv.com:80/claudio/claudio/37035
+
+#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/tnt-series-logo-01.png" group-title="29- PREMIUM BRASIL",Tnt Series (VLC)
+https://ricks.azureedge.net/hls1/tntseries.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/tnt-series-logo-01.png" group-title="29- PREMIUM BRASIL",Tnt Series (1)
 http://tv.minhalista.me:80/9873/9873/37034
@@ -2000,6 +2090,9 @@ http://tv.factoryiptv.com:80/claudio/claudio/37027
 
 #EXTINF:-1 tvg-logo="http://www.temporadafinal.com/gallery/5400ebfa0cc26universal-channel-.png" group-title="29- PREMIUM BRASIL",Universal Channel (6) HD
 http://iptvtool.es:9977/live/Gustabo._Zener/qqy2icQjp4/59340.rtmp
+
+#EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/08/d3e81-wb-hd-2011.png" group-title="29- PREMIUM BRASIL",Warner Channel (VLC)
+https://ricks.azureedge.net/hls1/warner.m3u8
 
 #EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/08/d3e81-wb-hd-2011.png" group-title="29- PREMIUM BRASIL",Warner Channel (1)
 http://tv.minhalista.me:80/9873/9873/56893
@@ -2264,6 +2357,9 @@ http://streamtv.com.br:80/natalie10/natalie10/1620
 #EXTINF:-1 tvg-logo="https://skytvplanos.com.br/img/channels/lg-8-canal-futura.png" group-title="31- VARIEDADES BRASIL",Futura (3)
 http://tv.factoryiptv.com:80/claudio/claudio/41481
 
+#EXTINF:-1 tvg-logo="http://scabora.com.br/wp-content/blogs.dir/2/files/2014/06/GNT2.png" group-title="31- VARIEDADES BRASIL",Gnt (VLC)
+https://cdnfe1.azureedge.net/hls1/gnt.m3u8
+
 #EXTINF:-1 tvg-logo="http://scabora.com.br/wp-content/blogs.dir/2/files/2014/06/GNT2.png" group-title="31- VARIEDADES BRASIL",Gnt (1)
 http://tv.minhalista.me:80/9873/9873/50781
 
@@ -2350,6 +2446,9 @@ http://streamtv.com.br:80/natalie10/natalie10/1530
 
 #EXTINF:-1 tvg-logo="https://tvnotiblog.com/wp-content/uploads/2012/04/trutv.png" group-title="31- VARIEDADES BRASIL",Trutv (3)
 http://tv.factoryiptv.com:80/claudio/claudio/41509
+
+#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/canal-viva-png-8.png" group-title="31- VARIEDADES BRASIL",Viva (VLC)
+https://ricks.azureedge.net/hls1/viva.m3u8
 
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/canal-viva-png-8.png" group-title="31- VARIEDADES BRASIL",Viva (1)
 http://tv.minhalista.me:80/9873/9873/38393
@@ -2590,6 +2689,9 @@ http://streamtv.com.br:80/natalie10/natalie10/1662
 #EXTINF:-1 tvg-logo="http://liveitkodi.com/Logos/BabyTV.png" group-title="33- INFANTIL BRASIL",Baby TV (3)
 http://tv.factoryiptv.com:80/claudio/claudio/50649
 
+#EXTINF:-1 tvg-logo="https://sitejerk.com/images/boomerang-logo-png-15.png" group-title="33- INFANTIL BRASIL",Boomerang (VLC)
+https://ricks.azureedge.net/hls1/boomerang.m3u8
+
 #EXTINF:-1 tvg-logo="https://sitejerk.com/images/boomerang-logo-png-15.png" group-title="33- INFANTIL BRASIL",Boomerang (1)
 http://tv.minhalista.me:80/9873/9873/37123
 
@@ -2601,6 +2703,9 @@ http://tv.factoryiptv.com:80/claudio/claudio/37123
 
 #EXTINF:-1 tvg-logo="https://sitejerk.com/images/boomerang-logo-png-15.png" group-title="33- INFANTIL BRASIL",Boomerang (6)
 https://dn81l09fo7jaf.cloudfront.net/hls1/boomerang.m3u8
+
+#EXTINF:-1 tvg-logo="https://orig00.deviantart.net/1354/f/2016/129/2/d/untitled_drawing_by_jared33-da1wdty.png" group-title="33- INFANTIL BRASIL",Cartoon Network (VLC)
+https://ricks.azureedge.net/hls1/cartoon.m3u8
 
 #EXTINF:-1 tvg-logo="https://orig00.deviantart.net/1354/f/2016/129/2/d/untitled_drawing_by_jared33-da1wdty.png" group-title="33- INFANTIL BRASIL",Cartoon Network (1)
 http://tv.minhalista.me:80/9873/9873/37121
@@ -2614,6 +2719,9 @@ http://tv.factoryiptv.com:80/claudio/claudio/37121
 #EXTINF:-1 tvg-logo="https://orig00.deviantart.net/1354/f/2016/129/2/d/untitled_drawing_by_jared33-da1wdty.png" group-title="33- INFANTIL BRASIL",Cartoon Network (6)
 https://dn81l09fo7jaf.cloudfront.net/hls1/cartoon.m3u8
 
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_kids-mediano.png" group-title="33- INFANTIL BRASIL",Discovery Kids (VLC)
+https://ricks.azureedge.net/hls1/discoverykids.m3u8
+
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_kids-mediano.png" group-title="33- INFANTIL BRASIL",Discovery Kids (1)
 http://tv.minhalista.me:80/9873/9873/50707
 
@@ -2625,6 +2733,9 @@ http://tv.factoryiptv.com:80/claudio/claudio/50707
 
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_kids-mediano.png" group-title="33- INFANTIL BRASIL",Discovery Kids (6)
 https://dn81l09fo7jaf.cloudfront.net/hls1/discoverykids.m3u8
+
+#EXTINF:-1 tvg-logo="http://logosvector.net/wp-content/uploads/2014/07/new-disney-channel-logo.png" group-title="33- INFANTIL BRASIL",Disney Channel (VLC)
+https://ricks.azureedge.net/hls1/disney.m3u8
 
 #EXTINF:-1 tvg-logo="http://logosvector.net/wp-content/uploads/2014/07/new-disney-channel-logo.png" group-title="33- INFANTIL BRASIL",Disney Channel (1)
 http://tv.minhalista.me:80/9873/9873/50714
@@ -2638,6 +2749,9 @@ http://tv.factoryiptv.com:80/claudio/claudio/50714
 #EXTINF:-1 tvg-logo="http://logosvector.net/wp-content/uploads/2014/07/new-disney-channel-logo.png" group-title="33- INFANTIL BRASIL",Disney Channel (6)
 https://dn81l09fo7jaf.cloudfront.net/hls1/disney.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/disney-junior-logo-01.png" group-title="33- INFANTIL BRASIL",Disney Junior (VLC)
+https://ricks.azureedge.net//hls1/disneyjunior.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/disney-junior-logo-01.png" group-title="33- INFANTIL BRASIL",Disney Junior (1)
 http://tv.minhalista.me:80/9873/9873/40517
 
@@ -2649,6 +2763,9 @@ http://tv.factoryiptv.com:80/claudio/claudio/40517
 
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/disney-junior-logo-01.png" group-title="33- INFANTIL BRASIL",Disney Junior (6)
 https://dn81l09fo7jaf.cloudfront.net/hls1/disneyjunior.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2015/10/Disney_XD_-_2015.svg_.png" group-title="33- INFANTIL BRASIL",Disney XD (VLC)
+https://ricks.azureedge.net/hls1/disneyxd.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2015/10/Disney_XD_-_2015.svg_.png" group-title="33- INFANTIL BRASIL",Disney XD (1)
 http://tv.minhalista.me:80/9873/9873/50718
@@ -2692,6 +2809,9 @@ http://tv.factoryiptv.com:80/claudio/claudio/50904
 #EXTINF:-1 tvg-logo="https://www.natgeokidsla.com/img/logo-3d.7a64e4ed.png" group-title="33- INFANTIL BRASIL",Nat Geo Kids (6)
 https://dn81l09fo7jaf.cloudfront.net/hls1/natgeokids.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.e-channel.ec/blog/wp-content/uploads/2015/09/NICK.png" group-title="33- INFANTIL BRASIL",Nickelodeon (VLC)
+https://ricks.azureedge.net/hls1/nick.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.e-channel.ec/blog/wp-content/uploads/2015/09/NICK.png" group-title="33- INFANTIL BRASIL",Nickelodeon (1)
 http://tv.minhalista.me:80/9873/9873/50935
 
@@ -2703,6 +2823,9 @@ http://tv.factoryiptv.com:80/claudio/claudio/50935
 
 #EXTINF:-1 tvg-logo="https://www.e-channel.ec/blog/wp-content/uploads/2015/09/NICK.png" group-title="33- INFANTIL BRASIL",Nickelodeon (6)
 https://dn81l09fo7jaf.cloudfront.net/hls1/nick.m3u8
+
+#EXTINF:-1 tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/NICK%20JR.png" group-title="33- INFANTIL BRASIL",Nick Junior (VLC)
+https://ricks.azureedge.net//hls1/nickjr.m3u8
 
 #EXTINF:-1 tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/NICK%20JR.png" group-title="33- INFANTIL BRASIL",Nick Junior (1)
 http://tv.minhalista.me:80/9873/9873/50934
@@ -2724,6 +2847,9 @@ http://streamtv.com.br:80/natalie10/natalie10/1531
 
 #EXTINF:-1 tvg-logo="http://profeleticia.weebly.com/uploads/1/9/8/9/19895021/banner-logo-tvrtb.png" group-title="33- INFANTIL BRASIL",Ra Tim Bum (3)
 http://tv.factoryiptv.com:80/claudio/claudio/41510
+
+#EXTINF:-1 tvg-logo="https://t3.kn3.net/taringa/A/7/E/6/A/C/RevolucionCN/83A.png" group-title="33- INFANTIL BRASIL",Tooncast (VLC)
+https://ricks.azureedge.net/hls1/tooncast.m3u8
 
 #EXTINF:-1 tvg-logo="https://t3.kn3.net/taringa/A/7/E/6/A/C/RevolucionCN/83A.png" group-title="33- INFANTIL BRASIL",Tooncast (1)
 http://tv.minhalista.me:80/9873/9873/37033
@@ -2819,6 +2945,9 @@ http://tv.minhalista.me:80/0303/0303/50655
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ibNTVbR.png" group-title="37- NOTICIAS BRASIL",Band News (3)
 http://tv.factoryiptv.com:80/claudio/claudio/50655
 
+#EXTINF:-1 tvg-logo="https://brazil.mom-rsf.org/uploads/tx_lfrogmom/media/7019-1071_import.png" group-title="37- NOTICIAS BRASIL",Globo News (VLC)
+https://cdnfe1.azureedge.net/hls1/globonews.m3u8
+
 #EXTINF:-1 tvg-logo="https://brazil.mom-rsf.org/uploads/tx_lfrogmom/media/7019-1071_import.png" group-title="37- NOTICIAS BRASIL",Globo News (1)
 http://tv.minhalista.me:80/9873/9873/36917
 
@@ -2906,6 +3035,9 @@ http://51.77.246.215:25461/1782/1782/41133
 
 #EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/027/original/pic_investigactiondisc.png?1522177058" group-title="38- DOCUMENTALES LATINOS",Discovery Investigation (4)
 http://51.77.246.215:25461/marcel/marcel/41133
+
+#EXTINF:-1 tvg-logo="https://cdn.reweb.io/hagah/image/DogXNIjfvnZQ-U6-iKRLtRF8-Vo=/300x300/top/smart/hagah/f/f8/home-and-health-f804aa9c.png" group-title="38- DOCUMENTALES LATINOS",Discovery H&H (VLC)
+https://cdnfe1.azureedge.net/hls1/discoveryhomeihealth.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.reweb.io/hagah/image/DogXNIjfvnZQ-U6-iKRLtRF8-Vo=/300x300/top/smart/hagah/f/f8/home-and-health-f804aa9c.png" group-title="38- DOCUMENTALES LATINOS",Discovery H&H (1)
 http://ultraplay.biz:80/casa1/casa1/35079
@@ -3040,6 +3172,9 @@ http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
 #######################################
 ######################################################################################################################################
 
+#EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/020/original/pic_a_e.png?1522180692" group-title="39- DOCUMENTAIS BRASIL",A&E (VLC)
+https://ricks.azureedge.net/hls1/aie.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/020/original/pic_a_e.png?1522180692" group-title="39- DOCUMENTAIS BRASIL",A&E (1)
 http://tv.minhalista.me:80/9873/9873/37130
 
@@ -3130,6 +3265,9 @@ http://tv.minhalista.me:80/0303/0303/50712
 #EXTINF:-1 tvg-logo="https://www.skytvporassinatura.com.br/wp-content/uploads/2018/01/canal-discovery-world-hd-sky-1.png" group-title="39- DOCUMENTAIS BRASIL",Discovery World (3)
 http://tv.factoryiptv.com:80/claudio/claudio/50712
 
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/35/13/17/35131727c2635cec3274d9bd93868db2.png" group-title="39- DOCUMENTAIS BRASIL",History Channel (VLC)
+https://ricks.azureedge.net/hls1/history.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/35/13/17/35131727c2635cec3274d9bd93868db2.png" group-title="39- DOCUMENTAIS BRASIL",History Channel (1)
 http://tv.minhalista.me:80/9873/9873/50799
 
@@ -3138,6 +3276,9 @@ http://tv.minhalista.me:80/0303/0303/50799
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/35/13/17/35131727c2635cec3274d9bd93868db2.png" group-title="39- DOCUMENTAIS BRASIL",History Channel (3)
 http://tv.factoryiptv.com:80/claudio/claudio/50799
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/cineframe.mx/wp-content/uploads/2017/08/H2.png" group-title="39- DOCUMENTAIS BRASIL",H2 (VLC)
+https://ricks.azureedge.net/hls1/history2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/cineframe.mx/wp-content/uploads/2017/08/H2.png" group-title="39- DOCUMENTAIS BRASIL",H2 (1)
 http://tv.minhalista.me:80/9873/9873/50787
@@ -3517,6 +3658,9 @@ http://tv.minhalista.me:80/0303/0303/50657
 #EXTINF:-1  tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/BAND%20SPORTS.png" group-title="42- ESPORTES BRASIL",Band Sports (3)
 http://tv.factoryiptv.com:80/claudio/claudio/50657
 
+#EXTINF:-1 tvg-logo="https://s2.glbimg.com/OlF3fWNQd7yyW7Cfsak6AF6vINc=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/dd/45/6f0becb8b016872551edaad347cc.png" group-title="42- ESPORTES BRASIL",Combate (VLC)
+https://ricks.azureedge.net/hls1/combate.m3u8
+
 #EXTINF:-1 tvg-logo="https://s2.glbimg.com/OlF3fWNQd7yyW7Cfsak6AF6vINc=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/dd/45/6f0becb8b016872551edaad347cc.png" group-title="42- ESPORTES BRASIL",Combate (1)
 http://tv.minhalista.me:80/9873/9873/37119
 
@@ -3580,6 +3724,9 @@ http://tv.minhalista.me:80/0303/0303/50756
 #EXTINF:-1 tvg-logo="https://i.ya-webdesign.com/images/fox-sports-1-png-5.png" group-title="42- ESPORTES BRASIL",Fox Sports *BR (3)
 http://tv.factoryiptv.com:80/claudio/claudio/50756
 
+#EXTINF:-1 tvg-logo="http://midiafatos.com.br/wp-content/uploads/2017/02/fox_sports2_N.png" group-title="42- ESPORTES BRASIL",Fox Sports 2 BR (VLC)
+https://ricks.azureedge.net/hls1/foxsports2.m3u8
+
 #EXTINF:-1 tvg-logo="http://midiafatos.com.br/wp-content/uploads/2017/02/fox_sports2_N.png" group-title="42- ESPORTES BRASIL",Fox Sports 2 BR (1)
 http://tv.minhalista.me:80/9873/9873/50754
 
@@ -3591,6 +3738,9 @@ http://tv.factoryiptv.com:80/claudio/claudio/50754
 
 #EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/imgs/d/f/5/df56da6d93822fde1e2b2428701f5675_icon.png?w=256" group-title="42- ESPORTES BRASIL",Placar tv
 http://placartv.futeboltv.com:8081/live/6/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-xk-32sZB5XE/VAHkcQOOlNI/AAAAAAACH5w/pIZYQjvBVsY/s1600/PFC_LOGO_2014.png" group-title="42- ESPORTES BRASIL",Premiere *Clubes BR (VLC)
+https://ricks.azureedge.net/hls1/premiere1.m3u8
 
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-xk-32sZB5XE/VAHkcQOOlNI/AAAAAAACH5w/pIZYQjvBVsY/s1600/PFC_LOGO_2014.png" group-title="42- ESPORTES BRASIL",Premiere *Clubes BR (1)
 http://tv.minhalista.me:80/9873/9873/37016
