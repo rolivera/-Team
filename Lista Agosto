@@ -2322,7 +2322,10 @@ http://tv.minhalista.me:80/9873/9873/50643
 http://streamtv.com.br:80/natalie10/natalie10/1664
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Arte_1_logo.svg/1024px-Arte_1_logo.svg.png" group-title="31- VARIEDADES BRASIL",Arte 1 (3)
-http://tv.factoryiptv.com:80/Cleuton1732/blindurl.me/50643
+http://tv.factoryiptv.com:80/live/Cleuton1732/blindurl.me/50643.rtmp
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Arte_1_logo.svg/1024px-Arte_1_logo.svg.png" group-title="31- VARIEDADES BRASIL",Arte 1 (4)
+http://tv.factoryiptv.com:80/live/claudio/claudio/50643.rtmp
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-bis-logo.png" group-title="31- VARIEDADES BRASIL",Bis (1)
 http://tv.minhalista.me:80/9873/9873/50661
@@ -2331,10 +2334,10 @@ http://tv.minhalista.me:80/9873/9873/50661
 http://streamtv.com.br:80/natalie10/natalie10/1658
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-bis-logo.png" group-title="31- VARIEDADES BRASIL",Bis (3)
-http://tv.factoryiptv.com:80/Cleuton1732/blindurl.me/50661
+http://tv.factoryiptv.com:80/live/Cleuton1732/blindurl.me/50661.rtmp
 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-bis-logo.png" group-title="31- VARIEDADES BRASIL",Bis (6)
-https://dn81l09fo7jaf.cloudfront.net/hls1/bis.m3u8
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-bis-logo.png" group-title="31- VARIEDADES BRASIL",Bis (4)
+http://tv.factoryiptv.com:80/live/claudio/claudio/50661.rtmp
 
 #EXTINF:-1 tvg-logo="https://clarotvlojaonline.com.br/img/channels/20151112155938-canal-curta.png" group-title="31- VARIEDADES BRASIL",Curta! (1)
 http://tv.minhalista.me:80/9873/9873/50676
@@ -2343,13 +2346,13 @@ http://tv.minhalista.me:80/9873/9873/50676
 http://streamtv.com.br:80/natalie10/natalie10/1648
 
 #EXTINF:-1 tvg-logo="https://clarotvlojaonline.com.br/img/channels/20151112155938-canal-curta.png" group-title="31- VARIEDADES BRASIL",Curta! (3)
-http://tv.factoryiptv.com:80/Cleuton1732/blindurl.me/50676
+http://tv.factoryiptv.com:80/live/Cleuton1732/blindurl.me/50676.rtmp
 
-#EXTINF:-1 tvg-logo="https://clarotvlojaonline.com.br/img/channels/20151112155938-canal-curta.png" group-title="31- VARIEDADES BRASIL",Curta! (6)
-https://dn81l09fo7jaf.cloudfront.net/hls1/curta.m3u8
+#EXTINF:-1 tvg-logo="https://clarotvlojaonline.com.br/img/channels/20151112155938-canal-curta.png" group-title="31- VARIEDADES BRASIL",Curta! (4)
+http://tv.factoryiptv.com:80/live/claudio/claudio/50676.rtmp
 
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/418HURWuYgL.png" group-title="31- VARIEDADES BRASIL",Dog tv (6)
-https://dn81l09fo7jaf.cloudfront.net/hls1/arte1.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/418HURWuYgL.png" group-title="31- VARIEDADES BRASIL",Dog tv ()
+
 
 #EXTINF:-1 tvg-logo="http://i68.tinypic.com/10qdo4k.png" group-title="31- VARIEDADES BRASIL",E! (1)
 http://tv.minhalista.me:80/9873/9873/50719
@@ -2358,7 +2361,10 @@ http://tv.minhalista.me:80/9873/9873/50719
 http://streamtv.com.br:80/natalie10/natalie10/1635
 
 #EXTINF:-1 tvg-logo="http://i68.tinypic.com/10qdo4k.png" group-title="31- VARIEDADES BRASIL",E! (3)
-http://tv.factoryiptv.com:80/Cleuton1732/blindurl.me/50719
+http://tv.factoryiptv.com:80/live/Cleuton1732/blindurl.me/50719.rtmp
+
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/10qdo4k.png" group-title="31- VARIEDADES BRASIL",E! (4)
+http://tv.factoryiptv.com:80/live/claudio/claudio/50719.rtmp
 
 #EXTINF:-1 tvg-logo="http://sky.vteximg.com.br/arquivos/ids/156050/fish-tv.png" group-title="31- VARIEDADES BRASIL",Fish TV (1)
 http://tv.minhalista.me:80/9873/9873/41478
@@ -2367,10 +2373,10 @@ http://tv.minhalista.me:80/9873/9873/41478
 http://streamtv.com.br:80/natalie10/natalie10/1628
 
 #EXTINF:-1 tvg-logo="http://sky.vteximg.com.br/arquivos/ids/156050/fish-tv.png" group-title="31- VARIEDADES BRASIL",Fish TV (3)
-http://tv.factoryiptv.com:80/Cleuton1732/blindurl.me/41478
+http://tv.factoryiptv.com:80/live/Cleuton1732/blindurl.me/41478.rtmp
 
-#EXTINF:-1 tvg-logo="http://sky.vteximg.com.br/arquivos/ids/156050/fish-tv.png" group-title="31- VARIEDADES BRASIL",Fish TV (6)
-https://dn81l09fo7jaf.cloudfront.net/hls1/fishtv.m3u8
+#EXTINF:-1 tvg-logo="http://sky.vteximg.com.br/arquivos/ids/156050/fish-tv.png" group-title="31- VARIEDADES BRASIL",Fish TV (4)
+http://tv.factoryiptv.com:80/live/claudio/claudio/41478.rtmp
 
 #EXTINF:-1 tvg-logo="https://bestofsno.com/wp-content/uploads/2019/03/3.18-culinary.png" group-title="31- VARIEDADES BRASIL",Food Network (1)
 http://tv.minhalista.me:80/9873/9873/50745
@@ -2379,10 +2385,10 @@ http://tv.minhalista.me:80/9873/9873/50745
 http://streamtv.com.br:80/natalie10/natalie10/1627
 
 #EXTINF:-1 tvg-logo="https://bestofsno.com/wp-content/uploads/2019/03/3.18-culinary.png" group-title="31- VARIEDADES BRASIL",Food Network (3)
-http://tv.factoryiptv.com:80/Cleuton1732/blindurl.me/50745
+http://tv.factoryiptv.com:80/live/Cleuton1732/blindurl.me/50745.rtmp
 
-#EXTINF:-1 tvg-logo="https://bestofsno.com/wp-content/uploads/2019/03/3.18-culinary.png" group-title="31- VARIEDADES BRASIL",Food Network (6)
-https://dn81l09fo7jaf.cloudfront.net/hls1/foodnetwork.m3u8
+#EXTINF:-1 tvg-logo="https://bestofsno.com/wp-content/uploads/2019/03/3.18-culinary.png" group-title="31- VARIEDADES BRASIL",Food Network (4)
+http://tv.factoryiptv.com:80/live/claudio/claudio/50745.rtmp
 
 #EXTINF:-1 tvg-logo="https://skytvplanos.com.br/img/channels/lg-8-canal-futura.png" group-title="31- VARIEDADES BRASIL",Futura
 http://caikron.com.br:1935/unipar/tvup/playlist.m3u8
@@ -2394,7 +2400,10 @@ http://tv.minhalista.me:80/9873/9873/41481
 http://streamtv.com.br:80/natalie10/natalie10/1620
 
 #EXTINF:-1 tvg-logo="https://skytvplanos.com.br/img/channels/lg-8-canal-futura.png" group-title="31- VARIEDADES BRASIL",Futura (3)
-http://tv.factoryiptv.com:80/Cleuton1732/blindurl.me/41481
+http://tv.factoryiptv.com:80/live/Cleuton1732/blindurl.me/41481.rtmp
+
+#EXTINF:-1 tvg-logo="https://skytvplanos.com.br/img/channels/lg-8-canal-futura.png" group-title="31- VARIEDADES BRASIL",Futura (4)
+http://tv.factoryiptv.com:80/live/claudio/claudio/41481.rtmp
 
 #EXTINF:-1 tvg-logo="http://scabora.com.br/wp-content/blogs.dir/2/files/2014/06/GNT2.png" group-title="31- VARIEDADES BRASIL",Gnt (VLC)
 https://cdnfe1.azureedge.net/hls1/gnt.m3u8
@@ -2406,10 +2415,10 @@ http://tv.minhalista.me:80/9873/9873/50781
 http://streamtv.com.br:80/natalie10/natalie10/1601
 
 #EXTINF:-1 tvg-logo="http://scabora.com.br/wp-content/blogs.dir/2/files/2014/06/GNT2.png" group-title="31- VARIEDADES BRASIL",Gnt (3)
-http://tv.factoryiptv.com:80/Cleuton1732/blindurl.me/50781
+http://tv.factoryiptv.com:80/live/Cleuton1732/blindurl.me/50781.rtmp
 
-#EXTINF:-1 tvg-logo="http://scabora.com.br/wp-content/blogs.dir/2/files/2014/06/GNT2.png" group-title="31- VARIEDADES BRASIL",Gnt (6)
-https://dn81l09fo7jaf.cloudfront.net/hls1/gnt.m3u8
+#EXTINF:-1 tvg-logo="http://scabora.com.br/wp-content/blogs.dir/2/files/2014/06/GNT2.png" group-title="31- VARIEDADES BRASIL",Gnt (4)
+http://tv.factoryiptv.com:80/live/claudio/claudio/50781.rtmp
 
 #EXTINF:-1 tvg-logo="https://assets.corusent.com/wp-content/uploads/2017/06/logo_tv_lifetime_june2017-500x250.png" group-title="31- VARIEDADES BRASIL",Lifetime (1)
 http://tv.minhalista.me:80/9873/9873/50834
@@ -2418,7 +2427,10 @@ http://tv.minhalista.me:80/9873/9873/50834
 http://streamtv.com.br:80/natalie10/natalie10/1591
 
 #EXTINF:-1 tvg-logo="https://assets.corusent.com/wp-content/uploads/2017/06/logo_tv_lifetime_june2017-500x250.png" group-title="31- VARIEDADES BRASIL",Lifetime (3)
-http://tv.factoryiptv.com:80/Cleuton1732/blindurl.me/50834
+http://tv.factoryiptv.com:80/live/Cleuton1732/blindurl.me/50834.rtmp
+
+#EXTINF:-1 tvg-logo="https://assets.corusent.com/wp-content/uploads/2017/06/logo_tv_lifetime_june2017-500x250.png" group-title="31- VARIEDADES BRASIL",Lifetime (4)
+http://tv.factoryiptv.com:80/live/claudio/claudio/50834.rtmp
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Mais_Globosat_logo_2016.svg/1280px-Mais_Globosat_logo_2016.svg.png" group-title="31- VARIEDADES BRASIL",Mais Globosat (1)
 http://tv.minhalista.me:80/9873/9873/50838
@@ -2427,7 +2439,10 @@ http://tv.minhalista.me:80/9873/9873/50838
 http://streamtv.com.br:80/natalie10/natalie10/1590
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Mais_Globosat_logo_2016.svg/1280px-Mais_Globosat_logo_2016.svg.png" group-title="31- VARIEDADES BRASIL",Mais Globosat (3)
-http://tv.factoryiptv.com:80/Cleuton1732/blindurl.me/50838
+http://tv.factoryiptv.com:80/live/Cleuton1732/blindurl.me/50838.rtmp
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Mais_Globosat_logo_2016.svg/1280px-Mais_Globosat_logo_2016.svg.png" group-title="31- VARIEDADES BRASIL",Mais Globosat (4)
+http://tv.factoryiptv.com:80/live/claudio/claudio/50838.rtmp
 
 #EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/mtv-png-logo/danielle-vega-mtv-png-logo-17.png" group-title="31- VARIEDADES BRASIL",Mtv (1)
 http://tv.minhalista.me:80/9873/9873/50856
@@ -2436,10 +2451,10 @@ http://tv.minhalista.me:80/9873/9873/50856
 http://streamtv.com.br:80/natalie10/natalie10/1584
 
 #EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/mtv-png-logo/danielle-vega-mtv-png-logo-17.png" group-title="31- VARIEDADES BRASIL",Mtv (3)
-http://tv.factoryiptv.com:80/Cleuton1732/blindurl.me/50856
+http://tv.factoryiptv.com:80/live/Cleuton1732/blindurl.me/50856.rtmp
 
-#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/mtv-png-logo/danielle-vega-mtv-png-logo-17.png" group-title="31- VARIEDADES BRASIL",Mtv (6)
-https://dn81l09fo7jaf.cloudfront.net/hls1/mtv.m3u8
+#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/mtv-png-logo/danielle-vega-mtv-png-logo-17.png" group-title="31- VARIEDADES BRASIL",Mtv (4)
+http://tv.factoryiptv.com:80/live/claudio/claudio/50856.rtmp
 
 #EXTINF:-1 tvg-logo="http://s2.glbimg.com/aYKWYWXJqKq4o3_tByMbh_jRpt8=/0x0:234x146/234x146/s.glbimg.com/pv/an/f/original/2015/02/24/multishow-234x146.png" group-title="31- VARIEDADES BRASIL",Multishow (1)
 http://tv.minhalista.me:80/9873/9873/50858
@@ -2448,16 +2463,13 @@ http://tv.minhalista.me:80/9873/9873/50858
 http://streamtv.com.br:80/natalie10/natalie10/1583
 
 #EXTINF:-1 tvg-logo="http://s2.glbimg.com/aYKWYWXJqKq4o3_tByMbh_jRpt8=/0x0:234x146/234x146/s.glbimg.com/pv/an/f/original/2015/02/24/multishow-234x146.png" group-title="31- VARIEDADES BRASIL",Multishow (3)
-http://tv.factoryiptv.com:80/Cleuton1732/blindurl.me/50858
+http://tv.factoryiptv.com:80/live/Cleuton1732/blindurl.me/50858.rtmp
 
-#EXTINF:-1 tvg-logo="http://s2.glbimg.com/aYKWYWXJqKq4o3_tByMbh_jRpt8=/0x0:234x146/234x146/s.glbimg.com/pv/an/f/original/2015/02/24/multishow-234x146.png" group-title="31- VARIEDADES BRASIL",Multishow (6)
-https://dn81l09fo7jaf.cloudfront.net/hls1/multishow.m3u8
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/aYKWYWXJqKq4o3_tByMbh_jRpt8=/0x0:234x146/234x146/s.glbimg.com/pv/an/f/original/2015/02/24/multishow-234x146.png" group-title="31- VARIEDADES BRASIL",Multishow (4)
+http://tv.factoryiptv.com:80/live/claudio/claudio/50858.rtmp
 
 #EXTINF:-1 tvg-logo="https://coletiva.net/files/e4da3b7fbbce2345d7772b0674a318d5/midia_foto/20171122/Music-Box-Brazil_nov17.png" group-title="31- VARIEDADES BRASIL",Music Box (2) HD
 http://streamtv.com.br:80/natalie10/natalie10/1582
-
-#EXTINF:-1 tvg-logo="https://coletiva.net/files/e4da3b7fbbce2345d7772b0674a318d5/midia_foto/20171122/Music-Box-Brazil_nov17.png" group-title="31- VARIEDADES BRASIL",Music Box (5)
-http://streamtv.com.br:80/live/julia10/julia10/1582.rtmp
 
 #EXTINF:-1 tvg-logo="https://www.skidun.com/br/images/Logo-Canal-OFF.png" group-title="31- VARIEDADES BRASIL",Off (1)
 http://tv.minhalista.me:80/9873/9873/36954
@@ -2466,16 +2478,19 @@ http://tv.minhalista.me:80/9873/9873/36954
 http://streamtv.com.br:80/natalie10/natalie10/1575
 
 #EXTINF:-1 tvg-logo="https://www.skidun.com/br/images/Logo-Canal-OFF.png" group-title="31- VARIEDADES BRASIL",Off (3)
-http://tv.factoryiptv.com:80/Cleuton1732/blindurl.me/36954
+http://tv.factoryiptv.com:80/live/Cleuton1732/blindurl.me/36954.rtmp
 
-#EXTINF:-1 tvg-logo="https://www.skidun.com/br/images/Logo-Canal-OFF.png" group-title="31- VARIEDADES BRASIL",Off (6)
-https://dn81l09fo7jaf.cloudfront.net/hls1/off.m3u8
+#EXTINF:-1 tvg-logo="https://www.skidun.com/br/images/Logo-Canal-OFF.png" group-title="31- VARIEDADES BRASIL",Off (4)
+http://tv.factoryiptv.com:80/live/claudio/claudio/36954.rtmp
 
 #EXTINF:-1 tvg-logo="http://www.boxbrazil.tv.br/wp-content/uploads/2018/07/prime-e1532524998483.png" group-title="31- VARIEDADES BRASIL",Prime Box (1)
 http://tv.minhalista.me:80/9873/9873/41501
 
 #EXTINF:-1 tvg-logo="http://www.boxbrazil.tv.br/wp-content/uploads/2018/07/prime-e1532524998483.png" group-title="31- VARIEDADES BRASIL",Prime Box (3)
-http://tv.factoryiptv.com:80/Cleuton1732/blindurl.me/41501
+http://tv.factoryiptv.com:80/live/Cleuton1732/blindurl.me/41501.rtmp
+
+#EXTINF:-1 tvg-logo="http://www.boxbrazil.tv.br/wp-content/uploads/2018/07/prime-e1532524998483.png" group-title="31- VARIEDADES BRASIL",Prime Box (4)
+http://tv.factoryiptv.com:80/live/claudio/claudio/41501.rtmp
 
 #EXTINF:-1 tvg-logo="https://tvnotiblog.com/wp-content/uploads/2012/04/trutv.png" group-title="31- VARIEDADES BRASIL",Trutv (1)
 http://tv.minhalista.me:80/9873/9873/41509
@@ -2484,7 +2499,10 @@ http://tv.minhalista.me:80/9873/9873/41509
 http://streamtv.com.br:80/natalie10/natalie10/1530
 
 #EXTINF:-1 tvg-logo="https://tvnotiblog.com/wp-content/uploads/2012/04/trutv.png" group-title="31- VARIEDADES BRASIL",Trutv (3)
-http://tv.factoryiptv.com:80/Cleuton1732/blindurl.me/41509
+http://tv.factoryiptv.com:80/live/Cleuton1732/blindurl.me/41509.rtmp
+
+#EXTINF:-1 tvg-logo="https://tvnotiblog.com/wp-content/uploads/2012/04/trutv.png" group-title="31- VARIEDADES BRASIL",Trutv (4)
+http://tv.factoryiptv.com:80/live/claudio/claudio/41509.rtmp
 
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/canal-viva-png-8.png" group-title="31- VARIEDADES BRASIL",Viva (VLC)
 https://ricks.azureedge.net/hls1/viva.m3u8
@@ -2496,10 +2514,10 @@ http://tv.minhalista.me:80/9873/9873/38393
 http://streamtv.com.br:80/natalie10/natalie10/1526
 
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/canal-viva-png-8.png" group-title="31- VARIEDADES BRASIL",Viva (3)
-http://tv.factoryiptv.com:80/Cleuton1732/blindurl.me/38393
+http://tv.factoryiptv.com:80/live/Cleuton1732/blindurl.me/38393.rtmp
 
-#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/canal-viva-png-8.png" group-title="31- VARIEDADES BRASIL",Viva (6)
-https://dn81l09fo7jaf.cloudfront.net/hls1/viva.m3u8
+#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/canal-viva-png-8.png" group-title="31- VARIEDADES BRASIL",Viva (4)
+http://tv.factoryiptv.com:80/live/claudio/claudio/38393.rtmp
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/7FamS9P.png" group-title="31- VARIEDADES BRASIL",Woohoo (1)
 http://tv.minhalista.me:80/9873/9873/40267
@@ -2508,7 +2526,10 @@ http://tv.minhalista.me:80/9873/9873/40267
 http://streamtv.com.br:80/natalie10/natalie10/1524
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/7FamS9P.png" group-title="31- VARIEDADES BRASIL",Woohoo (3)
-http://tv.factoryiptv.com:80/Cleuton1732/blindurl.me/40267
+http://tv.factoryiptv.com:80/live/Cleuton1732/blindurl.me/40267.rtmp
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7FamS9P.png" group-title="31- VARIEDADES BRASIL",Woohoo (4)
+http://tv.factoryiptv.com:80/live/claudio/claudio/40267.rtmp
 
 ######################################################################################################################################
 #######################################
