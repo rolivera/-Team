@@ -76,8 +76,14 @@ http://177.54.152.243:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/band-logo-png-6.png" group-title="04- BRASIL",Band (1)
 http://lista.digitalgroup.me:80/8681/8681/1713
 
+#EXTINF:0 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/band-logo-png-6.png" group-title="04- BRASIL",Band (2)
+http://iptv.csvix.net:8080/Gustavo/12345/4864
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="04- BRASIL",Globo SP (1)
 http://lista.digitalgroup.me:80/8681/8681/38657
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="04- BRASIL",Globo SP (2)
+http://iptv.csvix.net:8080/Gustavo/12345/4837
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="04- BRASIL",Globo RJ SD
 https://5cc00ac6defaf.streamlock.net:1443/naspek/_definst_/naspek.smil/chunklist_w1695793820_b850000.m3u8
@@ -85,8 +91,14 @@ https://5cc00ac6defaf.streamlock.net:1443/naspek/_definst_/naspek.smil/chunklist
 #EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="04- BRASIL",Globo RJ (1)
 http://lista.digitalgroup.me:80/8681/8681/38661
 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="04- BRASIL",Globo RJ (2)
+http://iptv.csvix.net:8080/Gustavo/12345/5040
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c3/RBS_TV.png" group-title="04- BRASIL",Globo RBS (1)
 http://lista.digitalgroup.me:80/8681/8681/968
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c3/RBS_TV.png" group-title="04- BRASIL",Globo RBS (2)
+http://iptv.csvix.net:8080/Gustavo/12345/4801
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/NBR_logo_2016.svg/1280px-NBR_logo_2016.svg.png" group-title="04- BRASIL",NBR (1)
 http://lista.digitalgroup.me:80/8681/8681/2494
@@ -97,14 +109,23 @@ http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/k4haEx6.png" group-title="04- BRASIL",Rede TV (1)
 http://lista.digitalgroup.me:80/8681/8681/963
 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/k4haEx6.png" group-title="04- BRASIL",Rede TV (2)
+http://iptv.csvix.net:8080/Gustavo/12345/4875
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="04- BRASIL",Record (1)
 http://lista.digitalgroup.me:80/8681/8681/38765
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="04- BRASIL",Record (2)
+http://iptv.csvix.net:8080/Gustavo/12345/5184
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" group-title="04- BRASIL",SBT Interior
 https://5a1c76baf08c0.streamlock.net/z343-live/stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="04- BRASIL",SBT (1)
 http://lista.digitalgroup.me:80/8681/8681/38920
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="04- BRASIL",SBT (2)
+http://iptv.csvix.net:8080/Gustavo/12345/4612
 
 #EXTINF:-1 tvg-logo="http://webtvminas.com/wp-content/uploads/2015/05/logo1.png" group-title="04- BRASIL",Web TV Minas
 http://173.236.10.10:1935/webtvminas/webtvminas/live.m3u8
@@ -1373,92 +1394,182 @@ http://ic7.101.ru:8000/a23
 #EXTINF:-1 tvg-logo="https://www.directv.com/images/logos/channels/dark/large/313.png" group-title="29- PREMIUM BRASIL",Amc (1)
 http://lista.digitalgroup.me:80/8681/8681/9609
 
+#EXTINF:-1 tvg-logo="https://www.directv.com/images/logos/channels/dark/large/313.png" group-title="29- PREMIUM BRASIL",Amc (2)
+http://iptv.csvix.net:8080/Gustavo/12345/4791
+
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/axn.png" group-title="29- PREMIUM BRASIL",Axn (1)
 http://lista.digitalgroup.me:80/8681/8681/1712
+
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/axn.png" group-title="29- PREMIUM BRASIL",Axn (2)
+http://iptv.csvix.net:8080/Gustavo/12345/4769
 
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cine/16.png" group-title="29- PREMIUM BRASIL",Cinemax (1)
 http://lista.digitalgroup.me:80/8681/8681/2483
 
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cine/16.png" group-title="29- PREMIUM BRASIL",Cinemax (2)
+http://iptv.csvix.net:8080/Gustavo/12345/4865
+
 #EXTINF:-1 tvg-logo="http://new.lamac.org/system/channels/logos/000/000/044/original/pic_comedycentral.png?1522177270" group-title="29- PREMIUM BRASIL",Comedy Central (1)
 http://lista.digitalgroup.me:80/8681/8681/2484
+
+#EXTINF:-1 tvg-logo="http://new.lamac.org/system/channels/logos/000/000/044/original/pic_comedycentral.png?1522177270" group-title="29- PREMIUM BRASIL",Comedy Central (2)
+http://iptv.csvix.net:8080/Gustavo/12345/4832
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Al6Y2.png" group-title="29- PREMIUM BRASIL",Fox (1)
 http://lista.digitalgroup.me:80/8681/8681/1329
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Al6Y2.png" group-title="29- PREMIUM BRASIL",Fox (2)
+http://iptv.csvix.net:8080/Gustavo/12345/4968
+
 #EXTINF:-1 tvg-logo="http://neurads.com/wp-content/uploads/foxlife-2.png" group-title="29- PREMIUM BRASIL",Fox Life (1)
 http://lista.digitalgroup.me:80/8681/8681/1038
+
+#EXTINF:-1 tvg-logo="http://neurads.com/wp-content/uploads/foxlife-2.png" group-title="29- PREMIUM BRASIL",Fox Life (2)
+http://iptv.csvix.net:8080/Gustavo/12345/4551
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/59/FOXPremium1.png/revision/latest?cb=20170324170019" group-title="29- PREMIUM BRASIL",Fox Premium 1 (1)
 http://lista.digitalgroup.me:80/8681/8681/20815
 
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/59/FOXPremium1.png/revision/latest?cb=20170324170019" group-title="29- PREMIUM BRASIL",Fox Premium 1 (2)
+http://iptv.csvix.net:8080/Gustavo/12345/18725
+
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/28/FOXPremium2.png/revision/latest?cb=20170324170127" group-title="29- PREMIUM BRASIL",Fox Premium 2 (1)
 http://lista.digitalgroup.me:80/8681/8681/20816
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/28/FOXPremium2.png/revision/latest?cb=20170324170127" group-title="29- PREMIUM BRASIL",Fox Premium 2 (2)
+http://iptv.csvix.net:8080/Gustavo/12345/18723
 
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-JBwoh8YDdKY/TyztsSnAnTI/AAAAAAAAAMc/UHfWADlmytY/s1600/fx_hd.png" group-title="29- PREMIUM BRASIL",Fx (1)
 http://lista.digitalgroup.me:80/8681/8681/1028
 
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-JBwoh8YDdKY/TyztsSnAnTI/AAAAAAAAAMc/UHfWADlmytY/s1600/fx_hd.png" group-title="29- PREMIUM BRASIL",Fx (2)
+http://iptv.csvix.net:8080/Gustavo/12345/4548
+
 #EXTINF:-1 tvg-logo="https://vectors.pro/wp-content/uploads/2017/10/hbo-logo-vector.png" group-title="29- PREMIUM BRASIL",Hbo (1)
 http://lista.digitalgroup.me:80/8681/8681/1020
+
+#EXTINF:-1 tvg-logo="https://vectors.pro/wp-content/uploads/2017/10/hbo-logo-vector.png" group-title="29- PREMIUM BRASIL",Hbo (2)
+http://iptv.csvix.net:8080/Gustavo/12345/4600
 
 #EXTINF:-1 tvg-logo="http://aux4.iconspalace.com/uploads/797638582344877408.png" group-title="29- PREMIUM BRASIL",Hbo 2 (1)
 http://lista.digitalgroup.me:80/8681/8681/2489
 
+#EXTINF:-1 tvg-logo="http://aux4.iconspalace.com/uploads/797638582344877408.png" group-title="29- PREMIUM BRASIL",Hbo 2 (2)
+http://iptv.csvix.net:8080/Gustavo/12345/4619
+
 #EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/hbo-family-logo-320x320-745790760.png" group-title="29- PREMIUM BRASIL",Hbo Family (1)
 http://lista.digitalgroup.me:80/8681/8681/1016
+
+#EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/hbo-family-logo-320x320-745790760.png" group-title="29- PREMIUM BRASIL",Hbo Family (2)
+http://iptv.csvix.net:8080/Gustavo/12345/4919
 
 #EXTINF:-1 tvg-logo="http://contenidos.cablevision.com.mx/guia_programacion/channels/634.png" group-title="29- PREMIUM BRASIL",Hbo Plus (1)
 http://lista.digitalgroup.me:80/8681/8681/1014
 
+#EXTINF:-1 tvg-logo="http://contenidos.cablevision.com.mx/guia_programacion/channels/634.png" group-title="29- PREMIUM BRASIL",Hbo Plus (2)
+http://iptv.csvix.net:8080/Gustavo/12345/4618
+
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/mx/HBOSignature.mx.png" group-title="29- PREMIUM BRASIL",Hbo Signature (1)
 http://lista.digitalgroup.me:80/8681/8681/2488
+
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/mx/HBOSignature.mx.png" group-title="29- PREMIUM BRASIL",Hbo Signature (2)
+http://iptv.csvix.net:8080/Gustavo/12345/4648
 
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-I_y7DS7ckN4/U2Au0ohgyEI/AAAAAAAACRI/UUmABBsgA2A/s1600/Max_HD-fullcaleta.biz.png" group-title="29- PREMIUM BRASIL",Max (1)
 http://lista.digitalgroup.me:80/8681/8681/1007
 
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-I_y7DS7ckN4/U2Au0ohgyEI/AAAAAAAACRI/UUmABBsgA2A/s1600/Max_HD-fullcaleta.biz.png" group-title="29- PREMIUM BRASIL",Max (2)
+http://iptv.csvix.net:8080/Gustavo/12345/4839
+
 #EXTINF:-1 tvg-logo="http://sky.vteximg.com.br/arquivos/ids/156096/maxprime-hd.png?v=636446344633130000" group-title="29- PREMIUM BRASIL",Max Prime (1)
 http://lista.digitalgroup.me:80/8681/8681/1006
+
+#EXTINF:-1 tvg-logo="http://sky.vteximg.com.br/arquivos/ids/156096/maxprime-hd.png?v=636446344633130000" group-title="29- PREMIUM BRASIL",Max Prime (2)
+http://iptv.csvix.net:8080/Gustavo/12345/4870
 
 #EXTINF:-1 tvg-logo="https://www.totalplay.com.mx/images/logos/canales/hbomax/max-up.png" group-title="29- PREMIUM BRASIL",Max Up (1)
 http://lista.digitalgroup.me:80/8681/8681/1005
 
+#EXTINF:-1 tvg-logo="https://www.totalplay.com.mx/images/logos/canales/hbomax/max-up.png" group-title="29- PREMIUM BRASIL",Max Up (2)
+http://iptv.csvix.net:8080/Gustavo/12345/4811
+
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/megapix-logo-png-7.png" group-title="29- PREMIUM BRASIL",Megapix (1)
 http://lista.digitalgroup.me:80/8681/8681/1004
+
+#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/megapix-logo-png-7.png" group-title="29- PREMIUM BRASIL",Megapix (2)
+http://iptv.csvix.net:8080/Gustavo/12345/4871
 
 #EXTINF:-1 tvg-logo="http://vertelevisor.com/imagenes/paramount-channel.png" group-title="29- PREMIUM BRASIL",Paramount (1)
 http://lista.digitalgroup.me:80/8681/8681/980
 
+#EXTINF:-1 tvg-logo="http://vertelevisor.com/imagenes/paramount-channel.png" group-title="29- PREMIUM BRASIL",Paramount (2)
+http://iptv.csvix.net:8080/Gustavo/12345/4804
+
 #EXTINF:-1 tvg-logo="https://www.totalplay.com.mx/images/logos/canales/entretenimiento/canal-sony.png" group-title="29- PREMIUM BRASIL",Sony (1)
 http://lista.digitalgroup.me:80/8681/8681/1096
+
+#EXTINF:-1 tvg-logo="https://www.totalplay.com.mx/images/logos/canales/entretenimiento/canal-sony.png" group-title="29- PREMIUM BRASIL",Sony (2)
+http://iptv.csvix.net:8080/Gustavo/12345/4806
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8.png" group-title="29- PREMIUM BRASIL",Space (1)
 http://lista.digitalgroup.me:80/8681/8681/2501
 
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8.png" group-title="29- PREMIUM BRASIL",Space (2)
+http://iptv.csvix.net:8080/Gustavo/12345/4842
+
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/04/9e/d4/049ed43cd66568e2061b7bb44a00a925.png" group-title="29- PREMIUM BRASIL",Studio Universal (1)
 http://lista.digitalgroup.me:80/8681/8681/2384
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/04/9e/d4/049ed43cd66568e2061b7bb44a00a925.png" group-title="29- PREMIUM BRASIL",Studio Universal (2)
+http://iptv.csvix.net:8080/Gustavo/12345/4844
 
 #EXTINF:-1 tvg-logo="https://www.programacion.tv/images/syfy.png" group-title="29- PREMIUM BRASIL",Syfy (1)
 http://lista.digitalgroup.me:80/8681/8681/939
 
+#EXTINF:-1 tvg-logo="https://www.programacion.tv/images/syfy.png" group-title="29- PREMIUM BRASIL",Syfy (2)
+http://iptv.csvix.net:8080/Gustavo/12345/4879
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Telecine_Action_2.png" group-title="29- PREMIUM BRASIL",Telecine Action (1)
 http://lista.digitalgroup.me:80/8681/8681/935
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Telecine_Action_2.png" group-title="29- PREMIUM BRASIL",Telecine Action (2)
+http://iptv.csvix.net:8080/Gustavo/12345/4976
 
 #EXTINF:-1 tvg-logo="https://skytvplanos.com.br/img/channels/lg-66-canal-tc-cult.png" group-title="29- PREMIUM BRASIL",Telecine Cult (1)
 http://lista.digitalgroup.me:80/8681/8681/933
 
+#EXTINF:-1 tvg-logo="https://skytvplanos.com.br/img/channels/lg-66-canal-tc-cult.png" group-title="29- PREMIUM BRASIL",Telecine Cult (2)
+http://iptv.csvix.net:8080/Gustavo/12345/4623
+
 #EXTINF:-1 tvg-logo="https://skytvplanos.com.br/img/channels/lg-65-canal-tc-fun.png" group-title="29- PREMIUM BRASIL",Telecine Fun (1)
 http://lista.digitalgroup.me:80/8681/8681/931
+
+#EXTINF:-1 tvg-logo="https://skytvplanos.com.br/img/channels/lg-65-canal-tc-fun.png" group-title="29- PREMIUM BRASIL",Telecine Fun (2)
+http://iptv.csvix.net:8080/Gustavo/12345/4798
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_telecine-pipoca-hd_m.png" group-title="29- PREMIUM BRASIL",Telecine Pipoca (1)
 http://lista.digitalgroup.me:80/8681/8681/929
 
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_telecine-pipoca-hd_m.png" group-title="29- PREMIUM BRASIL",Telecine Pipoca (2)
+http://iptv.csvix.net:8080/Gustavo/12345/4846
+
 #EXTINF:-1 tvg-logo="http://logowiki.net/wp-content/uploads/2018/01/Telecine-Premium-Logo-1-9853.png" group-title="29- PREMIUM BRASIL",Telecine Premium (1)
 http://lista.digitalgroup.me:80/8681/8681/2415
+
+#EXTINF:-1 tvg-logo="http://logowiki.net/wp-content/uploads/2018/01/Telecine-Premium-Logo-1-9853.png" group-title="29- PREMIUM BRASIL",Telecine Premium (2)
+http://iptv.csvix.net:8080/Gustavo/12345/4930
 
 #EXTINF:-1 tvg-logo="https://skytvplanos.com.br/img/channels/lg-263-canal-tc-touch-hd.png" group-title="29- PREMIUM BRASIL",Telecine Touch (1)
 http://lista.digitalgroup.me:80/8681/8681/926
 
+#EXTINF:-1 tvg-logo="https://skytvplanos.com.br/img/channels/lg-263-canal-tc-touch-hd.png" group-title="29- PREMIUM BRASIL",Telecine Touch (2)
+http://iptv.csvix.net:8080/Gustavo/12345/4613
+
 #EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/011/original/pic_tbs.png?1522176341" group-title="29- PREMIUM BRASIL",Tbs (1)
 http://lista.digitalgroup.me:80/8681/8681/937
+
+#EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/011/original/pic_tbs.png?1522176341" group-title="29- PREMIUM BRASIL",Tbs (2)
+http://iptv.csvix.net:8080/Gustavo/12345/4926
 
 #EXTINF:-1 tvg-logo="https://gartel.es/canales/tcm.png" group-title="29- PREMIUM BRASIL",Tcm (1)
 http://lista.digitalgroup.me:80/8681/8681/925
@@ -1466,14 +1577,26 @@ http://lista.digitalgroup.me:80/8681/8681/925
 #EXTINF:-1 tvg-logo="http://mareatvcable.com/wp-content/uploads/2017/12/44-tntlogo.png" group-title="29- PREMIUM BRASIL",Tnt (1)
 http://lista.digitalgroup.me:80/8681/8681/921
 
+#EXTINF:-1 tvg-logo="http://mareatvcable.com/wp-content/uploads/2017/12/44-tntlogo.png" group-title="29- PREMIUM BRASIL",Tnt (2)
+http://iptv.csvix.net:8080/Gustavo/12345/4563
+
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/tnt-series-logo-01.png" group-title="29- PREMIUM BRASIL",Tnt Series (1)
 http://lista.digitalgroup.me:80/8681/8681/1204
+
+#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/tnt-series-logo-01.png" group-title="29- PREMIUM BRASIL",Tnt Series (2)
+http://iptv.csvix.net:8080/Gustavo/12345/4847
 
 #EXTINF:-1 tvg-logo="http://www.temporadafinal.com/gallery/5400ebfa0cc26universal-channel-.png" group-title="29- PREMIUM BRASIL",Universal Channel (1)
 http://lista.digitalgroup.me:80/8681/8681/940
 
+#EXTINF:-1 tvg-logo="http://www.temporadafinal.com/gallery/5400ebfa0cc26universal-channel-.png" group-title="29- PREMIUM BRASIL",Universal Channel (2)
+http://iptv.csvix.net:8080/Gustavo/12345/4645
+
 #EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/08/d3e81-wb-hd-2011.png" group-title="29- PREMIUM BRASIL",Warner Channel (1)
 http://lista.digitalgroup.me:80/8681/8681/896
+
+#EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/08/d3e81-wb-hd-2011.png" group-title="29- PREMIUM BRASIL",Warner Channel (2)
+http://iptv.csvix.net:8080/Gustavo/12345/5181
 
 ######################################################################################################################################
 #######################################
