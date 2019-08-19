@@ -70,7 +70,7 @@ https://stream.vagalume.fm/hls/14658544132100453351/aac.m3u8
 #######################################
 ######################################################################################################################################
 
-#EXTINF:0 tvg-logo="http://www.speedbol.com.br/wp-content/uploads/2017/12/agro-brasil.png" group-title="04- BRASIL",Agro Brasil
+#EXTINF:0 tvg-logo="http://i.imgur.com/xGYSOgE.png" group-title="04- BRASIL",Agro Brasil
 http://177.54.152.243:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/band-logo-png-6.png" group-title="04- BRASIL",Band (1)
@@ -78,6 +78,9 @@ http://tv.factoryiptv.com:80/live/claudio/claudio/37127.rtmp
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/CINE%2B_-_LOGO.png/1200px-CINE%2B_-_LOGO.png" group-title="04- BRASIL",Cine +
 https://5c49cd60dfe56.streamlock.net:6443/cinemais/live/chunklist_w749538962.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Or3Q4WA.png" group-title="04- BRASIL",Gazeta RN
+http://wse01.logicahost.com.br:1935/televisaorn/_definst_/televisaorn/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="04- BRASIL",Globo SP SD
 https://5cc00ac6defaf.streamlock.net:1443/naspek/_definst_/naspek.smil/chunklist_w133688264_b200000.m3u8
@@ -94,11 +97,14 @@ http://tv.factoryiptv.com:80/live/claudio/claudio/37091.rtmp
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c3/RBS_TV.png" group-title="04- BRASIL",Globo RBS (1)
 http://tv.factoryiptv.com:80/live/claudio/claudio/40253.rtmp
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/NBR_logo_2016.svg/1280px-NBR_logo_2016.svg.png" group-title="04- BRASIL",NBR (1)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/if82162.png" group-title="04- BRASIL",NBR (1)
 http://tv.factoryiptv.com:80/live/claudio/claudio/37021.rtmp
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/LOGO_REDETV%21.png" group-title="04- BRASIL",Rede TV SD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/k4haEx6.png" group-title="04- BRASIL",Rede TV SD
 http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://studiosol-a.akamaihd.net/uploadfile/letras/fotos/5/2/b/9/52b943caf2678a6a8cd401470782be46.jpg" group-title="04- BRASIL",Rede TV (Pampa)
+https://v8.ciclano.io:1443/rafael926/_definst_/rafael926/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/k4haEx6.png" group-title="04- BRASIL",Rede TV (1)
 http://tv.factoryiptv.com:80/live/claudio/claudio/37012.rtmp
@@ -120,6 +126,15 @@ https://593d7fe3c9b0d.streamlock.net/tvcarioca/tvcarioca/chunklist_w1674252223.m
 
 #EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/1003228/logo_tv%20diario%20do%20sertao.png" group-title="04- BRASIL",Tv Diario do Sertao
 http://painelvj.com.br/pdsertaotv/pdsertaotv.sdp/chunklist_w1056637401.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/kLWg5sp.png" group-title="04- BRASIL",TVE BA
+http://200.187.60.190:80/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/gQ4GDzQ.png" group-title="04- BRASIL",TVE RS
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/V3zjKvc.png" group-title="04- BRASIL",Tv FAAP
+http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/16da1f7b0f5766e3fdfbbbca0dad79ea.jpg" group-title="04- BRASIL",Tv na Ilha
 http://wowv.gadi.com.br/tvnailha/tvnailha/playlist.m3u8?wowzasessionid=1493508687
