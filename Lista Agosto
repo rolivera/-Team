@@ -76,6 +76,12 @@ http://177.54.152.243:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/band-logo-png-6.png" group-title="04- BRASIL",Band (1)
 http://tv.factoryiptv.com:80/live/claudio/claudio/37127.rtmp
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/CINE%2B_-_LOGO.png/1200px-CINE%2B_-_LOGO.png" group-title="04- BRASIL",Cine +
+https://5c49cd60dfe56.streamlock.net:6443/cinemais/live/chunklist_w749538962.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="04- BRASIL",Globo SP SD
+https://5cc00ac6defaf.streamlock.net:1443/naspek/_definst_/naspek.smil/chunklist_w133688264_b200000.m3u8
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="04- BRASIL",Globo SP (1)
 http://tv.factoryiptv.com:80/live/claudio/claudio/37090.rtmp
 
@@ -105,6 +111,21 @@ https://5a1c76baf08c0.streamlock.net/z343-live/stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="04- BRASIL",SBT (1)
 http://tv.factoryiptv.com:80/live/claudio/claudio/37048.rtmp
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="04- BRASIL",SBT PE
+https://evpp.mm.uol.com.br/ne10/ne10_720.sdp/chunklist_w322427533.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tvcarioca.net/gallery_gen/4655b6d6edfafcdcab2210e38800ed46_430x250.png" group-title="04- BRASIL",Tv Carioca
+https://593d7fe3c9b0d.streamlock.net/tvcarioca/tvcarioca/chunklist_w1674252223.m3u8
+
+#EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/1003228/logo_tv%20diario%20do%20sertao.png" group-title="04- BRASIL",Tv Diario do Setao
+http://painelvj.com.br/pdsertaotv/pdsertaotv.sdp/chunklist_w1056637401.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/16da1f7b0f5766e3fdfbbbca0dad79ea.jpg" group-title="04- BRASIL",Tv na Ilha
+http://wowv.gadi.com.br/tvnailha/tvnailha/playlist.m3u8?wowzasessionid=1493508687
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/aa2d79aa1de837e717638a2f88268e12.png" group-title="04- BRASIL",Tv Pantanal
+https://5ca42828c3a79.streamlock.net/tvpantanalms/tvpantanalms/chunklist_w1702334988.m3u8
 
 #EXTINF:-1 tvg-logo="http://webtvminas.com/wp-content/uploads/2015/05/logo1.png" group-title="04- BRASIL",Web TV Minas
 http://173.236.10.10:1935/webtvminas/webtvminas/live.m3u8
