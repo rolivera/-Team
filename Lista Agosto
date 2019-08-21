@@ -1409,8 +1409,23 @@ http://ic7.101.ru:8000/a23
 #EXTINF:-1 tvg-logo="https://www.directv.com/images/logos/channels/dark/large/313.png" group-title="29- PREMIUM BRASIL",Amc (1)
 http://tv.factoryiptv.com:80/live/claudio/claudio/41087.rtmp
 
+#EXTINF:-1 tvg-logo="https://www.directv.com/images/logos/channels/dark/large/313.png" group-title="29- PREMIUM BRASIL",Amc (VLC)
+http://uautv.ru:2095/live/7PAeb8lLTp/cLrjxNQiL3/9867.ts
+
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/axn.png" group-title="29- PREMIUM BRASIL",Axn (1)
 http://tv.factoryiptv.com:80/live/claudio/claudio/37132.rtmp
+
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/axn.png" group-title="29- PREMIUM BRASIL",Axn (VLC)
+http://uautv.ru:2095/live/7PAeb8lLTp/cLrjxNQiL3/5780.ts
+
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/axn.png" group-title="29- PREMIUM BRASIL",Axn (VLC) PT
+http://uautv.ru:2095/live/7PAeb8lLTp/cLrjxNQiL3/6586.ts
+
+#EXTINF:-1 tvg-logo="http://uautv.ru:2095/images/logos_brasil/axnblackhd.png" group-title="29- PREMIUM BRASIL",Axn Black (VLC) PT
+http://uautv.ru:2095/live/7PAeb8lLTp/cLrjxNQiL3/6588.ts
+
+#EXTINF:-1 tvg-logo="http://uautv.ru:2095/images/logos_brasil/axnwhitehd1.png" group-title="29- PREMIUM BRASIL",Axn White (VLC) PT
+http://uautv.ru:2095/live/7PAeb8lLTp/cLrjxNQiL3/6589.ts
 
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cine/16.png" group-title="29- PREMIUM BRASIL",Cinemax (1)
 http://tv.factoryiptv.com:80/live/claudio/claudio/37120.rtmp
