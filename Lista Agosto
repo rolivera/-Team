@@ -1409,7 +1409,7 @@ http://ic7.101.ru:8000/a23
 #EXTINF:-1 tvg-logo="https://www.directv.com/images/logos/channels/dark/large/313.png" group-title="29- PREMIUM BRASIL",Amc (1)
 http://tv.factoryiptv.com:80/live/claudio/claudio/41087.rtmp
 
-#EXTINF:-1 tvg-logo="https://www.directv.com/images/logos/channels/dark/large/313.png" group-title="29- PREMIUM BRASIL",Amc (VLC)
+#EXTINF:-1 tvg-logo="https://www.directv.com/images/logos/channels/dark/large/313.png" group-title="29- PREMIUM BRASIL",Amc (VLC) 4K
 http://uautv.ru:2095/live/7PAeb8lLTp/cLrjxNQiL3/9867.ts
 
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/axn.png" group-title="29- PREMIUM BRASIL",Axn (1)
@@ -1535,8 +1535,11 @@ http://uautv.ru:2095/live/7PAeb8lLTp/cLrjxNQiL3/5110.ts
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/megapix-logo-png-7.png" group-title="29- PREMIUM BRASIL",Megapix (1)
 http://tv.factoryiptv.com:80/live/claudio/claudio/37072.rtmp
 
-#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/megapix-logo-png-7.png" group-title="29- PREMIUM BRASIL",Megapix (VLC)
-http://uautv.ru:2095/live/7PAeb8lLTp/cLrjxNQiL3/18065.ts
+#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/megapix-logo-png-7.png" group-title="29- PREMIUM BRASIL",Megapix (VLC) FHD
+http://uautv.ru:2095/7PAeb8lLTp/cLrjxNQiL3/18065
+
+#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/megapix-logo-png-7.png" group-title="29- PREMIUM BRASIL",Megapix (VLC) 4K
+http://uautv.ru:2095/7PAeb8lLTp/cLrjxNQiL3/5117
 
 #EXTINF:-1 tvg-logo="http://vertelevisor.com/imagenes/paramount-channel.png" group-title="29- PREMIUM BRASIL",Paramount (1)
 http://tv.factoryiptv.com:80/live/claudio/claudio/37062.rtmp
