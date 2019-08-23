@@ -21,11 +21,20 @@ https://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
 #EXTINF:-1 tvg-logo="https://www.cn247.tv/img/logo.png" group-title="03- ARGENTINA",24/7 Noticias
 http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://futbolhoy.com.ar/wp-content/uploads/2019/03/A24.png" group-title="03- ARGENTINA",A24
+http://app.magistv.net:2052/uCPQOI/cYRWxa9G3a/642
+
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/America-TV.png" group-title="03- ARGENTINA",America
+http://app.magistv.net:2052/uCPQOI/cYRWxa9G3a/648
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Logo_13max_HD.png" group-title="03- ARGENTINA",13 Max SD
 http://coninfo.net:1935/13maxhd/live_720p/chunklist_w352743074.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Logo_13max_HD.png" group-title="03- ARGENTINA",13 Max
 http://coninfo.net:1935/13maxhd/live_720p/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.lapostanoticias.com.ar/wp-content/uploads/2018/03/C5N_logo_1color_SinBajada-01-2.jpg" group-title="03- ARGENTINA",C5N
+http://app.magistv.net:2052/uCPQOI/cYRWxa9G3a/665
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/732661005952618496/5pxo5q9h_400x400.jpg" group-title="03- ARGENTINA",Canal 4 Jujuy
 http://190.52.32.13:1935/canal4/smil:manifest.smil/playlist.m3u8
@@ -47,6 +56,9 @@ http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/677195098405412864/w1GSVqNs_400x400.png" group-title="03- ARGENTINA",CN3
 http://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://ipuntotv.com/IMAGES/ElTreceHD2012.jpg" group-title="03- ARGENTINA",El Trece
+http://app.magistv.net:2052/uCPQOI/cYRWxa9G3a/667
 
 #EXTINF:-1 tvg-logo="http://www.mundou.edu.ar/img/canales/a1v2ltjc.png" group-title="03- ARGENTINA",Litus
 http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8?GrupoTopIptv
@@ -184,8 +196,14 @@ http://136.243.3.70:1935/RtpBolivia/RtpBolivia/playlist.m3u8
 https://stream.vagalume.fm/hls/14647977281792658143/aac.m3u8
 #######################################
 
+#EXTINF:-1 tvg-logo="https://img2.freepng.es/20180525/ry/kisspng-canal-13-logo-chile-television-front-and-back-covers-5b07ff0f65b977.0616481915272507034167.jpg" group-title="06- CHILE",Canal 13
+http://app.magistv.net:2052/uCPQOI/cYRWxa9G3a/668
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Canal_21_Chill%C3%A1n.png" group-title="06- CHILE",Canal 21
 http://edge1.cl.grupoz.cl/canal21tv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tvn.cl/incoming/24horas_cljpg-2555473/ALTERNATES/w1024h768/24HORAS_CL.jpg" group-title="06- CHILE",Canal 24 Horas
+http://app.magistv.net:2052/uCPQOI/cYRWxa9G3a/670
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/VhOolgs.png" group-title="06- CHILE",El Pingüino
 http://streaming.elpinguino.com:1935/live/pinguinotv_720p/hasbahca.m3u8?GrupoTopIptv
@@ -216,6 +234,9 @@ http://cl.origin.grupoz.cl:1935/uestv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2016/06/16/01/23/colombia-1460312_960_720.jpg" group-title="07- COLOMBIA",07- COLOMBIA
 https://stream.vagalume.fm/hls/147015501223418/aac.m3u8
 #######################################
+
+#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/364-3646927_canal-uno-colombia-hd-2017-channel-1.png" group-title="07- COLOMBIA",Canal Uno
+http://app.magistv.net:2052/uCPQOI/cYRWxa9G3a/669
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/386408609/cnc2_400x400.png" group-title="07- COLOMBIA",CNC 
 http://66.240.236.25:1936/canalcnc/canalcnc/chunklist.m3u8
@@ -331,6 +352,12 @@ http://livestreaming.videolina.it/live/Videolina/playlist.m3u8
 https://stream.vagalume.fm/hls/147015499779090/aac.m3u8
 #######################################
 
+#EXTINF:-1 tvg-logo="https://telcammuzquiz.com/wp-content/uploads/2018/03/Azteca-Uno.jpg" group-title="13- MEXICO",Azteca 1
+http://app.magistv.net:2052/uCPQOI/cYRWxa9G3a/655
+
+#EXTINF:-1 tvg-logo="https://roku-zapopan8.webnode.mx/_files/200000035-3711338065/mx_azteca-7_m.png" group-title="13- MEXICO",Azteca 7
+http://app.magistv.net:2052/uCPQOI/cYRWxa9G3a/656
+
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLmFwcC5saXRlZ251bGF0dl9pY29uXzE1NTQ2MzgxNTJfMDUx/icon.png?w=170&fakeurl=1" group-title="13- MEXICO",Azteca 7 (GNULA)
 http://s3linkgapp.net:25461/Lista-Gratuita/Descarga-Desde-Play-Store-GnulaTV-Lite-210703/55
 
@@ -433,8 +460,14 @@ http://174.138.118.252/live/canal13stream_src.m3u8
 https://stream.vagalume.fm/hls/1507663468882713/aac.m3u8
 #######################################
 
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_america-television_m.png" group-title="17- PERU",America tv
+http://app.magistv.net:2052/uCPQOI/cYRWxa9G3a/649
+
 #EXTINF:-1 tvg-logo="https://www.jssor.com/andre89/tv-antares.png" group-title="17- PERU",Antares
 http://173.192.105.252:1935/iptvantares/liveantarestv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/01/atv.png" group-title="17- PERU",ATV
+http://app.magistv.net:2052/uCPQOI/cYRWxa9G3a/653
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oWya6SB.png" group-title="17- PERU",Central TV
 http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
@@ -501,6 +534,9 @@ http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/chunks.m3u8
 https://stream.vagalume.fm/hls/1470169276225492/aac.m3u8
 #######################################
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1107997180311281665/c72fyy_F_400x400.png" group-title="20- URUGUAY",Montecarlo
+http://app.magistv.net:2052/uCPQOI/cYRWxa9G3a/671
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1107997180311281665/c72fyy_F_400x400.png" group-title="20- URUGUAY",Montecarlo (1)
 http://ummodigital.com:2082/live/sarah2017/sarah2017/5144.rtmp
 
@@ -512,6 +548,9 @@ http://ummodigital.com:2082/live/pablo1234/pablo1234/5144.rtmp
 
 #EXTINF:-1 tvg-logo="http://www.canalm.tv/plantillas/temas/canalm/imagenes/canalm.png" group-title="20- URUGUAY",Montevideo Portal
 http://wowza.montevideo.com.uy:1936/live/_definst_/mvdstrem/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.tvalacarta.info/canales/256x256/canal10.png" group-title="20- URUGUAY",Saeta Canal 10
+http://app.magistv.net:2052/uCPQOI/cYRWxa9G3a/666
 
 #EXTINF:-1 tvg-logo="https://media.tvalacarta.info/canales/256x256/canal10.png" group-title="20- URUGUAY",Saeta Canal 10 (1)
 http://ummodigital.com:2082/live/sarah2017/sarah2017/5229.rtmp
