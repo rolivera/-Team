@@ -27,6 +27,12 @@ http://app.magistv.net:2052/uCPQOI/cYRWxa9G3a/642
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/America-TV.png" group-title="03- ARGENTINA",America
 http://app.magistv.net:2052/uCPQOI/cYRWxa9G3a/648
 
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/America-TV.png" group-title="03- ARGENTINA",America
+http://xse.jfglno.com:23618/live/cyx-28F017644771a75b24D477845E01.ts
+
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/America-TV.png" group-title="03- ARGENTINA",America
+http://xse.jfglno.com:23618/live/cyx-5B6F727643FCafb2C319C556C4C9.ts
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Logo_13max_HD.png" group-title="03- ARGENTINA",13 Max SD
 http://coninfo.net:1935/13maxhd/live_720p/chunklist_w352743074.m3u8
 
@@ -204,6 +210,9 @@ http://edge1.cl.grupoz.cl/canal21tv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tvn.cl/incoming/24horas_cljpg-2555473/ALTERNATES/w1024h768/24HORAS_CL.jpg" group-title="06- CHILE",Canal 24 Horas
 http://app.magistv.net:2052/uCPQOI/cYRWxa9G3a/670
+
+#EXTINF:-1 tvg-logo="https://www.tvn.cl/incoming/24horas_cljpg-2555473/ALTERNATES/w1024h768/24HORAS_CL.jpg" group-title="06- CHILE",Canal 24 Horas
+http://app.magistv.net:2052/live/uCPQOI/cYRWxa9G3a/653.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/VhOolgs.png" group-title="06- CHILE",El Pingüino
 http://streaming.elpinguino.com:1935/live/pinguinotv_720p/hasbahca.m3u8?GrupoTopIptv
@@ -463,6 +472,12 @@ https://stream.vagalume.fm/hls/1507663468882713/aac.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_america-television_m.png" group-title="17- PERU",America tv
 http://app.magistv.net:2052/uCPQOI/cYRWxa9G3a/649
 
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_america-television_m.png" group-title="17- PERU",America tv
+http://xse.jfglno.com:23618/live/cyx-98B9F781486Da1b7D7B501B2F69C.ts
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_america-television_m.png" group-title="17- PERU",America tv
+http://xse.jfglno.com:23618/live/cyx-5B327EC74741a68a9B8BE7F04DE4.ts
+
 #EXTINF:-1 tvg-logo="https://www.jssor.com/andre89/tv-antares.png" group-title="17- PERU",Antares
 http://173.192.105.252:1935/iptvantares/liveantarestv/playlist.m3u8
 
@@ -536,6 +551,9 @@ https://stream.vagalume.fm/hls/1470169276225492/aac.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1107997180311281665/c72fyy_F_400x400.png" group-title="20- URUGUAY",Montecarlo
 http://app.magistv.net:2052/uCPQOI/cYRWxa9G3a/671
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1107997180311281665/c72fyy_F_400x400.png" group-title="20- URUGUAY",Montecarlo
+http://xse.jfglno.com:23618/live/cyx-45A8419F4A50afa2061838104FA8.ts
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1107997180311281665/c72fyy_F_400x400.png" group-title="20- URUGUAY",Montecarlo (1)
 http://ummodigital.com:2082/live/sarah2017/sarah2017/5144.rtmp
