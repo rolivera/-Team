@@ -415,6 +415,9 @@ http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u
 #EXTINF:-1 tvg-logo="https://www.telemundo.com/sites/nbcutelemundo/themes/aurora_tlmd/images/telemundo_logo.png" group-title="13- MEXICO",Telemundo
 http://flow.nibbletv.info/CH/VJcxZ7cEbJEm/Telemundo.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.telemundo.com/sites/nbcutelemundo/themes/aurora_tlmd/images/telemundo_logo.png" group-title="13- MEXICO",Telemundo
+http://s3linkgapp.net:25461/live/Lista-Gratuita/Descarga-Desde-Play-Store-GnulaTV-Lite-114519/76.rtmp
+
 #EXTINF:-1 tvg-logo="https://www.tlaxcalatelevision.tv/images/logo-tlaxcala-television-2019-final.png" group-title="13- MEXICO",Tlaxcala TV
 http://coracyt.mega00.com:1935/live/coracyt/coracyt/playlist.m3u8
 
@@ -1380,8 +1383,8 @@ http://51.77.246.215:25461/marcel/marcel/40149
 #EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/011/original/pic_tbs.png?1522176341" group-title="28- PREMIUM LATINO",Tbs (5)
 http://ummodigital.com:2082/live/pablo1234/pablo1234/4671.rtmp
 
-#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLmFwcC5saXRlZ251bGF0dl9pY29uXzE1NTQ2MzgxNTJfMDUx/icon.png?w=170&fakeurl=1" group-title="28- PREMIUM LATINO",Tcm (GNULA)
-http://s3linkgapp.net:25461/Lista-Gratuita/Descarga-Desde-Play-Store-GnulaTV-Lite-210703/61
+#EXTINF:-1 tvg-logo="https://gartel.es/canales/tcm.png" group-title="28- PREMIUM LATINO",Tcm
+http://s3linkgapp.net:25461/live/Lista-Gratuita/Descarga-Desde-Play-Store-GnulaTV-Lite-114519/61.rtmp
 
 #EXTINF:-1 tvg-logo="https://gartel.es/canales/tcm.png" group-title="28- PREMIUM LATINO",Tcm (1)
 http://ummodigital.com:2082/live/sarah2017/sarah2017/4673.rtmp
