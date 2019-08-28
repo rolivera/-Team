@@ -2700,11 +2700,14 @@ http://216.245.204.227:8054/live
 #EXTINF:-1 tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/3.png" group-title="36- NOTICIAS LATINO",Canal 26
 http://200.115.193.177/live/26hd-180/playlist.m3u8?GrupoTopIptv
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/CNN_Espa%C3%B1ol_Logo_Viejo.png" group-title="36- NOTICIAS LATINO",Cnn
-http://187.178.30.73:9981/stream/channelid/1561877971
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/CNN_Espa%C3%B1ol_Logo_Viejo.png" group-title="36- NOTICIAS LATINO",CÑN
+http://ummodigital.com:2082/live/sarah2017/sarah2017/712.rtmp
 
-#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLmFwcC5saXRlZ251bGF0dl9pY29uXzE1NTQ2MzgxNTJfMDUx/icon.png?w=170&fakeurl=1" group-title="36- NOTICIAS LATINO",CÑN (GNULA)
-http://s3linkgapp.net:25461/Lista-Gratuita/Descarga-Desde-Play-Store-GnulaTV-Lite-210703/63
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/CNN_Espa%C3%B1ol_Logo_Viejo.png" group-title="36- NOTICIAS LATINO",CÑN
+http://ummodigital.com:2082/live/raul12/raul12/712.rtmp
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/CNN_Espa%C3%B1ol_Logo_Viejo.png" group-title="36- NOTICIAS LATINO",CÑN
+http://ummodigital.com:2082/live/pablo1234/pablo1234/712.rtmp
 
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/logos/DW-Latam.png" group-title="36- NOTICIAS LATINO",DW
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_5_av-p.m3u8?sd=10&rebase=on?GrupoTopIptv
