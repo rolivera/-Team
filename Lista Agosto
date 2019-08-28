@@ -257,13 +257,19 @@ https://stream.vagalume.fm/hls/14647977281792658143/aac.m3u8
 #######################################
 
 #EXTINF:-1 tvg-logo="https://img2.freepng.es/20180525/ry/kisspng-canal-13-logo-chile-television-front-and-back-covers-5b07ff0f65b977.0616481915272507034167.jpg" group-title="06- CHILE",Canal 13
-http://app.magistv.net:2052/uCPQOI/cYRWxa9G3a/668
+http://ummodigital.com:2082/live/raul12/raul12/3093.rtmp
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Canal_21_Chill%C3%A1n.png" group-title="06- CHILE",Canal 21
+#EXTINF:-1 tvg-logo="https://img2.freepng.es/20180525/ry/kisspng-canal-13-logo-chile-television-front-and-back-covers-5b07ff0f65b977.0616481915272507034167.jpg" group-title="06- CHILE",Canal 13
+http://ummodigital.com:2082/live/pablo1234/pablo1234/3093.rtmp
+
+#EXTINF:-1 tvg-logo="http://www.canal21tv.cl/wp/wp-content/uploads/2017/06/LogoFront-1.png" group-title="06- CHILE",Canal 21
 http://edge1.cl.grupoz.cl/canal21tv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tvn.cl/incoming/24horas_cljpg-2555473/ALTERNATES/w1024h768/24HORAS_CL.jpg" group-title="06- CHILE",Canal 24 Horas
-http://app.magistv.net:2052/uCPQOI/cYRWxa9G3a/670
+http://ummodigital.com:2082/live/raul12/raul12/6677.rtmp
+
+#EXTINF:-1 tvg-logo="https://www.tvn.cl/incoming/24horas_cljpg-2555473/ALTERNATES/w1024h768/24HORAS_CL.jpg" group-title="06- CHILE",Canal 24 Horas
+http://ummodigital.com:2082/live/pablo1234/pablo1234/6677.rtmp
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/VhOolgs.png" group-title="06- CHILE",El Pingüino
 http://streaming.elpinguino.com:1935/live/pinguinotv_720p/hasbahca.m3u8?GrupoTopIptv
@@ -271,8 +277,11 @@ http://streaming.elpinguino.com:1935/live/pinguinotv_720p/hasbahca.m3u8?GrupoTop
 #EXTINF:0 tvg-logo="https://i.imgur.com/vrXZmdv.jpg" group-title="06- CHILE",Holvoet TV
 http://unlimited5-cl.dps.live/holvoettv/holvoettv.smil/playlist.m3u8?GrupoTopIptv
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/MegaPlus.png" group-title="06- CHILE",Mega +
-http://mdstrm.com/live-stream-playlist/56f97fc0b9bb39786b04a3b0.m3u8
+#EXTINF:-1 tvg-logo="https://blogvecindad.com/wp-content/uploads/2015/11/Mega_Chile_Alternate_Logo.png" group-title="06- CHILE",Mega
+http://ummodigital.com:2082/live/raul12/raul12/3095.rtmp
+
+#EXTINF:-1 tvg-logo="https://blogvecindad.com/wp-content/uploads/2015/11/Mega_Chile_Alternate_Logo.png" group-title="06- CHILE",Mega
+http://ummodigital.com:2082/live/pablo1234/pablo1234/3095.rtmp
 
 #EXTINF:-1 tvg-logo="https://img8.androidappsapk.co/300/8/b/3/com.trece.t13.png" group-title="06- CHILE",T13
 http://c13-ply.janus.cl/playlist/stream.m3u8?s=c13hd
