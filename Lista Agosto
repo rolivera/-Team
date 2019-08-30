@@ -115,9 +115,6 @@ http://wse01.logicahost.com.br:1935/televisaorn/_definst_/televisaorn/playlist.m
 #EXTINF:-1 tvg-logo="http://abmp.com.br/wp-content/uploads/2016/10/GLOBO-NORDESTE.png" group-title="04- BRASIL",Globo Internacional
 http://ummodigital.com:2082/sara2017/sara2017/791
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/ca/Tv_globo_internacional_2011.png/revision/latest?cb=20140406193435" group-title="04- BRASIL",Globo SP SD
-https://5cc00ac6defaf.streamlock.net:1443/naspek/_definst_/naspek.smil/chunklist_w133688264_b200000.m3u8
-
 #EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="04- BRASIL",Globo SP (1)
 http://tv.factoryiptv.com:80/live/claudio/claudio/37090.rtmp
 
@@ -129,9 +126,6 @@ http://clienteworld.com:8080/live/ione/ione/8082.rtmp
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="04- BRASIL",Globo SP (alt)
 http://xse.jfglno.com:23618/live/cyx-7EDBC22445F18a3dC01DE245AC15.ts
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/ca/Tv_globo_internacional_2011.png/revision/latest?cb=20140406193435" group-title="04- BRASIL",Globo RJ SD
-https://5cc00ac6defaf.streamlock.net:1443/naspek/_definst_/naspek.smil/chunklist_w1695793820_b850000.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="04- BRASIL",Globo RJ (1)
 http://tv.factoryiptv.com:80/live/claudio/claudio/37091.rtmp
@@ -232,9 +226,6 @@ https://stream.vagalume.fm/hls/1465840912218182609/aac.m3u8
 #EXTINF:-1  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ad/Bolivia_TV_2016.png/revision/latest?cb=20160622170105" group-title="05- BOLIVIA",Bolivia TV
 http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="http://tvmi.com.bo/wp-content/uploads/sites/2/2018/10/logocadenaa.png" group-title="05- BOLIVIA",Cadena A
-http://136.243.3.70:1935/CadenaA/CadenaA/playlist.m3u8
-
 #EXTINF:-1  tvg-logo="http://www.catolicatelevision.com/wp-content/uploads/sites/9/2013/10/logo_ctv2.png" group-title="05- BOLIVIA",Católica TV
 http://136.243.3.70:1935/CatolicaTv/CatolicaTv/playlist.m3u8
 
@@ -257,10 +248,7 @@ https://stream.vagalume.fm/hls/14647977281792658143/aac.m3u8
 #######################################
 
 #EXTINF:-1 tvg-logo="https://img2.freepng.es/20180525/ry/kisspng-canal-13-logo-chile-television-front-and-back-covers-5b07ff0f65b977.0616481915272507034167.jpg" group-title="06- CHILE",Canal 13
-http://ummodigital.com:2082/live/raul12/raul12/3093.rtmp
 
-#EXTINF:-1 tvg-logo="https://img2.freepng.es/20180525/ry/kisspng-canal-13-logo-chile-television-front-and-back-covers-5b07ff0f65b977.0616481915272507034167.jpg" group-title="06- CHILE",Canal 13
-http://ummodigital.com:2082/live/panda/panda/3093.rtmp
 
 #EXTINF:-1 tvg-logo="http://www.canal21tv.cl/wp/wp-content/uploads/2017/06/LogoFront-1.png" group-title="06- CHILE",Canal 21
 http://edge1.cl.grupoz.cl/canal21tv/live/playlist.m3u8
@@ -303,9 +291,6 @@ http://cl.origin.grupoz.cl:1935/uestv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2016/06/16/01/23/colombia-1460312_960_720.jpg" group-title="07- COLOMBIA",07- COLOMBIA
 https://stream.vagalume.fm/hls/147015501223418/aac.m3u8
 #######################################
-
-#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/364-3646927_canal-uno-colombia-hd-2017-channel-1.png" group-title="07- COLOMBIA",Canal Uno
-http://app.magistv.net:2052/uCPQOI/cYRWxa9G3a/669
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/386408609/cnc2_400x400.png" group-title="07- COLOMBIA",CNC 
 http://66.240.236.25:1936/canalcnc/canalcnc/chunklist.m3u8
@@ -412,20 +397,11 @@ http://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/index_1800_av-p.m3u8
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/09/Rai-Movie-1.png" group-title="12- ITALIA",Rai Movie
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/01/videolina.png" group-title="12- ITALIA",Videolina
-http://livestreaming.videolina.it/live/Videolina/playlist.m3u8
-
 ######################################################################################################################################
 ####################################### MEXICO
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2017/12/06/10/57/mexican-flag-3001452_960_720.png" group-title="13- MEXICO",13- MEXICO
 https://stream.vagalume.fm/hls/147015499779090/aac.m3u8
 #######################################
-
-#EXTINF:-1 tvg-logo="https://telcammuzquiz.com/wp-content/uploads/2018/03/Azteca-Uno.jpg" group-title="13- MEXICO",Azteca 1
-http://app.magistv.net:2052/uCPQOI/cYRWxa9G3a/655
-
-#EXTINF:-1 tvg-logo="https://roku-zapopan8.webnode.mx/_files/200000035-3711338065/mx_azteca-7_m.png" group-title="13- MEXICO",Azteca 7
-http://app.magistv.net:2052/uCPQOI/cYRWxa9G3a/656
 
 #EXTINF:-1 tvg-logo="https://roku-zapopan8.webnode.mx/_files/200000035-3711338065/mx_azteca-7_m.png" group-title="13- MEXICO",Azteca 7
 http://s3linkgapp.net:25461/live/Lista-Gratuita/Descarga-Desde-Play-Store-GnulaTV-Lite-114519/55.rtmp
@@ -535,9 +511,6 @@ http://138.117.4.70:8079/streams/d/Canal-11/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/03/canal-12-nicaragua.png" group-title="14- NICARAGUA",Canal 12
 http://138.117.4.70:8079/streams/d/Canal-12/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Logo_Viva_Nicaragua_Canal_13.png" group-title="14- NICARAGUA",Canal 13
-http://138.117.4.70:8079/streams/d/Canal-13/playlist.m3u8
-
 ######################################################################################################################################
 ####################################### PANAMA
 #EXTINF:-1 tvg-logo="http://telocuentonews.com/site/wp-content/uploads/2017/11/Bandera-de-Panam%C3%A1.jpg" group-title="15- PANAMA",15- PANAMA
@@ -560,16 +533,10 @@ https://stream.vagalume.fm/hls/1507663468882713/aac.m3u8
 #######################################
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_america-television_m.png" group-title="17- PERU",America tv
-http://app.magistv.net:2052/uCPQOI/cYRWxa9G3a/649
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_america-television_m.png" group-title="17- PERU",America tv
 http://xse.jfglno.com:23618/live/cyx-98B9F781486Da1b7D7B501B2F69C.ts
 
 #EXTINF:-1 tvg-logo="https://www.jssor.com/andre89/tv-antares.png" group-title="17- PERU",Antares
 http://173.192.105.252:1935/iptvantares/liveantarestv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/01/atv.png" group-title="17- PERU",ATV
-http://app.magistv.net:2052/uCPQOI/cYRWxa9G3a/653
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oWya6SB.png" group-title="17- PERU",Central TV
 http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
@@ -636,9 +603,6 @@ http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/chunks.m3u8
 https://stream.vagalume.fm/hls/1470169276225492/aac.m3u8
 #######################################
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1107997180311281665/c72fyy_F_400x400.png" group-title="20- URUGUAY",Montecarlo
-http://app.magistv.net:2052/uCPQOI/cYRWxa9G3a/671
-
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1107997180311281665/c72fyy_F_400x400.png" group-title="20- URUGUAY",Montecarlo (1)
 http://ummodigital.com:2082/live/sarah2017/sarah2017/5144.rtmp
 
@@ -656,9 +620,6 @@ http://ummodigital.com:2082/live/panda/panda/5144.rtmp
 
 #EXTINF:-1 tvg-logo="http://www.canalm.tv/plantillas/temas/canalm/imagenes/canalm.png" group-title="20- URUGUAY",Montevideo Portal
 http://wowza.montevideo.com.uy:1936/live/_definst_/mvdstrem/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.tvalacarta.info/canales/256x256/canal10.png" group-title="20- URUGUAY",Saeta Canal 10
-http://app.magistv.net:2052/uCPQOI/cYRWxa9G3a/666
 
 #EXTINF:-1 tvg-logo="https://media.tvalacarta.info/canales/256x256/canal10.png" group-title="20- URUGUAY",Saeta Canal 10 (1)
 http://ummodigital.com:2082/live/sarah2017/sarah2017/5229.rtmp
@@ -718,9 +679,6 @@ http://fmhot.04.cl.cdnz.cl/fmhot/smil:cdn.smil/chunklist_b1800000_slesp.m3u8
 
 #EXTINF:-1 tvg-logo="https://okdiario.com/img/2018/04/28/distrito-655x368.jpg" group-title="22- CINE LATINO",Distrito TV
 https://cdn01.yowi.tv/KQRSDA7GDB/live-1000.m3u8
-
-#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/zp_tv-profile_image-a4154beda1f05b70-300x300.jpeg" group-title="22- CINE LATINO",Zona Play
-https://video.mediostream.cl/zptv/live1/tracks-v1a1/rewind-999999.m3u8
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/wow-tv.png" group-title="22- CINE LATINO",Wow!
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
@@ -830,12 +788,6 @@ http://212.104.160.156:1935/live/lebrijatv2/playlist3.m3u8
 #EXTINF:-1 tvg-logo="https://logonoid.com/images/mezzo-tv-logo.png" group-title="27- PREMIUM ESPAÑA",Mezzo
 http://ott-cdn.ucom.am/s35/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLmFwcC5saXRlZ251bGF0dl9pY29uXzE1NTQ2MzgxNTJfMDUx/icon.png?w=170&fakeurl=1" group-title="27- PREMIUM ESPAÑA",Movistar Accion (GNULA)
-http://s3linkgapp.net:25461/Lista-Gratuita/Descarga-Desde-Play-Store-GnulaTV-Lite-210703/29
-
-#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLmFwcC5saXRlZ251bGF0dl9pY29uXzE1NTQ2MzgxNTJfMDUx/icon.png?w=170&fakeurl=1" group-title="27- PREMIUM ESPAÑA",Movistar Deportes (GNULA)
-http://s3linkgapp.net:25461/Lista-Gratuita/Descarga-Desde-Play-Store-GnulaTV-Lite-210703/30
-
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/02/Navarra-TV.png" group-title="27- PREMIUM ESPAÑA",Navarra TV
 http://nws.nice264.com/SmilLive/getLiveIOS.smil?stream=NTV_livenatvmb&system=NTV&protocol=http_cupertino/playlist.m3u8
 
@@ -925,25 +877,10 @@ http://ummodigital.com:2082/live/raul12/raul12/5055.rtmp
 http://ummodigital.com:2082/live/panda/panda/5055.rtmp
 
 #EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/12/52a34-cl.png" group-title="28- PREMIUM LATINO",Cine Latino (1)
-http://ummodigital.com:2082/live/sarah2017/sarah2017/5056.rtmp
 
-#EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/12/52a34-cl.png" group-title="28- PREMIUM LATINO",Cine Latino (2)
-http://ummodigital.com:2082/live/alfonso99/alfonso99/5056.rtmp
-
-#EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/12/52a34-cl.png" group-title="28- PREMIUM LATINO",Cine Latino (3)
-http://ummodigital.com:2082/live/julio2019/julio2019/5056.rtmp
-
-#EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/12/52a34-cl.png" group-title="28- PREMIUM LATINO",Cine Latino (4)
-http://ummodigital.com:2082/live/raul12/raul12/5056.rtmp
-
-#EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/12/52a34-cl.png" group-title="28- PREMIUM LATINO",Cine Latino (5)
-http://ummodigital.com:2082/live/panda/panda/5056.rtmp
 
 #EXTINF:-1 tvg-logo="http://www.cinemadinamita.com/img/logos/Inicio.png" group-title="28- PREMIUM LATINO",Cine Dinamita (4)
 
-
-#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLmFwcC5saXRlZ251bGF0dl9pY29uXzE1NTQ2MzgxNTJfMDUx/icon.png?w=170&fakeurl=1" group-title="28- PREMIUM LATINO",Cinemax (GNULA)
-http://s3linkgapp.net:25461/Lista-Gratuita/Descarga-Desde-Play-Store-GnulaTV-Lite-210703/59
 
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cine/16.png" group-title="28- PREMIUM LATINO",Cinemax (1)
 http://ummodigital.com:2082/live/sarah2017/sarah2017/2184.rtmp
@@ -1004,9 +941,6 @@ http://ummodigital.com:2082/live/raul12/raul12/1373.rtmp
 
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/de_pelicula_hd-mediano.png" group-title="28- PREMIUM LATINO",De Película (5)
 http://ummodigital.com:2082/live/panda/panda/1373.rtmp
-
-#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLmFwcC5saXRlZ251bGF0dl9pY29uXzE1NTQ2MzgxNTJfMDUx/icon.png?w=170&fakeurl=1" group-title="28- PREMIUM LATINO",De Pelicula Plus (GNULA)
-http://s3linkgapp.net:25461/Lista-Gratuita/Descarga-Desde-Play-Store-GnulaTV-Lite-210703/34
 
 #EXTINF:-1 tvg-logo="http://www.multicanalcatamayo.com/cablevisiondondiego/images/74.png" group-title="28- PREMIUM LATINO",Distrito Comedia (1)
 http://ummodigital.com:2082/live/sarah2017/sarah2017/347.rtmp
@@ -1070,9 +1004,6 @@ http://ummodigital.com:2082/live/raul12/raul12/1392.rtmp
 
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_ACTION.png" group-title="28- PREMIUM LATINO",Fox Action (5)
 http://ummodigital.com:2082/live/panda/panda/1392.rtmp
-
-#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLmFwcC5saXRlZ251bGF0dl9pY29uXzE1NTQ2MzgxNTJfMDUx/icon.png?w=170&fakeurl=1" group-title="28- PREMIUM LATINO",Fox Classics (GNULA)
-http://s3linkgapp.net:25461/Lista-Gratuita/Descarga-Desde-Play-Store-GnulaTV-Lite-210703/17
 
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_CLASSIC.png" group-title="28- PREMIUM LATINO",Fox Classics (1)
 http://ummodigital.com:2082/live/sarah2017/sarah2017/361.rtmp
@@ -1185,9 +1116,6 @@ http://ummodigital.com:2082/live/raul12/raul12/1391.rtmp
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_SERIES.png" group-title="28- PREMIUM LATINO",Fox Series (5)
 http://ummodigital.com:2082/live/panda/panda/1391.rtmp
 
-#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLmFwcC5saXRlZ251bGF0dl9pY29uXzE1NTQ2MzgxNTJfMDUx/icon.png?w=170&fakeurl=1" group-title="28- PREMIUM LATINO",Fx (GNULA)
-http://s3linkgapp.net:25461/Lista-Gratuita/Descarga-Desde-Play-Store-GnulaTV-Lite-210703/43
-
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-JBwoh8YDdKY/TyztsSnAnTI/AAAAAAAAAMc/UHfWADlmytY/s1600/fx_hd.png" group-title="28- PREMIUM LATINO",Fx (1)
 http://ummodigital.com:2082/live/sarah2017/sarah2017/1395.rtmp
 
@@ -1223,9 +1151,6 @@ http://ummodigital.com:2082/live/panda/panda/1388.rtmp
 
 #EXTINF:-1 tvg-logo="http://mediapunta.net/images/goldenedge1%20-%20copia.png" group-title="28- PREMIUM LATINO",Golden Edge (4)
 
-
-#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLmFwcC5saXRlZ251bGF0dl9pY29uXzE1NTQ2MzgxNTJfMDUx/icon.png?w=170&fakeurl=1" group-title="28- PREMIUM LATINO",Golden Plus (GNULA)
-http://s3linkgapp.net:25461/Lista-Gratuita/Descarga-Desde-Play-Store-GnulaTV-Lite-210703/6
 
 #EXTINF:-1 tvg-logo="https://www.totalplay.com.mx/images/logos/canales/cine/g-plus.png" group-title="28- PREMIUM LATINO",Golden Plus (1)
 http://ummodigital.com:2082/live/sarah2017/sarah2017/1398.rtmp
@@ -1287,9 +1212,6 @@ http://ummodigital.com:2082/live/raul12/raul12/5201.rtmp
 #EXTINF:-1 tvg-logo="http://aux4.iconspalace.com/uploads/797638582344877408.png" group-title="28- PREMIUM LATINO",Hbo 2 (5)
 http://ummodigital.com:2082/live/panda/panda/5201.rtmp
 
-#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLmFwcC5saXRlZ251bGF0dl9pY29uXzE1NTQ2MzgxNTJfMDUx/icon.png?w=170&fakeurl=1" group-title="28- PREMIUM LATINO",HBO Family (GNULA)
-http://s3linkgapp.net:25461/Lista-Gratuita/Descarga-Desde-Play-Store-GnulaTV-Lite-210703/72
-
 #EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/hbo-family-logo-320x320-745790760.png" group-title="28- PREMIUM LATINO",Hbo Family (1)
 http://ummodigital.com:2082/live/sarah2017/sarah2017/5180.rtmp
 
@@ -1319,9 +1241,6 @@ http://ummodigital.com:2082/live/raul12/raul12/4916.rtmp
 
 #EXTINF:-1 tvg-logo="http://contenidos.cablevision.com.mx/guia_programacion/channels/634.png" group-title="28- PREMIUM LATINO",Hbo Plus (5)
 http://ummodigital.com:2082/live/panda/panda/4916.rtmp
-
-#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLmFwcC5saXRlZ251bGF0dl9pY29uXzE1NTQ2MzgxNTJfMDUx/icon.png?w=170&fakeurl=1" group-title="28- PREMIUM LATINO",HBO Signature (GNULA)
-http://s3linkgapp.net:25461/Lista-Gratuita/Descarga-Desde-Play-Store-GnulaTV-Lite-210703/44
 
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/mx/HBOSignature.mx.png" group-title="28- PREMIUM LATINO",Hbo Signature (1)
 http://ummodigital.com:2082/live/sarah2017/sarah2017/4917.rtmp
@@ -1443,9 +1362,6 @@ http://ummodigital.com:2082/live/raul12/raul12/3294.rtmp
 #EXTINF:-1 tvg-logo="https://www.rapidtvnews.com/images/2017/07/cinesony_4july2017.png" group-title="28- PREMIUM LATINO",Sony Cine (5)
 http://ummodigital.com:2082/live/panda/panda/3294.rtmp
 
-#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLmFwcC5saXRlZ251bGF0dl9pY29uXzE1NTQ2MzgxNTJfMDUx/icon.png?w=170&fakeurl=1" group-title="28- PREMIUM LATINO",Space (GNULA)
-http://s3linkgapp.net:25461/Lista-Gratuita/Descarga-Desde-Play-Store-GnulaTV-Lite-210703/11
-
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8.png" group-title="28- PREMIUM LATINO",Space (1)
 http://ummodigital.com:2082/live/sarah2017/sarah2017/647.rtmp
 
@@ -1490,9 +1406,6 @@ http://ummodigital.com:2082/live/raul12/raul12/401.rtmp
 
 #EXTINF:-1 tvg-logo="https://www.programacion.tv/images/syfy.png" group-title="28- PREMIUM LATINO",Syfy (5)
 http://ummodigital.com:2082/live/panda/panda/401.rtmp
-
-#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLmFwcC5saXRlZ251bGF0dl9pY29uXzE1NTQ2MzgxNTJfMDUx/icon.png?w=170&fakeurl=1" group-title="28- PREMIUM LATINO",Tbs (GNULA)
-http://s3linkgapp.net:25461/Lista-Gratuita/Descarga-Desde-Play-Store-GnulaTV-Lite-210703/60
 
 #EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/011/original/pic_tbs.png?1522176341" group-title="28- PREMIUM LATINO",Tbs (1)
 http://ummodigital.com:2082/live/sarah2017/sarah2017/4671.rtmp
@@ -2025,9 +1938,6 @@ http://ummodigital.com:2082/live/raul12/raul12/4647.rtmp
 #EXTINF:-1 tvg-logo="https://www.directv.com/images/logos/channels/dark/large/466.png" group-title="30- VARIEDADES LATINO",Hola TV (5)
 http://ummodigital.com:2082/live/panda/panda/4647.rtmp
 
-#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLmFwcC5saXRlZ251bGF0dl9pY29uXzE1NTQ2MzgxNTJfMDUx/icon.png?w=170&fakeurl=1" group-title="30- VARIEDADES LATINO",Lifetime (GNULA)
-http://s3linkgapp.net:25461/Lista-Gratuita/Descarga-Desde-Play-Store-GnulaTV-Lite-210703/56
-
 #EXTINF:-1 tvg-logo="https://assets.corusent.com/wp-content/uploads/2017/06/logo_tv_lifetime_june2017-500x250.png" group-title="30- VARIEDADES LATINO",Lifetime (1)
 http://ummodigital.com:2082/live/sarah2017/sarah2017/4661.rtmp
 
@@ -2342,21 +2252,6 @@ http://ummodigital.com:2082/live/panda/panda/3300.rtmp
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/boing-logo-png.png" group-title="32- INFANTIL LATINO",Boing (VLC)
 http://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
 
-#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/boing-logo-png.png" group-title="32- INFANTIL LATINO",Boing (1)
-http://ummodigital.com:2082/live/sarah2017/sarah2017/7636.rtmp
-
-#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/boing-logo-png.png" group-title="32- INFANTIL LATINO",Boing (2)
-http://ummodigital.com:2082/live/alfonso99/alfonso99/7636.rtmp
-
-#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/boing-logo-png.png" group-title="32- INFANTIL LATINO",Boing (3)
-http://ummodigital.com:2082/live/julio2019/julio2019/7636.rtmp
-
-#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/boing-logo-png.png" group-title="32- INFANTIL LATINO",Boing (4)
-http://ummodigital.com:2082/live/raul12/raul12/7636.rtmp
-
-#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/boing-logo-png.png" group-title="32- INFANTIL LATINO",Boing (5)
-http://ummodigital.com:2082/live/panda/panda/7636.rtmp
-
 #EXTINF:-1 tvg-logo="https://sitejerk.com/images/boomerang-logo-png-15.png" group-title="32- INFANTIL LATINO",Boomerang (1)
 http://ummodigital.com:2082/live/sarah2017/sarah2017/4883.rtmp
 
@@ -2395,9 +2290,6 @@ http://ummodigital.com:2082/live/panda/panda/4651.rtmp
 
 #EXTINF:-1 tvg-logo="https://www.canalipe.tv/sites/default/files/web/programas/logoipeplay/logo_chicosipe.png" group-title="32- INFANTIL LATINO",Chicos Ipe
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLmFwcC5saXRlZ251bGF0dl9pY29uXzE1NTQ2MzgxNTJfMDUx/icon.png?w=170&fakeurl=1" group-title="32- INFANTIL LATINO",Discovery Kids (GNULA)
-http://s3linkgapp.net:25461/Lista-Gratuita/Descarga-Desde-Play-Store-GnulaTV-Lite-210703/74
 
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_kids-mediano.png" group-title="32- INFANTIL LATINO",Discovery Kids (1)
 http://ummodigital.com:2082/live/sarah2017/sarah2017/4897.rtmp
@@ -2467,9 +2359,6 @@ http://locomotiontv.com/envivo/loco_channel/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.natgeokidsla.com/img/logo-3d.7a64e4ed.png" group-title="32- INFANTIL LATINO",Nat Geo Kids (4)
 
-
-#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLmFwcC5saXRlZ251bGF0dl9pY29uXzE1NTQ2MzgxNTJfMDUx/icon.png?w=170&fakeurl=1" group-title="32- INFANTIL LATINO",Nickelodeon (GNULA)
-http://s3linkgapp.net:25461/Lista-Gratuita/Descarga-Desde-Play-Store-GnulaTV-Lite-210703/35
 
 #EXTINF:-1 tvg-logo="https://www.e-channel.ec/blog/wp-content/uploads/2015/09/NICK.png" group-title="32- INFANTIL LATINO",Nickelodeon (1)
 http://ummodigital.com:2082/live/sarah2017/sarah2017/1401.rtmp
@@ -2783,9 +2672,6 @@ http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
 #######################################
 ######################################################################################################################################
 
-#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLmFwcC5saXRlZ251bGF0dl9pY29uXzE1NTQ2MzgxNTJfMDUx/icon.png?w=170&fakeurl=1" group-title="38- DOCUMENTALES LATINOS",A&E (GNULA)
-http://s3linkgapp.net:25461/Lista-Gratuita/Descarga-Desde-Play-Store-GnulaTV-Lite-210703/24
-
 #EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/020/original/pic_a_e.png?1522180692" group-title="38- DOCUMENTALES LATINOS",A&E (1)
 http://ummodigital.com:2082/live/sarah2017/sarah2017/1355.rtmp
 
@@ -2882,9 +2768,6 @@ http://ummodigital.com:2082/live/raul12/raul12/8032.rtmp
 #EXTINF:-1 tvg-logo="https://cdn.reweb.io/hagah/image/DogXNIjfvnZQ-U6-iKRLtRF8-Vo=/300x300/top/smart/hagah/f/f8/home-and-health-f804aa9c.png" group-title="38- DOCUMENTALES LATINOS",Discovery H&H (5)
 http://ummodigital.com:2082/live/panda/panda/8032.rtmp
 
-#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLmFwcC5saXRlZ251bGF0dl9pY29uXzE1NTQ2MzgxNTJfMDUx/icon.png?w=170&fakeurl=1" group-title="38- DOCUMENTALES LATINOS",Discovery Science (GNULA)
-http://s3linkgapp.net:25461/Lista-Gratuita/Descarga-Desde-Play-Store-GnulaTV-Lite-210703/57
-
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logos2/images/f/f2/Discovery_Science_logo.png/revision/latest?cb=20180514182753" group-title="38- DOCUMENTALES LATINOS",Discovery Science (1)
 http://ummodigital.com:2082/live/sarah2017/sarah2017/4901.rtmp
 
@@ -2914,9 +2797,6 @@ http://ummodigital.com:2082/live/raul12/raul12/1382.rtmp
 
 #EXTINF:-1 tvg-logo="https://www.cotes.net.bo/appCotes/public/appWeb_/assets/images/canales/17.2.png" group-title="38- DOCUMENTALES LATINOS",Discovery Theater (5)
 http://ummodigital.com:2082/live/panda/panda/1382.rtmp
-
-#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLmFwcC5saXRlZ251bGF0dl9pY29uXzE1NTQ2MzgxNTJfMDUx/icon.png?w=170&fakeurl=1" group-title="38- DOCUMENTALES LATINOS",Discovery Turbo (GNULA)
-http://s3linkgapp.net:25461/Lista-Gratuita/Descarga-Desde-Play-Store-GnulaTV-Lite-210703/64
 
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/discovery-turbo-logo-01.png" group-title="38- DOCUMENTALES LATINOS",Discovery Turbo (1)
 http://ummodigital.com:2082/live/sarah2017/sarah2017/342.rtmp
@@ -2948,9 +2828,6 @@ http://ummodigital.com:2082/live/raul12/raul12/1383.rtmp
 #EXTINF:-1 tvg-logo="https://www.skytvporassinatura.com.br/wp-content/uploads/2018/01/canal-discovery-world-hd-sky-1.png" group-title="38- DOCUMENTALES LATINOS",Discovery World (5)
 http://ummodigital.com:2082/live/panda/panda/1383.rtmp
 
-#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLmFwcC5saXRlZ251bGF0dl9pY29uXzE1NTQ2MzgxNTJfMDUx/icon.png?w=170&fakeurl=1" group-title="38- DOCUMENTALES LATINOS",History Channel (GNULA)
-http://s3linkgapp.net:25461/Lista-Gratuita/Descarga-Desde-Play-Store-GnulaTV-Lite-210703/9
-
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/35/13/17/35131727c2635cec3274d9bd93868db2.png" group-title="38- DOCUMENTALES LATINOS",History Channel (1)
 http://ummodigital.com:2082/live/sarah2017/sarah2017/1400.rtmp
 
@@ -2966,9 +2843,6 @@ http://ummodigital.com:2082/live/raul12/raul12/1400.rtmp
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/35/13/17/35131727c2635cec3274d9bd93868db2.png" group-title="38- DOCUMENTALES LATINOS",History Channel (5)
 http://ummodigital.com:2082/live/panda/panda/1400.rtmp
 
-#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLmFwcC5saXRlZ251bGF0dl9pY29uXzE1NTQ2MzgxNTJfMDUx/icon.png?w=170&fakeurl=1" group-title="38- DOCUMENTALES LATINOS",H2 (GNULA)
-http://s3linkgapp.net:25461/Lista-Gratuita/Descarga-Desde-Play-Store-GnulaTV-Lite-210703/77
-
 #EXTINF:-1 tvg-logo="https://i0.wp.com/cineframe.mx/wp-content/uploads/2017/08/H2.png" group-title="38- DOCUMENTALES LATINOS",H2 (1)
 http://ummodigital.com:2082/live/sarah2017/sarah2017/5198.rtmp
 
@@ -2983,9 +2857,6 @@ http://ummodigital.com:2082/live/raul12/raul12/5198.rtmp
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/cineframe.mx/wp-content/uploads/2017/08/H2.png" group-title="38- DOCUMENTALES LATINOS",H2 (5)
 http://ummodigital.com:2082/live/panda/panda/5198.rtmp
-
-#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLmFwcC5saXRlZ251bGF0dl9pY29uXzE1NTQ2MzgxNTJfMDUx/icon.png?w=170&fakeurl=1" group-title="38- DOCUMENTALES LATINOS",Nat Geo (GNULA)
-http://s3linkgapp.net:25461/Lista-Gratuita/Descarga-Desde-Play-Store-GnulaTV-Lite-210703/10
 
 #EXTINF:-1 tvg-logo="https://diylogodesigns.com/wp-content/uploads/2017/07/national-geographic-logo-vector-768x768.png" group-title="38- DOCUMENTALES LATINOS",Nat Geo (1)
 http://ummodigital.com:2082/live/sarah2017/sarah2017/4653.rtmp
@@ -3031,9 +2902,6 @@ http://ummodigital.com:2082/live/raul12/raul12/4633.rtmp
 
 #EXTINF:-1 tvg-logo="http://www.lettreaudiovisuel.com/wp-content/uploads/2014/12/Nat-Geo-Wild.png" group-title="38- DOCUMENTALES LATINOS",Nat Geo Wild (5)
 http://ummodigital.com:2082/live/panda/panda/4633.rtmp
-
-#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLmFwcC5saXRlZ251bGF0dl9pY29uXzE1NTQ2MzgxNTJfMDUx/icon.png?w=170&fakeurl=1" group-title="38- DOCUMENTALES LATINOS",Tlc (GNULA)
-http://s3linkgapp.net:25461/Lista-Gratuita/Descarga-Desde-Play-Store-GnulaTV-Lite-210703/14
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/TLC_Logo_Germany.svg/1280px-TLC_Logo_Germany.svg.png" group-title="38- DOCUMENTALES LATINOS",Tlc (1)
 http://ummodigital.com:2082/live/sarah2017/sarah2017/407.rtmp
@@ -3209,9 +3077,6 @@ http://ic.imusicaradios.com.br:8000/brasil.stream.http?url=tunein
 #######################################
 ######################################################################################################################################
 
-#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLmFwcC5saXRlZ251bGF0dl9pY29uXzE1NTQ2MzgxNTJfMDUx/icon.png?w=170&fakeurl=1" group-title="41- DEPORTES LATINO",AyM Sports (GNULA)
-http://s3linkgapp.net:25461/Lista-Gratuita/Descarga-Desde-Play-Store-GnulaTV-Lite-210703/73
-
 #EXTINF:-1  tvg-logo="http://www.megacable.com.mx/images/canales/74_aym-sports.png" group-title="41- DEPORTES LATINO",Aym Sports (4)
 
 
@@ -3232,9 +3097,6 @@ http://ummodigital.com:2082/live/raul12/raul12/3480.rtmp
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/Logo_CDF-TURNER_2019.png" group-title="41- DEPORTES LATINO",Cdf (5)
 http://ummodigital.com:2082/live/panda/panda/3480.rtmp
-
-#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLmFwcC5saXRlZ251bGF0dl9pY29uXzE1NTQ2MzgxNTJfMDUx/icon.png?w=170&fakeurl=1" group-title="41- DEPORTES LATINO",Cdf Premium (GNULA)
-http://s3linkgapp.net:25461/Lista-Gratuita/Descarga-Desde-Play-Store-GnulaTV-Lite-210703/46
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/06/cdo.png" group-title="41- DEPORTES LATINO",Cdo
 http://edge1.cl.grupoz.cl/cdofree/live/chunklist_w822432298.m3u8?GrupoTopIptv
@@ -3271,9 +3133,6 @@ http://ummodigital.com:2082/live/raul12/raul12/8454.rtmp
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg/1600px-DirecTV_Sports_Latin_America_-_2018_logo_v2.svg.png" group-title="41- DEPORTES LATINO",Directv Sports (5)
 http://ummodigital.com:2082/live/panda/panda/8454.rtmp
-
-#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLmFwcC5saXRlZ251bGF0dl9pY29uXzE1NTQ2MzgxNTJfMDUx/icon.png?w=170&fakeurl=1" group-title="41- DEPORTES LATINO",Espn (GNULA)
-http://s3linkgapp.net:25461/Lista-Gratuita/Descarga-Desde-Play-Store-GnulaTV-Lite-210703/38
 
 #EXTINF:-1 tvg-logo="https://4e0ow51f67h221f1ggcbe9m4-wpengine.netdna-ssl.com/wp-content/uploads/2016/08/ESPN-logo.png" group-title="41- DEPORTES LATINO",Espn (1)
 http://ummodigital.com:2082/live/sarah2017/sarah2017/7438.rtmp
@@ -3337,9 +3196,6 @@ http://ummodigital.com:2082/live/panda/panda/7440.rtmp
 
 #EXTINF:-1 tvg-logo="https://comcastspotlight.com/sites/default/files/networks/FOX_Deportes.png" group-title="41- DEPORTES LATINO",Fox Deportes (4)
 
-
-#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLmFwcC5saXRlZ251bGF0dl9pY29uXzE1NTQ2MzgxNTJfMDUx/icon.png?w=170&fakeurl=1" group-title="41- DEPORTES LATINO",Fox Sports (GNULA)
-http://s3linkgapp.net:25461/Lista-Gratuita/Descarga-Desde-Play-Store-GnulaTV-Lite-210703/21
 
 #EXTINF:-1 tvg-logo="https://i.ya-webdesign.com/images/fox-sports-1-png-5.png" group-title="41- DEPORTES LATINO",Fox Sports (1)
 http://ummodigital.com:2082/live/sarah2017/sarah2017/7441.rtmp
@@ -3664,17 +3520,11 @@ http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b4/Big_Ten_Network.png" group-title="43- DEPORTES INTERNACIONAL",Big Ten
 http://161.0.157.38/PLTV/88888888/224/3221226177/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-P3VklqG7XHk/UFv0mVA2tiI/AAAAAAAAEb4/-6N62uGydEw/s1600/Chelsea_TV1_logo.png" group-title="43- DEPORTES INTERNACIONAL",Chelsea tv
-http://d11n34tff6gog3.cloudfront.net/hls/chelstvpcweb/prog_index.m3u8
-
 #EXTINF:-1 tvg-logo="http://oakesville.github.io/mythling/epg/demo/guide-data/icons/1841.png" group-title="43- DEPORTES INTERNACIONAL",Espn News USA
 http://80.80.160.168/live/6/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ya-webdesign.com/images/espn-2-logo-png-1.png" group-title="43- DEPORTES INTERNACIONAL",Espn 2 USA
 http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Eurosport_Logo_2015.png/800px-Eurosport_Logo_2015.png" group-title="43- DEPORTES INTERNACIONAL",Eurosport 1
-http://wc7.beeyooo.com/tv11.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.fightbox.com/images/stories/menu_fb_roll.png" group-title="43- DEPORTES INTERNACIONAL",FightBox
 http://92.43.140.249/s86/04.m3u8
