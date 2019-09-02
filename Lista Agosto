@@ -407,7 +407,7 @@ http://162.241.190.126:1935/live/canal4/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_canal-de-las-estrellas_m.png" group-title="13- MEXICO",Canal de las Estrellas (1)
-
+http://23.139.96.12:2095/102estrellas/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/canal10cancum.png" group-title="13- MEXICO",Canal 10 Cancún
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8?GrupoTopIptv
@@ -459,6 +459,9 @@ http://s3linkgapp.net:25461/live/Lista-Gratuita/Descarga-Desde-Play-Store-GnulaT
 
 #EXTINF:-1 tvg-logo="https://www.tlaxcalatelevision.tv/images/logo-tlaxcala-television-2019-final.png" group-title="13- MEXICO",Tlaxcala TV
 http://coracyt.mega00.com:1935/live/coracyt/coracyt/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://televisatvdepaga.com/wp-content/uploads/2017/08/unicable.jpg" group-title="13- MEXICO",Unicable
+http://23.139.96.12:2095/encoder18/unicable/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://static-cdn2.ustream.tv/i/channel/picture/1/7/4/0/17406211/17406211,640x360,b:2.jpg" group-title="13- MEXICO",Unimas
 http://89.187.181.239:25461/live/RENO87/AaBbCc54321/771.rtmp
@@ -623,8 +626,17 @@ http://fmhot.04.cl.cdnz.cl/fmhot/smil:cdn.smil/chunklist_b1800000_slesp.m3u8
 #EXTINF:-1 tvg-logo="https://okdiario.com/img/2018/04/28/distrito-655x368.jpg" group-title="22- CINE LATINO",Distrito TV
 https://cdn01.yowi.tv/KQRSDA7GDB/live-1000.m3u8
 
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/9c/75/9c75606d3a6daafb02d1342c012ba436.jpg" group-title="22- CINE LATINO",Maxima Movie
+http://server1.oklanet.cl:1935/maximamovie1/maximamovie1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://taltaltv.webnode.mx/_files/200000001-03c0804b85/450/logo%20HD-4.png" group-title="22- CINE LATINO",Taltal
+https://5c78737f1e572.streamlock.net/8020/8020/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/wow-tv.png" group-title="22- CINE LATINO",Wow!
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
+
+#EXTINF:-1 tvg-logo="http://images.produ.com/noticias/0218/ZeeMundonewlogo2.jpg" group-title="22- CINE LATINO",Zee Mundo
+https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8
 
 #######################################################################################################################################################################################
 #######################################################################################################################################################################################
@@ -2046,6 +2058,17 @@ http://clienteworld.com:8080/live/ione/ione/7996.rtmp
 http://mixaac.crossradio.com.br:1100/live
 #######################################
 ######################################################################################################################################
+#EXTINF:-1 tvg-logo="https://startvmexico.com/wp-content/uploads/2018/10/INGENIO.jpg" group-title="40- EDUCATIVOS",Ingenio TV
+https://srvstream01.televisioneducativa.gob.mx/hls/ingeniotv.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="40- EDUCATIVOS",Aprende Tv
+https://srvstream01.televisioneducativa.gob.mx/hls/aprendetv.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="40- EDUCATIVOS",Capacita Tv
+https://srvstream01.televisioneducativa.gob.mx/hls/capacitatv.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="40- EDUCATIVOS",Tele Bachillerato
+https://srvstream01.televisioneducativa.gob.mx/hls/telebachillerato.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/TEC_TV_-_2012_logo.png" group-title="40- EDUCATIVOS",Tec TV
 http://tec_tv.secure2.footprint.net/egress/bhandler/streamroot_lsd2latam/tec_tv/manifest.m3u8
