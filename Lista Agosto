@@ -2328,7 +2328,10 @@ http://23.139.96.12:2095/504clarosport/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5
 http://23.139.96.12:2095/505ESPN/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://4e0ow51f67h221f1ggcbe9m4-wpengine.netdna-ssl.com/wp-content/uploads/2016/08/ESPN-logo.png" group-title="41- DEPORTES LATINO",Espn (1)
+http://144.217.69.93:25461/live/3440/3440/58939.m3u8
 
+#EXTINF:-1 tvg-logo="https://4e0ow51f67h221f1ggcbe9m4-wpengine.netdna-ssl.com/wp-content/uploads/2016/08/ESPN-logo.png" group-title="41- DEPORTES LATINO",Espn (2)
+http://144.217.69.93:25461/live/1317/1317/58939.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ya-webdesign.com/images/espn-2-logo-png-1.png" group-title="41- DEPORTES LATINO",Espn 2 (DISH)
 http://23.139.96.12:2095/506ESPN2/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
@@ -2340,10 +2343,16 @@ http://23.139.96.12:2095/506ESPN2/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9
 http://23.139.96.12:2095/507ESPN3/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvzamora.net/wp-content/uploads/2016/12/Logo-ESPN-3-By-Bauti.png" group-title="41- DEPORTES LATINO",Espn 3 (1)
+http://144.217.69.93:25461/live/3440/3440/58940.m3u8
 
+#EXTINF:-1 tvg-logo="https://tvzamora.net/wp-content/uploads/2016/12/Logo-ESPN-3-By-Bauti.png" group-title="41- DEPORTES LATINO",Espn 3 (2)
+http://144.217.69.93:25461/live/1317/1317/58940.m3u8
 
 #EXTINF:-1 tvg-logo="https://league-mp7static.mlsdigital.net/styles/full_landscape/s3/images/espn_plus_white.png" group-title="41- DEPORTES LATINO",Espn + (1)
+http://144.217.69.93:25461/live/3440/3440/58938.m3u8
 
+#EXTINF:-1 tvg-logo="https://league-mp7static.mlsdigital.net/styles/full_landscape/s3/images/espn_plus_white.png" group-title="41- DEPORTES LATINO",Espn + (2)
+http://144.217.69.93:25461/live/1317/1317/58938.m3u8
 
 #EXTINF:-1 tvg-logo="https://4e0ow51f67h221f1ggcbe9m4-wpengine.netdna-ssl.com/wp-content/uploads/2016/08/ESPN-logo.png" group-title="41- DEPORTES LATINO",Espn Deportes (1)
 http://89.187.181.239:25461/live/RENO87/AaBbCc54321/534.rtmp
@@ -2355,19 +2364,28 @@ http://89.187.181.239:25461/live/RENO87/AaBbCc54321/563.rtmp
 http://23.139.96.12:2095/502FoxSport1/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ya-webdesign.com/images/fox-sports-1-png-5.png" group-title="41- DEPORTES LATINO",Fox Sports (1)
+http://144.217.69.93:25461/live/3440/3440/58926.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ya-webdesign.com/images/fox-sports-1-png-5.png" group-title="41- DEPORTES LATINO",Fox Sports (2)
+http://144.217.69.93:25461/live/1317/1317/58926.m3u8
 
 #EXTINF:-1 tvg-logo="http://midiafatos.com.br/wp-content/uploads/2017/02/fox_sports2_N.png" group-title="41- DEPORTES LATINO",Fox Sports 2 (DISH)
 http://23.139.96.12:2095/503FoxSport2/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://midiafatos.com.br/wp-content/uploads/2017/02/fox_sports2_N.png" group-title="41- DEPORTES LATINO",Fox Sports 2 (1)
+http://144.217.69.93:25461/live/3440/3440/58925.m3u8
 
+#EXTINF:-1 tvg-logo="http://midiafatos.com.br/wp-content/uploads/2017/02/fox_sports2_N.png" group-title="41- DEPORTES LATINO",Fox Sports 2 (2)
+http://144.217.69.93:25461/live/1317/1317/58925.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/fox-sports3-logos-01.png" group-title="41- DEPORTES LATINO",Fox Sports 3 (DISH)
 http://23.139.96.12:2095/508FoxSports3/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/fox-sports3-logos-01.png" group-title="41- DEPORTES LATINO",Fox Sports 3 (1)
+http://144.217.69.93:25461/live/3440/3440/58924.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/fox-sports3-logos-01.png" group-title="41- DEPORTES LATINO",Fox Sports 3 (2)
+http://144.217.69.93:25461/live/1317/1317/58924.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Fox_Sports_Premium_%28Argentina%29_-_2018_logo.png" group-title="41- DEPORTES LATINO",Fox Sports Premium (1)
 
@@ -2388,13 +2406,19 @@ http://23.139.96.12:2095/508FoxSports3/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5
 http://23.139.96.12:2095/encoder84/evento17/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://st1.uvnimg.com/dims4/default/3e56bba/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Ff2%2F30%2F64b3884646e7ba0bafb3a615d78b%2F1440x810-2x.png" group-title="41- DEPORTES LATINO",Tudn (1)
+http://144.217.69.93:25461/live/3440/3440/58882.m3u8
 
+#EXTINF:-1 tvg-logo="https://st1.uvnimg.com/dims4/default/3e56bba/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Ff2%2F30%2F64b3884646e7ba0bafb3a615d78b%2F1440x810-2x.png" group-title="41- DEPORTES LATINO",Tudn (2)
+http://144.217.69.93:25461/live/1317/1317/58882.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_%282017%29.png" group-title="41- DEPORTES LATINO",Tnt Sports (1)
 
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e1/TVC_Deportes_%282016-_%29.png/revision/latest?cb=20160124184041" group-title="41- DEPORTES LATINO",Tvc Deportes (1)
+http://144.217.69.93:25461/live/3440/3440/58866.m3u8
 
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e1/TVC_Deportes_%282016-_%29.png/revision/latest?cb=20160124184041" group-title="41- DEPORTES LATINO",Tvc Deportes (2)
+http://144.217.69.93:25461/live/1317/1317/58866.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SAZczO7.png" group-title="41- DEPORTES LATINO",TyC (1)
 
@@ -2409,7 +2433,10 @@ http://trinity-lh.akamaihd.net/i/GolTVModel4A_d@422865/index_500_av-p.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png" group-title="41- DEPORTES LATINO",Win Sports (1)
+http://144.217.69.93:25461/live/3440/3440/58856.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png" group-title="41- DEPORTES LATINO",Win Sports (2)
+http://144.217.69.93:25461/live/1317/1317/58856.m3u8
 
 ######################################################################################################################################
 ####################################### ESPORTES BRASIL
