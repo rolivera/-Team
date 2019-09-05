@@ -415,11 +415,17 @@ http://162.241.190.126:1935/live/canal4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/400x300_1845/Source/46261/canal5hd.png" group-title="13- MEXICO",Canal 5 (3)
 http://ummodigital.com:2082/live/carlos2019/carlos2019/1366.rtmp
 
+#EXTINF:-1 tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/400x300_1845/Source/46261/canal5hd.png" group-title="13- MEXICO",Canal 5 (4)
+http://ummodigital.com:2082/live/Gustavo2019/gustavo2019/1366.rtmp
+
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_canal-de-las-estrellas_m.png" group-title="13- MEXICO",Canal de las Estrellas (1)
 http://23.139.96.12:2095/102estrellas/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_canal-de-las-estrellas_m.png" group-title="13- MEXICO",Canal de las Estrellas (3)
 http://ummodigital.com:2082/live/carlos2019/carlos2019/1367.rtmp
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_canal-de-las-estrellas_m.png" group-title="13- MEXICO",Canal de las Estrellas (4)
+http://ummodigital.com:2082/live/Gustavo2019/gustavo2019/1367.rtmp
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/canal10cancum.png" group-title="13- MEXICO",Canal 10 Cancún
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8?GrupoTopIptv
