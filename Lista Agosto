@@ -103,6 +103,9 @@ http://clienteworld.com:8080/live/000023/000023/8150.rtmp
 #EXTINF:0 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/band-logo-png-6.png" group-title="04- BRASIL",Band (3)
 http://clienteworld.com:8080/live/ione/ione/8150.rtmp
 
+#EXTINF:0 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/band-logo-png-6.png" group-title="04- BRASIL",Band (4)
+http://lista.digitalgroup.me:80/1002/1234/1713
+
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-9tDte7uhQ9c/WLdNncrMpjI/AAAAAAAACws/K60NlJ0Qa4AVKeQ1JYpis_OlAheHottMACLcB/s1600/Cinemais.jpg" group-title="04- BRASIL",Cine +
 https://5c49cd60dfe56.streamlock.net:6443/cinemais/live/chunklist_w749538962.m3u8
 
@@ -121,6 +124,12 @@ http://clienteworld.com:8080/live/000023/000023/8082.rtmp
 #EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="04- BRASIL",Globo SP (3)
 http://clienteworld.com:8080/live/ione/ione/8082.rtmp
 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="04- BRASIL",Globo SP (4) SD
+http://lista.digitalgroup.me:80/1002/1234/38657
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="04- BRASIL",Globo SP (4) HD
+http://lista.digitalgroup.me:80/1002/1234/17122
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="04- BRASIL",Globo SP (alt)
 http://xse.jfglno.com:23618/live/cyx-7EDBC22445F18a3dC01DE245AC15.ts
 
@@ -133,6 +142,12 @@ http://clienteworld.com:8080/live/000023/000023/8085.rtmp
 #EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="04- BRASIL",Globo RJ (3)
 http://clienteworld.com:8080/live/ione/ione/8085.rtmp
 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="04- BRASIL",Globo RJ (4) SD
+http://lista.digitalgroup.me:80/1002/1234/38661
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="04- BRASIL",Globo RJ (4) HD
+http://lista.digitalgroup.me:80/1002/1234/1207
+
 #EXTINF:-1 tvg-logo="http://evertonlopes.com.br/wp-content/uploads/2017/04/RBS_TV2.png" group-title="04- BRASIL",Globo RBS (1)
 http://tv.factoryiptv.com:80/live/claudio/claudio/40253.rtmp
 
@@ -141,6 +156,9 @@ http://clienteworld.com:8080/live/000023/000023/8087.rtmp
 
 #EXTINF:-1 tvg-logo="http://evertonlopes.com.br/wp-content/uploads/2017/04/RBS_TV2.png" group-title="04- BRASIL",Globo RBS (3)
 http://clienteworld.com:8080/live/ione/ione/8087.rtmp
+
+#EXTINF:-1 tvg-logo="http://evertonlopes.com.br/wp-content/uploads/2017/04/RBS_TV2.png" group-title="04- BRASIL",Globo RBS (4)
+http://lista.digitalgroup.me:80/1002/1234/968
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/if82162.png" group-title="04- BRASIL",NBR (1)
 http://tv.factoryiptv.com:80/live/claudio/claudio/37021.rtmp
@@ -166,6 +184,9 @@ http://clienteworld.com:8080/live/000023/000023/8018.rtmp
 #EXTINF:-1 tvg-logo="http://i.imgur.com/k4haEx6.png" group-title="04- BRASIL",Rede TV (3)
 http://clienteworld.com:8080/live/ione/ione/8018.rtmp
 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/k4haEx6.png" group-title="04- BRASIL",Rede TV (4)
+http://lista.digitalgroup.me:80/1002/1234/963
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="04- BRASIL",Record (1)
 http://tv.factoryiptv.com:80/live/claudio/claudio/37051.rtmp
 
@@ -174,6 +195,12 @@ http://clienteworld.com:8080/live/000023/000023/8025.rtmp
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="04- BRASIL",Record (3)
 http://clienteworld.com:8080/live/ione/ione/8025.rtmp
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="04- BRASIL",Record (4) SD
+http://lista.digitalgroup.me:80/1002/1234/38765
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="04- BRASIL",Record (4) HD
+http://lista.digitalgroup.me:80/1002/1234/1210
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" group-title="04- BRASIL",SBT Interior
 https://5a1c76baf08c0.streamlock.net/z343-live/stream/playlist.m3u8
@@ -186,6 +213,12 @@ http://clienteworld.com:8080/live/000023/000023/8016.rtmp
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="04- BRASIL",SBT (3)
 http://clienteworld.com:8080/live/ione/ione/8016.rtmp
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="04- BRASIL",SBT (4) SD
+http://lista.digitalgroup.me:80/1002/1234/38920
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="04- BRASIL",SBT (4) HD
+http://lista.digitalgroup.me:80/1002/1234/1208
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="04- BRASIL",SBT PE
 http://evpp.mm.uol.com.br/ne10/ne10_720.sdp/chunklist_w322427533.m3u8
