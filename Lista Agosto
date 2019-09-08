@@ -496,20 +496,26 @@ http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8?GrupoTopIptv
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/telemar.png" group-title="13- MEXICO",Telemar
 http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u
 
-#EXTINF:-1 tvg-logo="https://www.telemundo.com/sites/nbcutelemundo/themes/aurora_tlmd/images/telemundo_logo.png" group-title="13- MEXICO",Telemundo
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/133.rtmp
+#EXTINF:-1 tvg-logo="https://www.telemundo.com/sites/nbcutelemundo/themes/aurora_tlmd/images/telemundo_logo.png" group-title="13- MEXICO",Telemundo (3)
+http://ummodigital.com:2082/live/Mike2019/mike2019/3296.rtmp
 
-#EXTINF:-1 tvg-logo="https://www.telemundo.com/sites/nbcutelemundo/themes/aurora_tlmd/images/telemundo_logo.png" group-title="13- MEXICO",Telemundo
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/772.rtmp
+#EXTINF:-1 tvg-logo="https://www.telemundo.com/sites/nbcutelemundo/themes/aurora_tlmd/images/telemundo_logo.png" group-title="13- MEXICO",Telemundo (4)
+http://ummodigital.com:2082/live/Gustavo2019/gustavo2019/3296.rtmp
 
-#EXTINF:-1 tvg-logo="https://www.telemundo.com/sites/nbcutelemundo/themes/aurora_tlmd/images/telemundo_logo.png" group-title="13- MEXICO",Telemundo
-http://flow.nibbletv.info/CH/VJcxZ7cEbJEm/Telemundo.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.telemundo.com/sites/nbcutelemundo/themes/aurora_tlmd/images/telemundo_logo.png" group-title="13- MEXICO",Telemundo
-http://s3linkgapp.net:25461/live/Lista-Gratuita/Descarga-Desde-Play-Store-GnulaTV-Lite-114519/76.rtmp
+#EXTINF:-1 tvg-logo="https://www.telemundo.com/sites/nbcutelemundo/themes/aurora_tlmd/images/telemundo_logo.png" group-title="13- MEXICO",Telemundo (5)
+http://ummodigital.com:2082/live/Maria69/Maria69/3296.rtmp
 
 #EXTINF:-1 tvg-logo="https://www.tlaxcalatelevision.tv/images/logo-tlaxcala-television-2019-final.png" group-title="13- MEXICO",Tlaxcala TV
 http://coracyt.mega00.com:1935/live/coracyt/coracyt/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_tlnovelas_m.png" group-title="17- PERU",Tlnovelas (3)
+http://ummodigital.com:2082/live/Mike2019/mike2019/4668.rtmp
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_tlnovelas_m.png" group-title="17- PERU",Tlnovelas (4)
+http://ummodigital.com:2082/live/Gustavo2019/gustavo2019/4668.rtmp
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_tlnovelas_m.png" group-title="17- PERU",Tlnovelas (5)
+http://ummodigital.com:2082/live/Maria69/Maria69/4668.rtmp
 
 #EXTINF:-1 tvg-logo="http://televisatvdepaga.com/wp-content/uploads/2017/08/unicable.jpg" group-title="13- MEXICO",Unicable
 http://23.139.96.12:2095/encoder18/unicable/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
@@ -519,6 +525,15 @@ http://89.187.181.239:25461/live/RENO87/AaBbCc54321/771.rtmp
 
 #EXTINF:-1 tvg-logo="https://tvonlinegratis.com/wp-content/uploads/2014/01/univision-500x500-300x300.png" group-title="13- MEXICO",Univision
 http://89.187.181.239:25461/live/RENO87/AaBbCc54321/770.rtmp
+
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-f2Bs9iD3FqE/Vr_1tv9AjYI/AAAAAAAAzjw/uqjSpCsbbfg/s1600/univision-tlnovelas-logo.jpg" group-title="17- PERU",Univision Telenovelas (3)
+http://ummodigital.com:2082/live/Mike2019/mike2019/10208.rtmp
+
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-f2Bs9iD3FqE/Vr_1tv9AjYI/AAAAAAAAzjw/uqjSpCsbbfg/s1600/univision-tlnovelas-logo.jpg" group-title="17- PERU",Univision Telenovelas (4)
+http://ummodigital.com:2082/live/Gustavo2019/gustavo2019/10208.rtmp
+
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-f2Bs9iD3FqE/Vr_1tv9AjYI/AAAAAAAAzjw/uqjSpCsbbfg/s1600/univision-tlnovelas-logo.jpg" group-title="17- PERU",Univision Telenovelas (5)
+http://ummodigital.com:2082/live/Maria69/Maria69/10208.rtmp
 
 ######################################################################################################################################
 ####################################### NICARAGUA
@@ -568,8 +583,35 @@ https://stream.vagalume.fm/hls/1507663468882713/aac.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_america-television_m.png" group-title="17- PERU",America tv
 http://xse.jfglno.com:23618/live/cyx-98B9F781486Da1b7D7B501B2F69C.ts
 
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_america-television_m.png" group-title="17- PERU",America tv (3)
+http://ummodigital.com:2082/live/Mike2019/mike2019/5459.rtmp
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_america-television_m.png" group-title="17- PERU",America tv (4)
+http://ummodigital.com:2082/live/Gustavo2019/gustavo2019/5459.rtmp
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_america-television_m.png" group-title="17- PERU",America tv (5)
+http://ummodigital.com:2082/live/Maria69/Maria69/5459.rtmp
+
 #EXTINF:-1 tvg-logo="https://www.jssor.com/andre89/tv-antares.png" group-title="17- PERU",Antares
 http://173.192.105.252:1935/iptvantares/liveantarestv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/atv-peru-logo-5506CAAD40-seeklogo.com.png" group-title="17- PERU",Atv (3)
+http://ummodigital.com:2082/live/Mike2019/mike2019/862.rtmp
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/atv-peru-logo-5506CAAD40-seeklogo.com.png" group-title="17- PERU",Atv (4)
+http://ummodigital.com:2082/live/Gustavo2019/gustavo2019/862.rtmp
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/atv-peru-logo-5506CAAD40-seeklogo.com.png" group-title="17- PERU",Atv (5)
+http://ummodigital.com:2082/live/Maria69/Maria69/862.rtmp
+
+#EXTINF:-1 tvg-logo="https://peru.mom-rsf.org/typo3temp/_processed_/4/7/csm_2013-205_import_95c305c25d.png" group-title="17- PERU",Atv Noticias (3)
+http://ummodigital.com:2082/live/Mike2019/mike2019/4949.rtmp
+
+#EXTINF:-1 tvg-logo="https://peru.mom-rsf.org/typo3temp/_processed_/4/7/csm_2013-205_import_95c305c25d.png" group-title="17- PERU",Atv Noticias (4)
+http://ummodigital.com:2082/live/Gustavo2019/gustavo2019/4949.rtmp
+
+#EXTINF:-1 tvg-logo="https://peru.mom-rsf.org/typo3temp/_processed_/4/7/csm_2013-205_import_95c305c25d.png" group-title="17- PERU",Atv Noticias (5)
+http://ummodigital.com:2082/live/Maria69/Maria69/4949.rtmp
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oWya6SB.png" group-title="17- PERU",Central TV
 http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
@@ -589,6 +631,33 @@ http://movil.mediastream.pe/vv_manosdios/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-zONwKyIGEe8/US6GONLKNMI/AAAAAAAAH50/PXQ17OgMMAg/s1600/paxtv.png" group-title="17- PERU",Pax TV
 http://d2fxrfbiedz1tm.cloudfront.net/livepaxtv/smil:PC.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.smg-roi.com/wp-content/uploads/2018/05/image65-1-600x450.jpg" group-title="17- PERU",Peru Magico (3)
+http://ummodigital.com:2082/live/Mike2019/mike2019/8044.rtmp
+
+#EXTINF:-1 tvg-logo="http://www.smg-roi.com/wp-content/uploads/2018/05/image65-1-600x450.jpg" group-title="17- PERU",Peru Magico (4)
+http://ummodigital.com:2082/live/Gustavo2019/gustavo2019/8044.rtmp
+
+#EXTINF:-1 tvg-logo="http://www.smg-roi.com/wp-content/uploads/2018/05/image65-1-600x450.jpg" group-title="17- PERU",Peru Magico (5)
+http://ummodigital.com:2082/live/Maria69/Maria69/8044.rtmp
+
+#EXTINF:-1 tvg-logo="http://www.canalsur.com/imagenes/logo_surperu.jpg" group-title="17- PERU",Sur Peru (3)
+http://ummodigital.com:2082/live/Mike2019/mike2019/6996.rtmp
+
+#EXTINF:-1 tvg-logo="http://www.canalsur.com/imagenes/logo_surperu.jpg" group-title="17- PERU",Sur Peru (4)
+http://ummodigital.com:2082/live/Gustavo2019/gustavo2019/6996.rtmp
+
+#EXTINF:-1 tvg-logo="http://www.canalsur.com/imagenes/logo_surperu.jpg" group-title="17- PERU",Sur Peru (5)
+http://ummodigital.com:2082/live/Maria69/Maria69/6996.rtmp
+
+#EXTINF:-1 tvg-logo="https://www.neourbe.pe/wp-content/uploads/2019/02/tv-noticias.png" group-title="17- PERU",TV Noticias 7.3 (3)
+http://ummodigital.com:2082/live/Mike2019/mike2019/869.rtmp
+
+#EXTINF:-1 tvg-logo="https://www.neourbe.pe/wp-content/uploads/2019/02/tv-noticias.png" group-title="17- PERU",TV Noticias 7.3 (4)
+http://ummodigital.com:2082/live/Gustavo2019/gustavo2019/869.rtmp
+
+#EXTINF:-1 tvg-logo="https://www.neourbe.pe/wp-content/uploads/2019/02/tv-noticias.png" group-title="17- PERU",TV Noticias 7.3 (5)
+http://ummodigital.com:2082/live/Maria69/Maria69/869.rtmp
+
 #EXTINF:-1 tvg-logo="https://www.neourbe.pe/wp-content/uploads/2019/02/tv-noticias.png" group-title="17- PERU",TV Noticias 7.3
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIPE0002&mode=12
 
@@ -597,6 +666,15 @@ http://cdnh15.iblups.com/hls/R9WtilpKKB.m3u8
 
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-Mcc2xCpSKWQ/UF6PxaiQZYI/AAAAAAAACQU/BLm5ZUhxzfs/s1600/LOGOTVPERU.jpg" group-title="17- PERU",TV Perú SD
 http://cdnh4.iblups.com/hls/irtp.m3u8
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-Mcc2xCpSKWQ/UF6PxaiQZYI/AAAAAAAACQU/BLm5ZUhxzfs/s1600/LOGOTVPERU.jpg" group-title="17- PERU",TV Perú (3)
+http://ummodigital.com:2082/live/Mike2019/mike2019/867.rtmp
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-Mcc2xCpSKWQ/UF6PxaiQZYI/AAAAAAAACQU/BLm5ZUhxzfs/s1600/LOGOTVPERU.jpg" group-title="17- PERU",TV Perú (4)
+http://ummodigital.com:2082/live/Gustavo2019/gustavo2019/867.rtmp
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-Mcc2xCpSKWQ/UF6PxaiQZYI/AAAAAAAACQU/BLm5ZUhxzfs/s1600/LOGOTVPERU.jpg" group-title="17- PERU",TV Perú (5)
+http://ummodigital.com:2082/live/Maria69/Maria69/867.rtmp
 
 ######################################################################################################################################
 ####################################### PORTUGAL
