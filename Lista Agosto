@@ -217,9 +217,6 @@ http://lista.digitalgroup.me:80/edm90361/90361/1208
 #EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="04- BRASIL",SBT PE
 http://evpp.mm.uol.com.br/ne10/ne10_720.sdp/chunklist_w322427533.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l78BRX-s9d2meECdYoomp0KJmcryWH8sIrTwiw=s900-c-k-c0xffffffff-no-rj-mo" group-title="04- BRASIL",Tv Carioca
-https://593d7fe3c9b0d.streamlock.net/tvcarioca/tvcarioca/chunklist_w1674252223.m3u8
-
 #EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/1003228/logo_tv%20diario%20do%20sertao.png" group-title="04- BRASIL",Tv Diario do Sertao
 http://painelvj.com.br/pdsertaotv/pdsertaotv.sdp/chunklist_w1056637401.m3u8
 
@@ -610,9 +607,6 @@ http://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/3781231/logo_cultura%2024.png" group-title="17- PERU",Cultura 24 TV
 http://vs8.live.opencaster.com/cultura24/smil:cultura24/chunklist_w1710773429_b564000_sles.m3u8
 
-#EXTINF:-1 tvg-logo="http://static-cdn.jtvnw.net/jtv_user_pictures/ctcenvivo-channel_header_image-92b9f98d67d9243c-640x125.png" group-title="17- PERU",CTC
-http://livestreamingperu.com:1935/ctctv/ctctv/chunklist.m3u8
-
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/565018162916114432/7h5k-iqC_400x400.png" group-title="17- PERU",JN19
 http://movil.mediastream.pe/vv_manosdios/livestream/playlist.m3u8
 
@@ -734,12 +728,6 @@ http://ummodigital.com:2082/live/Mike2019/mike2019/5850.rtmp
 
 #EXTINF:-1 tvg-logo="http://montevideo.gub.uy/sites/default/files/styles/galeriaslideshowcontenido/public/biblioteca/tvciudad.png?itok=GWUByEQp" group-title="20- URUGUAY",Tv Ciudad (4)
 http://ummodigital.com:2082/live/Gustavo2019/gustavo2019/5850.rtmp
-
-#EXTINF:-1 tvg-logo="http://sfu.org.uy/web2017/wp-content/uploads/2018/06/logo-vera-tv.png" group-title="20- URUGUAY",Vera + (3)
-http://ummodigital.com:2082/live/Mike2019/mike2019/10551.rtmp
-
-#EXTINF:-1 tvg-logo="http://sfu.org.uy/web2017/wp-content/uploads/2018/06/logo-vera-tv.png" group-title="20- URUGUAY",Vera + (4)
-http://ummodigital.com:2082/live/Gustavo2019/gustavo2019/10551.rtmp
 
 #EXTINF:-1 tvg-logo="http://www.bienaldemontevideo.com/imgs/pat/vtv.png" group-title="20- URUGUAY",VTV (3)
 http://ummodigital.com:2082/live/Mike2019/mike2019/5621.rtmp
@@ -1491,9 +1479,6 @@ http://144.217.69.93:25461/live/2027/2027/61631.m3u8
 #EXTINF:-1 tvg-logo="https://tvbtn.files.wordpress.com/2012/09/starz-logo.gif?w=1400" group-title="28- PREMIUM LATINO",Starz Encore Classic (2)
 http://144.217.69.93:25461/live/1317/1317/61631.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvbtn.files.wordpress.com/2012/09/starz-logo.gif?w=1400" group-title="28- PREMIUM LATINO",Starz Kids & Family (1)
-http://144.217.69.93:25461/live/2027/2027/62168.m3u8
-
 #EXTINF:-1 tvg-logo="https://tvbtn.files.wordpress.com/2012/09/starz-logo.gif?w=1400" group-title="28- PREMIUM LATINO",Starz Kids & Family (2)
 http://144.217.69.93:25461/live/1317/1317/62168.m3u8
 
@@ -2064,12 +2049,6 @@ http://antena1.newradio.it/stream?1519462006844
 #######################################
 ######################################################################################################################################
 
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/concert_channel_hd-mediano.png" group-title="30- VARIEDADES LATINO",Concert Channel (1)
-http://144.217.69.93:25461/live/2027/2027/58965.m3u8
-
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/concert_channel_hd-mediano.png" group-title="30- VARIEDADES LATINO",Concert Channel (2)
-http://144.217.69.93:25461/live/1317/1317/58965.m3u8
-
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/concert_channel_hd-mediano.png" group-title="30- VARIEDADES LATINO",Concert Channel (3)
 http://ummodigital.com:2082/live/Mike2019/mike2019/5059.rtmp
 
@@ -2117,12 +2096,6 @@ http://ummodigital.com:2082/live/Mike2019/mike2019/370.rtmp
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/22/53/ef/2253eff0b7164502c402c73e98ef9417.png" group-title="30- VARIEDADES LATINO",Glitz (4)
 http://ummodigital.com:2082/live/Gustavo2019/gustavo2019/370.rtmp
-
-#EXTINF:-1 tvg-logo="https://www.directv.com/images/logos/channels/dark/large/466.png" group-title="30- VARIEDADES LATINO",Hola TV (1)
-http://144.217.69.93:25461/live/2027/2027/59770.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.directv.com/images/logos/channels/dark/large/466.png" group-title="30- VARIEDADES LATINO",Hola TV (2)
-http://144.217.69.93:25461/live/1317/1317/59770.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.directv.com/images/logos/channels/dark/large/466.png" group-title="30- VARIEDADES LATINO",Hola TV (3)
 http://ummodigital.com:2082/live/Mike2019/mike2019/4647.rtmp
@@ -2992,12 +2965,6 @@ http://ummodigital.com:2082/live/Mike2019/mike2019/4545.rtmp
 
 #EXTINF:-1 tvg-logo="https://s26311.pcdn.co/wp-content/uploads/2017/08/logosolo.png" group-title="38- DOCUMENTALES LATINOS",HITN (4)
 http://ummodigital.com:2082/live/Gustavo2019/gustavo2019/4545.rtmp
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/cineframe.mx/wp-content/uploads/2017/08/H2.png" group-title="38- DOCUMENTALES LATINOS",H2 (1)
-http://144.217.69.93:25461/live/2027/2027/58916.m3u8
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/cineframe.mx/wp-content/uploads/2017/08/H2.png" group-title="38- DOCUMENTALES LATINOS",H2 (2)
-http://144.217.69.93:25461/live/1317/1317/58916.m3u8
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/cineframe.mx/wp-content/uploads/2017/08/H2.png" group-title="38- DOCUMENTALES LATINOS",H2 (3)
 http://ummodigital.com:2082/live/Mike2019/mike2019/5198.rtmp
