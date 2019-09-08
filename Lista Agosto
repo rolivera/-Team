@@ -81,9 +81,6 @@ http://wowza.telpin.com.ar:1935/telpintv/ttv.stream_720p/playlist.m3u8?GrupoTopI
 #EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/11/e455d-tlx.png" group-title="03- ARGENTINA",TLX
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?GrupoTopIptv
 
-#EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/11/e455d-tlx.png" group-title="03- ARGENTINA",TLX
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/569.rtmp
-
 ######################################################################################################################################
 ####################################### BRASIL
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/91/18/c2/9118c23678a907c209281fb1533732ca.png" group-title="04- BRASIL",04- BRASIL
@@ -293,7 +290,7 @@ http://streaming.elpinguino.com:1935/live/pinguinotv_720p/hasbahca.m3u8?GrupoTop
 http://unlimited5-cl.dps.live/holvoettv/holvoettv.smil/playlist.m3u8?GrupoTopIptv
 
 #EXTINF:-1 tvg-logo="https://blogvecindad.com/wp-content/uploads/2015/11/Mega_Chile_Alternate_Logo.png" group-title="06- CHILE",Mega
-
+http://ummodigital.com:2082/live/Mike2019/mike2019/3095.rtmp
 
 #EXTINF:-1 tvg-logo="https://img8.androidappsapk.co/300/8/b/3/com.trece.t13.png" group-title="06- CHILE",T13
 http://c13-ply.janus.cl/playlist/stream.m3u8?s=c13hd
