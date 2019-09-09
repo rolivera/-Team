@@ -845,14 +845,23 @@ http://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/FamilyHLS/Famil
 http://ic7.101.ru:8000/a15
 #######################################
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/899531826238296064/VQHzZFKD_400x400.jpg" group-title="27- PREMIUM ESPAÑA",#0
+http://panel.myxtreams.com:80/providers1544/457b49a1fd/10589
+
+#EXTINF:-1 tvg-logo="http://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="27- PREMIUM ESPAÑA",24 Horas
+http://panel.myxtreams.com:80/providers1544/457b49a1fd/10387
+
 #EXTINF:-1 tvg-logo="http://diretele.com/wp-content/uploads/2018/09/alcarria-tv-en-directo.png" group-title="27- PREMIUM ESPAÑA",Alcarria TV
 http://217.182.77.27/live/alcarriatv-livestream.m3u8
 
 #EXTINF:-1 tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages02/2018/02/22/6339206B-7A24-4601-B30D-501750FDFF7B//720x540.jpg" group-title="27- PREMIUM ESPAÑA",Antena 3
-
+http://panel.myxtreams.com:80/providers1544/457b49a1fd/10405
 
 #EXTINF:-1 tvg-logo="http://confianza.icmedianet.org/wp-content/uploads/2018/05/BeMadLogo.jpg" group-title="27- PREMIUM ESPAÑA",Be Mad (VLC)
 https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.brandemia.org/wp-content/uploads/2011/03/calle131.jpg" group-title="27- PREMIUM ESPAÑA",Calle 13
+http://panel.myxtreams.com:80/providers1544/457b49a1fd/10321
 
 #EXTINF:-1 tvg-logo="http://trecetv.es/images/logo-og.png" group-title="27- PREMIUM ESPAÑA",Canal 13
 http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/chunklist.m3u8
@@ -869,38 +878,116 @@ http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
 #EXTINF:-1 tvg-logo="http://www.canalextremadura.es/sites/all/themes/canalex_2016/images/canalex/LogoHorizontal.png" group-title="27- PREMIUM ESPAÑA",Canal Extremadura
 http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.blaguemultimedia.com/wp-content/uploads/2014/12/logo-Andalucia-Television.png" group-title="27- PREMIUM ESPAÑA",Canal Sur
+http://panel.myxtreams.com:80/providers1544/457b49a1fd/24812
+
+#EXTINF:-1 tvg-logo="http://new.lamac.org/system/channels/logos/000/000/044/original/pic_comedycentral.png?1522177270" group-title="27- PREMIUM ESPAÑA",Comedy Central
+http://panel.myxtreams.com:80/providers1544/457b49a1fd/10342
+
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/es-cuatro-5294.jpg" group-title="27- PREMIUM ESPAÑA",Cuatro
+http://panel.myxtreams.com:80/providers1544/457b49a1fd/10403
+
 #EXTINF:-1 tvg-logo="https://descargarrevistas.com/wp-content/uploads/2018/12/divinity.jpg" group-title="27- PREMIUM ESPAÑA",Divinity
 http://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
+
+#EXTINF:-1 tvg-logo="https://descargarrevistas.com/wp-content/uploads/2018/12/divinity.jpg" group-title="27- PREMIUM ESPAÑA",Divinity
+http://panel.myxtreams.com:80/providers1544/457b49a1fd/10390
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148195095256141824/Se8k9eiJ_400x400.png" group-title="27- PREMIUM ESPAÑA",Dkiss
+http://panel.myxtreams.com:80/providers1544/457b49a1fd/24642
+
+#EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/e/t/b/xetbsat.jpg.pagespeed.ic.NPz8KO2zuJ.jpg" group-title="27- PREMIUM ESPAÑA",ETB Sat
+http://panel.myxtreams.com:80/providers1544/457b49a1fd/24808
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Al6Y2.png" group-title="27- PREMIUM ESPAÑA",Fox
+http://panel.myxtreams.com:80/providers1544/457b49a1fd/10328
+
+#EXTINF:-1 tvg-logo="http://neurads.com/wp-content/uploads/foxlife-2.png" group-title="27- PREMIUM ESPAÑA",Fox Life
+http://panel.myxtreams.com:80/providers1544/457b49a1fd/10326
+
+#EXTINF:-1 tvg-logo="http://www.videoluctv.net/wp-content/uploads/2016/09/Canal-Hollywood.jpg" group-title="27- PREMIUM ESPAÑA",Hollywood
+http://panel.myxtreams.com:80/providers1544/457b49a1fd/10340
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/01/Ibiza-Global-TV.png" group-title="27- PREMIUM ESPAÑA",Ibiza Global TV
 http://server10.streaming-pro.com:1937/live/ibgtvlive/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/l/a/1/xla1.jpg.pagespeed.ic.IJxN9OM3fj.jpg" group-title="27- PREMIUM ESPAÑA",La 1
+http://panel.myxtreams.com:80/providers1544/457b49a1fd/10408
+
+#EXTINF:-1 tvg-logo="https://www.losviajeros.com/foto/forums/2_364.jpg" group-title="27- PREMIUM ESPAÑA",La 2
+http://panel.myxtreams.com:80/providers1544/457b49a1fd/10407
+
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/01/Lancelot-tv.png" group-title="27- PREMIUM ESPAÑA",Lancelot TV
 http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://simbolografico.es/wp-content/uploads/2018/04/lasexta-port.jpg" group-title="27- PREMIUM ESPAÑA",La Sexta
+http://panel.myxtreams.com:80/providers1544/457b49a1fd/10399
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/818729431141404672/kSfmbaKL_400x400.jpg" group-title="27- PREMIUM ESPAÑA",Lebrija TV
 http://212.104.160.156:1935/live/lebrijatv2/playlist3.m3u8
 
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/01/Mega-en-directo-Online.png" group-title="27- PREMIUM ESPAÑA",Mega
+http://panel.myxtreams.com:80/providers1544/457b49a1fd/10389
+
 #EXTINF:-1 tvg-logo="https://logonoid.com/images/mezzo-tv-logo.png" group-title="27- PREMIUM ESPAÑA",Mezzo
 http://ott-cdn.ucom.am/s35/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-accion.jpg.pagespeed.ic.S9amYApSMG.jpg" group-title="27- PREMIUM ESPAÑA",M. Accion
+http://panel.myxtreams.com:80/providers1544/457b49a1fd/10358
+
+#EXTINF:-1 tvg-logo="http://cosmocentro.com/wp-content/uploads/2016/07/logo-movistar.jpg" group-title="27- PREMIUM ESPAÑA",M. Cine doc & roll
+http://panel.myxtreams.com:80/providers1544/457b49a1fd/10345
+
+#EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-comedia.jpg.pagespeed.ic.deMbrDoiNj.jpg" group-title="27- PREMIUM ESPAÑA",M. Comedia
+http://panel.myxtreams.com:80/providers1544/457b49a1fd/10353
+
+#EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-drama.jpg.pagespeed.ic.2pLss6-3MZ.jpg" group-title="27- PREMIUM ESPAÑA",M. Drama
+http://panel.myxtreams.com:80/providers1544/457b49a1fd/10355
+
+#EXTINF:-1 tvg-logo="https://www.airnetwifi.es/wp-content/uploads/2019/03/Logo-Movistar-Series.png" group-title="27- PREMIUM ESPAÑA",M. Series
+http://panel.myxtreams.com:80/providers1544/457b49a1fd/10348
+
+#EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-seriesmania.jpg.pagespeed.ic.ULWbElNb2o.jpg" group-title="27- PREMIUM ESPAÑA",M. Seriesmania
+http://panel.myxtreams.com:80/providers1544/457b49a1fd/10349
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/02/Navarra-TV.png" group-title="27- PREMIUM ESPAÑA",Navarra TV
 http://nws.nice264.com/SmilLive/getLiveIOS.smil?stream=NTV_livenatvmb&system=NTV&protocol=http_cupertino/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages02/2018/02/22/344860CE-9D54-4A15-9356-1DE499E4A46E//720x540.jpg" group-title="27- PREMIUM ESPAÑA",Neox
+http://panel.myxtreams.com:80/providers1544/457b49a1fd/10391
+
+#EXTINF:-1 tvg-logo="http://www.axartel.es/assets/img/sliders/tv-canales/a3-nova.jpg" group-title="27- PREMIUM ESPAÑA",Nova
+http://panel.myxtreams.com:80/providers1544/457b49a1fd/10392
+
 #EXTINF:-1 tvg-logo="http://vertelevisor.com/imagenes/paramount-channel.png" group-title="27- PREMIUM ESPAÑA",Paramount
 http://paramount.live.flumotion.com/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://vertelevisor.com/imagenes/paramount-channel.png" group-title="27- PREMIUM ESPAÑA",Paramount
+http://panel.myxtreams.com:80/providers1544/457b49a1fd/10338
 
 #EXTINF:-1 tvg-logo="https://media.tvalacarta.info/canales/256x256/rtvceuta.png" group-title="27- PREMIUM ESPAÑA",RTVCE
 http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.cable10.com/imagenes/programacion/canales_0013s_0016_Layer%2034.jpg" group-title="27- PREMIUM ESPAÑA",TCM
+http://panel.myxtreams.com:80/providers1544/457b49a1fd/10336
+
 #EXTINF:-1 tvg-logo="http://www.cienciaterapia.org/wp-content/uploads/2016/09/telecinco-logotipo.png" group-title="27- PREMIUM ESPAÑA",Telecinco
 https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_3.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cienciaterapia.org/wp-content/uploads/2016/09/telecinco-logotipo.png" group-title="27- PREMIUM ESPAÑA",Telecinco
+http://panel.myxtreams.com:80/providers1544/457b49a1fd/10401
 
 #EXTINF:-1 tvg-logo="https://media.tvalacarta.info/canales/256x256/telemadrid.png" group-title="27- PREMIUM ESPAÑA",Telemadrid
 http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://media.tvalacarta.info/canales/256x256/telemadrid.png" group-title="27- PREMIUM ESPAÑA",Telemadrid
+http://panel.myxtreams.com:80/providers1544/457b49a1fd/24813
+
 #EXTINF:-1 tvg-logo="http://diretele.com/wp-content/uploads/2018/09/tele-safor.png" group-title="27- PREMIUM ESPAÑA",TeleSafor
 http://video.telesafor.com/hls/video_low.m3u8
+
+#EXTINF:-1 tvg-logo="http://mareatvcable.com/wp-content/uploads/2017/12/44-tntlogo.png" group-title="27- PREMIUM ESPAÑA",TNT
+http://panel.myxtreams.com:80/providers1544/457b49a1fd/10332
 
 #EXTINF:-1 tvg-logo="http://gtltornt.files.wordpress.com/2008/06/tv3_logo2005.jpg" group-title="27- PREMIUM ESPAÑA",TV 3
 http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/playlist.m3u8
