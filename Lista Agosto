@@ -845,12 +845,6 @@ http://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/FamilyHLS/Famil
 http://ic7.101.ru:8000/a15
 #######################################
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/899531826238296064/VQHzZFKD_400x400.jpg" group-title="27- PREMIUM ESPAÑA",#0
-http://panel.myxtreams.com:80/providers1544/457b49a1fd/10589
-
-#EXTINF:-1 tvg-logo="http://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="27- PREMIUM ESPAÑA",24 Horas
-http://panel.myxtreams.com:80/providers1544/457b49a1fd/10387
-
 #EXTINF:-1 tvg-logo="http://diretele.com/wp-content/uploads/2018/09/alcarria-tv-en-directo.png" group-title="27- PREMIUM ESPAÑA",Alcarria TV
 http://217.182.77.27/live/alcarriatv-livestream.m3u8
 
@@ -863,11 +857,17 @@ https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8
 #EXTINF:-1 tvg-logo="http://www.brandemia.org/wp-content/uploads/2011/03/calle131.jpg" group-title="27- PREMIUM ESPAÑA",Calle 13
 http://panel.myxtreams.com:80/providers1544/457b49a1fd/10321
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/899531826238296064/VQHzZFKD_400x400.jpg" group-title="27- PREMIUM ESPAÑA",Canal #0
+http://panel.myxtreams.com:80/providers1544/457b49a1fd/10589
+
 #EXTINF:-1 tvg-logo="http://trecetv.es/images/logo-og.png" group-title="27- PREMIUM ESPAÑA",Canal 13
 http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="http://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="27- PREMIUM ESPAÑA",Canal 24 Horas
 http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve01_lv3_aosv4_gl0/irtve01_lv3_aosv4_gl0.isml/irtve01_lv3_aosv4_gl0-audio=128000-video=400000.m3u8
+
+#EXTINF:-1 tvg-logo="http://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="27- PREMIUM ESPAÑA",Canal 24 Horas
+http://panel.myxtreams.com:80/providers1544/457b49a1fd/10387
 
 #EXTINF:-1 tvg-logo="https://static.programacion-tdt.com/imgAPP/3_24.min.png" group-title="27- PREMIUM ESPAÑA",Canal 3/24
 http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/chunklist_b548000.m3u8
