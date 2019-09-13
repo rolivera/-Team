@@ -2547,11 +2547,17 @@ http://cdn-01.bonus-tv.ru:8080/shop24_edge/index.m3u8
 #######################################
 ######################################################################################################################################
 
+#EXTINF:-1 tvg-logo="https://www.directv.com/images/logos/channels/dark/large/673.png" group-title="32- INFANTIL LATINO",Baby First (2)
+http://ummodigital.com:2082/live/Donald1/Donald1/11219.rtmp
+
 #EXTINF:-1 tvg-logo="https://www.directv.com/images/logos/channels/dark/large/673.png" group-title="32- INFANTIL LATINO",Baby First (4)
 http://ummodigital.com:2082/live/Gustavo2019/gustavo2019/11219.rtmp
 
 #EXTINF:-1 tvg-logo="http://liveitkodi.com/Logos/BabyTV.png" group-title="32- INFANTIL LATINO",Baby TV (1)
 http://51.77.246.215:25461/live/bayron/bayron/58563.rtmp
+
+#EXTINF:-1 tvg-logo="http://liveitkodi.com/Logos/BabyTV.png" group-title="32- INFANTIL LATINO",Baby TV (2)
+http://ummodigital.com:2082/live/Donald1/Donald1/6836.rtmp
 
 #EXTINF:-1 tvg-logo="http://liveitkodi.com/Logos/BabyTV.png" group-title="32- INFANTIL LATINO",Baby TV (4)
 http://ummodigital.com:2082/live/Gustavo2019/gustavo2019/6836.rtmp
@@ -2561,6 +2567,9 @@ http://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
 
 #EXTINF:-1 tvg-logo="https://sitejerk.com/images/boomerang-logo-png-15.png" group-title="32- INFANTIL LATINO",Boomerang (1)
 http://51.77.246.215:25461/live/bayron/bayron/50399.rtmp
+
+#EXTINF:-1 tvg-logo="https://sitejerk.com/images/boomerang-logo-png-15.png" group-title="32- INFANTIL LATINO",Boomerang (2)
+http://ummodigital.com:2082/live/Donald1/Donald1/4672.rtmp
 
 #EXTINF:-1 tvg-logo="https://sitejerk.com/images/boomerang-logo-png-15.png" group-title="32- INFANTIL LATINO",Boomerang (4)
 http://ummodigital.com:2082/live/Gustavo2019/gustavo2019/4672.rtmp
@@ -2574,6 +2583,9 @@ http://edge1.cl.grupoz.cl/cachipuntv/live/master.m3u8
 #EXTINF:-1 tvg-logo="https://orig00.deviantart.net/1354/f/2016/129/2/d/untitled_drawing_by_jared33-da1wdty.png" group-title="32- INFANTIL LATINO",Cartoon Network (1)
 http://51.77.246.215:25461/live/bayron/bayron/52612.rtmp
 
+#EXTINF:-1 tvg-logo="https://orig00.deviantart.net/1354/f/2016/129/2/d/untitled_drawing_by_jared33-da1wdty.png" group-title="32- INFANTIL LATINO",Cartoon Network (2)
+http://ummodigital.com:2082/live/Donald1/Donald1/4651.rtmp
+
 #EXTINF:-1 tvg-logo="https://orig00.deviantart.net/1354/f/2016/129/2/d/untitled_drawing_by_jared33-da1wdty.png" group-title="32- INFANTIL LATINO",Cartoon Network (4)
 http://ummodigital.com:2082/live/Gustavo2019/gustavo2019/4651.rtmp
 
@@ -2583,11 +2595,17 @@ http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_kids-mediano.png" group-title="32- INFANTIL LATINO",Discovery Kids (1)
 http://51.77.246.215:25461/live/bayron/bayron/41143.rtmp
 
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_kids-mediano.png" group-title="32- INFANTIL LATINO",Discovery Kids (2)
+http://ummodigital.com:2082/live/Donald1/Donald1/4897.rtmp
+
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_kids-mediano.png" group-title="32- INFANTIL LATINO",Discovery Kids (4)
 http://ummodigital.com:2082/live/Gustavo2019/gustavo2019/4897.rtmp
 
 #EXTINF:-1 tvg-logo="http://logosvector.net/wp-content/uploads/2014/07/new-disney-channel-logo.png" group-title="32- INFANTIL LATINO",Disney Channel (1)
 http://51.77.246.215:25461/live/bayron/bayron/57254.rtmp
+
+#EXTINF:-1 tvg-logo="http://logosvector.net/wp-content/uploads/2014/07/new-disney-channel-logo.png" group-title="32- INFANTIL LATINO",Disney Channel (2)
+http://ummodigital.com:2082/live/Donald1/Donald1/5891.rtmp
 
 #EXTINF:-1 tvg-logo="http://logosvector.net/wp-content/uploads/2014/07/new-disney-channel-logo.png" group-title="32- INFANTIL LATINO",Disney Channel (4)
 http://ummodigital.com:2082/live/Gustavo2019/gustavo2019/5891.rtmp
@@ -2595,11 +2613,17 @@ http://ummodigital.com:2082/live/Gustavo2019/gustavo2019/5891.rtmp
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/disney-junior-logo-01.png" group-title="32- INFANTIL LATINO",Disney Junior (1)
 http://51.77.246.215:25461/live/bayron/bayron/5230.rtmp
 
+#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/disney-junior-logo-01.png" group-title="32- INFANTIL LATINO",Disney Junior (2)
+http://ummodigital.com:2082/live/Donald1/Donald1/345.rtmp
+
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/disney-junior-logo-01.png" group-title="32- INFANTIL LATINO",Disney Junior (4)
 http://ummodigital.com:2082/live/Gustavo2019/gustavo2019/345.rtmp
 
 #EXTINF:-1 tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2015/10/Disney_XD_-_2015.svg_.png" group-title="32- INFANTIL LATINO",Disney XD (1)
 http://51.77.246.215:25461/live/bayron/bayron/135906.rtmp
+
+#EXTINF:-1 tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2015/10/Disney_XD_-_2015.svg_.png" group-title="32- INFANTIL LATINO",Disney XD (2)
+http://ummodigital.com:2082/live/Donald1/Donald1/346.rtmp
 
 #EXTINF:-1 tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2015/10/Disney_XD_-_2015.svg_.png" group-title="32- INFANTIL LATINO",Disney XD (4)
 http://ummodigital.com:2082/live/Gustavo2019/gustavo2019/346.rtmp
@@ -2610,11 +2634,17 @@ http://locomotiontv.com/envivo/loco_channel/stream.m3u8
 #EXTINF:-1 tvg-logo="https://www.natgeokidsla.com/img/logo-3d.7a64e4ed.png" group-title="32- INFANTIL LATINO",Nat Geo Kids (1)
 http://51.77.246.215:25461/live/bayron/bayron/166761.rtmp
 
+#EXTINF:-1 tvg-logo="https://www.natgeokidsla.com/img/logo-3d.7a64e4ed.png" group-title="32- INFANTIL LATINO",Nat Geo Kids (2)
+http://ummodigital.com:2082/live/Donald1/Donald1/3799.rtmp
+
 #EXTINF:-1 tvg-logo="https://www.natgeokidsla.com/img/logo-3d.7a64e4ed.png" group-title="32- INFANTIL LATINO",Nat Geo Kids (4)
 http://ummodigital.com:2082/live/Gustavo2019/gustavo2019/3799.rtmp
 
 #EXTINF:-1 tvg-logo="https://www.e-channel.ec/blog/wp-content/uploads/2015/09/NICK.png" group-title="32- INFANTIL LATINO",Nickelodeon (1)
 http://51.77.246.215:25461/live/bayron/bayron/41146.rtmp
+
+#EXTINF:-1 tvg-logo="https://www.e-channel.ec/blog/wp-content/uploads/2015/09/NICK.png" group-title="32- INFANTIL LATINO",Nickelodeon (2)
+http://ummodigital.com:2082/live/Donald1/Donald1/1401.rtmp
 
 #EXTINF:-1 tvg-logo="https://www.e-channel.ec/blog/wp-content/uploads/2015/09/NICK.png" group-title="32- INFANTIL LATINO",Nickelodeon (4)
 http://ummodigital.com:2082/live/Gustavo2019/gustavo2019/1401.rtmp
@@ -2622,17 +2652,26 @@ http://ummodigital.com:2082/live/Gustavo2019/gustavo2019/1401.rtmp
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_nickelodeon-hd_m.png" group-title="32- INFANTIL LATINO",Nick 2 (1)
 http://51.77.246.215:25461/live/bayron/bayron/42147.rtmp
 
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_nickelodeon-hd_m.png" group-title="32- INFANTIL LATINO",Nick 2 (2)
+http://ummodigital.com:2082/live/Donald1/Donald1/5078.rtmp
+
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_nickelodeon-hd_m.png" group-title="32- INFANTIL LATINO",Nick 2 (4)
 http://ummodigital.com:2082/live/Gustavo2019/gustavo2019/5078.rtmp
 
 #EXTINF:-1 tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/NICK%20JR.png" group-title="32- INFANTIL LATINO",Nick Junior (1)
 http://51.77.246.215:25461/live/bayron/bayron/42150.rtmp
 
+#EXTINF:-1 tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/NICK%20JR.png" group-title="32- INFANTIL LATINO",Nick Junior (2)
+http://ummodigital.com:2082/live/Donald1/Donald1/4650.rtmp
+
 #EXTINF:-1 tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/NICK%20JR.png" group-title="32- INFANTIL LATINO",Nick Junior (4)
 http://ummodigital.com:2082/live/Gustavo2019/gustavo2019/4650.rtmp
 
 #EXTINF:-1 tvg-logo="http://logo-load.com/uploads/posts/2016-03/1459331737_nicktoons-logo.png" group-title="32- INFANTIL LATINO",Nick Toons (1)
 http://51.77.246.215:25461/live/bayron/bayron/39009.rtmp
+
+#EXTINF:-1 tvg-logo="http://logo-load.com/uploads/posts/2016-03/1459331737_nicktoons-logo.png" group-title="32- INFANTIL LATINO",Nick Toons (2)
+http://ummodigital.com:2082/live/Donald1/Donald1/392.rtmp
 
 #EXTINF:-1 tvg-logo="http://logo-load.com/uploads/posts/2016-03/1459331737_nicktoons-logo.png" group-title="32- INFANTIL LATINO",Nick Toons (4)
 http://ummodigital.com:2082/live/Gustavo2019/gustavo2019/392.rtmp
@@ -2643,8 +2682,14 @@ http://ummodigital.com:2082/live/Gustavo2019/gustavo2019/392.rtmp
 #EXTINF:-1 tvg-logo="https://t3.kn3.net/taringa/A/7/E/6/A/C/RevolucionCN/83A.png" group-title="32- INFANTIL LATINO",Tooncast (1)
 http://51.77.246.215:25461/live/bayron/bayron/61978.rtmp
 
+#EXTINF:-1 tvg-logo="https://t3.kn3.net/taringa/A/7/E/6/A/C/RevolucionCN/83A.png" group-title="32- INFANTIL LATINO",Tooncast (2)
+http://ummodigital.com:2082/live/Donald1/Donald1/412.rtmp
+
 #EXTINF:-1 tvg-logo="https://t3.kn3.net/taringa/A/7/E/6/A/C/RevolucionCN/83A.png" group-title="32- INFANTIL LATINO",Tooncast (4)
 http://ummodigital.com:2082/live/Gustavo2019/gustavo2019/412.rtmp
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/EBEhFwUXoAMSYue.png" group-title="32- INFANTIL LATINO",Vme Kids (2)
+http://ummodigital.com:2082/live/Donald1/Donald1/7913.rtmp
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/EBEhFwUXoAMSYue.png" group-title="32- INFANTIL LATINO",Vme Kids (4)
 http://ummodigital.com:2082/live/Gustavo2019/gustavo2019/7913.rtmp
