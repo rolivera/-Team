@@ -24,10 +24,10 @@ http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://futbolhoy.com.ar/wp-content/uploads/2019/03/A24.png" group-title="03- ARGENTINA",A24
 
 
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/America-TV.png" group-title="03- ARGENTINA",America
-http://ummodigital.com:2082/live/Mike2019/mike2019/3569.rtmp
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/America-TV.png" group-title="03- ARGENTINA",America (2)
+http://ummodigital.com:2082/live/Donald1/Donald1/3569.rtmp
 
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/America-TV.png" group-title="03- ARGENTINA",America
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/America-TV.png" group-title="03- ARGENTINA",America (4)
 http://ummodigital.com:2082/live/Gustavo2019/gustavo2019/3569.rtmp
 
 #EXTINF:-1 tvg-logo="https://img3.androidappsapk.co/300/7/0/6/net.coninfo.admin.trecemaxtelevisin.png" group-title="03- ARGENTINA",13 Max SD
@@ -57,10 +57,10 @@ http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/677195098405412864/w1GSVqNs_400x400.png" group-title="03- ARGENTINA",CN3
 http://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://ipuntotv.com/IMAGES/ElTreceHD2012.jpg" group-title="03- ARGENTINA",El Trece
-http://ummodigital.com:2082/live/Mike2019/mike2019/3555.rtmp
+#EXTINF:-1 tvg-logo="http://ipuntotv.com/IMAGES/ElTreceHD2012.jpg" group-title="03- ARGENTINA",El Trece (2)
+http://ummodigital.com:2082/live/Donald1/Donald1/3555.rtmp
 
-#EXTINF:-1 tvg-logo="http://ipuntotv.com/IMAGES/ElTreceHD2012.jpg" group-title="03- ARGENTINA",El Trece
+#EXTINF:-1 tvg-logo="http://ipuntotv.com/IMAGES/ElTreceHD2012.jpg" group-title="03- ARGENTINA",El Trece (4)
 http://ummodigital.com:2082/live/Gustavo2019/gustavo2019/3555.rtmp
 
 #EXTINF:-1 tvg-logo="http://www.mundou.edu.ar/img/canales/a1v2ltjc.png" group-title="03- ARGENTINA",Litus
@@ -75,7 +75,10 @@ http://unlimited2-us.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="03- ARGENTINA",Telefe (1)
 http://51.77.246.215:25461/live/bayron/bayron/244031.rtmp
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="03- ARGENTINA",Telefe
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="03- ARGENTINA",Telefe (2)
+http://ummodigital.com:2082/live/Donald1/Donald1/4444.rtmp
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="03- ARGENTINA",Telefe (4)
 http://ummodigital.com:2082/live/Gustavo2019/gustavo2019/4444.rtmp
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/506483696065449984/BATn-jAe.png" group-title="03- ARGENTINA",Telpin
@@ -286,8 +289,8 @@ http://streaming.elpinguino.com:1935/live/pinguinotv_720p/hasbahca.m3u8?GrupoTop
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1080966471730159616/02VhbJeN_400x400.jpg" group-title="06- CHILE",Holvoet TV
 http://unlimited5-cl.dps.live/holvoettv/holvoettv.smil/playlist.m3u8?GrupoTopIptv
 
-#EXTINF:-1 tvg-logo="https://blogvecindad.com/wp-content/uploads/2015/11/Mega_Chile_Alternate_Logo.png" group-title="06- CHILE",Mega
-http://ummodigital.com:2082/live/Mike2019/mike2019/3095.rtmp
+#EXTINF:-1 tvg-logo="https://blogvecindad.com/wp-content/uploads/2015/11/Mega_Chile_Alternate_Logo.png" group-title="06- CHILE",Mega (2)
+http://ummodigital.com:2082/live/Donald1/Donald1/3095.rtmp
 
 #EXTINF:-1 tvg-logo="https://img8.androidappsapk.co/300/8/b/3/com.trece.t13.png" group-title="06- CHILE",T13
 http://c13-ply.janus.cl/playlist/stream.m3u8?s=c13hd
@@ -442,10 +445,16 @@ http://51.77.246.215:25461/live/bayron/bayron/42146.rtmp
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_az-corazon_m.png" group-title="13- MEXICO",Az Corazon (1)
 http://51.77.246.215:25461/live/bayron/bayron/42113.rtmp
 
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_az-corazon_m.png" group-title="13- MEXICO",Az Corazon (2)
+http://ummodigital.com:2082/live/Donald1/Donald1/1362.rtmp
+
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_az-corazon_m.png" group-title="13- MEXICO",Az Corazon (4)
 http://ummodigital.com:2082/live/Gustavo2019/gustavo2019/1362.rtmp
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_az-mundo-hd_m.png" group-title="13- MEXICO",Az Mundo
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_az-mundo-hd_m.png" group-title="13- MEXICO",Az Mundo (2)
+http://ummodigital.com:2082/live/Donald1/Donald1/4808.rtmp
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_az-mundo-hd_m.png" group-title="13- MEXICO",Az Mundo (4)
 http://ummodigital.com:2082/live/Gustavo2019/gustavo2019/4808.rtmp
 
 #EXTINF:-1 tvg-logo="https://www.nssoaxaca.com/wp-content/uploads/2018/01/Azteca.jpg" group-title="13- MEXICO",Azteca 1 (1)
@@ -453,6 +462,9 @@ http://51.77.246.215:25461/live/bayron/bayron/8717.rtmp
 
 #EXTINF:-1 tvg-logo="https://roku-zapopan8.webnode.mx/_files/200000035-3711338065/mx_azteca-7_m.png" group-title="13- MEXICO",Azteca 7 (1)
 http://51.77.246.215:25461/live/bayron/bayron/19391.rtmp
+
+#EXTINF:-1 tvg-logo="https://roku-zapopan8.webnode.mx/_files/200000035-3711338065/mx_azteca-7_m.png" group-title="13- MEXICO",Azteca 7 (2)
+http://ummodigital.com:2082/live/Donald1/Donald1/1359.rtmp
 
 #EXTINF:-1 tvg-logo="https://roku-zapopan8.webnode.mx/_files/200000035-3711338065/mx_azteca-7_m.png" group-title="13- MEXICO",Azteca 7 (4)
 http://ummodigital.com:2082/live/Gustavo2019/gustavo2019/1359.rtmp
@@ -466,11 +478,17 @@ https://aztecalive-lh.akamaihd.net/i/0qfv8evsp_1@458764/index_3_av-p.m3u8?sd=10&
 #EXTINF:-1 tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/400x300_1845/Source/46261/canal5hd.png" group-title="13- MEXICO",Canal 5 (1)
 http://51.77.246.215:25461/live/bayron/bayron/1684.rtmp
 
+#EXTINF:-1 tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/400x300_1845/Source/46261/canal5hd.png" group-title="13- MEXICO",Canal 5 (2)
+http://ummodigital.com:2082/live/Donald1/Donald1/1366.rtmp
+
 #EXTINF:-1 tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/400x300_1845/Source/46261/canal5hd.png" group-title="13- MEXICO",Canal 5 (4)
 http://ummodigital.com:2082/live/Gustavo2019/gustavo2019/1366.rtmp
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_canal-de-las-estrellas_m.png" group-title="13- MEXICO",Canal de las Estrellas (1)
 http://51.77.246.215:25461/live/bayron/bayron/5221.rtmp
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_canal-de-las-estrellas_m.png" group-title="13- MEXICO",Canal de las Estrellas (2)
+http://ummodigital.com:2082/live/Donald1/Donald1/1367.rtmp
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_canal-de-las-estrellas_m.png" group-title="13- MEXICO",Canal de las Estrellas (4)
 http://ummodigital.com:2082/live/Gustavo2019/gustavo2019/1367.rtmp
@@ -484,7 +502,10 @@ http://wowza.zuperdns.net:1935/zuperhosting.live.grupob.canal20zacatecas/smil:li
 #EXTINF:-1 tvg-logo="https://tvnotiblog.com/wp-content/uploads/2013/11/logo-canal-once-1024x791.png" group-title="13- MEXICO",Canal Once
 http://51.77.246.215:25461/live/bayron/bayron/15646.rtmp
 
-#EXTINF:-1 tvg-logo="https://tvnotiblog.com/wp-content/uploads/2013/11/logo-canal-once-1024x791.png" group-title="13- MEXICO",Canal Once
+#EXTINF:-1 tvg-logo="https://tvnotiblog.com/wp-content/uploads/2013/11/logo-canal-once-1024x791.png" group-title="13- MEXICO",Canal Once (2)
+http://ummodigital.com:2082/live/Donald1/Donald1/393.rtmp
+
+#EXTINF:-1 tvg-logo="https://tvnotiblog.com/wp-content/uploads/2013/11/logo-canal-once-1024x791.png" group-title="13- MEXICO",Canal Once (4)
 http://ummodigital.com:2082/live/Gustavo2019/gustavo2019/393.rtmp
 
 #EXTINF:-1 tvg-logo="https://tvnotiblog.com/wp-content/uploads/2013/11/logo-canal-once-1024x791.png" group-title="13- MEXICO",Canal Once
@@ -493,7 +514,10 @@ https://180ce25c70.site.internapcdn.net/ryta_live/chunklist_b481072.m3u8
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/Capital21.png" group-title="13- MEXICO",Capital 21
 http://23.227.189.81/ciudadtv/abr_ciudadtv/playlist.m3u8?GrupoTopIptv
 
-#EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/galavision_320.jpg" group-title="13- MEXICO",Galavision
+#EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/galavision_320.jpg" group-title="13- MEXICO",Galavision (2)
+http://ummodigital.com:2082/live/Donald1/Donald1/6849.rtmp
+
+#EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/galavision_320.jpg" group-title="13- MEXICO",Galavision (4)
 http://ummodigital.com:2082/live/Gustavo2019/gustavo2019/6849.rtmp
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/11/milenio-TV.png" group-title="13- MEXICO",Milenio
@@ -514,8 +538,14 @@ http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8?GrupoTopIptv
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/telemar.png" group-title="13- MEXICO",Telemar
 http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u
 
+#EXTINF:-1 tvg-logo="https://www.telemundo.com/sites/nbcutelemundo/themes/aurora_tlmd/images/telemundo_logo.png" group-title="13- MEXICO",Telemundo (2)
+http://ummodigital.com:2082/live/Donald1/Donald1/3296.rtmp
+
 #EXTINF:-1 tvg-logo="https://www.telemundo.com/sites/nbcutelemundo/themes/aurora_tlmd/images/telemundo_logo.png" group-title="13- MEXICO",Telemundo (4)
 http://ummodigital.com:2082/live/Gustavo2019/gustavo2019/3296.rtmp
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_tlnovelas_m.png" group-title="13- MEXICO",Tlnovelas (2)
+http://ummodigital.com:2082/live/Donald1/Donald1/4668.rtmp
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_tlnovelas_m.png" group-title="13- MEXICO",Tlnovelas (4)
 http://ummodigital.com:2082/live/Gustavo2019/gustavo2019/4668.rtmp
@@ -526,14 +556,26 @@ http://51.77.246.215:25461/live/bayron/bayron/34675.rtmp
 #EXTINF:-1 tvg-logo="http://televisatvdepaga.com/wp-content/uploads/2017/08/unicable.jpg" group-title="13- MEXICO",Unicable (1)
 http://51.77.246.215:25461/live/bayron/bayron/8553.rtmp
 
+#EXTINF:-1 tvg-logo="http://televisatvdepaga.com/wp-content/uploads/2017/08/unicable.jpg" group-title="13- MEXICO",Unicable (2)
+http://ummodigital.com:2082/Donald1/Donald1/650.rtmp
+
 #EXTINF:-1 tvg-logo="http://televisatvdepaga.com/wp-content/uploads/2017/08/unicable.jpg" group-title="13- MEXICO",Unicable (4)
 http://ummodigital.com:2082/Gustavo2019/gustavo2019/650.rtmp
 
-#EXTINF:-1 tvg-logo="http://static-cdn2.ustream.tv/i/channel/picture/1/7/4/0/17406211/17406211,640x360,b:2.jpg" group-title="13- MEXICO",Unimas
+#EXTINF:-1 tvg-logo="http://static-cdn2.ustream.tv/i/channel/picture/1/7/4/0/17406211/17406211,640x360,b:2.jpg" group-title="13- MEXICO",Unimas (2)
+http://ummodigital.com:2082/live/Donald1/Donald1/6850.rtmp
+
+#EXTINF:-1 tvg-logo="http://static-cdn2.ustream.tv/i/channel/picture/1/7/4/0/17406211/17406211,640x360,b:2.jpg" group-title="13- MEXICO",Unimas (4)
 http://ummodigital.com:2082/live/Gustavo2019/gustavo2019/6850.rtmp
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/U/univision-logo-14BBF1BA5F-seeklogo.com.png" group-title="13- MEXICO",Univision
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/U/univision-logo-14BBF1BA5F-seeklogo.com.png" group-title="13- MEXICO",Univision (2)
+http://ummodigital.com:2082/live/Donald1/Donald1/3298.rtmp
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/U/univision-logo-14BBF1BA5F-seeklogo.com.png" group-title="13- MEXICO",Univision (4)
 http://ummodigital.com:2082/live/Gustavo2019/gustavo2019/3298.rtmp
+
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-f2Bs9iD3FqE/Vr_1tv9AjYI/AAAAAAAAzjw/uqjSpCsbbfg/s1600/univision-tlnovelas-logo.jpg" group-title="13- MEXICO",Univision Telenovelas (2)
+http://ummodigital.com:2082/live/Donald1/Donald1/10208.rtmp
 
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-f2Bs9iD3FqE/Vr_1tv9AjYI/AAAAAAAAzjw/uqjSpCsbbfg/s1600/univision-tlnovelas-logo.jpg" group-title="13- MEXICO",Univision Telenovelas (4)
 http://ummodigital.com:2082/live/Gustavo2019/gustavo2019/10208.rtmp
@@ -586,35 +628,35 @@ https://stream.vagalume.fm/hls/1507663468882713/aac.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_america-television_m.png" group-title="17- PERU",America tv
 http://xse.jfglno.com:23618/live/cyx-98B9F781486Da1b7D7B501B2F69C.ts
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_america-television_m.png" group-title="17- PERU",America tv (3)
-http://ummodigital.com:2082/live/Mike2019/mike2019/5459.rtmp
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_america-television_m.png" group-title="17- PERU",America tv (2)
+http://ummodigital.com:2082/live/Donald1/Donald1/5459.rtmp
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_america-television_m.png" group-title="17- PERU",America tv (4)
 http://ummodigital.com:2082/live/Gustavo2019/gustavo2019/5459.rtmp
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_america-television_m.png" group-title="17- PERU",America tv (5)
-http://ummodigital.com:2082/live/Maria69/Maria69/5459.rtmp
+
 
 #EXTINF:-1 tvg-logo="https://www.jssor.com/andre89/tv-antares.png" group-title="17- PERU",Antares
 
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/atv-peru-logo-5506CAAD40-seeklogo.com.png" group-title="17- PERU",Atv (3)
-http://ummodigital.com:2082/live/Mike2019/mike2019/862.rtmp
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/atv-peru-logo-5506CAAD40-seeklogo.com.png" group-title="17- PERU",Atv (2)
+http://ummodigital.com:2082/live/Donald1/Donald1/862.rtmp
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/atv-peru-logo-5506CAAD40-seeklogo.com.png" group-title="17- PERU",Atv (4)
 http://ummodigital.com:2082/live/Gustavo2019/gustavo2019/862.rtmp
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/atv-peru-logo-5506CAAD40-seeklogo.com.png" group-title="17- PERU",Atv (5)
-http://ummodigital.com:2082/live/Maria69/Maria69/862.rtmp
 
-#EXTINF:-1 tvg-logo="https://peru.mom-rsf.org/typo3temp/_processed_/4/7/csm_2013-205_import_95c305c25d.png" group-title="17- PERU",Atv Noticias (3)
-http://ummodigital.com:2082/live/Mike2019/mike2019/4949.rtmp
+
+#EXTINF:-1 tvg-logo="https://peru.mom-rsf.org/typo3temp/_processed_/4/7/csm_2013-205_import_95c305c25d.png" group-title="17- PERU",Atv Noticias (2)
+http://ummodigital.com:2082/live/Donald1/Donald1/4949.rtmp
 
 #EXTINF:-1 tvg-logo="https://peru.mom-rsf.org/typo3temp/_processed_/4/7/csm_2013-205_import_95c305c25d.png" group-title="17- PERU",Atv Noticias (4)
 http://ummodigital.com:2082/live/Gustavo2019/gustavo2019/4949.rtmp
 
 #EXTINF:-1 tvg-logo="https://peru.mom-rsf.org/typo3temp/_processed_/4/7/csm_2013-205_import_95c305c25d.png" group-title="17- PERU",Atv Noticias (5)
-http://ummodigital.com:2082/live/Maria69/Maria69/4949.rtmp
+
 
 #EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/3781231/logo_cultura%2024.png" group-title="17- PERU",Cultura 24 TV
 http://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8
@@ -628,32 +670,32 @@ http://movil.mediastream.pe/vv_manosdios/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-zONwKyIGEe8/US6GONLKNMI/AAAAAAAAH50/PXQ17OgMMAg/s1600/paxtv.png" group-title="17- PERU",Pax TV
 http://d2fxrfbiedz1tm.cloudfront.net/livepaxtv/smil:PC.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.smg-roi.com/wp-content/uploads/2018/05/image65-1-600x450.jpg" group-title="17- PERU",Peru Magico (3)
-http://ummodigital.com:2082/live/Mike2019/mike2019/8044.rtmp
+#EXTINF:-1 tvg-logo="http://www.smg-roi.com/wp-content/uploads/2018/05/image65-1-600x450.jpg" group-title="17- PERU",Peru Magico (2)
+http://ummodigital.com:2082/live/Donald1/Donald1/8044.rtmp
 
 #EXTINF:-1 tvg-logo="http://www.smg-roi.com/wp-content/uploads/2018/05/image65-1-600x450.jpg" group-title="17- PERU",Peru Magico (4)
 http://ummodigital.com:2082/live/Gustavo2019/gustavo2019/8044.rtmp
 
 #EXTINF:-1 tvg-logo="http://www.smg-roi.com/wp-content/uploads/2018/05/image65-1-600x450.jpg" group-title="17- PERU",Peru Magico (5)
-http://ummodigital.com:2082/live/Maria69/Maria69/8044.rtmp
 
-#EXTINF:-1 tvg-logo="http://www.canalsur.com/imagenes/logo_surperu.jpg" group-title="17- PERU",Sur Peru (3)
-http://ummodigital.com:2082/live/Mike2019/mike2019/6996.rtmp
+
+#EXTINF:-1 tvg-logo="http://www.canalsur.com/imagenes/logo_surperu.jpg" group-title="17- PERU",Sur Peru (2)
+http://ummodigital.com:2082/live/Donald1/Donald1/6996.rtmp
 
 #EXTINF:-1 tvg-logo="http://www.canalsur.com/imagenes/logo_surperu.jpg" group-title="17- PERU",Sur Peru (4)
 http://ummodigital.com:2082/live/Gustavo2019/gustavo2019/6996.rtmp
 
 #EXTINF:-1 tvg-logo="http://www.canalsur.com/imagenes/logo_surperu.jpg" group-title="17- PERU",Sur Peru (5)
-http://ummodigital.com:2082/live/Maria69/Maria69/6996.rtmp
 
-#EXTINF:-1 tvg-logo="https://www.neourbe.pe/wp-content/uploads/2019/02/tv-noticias.png" group-title="17- PERU",TV Noticias 7.3 (3)
-http://ummodigital.com:2082/live/Mike2019/mike2019/869.rtmp
+
+#EXTINF:-1 tvg-logo="https://www.neourbe.pe/wp-content/uploads/2019/02/tv-noticias.png" group-title="17- PERU",TV Noticias 7.3 (2)
+http://ummodigital.com:2082/live/Donald1/Donald1/869.rtmp
 
 #EXTINF:-1 tvg-logo="https://www.neourbe.pe/wp-content/uploads/2019/02/tv-noticias.png" group-title="17- PERU",TV Noticias 7.3 (4)
 http://ummodigital.com:2082/live/Gustavo2019/gustavo2019/869.rtmp
 
 #EXTINF:-1 tvg-logo="https://www.neourbe.pe/wp-content/uploads/2019/02/tv-noticias.png" group-title="17- PERU",TV Noticias 7.3 (5)
-http://ummodigital.com:2082/live/Maria69/Maria69/869.rtmp
+
 
 #EXTINF:-1 tvg-logo="https://www.neourbe.pe/wp-content/uploads/2019/02/tv-noticias.png" group-title="17- PERU",TV Noticias 7.3
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIPE0002&mode=12
@@ -664,14 +706,14 @@ http://cdnh15.iblups.com/hls/R9WtilpKKB.m3u8
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-Mcc2xCpSKWQ/UF6PxaiQZYI/AAAAAAAACQU/BLm5ZUhxzfs/s1600/LOGOTVPERU.jpg" group-title="17- PERU",TV Perú SD
 http://cdnh4.iblups.com/hls/irtp.m3u8
 
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-Mcc2xCpSKWQ/UF6PxaiQZYI/AAAAAAAACQU/BLm5ZUhxzfs/s1600/LOGOTVPERU.jpg" group-title="17- PERU",TV Perú (3)
-http://ummodigital.com:2082/live/Mike2019/mike2019/867.rtmp
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-Mcc2xCpSKWQ/UF6PxaiQZYI/AAAAAAAACQU/BLm5ZUhxzfs/s1600/LOGOTVPERU.jpg" group-title="17- PERU",TV Perú (2)
+http://ummodigital.com:2082/live/Donald1/Donald1/867.rtmp
 
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-Mcc2xCpSKWQ/UF6PxaiQZYI/AAAAAAAACQU/BLm5ZUhxzfs/s1600/LOGOTVPERU.jpg" group-title="17- PERU",TV Perú (4)
 http://ummodigital.com:2082/live/Gustavo2019/gustavo2019/867.rtmp
 
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-Mcc2xCpSKWQ/UF6PxaiQZYI/AAAAAAAACQU/BLm5ZUhxzfs/s1600/LOGOTVPERU.jpg" group-title="17- PERU",TV Perú (5)
-http://ummodigital.com:2082/live/Maria69/Maria69/867.rtmp
+
 
 ######################################################################################################################################
 ####################################### PORTUGAL
