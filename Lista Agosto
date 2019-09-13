@@ -66,11 +66,14 @@ http://ummodigital.com:2082/live/Gustavo2019/gustavo2019/3555.rtmp
 #EXTINF:-1 tvg-logo="http://www.mundou.edu.ar/img/canales/a1v2ltjc.png" group-title="03- ARGENTINA",Litus
 http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8?GrupoTopIptv
 
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/09/canal-9-multivision.png" group-title="03- ARGENTINA",Multivision (1)
+http://51.77.246.215:25461/live/bayron/bayron/244032.rtmp
+
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/08/NETargentina.png/revision/latest?cb=20180702162652" group-title="03- ARGENTINA",Net TV
 http://unlimited2-us.dps.live/nettv/nettv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="03- ARGENTINA",Telefe
-http://ummodigital.com:2082/live/Mike2019/mike2019/4444.rtmp
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="03- ARGENTINA",Telefe (1)
+http://51.77.246.215:25461/live/bayron/bayron/244031.rtmp
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="03- ARGENTINA",Telefe
 http://ummodigital.com:2082/live/Gustavo2019/gustavo2019/4444.rtmp
@@ -307,14 +310,26 @@ http://cl.origin.grupoz.cl:1935/uestv/live/playlist.m3u8
 https://stream.vagalume.fm/hls/147015501223418/aac.m3u8
 #######################################
 
+#EXTINF:-1 tvg-logo="https://i.blogs.es/600870/dh-authxuaay8uc/450_1000.jpg" group-title="07- COLOMBIA",Caracol Internacional
+http://51.77.246.215:25461/live/bayron/bayron/61921.rtmp
+
+#EXTINF:-1 tvg-logo="http://104.236.16.159/wp-content/uploads/2009/09/citytv.jpg" group-title="07- COLOMBIA",City tv
+http://51.77.246.215:25461/live/bayron/bayron/246459.rtmp
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/386408609/cnc2_400x400.png" group-title="07- COLOMBIA",CNC 
 http://66.240.236.25:1936/canalcnc/canalcnc/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.zetatv.com.uy/getimageurl/800x1200/center/zpapi.zetatv.com.uy/media/images/pasiones_XBS7OEf.png" group-title="07- COLOMBIA",Pasiones 
+http://51.77.246.215:25461/live/bayron/bayron/265976.rtmp
 
 #EXTINF:-1 tvg-logo="http://www.ranchenatotv.co/wp-content/uploads/2018/10/500PX.png" group-title="07- COLOMBIA",Ranchenato
 http://66.240.236.25:1936/ranchenato/ranchenato/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/02/redmas.png" group-title="07- COLOMBIA",Red Mas
+#EXTINF:-1 tvg-logo="http://html.canalrcn.com/CanalRCN/react/images/RCN-RCNTELEVISION-logo21.png" group-title="07- COLOMBIA",RCN
+http://51.77.246.215:25461/live/bayron/bayron/265979.rtmp
 
+#EXTINF:-1 tvg-logo="http://condista.com/wp-content/uploads/2018/08/RCN-Novelas.jpg" group-title="07- COLOMBIA",RCN Novelas
+http://51.77.246.215:25461/live/bayron/bayron/265977.rtmp
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/telecaribe.png" group-title="07- COLOMBIA",Telecaribe
 http://telecaribe-hd.gcdn.anvato.net/hls/live/telecaribehd/2196k/index.m3u8
@@ -322,8 +337,11 @@ http://telecaribe-hd.gcdn.anvato.net/hls/live/telecaribehd/2196k/index.m3u8
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/telecaribe.png" group-title="07- COLOMBIA",Telecaribe
 http://telecaribe-deportes.gcdn.anvato.net/hls/live/telecaribedeporteshd2/2196k/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/canal-trece-colombia-2012-2016-logo-286AB7AB77-seeklogo.com.png" group-title="07- COLOMBIA",Trece
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/canal-trece-colombia-2012-2016-logo-286AB7AB77-seeklogo.com.png" group-title="07- COLOMBIA",Trece SD
 https://cdn.logicideas.media/canaltrece-live/smil:canal13.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/canal-trece-colombia-2012-2016-logo-286AB7AB77-seeklogo.com.png" group-title="07- COLOMBIA",Trece
+http://51.77.246.215:25461/live/bayron/bayron/266007.rtmp
 
 #####################################################################################################################################
 ####################################### COSTA RICA
@@ -418,14 +436,26 @@ http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
 https://stream.vagalume.fm/hls/147015499779090/aac.m3u8
 #######################################
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_az-corazon_m.png" group-title="13- MEXICO",Az Corazon
-http://ummodigital.com:2082/live/Mike2019/mike2019/1362.rtmp
+#EXTINF:-1 tvg-logo="http://www.tvcomsahagun.com/img/canales/az_clic.png" group-title="13- MEXICO",Az Clic (1)
+http://51.77.246.215:25461/live/bayron/bayron/42146.rtmp
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_az-corazon_m.png" group-title="13- MEXICO",Az Corazon (1)
+http://51.77.246.215:25461/live/bayron/bayron/42113.rtmp
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_az-corazon_m.png" group-title="13- MEXICO",Az Corazon (4)
+http://ummodigital.com:2082/live/Gustavo2019/gustavo2019/1362.rtmp
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_az-mundo-hd_m.png" group-title="13- MEXICO",Az Mundo
-http://ummodigital.com:2082/live/Mike2019/mike2019/4808.rtmp
+http://ummodigital.com:2082/live/Gustavo2019/gustavo2019/4808.rtmp
 
-#EXTINF:-1 tvg-logo="https://roku-zapopan8.webnode.mx/_files/200000035-3711338065/mx_azteca-7_m.png" group-title="13- MEXICO",Azteca 7
-http://ummodigital.com:2082/live/Mike2019/mike2019/1359.rtmp
+#EXTINF:-1 tvg-logo="https://www.nssoaxaca.com/wp-content/uploads/2018/01/Azteca.jpg" group-title="13- MEXICO",Azteca 1 (1)
+http://51.77.246.215:25461/live/bayron/bayron/8717.rtmp
+
+#EXTINF:-1 tvg-logo="https://roku-zapopan8.webnode.mx/_files/200000035-3711338065/mx_azteca-7_m.png" group-title="13- MEXICO",Azteca 7 (1)
+http://51.77.246.215:25461/live/bayron/bayron/19391.rtmp
+
+#EXTINF:-1 tvg-logo="https://roku-zapopan8.webnode.mx/_files/200000035-3711338065/mx_azteca-7_m.png" group-title="13- MEXICO",Azteca 7 (4)
+http://ummodigital.com:2082/live/Gustavo2019/gustavo2019/1359.rtmp
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/C80W69PVwAAy6mF.jpg:large" group-title="13- MEXICO",Azteca + 
 https://aztecalive-lh.akamaihd.net/i/0qfv8evsp_1@458764/index_3_av-p.m3u8?sd=10&rebase=on
@@ -433,23 +463,17 @@ https://aztecalive-lh.akamaihd.net/i/0qfv8evsp_1@458764/index_3_av-p.m3u8?sd=10&
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_az-cinema_m.png" group-title="13- MEXICO",Azteca Cinema
 
 
-#EXTINF:-1 tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/400x300_1845/Source/46261/canal5hd.png" group-title="13- MEXICO",Canal 5 (3)
-http://ummodigital.com:2082/live/Mike2019/mike2019/1366.rtmp
+#EXTINF:-1 tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/400x300_1845/Source/46261/canal5hd.png" group-title="13- MEXICO",Canal 5 (1)
+http://51.77.246.215:25461/live/bayron/bayron/1684.rtmp
 
 #EXTINF:-1 tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/400x300_1845/Source/46261/canal5hd.png" group-title="13- MEXICO",Canal 5 (4)
 http://ummodigital.com:2082/live/Gustavo2019/gustavo2019/1366.rtmp
 
-#EXTINF:-1 tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/400x300_1845/Source/46261/canal5hd.png" group-title="13- MEXICO",Canal 5 (5)
-http://ummodigital.com:2082/live/Maria69/Maria69/1366.rtmp
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_canal-de-las-estrellas_m.png" group-title="13- MEXICO",Canal de las Estrellas (3)
-http://ummodigital.com:2082/live/Mike2019/mike2019/1367.rtmp
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_canal-de-las-estrellas_m.png" group-title="13- MEXICO",Canal de las Estrellas (1)
+http://51.77.246.215:25461/live/bayron/bayron/5221.rtmp
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_canal-de-las-estrellas_m.png" group-title="13- MEXICO",Canal de las Estrellas (4)
 http://ummodigital.com:2082/live/Gustavo2019/gustavo2019/1367.rtmp
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_canal-de-las-estrellas_m.png" group-title="13- MEXICO",Canal de las Estrellas (5)
-http://ummodigital.com:2082/live/Maria69/Maria69/1367.rtmp
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/canal10cancum.png" group-title="13- MEXICO",Canal 10 Cancún
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8?GrupoTopIptv
@@ -458,7 +482,10 @@ http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8?GrupoTopIptv
 http://wowza.zuperdns.net:1935/zuperhosting.live.grupob.canal20zacatecas/smil:livestream.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvnotiblog.com/wp-content/uploads/2013/11/logo-canal-once-1024x791.png" group-title="13- MEXICO",Canal Once
-http://ummodigital.com:2082/live/Mike2019/mike2019/393.rtmp
+http://51.77.246.215:25461/live/bayron/bayron/15646.rtmp
+
+#EXTINF:-1 tvg-logo="https://tvnotiblog.com/wp-content/uploads/2013/11/logo-canal-once-1024x791.png" group-title="13- MEXICO",Canal Once
+http://ummodigital.com:2082/live/Gustavo2019/gustavo2019/393.rtmp
 
 #EXTINF:-1 tvg-logo="https://tvnotiblog.com/wp-content/uploads/2013/11/logo-canal-once-1024x791.png" group-title="13- MEXICO",Canal Once
 https://180ce25c70.site.internapcdn.net/ryta_live/chunklist_b481072.m3u8
@@ -467,7 +494,7 @@ https://180ce25c70.site.internapcdn.net/ryta_live/chunklist_b481072.m3u8
 http://23.227.189.81/ciudadtv/abr_ciudadtv/playlist.m3u8?GrupoTopIptv
 
 #EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/galavision_320.jpg" group-title="13- MEXICO",Galavision
-http://ummodigital.com:2082/live/Mike2019/mike2019/6849.rtmp
+http://ummodigital.com:2082/live/Gustavo2019/gustavo2019/6849.rtmp
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/11/milenio-TV.png" group-title="13- MEXICO",Milenio
 http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
@@ -487,41 +514,29 @@ http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8?GrupoTopIptv
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/telemar.png" group-title="13- MEXICO",Telemar
 http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u
 
-#EXTINF:-1 tvg-logo="https://www.telemundo.com/sites/nbcutelemundo/themes/aurora_tlmd/images/telemundo_logo.png" group-title="13- MEXICO",Telemundo (3)
-http://ummodigital.com:2082/live/Mike2019/mike2019/3296.rtmp
-
 #EXTINF:-1 tvg-logo="https://www.telemundo.com/sites/nbcutelemundo/themes/aurora_tlmd/images/telemundo_logo.png" group-title="13- MEXICO",Telemundo (4)
 http://ummodigital.com:2082/live/Gustavo2019/gustavo2019/3296.rtmp
-
-#EXTINF:-1 tvg-logo="https://www.telemundo.com/sites/nbcutelemundo/themes/aurora_tlmd/images/telemundo_logo.png" group-title="13- MEXICO",Telemundo (5)
-http://ummodigital.com:2082/live/Maria69/Maria69/3296.rtmp
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_tlnovelas_m.png" group-title="13- MEXICO",Tlnovelas (3)
-http://ummodigital.com:2082/live/Mike2019/mike2019/4668.rtmp
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_tlnovelas_m.png" group-title="13- MEXICO",Tlnovelas (4)
 http://ummodigital.com:2082/live/Gustavo2019/gustavo2019/4668.rtmp
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_tlnovelas_m.png" group-title="13- MEXICO",Tlnovelas (5)
-http://ummodigital.com:2082/live/Maria69/Maria69/4668.rtmp
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_tvc_m.png" group-title="13- MEXICO",Tvc (1)
+http://51.77.246.215:25461/live/bayron/bayron/34675.rtmp
 
-#EXTINF:-1 tvg-logo="http://televisatvdepaga.com/wp-content/uploads/2017/08/unicable.jpg" group-title="13- MEXICO",Unicable
-http://ummodigital.com:2082/live/Mike2019/mike2019/650.rtmp
+#EXTINF:-1 tvg-logo="http://televisatvdepaga.com/wp-content/uploads/2017/08/unicable.jpg" group-title="13- MEXICO",Unicable (1)
+http://51.77.246.215:25461/live/bayron/bayron/8553.rtmp
+
+#EXTINF:-1 tvg-logo="http://televisatvdepaga.com/wp-content/uploads/2017/08/unicable.jpg" group-title="13- MEXICO",Unicable (4)
+http://ummodigital.com:2082/Gustavo2019/gustavo2019/650.rtmp
 
 #EXTINF:-1 tvg-logo="http://static-cdn2.ustream.tv/i/channel/picture/1/7/4/0/17406211/17406211,640x360,b:2.jpg" group-title="13- MEXICO",Unimas
-http://ummodigital.com:2082/live/Mike2019/mike2019/6850.rtmp
+http://ummodigital.com:2082/live/Gustavo2019/gustavo2019/6850.rtmp
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/U/univision-logo-14BBF1BA5F-seeklogo.com.png" group-title="13- MEXICO",Univision
-http://ummodigital.com:2082/live/Mike2019/mike2019/3298.rtmp
-
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-f2Bs9iD3FqE/Vr_1tv9AjYI/AAAAAAAAzjw/uqjSpCsbbfg/s1600/univision-tlnovelas-logo.jpg" group-title="13- MEXICO",Univision Telenovelas (3)
-http://ummodigital.com:2082/live/Mike2019/mike2019/10208.rtmp
+http://ummodigital.com:2082/live/Gustavo2019/gustavo2019/3298.rtmp
 
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-f2Bs9iD3FqE/Vr_1tv9AjYI/AAAAAAAAzjw/uqjSpCsbbfg/s1600/univision-tlnovelas-logo.jpg" group-title="13- MEXICO",Univision Telenovelas (4)
 http://ummodigital.com:2082/live/Gustavo2019/gustavo2019/10208.rtmp
-
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-f2Bs9iD3FqE/Vr_1tv9AjYI/AAAAAAAAzjw/uqjSpCsbbfg/s1600/univision-tlnovelas-logo.jpg" group-title="13- MEXICO",Univision Telenovelas (5)
-http://ummodigital.com:2082/live/Maria69/Maria69/10208.rtmp
 
 ######################################################################################################################################
 ####################################### NICARAGUA
@@ -3035,17 +3050,14 @@ http://ic.imusicaradios.com.br:8000/brasil.stream.http?url=tunein
 #######################################
 ######################################################################################################################################
 
-#EXTINF:-1  tvg-logo="http://www.megacable.com.mx/images/canales/74_aym-sports.png" group-title="41- DEPORTES LATINO",Aym Sports (3)
-http://ummodigital.com:2082/live/Mike2019/mike2019/6653.rtmp
+#EXTINF:-1  tvg-logo="http://www.megacable.com.mx/images/canales/74_aym-sports.png" group-title="41- DEPORTES LATINO",Aym Sports (1)
+http://51.77.246.215:25461/live/bayron/bayron/137111.rtmp
 
 #EXTINF:-1  tvg-logo="http://www.megacable.com.mx/images/canales/74_aym-sports.png" group-title="41- DEPORTES LATINO",Aym Sports (4)
 http://ummodigital.com:2082/live/Gustavo2019/gustavo2019/6653.rtmp
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/02/bolivia-deportes.png" group-title="41- DEPORTES LATINO",Bolivia Deportes
 http://btvboliviatv.srfms.com:6568/live/livestream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.liberaldictionary.com/wp-content/uploads/2019/02/cdf-9361.jpg" group-title="41- DEPORTES LATINO",Cdf (3)
-http://ummodigital.com:2082/live/Mike2019/mike2019/3480.rtmp
 
 #EXTINF:-1 tvg-logo="http://www.liberaldictionary.com/wp-content/uploads/2019/02/cdf-9361.jpg" group-title="41- DEPORTES LATINO",Cdf (4)
 http://ummodigital.com:2082/live/Gustavo2019/gustavo2019/3480.rtmp
@@ -3056,8 +3068,8 @@ http://edge1.cl.grupoz.cl/cdofree/live/chunklist_w822432298.m3u8?GrupoTopIptv
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/06/cdo.png" group-title="41- DEPORTES LATINO",Cdo
 http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/claro-sports.png" group-title="41- DEPORTES LATINO",Claro Sports (3)
-http://ummodigital.com:2082/live/Mike2019/mike2019/4956.rtmp
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/claro-sports.png" group-title="41- DEPORTES LATINO",Claro Sports (1)
+http://51.77.246.215:25461/live/bayron/bayron/60385.rtmp
 
 #EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/claro-sports.png" group-title="41- DEPORTES LATINO",Claro Sports (4)
 http://ummodigital.com:2082/live/Gustavo2019/gustavo2019/4956.rtmp
@@ -3066,103 +3078,58 @@ http://ummodigital.com:2082/live/Gustavo2019/gustavo2019/4956.rtmp
 
 
 #EXTINF:-1 tvg-logo="https://4e0ow51f67h221f1ggcbe9m4-wpengine.netdna-ssl.com/wp-content/uploads/2016/08/ESPN-logo.png" group-title="41- DEPORTES LATINO",Espn (1)
-http://144.217.69.93:25461/live/2027/2027/58939.m3u8
-
-#EXTINF:-1 tvg-logo="https://4e0ow51f67h221f1ggcbe9m4-wpengine.netdna-ssl.com/wp-content/uploads/2016/08/ESPN-logo.png" group-title="41- DEPORTES LATINO",Espn (2)
-http://144.217.69.93:25461/live/1317/1317/58939.m3u8
-
-#EXTINF:-1 tvg-logo="https://4e0ow51f67h221f1ggcbe9m4-wpengine.netdna-ssl.com/wp-content/uploads/2016/08/ESPN-logo.png" group-title="41- DEPORTES LATINO",Espn (3)
-http://ummodigital.com:2082/live/Mike2019/mike2019/7438.rtmp
+http://51.77.246.215:25461/live/bayron/bayron/40504.rtmp
 
 #EXTINF:-1 tvg-logo="https://4e0ow51f67h221f1ggcbe9m4-wpengine.netdna-ssl.com/wp-content/uploads/2016/08/ESPN-logo.png" group-title="41- DEPORTES LATINO",Espn (4)
 http://ummodigital.com:2082/live/Gustavo2019/gustavo2019/7438.rtmp
 
-#EXTINF:-1 tvg-logo="https://i.ya-webdesign.com/images/espn-2-logo-png-1.png" group-title="41- DEPORTES LATINO",Espn 2 (3)
-http://ummodigital.com:2082/live/Mike2019/mike2019/7439.rtmp
+#EXTINF:-1 tvg-logo="https://i.ya-webdesign.com/images/espn-2-logo-png-1.png" group-title="41- DEPORTES LATINO",Espn 2 (1)
+http://51.77.246.215:25461/live/bayron/bayron/40491.rtmp
 
 #EXTINF:-1 tvg-logo="https://i.ya-webdesign.com/images/espn-2-logo-png-1.png" group-title="41- DEPORTES LATINO",Espn 2 (4)
 http://ummodigital.com:2082/live/Gustavo2019/gustavo2019/7439.rtmp
 
 #EXTINF:-1 tvg-logo="https://tvzamora.net/wp-content/uploads/2016/12/Logo-ESPN-3-By-Bauti.png" group-title="41- DEPORTES LATINO",Espn 3 (1)
-http://144.217.69.93:25461/live/2027/2027/58940.m3u8
-
-#EXTINF:-1 tvg-logo="https://tvzamora.net/wp-content/uploads/2016/12/Logo-ESPN-3-By-Bauti.png" group-title="41- DEPORTES LATINO",Espn 3 (2)
-http://144.217.69.93:25461/live/1317/1317/58940.m3u8
-
-#EXTINF:-1 tvg-logo="https://tvzamora.net/wp-content/uploads/2016/12/Logo-ESPN-3-By-Bauti.png" group-title="41- DEPORTES LATINO",Espn 3 (3)
-http://ummodigital.com:2082/live/Mike2019/mike2019/7922.rtmp
+http://51.77.246.215:25461/live/bayron/bayron/40490.rtmp
 
 #EXTINF:-1 tvg-logo="https://tvzamora.net/wp-content/uploads/2016/12/Logo-ESPN-3-By-Bauti.png" group-title="41- DEPORTES LATINO",Espn 3 (4)
 http://ummodigital.com:2082/live/Gustavo2019/gustavo2019/7922.rtmp
 
 #EXTINF:-1 tvg-logo="https://league-mp7static.mlsdigital.net/styles/full_landscape/s3/images/espn_plus_white.png" group-title="41- DEPORTES LATINO",Espn + (1)
-http://144.217.69.93:25461/live/2027/2027/58938.m3u8
-
-#EXTINF:-1 tvg-logo="https://league-mp7static.mlsdigital.net/styles/full_landscape/s3/images/espn_plus_white.png" group-title="41- DEPORTES LATINO",Espn + (2)
-http://144.217.69.93:25461/live/1317/1317/58938.m3u8
-
-#EXTINF:-1 tvg-logo="https://league-mp7static.mlsdigital.net/styles/full_landscape/s3/images/espn_plus_white.png" group-title="41- DEPORTES LATINO",Espn + (3)
-http://ummodigital.com:2082/live/Mike2019/mike2019/7440.rtmp
+http://51.77.246.215:25461/live/bayron/bayron/41128.rtmp
 
 #EXTINF:-1 tvg-logo="https://league-mp7static.mlsdigital.net/styles/full_landscape/s3/images/espn_plus_white.png" group-title="41- DEPORTES LATINO",Espn + (4)
 http://ummodigital.com:2082/live/Gustavo2019/gustavo2019/7440.rtmp
 
 #EXTINF:-1 tvg-logo="https://4e0ow51f67h221f1ggcbe9m4-wpengine.netdna-ssl.com/wp-content/uploads/2016/08/ESPN-logo.png" group-title="41- DEPORTES LATINO",Espn Deportes (1)
-
-
-#EXTINF:-1 tvg-logo="https://4e0ow51f67h221f1ggcbe9m4-wpengine.netdna-ssl.com/wp-content/uploads/2016/08/ESPN-logo.png" group-title="41- DEPORTES LATINO",Espn Deportes (3)
-http://ummodigital.com:2082/live/Mike2019/mike2019/1664.rtmp
+http://51.77.246.215:25461/live/bayron/bayron/40196.rtmp
 
 #EXTINF:-1 tvg-logo="https://4e0ow51f67h221f1ggcbe9m4-wpengine.netdna-ssl.com/wp-content/uploads/2016/08/ESPN-logo.png" group-title="41- DEPORTES LATINO",Espn Deportes (4)
 http://ummodigital.com:2082/live/Gustavo2019/gustavo2019/1664.rtmp
 
 #EXTINF:-1 tvg-logo="https://comcastspotlight.com/sites/default/files/networks/FOX_Deportes.png" group-title="41- DEPORTES LATINO",Fox Deportes (1)
-
-
-#EXTINF:-1 tvg-logo="https://comcastspotlight.com/sites/default/files/networks/FOX_Deportes.png" group-title="41- DEPORTES LATINO",Fox Deportes (3)
-http://ummodigital.com:2082/live/Mike2019/mike2019/8931.rtmp
+http://51.77.246.215:25461/live/bayron/bayron/39007.rtmp
 
 #EXTINF:-1 tvg-logo="https://comcastspotlight.com/sites/default/files/networks/FOX_Deportes.png" group-title="41- DEPORTES LATINO",Fox Deportes (4)
 http://ummodigital.com:2082/live/Gustavo2019/gustavo2019/8931.rtmp
 
 #EXTINF:-1 tvg-logo="https://i.ya-webdesign.com/images/fox-sports-1-png-5.png" group-title="41- DEPORTES LATINO",Fox Sports (1)
-http://144.217.69.93:25461/live/2027/2027/58926.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ya-webdesign.com/images/fox-sports-1-png-5.png" group-title="41- DEPORTES LATINO",Fox Sports (2)
-http://144.217.69.93:25461/live/1317/1317/58926.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ya-webdesign.com/images/fox-sports-1-png-5.png" group-title="41- DEPORTES LATINO",Fox Sports (3)
-http://ummodigital.com:2082/live/Mike2019/mike2019/7441.rtmp
+http://51.77.246.215:25461/live/bayron/bayron/42206.rtmp
 
 #EXTINF:-1 tvg-logo="https://i.ya-webdesign.com/images/fox-sports-1-png-5.png" group-title="41- DEPORTES LATINO",Fox Sports (4)
 http://ummodigital.com:2082/live/Gustavo2019/gustavo2019/7441.rtmp
 
 #EXTINF:-1 tvg-logo="http://midiafatos.com.br/wp-content/uploads/2017/02/fox_sports2_N.png" group-title="41- DEPORTES LATINO",Fox Sports 2 (1)
-http://144.217.69.93:25461/live/2027/2027/58925.m3u8
-
-#EXTINF:-1 tvg-logo="http://midiafatos.com.br/wp-content/uploads/2017/02/fox_sports2_N.png" group-title="41- DEPORTES LATINO",Fox Sports 2 (2)
-http://144.217.69.93:25461/live/1317/1317/58925.m3u8
-
-#EXTINF:-1 tvg-logo="http://midiafatos.com.br/wp-content/uploads/2017/02/fox_sports2_N.png" group-title="41- DEPORTES LATINO",Fox Sports 2 (3)
-http://ummodigital.com:2082/live/Mike2019/mike2019/7442.rtmp
+http://51.77.246.215:25461/live/bayron/bayron/40588.rtmp
 
 #EXTINF:-1 tvg-logo="http://midiafatos.com.br/wp-content/uploads/2017/02/fox_sports2_N.png" group-title="41- DEPORTES LATINO",Fox Sports 2 (4)
 http://ummodigital.com:2082/live/Gustavo2019/gustavo2019/7442.rtmp
 
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/fox-sports3-logos-01.png" group-title="41- DEPORTES LATINO",Fox Sports 3 (1)
-http://144.217.69.93:25461/live/2027/2027/58924.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/fox-sports3-logos-01.png" group-title="41- DEPORTES LATINO",Fox Sports 3 (2)
-http://144.217.69.93:25461/live/1317/1317/58924.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/fox-sports3-logos-01.png" group-title="41- DEPORTES LATINO",Fox Sports 3 (3)
-http://ummodigital.com:2082/live/Mike2019/mike2019/7443.rtmp
+http://51.77.246.215:25461/live/bayron/bayron/40589.rtmp
 
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/fox-sports3-logos-01.png" group-title="41- DEPORTES LATINO",Fox Sports 3 (4)
 http://ummodigital.com:2082/live/Gustavo2019/gustavo2019/7443.rtmp
-
-#EXTINF:-1 tvg-logo="http://television.com.ar/wp-content/uploads/2019/06/LogoFoxSportsPremiumTapa.jpg" group-title="41- DEPORTES LATINO",Fox Sports Premium (3)
-http://ummodigital.com:2082/live/Mike2019/mike2019/4441.rtmp
 
 #EXTINF:-1 tvg-logo="http://television.com.ar/wp-content/uploads/2019/06/LogoFoxSportsPremiumTapa.jpg" group-title="41- DEPORTES LATINO",Fox Sports Premium (4)
 http://ummodigital.com:2082/live/Gustavo2019/gustavo2019/4441.rtmp
@@ -3170,83 +3137,47 @@ http://ummodigital.com:2082/live/Gustavo2019/gustavo2019/4441.rtmp
 #EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/goltv.png" group-title="41- DEPORTES LATINO",Gol Ecuador (1)
 
 
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/--LVCAyp0htk/XGE5k3SFbaI/AAAAAAAABvo/bs1PHSRf4UQcypIh5_CN6aR0sWY_5QUSACLcBGAs/s320/Gol%2BPeru.png" group-title="41- DEPORTES LATINO",Gol Peru (3)
-http://ummodigital.com:2082/live/Mike2019/mike2019/4948.rtmp
-
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/--LVCAyp0htk/XGE5k3SFbaI/AAAAAAAABvo/bs1PHSRf4UQcypIh5_CN6aR0sWY_5QUSACLcBGAs/s320/Gol%2BPeru.png" group-title="41- DEPORTES LATINO",Gol Peru (4)
 http://ummodigital.com:2082/live/Gustavo2019/gustavo2019/4948.rtmp
-
-#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/goltv.png" group-title="41- DEPORTES LATINO",Gol Uruguay (3)
-http://ummodigital.com:2082/live/Mike2019/mike2019/11072.rtmp
 
 #EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/goltv.png" group-title="41- DEPORTES LATINO",Gol Uruguay (4)
 http://ummodigital.com:2082/live/Gustavo2019/gustavo2019/11072.rtmp
 
-#EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/AFIZZIONADOS.png" group-title="41- DEPORTES LATINO",Izzi Afizzionados (4)
+#EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/AFIZZIONADOS.png" group-title="41- DEPORTES LATINO",Izzi Afizzionados (1)
+http://51.77.246.215:25461/live/bayron/bayron/189980.rtmp
 
-
-#EXTINF:-1 tvg-logo="http://pxsports.com/wp-content/uploads/2017/01/PX-Retina.png" group-title="41- DEPORTES LATINO",PX Sports (4)
-
+#EXTINF:-1 tvg-logo="http://pxsports.com/wp-content/uploads/2017/01/PX-Retina.png" group-title="41- DEPORTES LATINO",PX Sports (1)
+http://51.77.246.215:25461/live/bayron/bayron/166753.rtmp
 
 #EXTINF:-1 tvg-logo="https://st1.uvnimg.com/dims4/default/3e56bba/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Ff2%2F30%2F64b3884646e7ba0bafb3a615d78b%2F1440x810-2x.png" group-title="41- DEPORTES LATINO",Tudn (1)
-http://144.217.69.93:25461/live/2027/2027/58882.m3u8
-
-#EXTINF:-1 tvg-logo="https://st1.uvnimg.com/dims4/default/3e56bba/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Ff2%2F30%2F64b3884646e7ba0bafb3a615d78b%2F1440x810-2x.png" group-title="41- DEPORTES LATINO",Tudn (2)
-http://144.217.69.93:25461/live/1317/1317/58882.m3u8
-
-#EXTINF:-1 tvg-logo="https://st1.uvnimg.com/dims4/default/3e56bba/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Ff2%2F30%2F64b3884646e7ba0bafb3a615d78b%2F1440x810-2x.png" group-title="41- DEPORTES LATINO",Tudn (3)
-http://ummodigital.com:2082/live/Mike2019/mike2019/10207.rtmp
+http://51.77.246.215:25461/live/bayron/bayron/215479.rtmp
 
 #EXTINF:-1 tvg-logo="https://st1.uvnimg.com/dims4/default/3e56bba/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Ff2%2F30%2F64b3884646e7ba0bafb3a615d78b%2F1440x810-2x.png" group-title="41- DEPORTES LATINO",Tudn (4)
 http://ummodigital.com:2082/live/Gustavo2019/gustavo2019/10207.rtmp
-
-#EXTINF:-1 tvg-logo="http://television.com.ar/wp-content/uploads/2019/01/tntsportslogo.jpg" group-title="41- DEPORTES LATINO",Tnt Sports (3)
-http://ummodigital.com:2082/live/Mike2019/mike2019/5140.rtmp
 
 #EXTINF:-1 tvg-logo="http://television.com.ar/wp-content/uploads/2019/01/tntsportslogo.jpg" group-title="41- DEPORTES LATINO",Tnt Sports (4)
 http://ummodigital.com:2082/live/Gustavo2019/gustavo2019/5140.rtmp
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e1/TVC_Deportes_%282016-_%29.png/revision/latest?cb=20160124184041" group-title="41- DEPORTES LATINO",Tvc Deportes (1)
-http://144.217.69.93:25461/live/2027/2027/58866.m3u8
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e1/TVC_Deportes_%282016-_%29.png/revision/latest?cb=20160124184041" group-title="41- DEPORTES LATINO",Tvc Deportes (2)
-http://144.217.69.93:25461/live/1317/1317/58866.m3u8
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e1/TVC_Deportes_%282016-_%29.png/revision/latest?cb=20160124184041" group-title="41- DEPORTES LATINO",Tvc Deportes (3)
-http://ummodigital.com:2082/live/Mike2019/mike2019/10290.rtmp
+http://51.77.246.215:25461/live/bayron/bayron/36214.rtmp
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e1/TVC_Deportes_%282016-_%29.png/revision/latest?cb=20160124184041" group-title="41- DEPORTES LATINO",Tvc Deportes (4)
 http://ummodigital.com:2082/live/Gustavo2019/gustavo2019/10290.rtmp
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SAZczO7.png" group-title="41- DEPORTES LATINO",TyC (3)
-http://ummodigital.com:2082/live/Mike2019/mike2019/3475.rtmp
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SAZczO7.png" group-title="41- DEPORTES LATINO",TyC (1)
+http://51.77.246.215:25461/live/bayron/bayron/41238.rtmp
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SAZczO7.png" group-title="41- DEPORTES LATINO",TyC (4)
 http://ummodigital.com:2082/live/Gustavo2019/gustavo2019/3475.rtmp
 
-#EXTINF:-1 tvg-logo="http://www.bienaldemontevideo.com/imgs/pat/vtv.png" group-title="41- DEPORTES LATINO",VTV canal eventos
-http://trinity-lh.akamaihd.net/i/GolTVModel4A_d@422865/index_500_av-p.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.bienaldemontevideo.com/imgs/pat/vtv.png" group-title="41- DEPORTES LATINO",VTV (3) 720p
-http://ummodigital.com:2082/live/Mike2019/mike2019/5621.rtmp
-
-#EXTINF:-1 tvg-logo="http://www.bienaldemontevideo.com/imgs/pat/vtv.png" group-title="41- DEPORTES LATINO",VTV (3) Alt
-http://ummodigital.com:2082/live/Mike2019/mike2019/5619.rtmp
-
-#EXTINF:-1 tvg-logo="http://www.bienaldemontevideo.com/imgs/pat/vtv.png" group-title="41- DEPORTES LATINO",VTV (4) 720p
+#EXTINF:-1 tvg-logo="http://www.bienaldemontevideo.com/imgs/pat/vtv.png" group-title="41- DEPORTES LATINO",VTV (4)
 http://ummodigital.com:2082/live/Gustavo2019/gustavo2019/5621.rtmp
 
 #EXTINF:-1 tvg-logo="http://www.bienaldemontevideo.com/imgs/pat/vtv.png" group-title="41- DEPORTES LATINO",VTV (4) Alt
 http://ummodigital.com:2082/live/Gustavo2019/gustavo2019/5619.rtmp
 
 #EXTINF:-1 tvg-logo="https://ftp.winsports.co/assets/img/win/winsports-small_2017.png" group-title="41- DEPORTES LATINO",Win Sports (1)
-http://144.217.69.93:25461/live/2027/2027/58856.m3u8
-
-#EXTINF:-1 tvg-logo="https://ftp.winsports.co/assets/img/win/winsports-small_2017.png" group-title="41- DEPORTES LATINO",Win Sports (2)
-http://144.217.69.93:25461/live/1317/1317/58856.m3u8
-
-#EXTINF:-1 tvg-logo="https://ftp.winsports.co/assets/img/win/winsports-small_2017.png" group-title="41- DEPORTES LATINO",Win Sports (3)
-http://ummodigital.com:2082/live/Mike2019/mike2019/4893.rtmp
+http://51.77.246.215:25461/live/bayron/bayron/265978.rtmp
 
 #EXTINF:-1 tvg-logo="https://ftp.winsports.co/assets/img/win/winsports-small_2017.png" group-title="41- DEPORTES LATINO",Win Sports (4)
 http://ummodigital.com:2082/live/Gustavo2019/gustavo2019/4893.rtmp
