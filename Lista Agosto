@@ -27,6 +27,9 @@ http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/America-TV.png" group-title="03- ARGENTINA",America (2)
 http://ummodigital.com:2082/live/Donald1/Donald1/3569.rtmp
 
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/America-TV.png" group-title="03- ARGENTINA",America (3)
+http://ummodigital.com:2082/live/jay12/jay12/3569.rtmp
+
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/America-TV.png" group-title="03- ARGENTINA",America (4)
 http://ummodigital.com:2082/live/Gustavo2019/gustavo2019/3569.rtmp
 
@@ -60,6 +63,9 @@ http://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://ipuntotv.com/IMAGES/ElTreceHD2012.jpg" group-title="03- ARGENTINA",El Trece (2)
 http://ummodigital.com:2082/live/Donald1/Donald1/3555.rtmp
 
+#EXTINF:-1 tvg-logo="http://ipuntotv.com/IMAGES/ElTreceHD2012.jpg" group-title="03- ARGENTINA",El Trece (3)
+http://ummodigital.com:2082/live/jay12/jay12/3555.rtmp
+
 #EXTINF:-1 tvg-logo="http://ipuntotv.com/IMAGES/ElTreceHD2012.jpg" group-title="03- ARGENTINA",El Trece (4)
 http://ummodigital.com:2082/live/Gustavo2019/gustavo2019/3555.rtmp
 
@@ -77,6 +83,9 @@ http://51.77.246.215:25461/live/bayron/bayron/244031.rtmp
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="03- ARGENTINA",Telefe (2)
 http://ummodigital.com:2082/live/Donald1/Donald1/4444.rtmp
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="03- ARGENTINA",Telefe (3)
+http://ummodigital.com:2082/live/jay12/jay12/4444.rtmp
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="03- ARGENTINA",Telefe (4)
 http://ummodigital.com:2082/live/Gustavo2019/gustavo2019/4444.rtmp
@@ -291,6 +300,9 @@ http://unlimited5-cl.dps.live/holvoettv/holvoettv.smil/playlist.m3u8?GrupoTopIpt
 
 #EXTINF:-1 tvg-logo="https://blogvecindad.com/wp-content/uploads/2015/11/Mega_Chile_Alternate_Logo.png" group-title="06- CHILE",Mega (2)
 http://ummodigital.com:2082/live/Donald1/Donald1/3095.rtmp
+
+#EXTINF:-1 tvg-logo="https://blogvecindad.com/wp-content/uploads/2015/11/Mega_Chile_Alternate_Logo.png" group-title="06- CHILE",Mega (3)
+http://ummodigital.com:2082/live/jay12/jay12/3095.rtmp
 
 #EXTINF:-1 tvg-logo="https://img8.androidappsapk.co/300/8/b/3/com.trece.t13.png" group-title="06- CHILE",T13
 http://c13-ply.janus.cl/playlist/stream.m3u8?s=c13hd
