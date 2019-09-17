@@ -118,6 +118,18 @@ http://clienteworld.com:8080/live/000023/000023/8150.rtmp
 #EXTINF:0 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/band-logo-png-6.png" group-title="04- BRASIL",Band (4)
 http://ssiptv.smartlista.org:8880/live/2200/2200/2335.rtmp
 
+#EXTINF:0 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/band-logo-png-6.png" group-title="04- BRASIL",Band br1 (SD)
+http://br1.e-tv.xyz:8081/live/123456/123456/12349.rtmp
+
+#EXTINF:0 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/band-logo-png-6.png" group-title="04- BRASIL",Band br1 (HD)
+http://br1.e-tv.xyz:8081/live/123456/123456/13525.rtmp
+
+#EXTINF:0 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/band-logo-png-6.png" group-title="04- BRASIL",Band br1 (FHD)
+http://br1.e-tv.xyz:8081/live/123456/123456/20236.rtmp
+
+#EXTINF:0 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/band-logo-png-6.png" group-title="04- BRASIL",Band br1 (4K)
+http://br1.e-tv.xyz:8081/live/123456/123456/21190.rtmp
+
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-9tDte7uhQ9c/WLdNncrMpjI/AAAAAAAACws/K60NlJ0Qa4AVKeQ1JYpis_OlAheHottMACLcB/s1600/Cinemais.jpg" group-title="04- BRASIL",Cine +
 https://5c49cd60dfe56.streamlock.net:6443/cinemais/live/chunklist_w749538962.m3u8
 
@@ -163,6 +175,15 @@ http://clienteworld.com:8080/live/000023/000023/8085.rtmp
 #EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="04- BRASIL",Globo RJ (4)
 http://ssiptv.smartlista.org:8880/live/2200/2200/2278.rtmp
 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="04- BRASIL",Globo RJ br1 (SD)
+http://br1.e-tv.xyz:8081/live/123456/123456/4101.rtmp
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="04- BRASIL",Globo RJ br1 (HD)
+http://br1.e-tv.xyz:8081/live/123456/123456/4100.rtmp
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="04- BRASIL",Globo RJ br1 (FHD)
+http://br1.e-tv.xyz:8081/live/123456/123456/20234.rtmp
+
 #EXTINF:-1 tvg-logo="http://evertonlopes.com.br/wp-content/uploads/2017/04/RBS_TV2.png" group-title="04- BRASIL",Globo RBS (1)
 http://tv.factoryiptv.com:80/live/claudio/claudio/40253.rtmp
 
@@ -174,6 +195,9 @@ http://clienteworld.com:8080/live/000023/000023/8087.rtmp
 
 #EXTINF:-1 tvg-logo="http://evertonlopes.com.br/wp-content/uploads/2017/04/RBS_TV2.png" group-title="04- BRASIL",Globo RBS (4)
 http://ssiptv.smartlista.org:8880/live/2200/2200/7386.rtmp
+
+#EXTINF:-1 tvg-logo="http://evertonlopes.com.br/wp-content/uploads/2017/04/RBS_TV2.png" group-title="04- BRASIL",Globo RBS br1 (FHD)
+http://br1.e-tv.xyz:8081/live/123456/123456/17355.rtmp
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/if82162.png" group-title="04- BRASIL",NBR (1)
 http://tv.factoryiptv.com:80/live/claudio/claudio/37021.rtmp
@@ -205,6 +229,9 @@ http://clienteworld.com:8080/live/000023/000023/8018.rtmp
 #EXTINF:-1 tvg-logo="http://i.imgur.com/k4haEx6.png" group-title="04- BRASIL",Rede TV (4)
 http://ssiptv.smartlista.org:8880/live/2200/2200/2203.rtmp
 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/k4haEx6.png" group-title="04- BRASIL",Rede TV br1 (4K)
+http://br1.e-tv.xyz:8081/live/123456/123456/21641.rtmp
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="04- BRASIL",Record (1)
 http://tv.factoryiptv.com:80/live/claudio/claudio/37051.rtmp
 
@@ -216,6 +243,12 @@ http://clienteworld.com:8080/live/000023/000023/8025.rtmp
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="04- BRASIL",Record (4)
 http://ssiptv.smartlista.org:8880/live/2200/2200/2207.rtmp
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="04- BRASIL",Record br1 (HD)
+http://br1.e-tv.xyz:8081/live/123456/123456/12347.rtmp
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="04- BRASIL",Record br1 (4K)
+http://br1.e-tv.xyz:8081/live/123456/123456/21333.rtmp
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" group-title="04- BRASIL",SBT Interior
 https://5a1c76baf08c0.streamlock.net/z343-live/stream/playlist.m3u8
@@ -231,6 +264,18 @@ http://clienteworld.com:8080/live/000023/000023/8016.rtmp
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="04- BRASIL",SBT (4)
 http://ssiptv.smartlista.org:8880/live/2200/2200/2198.rtmp
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="04- BRASIL",SBT br1 (SD)
+http://br1.e-tv.xyz:8081/live/123456/123456/17404.rtmp
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="04- BRASIL",SBT br1 (HD)
+http://br1.e-tv.xyz:8081/live/123456/123456/3926.rtmp
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="04- BRASIL",SBT br1 (FHD)
+http://br1.e-tv.xyz:8081/live/123456/123456/17409.rtmp
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="04- BRASIL",SBT br1 (4K)
+http://br1.e-tv.xyz:8081/live/123456/123456/21273.rtmp
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="04- BRASIL",SBT PE
 http://evpp.mm.uol.com.br/ne10/ne10_720.sdp/chunklist_w322427533.m3u8
