@@ -139,6 +139,18 @@ http://ssiptv.smartlista.org:8880/live/2200/2200/7380.rtmp
 #EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="04- BRASIL",Globo SP (alt)
 http://xse.jfglno.com:23618/live/cyx-7EDBC22445F18a3dC01DE245AC15.ts
 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="04- BRASIL",Globo SP br1 (SD)
+http://br1.e-tv.xyz:8081/live/123456/123456/4098.rtmp
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="04- BRASIL",Globo SP br1 (HD)
+http://br1.e-tv.xyz:8081/live/123456/123456/4097.rtmp
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="04- BRASIL",Globo SP br1 (FHD)
+http://br1.e-tv.xyz:8081/live/123456/123456/12345.rtmp
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="04- BRASIL",Globo SP br1 (4K)
+http://br1.e-tv.xyz:8081/live/123456/123456/21189.rtmp
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="04- BRASIL",Globo RJ (1)
 http://tv.factoryiptv.com:80/live/claudio/claudio/37091.rtmp
 
