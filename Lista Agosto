@@ -2190,23 +2190,35 @@ http://cdn-01.bonus-tv.ru:8080/shop24_edge/index.m3u8
 #######################################
 ######################################################################################################################################
 
+#EXTINF:-1 tvg-logo="https://www.directv.com/images/logos/channels/dark/large/673.png" group-title="32- INFANTIL LATINO",Baby First (1)
+http://ummodigital.com:8000/live/lucas21/lucas21/6836.rtmp
+
 #EXTINF:-1 tvg-logo="https://www.directv.com/images/logos/channels/dark/large/673.png" group-title="32- INFANTIL LATINO",Baby First (2)
-http://mylatinotv.com:25461/live/everardo/everardo/81794.m3u8
+http://ummodigital.com:2082/live/Donald1/Donald1/6836.rtmp
+
+#EXTINF:-1 tvg-logo="https://www.directv.com/images/logos/channels/dark/large/673.png" group-title="32- INFANTIL LATINO",Baby First (3)
+http://ummodigital.com:2082/live/airborne1/airborne1/6836.rtmp
+
+#EXTINF:-1 tvg-logo="http://liveitkodi.com/Logos/BabyTV.png" group-title="32- INFANTIL LATINO",Baby TV (1)
+http://ummodigital.com:8000/live/lucas21/lucas21/3300.rtmp
 
 #EXTINF:-1 tvg-logo="http://liveitkodi.com/Logos/BabyTV.png" group-title="32- INFANTIL LATINO",Baby TV (2)
-http://mylatinotv.com:25461/live/everardo/everardo/81958.m3u8
+http://ummodigital.com:2082/live/Donald1/Donald1/3300.rtmp
 
 #EXTINF:-1 tvg-logo="http://liveitkodi.com/Logos/BabyTV.png" group-title="32- INFANTIL LATINO",Baby TV (3)
-http://megatv.live:80/MegaTV2K19/TenemosPanel/122
+http://ummodigital.com:2082/live/airborne1/airborne1/3300.rtmp
 
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/boing-logo-png.png" group-title="32- INFANTIL LATINO",Boing
 http://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
 
 #EXTINF:-1 tvg-logo="https://sitejerk.com/images/boomerang-logo-png-15.png" group-title="32- INFANTIL LATINO",Boomerang (1)
-http://shacktv.com:8080/live/Lazaro/Lazaro123/111179.rtmp
+http://ummodigital.com:8000/live/lucas21/lucas21/4672.rtmp
 
 #EXTINF:-1 tvg-logo="https://sitejerk.com/images/boomerang-logo-png-15.png" group-title="32- INFANTIL LATINO",Boomerang (2)
-http://mylatinotv.com:25461/live/everardo/everardo/81723.m3u8
+http://ummodigital.com:2082/live/Donald1/Donald1/4672.rtmp
+
+#EXTINF:-1 tvg-logo="https://sitejerk.com/images/boomerang-logo-png-15.png" group-title="32- INFANTIL LATINO",Boomerang (3)
+http://ummodigital.com:2082/live/airborne1/airborne1/4672.rtmp
 
 #EXTINF:-1 tvg-logo="http://cachipum.tv/img/logo.png" group-title="32- INFANTIL LATINO",Cachipum
 http://edge1.cl.grupoz.cl/cachipuntv/live/chunklist_w2057048261.m3u8?xtreamiptv.m3u8
@@ -2215,112 +2227,115 @@ http://edge1.cl.grupoz.cl/cachipuntv/live/chunklist_w2057048261.m3u8?xtreamiptv.
 http://edge1.cl.grupoz.cl/cachipuntv/live/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://orig00.deviantart.net/1354/f/2016/129/2/d/untitled_drawing_by_jared33-da1wdty.png" group-title="32- INFANTIL LATINO",Cartoon Network (1)
-http://shacktv.com:8080/live/Lazaro/Lazaro123/111181.rtmp
+http://ummodigital.com:8000/live/lucas21/lucas21/4651.rtmp
 
 #EXTINF:-1 tvg-logo="https://orig00.deviantart.net/1354/f/2016/129/2/d/untitled_drawing_by_jared33-da1wdty.png" group-title="32- INFANTIL LATINO",Cartoon Network (2)
-http://mylatinotv.com:25461/live/everardo/everardo/81725.m3u8
+http://ummodigital.com:2082/live/Donald1/Donald1/4651.rtmp
 
 #EXTINF:-1 tvg-logo="https://orig00.deviantart.net/1354/f/2016/129/2/d/untitled_drawing_by_jared33-da1wdty.png" group-title="32- INFANTIL LATINO",Cartoon Network (3)
-http://megatv.live:80/MegaTV2K19/TenemosPanel/93
+http://ummodigital.com:2082/live/airborne1/airborne1/4651.rtmp
 
 #EXTINF:-1 tvg-logo="https://www.canalipe.tv/sites/default/files/web/programas/logoipeplay/logo_chicosipe.png" group-title="32- INFANTIL LATINO",Chicos Ipe
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_kids-mediano.png" group-title="32- INFANTIL LATINO",Discovery Kids (1)
-http://shacktv.com:8080/live/Lazaro/Lazaro123/111178.rtmp
+http://ummodigital.com:8000/live/lucas21/lucas21/4897.rtmp
 
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_kids-mediano.png" group-title="32- INFANTIL LATINO",Discovery Kids (2)
-http://mylatinotv.com:25461/live/everardo/everardo/81747.m3u8
+http://ummodigital.com:2082/live/Donald1/Donald1/4897.rtmp
 
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_kids-mediano.png" group-title="32- INFANTIL LATINO",Discovery Kids (3)
-http://megatv.live:80/MegaTV2K19/TenemosPanel/5
+http://ummodigital.com:2082/live/airborne1/airborne1/4897.rtmp
 
 #EXTINF:-1 tvg-logo="http://logosvector.net/wp-content/uploads/2014/07/new-disney-channel-logo.png" group-title="32- INFANTIL LATINO",Disney Channel (1)
-http://shacktv.com:8080/live/Lazaro/Lazaro123/111180.rtmp
+http://ummodigital.com:8000/live/lucas21/lucas21/5891.rtmp
 
 #EXTINF:-1 tvg-logo="http://logosvector.net/wp-content/uploads/2014/07/new-disney-channel-logo.png" group-title="32- INFANTIL LATINO",Disney Channel (2)
-http://mylatinotv.com:25461/live/everardo/everardo/81729.m3u8
+http://ummodigital.com:2082/live/Donald1/Donald1/5891.rtmp
 
 #EXTINF:-1 tvg-logo="http://logosvector.net/wp-content/uploads/2014/07/new-disney-channel-logo.png" group-title="32- INFANTIL LATINO",Disney Channel (3)
-http://megatv.live:80/MegaTV2K19/TenemosPanel/321
+http://ummodigital.com:2082/live/airborne1/airborne1/5891.rtmp
 
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/disney-junior-logo-01.png" group-title="32- INFANTIL LATINO",Disney Junior (1)
-http://shacktv.com:8080/live/Lazaro/Lazaro123/111185.rtmp
+http://ummodigital.com:8000/live/lucas21/lucas21/345.rtmp
 
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/disney-junior-logo-01.png" group-title="32- INFANTIL LATINO",Disney Junior (2)
-http://mylatinotv.com:25461/live/everardo/everardo/81731.m3u8
+http://ummodigital.com:2082/live/Donald1/Donald1/345.rtmp
 
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/disney-junior-logo-01.png" group-title="32- INFANTIL LATINO",Disney Junior (3)
-http://megatv.live:80/MegaTV2K19/TenemosPanel/319
+http://ummodigital.com:2082/live/airborne1/airborne1/345.rtmp
 
 #EXTINF:-1 tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2015/10/Disney_XD_-_2015.svg_.png" group-title="32- INFANTIL LATINO",Disney XD (1)
-http://shacktv.com:8080/live/Lazaro/Lazaro123/111184.rtmp
+http://ummodigital.com:8000/live/lucas21/lucas21/346.rtmp
 
 #EXTINF:-1 tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2015/10/Disney_XD_-_2015.svg_.png" group-title="32- INFANTIL LATINO",Disney XD (2)
-http://mylatinotv.com:25461/live/everardo/everardo/81724.m3u8
+http://ummodigital.com:2082/live/Donald1/Donald1/346.rtmp
 
 #EXTINF:-1 tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2015/10/Disney_XD_-_2015.svg_.png" group-title="32- INFANTIL LATINO",Disney XD (3)
-http://megatv.live:80/MegaTV2K19/TenemosPanel/435
+http://ummodigital.com:2082/live/airborne1/airborne1/346.rtmp
 
-#EXTINF:-1 tvg-logo="http://funboxchannel.com/wp-content/uploads/2018/12/funbox-2.png" group-title="30- VARIEDADES LATINO",Fun Box (3)
-http://megatv.live:80/MegaTV2K19/TenemosPanel/1269
+#EXTINF:-1 tvg-logo="http://funboxchannel.com/wp-content/uploads/2018/12/funbox-2.png" group-title="32- INFANTIL LATINO",Fun Box
+
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-FLvPUqc-seM/W15n9C2cisI/AAAAAAAAkqM/H3PFkx-peyQiIFQnPPHDlOxc80H5fHDgwCK8BGAs/s250/2018-07-29.png" group-title="32- INFANTIL LATINO",Locomotion
 
 
 #EXTINF:-1 tvg-logo="https://www.natgeokidsla.com/img/logo-3d.7a64e4ed.png" group-title="32- INFANTIL LATINO",Nat Geo Kids (1)
-http://shacktv.com:8080/live/Lazaro/Lazaro123/111176.rtmp
+http://ummodigital.com:8000/live/lucas21/lucas21/3799.rtmp
 
 #EXTINF:-1 tvg-logo="https://www.natgeokidsla.com/img/logo-3d.7a64e4ed.png" group-title="32- INFANTIL LATINO",Nat Geo Kids (2)
-http://mylatinotv.com:25461/live/everardo/everardo/81750.m3u8
+http://ummodigital.com:2082/live/Donald1/Donald1/3799.rtmp
 
 #EXTINF:-1 tvg-logo="https://www.natgeokidsla.com/img/logo-3d.7a64e4ed.png" group-title="32- INFANTIL LATINO",Nat Geo Kids (3)
-http://megatv.live:80/MegaTV2K19/TenemosPanel/284
+http://ummodigital.com:2082/live/airborne1/airborne1/3799.rtmp
 
 #EXTINF:-1 tvg-logo="https://www.e-channel.ec/blog/wp-content/uploads/2015/09/NICK.png" group-title="32- INFANTIL LATINO",Nickelodeon (1)
-http://shacktv.com:8080/live/Lazaro/Lazaro123/111182.rtmp
+http://ummodigital.com:8000/live/lucas21/lucas21/1401.rtmp
 
 #EXTINF:-1 tvg-logo="https://www.e-channel.ec/blog/wp-content/uploads/2015/09/NICK.png" group-title="32- INFANTIL LATINO",Nickelodeon (2)
-http://mylatinotv.com:25461/live/everardo/everardo/81893.m3u8
+http://ummodigital.com:2082/live/Donald1/Donald1/1401.rtmp
 
 #EXTINF:-1 tvg-logo="https://www.e-channel.ec/blog/wp-content/uploads/2015/09/NICK.png" group-title="32- INFANTIL LATINO",Nickelodeon (3)
-http://megatv.live:80/MegaTV2K19/TenemosPanel/433
+http://ummodigital.com:2082/live/airborne1/airborne1/1401.rtmp
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_nickelodeon-hd_m.png" group-title="32- INFANTIL LATINO",Nick 2 (1)
+http://ummodigital.com:8000/live/lucas21/lucas21/5078.rtmp
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_nickelodeon-hd_m.png" group-title="32- INFANTIL LATINO",Nick 2 (2)
-http://mylatinotv.com:25461/live/everardo/everardo/81774.m3u8
+http://ummodigital.com:2082/live/Donald1/Donald1/5078.rtmp
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_nickelodeon-hd_m.png" group-title="32- INFANTIL LATINO",Nick 2 (3)
-http://megatv.live:80/MegaTV2K19/TenemosPanel/434
+http://ummodigital.com:2082/live/airborne1/airborne1/5078.rtmp
 
 #EXTINF:-1 tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/NICK%20JR.png" group-title="32- INFANTIL LATINO",Nick Junior (1)
-http://shacktv.com:8080/live/Lazaro/Lazaro123/111183.rtmp
+http://ummodigital.com:8000/live/lucas21/lucas21/4650.rtmp
 
 #EXTINF:-1 tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/NICK%20JR.png" group-title="32- INFANTIL LATINO",Nick Junior (2)
-http://mylatinotv.com:25461/live/everardo/everardo/81730.m3u8
+http://ummodigital.com:2082/live/Donald1/Donald1/4650.rtmp
 
 #EXTINF:-1 tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/NICK%20JR.png" group-title="32- INFANTIL LATINO",Nick Junior (3)
-http://megatv.live:80/MegaTV2K19/TenemosPanel/281
+http://ummodigital.com:2082/live/airborne1/airborne1/4650.rtmp
 
 #EXTINF:-1 tvg-logo="http://logo-load.com/uploads/posts/2016-03/1459331737_nicktoons-logo.png" group-title="32- INFANTIL LATINO",Nick Toons (1)
-http://shacktv.com:8080/live/Lazaro/Lazaro123/111175.rtmp
+http://ummodigital.com:8000/live/lucas21/lucas21/392.rtmp
 
 #EXTINF:-1 tvg-logo="http://logo-load.com/uploads/posts/2016-03/1459331737_nicktoons-logo.png" group-title="32- INFANTIL LATINO",Nick Toons (2)
-http://mylatinotv.com:25461/live/everardo/everardo/81728.m3u8
+http://ummodigital.com:2082/live/Donald1/Donald1/392.rtmp
 
 #EXTINF:-1 tvg-logo="http://logo-load.com/uploads/posts/2016-03/1459331737_nicktoons-logo.png" group-title="32- INFANTIL LATINO",Nick Toons (3)
-http://megatv.live:80/MegaTV2K19/TenemosPanel/1360
+http://ummodigital.com:2082/live/airborne1/airborne1/392.rtmp
 
-#EXTINF:-1 tvg-logo="http://startvmexico.com/wp-content/uploads/2018/10/tiin.png" group-title="32- INFANTIL LATINO",Tiin (3)
-http://megatv.live:80/MegaTV2K19/TenemosPanel/1330
+#EXTINF:-1 tvg-logo="http://startvmexico.com/wp-content/uploads/2018/10/tiin.png" group-title="32- INFANTIL LATINO",Tiin
+
 
 #EXTINF:-1 tvg-logo="https://t3.kn3.net/taringa/A/7/E/6/A/C/RevolucionCN/83A.png" group-title="32- INFANTIL LATINO",Tooncast (1)
-http://shacktv.com:8080/live/Lazaro/Lazaro123/111177.rtmp
+http://ummodigital.com:8000/live/lucas21/lucas21/412.rtmp
 
 #EXTINF:-1 tvg-logo="https://t3.kn3.net/taringa/A/7/E/6/A/C/RevolucionCN/83A.png" group-title="32- INFANTIL LATINO",Tooncast (2)
-http://mylatinotv.com:25461/live/everardo/everardo/81721.m3u8
+http://ummodigital.com:2082/live/Donald1/Donald1/412.rtmp
 
 #EXTINF:-1 tvg-logo="https://t3.kn3.net/taringa/A/7/E/6/A/C/RevolucionCN/83A.png" group-title="32- INFANTIL LATINO",Tooncast (3)
-http://megatv.live:80/MegaTV2K19/TenemosPanel/235
+http://ummodigital.com:2082/live/airborne1/airborne1/412.rtmp
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/EBEhFwUXoAMSYue.png" group-title="32- INFANTIL LATINO",Vme Kids
 
