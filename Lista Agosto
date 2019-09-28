@@ -154,6 +154,9 @@ http://csrv.tv:80/live/Emilio/Emilio/1772.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/k4haEx6.png" group-title="04- BRASIL",Rede TV SD
 http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://cdn.reweb.io/hagah/image/EDtyU8yVBOwpH4GsMCrVh4wGliw=/300x300/top/smart/hagah/9/9d/rede-minas-9d674240.png" group-title="04- BRASIL",Rede Minas
+https://59f1cbe63db89.streamlock.net:1443/redeatividade/_definst_/redeatividade/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://studiosol-a.akamaihd.net/uploadfile/letras/fotos/5/2/b/9/52b943caf2678a6a8cd401470782be46.jpg" group-title="04- BRASIL",Rede TV (Pampa)
 https://v8.ciclano.io:1443/rafael926/_definst_/rafael926/playlist.m3u8
 
@@ -171,6 +174,12 @@ http://csrv.tv:80/live/Emilio/Emilio/1747.m3u8
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" group-title="04- BRASIL",SBT Interior
 https://5a1c76baf08c0.streamlock.net/z343-live/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" group-title="04- BRASIL",SBT Pioneira
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" group-title="04- BRASIL",SBT Difusora
+http://difusorama.zoeweb.tv:1935/z437-live/stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="04- BRASIL",SBT (1)
 http://tv.factoryiptv.com:80/live/claudio/claudio/37048.rtmp
@@ -192,6 +201,9 @@ http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/V3zjKvc.png" group-title="04- BRASIL",Tv FAAP
 http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-3ge0TRG4CcU/XRkKMV3Kd_I/AAAAAAAABP0/0iOri3AC3wUU_xeZLpDwsBlgDIiE_2zwgCPcBGAYYCw/w1200-h630-p-k-no-nu/Screenshot_2019-06-30-16-12-22.png" group-title="04- BRASIL",Tv Japi
+http://wse3.player.tv.br:1935/tvjapi/tvjapi/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://webtvminas.com/wp-content/uploads/2015/05/logo1.png" group-title="04- BRASIL",Web TV Minas
 http://173.236.10.10:1935/webtvminas/webtvminas/live.m3u8
@@ -2564,6 +2576,9 @@ http://tv.factoryiptv.com:80/live/claudio/claudio/37093.rtmp
 #EXTINF:-1 tvg-logo="https://brazil.mom-rsf.org/uploads/tx_lfrogmom/media/7019-1071_import.png" group-title="37- NOTICIAS BRASIL",Globo News (2)
 http://csrv.tv:80/live/Emilio/Emilio/1820.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.costadosol.tv.br/site/wp-content/uploads/2017/12/record-news.png" group-title="37- NOTICIAS BRASIL",Record News SD
+https://59f2354c05961.streamlock.net:1443/guaratv/_definst_/guaratv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.costadosol.tv.br/site/wp-content/uploads/2017/12/record-news.png" group-title="37- NOTICIAS BRASIL",Record News (1)
 http://tv.factoryiptv.com:80/live/claudio/claudio/41529.rtmp
 
@@ -3217,6 +3232,9 @@ https://59f2354c05961.streamlock.net:1443/retroplustv/_definst_/retroplustv/play
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/01/retro-tv.png" group-title="44- MUSICA",Retro TV
 http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8?GrupoTopIptv
+
+#EXTINF:-1 tvg-logo="http://www.lineadiretta24.it/wp-content/uploads/2014/04/images_CRONACA2014_rtl-logo1-300x225.jpg" group-title="44- MUSICA",RTL
+https://rtl-radio-stream-thron.akamaized.net/live-video/video1/ngrp:video1/chunklist_b1196000.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dd/The_Country_Network_Logo.png" group-title="44- MUSICA",The Country Network
 https://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8
