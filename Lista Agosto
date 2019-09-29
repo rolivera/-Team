@@ -605,12 +605,6 @@ http://138.117.4.70:8079/streams/d/Canal-11/playlist.m3u8
 http://138.117.4.70:8079/streams/d/Canal-12/playlist.m3u8
 
 ######################################################################################################################################
-####################################### PANAMA
-#EXTINF:-1 tvg-logo="http://telocuentonews.com/site/wp-content/uploads/2017/11/Bandera-de-Panam%C3%A1.jpg" group-title="15- PANAMA",15- PANAMA
-http://ic7.101.ru:8000/a3
-#######################################
-
-######################################################################################################################################
 ####################################### PARAGUAY
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2016/06/16/04/29/paraguay-1460620_960_720.jpg" group-title="16- PARAGUAY",16- PARAGUAY
 https://stream.vagalume.fm/hls/14619606471054026608/aac.m3u8
@@ -2333,13 +2327,13 @@ http://playhddigital.me:8888/live/TVDIGITAl/jhskwikhiwh/209.ts
 #EXTINF:-1 tvg-logo="https://assets.corusent.com/wp-content/uploads/2017/06/logo_tv_lifetime_june2017-500x250.png" group-title="31- VARIEDADES BRASIL",Lifetime (3) SD
 http://playhddigital.me:8888/live/TVDIGITAl/jhskwikhiwh/55.ts
 
-#EXTINF:-1 tvg-logo="http://midiafatos.com.br/wp-content/uploads/2017/02/masi_globosat_N.png" group-title="31- VARIEDADES BRASIL",Mais Globosat (1)
+#EXTINF:-1 tvg-logo="https://s2.glbimg.com/uiEeBZJKeOneVk97k2Oo00zutxI=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/f1/9f/b246cd313d3bbf3d94cfc654a161.png" group-title="31- VARIEDADES BRASIL",Mais Globosat (1)
 http://tv.factoryiptv.com:80/live/claudio/claudio/42902.rtmp
 
-#EXTINF:-1 tvg-logo="http://midiafatos.com.br/wp-content/uploads/2017/02/masi_globosat_N.png" group-title="31- VARIEDADES BRASIL",Mais Globosat (2)
+#EXTINF:-1 tvg-logo="https://s2.glbimg.com/uiEeBZJKeOneVk97k2Oo00zutxI=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/f1/9f/b246cd313d3bbf3d94cfc654a161.png" group-title="31- VARIEDADES BRASIL",Mais Globosat (2)
 http://csrv.tv:80/live/Emilio/Emilio/1794.m3u8
 
-#EXTINF:-1 tvg-logo="http://midiafatos.com.br/wp-content/uploads/2017/02/masi_globosat_N.png" group-title="31- VARIEDADES BRASIL",Mais Globosat (3) SD
+#EXTINF:-1 tvg-logo="https://s2.glbimg.com/uiEeBZJKeOneVk97k2Oo00zutxI=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/f1/9f/b246cd313d3bbf3d94cfc654a161.png" group-title="31- VARIEDADES BRASIL",Mais Globosat (3) SD
 http://playhddigital.me:8888/live/TVDIGITAl/jhskwikhiwh/60.ts
 
 #EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/mtv-png-logo/danielle-vega-mtv-png-logo-17.png" group-title="31- VARIEDADES BRASIL",Mtv (1)
@@ -2517,13 +2511,13 @@ http://nextprox2.dontexist.net/MTYX/DISXD-MX.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-FLvPUqc-seM/W15n9C2cisI/AAAAAAAAkqM/H3PFkx-peyQiIFQnPPHDlOxc80H5fHDgwCK8BGAs/s250/2018-07-29.png" group-title="32- INFANTIL LATINO",Locomotion
 
 
-#EXTINF:-1 tvg-logo="https://www.natgeokidsla.com/img/logo-3d.7a64e4ed.png" group-title="32- INFANTIL LATINO",Nat Geo Kids (1)
+#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/natgeo-kids-logo-01.png" group-title="32- INFANTIL LATINO",Nat Geo Kids (1)
 http://ummodigital.com:2082/live/jay12/jay12/3799.rtmp
 
-#EXTINF:-1 tvg-logo="https://www.natgeokidsla.com/img/logo-3d.7a64e4ed.png" group-title="32- INFANTIL LATINO",Nat Geo Kids (2)
+#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/natgeo-kids-logo-01.png" group-title="32- INFANTIL LATINO",Nat Geo Kids (2)
 http://ummodigital.com:2082/live/Donald1/Donald1/3799.rtmp
 
-#EXTINF:-1 tvg-logo="https://www.natgeokidsla.com/img/logo-3d.7a64e4ed.png" group-title="32- INFANTIL LATINO",Nat Geo Kids (3)
+#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/natgeo-kids-logo-01.png" group-title="32- INFANTIL LATINO",Nat Geo Kids (3)
 http://ummodigital.com:2082/live/airborne1/airborne1/3799.rtmp
 
 #EXTINF:-1 tvg-logo="https://www.e-channel.ec/blog/wp-content/uploads/2015/09/NICK.png" group-title="32- INFANTIL LATINO",Nickelodeon (1)
@@ -2677,16 +2671,16 @@ http://tv.factoryiptv.com:80/live/claudio/claudio/38969.rtmp
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_gloobinho-hd_m.png" group-title="33- INFANTIL BRASIL",Gloobinho (2)
 http://csrv.tv:80/live/Emilio/Emilio/1815.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.natgeokidsla.com/img/logo-3d.7a64e4ed.png" group-title="33- INFANTIL BRASIL",Nat Geo Kids (1)
+#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/natgeo-kids-logo-01.png" group-title="33- INFANTIL BRASIL",Nat Geo Kids (1)
 http://tv.factoryiptv.com:80/live/claudio/claudio/37067.rtmp
 
-#EXTINF:-1 tvg-logo="https://www.natgeokidsla.com/img/logo-3d.7a64e4ed.png" group-title="33- INFANTIL BRASIL",Nat Geo Kids (2)
+#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/natgeo-kids-logo-01.png" group-title="33- INFANTIL BRASIL",Nat Geo Kids (2)
 http://csrv.tv:80/live/Emilio/Emilio/1776.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.natgeokidsla.com/img/logo-3d.7a64e4ed.png" group-title="33- INFANTIL BRASIL",Nat Geo Kids (3) HD
+#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/natgeo-kids-logo-01.png" group-title="33- INFANTIL BRASIL",Nat Geo Kids (3) HD
 http://playhddigital.me:8888/live/TVDIGITAl/jhskwikhiwh/248.ts
 
-#EXTINF:-1 tvg-logo="https://www.natgeokidsla.com/img/logo-3d.7a64e4ed.png" group-title="33- INFANTIL BRASIL",Nat Geo Kids (3) SD
+#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/natgeo-kids-logo-01.png" group-title="33- INFANTIL BRASIL",Nat Geo Kids (3) SD
 http://playhddigital.me:8888/live/TVDIGITAl/jhskwikhiwh/65.ts
 
 #EXTINF:-1 tvg-logo="https://www.e-channel.ec/blog/wp-content/uploads/2015/09/NICK.png" group-title="33- INFANTIL BRASIL",Nickelodeon (1)
