@@ -331,8 +331,8 @@ http://51.77.246.215:25461/live/bayron/bayron/265976.rtmp
 #EXTINF:-1 tvg-logo="http://www.ranchenatotv.co/wp-content/uploads/2018/10/500PX.png" group-title="07- COLOMBIA",Ranchenato
 http://66.240.236.25:1936/ranchenato/ranchenato/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://html.canalrcn.com/CanalRCN/react/images/RCN-RCNTELEVISION-logo21.png" group-title="07- COLOMBIA",RCN
-http://51.77.246.215:25461/live/bayron/bayron/265979.rtmp
+#EXTINF:-1 tvg-logo="http://html.canalrcn.com/CanalRCN/react/images/RCN-RCNTELEVISION-logo21.png" group-title="07- COLOMBIA",RCN (ALT)
+http://tvpremiumhd.club/lista-gratuita/privada/tv/live.php?id=1778&f=.rtmp
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/telecaribe.png" group-title="07- COLOMBIA",Telecaribe
 http://telecaribe-hd.gcdn.anvato.net/hls/live/telecaribehd/2196k/index.m3u8
@@ -532,8 +532,8 @@ https://180ce25c70.site.internapcdn.net/ryta_live/chunklist_b481072.m3u8
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/Capital21.png" group-title="13- MEXICO",Capital 21
 http://23.227.189.81/ciudadtv/abr_ciudadtv/playlist.m3u8?GrupoTopIptv
 
-#EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/galavision_320.jpg" group-title="13- MEXICO",Galavision (2)
-
+#EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/galavision_320.jpg" group-title="13- MEXICO",Galavision (ALT)
+http://tvpremiumhd.club/lista-gratuita/privada/tv/live.php?id=2405&f=.rtmp
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/11/milenio-TV.png" group-title="13- MEXICO",Milenio
 http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
@@ -553,8 +553,14 @@ http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8?GrupoTopIptv
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/telemar.png" group-title="13- MEXICO",Telemar
 http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u
 
-#EXTINF:-1 tvg-logo="https://www.telemundo.com/sites/nbcutelemundo/themes/aurora_tlmd/images/telemundo_logo.png" group-title="13- MEXICO",Telemundo (2)
+#EXTINF:-1 tvg-logo="https://www.telemundo.com/sites/nbcutelemundo/themes/aurora_tlmd/images/telemundo_logo.png" group-title="13- MEXICO",Telemundo (ALT)
+http://tvpremiumhd.club/lista-gratuita/privada/tv/live.php?id=2203&f=.rtmp
 
+#EXTINF:-1 tvg-logo="https://www.telemundo.com/sites/nbcutelemundo/themes/aurora_tlmd/images/telemundo_logo.png" group-title="13- MEXICO",Telemundo 47 (ALT)
+http://tvpremiumhd.club/lista-gratuita/privada/tv/live.php?id=2199&f=.rtmp
+
+#EXTINF:-1 tvg-logo="https://www.telemundo.com/sites/nbcutelemundo/themes/aurora_tlmd/images/telemundo_logo.png" group-title="13- MEXICO",Telemundo 51 (ALT)
+http://tvpremiumhd.club/lista-gratuita/privada/tv/live.php?id=1957&f=.rtmp
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_tlnovelas_m.png" group-title="13- MEXICO",Tlnovelas (2)
 http://ummodigital.com:2082/live/Donald1/Donald1/4668.rtmp
@@ -571,8 +577,8 @@ http://51.77.246.215:25461/live/bayron/bayron/34675.rtmp
 #EXTINF:-1 tvg-logo="http://televisatvdepaga.com/wp-content/uploads/2017/08/unicable.jpg" group-title="13- MEXICO",Unicable (1)
 http://51.77.246.215:25461/live/bayron/bayron/8553.rtmp
 
-#EXTINF:-1 tvg-logo="http://static-cdn2.ustream.tv/i/channel/picture/1/7/4/0/17406211/17406211,640x360,b:2.jpg" group-title="13- MEXICO",Unimas (2)
-
+#EXTINF:-1 tvg-logo="http://static-cdn2.ustream.tv/i/channel/picture/1/7/4/0/17406211/17406211,640x360,b:2.jpg" group-title="13- MEXICO",Unimas (ALT)
+http://tvpremiumhd.club/lista-gratuita/privada/tv/live.php?id=2165&f=.rtmp
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/U/univision-logo-14BBF1BA5F-seeklogo.com.png" group-title="13- MEXICO",Univision (2)
 
@@ -1318,6 +1324,9 @@ http://ummodigital.com:2082/live/airborne1/airborne1/1373.rtmp
 #EXTINF:-1 tvg-logo="https://s23657.pcdn.co/wp-content/uploads/2017/07/de_Pelicula_Clasico_color_logo_image-768x529.jpg" group-title="28- PREMIUM LATINO",De Película Classico
 
 
+#EXTINF:-1 tvg-logo="https://www.directv.com.uy/Cinema/Content/Images/directvcinemalogo.png" group-title="28- PREMIUM LATINO",Directv Cinema (ALT)
+http://tvpremiumhd.club/lista-gratuita/privada/tv/live.php?id=1243&f=.rtmp
+
 #EXTINF:-1 tvg-logo="http://www.multicanalcatamayo.com/cablevisiondondiego/images/74.png" group-title="28- PREMIUM LATINO",Distrito Comedia (1)
 http://ummodigital.com:2082/live/jay12/jay12/347.rtmp
 
@@ -1629,6 +1638,9 @@ http://ummodigital.com:2082/live/Donald1/Donald1/401.rtmp
 
 #EXTINF:-1 tvg-logo="https://www.programacion.tv/images/syfy.png" group-title="28- PREMIUM LATINO",Syfy (3)
 http://ummodigital.com:2082/live/airborne1/airborne1/401.rtmp
+
+#EXTINF:-1 tvg-logo="https://www.programacion.tv/images/syfy.png" group-title="28- PREMIUM LATINO",Syfy (ALT)
+http://tvpremiumhd.club/lista-gratuita/privada/tv/live.php?id=2090&f=.rtmp
 
 #EXTINF:-1 tvg-logo="http://www.graphis.com/media/uploads/cfe/entry/0c396b4d-8379-4797-ab9b-0c9cc41b19d4/tbs_logo.png" group-title="28- PREMIUM LATINO",Tbs (1)
 http://ummodigital.com:2082/live/jay12/jay12/4671.rtmp
@@ -3380,8 +3392,8 @@ http://ummodigital.com:2082/live/Donald1/Donald1/11072.rtmp
 #EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/goltv.png" group-title="41- DEPORTES LATINO",Gol Uruguay (3)
 http://ummodigital.com:2082/live/airborne1/airborne1/11072.rtmp
 
-#EXTINF:-1 tvg-logo="http://juanhe.galeon.com/IPTV/logos/AFIZZIONADOS.PNG?2019-08-06" group-title="41- DEPORTES LATINO",Izzi Afizzionados (1)
-
+#EXTINF:-1 tvg-logo="http://juanhe.galeon.com/IPTV/logos/AFIZZIONADOS.PNG?2019-08-06" group-title="41- DEPORTES LATINO",Izzi Afizzionados (ALT)
+http://tvpremiumhd.club/lista-gratuita/privada/tv/live.php?id=2434&f=.rtmp
 
 #EXTINF:-1 tvg-logo="http://pxsports.com/wp-content/uploads/2017/01/PX-Retina.png" group-title="41- DEPORTES LATINO",PX Sports
 
