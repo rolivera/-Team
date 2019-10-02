@@ -128,7 +128,10 @@ https://5c49cd60dfe56.streamlock.net:6443/cinemais/live/chunklist_w749538962.m3u
 http://tv.factoryiptv.com:80/live/claudio/claudio/37090.rtmp
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="04- BRASIL",Globo SP (2)
+http://edge.aovivo.club/hls/s:95.216.15.44:81/globosp_cfe21c68_f5f7cc0e9c735374c894f424fd5e00a12f380e46/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="04- BRASIL",Globo SP (2) HD
+http://edge.aovivo.club/hls/s:95.216.15.44:81/globosphd_3a69aa1b_54adb2a22615e47c105878110a43be8e8a4c36fd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="04- BRASIL",Globo SP (3) HD
 http://lista.digitalgroup.me/3323/123/17122
@@ -1567,7 +1570,7 @@ http://ic7.101.ru:8000/a23
 http://tv.factoryiptv.com:80/live/claudio/claudio/41087.rtmp
 
 #EXTINF:-1 tvg-logo="https://www.directv.com/images/logos/channels/dark/large/313.png" group-title="29- PREMIUM BRASIL",Amc (2)
-
+http://23.237.106.234:8080/AMC-HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.directv.com/images/logos/channels/dark/large/313.png" group-title="29- PREMIUM BRASIL",Amc (3)
 http://lista.digitalgroup.me/3323/123/9609
@@ -1576,7 +1579,7 @@ http://lista.digitalgroup.me/3323/123/9609
 http://tv.factoryiptv.com:80/live/claudio/claudio/37132.rtmp
 
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/axn.png" group-title="29- PREMIUM BRASIL",Axn (2)
-
+http://23.237.106.234:8080/AXN/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/axn.png" group-title="29- PREMIUM BRASIL",Axn (3)
 http://lista.digitalgroup.me/3323/123/1114
@@ -1603,7 +1606,10 @@ http://lista.digitalgroup.me/3323/123/16004
 http://tv.factoryiptv.com:80/live/claudio/claudio/37101.rtmp
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Al6Y2.png" group-title="29- PREMIUM BRASIL",Fox (2)
+http://edge.aovivo.club/hls/s:95.216.15.44:81/fox_5a5b0f9b_b0fb156741bf8c9a75b0471933c98b02a4c572a1.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Al6Y2.png" group-title="29- PREMIUM BRASIL",Fox (2)
+http://23.237.106.234:8080/FOX/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Al6Y2.png" group-title="29- PREMIUM BRASIL",Fox (3)
 http://lista.digitalgroup.me/3323/123/1329
@@ -1675,7 +1681,7 @@ http://lista.digitalgroup.me/3323/123/1016
 http://tv.factoryiptv.com:80/live/claudio/claudio/37084.rtmp
 
 #EXTINF:-1 tvg-logo="http://contenidos.cablevision.com.mx/guia_programacion/channels/634.png" group-title="29- PREMIUM BRASIL",Hbo Plus (2)
-
+http://edge.aovivo.club/hls/s:95.216.15.44:81/hboplus480p_17820ac1_7daa67a308ef310f28df8c69ff89c6633204db75/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://contenidos.cablevision.com.mx/guia_programacion/channels/634.png" group-title="29- PREMIUM BRASIL",Hbo Plus (3)
 http://lista.digitalgroup.me/3323/123/1014
@@ -1747,7 +1753,10 @@ http://lista.digitalgroup.me/3323/123/1096
 http://tv.factoryiptv.com:80/live/claudio/claudio/37046.rtmp
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8.png" group-title="29- PREMIUM BRASIL",Space (2)
+http://edge.aovivo.club/hls/s:95.216.15.44:81/space_e6c3dd63_a366be5cbad78e20f6bbb23c2b9560a30a0a1280/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8.png" group-title="29- PREMIUM BRASIL",Space (2)
+http://hvod.imirun.net:8080/SpaceHD/tracks-v1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8.png" group-title="29- PREMIUM BRASIL",Space (3)
 http://lista.digitalgroup.me/3323/123/2501
@@ -1801,7 +1810,7 @@ http://lista.digitalgroup.me/3323/123/931
 http://tv.factoryiptv.com:80/live/claudio/claudio/37038.rtmp
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_telecine-pipoca-hd_m.png" group-title="29- PREMIUM BRASIL",Telecine Pipoca (2)
-
+http://edge.aovivo.club/hls/s:45.32.217.66/telecinepipoca_fd937516_76109574e435bdcd94361f7ff40bf7ed68a53c46/410p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_telecine-pipoca-hd_m.png" group-title="29- PREMIUM BRASIL",Telecine Pipoca (3)
 http://lista.digitalgroup.me/3323/123/929
@@ -1864,7 +1873,7 @@ http://lista.digitalgroup.me/3323/123/1204
 http://tv.factoryiptv.com:80/live/claudio/claudio/37027.rtmp
 
 #EXTINF:-1 tvg-logo="http://www.temporadafinal.com/gallery/5400ebfa0cc26universal-channel-.png" group-title="29- PREMIUM BRASIL",Universal Channel (2)
-
+http://hvod.imirun.net:8080/UniversalChannelHD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.temporadafinal.com/gallery/5400ebfa0cc26universal-channel-.png" group-title="29- PREMIUM BRASIL",Universal Channel (3)
 http://lista.digitalgroup.me/3323/123/940
@@ -1873,7 +1882,7 @@ http://lista.digitalgroup.me/3323/123/940
 http://tv.factoryiptv.com:80/live/claudio/claudio/36996.rtmp
 
 #EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/08/d3e81-wb-hd-2011.png" group-title="29- PREMIUM BRASIL",Warner Channel (2)
-
+http://edge.aovivo.club/hls/s:155.138.227.156/warnerchannel_0a57cb53_65d5b430530c7a5a50927c38c8cf09186fe17a5b/410p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/08/d3e81-wb-hd-2011.png" group-title="29- PREMIUM BRASIL",Warner Channel (3)
 http://lista.digitalgroup.me/3323/123/2478
