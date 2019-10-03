@@ -334,6 +334,9 @@ http://li1008-155.members.linode.com:1935/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.uestv.cl/wp-content/uploads/2018/07/uestvlogo.png" group-title="06- CHILE",UES tv
 http://cl.origin.grupoz.cl:1935/uestv/live/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.arcatel.cl/wp-content/uploads/2019/01/Logos-05-300x231.jpg" group-title="22- CINE LATINO",VTV (4)
+http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/4207.ts
+
 ######################################################################################################################################
 ####################################### COLOMBIA
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2016/06/16/01/23/colombia-1460312_960_720.jpg" group-title="07- COLOMBIA",07- COLOMBIA
@@ -342,9 +345,6 @@ https://stream.vagalume.fm/hls/147015501223418/aac.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.blogs.es/600870/dh-authxuaay8uc/450_1000.jpg" group-title="07- COLOMBIA",Caracol (4)
 http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/1038.ts
-
-#EXTINF:-1 tvg-logo="https://i.blogs.es/600870/dh-authxuaay8uc/450_1000.jpg" group-title="07- COLOMBIA",Caracol Internacional
-
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/386408609/cnc2_400x400.png" group-title="07- COLOMBIA",CNC 
 http://66.240.236.25:1936/canalcnc/canalcnc/chunklist.m3u8
@@ -914,6 +914,9 @@ http://fmhot.04.cl.cdnz.cl/fmhot/smil:cdn.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/INArx0I.png" group-title="22- CINE LATINO",FMHot SD
 http://fmhot.04.cl.cdnz.cl/fmhot/smil:cdn.smil/chunklist_b1800000_slesp.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/INArx0I.png" group-title="22- CINE LATINO",FMHot HD (4)
+http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/9412.ts
 
 #EXTINF:-1 tvg-logo="https://okdiario.com/img/2018/04/28/distrito-655x368.jpg" group-title="22- CINE LATINO",Distrito TV
 https://cdn01.yowi.tv/KQRSDA7GDB/live-1000.m3u8
