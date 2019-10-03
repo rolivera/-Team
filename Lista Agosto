@@ -304,6 +304,9 @@ http://cl.origin.grupoz.cl:1935/uestv/live/playlist.m3u8
 https://stream.vagalume.fm/hls/147015501223418/aac.m3u8
 #######################################
 
+#EXTINF:-1 tvg-logo="https://i.blogs.es/600870/dh-authxuaay8uc/450_1000.jpg" group-title="07- COLOMBIA",Caracol (4)
+http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/1038.ts
+
 #EXTINF:-1 tvg-logo="https://i.blogs.es/600870/dh-authxuaay8uc/450_1000.jpg" group-title="07- COLOMBIA",Caracol Internacional
 
 
@@ -315,6 +318,9 @@ http://66.240.236.25:1936/canalcnc/canalcnc/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.ranchenatotv.co/wp-content/uploads/2018/10/500PX.png" group-title="07- COLOMBIA",Ranchenato
 http://66.240.236.25:1936/ranchenato/ranchenato/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://html.canalrcn.com/CanalRCN/react/images/RCN-RCNTELEVISION-logo21.png" group-title="07- COLOMBIA",RCN (4)
+http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/1035.ts
 
 #EXTINF:-1 tvg-logo="http://html.canalrcn.com/CanalRCN/react/images/RCN-RCNTELEVISION-logo21.png" group-title="07- COLOMBIA",RCN (ALT)
 http://tvpremiumhd.club/lista-gratuita/privada/tv/live.php?id=1778&f=.rtmp
