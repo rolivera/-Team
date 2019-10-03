@@ -787,6 +787,18 @@ http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/chunks.m3u8
 https://stream.vagalume.fm/hls/1470169276225492/aac.m3u8
 #######################################
 
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/04/1000xhora-324x160.png" group-title="20- URUGUAY",1000 X Hora (4)
+http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/10411.ts
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1153150302603894784/MUFOdCa3_400x400.jpg" group-title="20- URUGUAY",A+V (4)
+http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/3204.ts
+
+#EXTINF:-1 tvg-logo="http://www.canal7.com.uy/images/logo.png" group-title="20- URUGUAY",Canal 7 Punta (4)
+http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/11191.ts
+
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/04/charrua-tv.png" group-title="20- URUGUAY",Charrua tv (4)
+http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/11191.ts
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1107997180311281665/c72fyy_F_400x400.png" group-title="20- URUGUAY",Montecarlo (2)
 http://ummodigital.com:2082/live/Donald1/Donald1/5144.rtmp
 
@@ -805,8 +817,8 @@ http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/8969.ts
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1136710475868229633/p2S0PMG8_400x400.jpg" group-title="20- URUGUAY",Teledoce (4)
 http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/9558.ts
 
-#EXTINF:-1 tvg-logo="http://www.tnu.com.uy/image/1024x1024.png" group-title="20- URUGUAY",TNU (2)
-
+#EXTINF:-1 tvg-logo="http://www.tnu.com.uy/image/1024x1024.png" group-title="20- URUGUAY",TNU (4)
+http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/1599.ts
 
 #EXTINF:-1 tvg-logo="http://montevideo.gub.uy/sites/default/files/styles/galeriaslideshowcontenido/public/biblioteca/tvciudad.png?itok=GWUByEQp" group-title="20- URUGUAY",Tv Ciudad (2)
 http://ummodigital.com:2082/live/Donald1/Donald1/5850.rtmp
@@ -816,6 +828,12 @@ http://ummodigital.com:2082/live/airborne1/airborne1/5850.rtmp
 
 #EXTINF:-1 tvg-logo="http://montevideo.gub.uy/sites/default/files/styles/galeriaslideshowcontenido/public/biblioteca/tvciudad.png?itok=GWUByEQp" group-title="20- URUGUAY",Tv Ciudad (4)
 http://ummodigital.com:2082/live/Gustavo2019/gustavo2019/5850.rtmp
+
+#EXTINF:-1 tvg-logo="http://montevideo.gub.uy/sites/default/files/styles/galeriaslideshowcontenido/public/biblioteca/tvciudad.png?itok=GWUByEQp" group-title="20- URUGUAY",Tv Ciudad (4) HD
+http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/1601.ts
+
+#EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/imgs/7/2/3/7233eada0394020f9e0250a059896578_icon.png" group-title="20- URUGUAY",Vera + (4)
+http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/1600.ts
 
 #EXTINF:-1 tvg-logo="http://www.bienaldemontevideo.com/imgs/pat/vtv.png" group-title="20- URUGUAY",VTV (4) SD
 http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/1450.ts
@@ -1159,6 +1177,9 @@ http://ummodigital.com:2082/live/Donald1/Donald1/1356.rtmp
 #EXTINF:-1 tvg-logo="https://www.directv.com/images/logos/channels/dark/large/313.png" group-title="28- PREMIUM LATINO",Amc (3)
 http://ummodigital.com:2082/live/airborne1/airborne1/1356.rtmp
 
+#EXTINF:-1 tvg-logo="https://www.directv.com/images/logos/channels/dark/large/313.png" group-title="28- PREMIUM LATINO",Amc (4)
+http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/85.ts
+
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/axn.png" group-title="28- PREMIUM LATINO",Axn (1)
 http://ummodigital.com:2082/live/jay12/jay12/1357.rtmp
 
@@ -1167,6 +1188,9 @@ http://ummodigital.com:2082/live/Donald1/Donald1/1357.rtmp
 
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/axn.png" group-title="28- PREMIUM LATINO",Axn (3)
 http://ummodigital.com:2082/live/airborne1/airborne1/1357.rtmp
+
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/axn.png" group-title="28- PREMIUM LATINO",Axn (4)
+http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/20.ts
 
 #EXTINF:-1 tvg-logo="http://comcab.mx/images/canales/comcab-cinecanal.png" group-title="28- PREMIUM LATINO",Cinecanal (1)
 http://ummodigital.com:2082/live/jay12/jay12/5055.rtmp
@@ -1177,16 +1201,13 @@ http://ummodigital.com:2082/live/Donald1/Donald1/5055.rtmp
 #EXTINF:-1 tvg-logo="http://comcab.mx/images/canales/comcab-cinecanal.png" group-title="28- PREMIUM LATINO",Cinecanal (3)
 http://ummodigital.com:2082/live/airborne1/airborne1/5055.rtmp
 
+#EXTINF:-1 tvg-logo="http://comcab.mx/images/canales/comcab-cinecanal.png" group-title="28- PREMIUM LATINO",Cinecanal (4)
+http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/75.ts
+
 #EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/12/52a34-cl.png" group-title="28- PREMIUM LATINO",Cine Latino (1)
 
 
-#EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/12/52a34-cl.png" group-title="28- PREMIUM LATINO",Cine Latino (3)
-
-
 #EXTINF:-1 tvg-logo="http://www.cinemadinamita.com/img/logos/Inicio.png" group-title="28- PREMIUM LATINO",Cine Dinamita (1)
-
-
-#EXTINF:-1 tvg-logo="http://www.cinemadinamita.com/img/logos/Inicio.png" group-title="28- PREMIUM LATINO",Cine Dinamita (3)
 
 
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cine/16.png" group-title="28- PREMIUM LATINO",Cinemax (1)
@@ -1216,6 +1237,9 @@ http://ummodigital.com:2082/live/Donald1/Donald1/4645.rtmp
 #EXTINF:-1 tvg-logo="http://new.lamac.org/system/channels/logos/000/000/044/original/pic_comedycentral.png?1522177270" group-title="28- PREMIUM LATINO",Comedy Central (3)
 http://ummodigital.com:2082/live/airborne1/airborne1/4645.rtmp
 
+#EXTINF:-1 tvg-logo="http://new.lamac.org/system/channels/logos/000/000/044/original/pic_comedycentral.png?1522177270" group-title="28- PREMIUM LATINO",Comedy Central (4)
+http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/22.ts
+
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/de_pelicula_hd-mediano.png" group-title="28- PREMIUM LATINO",De Película (1)
 http://ummodigital.com:2082/live/jay12/jay12/1373.rtmp
 
@@ -1224,6 +1248,9 @@ http://ummodigital.com:2082/live/Donald1/Donald1/1373.rtmp
 
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/de_pelicula_hd-mediano.png" group-title="28- PREMIUM LATINO",De Película (3)
 http://ummodigital.com:2082/live/airborne1/airborne1/1373.rtmp
+
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/de_pelicula_hd-mediano.png" group-title="28- PREMIUM LATINO",De Película (4)
+http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/79.ts
 
 #EXTINF:-1 tvg-logo="https://s23657.pcdn.co/wp-content/uploads/2017/07/de_Pelicula_Clasico_color_logo_image-768x529.jpg" group-title="28- PREMIUM LATINO",De Película Classico
 
@@ -1237,6 +1264,9 @@ http://ummodigital.com:2082/live/Donald1/Donald1/347.rtmp
 #EXTINF:-1 tvg-logo="http://www.multicanalcatamayo.com/cablevisiondondiego/images/74.png" group-title="28- PREMIUM LATINO",Distrito Comedia (3)
 http://ummodigital.com:2082/live/airborne1/airborne1/347.rtmp
 
+#EXTINF:-1 tvg-logo="http://www.multicanalcatamayo.com/cablevisiondondiego/images/74.png" group-title="28- PREMIUM LATINO",Distrito Comedia (4)
+http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/38.ts
+
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/EURO_LOGO_FINALE.jpg" group-title="28- PREMIUM LATINO",EuroChannel (1)
 
 
@@ -1249,6 +1279,9 @@ http://ummodigital.com:2082/live/Donald1/Donald1/6840.rtmp
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_europa-europa_m.png" group-title="28- PREMIUM LATINO",Europa Europa (3)
 http://ummodigital.com:2082/live/airborne1/airborne1/6840.rtmp
 
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_europa-europa_m.png" group-title="28- PREMIUM LATINO",Europa Europa (4)
+http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/12779.ts
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Al6Y2.png" group-title="28- PREMIUM LATINO",Fox (1)
 http://ummodigital.com:2082/live/jay12/jay12/1390.rtmp
 
@@ -1257,6 +1290,9 @@ http://ummodigital.com:2082/live/Donald1/Donald1/1390.rtmp
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Al6Y2.png" group-title="28- PREMIUM LATINO",Fox (3)
 http://ummodigital.com:2082/live/airborne1/airborne1/1390.rtmp
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Al6Y2.png" group-title="28- PREMIUM LATINO",Fox (4)
+http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/14.ts
 
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_ACTION.png" group-title="28- PREMIUM LATINO",Fox Action (1)
 http://ummodigital.com:2082/live/jay12/jay12/1392.rtmp
@@ -1267,6 +1303,9 @@ http://ummodigital.com:2082/live/Donald1/Donald1/1392.rtmp
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_ACTION.png" group-title="28- PREMIUM LATINO",Fox Action (3)
 http://ummodigital.com:2082/live/airborne1/airborne1/1392.rtmp
 
+#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_ACTION.png" group-title="28- PREMIUM LATINO",Fox Action (4)
+http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/70.ts
+
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_CLASSIC.png" group-title="28- PREMIUM LATINO",Fox Classics (1)
 http://ummodigital.com:2082/live/jay12/jay12/361.rtmp
 
@@ -1276,6 +1315,9 @@ http://ummodigital.com:2082/live/Donald1/Donald1/361.rtmp
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_CLASSIC.png" group-title="28- PREMIUM LATINO",Fox Classics (3)
 http://ummodigital.com:2082/live/airborne1/airborne1/361.rtmp
 
+#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_CLASSIC.png" group-title="28- PREMIUM LATINO",Fox Classics (4)
+http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/73.ts
+
 #EXTINF:-1 tvg-logo="https://www.telecablecr.com/wp-content/uploads/2018/11/LOGO-FOXPREMIUM_CINEMA.png" group-title="28- PREMIUM LATINO",Fox Cinema (1)
 http://ummodigital.com:2082/live/jay12/jay12/360.rtmp
 
@@ -1284,6 +1326,9 @@ http://ummodigital.com:2082/live/Donald1/Donald1/360.rtmp
 
 #EXTINF:-1 tvg-logo="https://www.telecablecr.com/wp-content/uploads/2018/11/LOGO-FOXPREMIUM_CINEMA.png" group-title="28- PREMIUM LATINO",Fox Cinema (3)
 http://ummodigital.com:2082/live/airborne1/airborne1/360.rtmp
+
+#EXTINF:-1 tvg-logo="https://www.telecablecr.com/wp-content/uploads/2018/11/LOGO-FOXPREMIUM_CINEMA.png" group-title="28- PREMIUM LATINO",Fox Cinema (4)
+http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/72.ts
 
 #EXTINF:-1 tvg-logo="https://www.telecablecr.com/wp-content/uploads/2018/11/LOGO-FOXPREMIUM_COMEDY.png" group-title="28- PREMIUM LATINO",Fox Comedy (1)
 http://ummodigital.com:2082/live/jay12/jay12/4968.rtmp
@@ -1312,6 +1357,9 @@ http://ummodigital.com:2082/live/Donald1/Donald1/1393.rtmp
 #EXTINF:-1 tvg-logo="http://neurads.com/wp-content/uploads/foxlife-2.png" group-title="28- PREMIUM LATINO",Fox Life (3)
 http://ummodigital.com:2082/live/airborne1/airborne1/1393.rtmp
 
+#EXTINF:-1 tvg-logo="http://neurads.com/wp-content/uploads/foxlife-2.png" group-title="28- PREMIUM LATINO",Fox Life (4)
+http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/37.ts
+
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_MOVIES.png" group-title="28- PREMIUM LATINO",Fox Movies (1)
 http://ummodigital.com:2082/live/jay12/jay12/1394.rtmp
 
@@ -1320,6 +1368,9 @@ http://ummodigital.com:2082/live/Donald1/Donald1/1394.rtmp
 
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_MOVIES.png" group-title="28- PREMIUM LATINO",Fox Movies (3)
 http://ummodigital.com:2082/live/airborne1/airborne1/1394.rtmp
+
+#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_MOVIES.png" group-title="28- PREMIUM LATINO",Fox Movies (4)
+http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/71.ts
 
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_SERIES.png" group-title="28- PREMIUM LATINO",Fox Series (1)
 http://ummodigital.com:2082/live/jay12/jay12/1391.rtmp
@@ -1330,6 +1381,9 @@ http://ummodigital.com:2082/live/Donald1/Donald1/1391.rtmp
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_SERIES.png" group-title="28- PREMIUM LATINO",Fox Series (3)
 http://ummodigital.com:2082/live/airborne1/airborne1/1391.rtmp
 
+#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_SERIES.png" group-title="28- PREMIUM LATINO",Fox Series (4)
+http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/69.ts
+
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-JBwoh8YDdKY/TyztsSnAnTI/AAAAAAAAAMc/UHfWADlmytY/s1600/fx_hd.png" group-title="28- PREMIUM LATINO",Fx (1)
 http://ummodigital.com:2082/live/jay12/jay12/1395.rtmp
 
@@ -1338,6 +1392,9 @@ http://ummodigital.com:2082/live/Donald1/Donald1/1395.rtmp
 
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-JBwoh8YDdKY/TyztsSnAnTI/AAAAAAAAAMc/UHfWADlmytY/s1600/fx_hd.png" group-title="28- PREMIUM LATINO",Fx (3)
 http://ummodigital.com:2082/live/airborne1/airborne1/1395.rtmp
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-JBwoh8YDdKY/TyztsSnAnTI/AAAAAAAAAMc/UHfWADlmytY/s1600/fx_hd.png" group-title="28- PREMIUM LATINO",Fx (4)
+http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/18.ts
 
 #EXTINF:-1 tvg-logo="http://cdd657a867bca3d5084e-b68367b7dbe633942cc09bdd6fb9eaea.r58.cf2.rackcdn.com/fxmoviechannel.png" group-title="28- PREMIUM LATINO",Fxm (1)
 http://ummodigital.com:2082/live/jay12/jay12/1388.rtmp
@@ -1357,8 +1414,8 @@ http://ummodigital.com:2082/live/airborne1/airborne1/1388.rtmp
 #EXTINF:-1 tvg-logo="http://mediapunta.net/images/goldenedge1%20-%20copia.png" group-title="28- PREMIUM LATINO",Golden Edge (1)
 
 
-#EXTINF:-1 tvg-logo="http://mediapunta.net/images/goldenedge1%20-%20copia.png" group-title="28- PREMIUM LATINO",Golden Edge (3)
-
+#EXTINF:-1 tvg-logo="http://mediapunta.net/images/goldenedge1%20-%20copia.png" group-title="28- PREMIUM LATINO",Golden Edge (4)
+http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/77.ts
 
 #EXTINF:-1 tvg-logo="https://www.totalplay.com.mx/images/logos/canales/cine/g-plus.png" group-title="28- PREMIUM LATINO",Golden Plus (1)
 http://ummodigital.com:2082/live/jay12/jay12/1398.rtmp
@@ -1368,6 +1425,9 @@ http://ummodigital.com:2082/live/Donald1/Donald1/1398.rtmp
 
 #EXTINF:-1 tvg-logo="https://www.totalplay.com.mx/images/logos/canales/cine/g-plus.png" group-title="28- PREMIUM LATINO",Golden Plus (3)
 http://ummodigital.com:2082/live/airborne1/airborne1/1398.rtmp
+
+#EXTINF:-1 tvg-logo="https://www.totalplay.com.mx/images/logos/canales/cine/g-plus.png" group-title="28- PREMIUM LATINO",Golden Plus (4)
+http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/77.ts
 
 #EXTINF:-1 tvg-logo="https://www.telecablecr.com/wp-content/uploads/2017/07/golden_03.png" group-title="28- PREMIUM LATINO",Golden Premier (1)
 http://ummodigital.com:2082/live/jay12/jay12/5071.rtmp
@@ -1390,6 +1450,9 @@ http://ummodigital.com:2082/live/Donald1/Donald1/4915.rtmp
 #EXTINF:-1 tvg-logo="https://vectors.pro/wp-content/uploads/2017/10/hbo-logo-vector.png" group-title="28- PREMIUM LATINO",Hbo (3)
 http://ummodigital.com:2082/live/airborne1/airborne1/4915.rtmp
 
+#EXTINF:-1 tvg-logo="https://vectors.pro/wp-content/uploads/2017/10/hbo-logo-vector.png" group-title="28- PREMIUM LATINO",Hbo (4)
+http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/3508.ts
+
 #EXTINF:-1 tvg-logo="http://aux4.iconspalace.com/uploads/797638582344877408.png" group-title="28- PREMIUM LATINO",Hbo 2 (1)
 http://ummodigital.com:2082/live/jay12/jay12/5201.rtmp
 
@@ -1398,6 +1461,9 @@ http://ummodigital.com:2082/live/Donald1/Donald1/5201.rtmp
 
 #EXTINF:-1 tvg-logo="http://aux4.iconspalace.com/uploads/797638582344877408.png" group-title="28- PREMIUM LATINO",Hbo 2 (3)
 http://ummodigital.com:2082/live/airborne1/airborne1/5201.rtmp
+
+#EXTINF:-1 tvg-logo="http://aux4.iconspalace.com/uploads/797638582344877408.png" group-title="28- PREMIUM LATINO",Hbo 2 (4)
+http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/378.ts
 
 #EXTINF:-1 tvg-logo="https://www.directhd.tv/wp-content/uploads/2018/09/hbo-comedy-200.png" group-title="28- PREMIUM LATINO",Hbo Comedy
 
@@ -1411,8 +1477,11 @@ http://ummodigital.com:2082/live/Donald1/Donald1/5180.rtmp
 #EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/hbo-family-logo-320x320-745790760.png" group-title="28- PREMIUM LATINO",Hbo Family (3)
 http://ummodigital.com:2082/live/airborne1/airborne1/5180.rtmp
 
-#EXTINF:-1 tvg-logo="http://contenidos.cablevision.com.mx/guia_programacion/channels/634.png" group-title="28- PREMIUM LATINO",Hbo Plus (1)
+#EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/hbo-family-logo-320x320-745790760.png" group-title="28- PREMIUM LATINO",Hbo Family (4)
+http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/182.ts
 
+#EXTINF:-1 tvg-logo="http://contenidos.cablevision.com.mx/guia_programacion/channels/634.png" group-title="28- PREMIUM LATINO",Hbo Plus (4)
+http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/377.ts
 
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/mx/HBOSignature.mx.png" group-title="28- PREMIUM LATINO",Hbo Signature (1)
 http://ummodigital.com:2082/live/jay12/jay12/4917.rtmp
@@ -1422,6 +1491,9 @@ http://ummodigital.com:2082/live/Donald1/Donald1/4917.rtmp
 
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/mx/HBOSignature.mx.png" group-title="28- PREMIUM LATINO",Hbo Signature (3)
 http://ummodigital.com:2082/live/airborne1/airborne1/4917.rtmp
+
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/mx/HBOSignature.mx.png" group-title="28- PREMIUM LATINO",Hbo Signature (4)
+http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/3681.ts
 
 #EXTINF:-1 tvg-logo="https://www.dishpromotions.com/wp-content/uploads/HBOZ-logo.png" group-title="28- PREMIUM LATINO",Hbo Zone
 
@@ -1438,8 +1510,11 @@ http://ummodigital.com:2082/live/airborne1/airborne1/4670.rtmp
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-I_y7DS7ckN4/U2Au0ohgyEI/AAAAAAAACRI/UUmABBsgA2A/s1600/Max_HD-fullcaleta.biz.png" group-title="28- PREMIUM LATINO",Max (3)
 
 
-#EXTINF:-1 tvg-logo="https://www.totalplay.com.mx/images/logos/canales/hbomax/max-up.png" group-title="28- PREMIUM LATINO",Max Up (1)
+#EXTINF:-1 tvg-logo="http://sky.vteximg.com.br/arquivos/ids/156096/maxprime-hd.png?v=636446344633130000" group-title="28- PREMIUM LATINO",Max Prime (4)
+http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/371.ts
 
+#EXTINF:-1 tvg-logo="https://www.totalplay.com.mx/images/logos/canales/hbomax/max-up.png" group-title="28- PREMIUM LATINO",Max Up (4)
+http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/371.ts
 
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/multipremier-logo-01.png" group-title="28- PREMIUM LATINO",Multipremier (1)
 http://ummodigital.com:2082/live/jay12/jay12/5077.rtmp
@@ -1449,6 +1524,9 @@ http://ummodigital.com:2082/live/Donald1/Donald1/5077.rtmp
 
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/multipremier-logo-01.png" group-title="28- PREMIUM LATINO",Multipremier (3)
 http://ummodigital.com:2082/live/airborne1/airborne1/5077.rtmp
+
+#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/multipremier-logo-01.png" group-title="28- PREMIUM LATINO",Multipremier (4)
+http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/5240.ts
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1153200946740174848/X4RlVPAc_400x400.png" group-title="28- PREMIUM LATINO",Paramount (1)
 http://ummodigital.com:2082/live/jay12/jay12/3353.rtmp
@@ -1468,6 +1546,9 @@ http://ummodigital.com:2082/live/Donald1/Donald1/1368.rtmp
 #EXTINF:-1 tvg-logo="https://www.totalplay.com.mx/images/logos/canales/entretenimiento/canal-sony.png" group-title="28- PREMIUM LATINO",Sony (3)
 http://ummodigital.com:2082/live/airborne1/airborne1/1368.rtmp
 
+#EXTINF:-1 tvg-logo="https://www.totalplay.com.mx/images/logos/canales/entretenimiento/canal-sony.png" group-title="28- PREMIUM LATINO",Sony (4)
+http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/15.ts
+
 #EXTINF:-1 tvg-logo="https://img.trzcacak.rs/myfile/small/18-183618_cine-sony-nalip-announce-first-annual-short-film.png" group-title="28- PREMIUM LATINO",Sony Cine (1)
 http://ummodigital.com:2082/live/jay12/jay12/3294.rtmp
 
@@ -1476,6 +1557,9 @@ http://ummodigital.com:2082/live/Donald1/Donald1/3294.rtmp
 
 #EXTINF:-1 tvg-logo="https://img.trzcacak.rs/myfile/small/18-183618_cine-sony-nalip-announce-first-annual-short-film.png" group-title="28- PREMIUM LATINO",Sony Cine (3)
 http://ummodigital.com:2082/live/airborne1/airborne1/3294.rtmp
+
+#EXTINF:-1 tvg-logo="https://img.trzcacak.rs/myfile/small/18-183618_cine-sony-nalip-announce-first-annual-short-film.png" group-title="28- PREMIUM LATINO",Sony Cine (4)
+http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/313.ts
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8.png" group-title="28- PREMIUM LATINO",Space (1)
 http://ummodigital.com:2082/live/jay12/jay12/647.rtmp
@@ -1486,6 +1570,9 @@ http://ummodigital.com:2082/live/Donald1/Donald1/647.rtmp
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8.png" group-title="28- PREMIUM LATINO",Space (3)
 http://ummodigital.com:2082/live/airborne1/airborne1/647.rtmp
 
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8.png" group-title="28- PREMIUM LATINO",Space (4)
+http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/86.ts
+
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/04/9e/d4/049ed43cd66568e2061b7bb44a00a925.png" group-title="28- PREMIUM LATINO",Studio Universal (1)
 http://ummodigital.com:2082/live/jay12/jay12/417.rtmp
 
@@ -1494,6 +1581,9 @@ http://ummodigital.com:2082/live/Donald1/Donald1/417.rtmp
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/04/9e/d4/049ed43cd66568e2061b7bb44a00a925.png" group-title="28- PREMIUM LATINO",Studio Universal (3)
 http://ummodigital.com:2082/live/airborne1/airborne1/417.rtmp
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/04/9e/d4/049ed43cd66568e2061b7bb44a00a925.png" group-title="28- PREMIUM LATINO",Studio Universal (4)
+http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/87.ts
 
 #EXTINF:-1 tvg-logo="https://www.programacion.tv/images/syfy.png" group-title="28- PREMIUM LATINO",Syfy (1)
 http://ummodigital.com:2082/live/jay12/jay12/401.rtmp
@@ -1504,6 +1594,9 @@ http://ummodigital.com:2082/live/Donald1/Donald1/401.rtmp
 #EXTINF:-1 tvg-logo="https://www.programacion.tv/images/syfy.png" group-title="28- PREMIUM LATINO",Syfy (3)
 http://ummodigital.com:2082/live/airborne1/airborne1/401.rtmp
 
+#EXTINF:-1 tvg-logo="https://www.programacion.tv/images/syfy.png" group-title="28- PREMIUM LATINO",Syfy (4)
+http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/31.ts
+
 #EXTINF:-1 tvg-logo="http://www.graphis.com/media/uploads/cfe/entry/0c396b4d-8379-4797-ab9b-0c9cc41b19d4/tbs_logo.png" group-title="28- PREMIUM LATINO",Tbs (1)
 http://ummodigital.com:2082/live/jay12/jay12/4671.rtmp
 
@@ -1512,6 +1605,9 @@ http://ummodigital.com:2082/live/Donald1/Donald1/4671.rtmp
 
 #EXTINF:-1 tvg-logo="http://www.graphis.com/media/uploads/cfe/entry/0c396b4d-8379-4797-ab9b-0c9cc41b19d4/tbs_logo.png" group-title="28- PREMIUM LATINO",Tbs (3)
 http://ummodigital.com:2082/live/airborne1/airborne1/4671.rtmp
+
+#EXTINF:-1 tvg-logo="http://www.graphis.com/media/uploads/cfe/entry/0c396b4d-8379-4797-ab9b-0c9cc41b19d4/tbs_logo.png" group-title="28- PREMIUM LATINO",Tbs (4)
+http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/39.ts
 
 #EXTINF:-1 tvg-logo="https://gartel.es/canales/tcm.png" group-title="28- PREMIUM LATINO",Tcm (1)
 http://ummodigital.com:2082/live/jay12/jay12/4673.rtmp
@@ -1522,6 +1618,9 @@ http://ummodigital.com:2082/live/Donald1/Donald1/4673.rtmp
 #EXTINF:-1 tvg-logo="https://gartel.es/canales/tcm.png" group-title="28- PREMIUM LATINO",Tcm (3)
 http://ummodigital.com:2082/live/airborne1/airborne1/4673.rtmp
 
+#EXTINF:-1 tvg-logo="https://gartel.es/canales/tcm.png" group-title="28- PREMIUM LATINO",Tcm (4)
+http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/89.ts
+
 #EXTINF:-1 tvg-logo="http://mareatvcable.com/wp-content/uploads/2017/12/44-tntlogo.png" group-title="28- PREMIUM LATINO",Tnt (1)
 http://ummodigital.com:2082/live/jay12/jay12/409.rtmp
 
@@ -1530,6 +1629,9 @@ http://ummodigital.com:2082/live/Donald1/Donald1/409.rtmp
 
 #EXTINF:-1 tvg-logo="http://mareatvcable.com/wp-content/uploads/2017/12/44-tntlogo.png" group-title="28- PREMIUM LATINO",Tnt (3)
 http://ummodigital.com:2082/live/airborne1/airborne1/409.rtmp
+
+#EXTINF:-1 tvg-logo="http://mareatvcable.com/wp-content/uploads/2017/12/44-tntlogo.png" group-title="28- PREMIUM LATINO",Tnt (4)
+http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/76.ts
 
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/tnt-series-logo-01.png" group-title="28- PREMIUM LATINO",Tnt Series (1)
 http://ummodigital.com:2082/live/jay12/jay12/648.rtmp
@@ -1540,6 +1642,9 @@ http://ummodigital.com:2082/live/Donald1/Donald1/648.rtmp
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/tnt-series-logo-01.png" group-title="28- PREMIUM LATINO",Tnt Series (3)
 http://ummodigital.com:2082/live/airborne1/airborne1/648.rtmp
 
+#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/tnt-series-logo-01.png" group-title="28- PREMIUM LATINO",Tnt Series (4)
+http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/33.ts
+
 #EXTINF:-1 tvg-logo="http://www.temporadafinal.com/gallery/5400ebfa0cc26universal-channel-.png" group-title="28- PREMIUM LATINO",Universal Channel (1)
 http://ummodigital.com:2082/live/jay12/jay12/418.rtmp
 
@@ -1549,6 +1654,9 @@ http://ummodigital.com:2082/live/Donald1/Donald1/418.rtmp
 #EXTINF:-1 tvg-logo="http://www.temporadafinal.com/gallery/5400ebfa0cc26universal-channel-.png" group-title="28- PREMIUM LATINO",Universal Channel (3)
 http://ummodigital.com:2082/live/airborne1/airborne1/418.rtmp
 
+#EXTINF:-1 tvg-logo="http://www.temporadafinal.com/gallery/5400ebfa0cc26universal-channel-.png" group-title="28- PREMIUM LATINO",Universal Channel (4)
+http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/17.ts
+
 #EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/08/d3e81-wb-hd-2011.png" group-title="28- PREMIUM LATINO",Warner Channel (1)
 http://ummodigital.com:2082/live/jay12/jay12/4666.rtmp
 
@@ -1557,6 +1665,9 @@ http://ummodigital.com:2082/live/Donald1/Donald1/4666.rtmp
 
 #EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/08/d3e81-wb-hd-2011.png" group-title="28- PREMIUM LATINO",Warner Channel (3)
 http://ummodigital.com:2082/live/airborne1/airborne1/4666.rtmp
+
+#EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/08/d3e81-wb-hd-2011.png" group-title="28- PREMIUM LATINO",Warner Channel (4)
+http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/16.ts
 
 #######################################################################################################################################################################################
 #######################################
