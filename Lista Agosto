@@ -361,6 +361,9 @@ http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
 https://stream.vagalume.fm/hls/146411300413492499/aac.m3u8
 #######################################
 
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/ecuavisa.png" group-title="10- ECUADOR",Ecuavisa (4)
+http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/3446.ts
+
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/FXqG3LnBX_A/hqdefault_live.jpg" group-title="10- ECUADOR",Hechos Ecuador
 http://37.187.7.106/hechostv/live.m3u8
 
@@ -369,6 +372,9 @@ http://videos.oromartv.com:8082/hls/oromartv_hi/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cnt.gob.ec/tv/wp-content/uploads/sites/5/2019/03/RTU-LOGO-NEGRO.png" group-title="10- ECUADOR",RTU
 https://59c3c7bda15f4.streamlock.net:444/rtutv/smil:rtutv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-g8pCQKtcW8I/Wa6yKFllydI/AAAAAAAAbRM/88tmZkMAHc4HKce5b2FSOaf3YMsqfhPUQCLcBGAs/s1600/Tc%2Ben%2Bvivo.png" group-title="10- ECUADOR",TC (4)
+http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/3448.ts
 
 #EXTINF:-1 tvg-logo="https://www15.ucsg.edu.ec/biblioteca/buscadorOPAC/images/LOGO.png" group-title="10- ECUADOR",UCSG
 http://ecuastream.net:1935/UCSGHQ/UCSGHQ/playlist.m3u8
@@ -3305,7 +3311,7 @@ http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/9402.ts
 #EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/goltv.png" group-title="41- DEPORTES LATINO",Gol Ecuador
 
 
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/--LVCAyp0htk/XGE5k3SFbaI/AAAAAAAABvo/bs1PHSRf4UQcypIh5_CN6aR0sWY_5QUSACLcBGAs/s320/Gol%2BPeru.png" group-title="41- DEPORTES LATINO",Gol Peru (4)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/yK8g6N8.png" group-title="41- DEPORTES LATINO",Gol Peru (4)
 http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/488.ts
 
 #EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/goltv.png" group-title="41- DEPORTES LATINO",Gol Uruguay (1)
