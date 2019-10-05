@@ -193,6 +193,12 @@ http://lista.digitalgroup.me/6113/1234/1108
 #EXTINF:0 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/band-logo-png-6.png" group-title="04- BRASIL",Band (3)
 http://lista.digitalgroup.me/3323/123/1108
 
+#EXTINF:0 tvg-logo="https://minharadioonline.net/sites/canalricos.com.br/images/logo/logo600.png" group-title="04- BRASIL",Canal Ricos
+http://video01.kshost.com.br/canalricos548/canalricos548/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.wtvision.com/wp-content/uploads/Canal-Rural-570x570.jpg" group-title="04- BRASIL",Canal Rural
+http://evpp.mm.uol.com.br/canal_rural/aovivo.sdp/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-9tDte7uhQ9c/WLdNncrMpjI/AAAAAAAACws/K60NlJ0Qa4AVKeQ1JYpis_OlAheHottMACLcB/s1600/Cinemais.jpg" group-title="04- BRASIL",Cine +
 https://5c49cd60dfe56.streamlock.net:6443/cinemais/live/chunklist_w749538962.m3u8
 
@@ -234,6 +240,9 @@ http://lista.digitalgroup.me/3323/123/46914
 
 #EXTINF:-1 tvg-logo="http://evertonlopes.com.br/wp-content/uploads/2017/04/RBS_TV2.png" group-title="04- BRASIL",Globo RBS (3) SD
 http://lista.digitalgroup.me/3323/123/968
+
+#EXTINF:-1 tvg-logo="https://www.hedex.tv/uploads/images/clip_155_1556042983_thumb.png" group-title="04- BRASIL",Itú TV
+http://tv02.logicahost.com.br:1935/itutv/itutv/live.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/if82162.png" group-title="04- BRASIL",NBR (1)
 http://tv.factoryiptv.com:80/live/claudio/claudio/37021.rtmp
@@ -292,8 +301,14 @@ http://lista.digitalgroup.me/3323/123/50196
 #EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="04- BRASIL",SBT PE
 http://evpp.mm.uol.com.br/ne10/ne10_720.sdp/chunklist_w322427533.m3u8
 
+#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/Y29tLmFwcGxpY2F0aW9uLnR2Ym5vX3NjcmVlbl8wXzE1MDU1NzM5NzdfMDU1/screen-0.jpg?fakeurl=1&type=.jpg" group-title="04- BRASIL",TV BNO
+http://tv02.logicahost.com.br:1935/bonner/bonner/live.m3u8
+
 #EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/1003228/logo_tv%20diario%20do%20sertao.png" group-title="04- BRASIL",Tv Diario do Sertao
 http://painelvj.com.br/pdsertaotv/pdsertaotv.sdp/chunklist_w1056637401.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/a4bf2a1b1c9251f3d1fc0af4e015daf4.jpg" group-title="04- BRASIL",TV Digital Birigui
+http://tv02.logicahost.com.br:1935/tvdigitalbirigui/tvdigitalbirigui/live.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/kLWg5sp.png" group-title="04- BRASIL",TVE BA
 http://200.187.60.190:80/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8
@@ -303,6 +318,12 @@ http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/V3zjKvc.png" group-title="04- BRASIL",Tv FAAP
 http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/981248236605362177/yOeHgUrj_400x400.jpg" group-title="04- BRASIL",Tv Metropole
+http://in.uaimacks.net.br:1935/macks/macks.sdp/chunklist_w1760176873.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5f33f7ec5deba04ed06cb0aa82bda5fa.png" group-title="04- BRASIL",TVN Brasil
+http://painelvj.com.br:1935/tvnbrasil/tvnbrasil.sdp/live.m3u8
 
 #EXTINF:-1 tvg-logo="http://webtvminas.com/wp-content/uploads/2015/05/logo1.png" group-title="04- BRASIL",Web TV Minas
 http://173.236.10.10:1935/webtvminas/webtvminas/live.m3u8
