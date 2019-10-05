@@ -505,9 +505,6 @@ http://37.187.7.106/hechostv/live.m3u8
 #EXTINF:-1 tvg-logo="http://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="10- ECUADOR",Oromar TV 
 http://videos.oromartv.com:8082/hls/oromartv_hi/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cnt.gob.ec/tv/wp-content/uploads/sites/5/2019/03/RTU-LOGO-NEGRO.png" group-title="10- ECUADOR",RTU
-https://59c3c7bda15f4.streamlock.net:444/rtutv/smil:rtutv.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-g8pCQKtcW8I/Wa6yKFllydI/AAAAAAAAbRM/88tmZkMAHc4HKce5b2FSOaf3YMsqfhPUQCLcBGAs/s1600/Tc%2Ben%2Bvivo.png" group-title="10- ECUADOR",TC (4)
 http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/3448.ts
 
@@ -733,7 +730,7 @@ http://138.117.4.70:8079/streams/d/Canal-12/playlist.m3u8
 https://stream.vagalume.fm/hls/14619606471054026608/aac.m3u8
 #######################################
 
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/06/Red-Paraguaya-de-Comunicaci%C3%B3n-1.png" group-title="16- PARAGUAY",RPC
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tdgaw2m.png" group-title="16- PARAGUAY",RPC
 http://174.138.118.252/live/canal13stream_src.m3u8
 
 ######################################################################################################################################
@@ -751,11 +748,11 @@ http://ummodigital.com:2082/live/jay12/jay12/5459.rtmp
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_america-television_m.png" group-title="17- PERU",America tv (4)
 http://ummodigital.com:2082/live/Gustavo2019/gustavo2019/5459.rtmp
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_america-television_m.png" group-title="17- PERU",America tv (5)
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_america-television_m.png" group-title="17- PERU",America tv SD
+http://ecdn-mediastream.cdn.mdstrm.com/live-stream-secure/5c51e67df4d3c6698b02bbee/publish/media_2500.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://www.jssor.com/andre89/tv-antares.png" group-title="17- PERU",Antares
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7I13BUc.png" group-title="17- PERU",Antares
+http://173.192.105.252:1935/iptvantares/liveantarestv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/atv-peru-logo-5506CAAD40-seeklogo.com.png" group-title="17- PERU",Atv (2)
 
@@ -763,14 +760,23 @@ http://ummodigital.com:2082/live/Gustavo2019/gustavo2019/5459.rtmp
 #EXTINF:-1 tvg-logo="https://peru.mom-rsf.org/typo3temp/_processed_/4/7/csm_2013-205_import_95c305c25d.png" group-title="17- PERU",Atv Noticias (2)
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7hP4nps.png" group-title="17- PERU",BHtv
+http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/.m3u8
+
 #EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/3781231/logo_cultura%2024.png" group-title="17- PERU",Cultura 24 TV
 http://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/3781231/logo_cultura%2024.png" group-title="17- PERU",Cultura 24 TV
 http://vs8.live.opencaster.com/cultura24/smil:cultura24/chunklist_w1710773429_b564000_sles.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FI1Hd4E.png" group-title="17- PERU",Ipe
+http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/565018162916114432/7h5k-iqC_400x400.png" group-title="17- PERU",JN19
 http://movil.mediastream.pe/vv_manosdios/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="17- PERU",Panamericana TV
+http://cdnhd.iblups.com/hls/ptv2.m3u8
 
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-zONwKyIGEe8/US6GONLKNMI/AAAAAAAAH50/PXQ17OgMMAg/s1600/paxtv.png" group-title="17- PERU",Pax TV
 http://d2fxrfbiedz1tm.cloudfront.net/livepaxtv/smil:PC.smil/playlist.m3u8
@@ -813,6 +819,12 @@ http://ummodigital.com:2082/live/Gustavo2019/gustavo2019/867.rtmp
 
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-Mcc2xCpSKWQ/UF6PxaiQZYI/AAAAAAAACQU/BLm5ZUhxzfs/s1600/LOGOTVPERU.jpg" group-title="17- PERU",TV Perú (5)
 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PjzOrx7.png" group-title="17- PERU",Vision Noticias
+http://v8.ciclano.io:1935/visionnoticias/_definst_/visionnoticias/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HPUgwda.jpg" group-title="17- PERU",Willax
+http://api.new.livestream.com/accounts/26619010/events/7987650/live.m3u8
 
 ######################################################################################################################################
 ####################################### PORTUGAL
@@ -1000,8 +1012,26 @@ http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/493.ts
 https://stream.vagalume.fm/hls/1475776167864381/aac.m3u8
 #######################################
 
-#EXTINF:-1 tvg-logo="https://www.ecured.cu/images/thumb/c/c0/Emblema_de_TeleSur.png/250px-Emblema_de_TeleSur.png" group-title="21- VENEZUELA",Telesur
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FlLXxgq.png" group-title="21- VENEZUELA",Corazón Llanero
+http://5.189.191.70:1935/corazonllanerotvweb/corazonllanerotvweb/chunklist_w1799524531.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iQtrqmc.jpg" group-title="21- VENEZUELA",Promar TV
+http://edge.wms28.lorini.net/promar/promar/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Af6z5hL.png" group-title="21- VENEZUELA",Telesur
 https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/480p/chunklist.m3u8?GrupoTopIptv
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Af6z5hL.png" group-title="21- VENEZUELA",Telesur HD
+http://wceatv1.srfms.com:2177/live/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G4g7v49.png" group-title="21- VENEZUELA",TLT
+http://laputadetumadrextremostereo.lateletuya.com/servicio14/servicio14/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8trJhLq.png" group-title="21- VENEZUELA",TVes
+http://5.189.181.203:1935/tves/tves/chunklist_w1468535123.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nDucnkS.png" group-title="21- VENEZUELA",TVO
+http://edge.wms28.lorini.net/tvo/tvo/playlist.m3u8
 
 #######################################################################################################################################################################################
 #######################################
