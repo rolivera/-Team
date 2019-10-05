@@ -490,6 +490,12 @@ http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
 https://stream.vagalume.fm/hls/146411300413492499/aac.m3u8
 #######################################
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ATPWac1.jpg" group-title="10- ECUADOR",Canal 7 Ecuad0r TV
+http://api.new.livestream.com/accounts/27228685/events/8710465/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LckvbDi.png" group-title="10- ECUADOR",Ecotel TV
+http://192.99.56.185/ecotel/live.m3u8
+
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/ecuavisa.png" group-title="10- ECUADOR",Ecuavisa (4)
 http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/3446.ts
 
@@ -518,10 +524,19 @@ https://stream.vagalume.fm/hls/1506975770142563/aac.m3u8
 http://aztecalive-lh.akamaihd.net/i/0dcqjxkgx_1@502208/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/canal-5-el-lider-honduras-2019-present-logo-1EEE1B9DDA-seeklogo.com.png" group-title="11- HONDURAS",5 Lider
-https://trinity-lh.akamaihd.net/i/TelevicentroLive1_d@17977/master.m3u8
+http://trinity-lh.akamaihd.net/i/TelevicentroLive1_d@17977/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0urhlbe.png" group-title="11- HONDURAS",Campus TV
+http://st2.worldkast.com/8004/8004/chunklist_w1315793139.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qRHwhND.png" group-title="11- HONDURAS",Cholusat Sur 36
+http://audiotvserver.net:1935/livemedia/cholusat/chunklist_w1981374450.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.globotvhonduras.com/GLOBO%20TV.png" group-title="11- HONDURAS",Globo TV
 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tzqCSrl.png" group-title="11- HONDURAS",Hondured Canal 13
+http://stream.innovandote.com:1935/hondured/hondured/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.honduras.com/wp-content/uploads/2012/05/logo-mundotv.png" group-title="11- HONDURAS",MundoTV
 
@@ -529,8 +544,11 @@ https://trinity-lh.akamaihd.net/i/TelevicentroLive1_d@17977/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vWyTg5L.png" group-title="11- HONDURAS",Teleceiba
 http://190.11.224.14:8134/liveevent.m3u8
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tsi-honduras-logo-A80A69CD6F-seeklogo.com.png" group-title="11- HONDURAS",TSI
-https://trinity-lh.akamaihd.net/i/TelevicentroLive2_d@508538/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HQiKyHy.jpg" group-title="11- HONDURAS",TEN Canal 10
+http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mmxfC0F.png" group-title="11- HONDURAS",TSI
+http://trinity-lh.akamaihd.net/i/TelevicentroLive2_d@508538/master.m3u8
 
 ######################################################################################################################################
 ####################################### ITALIA
