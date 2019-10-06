@@ -337,6 +337,9 @@ https://stream.vagalume.fm/hls/1465840912218182609/aac.m3u8
 #EXTINF:-1  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ad/Bolivia_TV_2016.png/revision/latest?cb=20160622170105" group-title="05- BOLIVIA",Bolivia TV
 http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pawDMnQ.jpg" group-title="05- BOLIVIA",Bolivision
+http://136.243.3.70:1935/Bolivision/Bolivision/chunklist_w1258803449.m3u8
+
 #EXTINF:-1  tvg-logo="http://www.catolicatelevision.com/wp-content/uploads/sites/9/2013/10/logo_ctv2.png" group-title="05- BOLIVIA",Católica TV
 http://136.243.3.70:1935/CatolicaTv/CatolicaTv/playlist.m3u8
 
@@ -349,8 +352,14 @@ http://192.99.38.174:1935/patbolivia/patlapaz/playlist.m3u8
 #EXTINF:-1  tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/pattv.png" group-title="05- BOLIVIA",PAT La Paz
 http://192.99.38.174:1935/patbolivia/patlapaz/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XAgQE1z.png" group-title="05- BOLIVIA",Red Uno
+http://136.243.3.70:1935/RedUno/RedUno/chunklist_w372299009.m3u8
+
 #EXTINF:-1  tvg-logo="https://img11.androidappsapk.co/300/d/9/0/com.trunect2.rtp.png" group-title="05- BOLIVIA",RTP
 http://136.243.3.70:1935/RtpBolivia/RtpBolivia/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7lkIFVg.jpg" group-title="05- BOLIVIA",Unitel
+http://136.243.3.70:1935/Unitel/Unitel/chunklist_w1949818179_DVR.m3u8
 
 ######################################################################################################################################
 ####################################### CHILE
