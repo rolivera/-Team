@@ -391,8 +391,14 @@ http://edge1.cl.grupoz.cl/cachipuntv/live/playlist.m3u8?GrupoTopIptv
 #EXTINF:-1 tvg-logo="http://i.imgur.com/VhOolgs.png" group-title="06- CHILE",El Pingüino
 http://streaming.elpinguino.com:1935/live/pinguinotv_720p/hasbahca.m3u8?GrupoTopIptv
 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/VhOolgs.png" group-title="06- CHILE",El Pingüino SD
+http://streaming.elpinguino.com:1935/live/pinguinotv_360p/sat.m3u8?GrupoTopIptv
+
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1080966471730159616/02VhbJeN_400x400.jpg" group-title="06- CHILE",Holvoet TV
 http://unlimited5-cl.dps.live/holvoettv/holvoettv.smil/playlist.m3u8?GrupoTopIptv
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9sKGsmt.png" group-title="06- CHILE",ITV
+http://unlimited1-us.dps.live/itv/itv.smil/itv/livestream1/chunks.m3u8?GrupoTopIptv
 
 #EXTINF:-1 tvg-logo="https://blogvecindad.com/wp-content/uploads/2015/11/Mega_Chile_Alternate_Logo.png" group-title="06- CHILE",Mega (2)
 http://ummodigital.com:2082/live/Donald1/Donald1/3095.rtmp
@@ -400,8 +406,14 @@ http://ummodigital.com:2082/live/Donald1/Donald1/3095.rtmp
 #EXTINF:-1 tvg-logo="https://blogvecindad.com/wp-content/uploads/2015/11/Mega_Chile_Alternate_Logo.png" group-title="06- CHILE",Mega (3)
 http://ummodigital.com:2082/live/jay12/jay12/3095.rtmp
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/umdJ2mP.jpg" group-title="06- CHILE",Portalfoxmix
+http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8?GrupoTopIptv
+
 #EXTINF:-1 tvg-logo="https://img8.androidappsapk.co/300/8/b/3/com.trece.t13.png" group-title="06- CHILE",T13
 http://c13-ply.janus.cl/playlist/stream.m3u8?s=c13hd?GrupoTopIptv
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6J8xRah.png" group-title="06- CHILE",Teletrak
+http://unlimited1-us.dps.live/teletrak/teletrak.smil/teletrak/livestream1/chunks.m3u8?GrupoTopIptv
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-snwIA-MbUYs/W15lFEEE7TI/AAAAAAAAkqA/75Rrun41uOMufo_zTiUBpJu4icQcjpSOwCK8BGAs/s317/2018-07-29.png" group-title="06- CHILE",TV8
 https://593b04c4c5670.streamlock.net/8134/8134/playlist.m3u8?GrupoTopIptv
@@ -487,8 +499,14 @@ https://stream.vagalume.fm/hls/14660050141766497579/aac.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Naw5Wnn.png" group-title="08- COSTA RICA",Extrema TV
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8?GrupoTopIptv
 
+#EXTINF:-1 tvg-logo="https://image.multimedios.cr/sites/default/files/styles/social_share/public/nota_somos_el_8.jpg" group-title="08- COSTA RICA",Multimedios Canal 8
+http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?GrupoTopIptv
+
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/telered.png" group-title="08- COSTA RICA",Telered
 http://k4.usastreams.com/Telesistemas/Telesistemas/playlist.m3u8?GrupoTopIptv
+
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/ticavision.png" group-title="08- COSTA RICA",Ticavision
+http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8?GrupoTopIptv
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YqW3o4z.png" group-title="08- COSTA RICA",Tv Sur
 http://205.164.56.130:1935/tvsur81/tvsur81/playlist.m3u8?GrupoTopIptv
