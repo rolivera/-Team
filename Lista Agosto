@@ -1408,6 +1408,9 @@ http://ummodigital.com:2082/live/airborne1/airborne1/1357.rtmp
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/axn.png" group-title="28- PREMIUM LATINO",Axn (4)
 http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/20.ts
 
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/axn.png" group-title="28- PREMIUM LATINO",Axn (LTS)
+http://content.proxymedia.me:2052/hls_gostreambt/068/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvNy8yMDE5IDY6MDg6NTEgQU0maGFzaF92YWx1ZT04VEN3Zi9iR1YvcndpL2dvYnJXeVBnPT0mdmFsaWRtaW51dGVzPTcyMDA=
+
 #EXTINF:-1 tvg-logo="http://comcab.mx/images/canales/comcab-cinecanal.png" group-title="28- PREMIUM LATINO",Cinecanal (1)
 http://ummodigital.com:2082/live/jay12/jay12/5055.rtmp
 
@@ -1420,11 +1423,14 @@ http://ummodigital.com:2082/live/airborne1/airborne1/5055.rtmp
 #EXTINF:-1 tvg-logo="http://comcab.mx/images/canales/comcab-cinecanal.png" group-title="28- PREMIUM LATINO",Cinecanal (4)
 http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/75.ts
 
+#EXTINF:-1 tvg-logo="http://comcab.mx/images/canales/comcab-cinecanal.png" group-title="28- PREMIUM LATINO",Cinecanal (LTS)
+http://content.proxymedia.me:2052/hls_gostreambt/069/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvNy8yMDE5IDY6MTE6MzYgQU0maGFzaF92YWx1ZT1SYnNCRlRiazhpNldZbFEvSjBWOURnPT0mdmFsaWRtaW51dGVzPTcyMDA=
+
 #EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/12/52a34-cl.png" group-title="28- PREMIUM LATINO",Cine Latino (1)
 
 
-#EXTINF:-1 tvg-logo="http://www.cinemadinamita.com/img/logos/Inicio.png" group-title="28- PREMIUM LATINO",Cine Dinamita (1)
-
+#EXTINF:-1 tvg-logo="http://www.cinemadinamita.com/img/logos/Inicio.png" group-title="28- PREMIUM LATINO",Cine Dinamita (LTS)
+http://content.proxymedia.me:2052/hls_gostreambt/235/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvNy8yMDE5IDY6MTQ6NDMgQU0maGFzaF92YWx1ZT1zQmMxYzFJZTE3dFFWUG5uMTEvUGF3PT0mdmFsaWRtaW51dGVzPTcyMDA=
 
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cine/16.png" group-title="28- PREMIUM LATINO",Cinemax (1)
 http://ummodigital.com:2082/live/jay12/jay12/2184.rtmp
@@ -1434,6 +1440,9 @@ http://ummodigital.com:2082/live/Donald1/Donald1/2184.rtmp
 
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cine/16.png" group-title="28- PREMIUM LATINO",Cinemax (3)
 http://ummodigital.com:2082/live/airborne1/airborne1/2184.rtmp
+
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cine/16.png" group-title="28- PREMIUM LATINO",Cinemax (LTS)
+http://content.proxymedia.me:2052/hls_gostreambt/070/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvNy8yMDE5IDY6MTc6NDQgQU0maGFzaF92YWx1ZT1hNzU1ZWhWelpTejFRMmk5LzdwdHNnPT0mdmFsaWRtaW51dGVzPTcyMDA=
 
 #EXTINF:-1 tvg-logo="http://newprinter.com.ar/wp-content/uploads/2019/02/claro-pb-logo-vector-400x400.png" group-title="28- PREMIUM LATINO",Claro Cinema (1)
 http://ummodigital.com:2082/live/jay12/jay12/5058.rtmp
@@ -1458,6 +1467,9 @@ http://ummodigital.com:2082/live/airborne1/airborne1/4645.rtmp
 
 #EXTINF:-1 tvg-logo="http://new.lamac.org/system/channels/logos/000/000/044/original/pic_comedycentral.png?1522177270" group-title="28- PREMIUM LATINO",Comedy Central (4)
 http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/22.ts
+
+#EXTINF:-1 tvg-logo="http://new.lamac.org/system/channels/logos/000/000/044/original/pic_comedycentral.png?1522177270" group-title="28- PREMIUM LATINO",Comedy Central (LTS)
+http://content.proxymedia.me:2052/hls_gostreambt/071/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvNy8yMDE5IDY6MjA6MjAgQU0maGFzaF92YWx1ZT0yZ25JcnprTHJadUlxSXdJTHB2blBRPT0mdmFsaWRtaW51dGVzPTcyMDA=
 
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/de_pelicula_hd-mediano.png" group-title="28- PREMIUM LATINO",De Película (1)
 http://ummodigital.com:2082/live/jay12/jay12/1373.rtmp
@@ -1486,6 +1498,9 @@ http://ummodigital.com:2082/live/airborne1/airborne1/347.rtmp
 #EXTINF:-1 tvg-logo="http://www.multicanalcatamayo.com/cablevisiondondiego/images/74.png" group-title="28- PREMIUM LATINO",Distrito Comedia (4)
 http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/38.ts
 
+#EXTINF:-1 tvg-logo="http://www.multicanalcatamayo.com/cablevisiondondiego/images/74.png" group-title="28- PREMIUM LATINO",Distrito Comedia (LTS)
+http://content.proxymedia.me:2052/hls_gostreambt/073/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvNy8yMDE5IDY6MjQ6MDEgQU0maGFzaF92YWx1ZT1VWEcweDVtZVFwYlNvditBdG9wYStBPT0mdmFsaWRtaW51dGVzPTcyMDA=
+
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/EURO_LOGO_FINALE.jpg" group-title="28- PREMIUM LATINO",EuroChannel (1)
 
 
@@ -1501,6 +1516,9 @@ http://ummodigital.com:2082/live/airborne1/airborne1/6840.rtmp
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_europa-europa_m.png" group-title="28- PREMIUM LATINO",Europa Europa (4)
 http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/12779.ts
 
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_europa-europa_m.png" group-title="28- PREMIUM LATINO",Europa Europa (LTS)
+http://content.proxymedia.me:2052/hls_gostreambt/491/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvNy8yMDE5IDY6MjU6NTQgQU0maGFzaF92YWx1ZT0vMncrME9HTDhrUWNMMzU0SWN4b2hRPT0mdmFsaWRtaW51dGVzPTcyMDA=
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Al6Y2.png" group-title="28- PREMIUM LATINO",Fox (1)
 http://ummodigital.com:2082/live/jay12/jay12/1390.rtmp
 
@@ -1512,6 +1530,9 @@ http://ummodigital.com:2082/live/airborne1/airborne1/1390.rtmp
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Al6Y2.png" group-title="28- PREMIUM LATINO",Fox (4)
 http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/14.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Al6Y2.png" group-title="28- PREMIUM LATINO",Fox (LTS)
+http://content.proxymedia.me:2052/hls_gostreambt/082/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvNy8yMDE5IDY6Mjg6MTAgQU0maGFzaF92YWx1ZT1KUEJaQ2hoNXczRVVZaldtQlBRcWJnPT0mdmFsaWRtaW51dGVzPTcyMDA=
 
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_ACTION.png" group-title="28- PREMIUM LATINO",Fox Action (1)
 http://ummodigital.com:2082/live/jay12/jay12/1392.rtmp
