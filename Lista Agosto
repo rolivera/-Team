@@ -28,7 +28,7 @@ http://www.coninfo.net:1935/tvcinco/live1/chunklist_w1546509083.m3u8?GrupoTopIpt
 http://stream02.shockmedia.com.ar:1935/canal2tunuyan/_definst_/canal2tunuyan/chunklist.m3u8?GrupoTopIptv
 
 #EXTINF:-1 tvg-logo="http://futbolhoy.com.ar/wp-content/uploads/2019/03/A24.png" group-title="03- ARGENTINA",A24 (4)
-http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/1026.ts
+
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/America-TV.png" group-title="03- ARGENTINA",America (2)
 http://ummodigital.com:2082/live/Donald1/Donald1/3569.rtmp
@@ -37,16 +37,16 @@ http://ummodigital.com:2082/live/Donald1/Donald1/3569.rtmp
 http://ummodigital.com:2082/live/jay12/jay12/3569.rtmp
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/America-TV.png" group-title="03- ARGENTINA",America (4)
-http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/1019.ts
+http://ummodigital.com:2082/live/Orlando1/Orlando1/3569.rtmp
 
 #EXTINF:-1 tvg-logo="https://img3.androidappsapk.co/300/7/0/6/net.coninfo.admin.trecemaxtelevisin.png" group-title="03- ARGENTINA",13 Max
 http://coninfo.net:1935/13maxhd/live_720p/chunklist.m3u8?GrupoTopIptv
 
 #EXTINF:-1 tvg-logo="https://img3.androidappsapk.co/300/7/0/6/net.coninfo.admin.trecemaxtelevisin.png" group-title="03- ARGENTINA",13 Max (4)
-http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/13114.ts
+
 
 #EXTINF:-1 tvg-logo="http://www.lapostanoticias.com.ar/wp-content/uploads/2018/03/C5N_logo_1color_SinBajada-01-2.jpg" group-title="03- ARGENTINA",C5N (4)
-http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/1024.ts
+
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/732661005952618496/5pxo5q9h_400x400.jpg" group-title="03- ARGENTINA",Canal 4 Jujuy
 http://190.52.32.13:1935/canal4/smil:manifest.smil/playlist.m3u8?GrupoTopIptv
@@ -73,10 +73,10 @@ http://200.115.193.177/live/26hd-720/.m3u8?GrupoTopIptv
 http://flow.nibbletv.info/CH/VJcxZ7cEbJEm/Canal-26.m3u8?GrupoTopIptv
 
 #EXTINF:-1 tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/3.png" group-title="03- ARGENTINA",Canal 26 (4)
-http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/1033.ts
+
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_ciudad-abierta_m.png" group-title="03- ARGENTINA",Canal de la Ciudad (4)
-http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/14327.ts
+
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/canal-local-324x160.png" group-title="03- ARGENTINA",Canal Local Buenos Aires
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0089?GrupoTopIptv
@@ -85,7 +85,7 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0089?GrupoTopIptv
 http://www.trimi.com.ar/provincial/streaming/mystream.m3u8?GrupoTopIptv
 
 #EXTINF:-1 tvg-logo="http://www.cableaudiovision.com.ar/grilla-web/canales/ciudadmagazine.png" group-title="03- ARGENTINA",Ciudad Magazine (4)
-http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/5243.ts
+
 
 #EXTINF:-1 tvg-logo="http://www.ciudadtv.com.ar/es/images/logo.png" group-title="03- ARGENTINA",Ciudad TV Chaco
 http://coninfo.net:1935/chacodxdtv/live/chunklist_w1251301598.m3u8?GrupoTopIptv
@@ -97,19 +97,18 @@ http://stream02.shockmedia.com.ar:1935/cl3cable/cl3cable/chunklist_w503758088.m3
 http://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://forounivers.com/uploads/monthly_2017_09/large.cronica-hd.png.5157c554666f425202f0ccac19729180.png" group-title="03- ARGENTINA",Cronica tv (4)
-http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/1028.ts
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/75UgF.png" group-title="03- ARGENTINA",CPEtv
 http://dcunilive28-lh.akamaihd.net/i/dclive_1@533583/index_150_av-p.m3u8?GrupoTopIptv
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/el-doce-tv.png" group-title="03- ARGENTINA",El Doce (4)
-http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/13113.ts
+
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-garage_m.png" group-title="03- ARGENTINA",El Garage
 http://186.0.233.76:1935/Garage/garage.smil/playlist.m3u8?GrupoTopIptv
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/canal-9-m.jpg" group-title="03- ARGENTINA",El Nueve (4)
-http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/1023.ts
 
 #EXTINF:-1 tvg-logo="http://ipuntotv.com/IMAGES/ElTreceHD2012.jpg" group-title="03- ARGENTINA",El Trece (2)
 http://ummodigital.com:2082/live/Donald1/Donald1/3555.rtmp
@@ -118,28 +117,28 @@ http://ummodigital.com:2082/live/Donald1/Donald1/3555.rtmp
 http://ummodigital.com:2082/live/jay12/jay12/3555.rtmp
 
 #EXTINF:-1 tvg-logo="http://ipuntotv.com/IMAGES/ElTreceHD2012.jpg" group-title="03- ARGENTINA",El Trece (4)
-http://ummodigital.com:2082/live/Gustavo2019/gustavo2019/3555.rtmp
+http://ummodigital.com:2082/live/Orlando1/Orlando1/3555.rtmp
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1171440347508920320/7pwThQbq_400x400.jpg" group-title="03- ARGENTINA",KZO (4)
-http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/11016.ts
+
 
 #EXTINF:-1 tvg-logo="http://www.mundou.edu.ar/img/canales/a1v2ltjc.png" group-title="03- ARGENTINA",Litus
 http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8?GrupoTopIptv
 
 #EXTINF:-1 tvg-logo="https://directoriolegislativo.org/dl-content/uploads/new/2017/05/ln-default-facebook.jpg" group-title="03- ARGENTINA",LN+ (4)
-http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/13610.ts
+
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/09/canal-9-multivision.png" group-title="03- ARGENTINA",Multivision
 http://panel.dattalive.com:1935/8250/8250/chunklist_w1392684176.m3u8?GrupoTopIptv
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/09/canal-9-multivision.png" group-title="03- ARGENTINA",Multivision (4)
-http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/14325.ts
+http://1
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/08/NETargentina.png/revision/latest?cb=20180702162652" group-title="03- ARGENTINA",Net TV
 http://unlimited2-us.dps.live/nettv/nettv.smil/playlist.m3u8?GrupoTopIptv
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/08/NETargentina.png/revision/latest?cb=20180702162652" group-title="03- ARGENTINA",Net TV (4)
-http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/10625.ts
+
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="03- ARGENTINA",Telefe (1)
 
@@ -151,10 +150,10 @@ http://ummodigital.com:2082/live/Donald1/Donald1/4444.rtmp
 http://ummodigital.com:2082/live/jay12/jay12/4444.rtmp
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="03- ARGENTINA",Telefe (4)
-http://ummodigital.com:2082/live/Gustavo2019/gustavo2019/4444.rtmp
+http://ummodigital.com:2082/live/Orlando1/Orlando1/4444.rtmp
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="03- ARGENTINA",Telefe Int (4)
-http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/1021.ts
+http://
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/506483696065449984/BATn-jAe.png" group-title="03- ARGENTINA",Telpin
 http://wowza.telpin.com.ar:1935/telpintv/ttv.stream_720p/playlist.m3u8?GrupoTopIptv
@@ -163,10 +162,10 @@ http://wowza.telpin.com.ar:1935/telpintv/ttv.stream_720p/playlist.m3u8?GrupoTopI
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?GrupoTopIptv
 
 #EXTINF:-1 tvg-logo="https://www.portalpublicitario.com/wp-content/uploads/2017/10/LogoTN.png" group-title="03- ARGENTINA",TN (4)
-http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/1025.ts
+
 
 #EXTINF:-1 tvg-logo="http://www.partedelshow.com.ar/sites/default/files/imagecache/img_nodo/PUBLICA.jpg" group-title="03- ARGENTINA",Tv Publica (4)
-http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/1022.ts
+
 
 ######################################################################################################################################
 ####################################### BRASIL
@@ -428,7 +427,7 @@ http://li1008-155.members.linode.com:1935/live/myStream/playlist.m3u8?GrupoTopIp
 http://cl.origin.grupoz.cl:1935/uestv/live/playlist.m3u8?GrupoTopIptv
 
 #EXTINF:-1 tvg-logo="https://www.arcatel.cl/wp-content/uploads/2019/01/Logos-05-300x231.jpg" group-title="06- CHILE",VTV (4)
-http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/4207.ts
+
 
 ######################################################################################################################################
 ####################################### COLOMBIA
@@ -438,9 +437,6 @@ https://stream.vagalume.fm/hls/147015501223418/aac.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W3rlI3P.png" group-title="07- COLOMBIA",Canal Doce
 http://api.new.livestream.com/accounts/27724665/events/8376416/live.m3u8?GrupoTopIptv
-
-#EXTINF:-1 tvg-logo="https://i.blogs.es/600870/dh-authxuaay8uc/450_1000.jpg" group-title="07- COLOMBIA",Caracol (4)
-http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/1038.ts
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/386408609/cnc2_400x400.png" group-title="07- COLOMBIA",CNC 
 http://66.240.236.25:1936/canalcnc/canalcnc/chunklist.m3u8?GrupoTopIptv
@@ -458,7 +454,7 @@ http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8?GrupoTopIptv
 http://66.240.236.25:1936/ranchenato/ranchenato/playlist.m3u8?GrupoTopIptv
 
 #EXTINF:-1 tvg-logo="http://html.canalrcn.com/CanalRCN/react/images/RCN-RCNTELEVISION-logo21.png" group-title="07- COLOMBIA",RCN (4)
-http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/1035.ts
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eoxHmyO.jpg" group-title="07- COLOMBIA",Teleantioquia
 http://api.new.livestream.com/accounts/9427524/events/8459038/live.m3u8?GrupoTopIptv
@@ -533,16 +529,13 @@ http://api.new.livestream.com/accounts/27228685/events/8710465/live.m3u8?GrupoTo
 http://192.99.56.185/ecotel/live.m3u8?GrupoTopIptv
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/ecuavisa.png" group-title="10- ECUADOR",Ecuavisa (4)
-http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/3446.ts
+
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/FXqG3LnBX_A/hqdefault_live.jpg" group-title="10- ECUADOR",Hechos Ecuador
 http://37.187.7.106/hechostv/live.m3u8?GrupoTopIptv
 
 #EXTINF:-1 tvg-logo="http://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="10- ECUADOR",Oromar TV 
 http://videos.oromartv.com:8082/hls/oromartv_hi/index.m3u8?GrupoTopIptv
-
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-g8pCQKtcW8I/Wa6yKFllydI/AAAAAAAAbRM/88tmZkMAHc4HKce5b2FSOaf3YMsqfhPUQCLcBGAs/s1600/Tc%2Ben%2Bvivo.png" group-title="10- ECUADOR",TC (4)
-http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/3448.ts
 
 #EXTINF:-1 tvg-logo="https://www15.ucsg.edu.ec/biblioteca/buscadorOPAC/images/LOGO.png" group-title="10- ECUADOR",UCSG
 http://ecuastream.net:1935/UCSGHQ/UCSGHQ/playlist.m3u8?GrupoTopIptv
@@ -620,7 +613,7 @@ http://ummodigital.com:2082/live/Donald1/Donald1/4808.rtmp
 http://ummodigital.com:2082/live/jay12/jay12/4808.rtmp
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_az-mundo-hd_m.png" group-title="13- MEXICO",Az Mundo (4)
-http://ummodigital.com:2082/live/Gustavo2019/gustavo2019/4808.rtmp
+http://ummodigital.com:2082/live/Orlando1/Orlando1/4808.rtmp
 
 #EXTINF:-1 tvg-logo="https://www.nssoaxaca.com/wp-content/uploads/2018/01/Azteca.jpg" group-title="13- MEXICO",Azteca 1 MX
 
@@ -635,7 +628,7 @@ http://ummodigital.com:2082/live/Donald1/Donald1/1359.rtmp
 http://ummodigital.com:2082/live/jay12/jay12/1359.rtmp
 
 #EXTINF:-1 tvg-logo="https://roku-zapopan8.webnode.mx/_files/200000035-3711338065/mx_azteca-7_m.png" group-title="13- MEXICO",Azteca 7 (4)
-http://ummodigital.com:2082/live/Gustavo2019/gustavo2019/1359.rtmp
+http://ummodigital.com:2082/live/Orlando1/Orlando1/1359.rtmp
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/C80W69PVwAAy6mF.jpg:large" group-title="13- MEXICO",Azteca + 
 
@@ -653,7 +646,7 @@ http://ummodigital.com:2082/live/Donald1/Donald1/1366.rtmp
 http://ummodigital.com:2082/live/jay12/jay12/1366.rtmp
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Aqk-8qwAEas/hqdefault.jpg" group-title="13- MEXICO",Canal 5 (4)
-http://ummodigital.com:2082/live/Gustavo2019/gustavo2019/1366.rtmp
+http://ummodigital.com:2082/live/Orlando1/Orlando1/3569.rtmp
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_canal-de-las-estrellas_m.png" group-title="13- MEXICO",Canal de las Estrellas (1)
 
@@ -677,7 +670,7 @@ http://ummodigital.com:2082/live/Donald1/Donald1/393.rtmp
 http://ummodigital.com:2082/live/jay12/jay12/393.rtmp
 
 #EXTINF:-1 tvg-logo="https://tvnotiblog.com/wp-content/uploads/2013/11/logo-canal-once-1024x791.png" group-title="13- MEXICO",Canal Once (4)
-http://ummodigital.com:2082/live/Gustavo2019/gustavo2019/393.rtmp
+http://ummodigital.com:2082/live/Orlando1/Orlando1/393.rtmp
 
 #EXTINF:-1 tvg-logo="https://tvnotiblog.com/wp-content/uploads/2013/11/logo-canal-once-1024x791.png" group-title="13- MEXICO",Canal Once
 https://180ce25c70.site.internapcdn.net/ryta_live/chunklist_b481072.m3u8?GrupoTopIptv
@@ -713,7 +706,7 @@ http://ummodigital.com:2082/live/Donald1/Donald1/4668.rtmp
 http://ummodigital.com:2082/live/jay12/jay12/4668.rtmp
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_tlnovelas_m.png" group-title="13- MEXICO",Tlnovelas (4)
-http://ummodigital.com:2082/live/Gustavo2019/gustavo2019/4668.rtmp
+http://ummodigital.com:2082/live/Orlando1/Orlando1/4668.rtmp
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_tvc_m.png" group-title="13- MEXICO",Tvc (1)
 
@@ -721,7 +714,7 @@ http://ummodigital.com:2082/live/Gustavo2019/gustavo2019/4668.rtmp
 #EXTINF:-1 tvg-logo="http://televisatvdepaga.com/wp-content/uploads/2017/08/unicable.jpg" group-title="13- MEXICO",Unicable (1)
 
 
-#EXTINF:-1 tvg-logo="http://static-cdn2.ustream.tv/i/channel/picture/1/7/4/0/17406211/17406211,640x360,b:2.jpg" group-title="13- MEXICO",Unimas (ALT)
+#EXTINF:-1 tvg-logo="http://static-cdn2.ustream.tv/i/channel/picture/1/7/4/0/17406211/17406211,640x360,b:2.jpg" group-title="13- MEXICO",Unimas
 
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/U/univision-logo-14BBF1BA5F-seeklogo.com.png" group-title="13- MEXICO",Univision (2)
@@ -776,7 +769,7 @@ http://ummodigital.com:2082/live/Donald1/Donald1/5459.rtmp
 http://ummodigital.com:2082/live/jay12/jay12/5459.rtmp
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_america-television_m.png" group-title="17- PERU",America tv (4)
-http://ummodigital.com:2082/live/Gustavo2019/gustavo2019/5459.rtmp
+http://ummodigital.com:2082/live/Orlando1/Orlando1/5459.rtmp
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_america-television_m.png" group-title="17- PERU",America tv SD
 http://ecdn-mediastream.cdn.mdstrm.com/live-stream-secure/5c51e67df4d3c6698b02bbee/publish/media_2500.m3u8?GrupoTopIptv
@@ -824,7 +817,7 @@ http://ummodigital.com:2082/live/Donald1/Donald1/869.rtmp
 http://ummodigital.com:2082/live/jay12/jay12/869.rtmp
 
 #EXTINF:-1 tvg-logo="https://www.neourbe.pe/wp-content/uploads/2019/02/tv-noticias.png" group-title="17- PERU",TV Noticias 7.3 (4)
-http://ummodigital.com:2082/live/Gustavo2019/gustavo2019/869.rtmp
+http://ummodigital.com:2082/live/Orlando1/Orlando1/869.rtmp
 
 #EXTINF:-1 tvg-logo="https://www.neourbe.pe/wp-content/uploads/2019/02/tv-noticias.png" group-title="17- PERU",TV Noticias 7.3 (5)
 
@@ -845,7 +838,7 @@ http://ummodigital.com:2082/live/Donald1/Donald1/867.rtmp
 http://ummodigital.com:2082/live/jay12/jay12/867.rtmp
 
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-Mcc2xCpSKWQ/UF6PxaiQZYI/AAAAAAAACQU/BLm5ZUhxzfs/s1600/LOGOTVPERU.jpg" group-title="17- PERU",TV Perú (4)
-http://ummodigital.com:2082/live/Gustavo2019/gustavo2019/867.rtmp
+http://ummodigital.com:2082/live/Orlando1/Orlando1/867.rtmp
 
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-Mcc2xCpSKWQ/UF6PxaiQZYI/AAAAAAAACQU/BLm5ZUhxzfs/s1600/LOGOTVPERU.jpg" group-title="17- PERU",TV Perú (5)
 
@@ -983,16 +976,16 @@ https://stream.vagalume.fm/hls/1470169276225492/aac.m3u8
 #######################################
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/04/1000xhora-324x160.png" group-title="20- URUGUAY",1000 X Hora (4)
-http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/10411.ts
+
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1153150302603894784/MUFOdCa3_400x400.jpg" group-title="20- URUGUAY",A+V (4)
-http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/3204.ts
+
 
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-Ulx59aFBavA/VUq3Y5Q6gqI/AAAAAAAAACM/0e6CW97xhhs/s1600/canal%2B7.jpg" group-title="20- URUGUAY",Canal 7 Punta (4)
-http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/11191.ts
+
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/04/charrua-tv.png" group-title="20- URUGUAY",Charrua tv (4)
-http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/11191.ts
+
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1107997180311281665/c72fyy_F_400x400.png" group-title="20- URUGUAY",Montecarlo (2)
 http://ummodigital.com:2082/live/Donald1/Donald1/5144.rtmp
@@ -1001,19 +994,19 @@ http://ummodigital.com:2082/live/Donald1/Donald1/5144.rtmp
 http://ummodigital.com:2082/live/airborne1/airborne1/5144.rtmp
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1107997180311281665/c72fyy_F_400x400.png" group-title="20- URUGUAY",Montecarlo (4)
-http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/413.ts
+http://ummodigital.com:2082/live/Orlando1/Orlando1/5144.rtmp
 
 #EXTINF:-1 tvg-logo="http://www.canalm.tv/plantillas/temas/canalm/imagenes/canalm.png" group-title="20- URUGUAY",Montevideo Portal
 http://wowza.montevideo.com.uy:1936/live/_definst_/mvdstrem/chunklist.m3u8?GrupoTopIptv
 
 #EXTINF:-1 tvg-logo="https://media.tvalacarta.info/canales/256x256/canal10.png" group-title="20- URUGUAY",Saeta Canal 10 (4)
-http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/8969.ts
+
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1136710475868229633/p2S0PMG8_400x400.jpg" group-title="20- URUGUAY",Teledoce (4)
-http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/9558.ts
+
 
 #EXTINF:-1 tvg-logo="http://www.tnu.com.uy/image/1024x1024.png" group-title="20- URUGUAY",TNU (4)
-http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/1599.ts
+
 
 #EXTINF:-1 tvg-logo="http://montevideo.gub.uy/sites/default/files/styles/galeriaslideshowcontenido/public/biblioteca/tvciudad.png?itok=GWUByEQp" group-title="20- URUGUAY",Tv Ciudad (2)
 http://ummodigital.com:2082/live/Donald1/Donald1/5850.rtmp
@@ -1022,19 +1015,19 @@ http://ummodigital.com:2082/live/Donald1/Donald1/5850.rtmp
 http://ummodigital.com:2082/live/airborne1/airborne1/5850.rtmp
 
 #EXTINF:-1 tvg-logo="http://montevideo.gub.uy/sites/default/files/styles/galeriaslideshowcontenido/public/biblioteca/tvciudad.png?itok=GWUByEQp" group-title="20- URUGUAY",Tv Ciudad (4)
-http://ummodigital.com:2082/live/Gustavo2019/gustavo2019/5850.rtmp
+http://ummodigital.com:2082/live/Orlando1/Orlando1/5850.rtmp
 
 #EXTINF:-1 tvg-logo="http://montevideo.gub.uy/sites/default/files/styles/galeriaslideshowcontenido/public/biblioteca/tvciudad.png?itok=GWUByEQp" group-title="20- URUGUAY",Tv Ciudad (4) HD
-http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/1601.ts
+
 
 #EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/imgs/7/2/3/7233eada0394020f9e0250a059896578_icon.png" group-title="20- URUGUAY",Vera + (4)
-http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/1600.ts
+
 
 #EXTINF:-1 tvg-logo="http://www.bienaldemontevideo.com/imgs/pat/vtv.png" group-title="20- URUGUAY",VTV (4) SD
-http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/1450.ts
+
 
 #EXTINF:-1 tvg-logo="http://www.bienaldemontevideo.com/imgs/pat/vtv.png" group-title="20- URUGUAY",VTV (4) HD
-http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/493.ts
+
 
 #####################################################################################################################################
 ####################################### VENEZUELA
