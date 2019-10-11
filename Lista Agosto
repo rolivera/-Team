@@ -573,6 +573,12 @@ http://37.187.7.106/hechostv/live.m3u8?GrupoTopIptv
 #EXTINF:-1 tvg-logo="http://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="10- ECUADOR",Oromar TV 
 http://videos.oromartv.com:8082/hls/oromartv_hi/index.m3u8?GrupoTopIptv
 
+#EXTINF:-1 tvg-logo="https://historiadelatvecuatoriana.files.wordpress.com/2015/07/tc.jpg" group-title="10- ECUADOR",TC Ecuador (5)
+http://ummodigital.com:2082/live/Orlando1/Orlando1/6994.rtmp
+
+#EXTINF:-1 tvg-logo="http://televisionecuatoriana.tv/wp-content/uploads/2018/11/cropped-LOGO-NORMAL-ESPANO-tegido-colores-solidosL-01-1-e1542291082262.png" group-title="10- ECUADOR",Television Ecuatoriana (5)
+http://ummodigital.com:2082/live/Orlando1/Orlando1/6673.rtmp
+
 #EXTINF:-1 tvg-logo="https://www15.ucsg.edu.ec/biblioteca/buscadorOPAC/images/LOGO.png" group-title="10- ECUADOR",UCSG
 http://ecuastream.net:1935/UCSGHQ/UCSGHQ/playlist.m3u8?GrupoTopIptv
 
@@ -1712,6 +1718,9 @@ http://ummodigital.com:2082/live/airborne1/airborne1/1388.rtmp
 
 #EXTINF:-1 tvg-logo="http://cdd657a867bca3d5084e-b68367b7dbe633942cc09bdd6fb9eaea.r58.cf2.rackcdn.com/fxmoviechannel.png" group-title="28- PREMIUM LATINO",Fxm (5)
 http://ummodigital.com:2082/live/Orlando1/Orlando1/1388.rtmp
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/684114566863687680/kFo0-1O3.jpg" group-title="28- PREMIUM LATINO",Gran Cine (5)
+http://ummodigital.com:2082/live/Orlando1/Orlando1/6657.rtmp
 
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-JnaRqfsfRf0/VVJ222hRX7I/AAAAAAAAAbw/svcXPJkGr5E/s1600/golden.png" group-title="28- PREMIUM LATINO",Golden (1)
 
@@ -4030,6 +4039,9 @@ http://ummodigital.com:2082/live/Orlando1/Orlando1/4441.rtmp
 #EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/goltv.png" group-title="41- DEPORTES LATINO",Gol Ecuador
 http://trinity-lh.akamaihd.net/i/GolTVModel4A_d@422865/index_500_av-p.m3u8?GrupoTopIptv
 
+#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/goltv.png" group-title="41- DEPORTES LATINO",Gol Ecuador (5)
+http://ummodigital.com:2082/live/Orlando1/Orlando1/8670.rtmp
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/yK8g6N8.png" group-title="41- DEPORTES LATINO",Gol Peru (4)
 http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/488.ts
 
@@ -4107,6 +4119,9 @@ http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/1450.ts
 
 #EXTINF:-1 tvg-logo="http://www.bienaldemontevideo.com/imgs/pat/vtv.png" group-title="41- DEPORTES LATINO",VTV (4) HD
 http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/14856.ts
+
+#EXTINF:-1 tvg-logo="http://www.bienaldemontevideo.com/imgs/pat/vtv.png" group-title="41- DEPORTES LATINO",VTV (5)
+http://ummodigital.com:2082/live/Orlando1/Orlando1/5621.rtmp
 
 #EXTINF:-1 tvg-logo="https://ftp.winsports.co/assets/img/win/winsports-small_2017.png" group-title="41- DEPORTES LATINO",Win Sports (1)
 http://ummodigital.com:2082/live/jay12/jay12/4893.rtmp
