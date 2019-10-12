@@ -3285,14 +3285,11 @@ http://shoppinglive.mediacdn.ru/sr1/shoppinglive/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://liveitkodi.com/Logos/BabyTV.png" group-title="33- INFANTIL BRASIL",Baby TV (1)
 
 
-#EXTINF:-1 tvg-logo="http://liveitkodi.com/Logos/BabyTV.png" group-title="33- INFANTIL BRASIL",Baby TV (2)
-
-
-#EXTINF:-1 tvg-logo="http://liveitkodi.com/Logos/BabyTV.png" group-title="33- INFANTIL BRASIL",Baby TV (3)
-
-
-#EXTINF:-1 tvg-logo="https://sitejerk.com/images/boomerang-logo-png-15.png" group-title="33- INFANTIL BRASIL",Boomerang (1)
+#EXTINF:-1 tvg-logo="https://sitejerk.com/images/boomerang-logo-png-15.png" group-title="33- INFANTIL BRASIL",Boomerang (1) HD
 http://list.deeplist.nl:80/live/0002/1234/20801.rtmp
+
+#EXTINF:-1 tvg-logo="https://sitejerk.com/images/boomerang-logo-png-15.png" group-title="33- INFANTIL BRASIL",Boomerang (1) SD
+http://list.deeplist.nl:80/live/0002/1234/1102.rtmp
 
 #EXTINF:-1 tvg-logo="https://sitejerk.com/images/boomerang-logo-png-15.png" group-title="33- INFANTIL BRASIL",Boomerang (2)
 http://lista.digitalgroup.me/1007/123456/1102
@@ -3303,7 +3300,10 @@ http://lista.digitalgroup.me/3323/123/1102
 #EXTINF:-1 tvg-logo="https://sitejerk.com/images/boomerang-logo-png-15.png" group-title="33- INFANTIL BRASIL",Boomerang (4)
 http://lista.digitalgroup.me/1661/123456/1102
 
-#EXTINF:-1 tvg-logo="https://orig00.deviantart.net/1354/f/2016/129/2/d/untitled_drawing_by_jared33-da1wdty.png" group-title="33- INFANTIL BRASIL",Cartoon Network (1)
+#EXTINF:-1 tvg-logo="https://orig00.deviantart.net/1354/f/2016/129/2/d/untitled_drawing_by_jared33-da1wdty.png" group-title="33- INFANTIL BRASIL",Cartoon Network (1) FHD
+http://list.deeplist.nl:80/live/0002/1234/26032.rtmp
+
+#EXTINF:-1 tvg-logo="https://orig00.deviantart.net/1354/f/2016/129/2/d/untitled_drawing_by_jared33-da1wdty.png" group-title="33- INFANTIL BRASIL",Cartoon Network (1) HD
 http://list.deeplist.nl:80/live/0002/1234/2479.rtmp
 
 #EXTINF:-1 tvg-logo="https://orig00.deviantart.net/1354/f/2016/129/2/d/untitled_drawing_by_jared33-da1wdty.png" group-title="33- INFANTIL BRASIL",Cartoon Network (2)
@@ -3315,7 +3315,10 @@ http://lista.digitalgroup.me/3323/123/1095
 #EXTINF:-1 tvg-logo="https://orig00.deviantart.net/1354/f/2016/129/2/d/untitled_drawing_by_jared33-da1wdty.png" group-title="33- INFANTIL BRASIL",Cartoon Network (4)
 http://lista.digitalgroup.me/1661/123456/1095
 
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_kids-mediano.png" group-title="33- INFANTIL BRASIL",Discovery Kids (1)
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_kids-mediano.png" group-title="33- INFANTIL BRASIL",Discovery Kids (1) FHD
+http://list.deeplist.nl:80/live/0002/1234/26025.rtmp
+
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_kids-mediano.png" group-title="33- INFANTIL BRASIL",Discovery Kids (1) HD
 http://list.deeplist.nl:80/live/0002/1234/5081.rtmp
 
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_kids-mediano.png" group-title="33- INFANTIL BRASIL",Discovery Kids (2)
@@ -3327,8 +3330,14 @@ http://lista.digitalgroup.me/3323/123/1080
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_kids-mediano.png" group-title="33- INFANTIL BRASIL",Discovery Kids (4)
 http://lista.digitalgroup.me/1661/123456/1080
 
-#EXTINF:-1 tvg-logo="http://logosvector.net/wp-content/uploads/2014/07/new-disney-channel-logo.png" group-title="33- INFANTIL BRASIL",Disney Channel (1)
+#EXTINF:-1 tvg-logo="http://logosvector.net/wp-content/uploads/2014/07/new-disney-channel-logo.png" group-title="33- INFANTIL BRASIL",Disney Channel (1) SD
 http://list.deeplist.nl:80/live/0002/1234/38438.rtmp
+
+#EXTINF:-1 tvg-logo="http://logosvector.net/wp-content/uploads/2014/07/new-disney-channel-logo.png" group-title="33- INFANTIL BRASIL",Disney Channel (1) SD
+http://list.deeplist.nl:80/live/0002/1234/5082.rtmp
+
+#EXTINF:-1 tvg-logo="http://logosvector.net/wp-content/uploads/2014/07/new-disney-channel-logo.png" group-title="33- INFANTIL BRASIL",Disney Channel (1) SD
+http://list.deeplist.nl:80/live/0002/1234/38763.rtmp
 
 #EXTINF:-1 tvg-logo="http://logosvector.net/wp-content/uploads/2014/07/new-disney-channel-logo.png" group-title="33- INFANTIL BRASIL",Disney Channel (2)
 http://lista.digitalgroup.me/1007/123456/38763
@@ -3340,7 +3349,7 @@ http://lista.digitalgroup.me/3323/123/38763
 http://lista.digitalgroup.me/1661/123456/38763
 
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/disney-junior-logo-01.png" group-title="33- INFANTIL BRASIL",Disney Junior (1)
-http://list.deeplist.nl:80/live/0002/1234/20809.rtmp
+
 
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/disney-junior-logo-01.png" group-title="33- INFANTIL BRASIL",Disney Junior (2)
 http://lista.digitalgroup.me/1007/123456/38783
@@ -3351,17 +3360,17 @@ http://lista.digitalgroup.me/3323/123/38783
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/disney-junior-logo-01.png" group-title="33- INFANTIL BRASIL",Disney Junior (4)
 http://lista.digitalgroup.me/1661/123456/38783
 
-#EXTINF:-1 tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2015/10/Disney_XD_-_2015.svg_.png" group-title="33- INFANTIL BRASIL",Disney XD (1)
-http://list.deeplist.nl:80/live/0002/1234/20810.rtmp
+#EXTINF:-1 tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2015/10/Disney_XD_-_2015.svg_.png" group-title="33- INFANTIL BRASIL",Disney XD (1) SD
+http://list.deeplist.nl:80/live/0002/1234/38440.rtmp
 
-#EXTINF:-1 tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2015/10/Disney_XD_-_2015.svg_.png" group-title="33- INFANTIL BRASIL",Disney XD (2)
+#EXTINF:-1 tvg-logo="https://cdn-images-1.medium.com/max/1600/1*Q33TjXSnVGzrbOIiwvV8jA.png" group-title="33- INFANTIL BRASIL",Gloob (1) FHD
+http://list.deeplist.nl:80/live/0002/1234/48806.rtmp
 
-
-#EXTINF:-1 tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2015/10/Disney_XD_-_2015.svg_.png" group-title="33- INFANTIL BRASIL",Disney XD (3)
-
-
-#EXTINF:-1 tvg-logo="https://cdn-images-1.medium.com/max/1600/1*Q33TjXSnVGzrbOIiwvV8jA.png" group-title="33- INFANTIL BRASIL",Gloob (1)
+#EXTINF:-1 tvg-logo="https://cdn-images-1.medium.com/max/1600/1*Q33TjXSnVGzrbOIiwvV8jA.png" group-title="33- INFANTIL BRASIL",Gloob (1) HD
 http://list.deeplist.nl:80/live/0002/1234/5086.rtmp
+
+#EXTINF:-1 tvg-logo="https://cdn-images-1.medium.com/max/1600/1*Q33TjXSnVGzrbOIiwvV8jA.png" group-title="33- INFANTIL BRASIL",Gloob (1) SD
+http://list.deeplist.nl:80/live/0002/1234/38719.rtmp
 
 #EXTINF:-1 tvg-logo="https://cdn-images-1.medium.com/max/1600/1*Q33TjXSnVGzrbOIiwvV8jA.png" group-title="33- INFANTIL BRASIL",Gloob (2)
 http://lista.digitalgroup.me/1007/123456/38719
@@ -3372,8 +3381,11 @@ http://lista.digitalgroup.me/3323/123/38719
 #EXTINF:-1 tvg-logo="https://cdn-images-1.medium.com/max/1600/1*Q33TjXSnVGzrbOIiwvV8jA.png" group-title="33- INFANTIL BRASIL",Gloob (4)
 http://lista.digitalgroup.me/1661/123456/38719
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_gloobinho-hd_m.png" group-title="33- INFANTIL BRASIL",Gloobinho (1)
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_gloobinho-hd_m.png" group-title="33- INFANTIL BRASIL",Gloobinho (1) HD
 http://list.deeplist.nl:80/live/0002/1234/17136.rtmp
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_gloobinho-hd_m.png" group-title="33- INFANTIL BRASIL",Gloobinho (1) SD
+http://list.deeplist.nl:80/live/0002/1234/38723.rtmp
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_gloobinho-hd_m.png" group-title="33- INFANTIL BRASIL",Gloobinho (2)
 http://lista.digitalgroup.me/1007/123456/38724
@@ -3384,7 +3396,7 @@ http://lista.digitalgroup.me/3323/123/38724
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_gloobinho-hd_m.png" group-title="33- INFANTIL BRASIL",Gloobinho (4)
 http://lista.digitalgroup.me/1661/123456/38724
 
-#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/natgeo-kids-logo-01.png" group-title="33- INFANTIL BRASIL",Nat Geo Kids (1)
+#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/natgeo-kids-logo-01.png" group-title="33- INFANTIL BRASIL",Nat Geo Kids (1) HD
 http://list.deeplist.nl:80/live/0002/1234/11996.rtmp
 
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/natgeo-kids-logo-01.png" group-title="33- INFANTIL BRASIL",Nat Geo Kids (2)
@@ -3396,7 +3408,7 @@ http://lista.digitalgroup.me/3323/123/11965
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/natgeo-kids-logo-01.png" group-title="33- INFANTIL BRASIL",Nat Geo Kids (4)
 http://lista.digitalgroup.me/1661/123456/11965
 
-#EXTINF:-1 tvg-logo="https://www.e-channel.ec/blog/wp-content/uploads/2015/09/NICK.png" group-title="33- INFANTIL BRASIL",Nickelodeon (1)
+#EXTINF:-1 tvg-logo="https://www.e-channel.ec/blog/wp-content/uploads/2015/09/NICK.png" group-title="33- INFANTIL BRASIL",Nickelodeon (1) HD
 http://list.deeplist.nl:80/live/0002/1234/5093.rtmp
 
 #EXTINF:-1 tvg-logo="https://www.e-channel.ec/blog/wp-content/uploads/2015/09/NICK.png" group-title="33- INFANTIL BRASIL",Nickelodeon (2)
@@ -3408,8 +3420,11 @@ http://lista.digitalgroup.me/3323/123/1206
 #EXTINF:-1 tvg-logo="https://www.e-channel.ec/blog/wp-content/uploads/2015/09/NICK.png" group-title="33- INFANTIL BRASIL",Nickelodeon (4)
 http://lista.digitalgroup.me/1661/123456/1206
 
-#EXTINF:-1 tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/NICK%20JR.png" group-title="33- INFANTIL BRASIL",Nick Junior (1)
+#EXTINF:-1 tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/NICK%20JR.png" group-title="33- INFANTIL BRASIL",Nick Junior (1) HD
 http://list.deeplist.nl:80/live/0002/1234/16210.rtmp
+
+#EXTINF:-1 tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/NICK%20JR.png" group-title="33- INFANTIL BRASIL",Nick Junior (1) SD
+http://list.deeplist.nl:80/live/0002/1234/986.rtmp
 
 #EXTINF:-1 tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/NICK%20JR.png" group-title="33- INFANTIL BRASIL",Nick Junior (2)
 http://lista.digitalgroup.me/1007/123456/986
@@ -3421,15 +3436,9 @@ http://lista.digitalgroup.me/3323/123/986
 http://lista.digitalgroup.me/1661/123456/986
 
 #EXTINF:-1 tvg-logo="http://profeleticia.weebly.com/uploads/1/9/8/9/19895021/banner-logo-tvrtb.png" group-title="33- INFANTIL BRASIL",Ra Tim Bum (1)
+http://list.deeplist.nl:80/live/0002/1234/26451.rtmp
 
-
-#EXTINF:-1 tvg-logo="http://profeleticia.weebly.com/uploads/1/9/8/9/19895021/banner-logo-tvrtb.png" group-title="33- INFANTIL BRASIL",Ra Tim Bum (2)
-
-
-#EXTINF:-1 tvg-logo="http://profeleticia.weebly.com/uploads/1/9/8/9/19895021/banner-logo-tvrtb.png" group-title="33- INFANTIL BRASIL",Ra Tim Bum (3)
-
-
-#EXTINF:-1 tvg-logo="https://t3.kn3.net/taringa/A/7/E/6/A/C/RevolucionCN/83A.png" group-title="33- INFANTIL BRASIL",Tooncast (1)
+#EXTINF:-1 tvg-logo="https://t3.kn3.net/taringa/A/7/E/6/A/C/RevolucionCN/83A.png" group-title="33- INFANTIL BRASIL",Tooncast (1) SD
 http://list.deeplist.nl:80/live/0002/1234/50244.rtmp
 
 #EXTINF:-1 tvg-logo="https://t3.kn3.net/taringa/A/7/E/6/A/C/RevolucionCN/83A.png" group-title="33- INFANTIL BRASIL",Tooncast (2)
@@ -3442,7 +3451,7 @@ http://lista.digitalgroup.me/3323/123/50244
 http://lista.digitalgroup.me/1661/123456/50244
 
 #EXTINF:0 tvg-logo="http://bravi.tv/wp-content/uploads/2016/12/zoomoo-250x214.png" group-title="33- INFANTIL BRASIL",ZooMoo (1)
-http://list.deeplist.nl:80/live/0002/1234/20833.rtmp
+
 
 #EXTINF:0 tvg-logo="http://bravi.tv/wp-content/uploads/2016/12/zoomoo-250x214.png" group-title="33- INFANTIL BRASIL",ZooMoo (3)
 http://lista.digitalgroup.me/3323/123/20833
@@ -3533,7 +3542,7 @@ http://216.245.204.227:8054/live
 ######################################################################################################################################
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ibNTVbR.png" group-title="37- NOTICIAS BRASIL",Band News (1)
-http://list.deeplist.nl:80/live/0002/1234/17951.rtmp
+http://list.deeplist.nl:80/live/0002/1234/1107.rtmp
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ibNTVbR.png" group-title="37- NOTICIAS BRASIL",Band News (2)
 http://lista.digitalgroup.me/1007/123456/17951
@@ -3542,7 +3551,7 @@ http://lista.digitalgroup.me/1007/123456/17951
 http://lista.digitalgroup.me/3323/123/17951
 
 #EXTINF:-1 tvg-logo="https://brazil.mom-rsf.org/uploads/tx_lfrogmom/media/7019-1071_import.png" group-title="37- NOTICIAS BRASIL",Globo News (1)
-http://list.deeplist.nl:80/live/0002/1234/5085.rtmp
+http://list.deeplist.nl:80/live/0002/1234/38716.rtmp
 
 #EXTINF:-1 tvg-logo="https://brazil.mom-rsf.org/uploads/tx_lfrogmom/media/7019-1071_import.png" group-title="37- NOTICIAS BRASIL",Globo News (2)
 http://lista.digitalgroup.me/1007/123456/38716
@@ -3828,8 +3837,14 @@ http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
 #######################################
 ######################################################################################################################################
 
-#EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/020/original/pic_a_e.png?1522180692" group-title="39- DOCUMENTAIS BRASIL",A&E (1)
+#EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/020/original/pic_a_e.png?1522180692" group-title="39- DOCUMENTAIS BRASIL",A&E (1) FHD
+http://list.deeplist.nl:80/live/0002/1234/46898.rtmp
+
+#EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/020/original/pic_a_e.png?1522180692" group-title="39- DOCUMENTAIS BRASIL",A&E (1) HD
 http://list.deeplist.nl:80/live/0002/1234/5078.rtmp
+
+#EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/020/original/pic_a_e.png?1522180692" group-title="39- DOCUMENTAIS BRASIL",A&E (1) SD
+http://list.deeplist.nl:80/live/0002/1234/1120.rtmp
 
 #EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/020/original/pic_a_e.png?1522180692" group-title="39- DOCUMENTAIS BRASIL",A&E (2)
 http://lista.digitalgroup.me/1007/123456/1120
@@ -3837,8 +3852,14 @@ http://lista.digitalgroup.me/1007/123456/1120
 #EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/020/original/pic_a_e.png?1522180692" group-title="39- DOCUMENTAIS BRASIL",A&E (3)
 http://lista.digitalgroup.me/3323/123/1120
 
-#EXTINF:-1 tvg-logo="https://comcastspotlight.com/sites/default/files/networks/Animal%20Planet%20Large%20Stacked.png" group-title="39- DOCUMENTAIS BRASIL",Animal Planet (1)
+#EXTINF:-1 tvg-logo="https://comcastspotlight.com/sites/default/files/networks/Animal%20Planet%20Large%20Stacked.png" group-title="39- DOCUMENTAIS BRASIL",Animal Planet (1) FHD
+http://list.deeplist.nl:80/live/0002/1234/46899.rtmp
+
+#EXTINF:-1 tvg-logo="https://comcastspotlight.com/sites/default/files/networks/Animal%20Planet%20Large%20Stacked.png" group-title="39- DOCUMENTAIS BRASIL",Animal Planet (1) HD
 http://list.deeplist.nl:80/live/0002/1234/1117.rtmp
+
+#EXTINF:-1 tvg-logo="https://comcastspotlight.com/sites/default/files/networks/Animal%20Planet%20Large%20Stacked.png" group-title="39- DOCUMENTAIS BRASIL",Animal Planet (1) SD
+http://list.deeplist.nl:80/live/0002/1234/1719.rtmp
 
 #EXTINF:-1 tvg-logo="https://comcastspotlight.com/sites/default/files/networks/Animal%20Planet%20Large%20Stacked.png" group-title="39- DOCUMENTAIS BRASIL",Animal Planet (2)
 http://lista.digitalgroup.me/1007/123456/1719
@@ -3846,8 +3867,14 @@ http://lista.digitalgroup.me/1007/123456/1719
 #EXTINF:-1 tvg-logo="https://comcastspotlight.com/sites/default/files/networks/Animal%20Planet%20Large%20Stacked.png" group-title="39- DOCUMENTAIS BRASIL",Animal Planet (3)
 http://lista.digitalgroup.me/3323/123/1719
 
-#EXTINF:-1 tvg-logo="https://hcil.umd.edu/wp-content/uploads/2015/12/Discovery-Channel-logo.png" group-title="39- DOCUMENTAIS BRASIL",Discovery Channel (1)
+#EXTINF:-1 tvg-logo="https://hcil.umd.edu/wp-content/uploads/2015/12/Discovery-Channel-logo.png" group-title="39- DOCUMENTAIS BRASIL",Discovery Channel (1) FHD
+http://list.deeplist.nl:80/live/0002/1234/5035.rtmp
+
+#EXTINF:-1 tvg-logo="https://hcil.umd.edu/wp-content/uploads/2015/12/Discovery-Channel-logo.png" group-title="39- DOCUMENTAIS BRASIL",Discovery Channel (1) HD
 http://list.deeplist.nl:80/live/0002/1234/2410.rtmp
+
+#EXTINF:-1 tvg-logo="https://hcil.umd.edu/wp-content/uploads/2015/12/Discovery-Channel-logo.png" group-title="39- DOCUMENTAIS BRASIL",Discovery Channel (1) SD
+http://list.deeplist.nl:80/live/0002/1234/1084.rtmp
 
 #EXTINF:-1 tvg-logo="https://hcil.umd.edu/wp-content/uploads/2015/12/Discovery-Channel-logo.png" group-title="39- DOCUMENTAIS BRASIL",Discovery Channel (2)
 http://lista.digitalgroup.me/1007/123456/1084
@@ -3856,7 +3883,7 @@ http://lista.digitalgroup.me/1007/123456/1084
 http://lista.digitalgroup.me/3323/123/1084
 
 #EXTINF:-1 tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/60431_logo_discovery_civilization.png" group-title="39- DOCUMENTAIS BRASIL",Discovery Civilization (1)
-http://list.deeplist.nl:80/live/0002/1234/16005.rtmp
+
 
 #EXTINF:-1 tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/60431_logo_discovery_civilization.png" group-title="39- DOCUMENTAIS BRASIL",Discovery Civilization (2)
 http://lista.digitalgroup.me/1007/123456/20805
@@ -3864,8 +3891,8 @@ http://lista.digitalgroup.me/1007/123456/20805
 #EXTINF:-1 tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/60431_logo_discovery_civilization.png" group-title="39- DOCUMENTAIS BRASIL",Discovery Civilization (3)
 http://lista.digitalgroup.me/3323/123/20805
 
-#EXTINF:-1 tvg-logo="https://cdn.reweb.io/hagah/image/DogXNIjfvnZQ-U6-iKRLtRF8-Vo=/300x300/top/smart/hagah/f/f8/home-and-health-f804aa9c.png" group-title="39- DOCUMENTAIS BRASIL",Discovery H&H (1)
-http://list.deeplist.nl:80/live/0002/1234/1082.rtmp
+#EXTINF:-1 tvg-logo="https://cdn.reweb.io/hagah/image/DogXNIjfvnZQ-U6-iKRLtRF8-Vo=/300x300/top/smart/hagah/f/f8/home-and-health-f804aa9c.png" group-title="39- DOCUMENTAIS BRASIL",Discovery H&H (1) SD
+http://list.deeplist.nl:80/live/0002/1234/2399.rtmp
 
 #EXTINF:-1 tvg-logo="https://cdn.reweb.io/hagah/image/DogXNIjfvnZQ-U6-iKRLtRF8-Vo=/300x300/top/smart/hagah/f/f8/home-and-health-f804aa9c.png" group-title="39- DOCUMENTAIS BRASIL",Discovery H&H (2)
 http://lista.digitalgroup.me/1007/123456/2399
@@ -3873,8 +3900,8 @@ http://lista.digitalgroup.me/1007/123456/2399
 #EXTINF:-1 tvg-logo="https://cdn.reweb.io/hagah/image/DogXNIjfvnZQ-U6-iKRLtRF8-Vo=/300x300/top/smart/hagah/f/f8/home-and-health-f804aa9c.png" group-title="39- DOCUMENTAIS BRASIL",Discovery H&H (3)
 http://lista.digitalgroup.me/3323/123/2399
 
-#EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/027/original/pic_investigactiondisc.png?1522177058" group-title="39- DOCUMENTAIS BRASIL",Discovery ID (1)
-http://list.deeplist.nl:80/live/0002/1234/2469.rtmp
+#EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/027/original/pic_investigactiondisc.png?1522177058" group-title="39- DOCUMENTAIS BRASIL",Discovery ID (1) SD
+http://list.deeplist.nl:80/live/0002/1234/1011.rtmp
 
 #EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/027/original/pic_investigactiondisc.png?1522177058" group-title="39- DOCUMENTAIS BRASIL",Discovery ID (2)
 http://lista.digitalgroup.me/1007/123456/1011
@@ -3883,7 +3910,7 @@ http://lista.digitalgroup.me/1007/123456/1011
 http://lista.digitalgroup.me/3323/123/1011
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logos2/images/f/f2/Discovery_Science_logo.png/revision/latest?cb=20180514182753" group-title="39- DOCUMENTAIS BRASIL",Discovery Science (1)
-http://list.deeplist.nl:80/live/0002/1234/16006.rtmp
+
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logos2/images/f/f2/Discovery_Science_logo.png/revision/latest?cb=20180514182753" group-title="39- DOCUMENTAIS BRASIL",Discovery Science (2)
 http://lista.digitalgroup.me/1007/123456/20806
@@ -3891,8 +3918,14 @@ http://lista.digitalgroup.me/1007/123456/20806
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logos2/images/f/f2/Discovery_Science_logo.png/revision/latest?cb=20180514182753" group-title="39- DOCUMENTAIS BRASIL",Discovery Science (3)
 http://lista.digitalgroup.me/3323/123/20806
 
-#EXTINF:-1 tvg-logo="https://www.cotes.net.bo/appCotes/public/appWeb_/assets/images/canales/17.2.png" group-title="39- DOCUMENTAIS BRASIL",Discovery Theater (1)
+#EXTINF:-1 tvg-logo="https://www.cotes.net.bo/appCotes/public/appWeb_/assets/images/canales/17.2.png" group-title="39- DOCUMENTAIS BRASIL",Discovery Theater (1) FHD
+http://list.deeplist.nl:80/live/0002/1234/26023.rtmp
+
+#EXTINF:-1 tvg-logo="https://www.cotes.net.bo/appCotes/public/appWeb_/assets/images/canales/17.2.png" group-title="39- DOCUMENTAIS BRASIL",Discovery Theater (1) HD
 http://list.deeplist.nl:80/live/0002/1234/2460.rtmp
+
+#EXTINF:-1 tvg-logo="https://www.cotes.net.bo/appCotes/public/appWeb_/assets/images/canales/17.2.png" group-title="39- DOCUMENTAIS BRASIL",Discovery Theater (1) HD
+http://list.deeplist.nl:80/live/0002/1234/20807.rtmp
 
 #EXTINF:-1 tvg-logo="https://www.cotes.net.bo/appCotes/public/appWeb_/assets/images/canales/17.2.png" group-title="39- DOCUMENTAIS BRASIL",Discovery Theater (2)
 http://lista.digitalgroup.me/1007/123456/20807
@@ -3900,8 +3933,14 @@ http://lista.digitalgroup.me/1007/123456/20807
 #EXTINF:-1 tvg-logo="https://www.cotes.net.bo/appCotes/public/appWeb_/assets/images/canales/17.2.png" group-title="39- DOCUMENTAIS BRASIL",Discovery Theater (3)
 http://lista.digitalgroup.me/3323/123/20807
 
-#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/discovery-turbo-logo-01.png" group-title="39- DOCUMENTAIS BRASIL",Discovery Turbo (1)
+#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/discovery-turbo-logo-01.png" group-title="39- DOCUMENTAIS BRASIL",Discovery Turbo (1) FHD
+http://list.deeplist.nl:80/live/0002/1234/5038.rtmp
+
+#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/discovery-turbo-logo-01.png" group-title="39- DOCUMENTAIS BRASIL",Discovery Turbo (1) HD
 http://list.deeplist.nl:80/live/0002/1234/2411.rtmp
+
+#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/discovery-turbo-logo-01.png" group-title="39- DOCUMENTAIS BRASIL",Discovery Turbo (1) SD
+http://list.deeplist.nl:80/live/0002/1234/1072.rtmp
 
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/discovery-turbo-logo-01.png" group-title="39- DOCUMENTAIS BRASIL",Discovery Turbo (2)
 http://lista.digitalgroup.me/1007/123456/1072
@@ -3909,7 +3948,10 @@ http://lista.digitalgroup.me/1007/123456/1072
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/discovery-turbo-logo-01.png" group-title="39- DOCUMENTAIS BRASIL",Discovery Turbo (3)
 http://lista.digitalgroup.me/3323/123/1072
 
-#EXTINF:-1 tvg-logo="https://www.skytvporassinatura.com.br/wp-content/uploads/2018/01/canal-discovery-world-hd-sky-1.png" group-title="39- DOCUMENTAIS BRASIL",Discovery World (1)
+#EXTINF:-1 tvg-logo="https://www.skytvporassinatura.com.br/wp-content/uploads/2018/01/canal-discovery-world-hd-sky-1.png" group-title="39- DOCUMENTAIS BRASIL",Discovery World (1) FHD
+http://list.deeplist.nl:80/live/0002/1234/26022.rtmp
+
+#EXTINF:-1 tvg-logo="https://www.skytvporassinatura.com.br/wp-content/uploads/2018/01/canal-discovery-world-hd-sky-1.png" group-title="39- DOCUMENTAIS BRASIL",Discovery World (1) HD
 http://list.deeplist.nl:80/live/0002/1234/2461.rtmp
 
 #EXTINF:-1 tvg-logo="https://www.skytvporassinatura.com.br/wp-content/uploads/2018/01/canal-discovery-world-hd-sky-1.png" group-title="39- DOCUMENTAIS BRASIL",Discovery World (2)
@@ -3918,8 +3960,14 @@ http://lista.digitalgroup.me/1007/123456/2461
 #EXTINF:-1 tvg-logo="https://www.skytvporassinatura.com.br/wp-content/uploads/2018/01/canal-discovery-world-hd-sky-1.png" group-title="39- DOCUMENTAIS BRASIL",Discovery World (3)
 http://lista.digitalgroup.me/3323/123/2461
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/35/13/17/35131727c2635cec3274d9bd93868db2.png" group-title="39- DOCUMENTAIS BRASIL",History Channel (1)
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/35/13/17/35131727c2635cec3274d9bd93868db2.png" group-title="39- DOCUMENTAIS BRASIL",History Channel (1) FHD
+http://list.deeplist.nl:80/live/0002/1234/16216.rtmp
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/35/13/17/35131727c2635cec3274d9bd93868db2.png" group-title="39- DOCUMENTAIS BRASIL",History Channel (1) HD
 http://list.deeplist.nl:80/live/0002/1234/2468.rtmp
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/35/13/17/35131727c2635cec3274d9bd93868db2.png" group-title="39- DOCUMENTAIS BRASIL",History Channel (1) SD
+http://list.deeplist.nl:80/live/0002/1234/923.rtmp
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/35/13/17/35131727c2635cec3274d9bd93868db2.png" group-title="39- DOCUMENTAIS BRASIL",History Channel (2)
 http://lista.digitalgroup.me/1007/123456/923
@@ -3927,8 +3975,11 @@ http://lista.digitalgroup.me/1007/123456/923
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/35/13/17/35131727c2635cec3274d9bd93868db2.png" group-title="39- DOCUMENTAIS BRASIL",History Channel (3)
 http://lista.digitalgroup.me/3323/123/923
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/cineframe.mx/wp-content/uploads/2017/08/H2.png" group-title="39- DOCUMENTAIS BRASIL",H2 (1)
+#EXTINF:-1 tvg-logo="https://i0.wp.com/cineframe.mx/wp-content/uploads/2017/08/H2.png" group-title="39- DOCUMENTAIS BRASIL",H2 (1) HD
 http://list.deeplist.nl:80/live/0002/1234/1021.rtmp
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/cineframe.mx/wp-content/uploads/2017/08/H2.png" group-title="39- DOCUMENTAIS BRASIL",H2 (1) SD
+http://list.deeplist.nl:80/live/0002/1234/2486.rtmp
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/cineframe.mx/wp-content/uploads/2017/08/H2.png" group-title="39- DOCUMENTAIS BRASIL",H2 (2)
 http://lista.digitalgroup.me/1007/123456/2486
@@ -3936,8 +3987,8 @@ http://lista.digitalgroup.me/1007/123456/2486
 #EXTINF:-1 tvg-logo="https://i0.wp.com/cineframe.mx/wp-content/uploads/2017/08/H2.png" group-title="39- DOCUMENTAIS BRASIL",H2 (3)
 http://lista.digitalgroup.me/3323/123/2486
 
-#EXTINF:-1 tvg-logo="https://diylogodesigns.com/wp-content/uploads/2017/07/national-geographic-logo-vector-768x768.png" group-title="39- DOCUMENTAIS BRASIL",Nat Geo (1)
-http://list.deeplist.nl:80/live/0002/1234/990.rtmp
+#EXTINF:-1 tvg-logo="https://diylogodesigns.com/wp-content/uploads/2017/07/national-geographic-logo-vector-768x768.png" group-title="39- DOCUMENTAIS BRASIL",Nat Geo (1) FHD
+http://list.deeplist.nl:80/live/0002/1234/26016.rtmp
 
 #EXTINF:-1 tvg-logo="https://diylogodesigns.com/wp-content/uploads/2017/07/national-geographic-logo-vector-768x768.png" group-title="39- DOCUMENTAIS BRASIL",Nat Geo (2)
 http://lista.digitalgroup.me/1007/123456/991
@@ -3945,8 +3996,8 @@ http://lista.digitalgroup.me/1007/123456/991
 #EXTINF:-1 tvg-logo="https://diylogodesigns.com/wp-content/uploads/2017/07/national-geographic-logo-vector-768x768.png" group-title="39- DOCUMENTAIS BRASIL",Nat Geo (3)
 http://lista.digitalgroup.me/3323/123/991
 
-#EXTINF:-1 tvg-logo="http://www.lettreaudiovisuel.com/wp-content/uploads/2014/12/Nat-Geo-Wild.png" group-title="39- DOCUMENTAIS BRASIL",Nat Geo Wild (1)
-http://list.deeplist.nl:80/live/0002/1234/994.rtmp
+#EXTINF:-1 tvg-logo="http://www.lettreaudiovisuel.com/wp-content/uploads/2014/12/Nat-Geo-Wild.png" group-title="39- DOCUMENTAIS BRASIL",Nat Geo Wild (1) SD
+http://list.deeplist.nl:80/live/0002/1234/995.rtmp
 
 #EXTINF:-1 tvg-logo="http://www.lettreaudiovisuel.com/wp-content/uploads/2014/12/Nat-Geo-Wild.png" group-title="39- DOCUMENTAIS BRASIL",Nat Geo Wild (2)
 http://lista.digitalgroup.me/1007/123456/995
@@ -3954,8 +4005,11 @@ http://lista.digitalgroup.me/1007/123456/995
 #EXTINF:-1 tvg-logo="http://www.lettreaudiovisuel.com/wp-content/uploads/2014/12/Nat-Geo-Wild.png" group-title="39- DOCUMENTAIS BRASIL",Nat Geo Wild (3)
 http://lista.digitalgroup.me/3323/123/995
 
-#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/tlc-logo-01.png" group-title="39- DOCUMENTAIS BRASIL",Tlc (1)
+#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/tlc-logo-01.png" group-title="39- DOCUMENTAIS BRASIL",Tlc (1) HD
 http://list.deeplist.nl:80/live/0002/1234/5097.rtmp
+
+#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/tlc-logo-01.png" group-title="39- DOCUMENTAIS BRASIL",Tlc (1) SD
+http://list.deeplist.nl:80/live/0002/1234/922.rtmp
 
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/tlc-logo-01.png" group-title="39- DOCUMENTAIS BRASIL",Tlc (2)
 http://lista.digitalgroup.me/1007/123456/922
@@ -4295,8 +4349,11 @@ http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/p
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-2xoD2hYxOFI/WPyypDD0hHI/AAAAAAAAPAE/4dEYJH1EjtopzpW3RgxxhR816qJa01d2wCLcB/s200/all%2Bsports%2Btv.png" group-title="42- ESPORTES BRASIL",All Sports
 http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/BAND%20SPORTS.png" group-title="42- ESPORTES BRASIL",Band Sports (1)
+#EXTINF:-1  tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/BAND%20SPORTS.png" group-title="42- ESPORTES BRASIL",Band Sports (1) HD
 http://list.deeplist.nl:80/live/0002/1234/2407.rtmp
+
+#EXTINF:-1  tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/BAND%20SPORTS.png" group-title="42- ESPORTES BRASIL",Band Sports (1) SD
+http://list.deeplist.nl:80/live/0002/1234/1106.rtmp
 
 #EXTINF:-1  tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/BAND%20SPORTS.png" group-title="42- ESPORTES BRASIL",Band Sports (2)
 http://lista.digitalgroup.me/1007/123456/1106
@@ -4304,7 +4361,13 @@ http://lista.digitalgroup.me/1007/123456/1106
 #EXTINF:-1  tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/BAND%20SPORTS.png" group-title="42- ESPORTES BRASIL",Band Sports (3)
 http://lista.digitalgroup.me/3323/123/1106
 
-#EXTINF:-1 tvg-logo="https://s2.glbimg.com/OlF3fWNQd7yyW7Cfsak6AF6vINc=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/dd/45/6f0becb8b016872551edaad347cc.png" group-title="42- ESPORTES BRASIL",Combate (1)
+#EXTINF:-1 tvg-logo="https://s2.glbimg.com/OlF3fWNQd7yyW7Cfsak6AF6vINc=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/dd/45/6f0becb8b016872551edaad347cc.png" group-title="42- ESPORTES BRASIL",Combate (1) FHD
+http://list.deeplist.nl:80/live/0002/1234/1088.rtmp
+
+#EXTINF:-1 tvg-logo="https://s2.glbimg.com/OlF3fWNQd7yyW7Cfsak6AF6vINc=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/dd/45/6f0becb8b016872551edaad347cc.png" group-title="42- ESPORTES BRASIL",Combate (1) FHD
+http://list.deeplist.nl:80/live/0002/1234/18019.rtmp
+
+#EXTINF:-1 tvg-logo="https://s2.glbimg.com/OlF3fWNQd7yyW7Cfsak6AF6vINc=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/dd/45/6f0becb8b016872551edaad347cc.png" group-title="42- ESPORTES BRASIL",Combate (1) SD
 http://list.deeplist.nl:80/live/0002/1234/38746.rtmp
 
 #EXTINF:-1 tvg-logo="https://s2.glbimg.com/OlF3fWNQd7yyW7Cfsak6AF6vINc=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/dd/45/6f0becb8b016872551edaad347cc.png" group-title="42- ESPORTES BRASIL",Combate (2)
@@ -4313,43 +4376,46 @@ http://lista.digitalgroup.me/1007/123456/38746
 #EXTINF:-1 tvg-logo="https://s2.glbimg.com/OlF3fWNQd7yyW7Cfsak6AF6vINc=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/dd/45/6f0becb8b016872551edaad347cc.png" group-title="42- ESPORTES BRASIL",Combate (3)
 http://lista.digitalgroup.me/3323/123/38746
 
-#EXTINF:-1 tvg-logo="https://4e0ow51f67h221f1ggcbe9m4-wpengine.netdna-ssl.com/wp-content/uploads/2016/08/ESPN-logo.png" group-title="42- ESPORTES BRASIL",Espn *BR (1)
+#EXTINF:-1 tvg-logo="https://4e0ow51f67h221f1ggcbe9m4-wpengine.netdna-ssl.com/wp-content/uploads/2016/08/ESPN-logo.png" group-title="42- ESPORTES BRASIL",Espn *BR (1) FHD
 http://list.deeplist.nl:80/live/0002/1234/1129.rtmp
 
-#EXTINF:-1 tvg-logo="https://4e0ow51f67h221f1ggcbe9m4-wpengine.netdna-ssl.com/wp-content/uploads/2016/08/ESPN-logo.png" group-title="42- ESPORTES BRASIL",Espn *BR (2)
+#EXTINF:-1 tvg-logo="https://4e0ow51f67h221f1ggcbe9m4-wpengine.netdna-ssl.com/wp-content/uploads/2016/08/ESPN-logo.png" group-title="42- ESPORTES BRASIL",Espn *BR (1) FHD
+http://list.deeplist.nl:80/live/0002/1234/26044.rtmp
 
+#EXTINF:-1 tvg-logo="https://4e0ow51f67h221f1ggcbe9m4-wpengine.netdna-ssl.com/wp-content/uploads/2016/08/ESPN-logo.png" group-title="42- ESPORTES BRASIL",Espn *BR (1) SD
+http://list.deeplist.nl:80/live/0002/1234/38754.rtmp
 
-#EXTINF:-1 tvg-logo="https://4e0ow51f67h221f1ggcbe9m4-wpengine.netdna-ssl.com/wp-content/uploads/2016/08/ESPN-logo.png" group-title="42- ESPORTES BRASIL",Espn *BR (3)
-
-
-#EXTINF:-1 tvg-logo="https://i.ya-webdesign.com/images/espn-2-logo-png-1.png" group-title="42- ESPORTES BRASIL",Espn 2 BR (1)
+#EXTINF:-1 tvg-logo="https://i.ya-webdesign.com/images/espn-2-logo-png-1.png" group-title="42- ESPORTES BRASIL",Espn 2 BR (1) FHD
 http://list.deeplist.nl:80/live/0002/1234/2394.rtmp
 
-#EXTINF:-1 tvg-logo="https://i.ya-webdesign.com/images/espn-2-logo-png-1.png" group-title="42- ESPORTES BRASIL",Espn 2 BR (2)
+#EXTINF:-1 tvg-logo="https://i.ya-webdesign.com/images/espn-2-logo-png-1.png" group-title="42- ESPORTES BRASIL",Espn 2 BR (1) SD
+http://list.deeplist.nl:80/live/0002/1234/38756.rtmp
 
-
-#EXTINF:-1 tvg-logo="https://i.ya-webdesign.com/images/espn-2-logo-png-1.png" group-title="42- ESPORTES BRASIL",Espn 2 BR (3)
-
-
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/E/ESPN_Brasil-logo-3717BF9E0D-seeklogo.com.png" group-title="42- ESPORTES BRASIL",Espn Brasil BR (1)
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/E/ESPN_Brasil-logo-3717BF9E0D-seeklogo.com.png" group-title="42- ESPORTES BRASIL",Espn Brasil BR (1) FHD
 http://list.deeplist.nl:80/live/0002/1234/2387.rtmp
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/E/ESPN_Brasil-logo-3717BF9E0D-seeklogo.com.png" group-title="42- ESPORTES BRASIL",Espn Brasil BR (2)
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/E/ESPN_Brasil-logo-3717BF9E0D-seeklogo.com.png" group-title="42- ESPORTES BRASIL",Espn Brasil BR (1) FHD
+http://list.deeplist.nl:80/live/0002/1234/26045.rtmp
 
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/E/ESPN_Brasil-logo-3717BF9E0D-seeklogo.com.png" group-title="42- ESPORTES BRASIL",Espn Brasil BR (1) SD
+http://list.deeplist.nl:80/live/0002/1234/38758.rtmp
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/E/ESPN_Brasil-logo-3717BF9E0D-seeklogo.com.png" group-title="42- ESPORTES BRASIL",Espn Brasil BR (3)
-
-
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-xSGNOpDB9-A/W1mltwIpEFI/AAAAAAAAObQ/83UBcqoHHyEnWojuARjQbTGkdw4vmP3EACLcBGAs/s320/espnextra.png" group-title="42- ESPORTES BRASIL",Espn Extra BR (1)
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-xSGNOpDB9-A/W1mltwIpEFI/AAAAAAAAObQ/83UBcqoHHyEnWojuARjQbTGkdw4vmP3EACLcBGAs/s320/espnextra.png" group-title="42- ESPORTES BRASIL",Espn Extra BR (1) FHD
 http://list.deeplist.nl:80/live/0002/1234/20813.rtmp
 
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-xSGNOpDB9-A/W1mltwIpEFI/AAAAAAAAObQ/83UBcqoHHyEnWojuARjQbTGkdw4vmP3EACLcBGAs/s320/espnextra.png" group-title="42- ESPORTES BRASIL",Espn Extra BR (2)
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-xSGNOpDB9-A/W1mltwIpEFI/AAAAAAAAObQ/83UBcqoHHyEnWojuARjQbTGkdw4vmP3EACLcBGAs/s320/espnextra.png" group-title="42- ESPORTES BRASIL",Espn Extra BR (1) FHD
+http://list.deeplist.nl:80/live/0002/1234/46906.rtmp
 
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-xSGNOpDB9-A/W1mltwIpEFI/AAAAAAAAObQ/83UBcqoHHyEnWojuARjQbTGkdw4vmP3EACLcBGAs/s320/espnextra.png" group-title="42- ESPORTES BRASIL",Espn Extra BR (1) SD
+http://list.deeplist.nl:80/live/0002/1234/20812.rtmp
 
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-xSGNOpDB9-A/W1mltwIpEFI/AAAAAAAAObQ/83UBcqoHHyEnWojuARjQbTGkdw4vmP3EACLcBGAs/s320/espnextra.png" group-title="42- ESPORTES BRASIL",Espn Extra BR (3)
+#EXTINF:-1 tvg-logo="https://i.ya-webdesign.com/images/fox-sports-1-png-5.png" group-title="42- ESPORTES BRASIL",Fox Sports *BR (1) FHD
+http://list.deeplist.nl:80/live/0002/1234/50187.rtmp
 
+#EXTINF:-1 tvg-logo="https://i.ya-webdesign.com/images/fox-sports-1-png-5.png" group-title="42- ESPORTES BRASIL",Fox Sports *BR (1) HD
+http://list.deeplist.nl:80/live/0002/1234/50188.rtmp
 
-#EXTINF:-1 tvg-logo="https://i.ya-webdesign.com/images/fox-sports-1-png-5.png" group-title="42- ESPORTES BRASIL",Fox Sports *BR (1)
+#EXTINF:-1 tvg-logo="https://i.ya-webdesign.com/images/fox-sports-1-png-5.png" group-title="42- ESPORTES BRASIL",Fox Sports *BR (1) SD
 http://list.deeplist.nl:80/live/0002/1234/2391.rtmp
 
 #EXTINF:-1 tvg-logo="https://i.ya-webdesign.com/images/fox-sports-1-png-5.png" group-title="42- ESPORTES BRASIL",Fox Sports *BR (2)
@@ -4358,8 +4424,8 @@ http://lista.digitalgroup.me/1007/123456/2391
 #EXTINF:-1 tvg-logo="https://i.ya-webdesign.com/images/fox-sports-1-png-5.png" group-title="42- ESPORTES BRASIL",Fox Sports *BR (3)
 http://lista.digitalgroup.me/3323/123/2391
 
-#EXTINF:-1 tvg-logo="http://midiafatos.com.br/wp-content/uploads/2017/02/fox_sports2_N.png" group-title="42- ESPORTES BRASIL",Fox Sports 2 BR (1)
-http://list.deeplist.nl:80/live/0002/1234/1031.rtmp
+#EXTINF:-1 tvg-logo="http://midiafatos.com.br/wp-content/uploads/2017/02/fox_sports2_N.png" group-title="42- ESPORTES BRASIL",Fox Sports 2 BR (1) FHD
+http://list.deeplist.nl:80/live/0002/1234/26031.rtmp
 
 #EXTINF:-1 tvg-logo="http://midiafatos.com.br/wp-content/uploads/2017/02/fox_sports2_N.png" group-title="42- ESPORTES BRASIL",Fox Sports 2 BR (2)
 http://lista.digitalgroup.me/1007/123456/1717
@@ -4367,7 +4433,10 @@ http://lista.digitalgroup.me/1007/123456/1717
 #EXTINF:-1 tvg-logo="http://midiafatos.com.br/wp-content/uploads/2017/02/fox_sports2_N.png" group-title="42- ESPORTES BRASIL",Fox Sports 2 BR (3)
 http://lista.digitalgroup.me/3323/123/1717
 
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-xk-32sZB5XE/VAHkcQOOlNI/AAAAAAACH5w/pIZYQjvBVsY/s1600/PFC_LOGO_2014.png" group-title="42- ESPORTES BRASIL",Premiere *Clubes BR (1)
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-xk-32sZB5XE/VAHkcQOOlNI/AAAAAAACH5w/pIZYQjvBVsY/s1600/PFC_LOGO_2014.png" group-title="42- ESPORTES BRASIL",Premiere *Clubes BR (1) FHD
+http://list.deeplist.nl:80/live/0002/1234/5065.rtmp
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-xk-32sZB5XE/VAHkcQOOlNI/AAAAAAACH5w/pIZYQjvBVsY/s1600/PFC_LOGO_2014.png" group-title="42- ESPORTES BRASIL",Premiere *Clubes BR (1) HD
 http://list.deeplist.nl:80/live/0002/1234/1714.rtmp
 
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-xk-32sZB5XE/VAHkcQOOlNI/AAAAAAACH5w/pIZYQjvBVsY/s1600/PFC_LOGO_2014.png" group-title="42- ESPORTES BRASIL",Premiere *Clubes BR (2)
@@ -4376,8 +4445,14 @@ http://lista.digitalgroup.me/1007/123456/50207
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-xk-32sZB5XE/VAHkcQOOlNI/AAAAAAACH5w/pIZYQjvBVsY/s1600/PFC_LOGO_2014.png" group-title="42- ESPORTES BRASIL",Premiere *Clubes BR (3)
 http://lista.digitalgroup.me/3323/123/50207
 
-#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/sportv-logo-png-7.png" group-title="42- ESPORTES BRASIL",Sportv *BR (1)
-http://list.deeplist.nl:80/live/0002/1234/50759.rtmp
+#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/sportv-logo-png-7.png" group-title="42- ESPORTES BRASIL",Sportv *BR (1) FHD
+http://list.deeplist.nl:80/live/0002/1234/5067.rtmp
+
+#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/sportv-logo-png-7.png" group-title="42- ESPORTES BRASIL",Sportv *BR (1) HD
+http://list.deeplist.nl:80/live/0002/1234/1203.rtmp
+
+#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/sportv-logo-png-7.png" group-title="42- ESPORTES BRASIL",Sportv *BR (1) SD
+http://list.deeplist.nl:80/live/0002/1234/47528.rtmp
 
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/sportv-logo-png-7.png" group-title="42- ESPORTES BRASIL",Sportv *BR (2)
 http://lista.digitalgroup.me/1007/123456/47528
@@ -4388,8 +4463,14 @@ http://lista.digitalgroup.me/3323/123/47528
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/sportv-logo-png-7.png" group-title="42- ESPORTES BRASIL",Sportv *BR (3) FHD
 http://lista.digitalgroup.me/3323/123/5067
 
-#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/logo-sportv-png-1.png" group-title="42- ESPORTES BRASIL",Sportv 2 BR (1)
-http://list.deeplist.nl:80/live/0002/1234/50737.rtmp
+#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/logo-sportv-png-1.png" group-title="42- ESPORTES BRASIL",Sportv 2 BR (1) FHD
+http://list.deeplist.nl:80/live/0002/1234/26030.rtmp
+
+#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/logo-sportv-png-1.png" group-title="42- ESPORTES BRASIL",Sportv 2 BR (1) HD
+http://list.deeplist.nl:80/live/0002/1234/2401.rtmp
+
+#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/logo-sportv-png-1.png" group-title="42- ESPORTES BRASIL",Sportv 2 BR (1) SD
+http://list.deeplist.nl:80/live/0002/1234/38710.rtmp
 
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/logo-sportv-png-1.png" group-title="42- ESPORTES BRASIL",Sportv 2 BR (2)
 http://lista.digitalgroup.me/1007/123456/38710
@@ -4400,8 +4481,14 @@ http://lista.digitalgroup.me/3323/123/38710
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/logo-sportv-png-1.png" group-title="42- ESPORTES BRASIL",Sportv 2 BR (3) FHD
 http://lista.digitalgroup.me/3323/123/26030
 
-#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/logo-sportv-png-5.png" group-title="42- ESPORTES BRASIL",Sportv 3 BR (1)
-http://list.deeplist.nl:80/live/0002/1234/50738.rtmp
+#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/logo-sportv-png-5.png" group-title="42- ESPORTES BRASIL",Sportv 3 BR (1) FHD
+http://list.deeplist.nl:80/live/0002/1234/26010.rtmp
+
+#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/logo-sportv-png-5.png" group-title="42- ESPORTES BRASIL",Sportv 3 BR (1) HD
+http://list.deeplist.nl:80/live/0002/1234/2402.rtmp
+
+#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/logo-sportv-png-5.png" group-title="42- ESPORTES BRASIL",Sportv 3 BR (1) SD
+http://list.deeplist.nl:80/live/0002/1234/38713.rtmp
 
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/logo-sportv-png-5.png" group-title="42- ESPORTES BRASIL",Sportv 3 BR (2)
 http://lista.digitalgroup.me/1007/123456/38713
