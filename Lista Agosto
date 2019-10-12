@@ -174,6 +174,9 @@ https://stream.vagalume.fm/hls/14658544132100453351/aac.m3u8
 #######################################
 ######################################################################################################################################
 
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BOWJjYzI2NGYtMGFlYi00NWNiLWJhOTMtYzZlNWI1ZDQ4NzM5XkEyXkFqcGdeQXVyNjQ0OTk1ODg@._V1_.jpg" group-title="04- BRASIL",A Fazenda (1)
+http://list.deeplist.nl:80/live/0002/1234/50846.rtmp
+
 #EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BOWJjYzI2NGYtMGFlYi00NWNiLWJhOTMtYzZlNWI1ZDQ4NzM5XkEyXkFqcGdeQXVyNjQ0OTk1ODg@._V1_.jpg" group-title="04- BRASIL",A Fazenda (2)
 http://lista.digitalgroup.me/1007/123456/50843
 
@@ -187,7 +190,7 @@ http://lista.digitalgroup.me/1661/123456/50843
 http://177.54.152.243:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8?GrupoTopIptv
 
 #EXTINF:0 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/band-logo-png-6.png" group-title="04- BRASIL",Band (1)
-http://tv.factoryiptv.com:80/live/claudio/claudio/37127.rtmp
+http://list.deeplist.nl:80/live/0002/1234/1713.rtmp
 
 #EXTINF:0 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/band-logo-png-6.png" group-title="04- BRASIL",Band (2)
 http://lista.digitalgroup.me/1007/123456/1108
@@ -211,7 +214,7 @@ https://5c49cd60dfe56.streamlock.net:6443/cinemais/live/chunklist_w749538962.m3u
 
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="04- BRASIL",Globo SP (1)
-http://tv.factoryiptv.com:80/live/claudio/claudio/37090.rtmp
+http://list.deeplist.nl:80/live/0002/1234/17122.rtmp
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="04- BRASIL",Globo SP (2)
 http://lista.digitalgroup.me/1007/123456/38657
@@ -229,7 +232,7 @@ http://lista.digitalgroup.me/1661/123456/17122
 http://lista.digitalgroup.me/1661/123456/38657
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="04- BRASIL",Globo RJ (1)
-http://tv.factoryiptv.com:80/live/claudio/claudio/37091.rtmp
+http://list.deeplist.nl:80/live/0002/1234/1207.rtmp
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="04- BRASIL",Globo RJ (2)
 http://lista.digitalgroup.me/1007/123456/38661
@@ -247,7 +250,7 @@ http://lista.digitalgroup.me/1661/123456/1207
 http://lista.digitalgroup.me/1661/123456/38661
 
 #EXTINF:-1 tvg-logo="http://evertonlopes.com.br/wp-content/uploads/2017/04/RBS_TV2.png" group-title="04- BRASIL",Globo RBS (1)
-http://tv.factoryiptv.com:80/live/claudio/claudio/40253.rtmp
+http://list.deeplist.nl:80/live/0002/1234/968.rtmp
 
 #EXTINF:-1 tvg-logo="http://evertonlopes.com.br/wp-content/uploads/2017/04/RBS_TV2.png" group-title="04- BRASIL",Globo RBS (2)
 http://lista.digitalgroup.me/1007/123456/968
@@ -268,9 +271,6 @@ http://lista.digitalgroup.me/1661/123456/968
 http://tv02.logicahost.com.br:1935/itutv/itutv/live.m3u8?GrupoTopIptv
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/if82162.png" group-title="04- BRASIL",NBR (1)
-http://tv.factoryiptv.com:80/live/claudio/claudio/37021.rtmp
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/if82162.png" group-title="04- BRASIL",NBR (2)
 
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/k4haEx6.png" group-title="04- BRASIL",Rede TV SD
@@ -283,7 +283,7 @@ https://59f1cbe63db89.streamlock.net:1443/redeatividade/_definst_/redeatividade/
 https://v8.ciclano.io:1443/rafael926/_definst_/rafael926/playlist.m3u8?GrupoTopIptv
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/k4haEx6.png" group-title="04- BRASIL",Rede TV (1)
-http://tv.factoryiptv.com:80/live/claudio/claudio/37012.rtmp
+http://list.deeplist.nl:80/live/0002/1234/963.rtpm
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/k4haEx6.png" group-title="04- BRASIL",Rede TV (2)
 http://lista.digitalgroup.me/1007/123456/963
@@ -295,7 +295,7 @@ http://lista.digitalgroup.me/3323/123/963
 http://lista.digitalgroup.me/1661/123456/963
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="04- BRASIL",Record (1)
-http://tv.factoryiptv.com:80/live/claudio/claudio/37051.rtmp
+http://list.deeplist.nl:80/live/0002/1234/1210.rtpm
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="04- BRASIL",Record (2)
 http://lista.digitalgroup.me/1007/123456/38765
@@ -322,7 +322,7 @@ http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8?GrupoTopIptv
 http://difusorama.zoeweb.tv:1935/z437-live/stream/playlist.m3u8?GrupoTopIptv
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="04- BRASIL",SBT (1)
-http://tv.factoryiptv.com:80/live/claudio/claudio/37048.rtmp
+http://list.deeplist.nl:80/live/0002/1234/1208.rtpm
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="04- BRASIL",SBT (2)
 http://lista.digitalgroup.me/1007/123456/50196
