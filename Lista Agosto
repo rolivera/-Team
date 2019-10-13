@@ -4052,7 +4052,7 @@ http://ic.imusicaradios.com.br:8000/brasil.stream.http?url=tunein
 ######################################################################################################################################
 
 #EXTINF:-1  tvg-logo="http://www.megacable.com.mx/images/canales/74_aym-sports.png" group-title="41- DEPORTES LATINO",Aym Sports (1)
-http://ummodigital.com:2082/live/jay12/jay12/6653.rtmp
+
 
 #EXTINF:-1  tvg-logo="http://www.megacable.com.mx/images/canales/74_aym-sports.png" group-title="41- DEPORTES LATINO",Aym Sports (2)
 http://ummodigital.com:2082/live/Donald1/Donald1/6653.rtmp
@@ -4085,7 +4085,7 @@ http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8?GrupoTopIptv
 http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/3387.ts
 
 #EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/claro-sports.png" group-title="41- DEPORTES LATINO",Claro Sports (1)
-http://ummodigital.com:2082/live/jay12/jay12/5030.rtmp
+
 
 #EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/claro-sports.png" group-title="41- DEPORTES LATINO",Claro Sports (2)
 http://ummodigital.com:2082/live/Donald1/Donald1/5030.rtmp
@@ -4099,6 +4099,12 @@ http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/4566.ts
 #EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/claro-sports.png" group-title="41- DEPORTES LATINO",Claro Sports (5)
 http://ummodigital.com:2082/live/Orlando1/Orlando1/5030.rtmp
 
+#EXTINF:-1 tvg-logo="http://inda.tv/wp-content/uploads/2018/09/deportv1.jpg" group-title="41- DEPORTES LATINO",Deportv (1)
+http://nitro.ltd:25461/live/ms/ms/31639.rtmp
+
+#EXTINF:-1 tvg-logo="https://infonegocios.biz/uploads/directtvsportsinterna.png" group-title="41- DEPORTES LATINO",Directv Sports (1)
+http://nitro.ltd:25461/live/ms/ms/23916.rtmp
+
 #EXTINF:-1 tvg-logo="https://infonegocios.biz/uploads/directtvsportsinterna.png" group-title="41- DEPORTES LATINO",Directv Sports (4)
 http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/1017.ts
 
@@ -4106,7 +4112,7 @@ http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/1017.ts
 http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/2863.ts
 
 #EXTINF:-1 tvg-logo="https://4e0ow51f67h221f1ggcbe9m4-wpengine.netdna-ssl.com/wp-content/uploads/2016/08/ESPN-logo.png" group-title="41- DEPORTES LATINO",Espn (1)
-http://ummodigital.com:2082/live/jay12/jay12/7438.rtmp
+http://nitro.ltd:25461/live/ms/ms/31632.rtmp
 
 #EXTINF:-1 tvg-logo="https://4e0ow51f67h221f1ggcbe9m4-wpengine.netdna-ssl.com/wp-content/uploads/2016/08/ESPN-logo.png" group-title="41- DEPORTES LATINO",Espn (2)
 http://ummodigital.com:2082/live/Donald1/Donald1/7438.rtmp
@@ -4121,7 +4127,7 @@ http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/91.ts
 http://ummodigital.com:2082/live/Orlando1/Orlando1/7438.rtmp
 
 #EXTINF:-1 tvg-logo="https://i.ya-webdesign.com/images/espn-2-logo-png-1.png" group-title="41- DEPORTES LATINO",Espn 2 (1)
-http://ummodigital.com:2082/live/jay12/jay12/7439.rtmp
+http://nitro.ltd:25461/live/ms/ms/31631.rtmp
 
 #EXTINF:-1 tvg-logo="https://i.ya-webdesign.com/images/espn-2-logo-png-1.png" group-title="41- DEPORTES LATINO",Espn 2 (2)
 http://ummodigital.com:2082/live/Donald1/Donald1/7439.rtmp
@@ -4136,7 +4142,7 @@ http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/92.ts
 http://ummodigital.com:2082/live/Orlando1/Orlando1/7439.rtmp
 
 #EXTINF:-1 tvg-logo="https://tvzamora.net/wp-content/uploads/2016/12/Logo-ESPN-3-By-Bauti.png" group-title="41- DEPORTES LATINO",Espn 3 (1)
-http://ummodigital.com:2082/live/jay12/jay12/7922.rtmp
+http://nitro.ltd:25461/live/ms/ms/31630.rtmp
 
 #EXTINF:-1 tvg-logo="https://tvzamora.net/wp-content/uploads/2016/12/Logo-ESPN-3-By-Bauti.png" group-title="41- DEPORTES LATINO",Espn 3 (2)
 http://ummodigital.com:2082/live/Donald1/Donald1/7922.rtmp
@@ -4151,7 +4157,7 @@ http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/93.ts
 http://ummodigital.com:2082/live/Orlando1/Orlando1/7922.rtmp
 
 #EXTINF:-1 tvg-logo="https://league-mp7static.mlsdigital.net/styles/full_landscape/s3/images/espn_plus_white.png" group-title="41- DEPORTES LATINO",Espn + (1)
-http://ummodigital.com:2082/live/jay12/jay12/7440.rtmp
+
 
 #EXTINF:-1 tvg-logo="https://league-mp7static.mlsdigital.net/styles/full_landscape/s3/images/espn_plus_white.png" group-title="41- DEPORTES LATINO",Espn + (2)
 http://ummodigital.com:2082/live/Donald1/Donald1/7440.rtmp
@@ -4166,7 +4172,7 @@ http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/110.ts
 http://ummodigital.com:2082/live/Orlando1/Orlando1/7440.rtmp
 
 #EXTINF:-1 tvg-logo="https://4e0ow51f67h221f1ggcbe9m4-wpengine.netdna-ssl.com/wp-content/uploads/2016/08/ESPN-logo.png" group-title="41- DEPORTES LATINO",Espn Deportes (1)
-http://ummodigital.com:2082/live/jay12/jay12/1664.rtmp
+
 
 #EXTINF:-1 tvg-logo="https://4e0ow51f67h221f1ggcbe9m4-wpengine.netdna-ssl.com/wp-content/uploads/2016/08/ESPN-logo.png" group-title="41- DEPORTES LATINO",Espn Deportes (2)
 http://ummodigital.com:2082/live/Donald1/Donald1/1664.rtmp
@@ -4184,7 +4190,7 @@ http://ummodigital.com:2082/live/Orlando1/Orlando1/1664.rtmp
 
 
 #EXTINF:-1 tvg-logo="https://i.ya-webdesign.com/images/fox-sports-1-png-5.png" group-title="41- DEPORTES LATINO",Fox Sports (1)
-http://ummodigital.com:2082/live/jay12/jay12/7441.rtmp
+http://nitro.ltd:25461/live/ms/ms/31615.rtmp
 
 #EXTINF:-1 tvg-logo="https://i.ya-webdesign.com/images/fox-sports-1-png-5.png" group-title="41- DEPORTES LATINO",Fox Sports (2)
 http://ummodigital.com:2082/live/Donald1/Donald1/7441.rtmp
@@ -4199,7 +4205,7 @@ http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/1820.ts
 http://ummodigital.com:2082/live/Orlando1/Orlando1/7441.rtmp
 
 #EXTINF:-1 tvg-logo="http://midiafatos.com.br/wp-content/uploads/2017/02/fox_sports2_N.png" group-title="41- DEPORTES LATINO",Fox Sports 2 (1)
-http://ummodigital.com:2082/live/jay12/jay12/7442.rtmp
+http://nitro.ltd:25461/live/ms/ms/31614.rtmp
 
 #EXTINF:-1 tvg-logo="http://midiafatos.com.br/wp-content/uploads/2017/02/fox_sports2_N.png" group-title="41- DEPORTES LATINO",Fox Sports 2 (2)
 http://ummodigital.com:2082/live/Donald1/Donald1/7442.rtmp
@@ -4214,7 +4220,7 @@ http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/95.ts
 http://ummodigital.com:2082/live/Orlando1/Orlando1/7442.rtmp
 
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/fox-sports3-logos-01.png" group-title="41- DEPORTES LATINO",Fox Sports 3 (1)
-
+http://nitro.ltd:25461/live/ms/ms/31613.rtmp
 
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/fox-sports3-logos-01.png" group-title="41- DEPORTES LATINO",Fox Sports 3 (2)
 
@@ -4229,7 +4235,7 @@ http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/4140.ts
 http://ummodigital.com:2082/live/Orlando1/Orlando1/7443.rtmp
 
 #EXTINF:-1 tvg-logo="http://television.com.ar/wp-content/uploads/2019/06/LogoFoxSportsPremiumTapa.jpg" group-title="41- DEPORTES LATINO",Fox Sports Premium (1)
-http://ummodigital.com:2082/live/jay12/jay12/4441.rtmp
+
 
 #EXTINF:-1 tvg-logo="http://television.com.ar/wp-content/uploads/2019/06/LogoFoxSportsPremiumTapa.jpg" group-title="41- DEPORTES LATINO",Fox Sports Premium (2)
 http://ummodigital.com:2082/live/Donald1/Donald1/4441.rtmp
@@ -4253,7 +4259,7 @@ http://ummodigital.com:2082/live/Orlando1/Orlando1/8670.rtmp
 http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/488.ts
 
 #EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/goltv.png" group-title="41- DEPORTES LATINO",Gol Uruguay (1)
-http://ummodigital.com:2082/live/jay12/jay12/11072.rtmp
+
 
 #EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/goltv.png" group-title="41- DEPORTES LATINO",Gol Uruguay (2)
 http://ummodigital.com:2082/live/Donald1/Donald1/11072.rtmp
@@ -4274,7 +4280,7 @@ http://ummodigital.com:2082/live/Orlando1/Orlando1/11072.rtmp
 http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/14642.ts
 
 #EXTINF:-1 tvg-logo="http://television.com.ar/wp-content/uploads/2019/01/tntsportslogo.jpg" group-title="41- DEPORTES LATINO",Tnt Sports (1)
-http://ummodigital.com:2082/live/jay12/jay12/5140.rtmp
+http://nitro.ltd:25461/live/ms/ms/31545.rtmp
 
 #EXTINF:-1 tvg-logo="http://television.com.ar/wp-content/uploads/2019/01/tntsportslogo.jpg" group-title="41- DEPORTES LATINO",Tnt Sports (2)
 http://ummodigital.com:2082/live/Donald1/Donald1/5140.rtmp
@@ -4289,7 +4295,7 @@ http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/3395.ts
 http://ummodigital.com:2082/live/Orlando1/Orlando1/5140.rtmp
 
 #EXTINF:-1 tvg-logo="https://www.tigosports.gt/profiles/gcoop_base_profile/themes/tigosports/tigosports.png" group-title="41- DEPORTES LATINO",Tigo Sports (1)
-http://ummodigital.com:2082/live/jay12/jay12/10290.rtmp
+
 
 #EXTINF:-1 tvg-logo="https://www.tigosports.gt/profiles/gcoop_base_profile/themes/tigosports/tigosports.png" group-title="41- DEPORTES LATINO",Tigo Sports (2)
 http://ummodigital.com:2082/live/Donald1/Donald1/10290.rtmp
@@ -4307,7 +4313,7 @@ http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/12138.ts
 http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/3507.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SAZczO7.png" group-title="41- DEPORTES LATINO",TyC (1)
-http://ummodigital.com:2082/live/jay12/jay12/3475.rtmp
+http://nitro.ltd:25461/live/ms/ms/31552.rtmp
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SAZczO7.png" group-title="41- DEPORTES LATINO",TyC (2)
 http://ummodigital.com:2082/live/Donald1/Donald1/3475.rtmp
@@ -4331,7 +4337,7 @@ http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/14856.ts
 http://ummodigital.com:2082/live/Orlando1/Orlando1/5621.rtmp
 
 #EXTINF:-1 tvg-logo="https://ftp.winsports.co/assets/img/win/winsports-small_2017.png" group-title="41- DEPORTES LATINO",Win Sports (1)
-http://ummodigital.com:2082/live/jay12/jay12/4893.rtmp
+
 
 #EXTINF:-1 tvg-logo="https://ftp.winsports.co/assets/img/win/winsports-small_2017.png" group-title="41- DEPORTES LATINO",Win Sports (2)
 http://ummodigital.com:2082/live/Donald1/Donald1/4893.rtmp
