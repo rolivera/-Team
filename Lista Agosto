@@ -1558,10 +1558,7 @@ http://ummodigital.com:2082/live/airborne1/airborne1/347.rtmp
 http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/38.ts
 
 #EXTINF:-1 tvg-logo="http://www.multicanalcatamayo.com/cablevisiondondiego/images/74.png" group-title="28- PREMIUM LATINO",Distrito Comedia (5)
-http://infinity.ddns.me:25461/live/cesar.vera85/zbO9UOGgl7/12527.ts
 
-#EXTINF:-1 tvg-logo="http://www.multicanalcatamayo.com/cablevisiondondiego/images/74.png" group-title="28- PREMIUM LATINO",Distrito Comedia (5) FHD
-http://infinity.ddns.me:25461/live/cesar.vera85/zbO9UOGgl7/1249.ts
 
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/EURO_LOGO_FINALE.jpg" group-title="28- PREMIUM LATINO",EuroChannel (1)
 
@@ -1642,7 +1639,7 @@ http://ummodigital.com:2082/live/airborne1/airborne1/360.rtmp
 http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/72.ts
 
 #EXTINF:-1 tvg-logo="https://www.telecablecr.com/wp-content/uploads/2018/11/LOGO-FOXPREMIUM_CINEMA.png" group-title="28- PREMIUM LATINO",Fox Cinema (5) FHD
-http://infinity.ddns.me:25461/live/cesar.vera85/zbO9UOGgl7/9678.ts
+
 
 #EXTINF:-1 tvg-logo="https://www.telecablecr.com/wp-content/uploads/2018/11/LOGO-FOXPREMIUM_COMEDY.png" group-title="28- PREMIUM LATINO",Fox Comedy (1)
 http://nitro.ltd:25461/live/ms/ms/39893.rtmp
@@ -1667,6 +1664,9 @@ http://nitro.ltd:25461/live/troy/troy/39891.rtmp
 
 #EXTINF:-1 tvg-logo="https://www.telecablecr.com/wp-content/uploads/2018/11/LOGO-FOXPREMIUM_FAMILYHD.png" group-title="28- PREMIUM LATINO",Fox Family (3)
 http://ummodigital.com:2082/live/airborne1/airborne1/4972.rtmp
+
+#EXTINF:-1 tvg-logo="https://www.telecablecr.com/wp-content/uploads/2018/11/LOGO-FOXPREMIUM_FAMILYHD.png" group-title="28- PREMIUM LATINO",Fox Family (5) HD
+http://infinity.ddns.me:25461/live/cesar.vera85/zbO9UOGgl7/1160.ts
 
 #EXTINF:-1 tvg-logo="https://www.telecablecr.com/wp-content/uploads/2018/11/LOGO-FOXPREMIUM_FAMILYHD.png" group-title="28- PREMIUM LATINO",Fox Family (5) FHD
 http://infinity.ddns.me:25461/live/cesar.vera85/zbO9UOGgl7/1533.ts
@@ -1837,7 +1837,7 @@ http://ummodigital.com:2082/live/airborne1/airborne1/5180.rtmp
 http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/182.ts
 
 #EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/hbo-family-logo-320x320-745790760.png" group-title="28- PREMIUM LATINO",Hbo Family (5) HD
-http://infinity.ddns.me:25461/live/cesar.vera85/zbO9UOGgl7/1160.ts
+
 
 #EXTINF:-1 tvg-logo="http://contenidos.cablevision.com.mx/guia_programacion/channels/634.png" group-title="28- PREMIUM LATINO",Hbo Plus (1)
 http://nitro.ltd:25461/live/ms/ms/31601.rtmp
@@ -2638,7 +2638,7 @@ http://ummodigital.com:2082/live/airborne1/airborne1/1710.rtmp
 http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/29.ts
 
 #EXTINF:-1 tvg-logo="https://www.bellmedia.ca/wp-content/uploads/2014/02/tv1_e-490x490.png" group-title="30- VARIEDADES LATINO",E! (5)
-http://ummodigital.com:2082/live/Orlando1/Orlando1/1710.rtmp
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/68ztlZE.png" group-title="30- VARIEDADES LATINO",El Gourmet (1)
 http://nitro.ltd:25461/live/ms/ms/31606.rtmp
@@ -2653,7 +2653,7 @@ http://ummodigital.com:2082/live/airborne1/airborne1/4646.rtmp
 http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/34.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/68ztlZE.png" group-title="30- VARIEDADES LATINO",El Gourmet (5)
-http://ummodigital.com:2082/live/Orlando1/Orlando1/4646.rtmp
+
 
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/film_and_arts-mediano.png" group-title="30- VARIEDADES LATINO",Film & Arts (1)
 http://nitro.ltd:25461/live/ms/ms/31628.rtmp
@@ -2665,7 +2665,7 @@ http://nitro.ltd:25461/live/troy/troy/31628.rtmp
 http://ummodigital.com:2082/live/airborne1/airborne1/6832.rtmp
 
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/film_and_arts-mediano.png" group-title="30- VARIEDADES LATINO",Film & Arts (5)
-http://ummodigital.com:2082/live/Orlando1/Orlando1/6832.rtmp
+
 
 #EXTINF:-1 tvg-logo="https://bestofsno.com/wp-content/uploads/2019/03/3.18-culinary.png" group-title="30- VARIEDADES LATINO",Food Network (1)
 http://nitro.ltd:25461/live/ms/ms/2984.rtmp
@@ -2677,7 +2677,7 @@ http://nitro.ltd:25461/live/ms/ms/2984.rtmp
 http://ummodigital.com:2082/live/airborne1/airborne1/5242.rtmp
 
 #EXTINF:-1 tvg-logo="https://bestofsno.com/wp-content/uploads/2019/03/3.18-culinary.png" group-title="30- VARIEDADES LATINO",Food Network (5)
-http://ummodigital.com:2082/live/Orlando1/Orlando1/5242.rtmp
+
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/22/53/ef/2253eff0b7164502c402c73e98ef9417.png" group-title="30- VARIEDADES LATINO",Glitz (1)
 http://nitro.ltd:25461/live/ms/ms/31608.rtmp
@@ -2689,7 +2689,7 @@ http://nitro.ltd:25461/live/troy/troy/31608.rtmp
 http://ummodigital.com:2082/live/airborne1/airborne1/370.rtmp
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/22/53/ef/2253eff0b7164502c402c73e98ef9417.png" group-title="30- VARIEDADES LATINO",Glitz (5)
-http://ummodigital.com:2082/live/Orlando1/Orlando1/370.rtmp
+
 
 #EXTINF:-1 tvg-logo="https://www.directv.com/images/logos/channels/dark/large/466.png" group-title="30- VARIEDADES LATINO",Hola TV (1)
 
@@ -2704,7 +2704,7 @@ http://ummodigital.com:2082/live/airborne1/airborne1/4647.rtmp
 http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/24.ts
 
 #EXTINF:-1 tvg-logo="https://www.directv.com/images/logos/channels/dark/large/466.png" group-title="30- VARIEDADES LATINO",Hola TV (5)
-http://ummodigital.com:2082/live/Orlando1/Orlando1/4647.rtmp
+
 
 #EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/57/9c/40/579c40e8-7069-ad6a-0cbc-dfee8a11e7e6/source/512x512bb.jpg" group-title="30- VARIEDADES LATINO",Inti (1)
 
@@ -2716,7 +2716,7 @@ http://ummodigital.com:2082/live/Orlando1/Orlando1/4647.rtmp
 http://ummodigital.com:2082/live/airborne1/airborne1/5076.rtmp
 
 #EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/57/9c/40/579c40e8-7069-ad6a-0cbc-dfee8a11e7e6/source/512x512bb.jpg" group-title="30- VARIEDADES LATINO",Inti (5)
-http://ummodigital.com:2082/live/Orlando1/Orlando1/5076.rtmp
+
 
 #EXTINF:-1 tvg-logo="https://assets.corusent.com/wp-content/uploads/2017/06/logo_tv_lifetime_june2017-500x250.png" group-title="30- VARIEDADES LATINO",Lifetime (1)
 http://nitro.ltd:25461/live/ms/ms/31595.rtmp
@@ -2731,7 +2731,7 @@ http://ummodigital.com:2082/live/airborne1/airborne1/4661.rtmp
 http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/63.ts
 
 #EXTINF:-1 tvg-logo="https://assets.corusent.com/wp-content/uploads/2017/06/logo_tv_lifetime_june2017-500x250.png" group-title="30- VARIEDADES LATINO",Lifetime (5)
-http://ummodigital.com:2082/live/Orlando1/Orlando1/4661.rtmp
+
 
 #EXTINF:-1 tvg-logo="https://www.totalplay.com.mx/images/logos/canales/entretenimiento/mas-chic.png" group-title="30- VARIEDADES LATINO",Mas Chic (1)
 http://nitro.ltd:25461/live/ms/ms/31593.rtmp
@@ -2746,7 +2746,7 @@ http://ummodigital.com:2082/live/airborne1/airborne1/1379.rtmp
 http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/26.ts
 
 #EXTINF:-1 tvg-logo="https://www.totalplay.com.mx/images/logos/canales/entretenimiento/mas-chic.png" group-title="30- VARIEDADES LATINO",Mas Chic (5)
-http://ummodigital.com:2082/live/Orlando1/Orlando1/1379.rtmp
+
 
 #EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/mtv-png-logo/danielle-vega-mtv-png-logo-17.png" group-title="30- VARIEDADES LATINO",Mtv (1)
 http://nitro.ltd:25461/live/ms/ms/31588.rtmp
@@ -2761,7 +2761,7 @@ http://ummodigital.com:2082/live/airborne1/airborne1/2183.rtmp
 http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/105.ts
 
 #EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/mtv-png-logo/danielle-vega-mtv-png-logo-17.png" group-title="30- VARIEDADES LATINO",Mtv (5)
-http://ummodigital.com:2082/live/Orlando1/Orlando1/2183.rtmp
+http://infinity.ddns.me:25461/live/cesar.vera85/zbO9UOGgl7/17673.ts
 
 #EXTINF:-1 tvg-logo="https://www.itizaps.net/zapper/logo/b/mtv-hits-2014.png" group-title="30- VARIEDADES LATINO",Mtv Hits (1)
 http://nitro.ltd:25461/live/ms/ms/31587.rtmp
@@ -2776,7 +2776,7 @@ http://ummodigital.com:2082/live/airborne1/airborne1/383.rtmp
 http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/106.ts
 
 #EXTINF:-1 tvg-logo="https://www.itizaps.net/zapper/logo/b/mtv-hits-2014.png" group-title="30- VARIEDADES LATINO",Mtv Hits (5)
-http://ummodigital.com:2082/live/Orlando1/Orlando1/383.rtmp
+
 
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/mtv-live-logo-png-5.png" group-title="30- VARIEDADES LATINO",Mtv Live (1)
 
@@ -2791,7 +2791,7 @@ http://ummodigital.com:2082/live/airborne1/airborne1/1399.rtmp
 http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/102.ts
 
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/mtv-live-logo-png-5.png" group-title="30- VARIEDADES LATINO",Mtv Live (5)
-http://ummodigital.com:2082/live/Orlando1/Orlando1/1399.rtmp
+
 
 #EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2011/09/c0552-sundancetv-la.png" group-title="30- VARIEDADES LATINO",Sundance (1)
 
@@ -2806,7 +2806,7 @@ http://ummodigital.com:2082/live/airborne1/airborne1/3354.rtmp
 http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/3855.ts
 
 #EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2011/09/c0552-sundancetv-la.png" group-title="30- VARIEDADES LATINO",Sundance (5)
-http://ummodigital.com:2082/live/Orlando1/Orlando1/3354.rtmp
+
 
 #EXTINF:-1 tvg-logo="https://tvnotiblog.com/wp-content/uploads/2012/04/trutv.png" group-title="30- VARIEDADES LATINO",Trutv (1)
 http://nitro.ltd:25461/live/ms/ms/31556.rtmp
@@ -2821,7 +2821,7 @@ http://ummodigital.com:2082/live/airborne1/airborne1/1376.rtmp
 http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/21.ts
 
 #EXTINF:-1 tvg-logo="https://tvnotiblog.com/wp-content/uploads/2012/04/trutv.png" group-title="30- VARIEDADES LATINO",Trutv (5)
-http://ummodigital.com:2082/live/Orlando1/Orlando1/1376.rtmp
+
 
 ######################################################################################################################################
 #######################################
@@ -3081,7 +3081,7 @@ http://ummodigital.com:2082/live/airborne1/airborne1/6836.rtmp
 http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/10297.ts
 
 #EXTINF:-1 tvg-logo="https://www.directv.com/images/logos/channels/dark/large/673.png" group-title="32- INFANTIL LATINO",Baby First (5)
-http://ummodigital.com:2082/live/Orlando1/Orlando1/6836.rtmp
+
 
 #EXTINF:-1 tvg-logo="http://liveitkodi.com/Logos/BabyTV.png" group-title="32- INFANTIL LATINO",Baby TV (1)
 http://nitro.ltd:25461/live/ms/ms/31660.rtmp
@@ -3096,7 +3096,7 @@ http://ummodigital.com:2082/live/airborne1/airborne1/3300.rtmp
 http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/408.ts
 
 #EXTINF:-1 tvg-logo="http://liveitkodi.com/Logos/BabyTV.png" group-title="32- INFANTIL LATINO",Baby TV (5)
-http://ummodigital.com:2082/live/Orlando1/Orlando1/3300.rtmp
+http://infinity.ddns.me:25461/live/cesar.vera85/zbO9UOGgl7/1294.ts
 
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/boing-logo-png.png" group-title="32- INFANTIL LATINO",Boing
 http://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8?GrupoTopIptv
@@ -3117,7 +3117,7 @@ http://ummodigital.com:2082/live/airborne1/airborne1/4672.rtmp
 http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/52.ts
 
 #EXTINF:-1 tvg-logo="https://sitejerk.com/images/boomerang-logo-png-15.png" group-title="32- INFANTIL LATINO",Boomerang (5)
-http://ummodigital.com:2082/live/Orlando1/Orlando1/4672.rtmp
+http://infinity.ddns.me:25461/live/cesar.vera85/zbO9UOGgl7/1295.ts
 
 #EXTINF:-1 tvg-logo="http://cachipum.tv/img/logo.png" group-title="32- INFANTIL LATINO",Cachipum
 http://edge1.cl.grupoz.cl/cachipuntv/live/chunklist_w2057048261.m3u8?xtreamiptv.m3u8?GrupoTopIptv
@@ -3138,7 +3138,7 @@ http://ummodigital.com:2082/live/airborne1/airborne1/4651.rtmp
 http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/50.ts
 
 #EXTINF:-1 tvg-logo="https://orig00.deviantart.net/1354/f/2016/129/2/d/untitled_drawing_by_jared33-da1wdty.png" group-title="32- INFANTIL LATINO",Cartoon Network (5)
-http://ummodigital.com:2082/live/Orlando1/Orlando1/4651.rtmp
+http://infinity.ddns.me:25461/live/cesar.vera85/zbO9UOGgl7/9144.ts
 
 #EXTINF:-1 tvg-logo="https://www.canalipe.tv/sites/default/files/web/programas/logoipeplay/logo_chicosipe.png" group-title="32- INFANTIL LATINO",Chicos Ipe
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8?GrupoTopIptv
@@ -3156,7 +3156,7 @@ http://ummodigital.com:2082/live/airborne1/airborne1/4897.rtmp
 http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/42.ts
 
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_kids-mediano.png" group-title="32- INFANTIL LATINO",Discovery Kids (5)
-http://ummodigital.com:2082/live/Orlando1/Orlando1/4897.rtmp
+http://infinity.ddns.me:25461/live/cesar.vera85/zbO9UOGgl7/1318.ts
 
 #EXTINF:-1 tvg-logo="http://logosvector.net/wp-content/uploads/2014/07/new-disney-channel-logo.png" group-title="32- INFANTIL LATINO",Disney Channel (1)
 http://nitro.ltd:25461/live/ms/ms/31638.rtmp
@@ -3171,7 +3171,7 @@ http://ummodigital.com:2082/live/airborne1/airborne1/5891.rtmp
 http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/46.ts
 
 #EXTINF:-1 tvg-logo="http://logosvector.net/wp-content/uploads/2014/07/new-disney-channel-logo.png" group-title="32- INFANTIL LATINO",Disney Channel (5)
-http://ummodigital.com:2082/live/Orlando1/Orlando1/5891.rtmp
+http://infinity.ddns.me:25461/live/cesar.vera85/zbO9UOGgl7/1316.ts
 
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/disney-junior-logo-01.png" group-title="32- INFANTIL LATINO",Disney Junior (1)
 http://nitro.ltd:25461/live/ms/ms/31637.rtmp
@@ -3186,7 +3186,10 @@ http://ummodigital.com:2082/live/airborne1/airborne1/345.rtmp
 http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/44.ts
 
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/disney-junior-logo-01.png" group-title="32- INFANTIL LATINO",Disney Junior (5)
-http://ummodigital.com:2082/live/Orlando1/Orlando1/345.rtmp
+http://infinity.ddns.me:25461/live/cesar.vera85/zbO9UOGgl7/1307.ts
+
+#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/disney-junior-logo-01.png" group-title="32- INFANTIL LATINO",Disney Junior (5) FHD
+http://infinity.ddns.me:25461/live/cesar.vera85/zbO9UOGgl7/21119.ts
 
 #EXTINF:-1 tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2015/10/Disney_XD_-_2015.svg_.png" group-title="32- INFANTIL LATINO",Disney XD (1)
 http://nitro.ltd:25461/live/ms/ms/31636.rtmp
@@ -3201,13 +3204,13 @@ http://ummodigital.com:2082/live/airborne1/airborne1/346.rtmp
 http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/51.ts
 
 #EXTINF:-1 tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2015/10/Disney_XD_-_2015.svg_.png" group-title="32- INFANTIL LATINO",Disney XD (5)
-http://ummodigital.com:2082/live/Orlando1/Orlando1/346.rtmp
+http://infinity.ddns.me:25461/live/cesar.vera85/zbO9UOGgl7/12518.ts
 
 #EXTINF:-1 tvg-logo="http://funboxchannel.com/wp-content/uploads/2018/12/funbox-2.png" group-title="32- INFANTIL LATINO",Fun Box
 
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-FLvPUqc-seM/W15n9C2cisI/AAAAAAAAkqM/H3PFkx-peyQiIFQnPPHDlOxc80H5fHDgwCK8BGAs/s250/2018-07-29.png" group-title="32- INFANTIL LATINO",Locomotion
-
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-FLvPUqc-seM/W15n9C2cisI/AAAAAAAAkqM/H3PFkx-peyQiIFQnPPHDlOxc80H5fHDgwCK8BGAs/s250/2018-07-29.png" group-title="32- INFANTIL LATINO",Locomotion (5)
+http://infinity.ddns.me:25461/live/cesar.vera85/zbO9UOGgl7/12492.ts
 
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/natgeo-kids-logo-01.png" group-title="32- INFANTIL LATINO",Nat Geo Kids (1)
 http://nitro.ltd:25461/live/ms/ms/31582.rtmp
@@ -3219,7 +3222,7 @@ http://nitro.ltd:25461/live/troy/troy/31582.rtmp
 http://ummodigital.com:2082/live/airborne1/airborne1/3799.rtmp
 
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/natgeo-kids-logo-01.png" group-title="32- INFANTIL LATINO",Nat Geo Kids (5)
-http://ummodigital.com:2082/live/Orlando1/Orlando1/3799.rtmp
+http://infinity.ddns.me:25461/live/cesar.vera85/zbO9UOGgl7/21118.ts
 
 #EXTINF:-1 tvg-logo="https://www.e-channel.ec/blog/wp-content/uploads/2015/09/NICK.png" group-title="32- INFANTIL LATINO",Nickelodeon (1)
 http://nitro.ltd:25461/live/ms/ms/31581.rtmp
@@ -3234,7 +3237,7 @@ http://ummodigital.com:2082/live/airborne1/airborne1/1401.rtmp
 http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/49.ts
 
 #EXTINF:-1 tvg-logo="https://www.e-channel.ec/blog/wp-content/uploads/2015/09/NICK.png" group-title="32- INFANTIL LATINO",Nickelodeon (5)
-http://ummodigital.com:2082/live/Orlando1/Orlando1/1401.rtmp
+http://infinity.ddns.me:25461/live/cesar.vera85/zbO9UOGgl7/12685.ts
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_nickelodeon-hd_m.png" group-title="32- INFANTIL LATINO",Nick 2 (1)
 
@@ -3249,7 +3252,7 @@ http://ummodigital.com:2082/live/airborne1/airborne1/5078.rtmp
 http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/48.ts
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_nickelodeon-hd_m.png" group-title="32- INFANTIL LATINO",Nick 2 (5)
-http://ummodigital.com:2082/live/Orlando1/Orlando1/5078.rtmp
+http://infinity.ddns.me:25461/live/cesar.vera85/zbO9UOGgl7/1299.ts
 
 #EXTINF:-1 tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/NICK%20JR.png" group-title="32- INFANTIL LATINO",Nick Junior (1)
 
@@ -3264,7 +3267,7 @@ http://ummodigital.com:2082/live/airborne1/airborne1/4650.rtmp
 http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/45.ts
 
 #EXTINF:-1 tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/NICK%20JR.png" group-title="32- INFANTIL LATINO",Nick Junior (5)
-http://ummodigital.com:2082/live/Orlando1/Orlando1/4650.rtmp
+
 
 #EXTINF:-1 tvg-logo="http://logo-load.com/uploads/posts/2016-03/1459331737_nicktoons-logo.png" group-title="32- INFANTIL LATINO",Nick Toons (1)
 
@@ -3279,7 +3282,7 @@ http://ummodigital.com:2082/live/airborne1/airborne1/392.rtmp
 http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/47.ts
 
 #EXTINF:-1 tvg-logo="http://logo-load.com/uploads/posts/2016-03/1459331737_nicktoons-logo.png" group-title="32- INFANTIL LATINO",Nick Toons (5)
-http://ummodigital.com:2082/live/Orlando1/Orlando1/392.rtmp
+
 
 #EXTINF:-1 tvg-logo="http://startvmexico.com/wp-content/uploads/2018/10/tiin.png" group-title="32- INFANTIL LATINO",Tiin
 
@@ -3297,7 +3300,7 @@ http://ummodigital.com:2082/live/airborne1/airborne1/412.rtmp
 http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/54.ts
 
 #EXTINF:-1 tvg-logo="https://t3.kn3.net/taringa/A/7/E/6/A/C/RevolucionCN/83A.png" group-title="32- INFANTIL LATINO",Tooncast (5)
-http://ummodigital.com:2082/live/Orlando1/Orlando1/412.rtmp
+http://infinity.ddns.me:25461/live/cesar.vera85/zbO9UOGgl7/1292.ts
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/EBEhFwUXoAMSYue.png" group-title="32- INFANTIL LATINO",Vme Kids
 
