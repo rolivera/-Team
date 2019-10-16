@@ -1326,14 +1326,23 @@ http://stmv2.srvstm.com:1935/tvjsid/tvjsid/playlist.m3u8?GrupoTopIptv
 http://ic7.101.ru:8000/a8
 #######################################
 
+#EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/020/original/pic_a_e.png?1522180692" group-title="26- PREMIUM USA",A&E (Plex)
+http://plexonline.club:25461/live/APOYAESTALISTA/IPTVACTIVADOR/388.ts
+
 #EXTINF:-1 tvg-logo="http://www.horrorchannel.co.uk/grfx/stuff/horror-channel-logo.png" group-title="26- PREMIUM USA",American Horror
 http://170.178.189.66:1935/live/Stream1/.m3u8?GrupoTopIptv
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/AnimalPlanet.uk.png" group-title="26- PREMIUM USA",Animal Planet
 
 
+#EXTINF:-1 tvg-logo="http://www.provocare.com.au/wp-content/uploads/2018/06/cnn-logo-original-hd-png-transparent.png"  group-title="26- PREMIUM USA",CNN (Plex)
+http://plexonline.club:25461/live/APOYAESTALISTA/IPTVACTIVADOR/162.ts
+
 #EXTINF:-1 tvg-logo="https://www.bellmedia.ca/wp-content/uploads/2014/02/tv1_e-490x490.png"  group-title="26- PREMIUM USA",E!
 http://210.210.155.35/uq2663/h/h10/01.m3u8?GrupoTopIptv
+
+ #EXTINF:-1 tvg-logo="https://www.bellmedia.ca/wp-content/uploads/2014/02/tv1_e-490x490.png"  group-title="26- PREMIUM USA",E! (Plex)
+http://plexonline.club:25461/live/APOYAESTALISTA/IPTVACTIVADOR/386.ts
 
 #EXTINF:-1 tvg-logo="https://www.telecablecr.com/wp-content/uploads/2018/11/LOGO-FOXPREMIUM_CINEMA.png"  group-title="26- PREMIUM USA",Fox Cinema
 http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8?GrupoTopIptv
@@ -1347,17 +1356,29 @@ http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?GrupoTopIptv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/COQM8bM.png"  group-title="26- PREMIUM USA",Kool
 http://173.199.158.79:1935/roku/myStream/playlist.m3u8?GrupoTopIptv
 
+#EXTINF:-1 tvg-logo="https://diylogodesigns.com/wp-content/uploads/2017/07/national-geographic-logo-vector-768x768.png"  group-title="26- PREMIUM USA",Nat Geo (Plex)
+http://plexonline.club:25461/live/APOYAESTALISTA/IPTVACTIVADOR/384.ts
+
+#EXTINF:-1 tvg-logo="http://www.lettreaudiovisuel.com/wp-content/uploads/2014/12/Nat-Geo-Wild.png"  group-title="26- PREMIUM USA",Nat Geo Wild (Plex)
+http://plexonline.club:25461/live/APOYAESTALISTA/IPTVACTIVADOR/385.ts
+
 #EXTINF:-1 tvg-logo="http://www.notclosed.com/assets/images/wemake/large/work_planetgreen_b.gif"  group-title="26- PREMIUM USA",Planet Green
 
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkyNews.uk.png"  group-title="26- PREMIUM USA",Sky News
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8?GrupoTopIptv
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AwNQHqC.png"  group-title="26- PREMIUM USA",The Country Network
+#EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/011/original/pic_tbs.png?1522176341" group-title="26- PREMIUM USA",Tbs (Plex)
+http://plexonline.club:25461/live/APOYAESTALISTA/IPTVACTIVADOR/389.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AwNQHqC.png" group-title="26- PREMIUM USA",The Country Network
 https://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8?GrupoTopIptv
 
-#EXTINF:-1 tvg-logo="http://www.tctkids.tv/images/TCTKids/TCTKidslogo.png"  group-title="26- PREMIUM USA",TCT Kids
+#EXTINF:-1 tvg-logo="http://www.tctkids.tv/images/TCTKids/TCTKidslogo.png" group-title="26- PREMIUM USA",TCT Kids
 http://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/FamilyHLS/FamilyHLS_Live_1200.m3u8?GrupoTopIptv
+
+#EXTINF:-1 tvg-logo="http://mareatvcable.com/wp-content/uploads/2017/12/44-tntlogo.png" group-title="26- PREMIUM USA",Tnt (Plex)
+http://plexonline.club:25461/live/APOYAESTALISTA/IPTVACTIVADOR/387.ts
 
 ######################################################################################################################################
 ####################################### PREMIUM ESPAÑA
@@ -1621,8 +1642,8 @@ http://infinity.ddns.me:25461/live/cesar.vera85/zbO9UOGgl7/9142.ts
 #EXTINF:-1 tvg-logo="http://comcab.mx/images/canales/comcab-cinecanal.png" group-title="28- PREMIUM LATINO",Cinecanal (Plex)
 http://plexonline.club:25461/live/APOYAESTALISTA/IPTVACTIVADOR/266.ts
 
-#EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/12/52a34-cl.png" group-title="28- PREMIUM LATINO",Cine Latino (1)
-
+#EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/12/52a34-cl.png" group-title="28- PREMIUM LATINO",Cine Latino (Plex)
+http://plexonline.club:25461/live/APOYAESTALISTA/IPTVACTIVADOR/365.ts
 
 #EXTINF:-1 tvg-logo="http://www.cinemadinamita.com/img/logos/Inicio.png" group-title="28- PREMIUM LATINO",Cine Dinamita ( )
 
