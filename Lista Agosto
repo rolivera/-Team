@@ -1106,6 +1106,44 @@ http://edge.wms28.lorini.net/tvo/tvo/playlist.m3u8?GrupoTopIptv
 
 #######################################################################################################################################################################################
 #######################################
+#EXTINF:-1 tvg-logo="https://wallpaperaccess.com/full/620765.jpg" group-title="22- CANALES OLYMPUSAT",22- CANALES OLYMPUSAT
+http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8
+#######################################
+#######################################################################################################################################################################################
+#######################################################################################################################################################################################
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraTainmentLogoBlack.png" group-title="22- CANALES OLYMPUSAT",Ultratainment (Plex)
+http://plexonline.club:25461/live/APOYAESTALISTA/IPTVACTIVADOR/405.ts
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraMacho_NLogo.png" group-title="22- CANALES OLYMPUSAT",Ultramacho (Plex)
+http://plexonline.club:25461/live/APOYAESTALISTA/IPTVACTIVADOR/401.ts
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraFilm_NLogo.png" group-title="22- CANALES OLYMPUSAT",Ultrafilm (Plex)
+http://plexonline.club:25461/live/APOYAESTALISTA/IPTVACTIVADOR/400.ts
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraFamiliaLogoBlack.png" group-title="22- CANALES OLYMPUSAT",Ultrafamilia (Plex)
+http://plexonline.club:25461/live/APOYAESTALISTA/IPTVACTIVADOR/402.ts
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraDocu_NLogo.png" group-title="22- CANALES OLYMPUSAT",Ultradocu (Plex)
+http://plexonline.club:25461/live/APOYAESTALISTA/IPTVACTIVADOR/403.ts
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/ultraBanda_NLogo.png" group-title="22- CANALES OLYMPUSAT",Ultrabanda (Plex)
+http://plexonline.club:25461/live/APOYAESTALISTA/IPTVACTIVADOR/404.ts
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/720645998398320640/EYG6r0Tj_400x400.jpg" group-title="22- CANALES OLYMPUSAT",Ultramex (Plex)
+http://plexonline.club:25461/live/APOYAESTALISTA/IPTVACTIVADOR/398.ts
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraLunaLogoBlack.png" group-title="22- CANALES OLYMPUSAT",Ultraluna (Plex)
+http://plexonline.club:25461/live/APOYAESTALISTA/IPTVACTIVADOR/396.ts
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraFiesta_NLogoWhite.png" group-title="22- CANALES OLYMPUSAT",Ultrafiesta (Plex)
+http://plexonline.club:25461/live/APOYAESTALISTA/IPTVACTIVADOR/399.ts
+
+#EXTINF:-1 tvg-logo="https://mark.trademarkia.com/logo-images/olympusat/ultra-cine-85364974.jpg" group-title="22- CANALES OLYMPUSAT",Ultracine (Plex)
+http://plexonline.club:25461/live/APOYAESTALISTA/IPTVACTIVADOR/397.ts
+
+#######################################################################################################################################################################################
+#######################################
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-BiKzoOVk5dA/WDMunV-BsZI/AAAAAAAAAT0/Qp6U1i5soHAv_l0z-QEBo8LNbxiM-pVNQCLcB/s1600/CINE%2B%252841%2529.png" group-title="22- CINE LATINO",22- CINE LATINO
 http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8
 #######################################
@@ -1124,11 +1162,8 @@ http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/9412.ts
 #EXTINF:-1 tvg-logo="https://okdiario.com/img/2018/04/28/distrito-655x368.jpg" group-title="22- CINE LATINO",Distrito TV
 https://cdn01.yowi.tv/KQRSDA7GDB/live-1000.m3u8?GrupoTopIptv
 
-#EXTINF:-1 tvg-logo="https://mark.trademarkia.com/logo-images/olympusat/ultra-cine-85364974.jpg" group-title="22- CINE LATINO",Ultra Cine (3)
-http://ummodigital.com:2082/live/jay12/jay12/6485.rtmp
-
-#EXTINF:-1 tvg-logo="https://mark.trademarkia.com/logo-images/olympusat/ultra-cine-85364974.jpg" group-title="22- CINE LATINO",Ultra Cine (4)
-http://ummodigital.com:2082/live/Gustavo2019/gustavo2019/6485.rtmp
+#EXTINF:-1 tvg-logo="http://www.pelis24.to/wp-content/uploads/2017/11/PELIS24-1-300x3001.png" group-title="22- CINE LATINO",Pelis 24 (Plex)
+http://plexonline.club:25461/live/APOYAESTALISTA/IPTVACTIVADOR/349.ts
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/wow-tv.png" group-title="22- CINE LATINO",Wow!
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8?GrupoTopIptv
