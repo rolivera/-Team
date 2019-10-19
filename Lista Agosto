@@ -28,13 +28,7 @@ http://www.coninfo.net:1935/tvcinco/live1/chunklist_w1546509083.m3u8?GrupoTopIpt
 
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/America-TV.png" group-title="03- ARGENTINA",America (2)
-http://ummodigital.com:2082/live/Donald1/Donald1/3569.rtmp
 
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/America-TV.png" group-title="03- ARGENTINA",America (3)
-http://ummodigital.com:2082/live/jay12/jay12/3569.rtmp
-
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/America-TV.png" group-title="03- ARGENTINA",America (4)
-http://ummodigital.com:2082/live/Orlando1/Orlando1/3569.rtmp
 
 #EXTINF:-1 tvg-logo="https://img3.androidappsapk.co/300/7/0/6/net.coninfo.admin.trecemaxtelevisin.png" group-title="03- ARGENTINA",13 Max
 http://coninfo.net:1935/13maxhd/live_720p/chunklist.m3u8?GrupoTopIptv
@@ -49,7 +43,7 @@ http://coninfo.net:1935/13maxhd/live_720p/chunklist.m3u8?GrupoTopIptv
 http://190.52.32.13:1935/canal4/smil:manifest.smil/playlist.m3u8?GrupoTopIptv
 
 #EXTINF:-1 tvg-logo="http://www.canal4sanjuan.com.ar/movil/reproductor/canal4sanjuan.jpg" group-title="03- ARGENTINA",Canal 4 San Juan
-http://streamyes.alsolnet.com:1935/canal4sanjuan/live/chunklist.m3u8?GrupoTopIptv
+
 
 #EXTINF:-1 tvg-logo="http://partidodelatierra.org/wp-content/uploads/2016/10/9comodoro.jpg" group-title="03- ARGENTINA",Canal 9 Comodoro Rivadavia
 http://live.canalnueve.tv/canal.m3u8?GrupoTopIptv
@@ -102,13 +96,7 @@ http://186.0.233.76:1935/Garage/garage.smil/playlist.m3u8?GrupoTopIptv
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/canal-9-m.jpg" group-title="03- ARGENTINA",El Nueve (4)
 
 #EXTINF:-1 tvg-logo="http://ipuntotv.com/IMAGES/ElTreceHD2012.jpg" group-title="03- ARGENTINA",El Trece (2)
-http://ummodigital.com:2082/live/Donald1/Donald1/3555.rtmp
 
-#EXTINF:-1 tvg-logo="http://ipuntotv.com/IMAGES/ElTreceHD2012.jpg" group-title="03- ARGENTINA",El Trece (3)
-http://ummodigital.com:2082/live/jay12/jay12/3555.rtmp
-
-#EXTINF:-1 tvg-logo="http://ipuntotv.com/IMAGES/ElTreceHD2012.jpg" group-title="03- ARGENTINA",El Trece (4)
-http://ummodigital.com:2082/live/Orlando1/Orlando1/3555.rtmp
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1171440347508920320/7pwThQbq_400x400.jpg" group-title="03- ARGENTINA",KZO (4)
 
@@ -131,15 +119,6 @@ http://unlimited2-us.dps.live/nettv/nettv.smil/playlist.m3u8?GrupoTopIptv
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="03- ARGENTINA",Telefe (1)
 
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="03- ARGENTINA",Telefe (2)
-http://ummodigital.com:2082/live/Donald1/Donald1/4444.rtmp
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="03- ARGENTINA",Telefe (3)
-http://ummodigital.com:2082/live/jay12/jay12/4444.rtmp
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="03- ARGENTINA",Telefe (4)
-http://ummodigital.com:2082/live/Orlando1/Orlando1/4444.rtmp
-
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/506483696065449984/BATn-jAe.png" group-title="03- ARGENTINA",Telpin
 
 
@@ -159,14 +138,8 @@ https://stream.vagalume.fm/hls/14658544132100453351/aac.m3u8
 #######################################
 ######################################################################################################################################
 
-#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BOWJjYzI2NGYtMGFlYi00NWNiLWJhOTMtYzZlNWI1ZDQ4NzM5XkEyXkFqcGdeQXVyNjQ0OTk1ODg@._V1_.jpg" group-title="04- BRASIL",A Fazenda (1)
-
-
-#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BOWJjYzI2NGYtMGFlYi00NWNiLWJhOTMtYzZlNWI1ZDQ4NzM5XkEyXkFqcGdeQXVyNjQ0OTk1ODg@._V1_.jpg" group-title="04- BRASIL",A Fazenda (2)
-http://lista.digitalgroup.me/1007/123456/50843
-
 #EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BOWJjYzI2NGYtMGFlYi00NWNiLWJhOTMtYzZlNWI1ZDQ4NzM5XkEyXkFqcGdeQXVyNjQ0OTk1ODg@._V1_.jpg" group-title="04- BRASIL",A Fazenda (3)
-http://lista.digitalgroup.me/Elisir/123456/50843
+http://lista.digitalgroup.me:80/3323/123/50846
 
 #EXTINF:0 tvg-logo="http://i.imgur.com/xGYSOgE.png" group-title="04- BRASIL",Agro Brasil
 http://177.54.152.243:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8?GrupoTopIptv
@@ -175,10 +148,10 @@ http://177.54.152.243:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8?GrupoTopIptv
 http://tv.minhalista.me:80/live/Rodrigo0099/Rodrigo0099/41530.ts
 
 #EXTINF:0 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/band-logo-png-6.png" group-title="04- BRASIL",Band (2)
-http://lista.digitalgroup.me/1007/123456/1108
+
 
 #EXTINF:0 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/band-logo-png-6.png" group-title="04- BRASIL",Band (3)
-http://lista.digitalgroup.me/Elisir/123456/1108
+http://lista.digitalgroup.me:80/3323/123/1108
 
 #EXTINF:0 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/band-logo-png-6.png" group-title="04- BRASIL",Band (4)
 http://tv.minhalista.me:80/live/SrNTatr9C/phantomiptv/41530.ts
@@ -199,13 +172,13 @@ https://5c49cd60dfe56.streamlock.net:6443/cinemais/live/chunklist_w749538962.m3u
 http://tv.minhalista.me:80/live/Rodrigo0099/Rodrigo0099/37090.ts
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="04- BRASIL",Globo SP (2)
-http://lista.digitalgroup.me/1007/123456/38657
+
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="04- BRASIL",Globo SP (3) HD
 http://lista.digitalgroup.me/3323/123/17122
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="04- BRASIL",Globo SP (3) SD
-http://lista.digitalgroup.me/Elisir/123456/38657
+http://lista.digitalgroup.me:80/3323/123/38657
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="04- BRASIL",Globo SP (4) HD
 http://tv.minhalista.me:80/live/SrNTatr9C/phantomiptv/37361.ts
@@ -216,20 +189,17 @@ http://tv.minhalista.me:80/live/SrNTatr9C/phantomiptv/37090.ts
 #EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="04- BRASIL",Globo SP (5)
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="04- BRASIL",Globo RJ (1) HD
-http://list.deeplist.nl:80/live/0002/1234/1207.rtmp
-
 #EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="04- BRASIL",Globo RJ (1)
 http://tv.minhalista.me:80/live/Rodrigo0099/Rodrigo0099/51149.ts
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="04- BRASIL",Globo RJ (2)
-http://lista.digitalgroup.me/1007/123456/38661
+
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="04- BRASIL",Globo RJ (3) HD
 http://lista.digitalgroup.me/3323/123/1207
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="04- BRASIL",Globo RJ (3) SD
-http://lista.digitalgroup.me/Elisir/123456/38661
+http://lista.digitalgroup.me/3323/123/38661
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="04- BRASIL",Globo RJ (4) HD
 http://tv.minhalista.me:80/live/SrNTatr9C/phantomiptv/51149.ts
@@ -241,13 +211,13 @@ http://tv.minhalista.me:80/live/SrNTatr9C/phantomiptv/51149.ts
 http://tv.minhalista.me:80/live/Rodrigo0099/Rodrigo0099/42959.ts
 
 #EXTINF:-1 tvg-logo="http://evertonlopes.com.br/wp-content/uploads/2017/04/RBS_TV2.png" group-title="04- BRASIL",Globo RBS (2)
-http://lista.digitalgroup.me/1007/123456/968
+
 
 #EXTINF:-1 tvg-logo="http://evertonlopes.com.br/wp-content/uploads/2017/04/RBS_TV2.png" group-title="04- BRASIL",Globo RBS (3) HD
-http://lista.digitalgroup.me/Elisir/123456/46914
+http://lista.digitalgroup.me/3323/123/46914
 
 #EXTINF:-1 tvg-logo="http://evertonlopes.com.br/wp-content/uploads/2017/04/RBS_TV2.png" group-title="04- BRASIL",Globo RBS (3) SD
-http://lista.digitalgroup.me/Elisir/123456/968
+http://lista.digitalgroup.me/3323/123/968
 
 #EXTINF:-1 tvg-logo="http://evertonlopes.com.br/wp-content/uploads/2017/04/RBS_TV2.png" group-title="04- BRASIL",Globo RBS (4) HD
 http://tv.minhalista.me:80/live/SrNTatr9C/phantomiptv/40252.ts
@@ -277,10 +247,10 @@ https://v8.ciclano.io:1443/rafael926/_definst_/rafael926/playlist.m3u8?GrupoTopI
 http://tv.minhalista.me:80/live/Rodrigo0099/Rodrigo0099/51014.ts
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/k4haEx6.png" group-title="04- BRASIL",Rede TV (2)
-http://lista.digitalgroup.me/1007/123456/963
+
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/k4haEx6.png" group-title="04- BRASIL",Rede TV (3)
-http://lista.digitalgroup.me/Elisir/123456/963
+http://lista.digitalgroup.me/3323/123/963
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/k4haEx6.png" group-title="04- BRASIL",Rede TV (4)
 http://tv.minhalista.me:80/live/SrNTatr9C/phantomiptv/51014.ts
@@ -292,13 +262,13 @@ http://tv.minhalista.me:80/live/SrNTatr9C/phantomiptv/51014.ts
 http://tv.minhalista.me:80/live/Rodrigo0099/Rodrigo0099/42627.ts
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="04- BRASIL",Record (2)
-http://lista.digitalgroup.me/1007/123456/38765
+
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="04- BRASIL",Record (3) HD
-http://lista.digitalgroup.me/Elisir/123456/1210
+http://lista.digitalgroup.me/3323/123/1210
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="04- BRASIL",Record (3) SD
-http://lista.digitalgroup.me/Elisir/123456/38765
+http://lista.digitalgroup.me/3323/123/38765
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="04- BRASIL",Record (4) HD
 http://tv.minhalista.me:80/live/SrNTatr9C/phantomiptv/42626.ts
@@ -310,22 +280,22 @@ http://tv.minhalista.me:80/live/SrNTatr9C/phantomiptv/42627.ts
 
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" group-title="04- BRASIL",SBT Interior
-https://5a1c76baf08c0.streamlock.net/z343-live/stream/playlist.m3u8?GrupoTopIptv
+
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" group-title="04- BRASIL",SBT Pioneira
 http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8?GrupoTopIptv
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" group-title="04- BRASIL",SBT Difusora
-http://difusorama.zoeweb.tv:1935/z437-live/stream/playlist.m3u8?GrupoTopIptv
+
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="04- BRASIL",SBT (1)
 http://tv.minhalista.me:80/live/Rodrigo0099/Rodrigo0099/51039.ts
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="04- BRASIL",SBT (2)
-http://lista.digitalgroup.me/1007/123456/50196
+
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="04- BRASIL",SBT (3)
-http://lista.digitalgroup.me/Elisir/123456/50196
+http://lista.digitalgroup.me/3323/123/50196
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="04- BRASIL",SBT (4)
 http://tv.minhalista.me:80/live/SrNTatr9C/phantomiptv/51039.ts
@@ -436,10 +406,7 @@ http://unlimited5-cl.dps.live/holvoettv/holvoettv.smil/playlist.m3u8?GrupoTopIpt
 http://unlimited1-us.dps.live/itv/itv.smil/itv/livestream1/chunks.m3u8?GrupoTopIptv
 
 #EXTINF:-1 tvg-logo="https://blogvecindad.com/wp-content/uploads/2015/11/Mega_Chile_Alternate_Logo.png" group-title="06- CHILE",Mega (2)
-http://ummodigital.com:2082/live/Donald1/Donald1/3095.rtmp
 
-#EXTINF:-1 tvg-logo="https://blogvecindad.com/wp-content/uploads/2015/11/Mega_Chile_Alternate_Logo.png" group-title="06- CHILE",Mega (3)
-http://ummodigital.com:2082/live/jay12/jay12/3095.rtmp
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/umdJ2mP.jpg" group-title="06- CHILE",Portalfoxmix
 http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8?GrupoTopIptv
@@ -568,10 +535,10 @@ http://37.187.7.106/hechostv/live.m3u8?GrupoTopIptv
 http://videos.oromartv.com:8082/hls/oromartv_hi/index.m3u8?GrupoTopIptv
 
 #EXTINF:-1 tvg-logo="https://historiadelatvecuatoriana.files.wordpress.com/2015/07/tc.jpg" group-title="10- ECUADOR",TC Ecuador (5)
-http://ummodigital.com:2082/live/Orlando1/Orlando1/6994.rtmp
+
 
 #EXTINF:-1 tvg-logo="http://televisionecuatoriana.tv/wp-content/uploads/2018/11/cropped-LOGO-NORMAL-ESPANO-tegido-colores-solidosL-01-1-e1542291082262.png" group-title="10- ECUADOR",Television Ecuatoriana (5)
-http://ummodigital.com:2082/live/Orlando1/Orlando1/6673.rtmp
+
 
 #EXTINF:-1 tvg-logo="https://www15.ucsg.edu.ec/biblioteca/buscadorOPAC/images/LOGO.png" group-title="10- ECUADOR",UCSG
 http://ecuastream.net:1935/UCSGHQ/UCSGHQ/playlist.m3u8?GrupoTopIptv
@@ -643,28 +610,13 @@ https://stream.vagalume.fm/hls/147015499779090/aac.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_az-mundo-hd_m.png" group-title="13- MEXICO",Az Mundo (2)
-http://ummodigital.com:2082/live/Donald1/Donald1/4808.rtmp
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_az-mundo-hd_m.png" group-title="13- MEXICO",Az Mundo (3)
-http://ummodigital.com:2082/live/jay12/jay12/4808.rtmp
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_az-mundo-hd_m.png" group-title="13- MEXICO",Az Mundo (4)
-http://ummodigital.com:2082/live/Orlando1/Orlando1/4808.rtmp
 
 #EXTINF:-1 tvg-logo="https://www.nssoaxaca.com/wp-content/uploads/2018/01/Azteca.jpg" group-title="13- MEXICO",Azteca 1 MX
 
 
 #EXTINF:-1 tvg-logo="https://roku-zapopan8.webnode.mx/_files/200000035-3711338065/mx_azteca-7_m.png" group-title="13- MEXICO",Azteca 7 (1)
 
-
-#EXTINF:-1 tvg-logo="https://roku-zapopan8.webnode.mx/_files/200000035-3711338065/mx_azteca-7_m.png" group-title="13- MEXICO",Azteca 7 (2)
-http://ummodigital.com:2082/live/Donald1/Donald1/1359.rtmp
-
-#EXTINF:-1 tvg-logo="https://roku-zapopan8.webnode.mx/_files/200000035-3711338065/mx_azteca-7_m.png" group-title="13- MEXICO",Azteca 7 (3)
-http://ummodigital.com:2082/live/jay12/jay12/1359.rtmp
-
-#EXTINF:-1 tvg-logo="https://roku-zapopan8.webnode.mx/_files/200000035-3711338065/mx_azteca-7_m.png" group-title="13- MEXICO",Azteca 7 (4)
-http://ummodigital.com:2082/live/Orlando1/Orlando1/1359.rtmp
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/C80W69PVwAAy6mF.jpg:large" group-title="13- MEXICO",Azteca + 
 
@@ -674,15 +626,6 @@ http://ummodigital.com:2082/live/Orlando1/Orlando1/1359.rtmp
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Aqk-8qwAEas/hqdefault.jpg" group-title="13- MEXICO",Canal 5 (1)
 
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Aqk-8qwAEas/hqdefault.jpg" group-title="13- MEXICO",Canal 5 (2)
-http://ummodigital.com:2082/live/Donald1/Donald1/1366.rtmp
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Aqk-8qwAEas/hqdefault.jpg" group-title="13- MEXICO",Canal 5 (3)
-http://ummodigital.com:2082/live/jay12/jay12/1366.rtmp
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Aqk-8qwAEas/hqdefault.jpg" group-title="13- MEXICO",Canal 5 (4)
-http://ummodigital.com:2082/live/Orlando1/Orlando1/3569.rtmp
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_canal-de-las-estrellas_m.png" group-title="13- MEXICO",Canal de las Estrellas (1)
 
@@ -698,15 +641,6 @@ http://wowza.zuperdns.net:1935/zuperhosting.live.grupob.canal20zacatecas/smil:li
 
 #EXTINF:-1 tvg-logo="https://tvnotiblog.com/wp-content/uploads/2013/11/logo-canal-once-1024x791.png" group-title="13- MEXICO",Canal Once
 
-
-#EXTINF:-1 tvg-logo="https://tvnotiblog.com/wp-content/uploads/2013/11/logo-canal-once-1024x791.png" group-title="13- MEXICO",Canal Once (2)
-http://ummodigital.com:2082/live/Donald1/Donald1/393.rtmp
-
-#EXTINF:-1 tvg-logo="https://tvnotiblog.com/wp-content/uploads/2013/11/logo-canal-once-1024x791.png" group-title="13- MEXICO",Canal Once (3)
-http://ummodigital.com:2082/live/jay12/jay12/393.rtmp
-
-#EXTINF:-1 tvg-logo="https://tvnotiblog.com/wp-content/uploads/2013/11/logo-canal-once-1024x791.png" group-title="13- MEXICO",Canal Once (4)
-http://ummodigital.com:2082/live/Orlando1/Orlando1/393.rtmp
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/Capital21.png" group-title="13- MEXICO",Capital 21
 http://23.227.189.81/ciudadtv/abr_ciudadtv/playlist.m3u8?GrupoTopIptv
@@ -733,13 +667,7 @@ http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u?GrupoTopIptv
 
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_tlnovelas_m.png" group-title="13- MEXICO",Tlnovelas (2)
-http://ummodigital.com:2082/live/Donald1/Donald1/4668.rtmp
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_tlnovelas_m.png" group-title="13- MEXICO",Tlnovelas (3)
-http://ummodigital.com:2082/live/jay12/jay12/4668.rtmp
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_tlnovelas_m.png" group-title="13- MEXICO",Tlnovelas (4)
-http://ummodigital.com:2082/live/Orlando1/Orlando1/4668.rtmp
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_tvc_m.png" group-title="13- MEXICO",Tvc (1)
 
@@ -796,13 +724,7 @@ https://stream.vagalume.fm/hls/1507663468882713/aac.m3u8
 #######################################
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_america-television_m.png" group-title="17- PERU",America tv (2)
-http://ummodigital.com:2082/live/Donald1/Donald1/5459.rtmp
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_america-television_m.png" group-title="17- PERU",America tv (3)
-http://ummodigital.com:2082/live/jay12/jay12/5459.rtmp
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_america-television_m.png" group-title="17- PERU",America tv (4)
-http://ummodigital.com:2082/live/Orlando1/Orlando1/5459.rtmp
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_america-television_m.png" group-title="17- PERU",America tv SD
 http://ecdn-mediastream.cdn.mdstrm.com/live-stream-secure/5c51e67df4d3c6698b02bbee/publish/media_2500.m3u8?GrupoTopIptv
@@ -843,18 +765,6 @@ http://d2fxrfbiedz1tm.cloudfront.net/livepaxtv/smil:PC.smil/playlist.m3u8?GrupoT
 #EXTINF:-1 tvg-logo="http://www.canalsur.com/imagenes/logo_surperu.jpg" group-title="17- PERU",Sur Peru (2)
 
 
-#EXTINF:-1 tvg-logo="https://www.neourbe.pe/wp-content/uploads/2019/02/tv-noticias.png" group-title="17- PERU",TV Noticias 7.3 (2)
-http://ummodigital.com:2082/live/Donald1/Donald1/869.rtmp
-
-#EXTINF:-1 tvg-logo="https://www.neourbe.pe/wp-content/uploads/2019/02/tv-noticias.png" group-title="17- PERU",TV Noticias 7.3 (3)
-http://ummodigital.com:2082/live/jay12/jay12/869.rtmp
-
-#EXTINF:-1 tvg-logo="https://www.neourbe.pe/wp-content/uploads/2019/02/tv-noticias.png" group-title="17- PERU",TV Noticias 7.3 (4)
-http://ummodigital.com:2082/live/Orlando1/Orlando1/869.rtmp
-
-#EXTINF:-1 tvg-logo="https://www.neourbe.pe/wp-content/uploads/2019/02/tv-noticias.png" group-title="17- PERU",TV Noticias 7.3 (5)
-
-
 #EXTINF:-1 tvg-logo="https://www.neourbe.pe/wp-content/uploads/2019/02/tv-noticias.png" group-title="17- PERU",TV Noticias 7.3
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIPE0002&mode=12?GrupoTopIptv
 
@@ -865,16 +775,6 @@ http://cdnh15.iblups.com/hls/R9WtilpKKB.m3u8?GrupoTopIptv
 http://cdnh4.iblups.com/hls/irtp.m3u8?GrupoTopIptv
 
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-Mcc2xCpSKWQ/UF6PxaiQZYI/AAAAAAAACQU/BLm5ZUhxzfs/s1600/LOGOTVPERU.jpg" group-title="17- PERU",TV Perú (2)
-http://ummodigital.com:2082/live/Donald1/Donald1/867.rtmp
-
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-Mcc2xCpSKWQ/UF6PxaiQZYI/AAAAAAAACQU/BLm5ZUhxzfs/s1600/LOGOTVPERU.jpg" group-title="17- PERU",TV Perú (3)
-http://ummodigital.com:2082/live/jay12/jay12/867.rtmp
-
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-Mcc2xCpSKWQ/UF6PxaiQZYI/AAAAAAAACQU/BLm5ZUhxzfs/s1600/LOGOTVPERU.jpg" group-title="17- PERU",TV Perú (4)
-http://ummodigital.com:2082/live/Orlando1/Orlando1/867.rtmp
-
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-Mcc2xCpSKWQ/UF6PxaiQZYI/AAAAAAAACQU/BLm5ZUhxzfs/s1600/LOGOTVPERU.jpg" group-title="17- PERU",TV Perú (5)
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PjzOrx7.png" group-title="17- PERU",Vision Noticias
 http://v8.ciclano.io:1935/visionnoticias/_definst_/visionnoticias/playlist.m3u8?GrupoTopIptv
@@ -1017,17 +917,8 @@ http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/11191.ts
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/04/charrua-tv.png" group-title="20- URUGUAY",Charrua tv (4)
 http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/2968.ts
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1107997180311281665/c72fyy_F_400x400.png" group-title="20- URUGUAY",Montecarlo (2)
-http://ummodigital.com:2082/live/Donald1/Donald1/5144.rtmp
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1107997180311281665/c72fyy_F_400x400.png" group-title="20- URUGUAY",Montecarlo (3)
-http://ummodigital.com:2082/live/airborne1/airborne1/5144.rtmp
-
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1107997180311281665/c72fyy_F_400x400.png" group-title="20- URUGUAY",Montecarlo (4)
 http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/413.ts
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1107997180311281665/c72fyy_F_400x400.png" group-title="20- URUGUAY",Montecarlo (5)
-http://ummodigital.com:2082/live/Orlando1/Orlando1/5144.rtmp
 
 #EXTINF:-1 tvg-logo="http://www.canalm.tv/plantillas/temas/canalm/imagenes/canalm.png" group-title="20- URUGUAY",Montevideo Portal
 http://wowza.montevideo.com.uy:1936/live/_definst_/mvdstrem/chunklist.m3u8?GrupoTopIptv
@@ -1044,17 +935,8 @@ http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/9558.ts
 #EXTINF:-1 tvg-logo="http://www.tnu.com.uy/image/1024x1024.png" group-title="20- URUGUAY",TNU (4)
 
 
-#EXTINF:-1 tvg-logo="http://montevideo.gub.uy/sites/default/files/styles/galeriaslideshowcontenido/public/biblioteca/tvciudad.png?itok=GWUByEQp" group-title="20- URUGUAY",Tv Ciudad (2)
-http://ummodigital.com:2082/live/Donald1/Donald1/5850.rtmp
-
-#EXTINF:-1 tvg-logo="http://montevideo.gub.uy/sites/default/files/styles/galeriaslideshowcontenido/public/biblioteca/tvciudad.png?itok=GWUByEQp" group-title="20- URUGUAY",Tv Ciudad (3)
-http://ummodigital.com:2082/live/airborne1/airborne1/5850.rtmp
-
 #EXTINF:-1 tvg-logo="http://montevideo.gub.uy/sites/default/files/styles/galeriaslideshowcontenido/public/biblioteca/tvciudad.png?itok=GWUByEQp" group-title="20- URUGUAY",Tv Ciudad (4)
 http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/1601.ts
-
-#EXTINF:-1 tvg-logo="http://montevideo.gub.uy/sites/default/files/styles/galeriaslideshowcontenido/public/biblioteca/tvciudad.png?itok=GWUByEQp" group-title="20- URUGUAY",Tv Ciudad (5)
-http://ummodigital.com:2082/live/Orlando1/Orlando1/5850.rtmp
 
 #EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/imgs/7/2/3/7233eada0394020f9e0250a059896578_icon.png" group-title="20- URUGUAY",Vera + (4)
 http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/1600.ts
@@ -1100,258 +982,6 @@ http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/p
 #######################################################################################################################################################################################
 #######################################################################################################################################################################################
 
-#EXTINF:-1 tvg-logo="https://img.europapress.es/fotoweb/fotonoticia_20120809154004_640.jpg" group-title="22- CANALES 24 HORAS",Alf (Plex)
-http://plexonline.club:25461/live/APOYAESTALISTA/IPTVACTIVADOR/147.ts
-
-#EXTINF:-1 tvg-logo="https://img.europapress.es/fotoweb/fotonoticia_20120809154004_640.jpg" group-title="22- CANALES 24 HORAS",Alf (Plex2)
-http://plexonline.club:25461/live/APYAESTALISTABAJA/IPTVACTIVADORPLAYSTORE/147.ts
-
-#EXTINF:-1 tvg-logo="https://www.informador.mx/__export/1563123016414/sites/elinformador/img/2019/07/14/52013989_10161619221770077_5020730199663181824_n_crop1563122684282.png_1034156727.png" group-title="22- CANALES 24 HORAS",Bob Esponja (Plex)
-http://plexonline.club:25461/live/APOYAESTALISTA/IPTVACTIVADOR/146.ts
-
-#EXTINF:-1 tvg-logo="https://www.informador.mx/__export/1563123016414/sites/elinformador/img/2019/07/14/52013989_10161619221770077_5020730199663181824_n_crop1563122684282.png_1034156727.png" group-title="22- CANALES 24 HORAS",Bob Esponja (Plex2)
-http://plexonline.club:25461/live/APYAESTALISTABAJA/IPTVACTIVADORPLAYSTORE/146.ts
-
-#EXTINF:-1 tvg-logo="https://www.wethechic.com/wp-content/uploads/2018/12/Breaking-Bad-Logo-plain-artwork-india-White.jpg" group-title="22- CANALES 24 HORAS",Breaking Bad (Plex)
-http://plexonline.club:25461/live/APOYAESTALISTA/IPTVACTIVADOR/100.ts
-
-#EXTINF:-1 tvg-logo="https://www.wethechic.com/wp-content/uploads/2018/12/Breaking-Bad-Logo-plain-artwork-india-White.jpg" group-title="22- CANALES 24 HORAS",Breaking Bad (Plex2)
-http://plexonline.club:25461/live/APYAESTALISTABAJA/IPTVACTIVADORPLAYSTORE/100.ts
-
-#EXTINF:-1 tvg-logo="https://ugc.kn3.net/i/760x/http://farm4.staticflickr.com/3431/3216937006_b390304c75.jpg" group-title="22- CANALES 24 HORAS",Coraje El Perro Cobarde (Plex)
-http://plexonline.club:25461/live/APOYAESTALISTA/IPTVACTIVADOR/102.ts
-
-#EXTINF:-1 tvg-logo="https://ugc.kn3.net/i/760x/http://farm4.staticflickr.com/3431/3216937006_b390304c75.jpg" group-title="22- CANALES 24 HORAS",Coraje El Perro Cobarde (Plex2)
-http://plexonline.club:25461/live/APYAESTALISTABAJA/IPTVACTIVADORPLAYSTORE/102.ts
-
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51CU3IiuqgL._SX357_BO1,204,203,200_.jpg" group-title="22- CANALES 24 HORAS",Cuentos de los hermanos Grimm (Plex)
-http://plexonline.club:25461/live/APOYAESTALISTA/IPTVACTIVADOR/327.ts
-
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51CU3IiuqgL._SX357_BO1,204,203,200_.jpg" group-title="22- CANALES 24 HORAS",Cuentos de los hermanos Grimm (Plex2)
-http://plexonline.club:25461/live/APYAESTALISTABAJA/IPTVACTIVADORPLAYSTORE/327.ts
-
-#EXTINF:-1 tvg-logo="https://vistapointe.net/images/csi-miami-4.jpg" group-title="22- CANALES 24 HORAS",CSI Miami (Plex)
-http://plexonline.club:25461/live/APOYAESTALISTA/IPTVACTIVADOR/101.ts
-
-#EXTINF:-1 tvg-logo="https://vistapointe.net/images/csi-miami-4.jpg" group-title="22- CANALES 24 HORAS",CSI Miami (Plex2)
-http://plexonline.club:25461/live/APYAESTALISTABAJA/IPTVACTIVADORPLAYSTORE/101.ts
-
-#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/death-note-anime-serie-completa-dvds-final-D_NQ_NP_838284-MLA26095818489_092017-F.jpg" group-title="22- CANALES 24 HORAS",Deathnote Anime (Plex)
-http://plexonline.club:25461/live/APOYAESTALISTA/IPTVACTIVADOR/328.ts
-
-#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/death-note-anime-serie-completa-dvds-final-D_NQ_NP_838284-MLA26095818489_092017-F.jpg" group-title="22- CANALES 24 HORAS",Deathnote Anime (Plex2)
-http://plexonline.club:25461/live/APYAESTALISTABAJA/IPTVACTIVADORPLAYSTORE/328.ts
-
-#EXTINF:-1 tvg-logo="https://spoilertime.com/wp-content/uploads/2018/05/V3W2QBFZNNBBNJX2HF6NKDS7KY.jpg" group-title="22- CANALES 24 HORAS",Desafio Sobre Fuego (Plex)
-http://plexonline.club:25461/live/APOYAESTALISTA/IPTVACTIVADOR/108.ts
-
-#EXTINF:-1 tvg-logo="https://spoilertime.com/wp-content/uploads/2018/05/V3W2QBFZNNBBNJX2HF6NKDS7KY.jpg" group-title="22- CANALES 24 HORAS",Desafio Sobre Fuego (Plex2)
-http://plexonline.club:25461/live/APYAESTALISTABAJA/IPTVACTIVADORPLAYSTORE/108.ts
-
-#EXTINF:-1 tvg-logo="https://vive.uvm.mx/img/2019/01/Cronolog%C3%ADa-completa-de-Dragon-Ball.jpg" group-title="22- CANALES 24 HORAS",Dragon Ball (Plex)
-http://plexonline.club:25461/live/APOYAESTALISTA/IPTVACTIVADOR/348.ts
-
-#EXTINF:-1 tvg-logo="https://vive.uvm.mx/img/2019/01/Cronolog%C3%ADa-completa-de-Dragon-Ball.jpg" group-title="22- CANALES 24 HORAS",Dragon Ball (Plex2)
-http://plexonline.club:25461/live/APYAESTALISTABAJA/IPTVACTIVADORPLAYSTORE/348.ts
-
-#EXTINF:-1 tvg-logo="https://vive.uvm.mx/img/2019/01/Cronolog%C3%ADa-completa-de-Dragon-Ball.jpg" group-title="22- CANALES 24 HORAS",Dragon Ball GT (Plex)
-http://plexonline.club:25461/live/APOYAESTALISTA/IPTVACTIVADOR/135.ts
-
-#EXTINF:-1 tvg-logo="https://vive.uvm.mx/img/2019/01/Cronolog%C3%ADa-completa-de-Dragon-Ball.jpg" group-title="22- CANALES 24 HORAS",Dragon Ball GT (Plex2)
-http://plexonline.club:25461/live/APYAESTALISTABAJA/IPTVACTIVADORPLAYSTORE/135.ts
-
-#EXTINF:-1 tvg-logo="https://vive.uvm.mx/img/2019/01/Cronolog%C3%ADa-completa-de-Dragon-Ball.jpg" group-title="22- CANALES 24 HORAS",Dragon Ball Super (Plex)
-http://plexonline.club:25461/live/APOYAESTALISTA/IPTVACTIVADOR/134.ts
-
-#EXTINF:-1 tvg-logo="https://vive.uvm.mx/img/2019/01/Cronolog%C3%ADa-completa-de-Dragon-Ball.jpg" group-title="22- CANALES 24 HORAS",Dragon Ball Super (Plex2)
-http://plexonline.club:25461/live/APYAESTALISTABAJA/IPTVACTIVADORPLAYSTORE/134.ts
-
-#EXTINF:-1 tvg-logo="https://vive.uvm.mx/img/2019/01/Cronolog%C3%ADa-completa-de-Dragon-Ball.jpg" group-title="22- CANALES 24 HORAS",Dragon Ball Z (Plex)
-http://plexonline.club:25461/live/APOYAESTALISTA/IPTVACTIVADOR/136.ts
-
-#EXTINF:-1 tvg-logo="https://vive.uvm.mx/img/2019/01/Cronolog%C3%ADa-completa-de-Dragon-Ball.jpg" group-title="22- CANALES 24 HORAS",Dragon Ball Z (Plex2)
-http://plexonline.club:25461/live/APYAESTALISTABAJA/IPTVACTIVADORPLAYSTORE/136.ts
-
-#EXTINF:-1 tvg-logo="https://www.elimparcial.com/__export/1558489068874/sites/elimparcial/img/2019/05/21/2_10.jpg_1359985867.jpg" group-title="22- CANALES 24 HORAS",El Chapulin Colorado (Plex)
-http://plexonline.club:25461/live/APOYAESTALISTA/IPTVACTIVADOR/141.ts
-
-#EXTINF:-1 tvg-logo="https://www.elimparcial.com/__export/1558489068874/sites/elimparcial/img/2019/05/21/2_10.jpg_1359985867.jpg" group-title="22- CANALES 24 HORAS",El Chapulin Colorado (Plex2)
-http://plexonline.club:25461/live/APYAESTALISTABAJA/IPTVACTIVADORPLAYSTORE/141.ts
-
-#EXTINF:-1 tvg-logo="https://ep00.epimg.net/elpais/imagenes/2014/11/28/album/1417210275_213796_1417212692_album_normal.jpg" group-title="22- CANALES 24 HORAS",El Chavo del 8 (Plex)
-http://plexonline.club:25461/live/APOYAESTALISTA/IPTVACTIVADOR/140.ts
-
-#EXTINF:-1 tvg-logo="https://ep00.epimg.net/elpais/imagenes/2014/11/28/album/1417210275_213796_1417212692_album_normal.jpg" group-title="22- CANALES 24 HORAS",El Chavo del 8 (Plex2)
-http://plexonline.club:25461/live/APYAESTALISTABAJA/IPTVACTIVADORPLAYSTORE/140.ts
-
-#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/pablo-escobar-el-patron-del-mal-serie-completa-D_NQ_NP_994912-MLV27278559651_052018-F.jpg" group-title="22- CANALES 24 HORAS",El Patron del Mal (Plex)
-http://plexonline.club:25461/live/APOYAESTALISTA/IPTVACTIVADOR/137.ts
-
-#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/pablo-escobar-el-patron-del-mal-serie-completa-D_NQ_NP_994912-MLV27278559651_052018-F.jpg" group-title="22- CANALES 24 HORAS",El Patron del Mal (Plex2)
-http://plexonline.club:25461/live/APYAESTALISTABAJA/IPTVACTIVADORPLAYSTORE/137.ts
-
-#EXTINF:-1 tvg-logo="https://media.metrolatam.com/2019/07/25/screenshot201907-b781281ef39c5a9b0616b473a05f9be8-900x600.jpg" group-title="22- CANALES 24 HORAS",El Señor de los Cielos (Plex)
-http://plexonline.club:25461/live/APOYAESTALISTA/IPTVACTIVADOR/138.ts
-
-#EXTINF:-1 tvg-logo="https://media.metrolatam.com/2019/07/25/screenshot201907-b781281ef39c5a9b0616b473a05f9be8-900x600.jpg" group-title="22- CANALES 24 HORAS",El Señor de los Cielos (Plex2)
-http://plexonline.club:25461/live/APYAESTALISTABAJA/IPTVACTIVADORPLAYSTORE/138.ts
-
-#EXTINF:-1 tvg-logo="https://i.blogs.es/e204e1/futurama-xataka-1/450_1000.jpg" group-title="22- CANALES 24 HORAS",Futurama (Plex)
-http://plexonline.club:25461/live/APOYAESTALISTA/IPTVACTIVADOR/351.ts
-
-#EXTINF:-1 tvg-logo="https://i.blogs.es/e204e1/futurama-xataka-1/450_1000.jpg" group-title="22- CANALES 24 HORAS",Futurama (Plex2)
-http://plexonline.club:25461/live/APYAESTALISTABAJA/IPTVACTIVADORPLAYSTORE/351.ts
-
-#EXTINF:-1 tvg-logo="https://blogs.diariovasco.com/series-gourmets/wp-content/uploads/sites/37/2016/07/padre-hijo-e1468672257557.jpg" group-title="22- CANALES 24 HORAS",Familia Dinosaurios (Plex)
-http://plexonline.club:25461/live/APOYAESTALISTA/IPTVACTIVADOR/142.ts
-
-#EXTINF:-1 tvg-logo="https://blogs.diariovasco.com/series-gourmets/wp-content/uploads/sites/37/2016/07/padre-hijo-e1468672257557.jpg" group-title="22- CANALES 24 HORAS",Familia Dinosaurios (Plex2)
-http://plexonline.club:25461/live/APYAESTALISTABAJA/IPTVACTIVADORPLAYSTORE/142.ts
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/P4C_evB9MiQ/hqdefault.jpg" group-title="22- CANALES 24 HORAS",He-Man (Plex)
-http://plexonline.club:25461/live/APOYAESTALISTA/IPTVACTIVADOR/133.ts
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/P4C_evB9MiQ/hqdefault.jpg" group-title="22- CANALES 24 HORAS",He-Man (Plex2)
-http://plexonline.club:25461/live/APYAESTALISTABAJA/IPTVACTIVADORPLAYSTORE/133.ts
-
-#EXTINF:-1 tvg-logo="https://cdnb.20m.es/sites/156/2019/04/got.jpg" group-title="22- CANALES 24 HORAS",Juego de tronos (Plex)
-http://plexonline.club:25461/live/APOYAESTALISTA/IPTVACTIVADOR/104.ts
-
-#EXTINF:-1 tvg-logo="https://cdnb.20m.es/sites/156/2019/04/got.jpg" group-title="22- CANALES 24 HORAS",Juego de tronos (Plex2)
-http://plexonline.club:25461/live/APYAESTALISTABAJA/IPTVACTIVADORPLAYSTORE/104.ts
-
-#EXTINF:-1 tvg-logo="https://www.rockandpop.cl/wp-content/uploads/2019/01/La-Casa-de-Papel-e1546880052104-400x360.jpg" group-title="22- CANALES 24 HORAS",La Casa de Papel (Plex)
-http://plexonline.club:25461/live/APOYAESTALISTA/IPTVACTIVADOR/143.ts
-
-#EXTINF:-1 tvg-logo="https://www.rockandpop.cl/wp-content/uploads/2019/01/La-Casa-de-Papel-e1546880052104-400x360.jpg" group-title="22- CANALES 24 HORAS",La Casa de Papel (Plex2)
-http://plexonline.club:25461/live/APYAESTALISTABAJA/IPTVACTIVADORPLAYSTORE/143.ts
-
-#EXTINF:-1 tvg-logo="https://d2yoo3qu6vrk5d.cloudfront.net/images/20180815083638/rosa-guadalupe-482x320.jpg" group-title="22- CANALES 24 HORAS",La rosa de Guadalupe (Plex)
-http://plexonline.club:25461/live/APOYAESTALISTA/IPTVACTIVADOR/350.ts
-
-#EXTINF:-1 tvg-logo="https://d2yoo3qu6vrk5d.cloudfront.net/images/20180815083638/rosa-guadalupe-482x320.jpg" group-title="22- CANALES 24 HORAS",La rosa de Guadalupe (Plex2)
-http://plexonline.club:25461/live/APYAESTALISTABAJA/IPTVACTIVADORPLAYSTORE/350.ts
-
-#EXTINF:-1 tvg-logo="https://www.rockandpop.cl/wp-content/uploads/2019/02/Le-temes-a-la-oscuridad-400x360.jpg" group-title="22- CANALES 24 HORAS",Le Temes a la Oscuridad (Plex)
-http://plexonline.club:25461/live/APOYAESTALISTA/IPTVACTIVADOR/429.ts
-
-#EXTINF:-1 tvg-logo="https://www.rockandpop.cl/wp-content/uploads/2019/02/Le-temes-a-la-oscuridad-400x360.jpg" group-title="22- CANALES 24 HORAS",Le Temes a la Oscuridad (Plex2)
-http://plexonline.club:25461/live/APYAESTALISTABAJA/IPTVACTIVADORPLAYSTORE/429.ts
-
-#EXTINF:-1 tvg-logo="https://www.sccpre.cat/mypng/detail/201-2017593_los-caballeros-del-zodiaco-30-aniversario-saint-seiya.png" group-title="22- CANALES 24 HORAS",Los Caballeros del Zodiaco (Plex)
-http://plexonline.club:25461/live/APOYAESTALISTA/IPTVACTIVADOR/144.ts
-
-#EXTINF:-1 tvg-logo="https://www.sccpre.cat/mypng/detail/201-2017593_los-caballeros-del-zodiaco-30-aniversario-saint-seiya.png" group-title="22- CANALES 24 HORAS",Los Caballeros del Zodiaco (Plex2)
-http://plexonline.club:25461/live/APYAESTALISTABAJA/IPTVACTIVADORPLAYSTORE/144.ts
-
-#EXTINF:-1 tvg-logo="https://cdn-3.expansion.mx/dims4/default/47cceaf/2147483647/strip/true/crop/474x360+0+0/resize/800x608!/quality/90/?url=https%3A%2F%2Fcherry-brightspot.s3.amazonaws.com%2F0d%2Ffd%2F428d18d948fa9298a395a7adc094%2Fsimpson.png" group-title="22- CANALES 24 HORAS",Los Simpson (Plex)
-http://plexonline.club:25461/live/APOYAESTALISTA/IPTVACTIVADOR/118.ts
-
-#EXTINF:-1 tvg-logo="https://cdn-3.expansion.mx/dims4/default/47cceaf/2147483647/strip/true/crop/474x360+0+0/resize/800x608!/quality/90/?url=https%3A%2F%2Fcherry-brightspot.s3.amazonaws.com%2F0d%2Ffd%2F428d18d948fa9298a395a7adc094%2Fsimpson.png" group-title="22- CANALES 24 HORAS",Los Simpson (Plex2)
-http://plexonline.club:25461/live/APYAESTALISTABAJA/IPTVACTIVADORPLAYSTORE/118.ts
-
-#EXTINF:-1 tvg-logo="https://mm3.vistoenpantalla.com/imagenes-productos/camiseta-nino-mazingerz-large2.jpg" group-title="22- CANALES 24 HORAS",Mazinger Z (Plex)
-http://plexonline.club:25461/live/APOYAESTALISTA/IPTVACTIVADOR/129.ts
-
-#EXTINF:-1 tvg-logo="https://mm3.vistoenpantalla.com/imagenes-productos/camiseta-nino-mazingerz-large2.jpg" group-title="22- CANALES 24 HORAS",Mazinger Z (Plex2)
-http://plexonline.club:25461/live/APYAESTALISTABAJA/IPTVACTIVADORPLAYSTORE/129.ts
-
-#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video/6a/95/be/dj.lhkdwxli.jpg/268x0w.jpg" group-title="22- CANALES 24 HORAS",Naruto (Plex)
-http://plexonline.club:25461/live/APOYAESTALISTA/IPTVACTIVADOR/126.ts
-
-#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video/6a/95/be/dj.lhkdwxli.jpg/268x0w.jpg" group-title="22- CANALES 24 HORAS",Naruto (Plex2)
-http://plexonline.club:25461/live/APYAESTALISTABAJA/IPTVACTIVADORPLAYSTORE/126.ts
-
-#EXTINF:-1 tvg-logo="https://i.axs.com/2018/07/peppa-pig-live_07-30-18_20_5b5fa3a44576c.jpg" group-title="22- CANALES 24 HORAS",Peppa Pig (Plex)
-http://plexonline.club:25461/live/APOYAESTALISTA/IPTVACTIVADOR/428.ts
-
-#EXTINF:-1 tvg-logo="https://i.axs.com/2018/07/peppa-pig-live_07-30-18_20_5b5fa3a44576c.jpg" group-title="22- CANALES 24 HORAS",Peppa Pig (Plex2)
-http://plexonline.club:25461/live/APYAESTALISTABAJA/IPTVACTIVADORPLAYSTORE/428.ts
-
-#EXTINF:-1 tvg-logo="https://66.media.tumblr.com/52b67c196d2dbdadea3038265e36f1f3/tumblr_nd03fsJi7U1sigtako1_640.jpg" group-title="22- CANALES 24 HORAS",Pinky y Cerebro (Plex)
-http://plexonline.club:25461/live/APOYAESTALISTA/IPTVACTIVADOR/125.ts
-
-#EXTINF:-1 tvg-logo="https://66.media.tumblr.com/52b67c196d2dbdadea3038265e36f1f3/tumblr_nd03fsJi7U1sigtako1_640.jpg" group-title="22- CANALES 24 HORAS",Pinky y Cerebro (Plex2)
-http://plexonline.club:25461/live/APYAESTALISTABAJA/IPTVACTIVADORPLAYSTORE/125.ts
-
-#EXTINF:-1 tvg-logo="https://img.ecartelera.com/noticias/56400/56416-m.jpg" group-title="22- CANALES 24 HORAS",Pokemon (Plex)
-http://plexonline.club:25461/live/APOYAESTALISTA/IPTVACTIVADOR/124.ts
-
-#EXTINF:-1 tvg-logo="https://img.ecartelera.com/noticias/56400/56416-m.jpg" group-title="22- CANALES 24 HORAS",Pokemon (Plex2)
-http://plexonline.club:25461/live/APYAESTALISTABAJA/IPTVACTIVADORPLAYSTORE/124.ts
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/d1/24/86/d12486670bffbb070cd28ae59301647c.jpg" group-title="22- CANALES 24 HORAS",Power Rangers (Plex)
-http://plexonline.club:25461/live/APOYAESTALISTA/IPTVACTIVADOR/123.ts
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/d1/24/86/d12486670bffbb070cd28ae59301647c.jpg" group-title="22- CANALES 24 HORAS",Power Rangers (Plex2)
-http://plexonline.club:25461/live/APYAESTALISTABAJA/IPTVACTIVADORPLAYSTORE/123.ts
-
-#EXTINF:-1 tvg-logo="https://mathom.es/21300-thickbox_default/robotech-ace-pilot.jpg" group-title="22- CANALES 24 HORAS",Robotech (Plex)
-http://plexonline.club:25461/live/APOYAESTALISTA/IPTVACTIVADOR/122.ts
-
-#EXTINF:-1 tvg-logo="https://mathom.es/21300-thickbox_default/robotech-ace-pilot.jpg" group-title="22- CANALES 24 HORAS",Robotech (Plex2)
-http://plexonline.club:25461/live/APYAESTALISTABAJA/IPTVACTIVADORPLAYSTORE/122.ts
-
-#EXTINF:-1 tvg-logo="https://www.calendars.com/img/p/orig/202000010484.jpg" group-title="22- CANALES 24 HORAS",Sailor Moon (Plex)
-http://plexonline.club:25461/live/APOYAESTALISTA/IPTVACTIVADOR/121.ts
-
-#EXTINF:-1 tvg-logo="https://www.calendars.com/img/p/orig/202000010484.jpg" group-title="22- CANALES 24 HORAS",Sailor Moon (Plex2)
-http://plexonline.club:25461/live/APYAESTALISTABAJA/IPTVACTIVADORPLAYSTORE/121.ts
-
-#EXTINF:-1 tvg-logo="https://filmschoolrejects.com/wp-content/uploads/2017/12/she-ra-700x525.png" group-title="22- CANALES 24 HORAS",She-ra (Plex)
-http://plexonline.club:25461/live/APOYAESTALISTA/IPTVACTIVADOR/119.ts
-
-#EXTINF:-1 tvg-logo="https://filmschoolrejects.com/wp-content/uploads/2017/12/she-ra-700x525.png" group-title="22- CANALES 24 HORAS",She-ra (Plex2)
-http://plexonline.club:25461/live/APYAESTALISTABAJA/IPTVACTIVADORPLAYSTORE/119.ts
-
-#EXTINF:-1 tvg-logo="https://images.thenile.io/r1000/9325336161135.jpg" group-title="22- CANALES 24 HORAS",Smallville (Plex)
-http://plexonline.club:25461/live/APOYAESTALISTA/IPTVACTIVADOR/117.ts
-
-#EXTINF:-1 tvg-logo="https://images.thenile.io/r1000/9325336161135.jpg" group-title="22- CANALES 24 HORAS",Smallville (Plex2)
-http://plexonline.club:25461/live/APYAESTALISTABAJA/IPTVACTIVADORPLAYSTORE/117.ts
-
-#EXTINF:-1 tvg-logo="https://assets.cdn.moviepilot.de/files/73aaded6be14c82cfba2b230a10113ae6cb0bb780c80d1ee9594f936a4f6/fill/390/234/south-park.jpg" group-title="22- CANALES 24 HORAS",South Park (Plex)
-http://plexonline.club:25461/live/APOYAESTALISTA/IPTVACTIVADOR/116.ts
-
-#EXTINF:-1 tvg-logo="https://assets.cdn.moviepilot.de/files/73aaded6be14c82cfba2b230a10113ae6cb0bb780c80d1ee9594f936a4f6/fill/390/234/south-park.jpg" group-title="22- CANALES 24 HORAS",South Park (Plex2)
-http://plexonline.club:25461/live/APYAESTALISTABAJA/IPTVACTIVADORPLAYSTORE/116.ts
-
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71iL9Y4ju-L._SX425_.jpg" group-title="22- CANALES 24 HORAS",Spider-Man (Plex)
-http://plexonline.club:25461/live/APOYAESTALISTA/IPTVACTIVADOR/115.ts
-
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71iL9Y4ju-L._SX425_.jpg" group-title="22- CANALES 24 HORAS",Spider-Man (Plex2)
-http://plexonline.club:25461/live/APYAESTALISTABAJA/IPTVACTIVADORPLAYSTORE/115.ts
-
-#EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/mO4AAOSwYIxX3oX6/s-l300.jpg" group-title="22- CANALES 24 HORAS",Stranger Things (Plex)
-http://plexonline.club:25461/live/APOYAESTALISTA/IPTVACTIVADOR/114.ts
-
-#EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/mO4AAOSwYIxX3oX6/s-l300.jpg" group-title="22- CANALES 24 HORAS",Stranger Things (Plex2)
-http://plexonline.club:25461/live/APYAESTALISTABAJA/IPTVACTIVADORPLAYSTORE/114.ts
-
-#EXTINF:-1 tvg-logo="https://media.aweita.larepublica.pe/678x508/aweita/imagen/2018/02/08/noticia-oliver-atom-y-los-super-campeones-regresan1.png" group-title="22- CANALES 24 HORAS",Super Campeones (Plex)
-http://plexonline.club:25461/live/APOYAESTALISTA/IPTVACTIVADOR/113.ts
-
-#EXTINF:-1 tvg-logo="https://media.aweita.larepublica.pe/678x508/aweita/imagen/2018/02/08/noticia-oliver-atom-y-los-super-campeones-regresan1.png" group-title="22- CANALES 24 HORAS",Super Campeones (Plex2)
-http://plexonline.club:25461/live/APYAESTALISTABAJA/IPTVACTIVADORPLAYSTORE/113.ts
-
-#EXTINF:-1 tvg-logo="https://cache.moviestillsdb.com/i/500x/fjegybyt/the-walking-dead-lg.jpg" group-title="22- CANALES 24 HORAS",The Walking Dead (Plex)
-http://plexonline.club:25461/live/APOYAESTALISTA/IPTVACTIVADOR/110.ts
-
-#EXTINF:-1 tvg-logo="https://cache.moviestillsdb.com/i/500x/fjegybyt/the-walking-dead-lg.jpg" group-title="22- CANALES 24 HORAS",The Walking Dead (Plex2)
-http://plexonline.club:25461/live/APYAESTALISTABAJA/IPTVACTIVADORPLAYSTORE/110.ts
-
-#EXTINF:-1 tvg-logo="https://66.media.tumblr.com/91ed3266f76790058de45b9c85ffea33/tumblr_p91nqltBcU1sigtako1_1280.png" group-title="22- CANALES 24 HORAS",Thundercats (Plex)
-http://plexonline.club:25461/live/APOYAESTALISTA/IPTVACTIVADOR/111.ts
-
-#EXTINF:-1 tvg-logo="https://66.media.tumblr.com/91ed3266f76790058de45b9c85ffea33/tumblr_p91nqltBcU1sigtako1_1280.png" group-title="22- CANALES 24 HORAS",Thundercats (Plex2)
-http://plexonline.club:25461/live/APYAESTALISTABAJA/IPTVACTIVADORPLAYSTORE/111.ts
-
-#EXTINF:-1 tvg-logo="https://www.toplessrobot.com/wp-content/uploads/2010/03/XMenAnimatedReview1-thumb-300x420-17438.jpg" group-title="22- CANALES 24 HORAS",XMen (Plex)
-http://plexonline.club:25461/live/APOYAESTALISTA/IPTVACTIVADOR/109.ts
-
-#EXTINF:-1 tvg-logo="https://www.toplessrobot.com/wp-content/uploads/2010/03/XMenAnimatedReview1-thumb-300x420-17438.jpg" group-title="22- CANALES 24 HORAS",XMen (Plex2)
-http://plexonline.club:25461/live/APYAESTALISTABAJA/IPTVACTIVADORPLAYSTORE/109.ts
-
 #######################################################################################################################################################################################
 #######################################
 #EXTINF:-1 tvg-logo="https://www.socialandtech.net/wp-content/uploads/2018/08/plex-logo-1280x720.png" group-title="22- CANALES OLYMPUSAT",22- CANALES OLYMPUSAT
@@ -1359,36 +989,6 @@ http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/p
 #######################################
 #######################################################################################################################################################################################
 #######################################################################################################################################################################################
-
-#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraTainmentLogoBlack.png" group-title="22- CANALES OLYMPUSAT",Ultratainment (Plex)
-http://plexonline.club:25461/live/APOYAESTALISTA/IPTVACTIVADOR/405.ts
-
-#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraMacho_NLogo.png" group-title="22- CANALES OLYMPUSAT",Ultramacho (Plex)
-http://plexonline.club:25461/live/APOYAESTALISTA/IPTVACTIVADOR/401.ts
-
-#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraFilm_NLogo.png" group-title="22- CANALES OLYMPUSAT",Ultrafilm (Plex)
-http://plexonline.club:25461/live/APOYAESTALISTA/IPTVACTIVADOR/400.ts
-
-#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraFamiliaLogoBlack.png" group-title="22- CANALES OLYMPUSAT",Ultrafamilia (Plex)
-http://plexonline.club:25461/live/APOYAESTALISTA/IPTVACTIVADOR/402.ts
-
-#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraDocu_NLogo.png" group-title="22- CANALES OLYMPUSAT",Ultradocu (Plex)
-http://plexonline.club:25461/live/APOYAESTALISTA/IPTVACTIVADOR/403.ts
-
-#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/ultraBanda_NLogo.png" group-title="22- CANALES OLYMPUSAT",Ultrabanda (Plex)
-http://plexonline.club:25461/live/APOYAESTALISTA/IPTVACTIVADOR/404.ts
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/720645998398320640/EYG6r0Tj_400x400.jpg" group-title="22- CANALES OLYMPUSAT",Ultramex (Plex)
-http://plexonline.club:25461/live/APOYAESTALISTA/IPTVACTIVADOR/398.ts
-
-#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraLunaLogoBlack.png" group-title="22- CANALES OLYMPUSAT",Ultraluna (Plex)
-http://plexonline.club:25461/live/APOYAESTALISTA/IPTVACTIVADOR/396.ts
-
-#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraFiesta_NLogoWhite.png" group-title="22- CANALES OLYMPUSAT",Ultrafiesta (Plex)
-http://plexonline.club:25461/live/APOYAESTALISTA/IPTVACTIVADOR/399.ts
-
-#EXTINF:-1 tvg-logo="https://mark.trademarkia.com/logo-images/olympusat/ultra-cine-85364974.jpg" group-title="22- CANALES OLYMPUSAT",Ultracine (Plex)
-http://plexonline.club:25461/live/APOYAESTALISTA/IPTVACTIVADOR/397.ts
 
 #######################################################################################################################################################################################
 #######################################
