@@ -145,7 +145,7 @@ http://painel.ebanonet.com.br:25461/felix01/felix01/33564
 http://painel.ebanonet.com.br:25461/Renato/123456/33564
 
 #EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BOWJjYzI2NGYtMGFlYi00NWNiLWJhOTMtYzZlNWI1ZDQ4NzM5XkEyXkFqcGdeQXVyNjQ0OTk1ODg@._V1_.jpg" group-title="04- BRASIL",A Fazenda (3)
-http://painel.ebanonet.com.br:25461/rosemary/rosemary/33564
+
 
 #EXTINF:0 tvg-logo="http://i.imgur.com/xGYSOgE.png" group-title="04- BRASIL",Agro Brasil
 http://177.54.152.243:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8?GrupoTopIptv
@@ -157,10 +157,13 @@ http://painel.ebanonet.com.br:25461/felix01/felix01/4400
 http://painel.ebanonet.com.br:25461/Renato/123456/4400
 
 #EXTINF:0 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/band-logo-png-6.png" group-title="04- BRASIL",Band (3)
-http://painel.ebanonet.com.br:25461/rosemary/rosemary/4400
+
 
 #EXTINF:0 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/band-logo-png-6.png" group-title="04- BRASIL",Band (4)
-http://tv.minhalista.me:80/live/SrNTatr9C/phantomiptv/41530.ts
+http://fonte.goldpremium.xyz:8890/live/mixtutos/udnzs85c2c/1994.ts
+
+#EXTINF:0 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/band-logo-png-6.png" group-title="04- BRASIL",Band (4) HD
+http://fonte.goldpremium.xyz:8890/live/mixtutos/udnzs85c2c/2152.ts
 
 #EXTINF:0 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/band-logo-png-6.png" group-title="04- BRASIL",Band (5)
 
@@ -187,10 +190,10 @@ http://lista.digitalgroup.me/1718/12345/17122
 http://lista.digitalgroup.me:80/1718/12345/38657
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="04- BRASIL",Globo SP (4) HD
-http://tv.minhalista.me:80/live/SrNTatr9C/phantomiptv/37361.ts
+http://fonte.goldpremium.xyz:8890/live/mixtutos/udnzs85c2c/2230.ts
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="04- BRASIL",Globo SP (4) SD
-http://tv.minhalista.me:80/live/SrNTatr9C/phantomiptv/37090.ts
+http://fonte.goldpremium.xyz:8890/live/mixtutos/udnzs85c2c/2094.ts
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="04- BRASIL",Globo SP (5)
 
@@ -208,7 +211,7 @@ http://lista.digitalgroup.me/1718/12345/1207
 http://lista.digitalgroup.me/1718/12345/38661
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="04- BRASIL",Globo RJ (4) HD
-http://tv.minhalista.me:80/live/SrNTatr9C/phantomiptv/51149.ts
+http://fonte.goldpremium.xyz:8890/live/mixtutos/udnzs85c2c/2229.ts
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="04- BRASIL",Globo RJ (5)
 
@@ -226,10 +229,10 @@ http://lista.digitalgroup.me/1718/12345/46914
 http://lista.digitalgroup.me/1718/12345/968
 
 #EXTINF:-1 tvg-logo="http://evertonlopes.com.br/wp-content/uploads/2017/04/RBS_TV2.png" group-title="04- BRASIL",Globo RBS (4) HD
-http://tv.minhalista.me:80/live/SrNTatr9C/phantomiptv/40252.ts
+http://fonte.goldpremium.xyz:8890/live/mixtutos/udnzs85c2c/2228.ts
 
 #EXTINF:-1 tvg-logo="http://evertonlopes.com.br/wp-content/uploads/2017/04/RBS_TV2.png" group-title="04- BRASIL",Globo RBS (4) SD
-http://tv.minhalista.me:80/live/SrNTatr9C/phantomiptv/42959.ts
+http://fonte.goldpremium.xyz:8890/live/mixtutos/udnzs85c2c/2086.ts
 
 #EXTINF:-1 tvg-logo="http://evertonlopes.com.br/wp-content/uploads/2017/04/RBS_TV2.png" group-title="04- BRASIL",Globo RBS (5)
 
@@ -237,8 +240,8 @@ http://tv.minhalista.me:80/live/SrNTatr9C/phantomiptv/42959.ts
 #EXTINF:-1 tvg-logo="https://www.hedex.tv/uploads/images/clip_155_1556042983_thumb.png" group-title="04- BRASIL",Itú TV
 http://tv02.logicahost.com.br:1935/itutv/itutv/live.m3u8?GrupoTopIptv
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/if82162.png" group-title="04- BRASIL",NBR (1)
-
+#EXTINF:-1 tvg-logo="http://i.imgur.com/if82162.png" group-title="04- BRASIL",NBR (4)
+http://fonte.goldpremium.xyz:8890/live/mixtutos/udnzs85c2c/2127.ts
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/k4haEx6.png" group-title="04- BRASIL",Rede TV SD
 http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8?GrupoTopIptv
@@ -259,7 +262,7 @@ http://painel.ebanonet.com.br:25461/Renato/123456/4420
 http://lista.digitalgroup.me/1718/12345/963
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/k4haEx6.png" group-title="04- BRASIL",Rede TV (4)
-http://tv.minhalista.me:80/live/SrNTatr9C/phantomiptv/51014.ts
+http://fonte.goldpremium.xyz:8890/live/mixtutos/udnzs85c2c/2147.ts
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/k4haEx6.png" group-title="04- BRASIL",Rede TV (5)
 
@@ -277,10 +280,10 @@ http://lista.digitalgroup.me/1718/12345/1210
 http://lista.digitalgroup.me/1718/12345/38765
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="04- BRASIL",Record (4) HD
-http://tv.minhalista.me:80/live/SrNTatr9C/phantomiptv/42626.ts
+http://fonte.goldpremium.xyz:8890/live/mixtutos/udnzs85c2c/2159.ts
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="04- BRASIL",Record (4) SD
-http://tv.minhalista.me:80/live/SrNTatr9C/phantomiptv/42627.ts
+http://fonte.goldpremium.xyz:8890/live/mixtutos/udnzs85c2c/2001.ts
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="04- BRASIL",Record (5)
 
@@ -306,8 +309,8 @@ http://lista.digitalgroup.me:80/1718/12345/1208
 #EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="04- BRASIL",SBT (3)
 http://lista.digitalgroup.me:80/1718/12345/38920
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="04- BRASIL",SBT (4)
-http://tv.minhalista.me:80/live/SrNTatr9C/phantomiptv/51039.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="04- BRASIL",SBT (4) HD
+http://fonte.goldpremium.xyz:8890/live/mixtutos/udnzs85c2c/2154.ts
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="04- BRASIL",SBT (5)
 
