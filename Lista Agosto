@@ -27,8 +27,14 @@ http://www.coninfo.net:1935/tvcinco/live1/chunklist_w1546509083.m3u8?GrupoTopIpt
 #EXTINF:-1 tvg-logo="http://futbolhoy.com.ar/wp-content/uploads/2019/03/A24.png" group-title="03- ARGENTINA",A24 (4)
 
 
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/America-TV.png" group-title="03- ARGENTINA",America (2)
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/America-TV.png" group-title="03- ARGENTINA",America (UMMO)
+http://ummodigital.com:8000/live/jorge1/jorge1/16.ts
 
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/America-TV.png" group-title="03- ARGENTINA",America (UMMO)
+http://ummodigital.com:8000/live/jorge1/jorge1/17.ts
+
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/America-TV.png" group-title="03- ARGENTINA",America (UMMO)
+http://ummodigital.com:8000/live/jorge1/jorge1/18.ts
 
 #EXTINF:-1 tvg-logo="https://img3.androidappsapk.co/300/7/0/6/net.coninfo.admin.trecemaxtelevisin.png" group-title="03- ARGENTINA",13 Max
 http://coninfo.net:1935/13maxhd/live_720p/chunklist.m3u8?GrupoTopIptv
@@ -95,8 +101,14 @@ http://186.0.233.76:1935/Garage/garage.smil/playlist.m3u8?GrupoTopIptv
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/canal-9-m.jpg" group-title="03- ARGENTINA",El Nueve (4)
 
-#EXTINF:-1 tvg-logo="http://ipuntotv.com/IMAGES/ElTreceHD2012.jpg" group-title="03- ARGENTINA",El Trece (2)
+#EXTINF:-1 tvg-logo="http://ipuntotv.com/IMAGES/ElTreceHD2012.jpg" group-title="03- ARGENTINA",El Trece (UMMO)
+http://ummodigital.com:8000/live/jorge1/jorge1/13.ts
 
+#EXTINF:-1 tvg-logo="http://ipuntotv.com/IMAGES/ElTreceHD2012.jpg" group-title="03- ARGENTINA",El Trece (UMMO)
+http://ummodigital.com:8000/live/jorge1/jorge1/14.ts
+
+#EXTINF:-1 tvg-logo="http://ipuntotv.com/IMAGES/ElTreceHD2012.jpg" group-title="03- ARGENTINA",El Trece (UMMO)
+http://ummodigital.com:8000/live/jorge1/jorge1/15.ts
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1171440347508920320/7pwThQbq_400x400.jpg" group-title="03- ARGENTINA",KZO (4)
 
@@ -116,8 +128,14 @@ http://unlimited2-us.dps.live/nettv/nettv.smil/playlist.m3u8?GrupoTopIptv
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/08/NETargentina.png/revision/latest?cb=20180702162652" group-title="03- ARGENTINA",Net TV (4)
 
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="03- ARGENTINA",Telefe (1)
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="03- ARGENTINA",Telefe (UMMO)
+http://ummodigital.com:8000/live/jorge1/jorge1/19.ts
 
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="03- ARGENTINA",Telefe (UMMO)
+http://ummodigital.com:8000/live/jorge1/jorge1/20.ts
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="03- ARGENTINA",Telefe (UMMO)
+http://ummodigital.com:8000/live/jorge1/jorge1/21.ts
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/506483696065449984/BATn-jAe.png" group-title="03- ARGENTINA",Telpin
 
@@ -125,8 +143,8 @@ http://unlimited2-us.dps.live/nettv/nettv.smil/playlist.m3u8?GrupoTopIptv
 #EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/11/e455d-tlx.png" group-title="03- ARGENTINA",TLX
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?GrupoTopIptv
 
-#EXTINF:-1 tvg-logo="https://www.portalpublicitario.com/wp-content/uploads/2017/10/LogoTN.png" group-title="03- ARGENTINA",TN (4)
-
+#EXTINF:-1 tvg-logo="https://www.portalpublicitario.com/wp-content/uploads/2017/10/LogoTN.png" group-title="03- ARGENTINA",TN (UMMO)
+http://ummodigital.com:8000/live/jorge1/jorge1/22.ts
 
 #EXTINF:-1 tvg-logo="http://www.partedelshow.com.ar/sites/default/files/imagecache/img_nodo/PUBLICA.jpg" group-title="03- ARGENTINA",Tv Publica (4)
 
@@ -384,6 +402,10 @@ http://136.243.3.70:1935/Unitel/Unitel/chunklist_w1949818179_DVR.m3u8?GrupoTopIp
 https://stream.vagalume.fm/hls/14647977281792658143/aac.m3u8
 #######################################
 
+
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/24-Horas-Chile.png" group-title="06- CHILE",24 Horas (UMMO)
+http://ummodigital.com:8000/live/jorge1/jorge1/44.ts
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m70PUPf.jpg" group-title="06- CHILE",Antofagasta TV
 http://unlimited1-us.dps.live/atv/atv.smil/atv/livestream2/chunks.m3u8?GrupoTopIptv
 
@@ -393,8 +415,11 @@ http://unlimited5-cl.dps.live/canal2/canal2.smil/playlist.m3u8?GrupoTopIptv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EAj2nzu.jpg" group-title="06- CHILE",Canal 11 Cabrero
 http://play.streaminghd.cl:80/claudio441/claudio441/playlist.m3u8?GrupoTopIptv
 
-#EXTINF:-1 tvg-logo="https://img2.freepng.es/20180525/ry/kisspng-canal-13-logo-chile-television-front-and-back-covers-5b07ff0f65b977.0616481915272507034167.jpg" group-title="06- CHILE",Canal 13
+#EXTINF:-1 tvg-logo="https://img2.freepng.es/20180525/ry/kisspng-canal-13-logo-chile-television-front-and-back-covers-5b07ff0f65b977.0616481915272507034167.jpg" group-title="06- CHILE",Canal 13 (UMMO)
+http://ummodigital.com:8000/live/jorge1/jorge1/45.ts
 
+#EXTINF:-1 tvg-logo="https://img2.freepng.es/20180525/ry/kisspng-canal-13-logo-chile-television-front-and-back-covers-5b07ff0f65b977.0616481915272507034167.jpg" group-title="06- CHILE",Canal 13 Int (UMMO)
+http://ummodigital.com:8000/live/jorge1/jorge1/46.ts
 
 #EXTINF:-1 tvg-logo="http://www.canal21tv.cl/wp/wp-content/uploads/2017/06/Logo720-1.png" group-title="06- CHILE",Canal 21
 http://edge1.cl.grupoz.cl/canal21tv/live/playlist.m3u8?GrupoTopIptv
@@ -404,6 +429,9 @@ http://edge1.cl.grupoz.cl/canal21tv/live/playlist.m3u8?GrupoTopIptv
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/S0OCpjV.png" group-title="06- CHILE",Cachipum
 http://edge1.cl.grupoz.cl/cachipuntv/live/playlist.m3u8?GrupoTopIptv
+
+#EXTINF:-1 tvg-logo="https://elfiltrador.com/wp-content/uploads/2018/10/foto_0000001320180216144941.png" group-title="06- CHILE",Chilevision (UMMO)
+http://ummodigital.com:8000/live/jorge1/jorge1/47.ts
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/VhOolgs.png" group-title="06- CHILE",El Pingüino
 http://streaming.elpinguino.com:1935/live/pinguinotv_720p/hasbahca.m3u8?GrupoTopIptv
@@ -417,8 +445,8 @@ http://unlimited5-cl.dps.live/holvoettv/holvoettv.smil/playlist.m3u8?GrupoTopIpt
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9sKGsmt.png" group-title="06- CHILE",ITV
 http://unlimited1-us.dps.live/itv/itv.smil/itv/livestream1/chunks.m3u8?GrupoTopIptv
 
-#EXTINF:-1 tvg-logo="https://blogvecindad.com/wp-content/uploads/2015/11/Mega_Chile_Alternate_Logo.png" group-title="06- CHILE",Mega (2)
-
+#EXTINF:-1 tvg-logo="https://blogvecindad.com/wp-content/uploads/2015/11/Mega_Chile_Alternate_Logo.png" group-title="06- CHILE",Mega (UMMO)
+http://ummodigital.com:8000/live/jorge1/jorge1/43.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/umdJ2mP.jpg" group-title="06- CHILE",Portalfoxmix
 http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8?GrupoTopIptv
@@ -426,8 +454,17 @@ http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8?GrupoTo
 #EXTINF:-1 tvg-logo="https://img8.androidappsapk.co/300/8/b/3/com.trece.t13.png" group-title="06- CHILE",T13
 http://c13-ply.janus.cl/playlist/stream.m3u8?s=c13hd?GrupoTopIptv
 
+#EXTINF:-1 tvg-logo="https://img8.androidappsapk.co/300/8/b/3/com.trece.t13.png" group-title="06- CHILE",T13 (UMMO)
+http://ummodigital.com:8000/live/jorge1/jorge1/51.ts
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6J8xRah.png" group-title="06- CHILE",Teletrak
 http://unlimited1-us.dps.live/teletrak/teletrak.smil/teletrak/livestream1/chunks.m3u8?GrupoTopIptv
+
+#EXTINF:-1 tvg-logo="https://grandesmarcas.cl/wp-content/uploads/2016/06/logo-TVN-1.jpg" group-title="06- CHILE",TVN (UMMO)
+http://ummodigital.com:8000/live/jorge1/jorge1/41.ts
+
+#EXTINF:-1 tvg-logo="https://grandesmarcas.cl/wp-content/uploads/2016/06/logo-TVN-1.jpg" group-title="06- CHILE",TVN Int (UMMO)
+http://ummodigital.com:8000/live/jorge1/jorge1/42.ts
 
 #EXTINF:-1 tvg-logo="https://www.tvr.cl/wp-content/uploads/2018/10/cropped-logo-tvr-3.png" group-title="06- CHILE",TVR
 https://unlimited4-cl.dps.live/tvr/tvr.smil/playlist.m3u8?GrupoTopIptv
@@ -447,11 +484,50 @@ http://cl.origin.grupoz.cl:1935/uestv/live/playlist.m3u8?GrupoTopIptv
 https://stream.vagalume.fm/hls/147015501223418/aac.m3u8
 #######################################
 
+#EXTINF:-1 tvg-logo="https://colombia.mom-rsf.org/typo3temp/_processed_/4/c/csm_515-941_import_1f4f07e98e.png" group-title="07- COLOMBIA",Cable Noticias (UMMO)
+http://ummodigital.com:8000/live/jorge1/jorge1/601.ts
+
+#EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/11/4265b-ca-2014.png" group-title="07- COLOMBIA",Canal Antiestres (UMMO)
+http://ummodigital.com:8000/live/jorge1/jorge1/602.ts
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/baba9ccb-80f7-4647-9026-8032a29d324f_m.jpg" group-title="07- COLOMBIA",Canal Institucional (UMMO)
+http://ummodigital.com:8000/live/jorge1/jorge1/603.ts
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_tro_m.png" group-title="07- COLOMBIA",Canal Tro (UMMO)
+http://ummodigital.com:8000/live/jorge1/jorge1/604.ts
+
+#EXTINF:-1 tvg-logo="https://www.ecured.cu/images/thumb/7/73/Canal1Col2017.png/260px-Canal1Col2017.png" group-title="07- COLOMBIA",Canal Uno (UMMO)
+http://ummodigital.com:8000/live/jorge1/jorge1/592.ts
+
+#EXTINF:-1 tvg-logo="https://www.ecured.cu/images/thumb/7/73/Canal1Col2017.png/260px-Canal1Col2017.png" group-title="07- COLOMBIA",Canal Uno (UMMO)
+http://ummodigital.com:8000/live/jorge1/jorge1/593.ts
+
+#EXTINF:-1 tvg-logo="https://www.ecured.cu/images/thumb/7/73/Canal1Col2017.png/260px-Canal1Col2017.png" group-title="07- COLOMBIA",Canal Uno (UMMO)
+http://ummodigital.com:8000/live/jorge1/jorge1/594.ts
+
+#EXTINF:-1 tvg-logo="http://danielpalaciosmartinez.com/wp-content/uploads/5lII2Wbl_400x400.jpg" group-title="07- COLOMBIA",Caracol (UMMO)
+http://ummodigital.com:8000/live/jorge1/jorge1/1.ts
+
+#EXTINF:-1 tvg-logo="http://danielpalaciosmartinez.com/wp-content/uploads/5lII2Wbl_400x400.jpg" group-title="07- COLOMBIA",Caracol (UMMO)
+http://ummodigital.com:8000/live/jorge1/jorge1/2.ts
+
+#EXTINF:-1 tvg-logo="http://danielpalaciosmartinez.com/wp-content/uploads/5lII2Wbl_400x400.jpg" group-title="07- COLOMBIA",Caracol (UMMO)
+http://ummodigital.com:8000/live/jorge1/jorge1/3.ts
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/386408609/cnc2_400x400.png" group-title="07- COLOMBIA",CNC 
 http://66.240.236.25:1936/canalcnc/canalcnc/chunklist.m3u8?GrupoTopIptv
 
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/gt_citytv_m.png" group-title="07- COLOMBIA",City Tv (UMMO)
+http://ummodigital.com:8000/live/jorge1/jorge1/605.ts
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_cosmovision_m.png" group-title="07- COLOMBIA",Cosmovision (UMMO)
+http://ummodigital.com:8000/live/jorge1/jorge1/606.ts
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/phHdw4Y.png" group-title="07- COLOMBIA",CTV Barranquilla
 http://wmoy8w6ky2a7-hls-live.5centscdn.com/ctvbaq/live/tracks-v1a1/mono.m3u8?GrupoTopIptv
+
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/El-Tiempo-Televisi%C3%B3n.png" group-title="07- COLOMBIA",El Tiempo (UMMO)
+http://ummodigital.com:8000/live/jorge1/jorge1/607.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CREs19T.png" group-title="07- COLOMBIA",Mundo Mas
 http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8?GrupoTopIptv
@@ -462,14 +538,38 @@ http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8?GrupoTopIptv
 #EXTINF:-1 tvg-logo="http://www.ranchenatotv.co/wp-content/uploads/2018/10/500PX.png" group-title="07- COLOMBIA",Ranchenato
 http://66.240.236.25:1936/ranchenato/ranchenato/playlist.m3u8?GrupoTopIptv
 
-#EXTINF:-1 tvg-logo="http://html.canalrcn.com/CanalRCN/react/images/RCN-RCNTELEVISION-logo21.png" group-title="07- COLOMBIA",RCN (4)
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/281e2a_0961b75b14424e788e73ad827bb4561d~mv2.jpg" group-title="07- COLOMBIA",Red + (UMMO)
+http://ummodigital.com:8000/live/jorge1/jorge1/611.ts
 
+#EXTINF:-1 tvg-logo="http://html.canalrcn.com/CanalRCN/react/images/RCN-RCNTELEVISION-logo21.png" group-title="07- COLOMBIA",RCN (UMMO)
+http://ummodigital.com:8000/live/jorge1/jorge1/7.ts
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eoxHmyO.jpg" group-title="07- COLOMBIA",Teleantioquia
+#EXTINF:-1 tvg-logo="http://html.canalrcn.com/CanalRCN/react/images/RCN-RCNTELEVISION-logo21.png" group-title="07- COLOMBIA",RCN (UMMO)
+http://ummodigital.com:8000/live/jorge1/jorge1/8.ts
 
+#EXTINF:-1 tvg-logo="http://html.canalrcn.com/CanalRCN/react/images/RCN-RCNTELEVISION-logo21.png" group-title="07- COLOMBIA",RCN (UMMO)
+http://ummodigital.com:8000/live/jorge1/jorge1/9.ts
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/r4wZZb4.jpg" group-title="07- COLOMBIA",Telecafe
+#EXTINF:-1 tvg-logo="http://html.canalrcn.com/CanalRCN/react/images/RCN-RCNTELEVISION-logo21.png" group-title="07- COLOMBIA",RCN Int (UMMO)
+http://ummodigital.com:8000/live/jorge1/jorge1/608.ts
 
+#EXTINF:-1 tvg-logo="http://danielpalaciosmartinez.com/wp-content/uploads/logonoticias.jpg" group-title="07- COLOMBIA",RCN Noticias (UMMO)
+http://ummodigital.com:8000/live/jorge1/jorge1/610.ts
+
+#EXTINF:-1 tvg-logo="http://217.182.175.40/logo/Pzh1qyZs.png" group-title="07- COLOMBIA",RCN Novelas (UMMO)
+http://ummodigital.com:8000/live/jorge1/jorge1/609.ts
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/e53834ab-c4ff-4b88-8845-bf89f4552332_m.jpg" group-title="07- COLOMBIA",Señal Colombia (UMMO)
+http://ummodigital.com:8000/live/jorge1/jorge1/595.ts
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/e53834ab-c4ff-4b88-8845-bf89f4552332_m.jpg" group-title="07- COLOMBIA",Señal Colombia (UMMO)
+http://ummodigital.com:8000/live/jorge1/jorge1/596.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eoxHmyO.jpg" group-title="07- COLOMBIA",Teleantioquia (UMMO)
+http://ummodigital.com:8000/live/jorge1/jorge1/599.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r4wZZb4.jpg" group-title="07- COLOMBIA",Telecafe (UMMO)
+http://ummodigital.com:8000/live/jorge1/jorge1/600.ts
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/telecaribe.png" group-title="07- COLOMBIA",Telecaribe
 http://telecaribe-hd.gcdn.anvato.net/hls/live/telecaribehd/2196k/index.m3u8?GrupoTopIptv
@@ -477,14 +577,20 @@ http://telecaribe-hd.gcdn.anvato.net/hls/live/telecaribehd/2196k/index.m3u8?Grup
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/telecaribe.png" group-title="07- COLOMBIA",Telecaribe
 http://telecaribe-deportes.gcdn.anvato.net/hls/live/telecaribedeporteshd2/2196k/index.m3u8?GrupoTopIptv
 
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/telecaribe.png" group-title="07- COLOMBIA",Telecaribe (UMMO)
+http://ummodigital.com:8000/live/jorge1/jorge1/597.ts
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4xNgb8H.png" group-title="07- COLOMBIA",Teleislas
 http://vbox2.cehis.net/live-teleislas/smil:teleislas.smil/playlist.m3u8?GrupoTopIptv
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/29DQNPy.png" group-title="07- COLOMBIA",Tele Medellin
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/29DQNPy.png" group-title="07- COLOMBIA",Tele Medellin (UMMO)
+http://ummodigital.com:8000/live/jorge1/jorge1/612.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h7osX79.png" group-title="07- COLOMBIA",Telepacifico
 http://cdn.logicideas.media/telepacifico-live/smil:live.smil/chunklist_b4500000.m3u8?GrupoTopIptv
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h7osX79.png" group-title="07- COLOMBIA",Telepacifico (UMMO)
+http://ummodigital.com:8000/live/jorge1/jorge1/598.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eg47wmv.jpg" group-title="07- COLOMBIA",Televid
 
@@ -494,6 +600,9 @@ http://cdn.logicideas.media/canaltrece-live/smil:canal13.smil/playlist.m3u8?Grup
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ndR9t9o.jpg" group-title="07- COLOMBIA",Trece
 http://cdn.logicideas.media/canaltrece-live/smil:canal13.smil/chunklist_b4500000.m3u8?GrupoTopIptv
+
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/co-tv-agro.jpg" group-title="07- COLOMBIA",Tv Agro (UMMO)
+http://ummodigital.com:8000/live/jorge1/jorge1/613.ts
 
 #####################################################################################################################################
 ####################################### COSTA RICA
