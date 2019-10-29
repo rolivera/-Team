@@ -784,27 +784,6 @@ http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8?GrupoTopIptv
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/telemar.png" group-title="13- MEXICO",Telemar
 http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u?GrupoTopIptv
 
-#EXTINF:-1 tvg-logo="https://www.telemundo.com/sites/nbcutelemundo/themes/aurora_tlmd/images/telemundo_logo.png" group-title="13- MEXICO",Telemundo
-
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_tlnovelas_m.png" group-title="13- MEXICO",Tlnovelas (2)
-
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_tvc_m.png" group-title="13- MEXICO",Tvc (1)
-
-
-#EXTINF:-1 tvg-logo="http://televisatvdepaga.com/wp-content/uploads/2017/08/unicable.jpg" group-title="13- MEXICO",Unicable (1)
-
-
-#EXTINF:-1 tvg-logo="http://static-cdn2.ustream.tv/i/channel/picture/1/7/4/0/17406211/17406211,640x360,b:2.jpg" group-title="13- MEXICO",Unimas
-
-
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/U/univision-logo-14BBF1BA5F-seeklogo.com.png" group-title="13- MEXICO",Univision (2)
-
-
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-f2Bs9iD3FqE/Vr_1tv9AjYI/AAAAAAAAzjw/uqjSpCsbbfg/s1600/univision-tlnovelas-logo.jpg" group-title="13- MEXICO",Univision Telenovelas (2)
-
-
 ######################################################################################################################################
 ####################################### NICARAGUA
 #EXTINF:-1 tvg-logo="https://respuestas.tips/wp-content/uploads/2014/04/bandera-nicaragua.jpg" group-title="14- NICARAGUA",14- NICARAGUA
@@ -1134,6 +1113,25 @@ http://158.69.228.135:8000/live/sNlMZixCFU/t0eTiJm4JD/493.ts
 
 #EXTINF:-1 tvg-logo="http://www.bienaldemontevideo.com/imgs/pat/vtv.png" group-title="20- URUGUAY",VTV (5)
 http://infinity.ddns.me:25461/live/cesar.vera85/zbO9UOGgl7/16312.ts
+
+#####################################################################################################################################
+####################################### USA LATINO
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2017/01/25/10/04/usa-2007460__340.jpg" group-title="21- USA LATINO",21- USA LATINO
+https://stream.vagalume.fm/hls/1475776167864381/aac.m3u8
+#######################################
+
+#EXTINF:-1 tvg-logo="http://wowlarevista.com/wp-content/uploads/2016/08/americateve.jpg" group-title="21- USA LATINO",America TeVe
+http://ummodigital.com:8000/live/jorge1/jorge1/590.ts
+#EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/galavision_320.jpg" group-title="21- USA LATINO",Galavision
+http://ummodigital.com:8000/live/jorge1/jorge1/77.ts
+#EXTINF:-1 tvg-logo="https://www.trzcacak.rs/myfile/detail/386-3865585_logo-univision-univision-logo.png" group-title="21- USA LATINO",Univision
+http://ummodigital.com:8000/live/jorge1/jorge1/72.ts
+#EXTINF:-1 tvg-logo="http://static-cdn2.ustream.tv/i/channel/picture/1/7/4/0/17406211/17406211,640x360,b:2.jpg" group-title="21- USA LATINO",Unimas
+http://ummodigital.com:8000/live/jorge1/jorge1/76.ts
+#EXTINF:-1 tvg-logo="https://s23657.pcdn.co/wp-content/uploads/2017/07/Univision_tlnovelas_logo_image-768x529.jpg" group-title="21- USA LATINO",Univision Telenovelas
+http://ummodigital.com:8000/live/jorge1/jorge1/75.ts
+#EXTINF:-1 tvg-logo="https://www.telemundo.com/sites/nbcutelemundo/themes/aurora_tlmd/images/telemundo_logo.png" group-title="21- USA LATINO",Telemundo
+http://ummodigital.com:8000/live/jorge1/jorge1/84.ts
 
 #####################################################################################################################################
 ####################################### VENEZUELA
