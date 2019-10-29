@@ -27,14 +27,17 @@ http://www.coninfo.net:1935/tvcinco/live1/chunklist_w1546509083.m3u8?GrupoTopIpt
 #EXTINF:-1 tvg-logo="http://futbolhoy.com.ar/wp-content/uploads/2019/03/A24.png" group-title="03- ARGENTINA",A24 (4)
 
 
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/America-TV.png" group-title="03- ARGENTINA",America (UMMO)
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/America-TV.png" group-title="03- ARGENTINA",America (UMMO1)
 http://ummodigital.com:8000/live/jorge1/jorge1/16.ts
 
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/America-TV.png" group-title="03- ARGENTINA",America (UMMO)
-http://ummodigital.com:8000/live/jorge1/jorge1/17.ts
-
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/America-TV.png" group-title="03- ARGENTINA",America (UMMO)
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/America-TV.png" group-title="03- ARGENTINA",America (UMMO1)
 http://ummodigital.com:8000/live/jorge1/jorge1/18.ts
+
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/America-TV.png" group-title="03- ARGENTINA",America (UMMO2)
+http://ummodigital.com:2082/live/Orlando1/Orlando1/16.ts
+
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/America-TV.png" group-title="03- ARGENTINA",America (UMMO2)
+http://ummodigital.com:2082/live/Orlando1/Orlando1/18.ts
 
 #EXTINF:-1 tvg-logo="https://img3.androidappsapk.co/300/7/0/6/net.coninfo.admin.trecemaxtelevisin.png" group-title="03- ARGENTINA",13 Max
 http://coninfo.net:1935/13maxhd/live_720p/chunklist.m3u8?GrupoTopIptv
@@ -101,14 +104,17 @@ http://186.0.233.76:1935/Garage/garage.smil/playlist.m3u8?GrupoTopIptv
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/canal-9-m.jpg" group-title="03- ARGENTINA",El Nueve (4)
 
-#EXTINF:-1 tvg-logo="http://ipuntotv.com/IMAGES/ElTreceHD2012.jpg" group-title="03- ARGENTINA",El Trece (UMMO)
+#EXTINF:-1 tvg-logo="http://ipuntotv.com/IMAGES/ElTreceHD2012.jpg" group-title="03- ARGENTINA",El Trece (UMMO1)
 http://ummodigital.com:8000/live/jorge1/jorge1/13.ts
 
-#EXTINF:-1 tvg-logo="http://ipuntotv.com/IMAGES/ElTreceHD2012.jpg" group-title="03- ARGENTINA",El Trece (UMMO)
-http://ummodigital.com:8000/live/jorge1/jorge1/14.ts
-
-#EXTINF:-1 tvg-logo="http://ipuntotv.com/IMAGES/ElTreceHD2012.jpg" group-title="03- ARGENTINA",El Trece (UMMO)
+#EXTINF:-1 tvg-logo="http://ipuntotv.com/IMAGES/ElTreceHD2012.jpg" group-title="03- ARGENTINA",El Trece (UMMO1)
 http://ummodigital.com:8000/live/jorge1/jorge1/15.ts
+
+#EXTINF:-1 tvg-logo="http://ipuntotv.com/IMAGES/ElTreceHD2012.jpg" group-title="03- ARGENTINA",El Trece (UMMO2)
+http://ummodigital.com:2082/live/Orlando1/Orlando1/13.ts
+
+#EXTINF:-1 tvg-logo="http://ipuntotv.com/IMAGES/ElTreceHD2012.jpg" group-title="03- ARGENTINA",El Trece (UMMO2)
+http://ummodigital.com:2082/live/Orlando1/Orlando1/15.ts
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1171440347508920320/7pwThQbq_400x400.jpg" group-title="03- ARGENTINA",KZO (4)
 
@@ -128,14 +134,17 @@ http://unlimited2-us.dps.live/nettv/nettv.smil/playlist.m3u8?GrupoTopIptv
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/08/NETargentina.png/revision/latest?cb=20180702162652" group-title="03- ARGENTINA",Net TV (4)
 
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="03- ARGENTINA",Telefe (UMMO)
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="03- ARGENTINA",Telefe (UMMO1)
 http://ummodigital.com:8000/live/jorge1/jorge1/19.ts
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="03- ARGENTINA",Telefe (UMMO)
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="03- ARGENTINA",Telefe (UMMO1)
 http://ummodigital.com:8000/live/jorge1/jorge1/20.ts
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="03- ARGENTINA",Telefe (UMMO)
-http://ummodigital.com:8000/live/jorge1/jorge1/21.ts
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="03- ARGENTINA",Telefe (UMMO2)
+http://ummodigital.com:2082/live/Orlando1/Orlando1/19.ts
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="03- ARGENTINA",Telefe (UMMO2)
+http://ummodigital.com:2082/live/Orlando1/Orlando1/20.ts
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/506483696065449984/BATn-jAe.png" group-title="03- ARGENTINA",Telpin
 
@@ -143,8 +152,11 @@ http://ummodigital.com:8000/live/jorge1/jorge1/21.ts
 #EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/11/e455d-tlx.png" group-title="03- ARGENTINA",TLX
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?GrupoTopIptv
 
-#EXTINF:-1 tvg-logo="https://www.portalpublicitario.com/wp-content/uploads/2017/10/LogoTN.png" group-title="03- ARGENTINA",TN (UMMO)
+#EXTINF:-1 tvg-logo="https://www.portalpublicitario.com/wp-content/uploads/2017/10/LogoTN.png" group-title="03- ARGENTINA",TN (UMMO1)
 http://ummodigital.com:8000/live/jorge1/jorge1/22.ts
+
+#EXTINF:-1 tvg-logo="https://www.portalpublicitario.com/wp-content/uploads/2017/10/LogoTN.png" group-title="03- ARGENTINA",TN (UMMO2)
+http://ummodigital.com:2082/live/Orlando1/Orlando1/22.ts
 
 #EXTINF:-1 tvg-logo="http://www.partedelshow.com.ar/sites/default/files/imagecache/img_nodo/PUBLICA.jpg" group-title="03- ARGENTINA",Tv Publica (4)
 
@@ -403,8 +415,8 @@ https://stream.vagalume.fm/hls/14647977281792658143/aac.m3u8
 #######################################
 
 
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/24-Horas-Chile.png" group-title="06- CHILE",24 Horas (UMMO)
-http://ummodigital.com:8000/live/jorge1/jorge1/44.ts
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/24-Horas-Chile.png" group-title="06- CHILE",24 Horas
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m70PUPf.jpg" group-title="06- CHILE",Antofagasta TV
 http://unlimited1-us.dps.live/atv/atv.smil/atv/livestream2/chunks.m3u8?GrupoTopIptv
@@ -415,11 +427,11 @@ http://unlimited5-cl.dps.live/canal2/canal2.smil/playlist.m3u8?GrupoTopIptv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EAj2nzu.jpg" group-title="06- CHILE",Canal 11 Cabrero
 http://play.streaminghd.cl:80/claudio441/claudio441/playlist.m3u8?GrupoTopIptv
 
-#EXTINF:-1 tvg-logo="https://img2.freepng.es/20180525/ry/kisspng-canal-13-logo-chile-television-front-and-back-covers-5b07ff0f65b977.0616481915272507034167.jpg" group-title="06- CHILE",Canal 13 (UMMO)
-http://ummodigital.com:8000/live/jorge1/jorge1/45.ts
-
-#EXTINF:-1 tvg-logo="https://img2.freepng.es/20180525/ry/kisspng-canal-13-logo-chile-television-front-and-back-covers-5b07ff0f65b977.0616481915272507034167.jpg" group-title="06- CHILE",Canal 13 Int (UMMO)
+#EXTINF:-1 tvg-logo="https://img2.freepng.es/20180525/ry/kisspng-canal-13-logo-chile-television-front-and-back-covers-5b07ff0f65b977.0616481915272507034167.jpg" group-title="06- CHILE",Canal 13 Int (UMMO1)
 http://ummodigital.com:8000/live/jorge1/jorge1/46.ts
+
+#EXTINF:-1 tvg-logo="https://img2.freepng.es/20180525/ry/kisspng-canal-13-logo-chile-television-front-and-back-covers-5b07ff0f65b977.0616481915272507034167.jpg" group-title="06- CHILE",Canal 13 Int (UMMO2)
+http://ummodigital.com:2082/live/Orlando1/Orlando1/46.ts
 
 #EXTINF:-1 tvg-logo="http://www.canal21tv.cl/wp/wp-content/uploads/2017/06/Logo720-1.png" group-title="06- CHILE",Canal 21
 http://edge1.cl.grupoz.cl/canal21tv/live/playlist.m3u8?GrupoTopIptv
@@ -430,8 +442,11 @@ http://edge1.cl.grupoz.cl/canal21tv/live/playlist.m3u8?GrupoTopIptv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/S0OCpjV.png" group-title="06- CHILE",Cachipum
 http://edge1.cl.grupoz.cl/cachipuntv/live/playlist.m3u8?GrupoTopIptv
 
-#EXTINF:-1 tvg-logo="https://elfiltrador.com/wp-content/uploads/2018/10/foto_0000001320180216144941.png" group-title="06- CHILE",Chilevision (UMMO)
+#EXTINF:-1 tvg-logo="https://elfiltrador.com/wp-content/uploads/2018/10/foto_0000001320180216144941.png" group-title="06- CHILE",Chilevision (UMMO1)
 http://ummodigital.com:8000/live/jorge1/jorge1/47.ts
+
+#EXTINF:-1 tvg-logo="https://elfiltrador.com/wp-content/uploads/2018/10/foto_0000001320180216144941.png" group-title="06- CHILE",Chilevision (UMMO2)
+http://ummodigital.com:2082/live/Orlando1/Orlando1/47.ts
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/VhOolgs.png" group-title="06- CHILE",El Pingüino
 http://streaming.elpinguino.com:1935/live/pinguinotv_720p/hasbahca.m3u8?GrupoTopIptv
@@ -445,26 +460,38 @@ http://unlimited5-cl.dps.live/holvoettv/holvoettv.smil/playlist.m3u8?GrupoTopIpt
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9sKGsmt.png" group-title="06- CHILE",ITV
 http://unlimited1-us.dps.live/itv/itv.smil/itv/livestream1/chunks.m3u8?GrupoTopIptv
 
-#EXTINF:-1 tvg-logo="https://blogvecindad.com/wp-content/uploads/2015/11/Mega_Chile_Alternate_Logo.png" group-title="06- CHILE",Mega (UMMO)
+#EXTINF:-1 tvg-logo="https://blogvecindad.com/wp-content/uploads/2015/11/Mega_Chile_Alternate_Logo.png" group-title="06- CHILE",Mega (UMMO1)
 http://ummodigital.com:8000/live/jorge1/jorge1/43.ts
+
+#EXTINF:-1 tvg-logo="https://blogvecindad.com/wp-content/uploads/2015/11/Mega_Chile_Alternate_Logo.png" group-title="06- CHILE",Mega (UMMO2)
+http://ummodigital.com:2082/live/Orlando1/Orlando1/43.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/umdJ2mP.jpg" group-title="06- CHILE",Portalfoxmix
 http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8?GrupoTopIptv
 
-#EXTINF:-1 tvg-logo="https://img8.androidappsapk.co/300/8/b/3/com.trece.t13.png" group-title="06- CHILE",T13
+#EXTINF:-1 tvg-logo="https://img8.androidappsapk.co/300/8/b/3/com.trece.t13.png" group-title="06- CHILE",T13 SD
 http://c13-ply.janus.cl/playlist/stream.m3u8?s=c13hd?GrupoTopIptv
 
-#EXTINF:-1 tvg-logo="https://img8.androidappsapk.co/300/8/b/3/com.trece.t13.png" group-title="06- CHILE",T13 (UMMO)
+#EXTINF:-1 tvg-logo="https://img8.androidappsapk.co/300/8/b/3/com.trece.t13.png" group-title="06- CHILE",T13 (UMMO1)
 http://ummodigital.com:8000/live/jorge1/jorge1/51.ts
+
+#EXTINF:-1 tvg-logo="https://img8.androidappsapk.co/300/8/b/3/com.trece.t13.png" group-title="06- CHILE",T13 (UMMO2)
+http://ummodigital.com:2082/live/Orlando1/Orlando1/51.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6J8xRah.png" group-title="06- CHILE",Teletrak
 http://unlimited1-us.dps.live/teletrak/teletrak.smil/teletrak/livestream1/chunks.m3u8?GrupoTopIptv
 
-#EXTINF:-1 tvg-logo="https://grandesmarcas.cl/wp-content/uploads/2016/06/logo-TVN-1.jpg" group-title="06- CHILE",TVN (UMMO)
+#EXTINF:-1 tvg-logo="https://grandesmarcas.cl/wp-content/uploads/2016/06/logo-TVN-1.jpg" group-title="06- CHILE",TVN (UMMO1)
 http://ummodigital.com:8000/live/jorge1/jorge1/41.ts
 
-#EXTINF:-1 tvg-logo="https://grandesmarcas.cl/wp-content/uploads/2016/06/logo-TVN-1.jpg" group-title="06- CHILE",TVN Int (UMMO)
+#EXTINF:-1 tvg-logo="https://grandesmarcas.cl/wp-content/uploads/2016/06/logo-TVN-1.jpg" group-title="06- CHILE",TVN (UMMO2)
+http://ummodigital.com:2082/live/Orlando1/Orlando1/41.ts
+
+#EXTINF:-1 tvg-logo="https://grandesmarcas.cl/wp-content/uploads/2016/06/logo-TVN-1.jpg" group-title="06- CHILE",TVN Int (UMMO1)
 http://ummodigital.com:8000/live/jorge1/jorge1/42.ts
+
+#EXTINF:-1 tvg-logo="https://grandesmarcas.cl/wp-content/uploads/2016/06/logo-TVN-1.jpg" group-title="06- CHILE",TVN Int (UMMO2)
+http://ummodigital.com:2082/live/Orlando1/Orlando1/42.ts
 
 #EXTINF:-1 tvg-logo="https://www.tvr.cl/wp-content/uploads/2018/10/cropped-logo-tvr-3.png" group-title="06- CHILE",TVR
 https://unlimited4-cl.dps.live/tvr/tvr.smil/playlist.m3u8?GrupoTopIptv
@@ -484,53 +511,80 @@ http://cl.origin.grupoz.cl:1935/uestv/live/playlist.m3u8?GrupoTopIptv
 https://stream.vagalume.fm/hls/147015501223418/aac.m3u8
 #######################################
 
-#EXTINF:-1 tvg-logo="https://colombia.mom-rsf.org/typo3temp/_processed_/4/c/csm_515-941_import_1f4f07e98e.png" group-title="07- COLOMBIA",Cable Noticias (UMMO)
+#EXTINF:-1 tvg-logo="https://colombia.mom-rsf.org/typo3temp/_processed_/4/c/csm_515-941_import_1f4f07e98e.png" group-title="07- COLOMBIA",Cable Noticias (UMMO1)
 http://ummodigital.com:8000/live/jorge1/jorge1/601.ts
 
-#EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/11/4265b-ca-2014.png" group-title="07- COLOMBIA",Canal Antiestres (UMMO)
+#EXTINF:-1 tvg-logo="https://colombia.mom-rsf.org/typo3temp/_processed_/4/c/csm_515-941_import_1f4f07e98e.png" group-title="07- COLOMBIA",Cable Noticias (UMMO2)
+http://ummodigital.com:2082/live/Orlando1/Orlando1/601.ts
+
+#EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/11/4265b-ca-2014.png" group-title="07- COLOMBIA",Canal Antiestres (UMMO1)
 http://ummodigital.com:8000/live/jorge1/jorge1/602.ts
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/baba9ccb-80f7-4647-9026-8032a29d324f_m.jpg" group-title="07- COLOMBIA",Canal Institucional (UMMO)
+#EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/11/4265b-ca-2014.png" group-title="07- COLOMBIA",Canal Antiestres (UMMO2)
+http://ummodigital.com:2082/live/Orlando1/Orlando1/602.ts
+
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/rtvc-assets-canalinstitucional.tv/s3fs-public/logo300.png" group-title="07- COLOMBIA",Canal Institucional (UMMO1)
 http://ummodigital.com:8000/live/jorge1/jorge1/603.ts
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_tro_m.png" group-title="07- COLOMBIA",Canal Tro (UMMO)
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/rtvc-assets-canalinstitucional.tv/s3fs-public/logo300.png" group-title="07- COLOMBIA",Canal Institucional (UMMO2)
+http://ummodigital.com:2082/live/Orlando1/Orlando1/603.ts
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_tro_m.png" group-title="07- COLOMBIA",Canal Tro (UMMO1)
 http://ummodigital.com:8000/live/jorge1/jorge1/604.ts
 
-#EXTINF:-1 tvg-logo="https://www.ecured.cu/images/thumb/7/73/Canal1Col2017.png/260px-Canal1Col2017.png" group-title="07- COLOMBIA",Canal Uno (UMMO)
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_tro_m.png" group-title="07- COLOMBIA",Canal Tro (UMMO2)
+http://ummodigital.com:2082/live/Orlando1/Orlando1/604.ts
+
+#EXTINF:-1 tvg-logo="https://www.ecured.cu/images/thumb/7/73/Canal1Col2017.png/260px-Canal1Col2017.png" group-title="07- COLOMBIA",Canal Uno (UMMO1)
 http://ummodigital.com:8000/live/jorge1/jorge1/592.ts
 
-#EXTINF:-1 tvg-logo="https://www.ecured.cu/images/thumb/7/73/Canal1Col2017.png/260px-Canal1Col2017.png" group-title="07- COLOMBIA",Canal Uno (UMMO)
-http://ummodigital.com:8000/live/jorge1/jorge1/593.ts
+#EXTINF:-1 tvg-logo="https://www.ecured.cu/images/thumb/7/73/Canal1Col2017.png/260px-Canal1Col2017.png" group-title="07- COLOMBIA",Canal Uno (UMMO2)
+http://ummodigital.com:2082/live/Orlando1/Orlando1/592.ts
 
-#EXTINF:-1 tvg-logo="https://www.ecured.cu/images/thumb/7/73/Canal1Col2017.png/260px-Canal1Col2017.png" group-title="07- COLOMBIA",Canal Uno (UMMO)
-http://ummodigital.com:8000/live/jorge1/jorge1/594.ts
-
-#EXTINF:-1 tvg-logo="http://danielpalaciosmartinez.com/wp-content/uploads/5lII2Wbl_400x400.jpg" group-title="07- COLOMBIA",Caracol (UMMO)
+#EXTINF:-1 tvg-logo="http://danielpalaciosmartinez.com/wp-content/uploads/5lII2Wbl_400x400.jpg" group-title="07- COLOMBIA",Caracol (UMMO1)
 http://ummodigital.com:8000/live/jorge1/jorge1/1.ts
 
-#EXTINF:-1 tvg-logo="http://danielpalaciosmartinez.com/wp-content/uploads/5lII2Wbl_400x400.jpg" group-title="07- COLOMBIA",Caracol (UMMO)
+#EXTINF:-1 tvg-logo="http://danielpalaciosmartinez.com/wp-content/uploads/5lII2Wbl_400x400.jpg" group-title="07- COLOMBIA",Caracol (UMMO1)
 http://ummodigital.com:8000/live/jorge1/jorge1/2.ts
 
-#EXTINF:-1 tvg-logo="http://danielpalaciosmartinez.com/wp-content/uploads/5lII2Wbl_400x400.jpg" group-title="07- COLOMBIA",Caracol (UMMO)
-http://ummodigital.com:8000/live/jorge1/jorge1/3.ts
+#EXTINF:-1 tvg-logo="http://danielpalaciosmartinez.com/wp-content/uploads/5lII2Wbl_400x400.jpg" group-title="07- COLOMBIA",Caracol (UMMO2)
+http://ummodigital.com:2082/live/Orlando1/Orlando1/1.ts
+
+#EXTINF:-1 tvg-logo="http://danielpalaciosmartinez.com/wp-content/uploads/5lII2Wbl_400x400.jpg" group-title="07- COLOMBIA",Caracol (UMMO2)
+http://ummodigital.com:2082/live/Orlando1/Orlando1/2.ts
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/386408609/cnc2_400x400.png" group-title="07- COLOMBIA",CNC 
 http://66.240.236.25:1936/canalcnc/canalcnc/chunklist.m3u8?GrupoTopIptv
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/gt_citytv_m.png" group-title="07- COLOMBIA",City Tv (UMMO)
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/gt_citytv_m.png" group-title="07- COLOMBIA",City Tv (UMMO1)
 http://ummodigital.com:8000/live/jorge1/jorge1/605.ts
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_cosmovision_m.png" group-title="07- COLOMBIA",Cosmovision (UMMO)
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/gt_citytv_m.png" group-title="07- COLOMBIA",City Tv (UMMO2)
+http://ummodigital.com:2082/live/Orlando1/Orlando1/605.ts
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_cosmovision_m.png" group-title="07- COLOMBIA",Cosmovision (UMMO1)
 http://ummodigital.com:8000/live/jorge1/jorge1/606.ts
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_cosmovision_m.png" group-title="07- COLOMBIA",Cosmovision (UMMO2)
+http://ummodigital.com:2082/live/Orlando1/Orlando1/606.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/phHdw4Y.png" group-title="07- COLOMBIA",CTV Barranquilla
 http://wmoy8w6ky2a7-hls-live.5centscdn.com/ctvbaq/live/tracks-v1a1/mono.m3u8?GrupoTopIptv
 
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/El-Tiempo-Televisi%C3%B3n.png" group-title="07- COLOMBIA",El Tiempo (UMMO)
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/El-Tiempo-Televisi%C3%B3n.png" group-title="07- COLOMBIA",El Tiempo (UMMO1)
 http://ummodigital.com:8000/live/jorge1/jorge1/607.ts
+
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/El-Tiempo-Televisi%C3%B3n.png" group-title="07- COLOMBIA",El Tiempo (UMMO2)
+http://ummodigital.com:2082/live/Orlando1/Orlando1/607.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CREs19T.png" group-title="07- COLOMBIA",Mundo Mas
 http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8?GrupoTopIptv
+
+#EXTINF:-1 tvg-logo="https://www.directv.com/images/logos/channels/dark/large/914.png" group-title="07- COLOMBIA",NTN24 (UMMO1)
+http://ummodigital.com:8000/live/jorge1/jorge1/610.ts
+
+#EXTINF:-1 tvg-logo="https://www.directv.com/images/logos/channels/dark/large/914.png" group-title="07- COLOMBIA",NTN24 (UMMO2)
+http://ummodigital.com:2082/live/Orlando1/Orlando1/610.ts
 
 #EXTINF:-1 tvg-logo="https://images.zetatv.com.uy/getimageurl/800x1200/center/zpapi.zetatv.com.uy/media/images/pasiones_XBS7OEf.png" group-title="07- COLOMBIA",Pasiones 
 
@@ -538,38 +592,47 @@ http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8?GrupoTopIptv
 #EXTINF:-1 tvg-logo="http://www.ranchenatotv.co/wp-content/uploads/2018/10/500PX.png" group-title="07- COLOMBIA",Ranchenato
 http://66.240.236.25:1936/ranchenato/ranchenato/playlist.m3u8?GrupoTopIptv
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/281e2a_0961b75b14424e788e73ad827bb4561d~mv2.jpg" group-title="07- COLOMBIA",Red + (UMMO)
-http://ummodigital.com:8000/live/jorge1/jorge1/611.ts
-
-#EXTINF:-1 tvg-logo="http://html.canalrcn.com/CanalRCN/react/images/RCN-RCNTELEVISION-logo21.png" group-title="07- COLOMBIA",RCN (UMMO)
+#EXTINF:-1 tvg-logo="http://html.canalrcn.com/CanalRCN/react/images/RCN-RCNTELEVISION-logo21.png" group-title="07- COLOMBIA",RCN (UMMO1)
 http://ummodigital.com:8000/live/jorge1/jorge1/7.ts
 
-#EXTINF:-1 tvg-logo="http://html.canalrcn.com/CanalRCN/react/images/RCN-RCNTELEVISION-logo21.png" group-title="07- COLOMBIA",RCN (UMMO)
+#EXTINF:-1 tvg-logo="http://html.canalrcn.com/CanalRCN/react/images/RCN-RCNTELEVISION-logo21.png" group-title="07- COLOMBIA",RCN (UMMO1)
 http://ummodigital.com:8000/live/jorge1/jorge1/8.ts
 
-#EXTINF:-1 tvg-logo="http://html.canalrcn.com/CanalRCN/react/images/RCN-RCNTELEVISION-logo21.png" group-title="07- COLOMBIA",RCN (UMMO)
-http://ummodigital.com:8000/live/jorge1/jorge1/9.ts
+#EXTINF:-1 tvg-logo="http://html.canalrcn.com/CanalRCN/react/images/RCN-RCNTELEVISION-logo21.png" group-title="07- COLOMBIA",RCN (UMMO2)
+http://ummodigital.com:2082/live/Orlando1/Orlando1/7.ts
 
-#EXTINF:-1 tvg-logo="http://html.canalrcn.com/CanalRCN/react/images/RCN-RCNTELEVISION-logo21.png" group-title="07- COLOMBIA",RCN Int (UMMO)
-http://ummodigital.com:8000/live/jorge1/jorge1/608.ts
+#EXTINF:-1 tvg-logo="http://html.canalrcn.com/CanalRCN/react/images/RCN-RCNTELEVISION-logo21.png" group-title="07- COLOMBIA",RCN (UMMO2)
+http://ummodigital.com:2082/live/Orlando1/Orlando1/8.ts
 
-#EXTINF:-1 tvg-logo="http://danielpalaciosmartinez.com/wp-content/uploads/logonoticias.jpg" group-title="07- COLOMBIA",RCN Noticias (UMMO)
-http://ummodigital.com:8000/live/jorge1/jorge1/610.ts
-
-#EXTINF:-1 tvg-logo="http://217.182.175.40/logo/Pzh1qyZs.png" group-title="07- COLOMBIA",RCN Novelas (UMMO)
+#EXTINF:-1 tvg-logo="http://217.182.175.40/logo/Pzh1qyZs.png" group-title="07- COLOMBIA",RCN Novelas (UMMO1)
 http://ummodigital.com:8000/live/jorge1/jorge1/609.ts
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/e53834ab-c4ff-4b88-8845-bf89f4552332_m.jpg" group-title="07- COLOMBIA",Señal Colombia (UMMO)
+#EXTINF:-1 tvg-logo="http://217.182.175.40/logo/Pzh1qyZs.png" group-title="07- COLOMBIA",RCN Novelas (UMMO2)
+http://ummodigital.com:2082/live/Orlando1/Orlando1/609.ts
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/281e2a_0961b75b14424e788e73ad827bb4561d~mv2.jpg" group-title="07- COLOMBIA",Red + (UMMO1)
+http://ummodigital.com:8000/live/jorge1/jorge1/611.ts
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/281e2a_0961b75b14424e788e73ad827bb4561d~mv2.jpg" group-title="07- COLOMBIA",Red + (UMMO2)
+http://ummodigital.com:2082/live/Orlando1/Orlando1/611.ts
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/e53834ab-c4ff-4b88-8845-bf89f4552332_m.jpg" group-title="07- COLOMBIA",Señal Colombia (UMMO1)
 http://ummodigital.com:8000/live/jorge1/jorge1/595.ts
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/e53834ab-c4ff-4b88-8845-bf89f4552332_m.jpg" group-title="07- COLOMBIA",Señal Colombia (UMMO)
-http://ummodigital.com:8000/live/jorge1/jorge1/596.ts
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/e53834ab-c4ff-4b88-8845-bf89f4552332_m.jpg" group-title="07- COLOMBIA",Señal Colombia (UMMO2)
+http://ummodigital.com:2082/live/Orlando1/Orlando1/595.ts
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eoxHmyO.jpg" group-title="07- COLOMBIA",Teleantioquia (UMMO)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eoxHmyO.jpg" group-title="07- COLOMBIA",Teleantioquia (UMMO1)
 http://ummodigital.com:8000/live/jorge1/jorge1/599.ts
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/r4wZZb4.jpg" group-title="07- COLOMBIA",Telecafe (UMMO)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eoxHmyO.jpg" group-title="07- COLOMBIA",Teleantioquia (UMMO2)
+http://ummodigital.com:2082/live/Orlando1/Orlando1/599.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r4wZZb4.jpg" group-title="07- COLOMBIA",Telecafe (UMMO1)
 http://ummodigital.com:8000/live/jorge1/jorge1/600.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r4wZZb4.jpg" group-title="07- COLOMBIA",Telecafe (UMMO2)
+http://ummodigital.com:2082/live/Orlando1/Orlando1/600.ts
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/telecaribe.png" group-title="07- COLOMBIA",Telecaribe
 http://telecaribe-hd.gcdn.anvato.net/hls/live/telecaribehd/2196k/index.m3u8?GrupoTopIptv
@@ -577,20 +640,29 @@ http://telecaribe-hd.gcdn.anvato.net/hls/live/telecaribehd/2196k/index.m3u8?Grup
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/telecaribe.png" group-title="07- COLOMBIA",Telecaribe
 http://telecaribe-deportes.gcdn.anvato.net/hls/live/telecaribedeporteshd2/2196k/index.m3u8?GrupoTopIptv
 
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/telecaribe.png" group-title="07- COLOMBIA",Telecaribe (UMMO)
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/telecaribe.png" group-title="07- COLOMBIA",Telecaribe (UMMO1)
 http://ummodigital.com:8000/live/jorge1/jorge1/597.ts
+
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/telecaribe.png" group-title="07- COLOMBIA",Telecaribe (UMMO2)
+http://ummodigital.com:2082/live/Orlando1/Orlando1/597.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4xNgb8H.png" group-title="07- COLOMBIA",Teleislas
 http://vbox2.cehis.net/live-teleislas/smil:teleislas.smil/playlist.m3u8?GrupoTopIptv
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/29DQNPy.png" group-title="07- COLOMBIA",Tele Medellin (UMMO)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/29DQNPy.png" group-title="07- COLOMBIA",TeleMedellin (UMMO1)
 http://ummodigital.com:8000/live/jorge1/jorge1/612.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/29DQNPy.png" group-title="07- COLOMBIA",TeleMedellin (UMMO2)
+http://ummodigital.com:2082/live/Orlando1/Orlando1/612.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h7osX79.png" group-title="07- COLOMBIA",Telepacifico
 http://cdn.logicideas.media/telepacifico-live/smil:live.smil/chunklist_b4500000.m3u8?GrupoTopIptv
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h7osX79.png" group-title="07- COLOMBIA",Telepacifico (UMMO)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h7osX79.png" group-title="07- COLOMBIA",Telepacifico (UMMO1)
 http://ummodigital.com:8000/live/jorge1/jorge1/598.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h7osX79.png" group-title="07- COLOMBIA",Telepacifico (UMMO2)
+http://ummodigital.com:2082/live/Orlando1/Orlando1/598.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eg47wmv.jpg" group-title="07- COLOMBIA",Televid
 
@@ -601,8 +673,11 @@ http://cdn.logicideas.media/canaltrece-live/smil:canal13.smil/playlist.m3u8?Grup
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ndR9t9o.jpg" group-title="07- COLOMBIA",Trece
 http://cdn.logicideas.media/canaltrece-live/smil:canal13.smil/chunklist_b4500000.m3u8?GrupoTopIptv
 
-#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/co-tv-agro.jpg" group-title="07- COLOMBIA",Tv Agro (UMMO)
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/co-tv-agro.jpg" group-title="07- COLOMBIA",Tv Agro (UMMO1)
 http://ummodigital.com:8000/live/jorge1/jorge1/613.ts
+
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/co-tv-agro.jpg" group-title="07- COLOMBIA",Tv Agro (UMMO2)
+http://ummodigital.com:2082/live/Orlando1/Orlando1/613.ts
 
 #####################################################################################################################################
 ####################################### COSTA RICA
@@ -640,11 +715,14 @@ http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8?GrupoTopIptv
 https://stream.vagalume.fm/hls/146411300413492499/aac.m3u8
 #######################################
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ATPWac1.jpg" group-title="10- ECUADOR",Canal 7 Ecuador TV (UMMO)
-http://ummodigital.com:8000/live/jorge1/jorge1/619.ts
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LckvbDi.png" group-title="10- ECUADOR",Ecotel TV
 http://192.99.56.185/ecotel/live.m3u8?GrupoTopIptv
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ATPWac1.jpg" group-title="10- ECUADOR",Ecuador TV (UMMO1)
+http://ummodigital.com:8000/live/jorge1/jorge1/619.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ATPWac1.jpg" group-title="10- ECUADOR",Ecuador TV (UMMO2)
+http://ummodigital.com:2082/live/Orlando1/Orlando1/619.ts
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/ecuavisa.png" group-title="10- ECUADOR",Ecuavisa (4)
 
@@ -655,11 +733,17 @@ http://37.187.7.106/hechostv/live.m3u8?GrupoTopIptv
 #EXTINF:-1 tvg-logo="http://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="10- ECUADOR",Oromar TV 
 http://videos.oromartv.com:8082/hls/oromartv_hi/index.m3u8?GrupoTopIptv
 
-#EXTINF:-1 tvg-logo="https://historiadelatvecuatoriana.files.wordpress.com/2015/07/tc.jpg" group-title="10- ECUADOR",TC Ecuador (UMMO)
+#EXTINF:-1 tvg-logo="https://historiadelatvecuatoriana.files.wordpress.com/2015/07/tc.jpg" group-title="10- ECUADOR",TC Ecuador (UMMO1)
 http://ummodigital.com:8000/live/jorge1/jorge1/623.ts
 
-#EXTINF:-1 tvg-logo="http://televisionecuatoriana.tv/wp-content/uploads/2018/11/cropped-LOGO-NORMAL-ESPANO-tegido-colores-solidosL-01-1-e1542291082262.png" group-title="10- ECUADOR",Television Ecuatoriana (UMMO)
+#EXTINF:-1 tvg-logo="https://historiadelatvecuatoriana.files.wordpress.com/2015/07/tc.jpg" group-title="10- ECUADOR",TC Ecuador (UMMO2)
+http://ummodigital.com:2082/live/Orlando1/Orlando1/623.ts
+
+#EXTINF:-1 tvg-logo="http://televisionecuatoriana.tv/wp-content/uploads/2018/11/cropped-LOGO-NORMAL-ESPANO-tegido-colores-solidosL-01-1-e1542291082262.png" group-title="10- ECUADOR",Tv Ecuatoriana (UMMO1)
 http://ummodigital.com:8000/live/jorge1/jorge1/624.ts
+
+#EXTINF:-1 tvg-logo="http://televisionecuatoriana.tv/wp-content/uploads/2018/11/cropped-LOGO-NORMAL-ESPANO-tegido-colores-solidosL-01-1-e1542291082262.png" group-title="10- ECUADOR",Tv Ecuatoriana (UMMO2)
+http://ummodigital.com:2082/live/Orlando1/Orlando1/624.ts
 
 #EXTINF:-1 tvg-logo="https://www15.ucsg.edu.ec/biblioteca/buscadorOPAC/images/LOGO.png" group-title="10- ECUADOR",UCSG
 http://ecuastream.net:1935/UCSGHQ/UCSGHQ/playlist.m3u8?GrupoTopIptv
@@ -823,11 +907,11 @@ http://174.138.118.252/live/canal13stream_src.m3u8?GrupoTopIptv
 https://stream.vagalume.fm/hls/1507663468882713/aac.m3u8
 #######################################
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_america-television_m.png" group-title="17- PERU",America tv (UMMO)
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_america-television_m.png" group-title="17- PERU",America tv (UMMO1)
 http://ummodigital.com:8000/live/jorge1/jorge1/63.ts
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_america-television_m.png" group-title="17- PERU",America tv (UMMO)
-http://ummodigital.com:8000/live/jorge1/jorge1/64.ts
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_america-television_m.png" group-title="17- PERU",America tv (UMMO2)
+http://ummodigital.com:2082/live/Orlando1/Orlando1/63.ts
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_america-television_m.png" group-title="17- PERU",America tv SD
 http://ecdn-mediastream.cdn.mdstrm.com/live-stream-secure/5c51e67df4d3c6698b02bbee/publish/media_2500.m3u8?GrupoTopIptv
@@ -835,11 +919,17 @@ http://ecdn-mediastream.cdn.mdstrm.com/live-stream-secure/5c51e67df4d3c6698b02bb
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7I13BUc.png" group-title="17- PERU",Antares
 http://173.192.105.252:1935/iptvantares/liveantarestv/playlist.m3u8?GrupoTopIptv
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/atv-peru-logo-5506CAAD40-seeklogo.com.png" group-title="17- PERU",Atv (UMMO)
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/atv-peru-logo-5506CAAD40-seeklogo.com.png" group-title="17- PERU",Atv (UMMO1)
 http://ummodigital.com:8000/live/jorge1/jorge1/616.ts
 
-#EXTINF:-1 tvg-logo="https://peru.mom-rsf.org/typo3temp/_processed_/4/7/csm_2013-205_import_95c305c25d.png" group-title="17- PERU",Atv Noticias (UMMO)
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/atv-peru-logo-5506CAAD40-seeklogo.com.png" group-title="17- PERU",Atv (UMMO2)
+http://ummodigital.com:2082/live/Orlando1/Orlando1/616.ts
+
+#EXTINF:-1 tvg-logo="https://peru.mom-rsf.org/typo3temp/_processed_/4/7/csm_2013-205_import_95c305c25d.png" group-title="17- PERU",Atv Noticias (UMMO1)
 http://ummodigital.com:8000/live/jorge1/jorge1/615.ts
+
+#EXTINF:-1 tvg-logo="https://peru.mom-rsf.org/typo3temp/_processed_/4/7/csm_2013-205_import_95c305c25d.png" group-title="17- PERU",Atv Noticias (UMMO2)
+http://ummodigital.com:2082/live/Orlando1/Orlando1/615.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7hP4nps.png" group-title="17- PERU",BHtv
 http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/.m3u8?GrupoTopIptv
@@ -856,23 +946,20 @@ http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8?GrupoTopIptv
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/565018162916114432/7h5k-iqC_400x400.png" group-title="17- PERU",JN19
 http://movil.mediastream.pe/vv_manosdios/livestream/playlist.m3u8?GrupoTopIptv
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_frecuencia-latina_m.png" group-title="17- PERU",Latina (UMMO)
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_frecuencia-latina_m.png" group-title="17- PERU",Latina (UMMO1)
 http://ummodigital.com:8000/live/jorge1/jorge1/61.ts
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_frecuencia-latina_m.png" group-title="17- PERU",Latina (UMMO)
-http://ummodigital.com:8000/live/jorge1/jorge1/62.ts
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_frecuencia-latina_m.png" group-title="17- PERU",Latina (UMMO)
-http://ummodigital.com:8000/live/jorge1/jorge1/67.ts
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_frecuencia-latina_m.png" group-title="17- PERU",Latina (UMMO2)
+http://ummodigital.com:2082/live/Orlando1/Orlando1/61.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="17- PERU",Panamericana TV
 http://cdnhd.iblups.com/hls/ptv2.m3u8?GrupoTopIptv
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="17- PERU",Panamericana TV (UMMO)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="17- PERU",Panamericana TV (UMMO1)
 http://ummodigital.com:8000/live/jorge1/jorge1/65.ts
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="17- PERU",Panamericana TV (UMMO)
-http://ummodigital.com:8000/live/jorge1/jorge1/66.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="17- PERU",Panamericana TV (UMMO2)
+http://ummodigital.com:2082/live/Orlando1/Orlando1/65.ts
 
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-zONwKyIGEe8/US6GONLKNMI/AAAAAAAAH50/PXQ17OgMMAg/s1600/paxtv.png" group-title="17- PERU",Pax TV
 http://d2fxrfbiedz1tm.cloudfront.net/livepaxtv/smil:PC.smil/playlist.m3u8?GrupoTopIptv
@@ -886,8 +973,11 @@ http://d2fxrfbiedz1tm.cloudfront.net/livepaxtv/smil:PC.smil/playlist.m3u8?GrupoT
 #EXTINF:-1 tvg-logo="https://www.neourbe.pe/wp-content/uploads/2019/02/tv-noticias.png" group-title="17- PERU",TV Noticias 7.3
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIPE0002&mode=12?GrupoTopIptv
 
-#EXTINF:-1 tvg-logo="https://www.neourbe.pe/wp-content/uploads/2019/02/tv-noticias.png" group-title="17- PERU",TV Noticias 7.3 (UMMO)
+#EXTINF:-1 tvg-logo="https://www.neourbe.pe/wp-content/uploads/2019/02/tv-noticias.png" group-title="17- PERU",TV Noticias 7.3 (UMMO1)
 http://ummodigital.com:8000/live/jorge1/jorge1/618.ts
+
+#EXTINF:-1 tvg-logo="https://www.neourbe.pe/wp-content/uploads/2019/02/tv-noticias.png" group-title="17- PERU",TV Noticias 7.3 (UMMO2)
+http://ummodigital.com:2082/live/Orlando1/Orlando1/618.ts
 
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-Mcc2xCpSKWQ/UF6PxaiQZYI/AAAAAAAACQU/BLm5ZUhxzfs/s1600/LOGOTVPERU.jpg" group-title="17- PERU",TV Perú HD
 http://cdnh15.iblups.com/hls/R9WtilpKKB.m3u8?GrupoTopIptv
@@ -895,8 +985,11 @@ http://cdnh15.iblups.com/hls/R9WtilpKKB.m3u8?GrupoTopIptv
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-Mcc2xCpSKWQ/UF6PxaiQZYI/AAAAAAAACQU/BLm5ZUhxzfs/s1600/LOGOTVPERU.jpg" group-title="17- PERU",TV Perú SD
 http://cdnh4.iblups.com/hls/irtp.m3u8?GrupoTopIptv
 
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-Mcc2xCpSKWQ/UF6PxaiQZYI/AAAAAAAACQU/BLm5ZUhxzfs/s1600/LOGOTVPERU.jpg" group-title="17- PERU",TV Perú (UMMO)
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-Mcc2xCpSKWQ/UF6PxaiQZYI/AAAAAAAACQU/BLm5ZUhxzfs/s1600/LOGOTVPERU.jpg" group-title="17- PERU",TV Perú (UMMO1)
 http://ummodigital.com:8000/live/jorge1/jorge1/617.ts
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-Mcc2xCpSKWQ/UF6PxaiQZYI/AAAAAAAACQU/BLm5ZUhxzfs/s1600/LOGOTVPERU.jpg" group-title="17- PERU",TV Perú (UMMO2)
+http://ummodigital.com:2082/live/Orlando1/Orlando1/617.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PjzOrx7.png" group-title="17- PERU",Vision Noticias
 http://v8.ciclano.io:1935/visionnoticias/_definst_/visionnoticias/playlist.m3u8?GrupoTopIptv
@@ -1054,8 +1147,11 @@ http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/413.ts
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1107997180311281665/c72fyy_F_400x400.png" group-title="20- URUGUAY",Montecarlo (4*)
 http://158.69.228.135:8000/live/sNlMZixCFU/t0eTiJm4JD/413.ts
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1107997180311281665/c72fyy_F_400x400.png" group-title="20- URUGUAY",Montecarlo (UMMO)
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1107997180311281665/c72fyy_F_400x400.png" group-title="20- URUGUAY",Montecarlo (UMMO1)
 http://ummodigital.com:8000/live/jorge1/jorge1/54.ts
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1107997180311281665/c72fyy_F_400x400.png" group-title="20- URUGUAY",Montecarlo (UMMO2)
+http://ummodigital.com:2082/live/Orlando1/Orlando1/54.ts
 
 #EXTINF:-1 tvg-logo="http://www.canalm.tv/plantillas/temas/canalm/imagenes/canalm.png" group-title="20- URUGUAY",Montevideo Portal
 http://wowza.montevideo.com.uy:1936/live/_definst_/mvdstrem/chunklist.m3u8?GrupoTopIptv
@@ -1069,8 +1165,11 @@ http://158.69.228.135:8000/live/sNlMZixCFU/t0eTiJm4JD/8969.ts
 #EXTINF:-1 tvg-logo="https://media.tvalacarta.info/canales/256x256/canal10.png" group-title="20- URUGUAY",Saeta Canal 10 (5)
 http://infinity.ddns.me:25461/live/cesar.vera85/zbO9UOGgl7/14080.ts
 
-#EXTINF:-1 tvg-logo="https://media.tvalacarta.info/canales/256x256/canal10.png" group-title="20- URUGUAY",Saeta Canal 10 (UMMO)
+#EXTINF:-1 tvg-logo="https://media.tvalacarta.info/canales/256x256/canal10.png" group-title="20- URUGUAY",Saeta Canal 10 (UMMO1)
 http://ummodigital.com:8000/live/jorge1/jorge1/52.ts
+
+#EXTINF:-1 tvg-logo="https://media.tvalacarta.info/canales/256x256/canal10.png" group-title="20- URUGUAY",Saeta Canal 10 (UMMO2)
+http://ummodigital.com:2082/live/Orlando1/Orlando1/52.ts
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1136710475868229633/p2S0PMG8_400x400.jpg" group-title="20- URUGUAY",Teledoce (4)
 http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/9558.ts
@@ -1078,11 +1177,17 @@ http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/9558.ts
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1136710475868229633/p2S0PMG8_400x400.jpg" group-title="20- URUGUAY",Teledoce (4*)
 http://158.69.228.135:8000/live/sNlMZixCFU/t0eTiJm4JD/9558.ts
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1136710475868229633/p2S0PMG8_400x400.jpg" group-title="20- URUGUAY",Teledoce (UMMO)
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1136710475868229633/p2S0PMG8_400x400.jpg" group-title="20- URUGUAY",Teledoce (UMMO1)
 http://ummodigital.com:8000/live/jorge1/jorge1/53.ts
 
-#EXTINF:-1 tvg-logo="http://www.tnu.com.uy/image/1024x1024.png" group-title="20- URUGUAY",TNU (UMMO)
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1136710475868229633/p2S0PMG8_400x400.jpg" group-title="20- URUGUAY",Teledoce (UMMO2)
+http://ummodigital.com:2082/live/Orlando1/Orlando1/53.ts
+
+#EXTINF:-1 tvg-logo="http://www.tnu.com.uy/image/1024x1024.png" group-title="20- URUGUAY",TNU (UMMO1)
 http://ummodigital.com:8000/live/jorge1/jorge1/58.ts
+
+#EXTINF:-1 tvg-logo="http://www.tnu.com.uy/image/1024x1024.png" group-title="20- URUGUAY",TNU (UMMO2)
+http://ummodigital.com:2082/live/Orlando1/Orlando1/58.ts
 
 #EXTINF:-1 tvg-logo="http://montevideo.gub.uy/sites/default/files/styles/galeriaslideshowcontenido/public/biblioteca/tvciudad.png?itok=GWUByEQp" group-title="20- URUGUAY",Tv Ciudad (4)
 http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/1601.ts
@@ -1090,8 +1195,11 @@ http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/1601.ts
 #EXTINF:-1 tvg-logo="http://montevideo.gub.uy/sites/default/files/styles/galeriaslideshowcontenido/public/biblioteca/tvciudad.png?itok=GWUByEQp" group-title="20- URUGUAY",Tv Ciudad (4*)
 http://158.69.228.135:8000/live/sNlMZixCFU/t0eTiJm4JD/1601.ts
 
-#EXTINF:-1 tvg-logo="http://montevideo.gub.uy/sites/default/files/styles/galeriaslideshowcontenido/public/biblioteca/tvciudad.png?itok=GWUByEQp" group-title="20- URUGUAY",Tv Ciudad (UMMO)
+#EXTINF:-1 tvg-logo="http://montevideo.gub.uy/sites/default/files/styles/galeriaslideshowcontenido/public/biblioteca/tvciudad.png?itok=GWUByEQp" group-title="20- URUGUAY",Tv Ciudad (UMMO1)
 http://ummodigital.com:8000/live/jorge1/jorge1/57.ts
+
+#EXTINF:-1 tvg-logo="http://montevideo.gub.uy/sites/default/files/styles/galeriaslideshowcontenido/public/biblioteca/tvciudad.png?itok=GWUByEQp" group-title="20- URUGUAY",Tv Ciudad (UMMO2)
+http://ummodigital.com:2082/live/Orlando1/Orlando1/57.ts
 
 #EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/imgs/7/2/3/7233eada0394020f9e0250a059896578_icon.png" group-title="20- URUGUAY",Vera + (4)
 http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/1600.ts
@@ -1114,27 +1222,56 @@ http://158.69.228.135:8000/live/sNlMZixCFU/t0eTiJm4JD/493.ts
 #EXTINF:-1 tvg-logo="http://www.bienaldemontevideo.com/imgs/pat/vtv.png" group-title="20- URUGUAY",VTV (5)
 http://infinity.ddns.me:25461/live/cesar.vera85/zbO9UOGgl7/16312.ts
 
+#EXTINF:-1 tvg-logo="http://www.bienaldemontevideo.com/imgs/pat/vtv.png" group-title="20- URUGUAY",VTV (UMMO2)
+http://ummodigital.com:2082/live/Orlando1/Orlando1/56.ts
+
 #####################################################################################################################################
 ####################################### USA LATINO
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2017/01/25/10/04/usa-2007460__340.jpg" group-title="21- USA LATINO",21- USA LATINO
 https://stream.vagalume.fm/hls/1475776167864381/aac.m3u8
 #######################################
 
-#EXTINF:-1 tvg-logo="http://wowlarevista.com/wp-content/uploads/2016/08/americateve.jpg" group-title="21- USA LATINO",America TeVe (UMMO)
+#EXTINF:-1 tvg-logo="http://wowlarevista.com/wp-content/uploads/2016/08/americateve.jpg" group-title="21- USA LATINO",America TeVe (UMMO1)
 http://ummodigital.com:8000/live/jorge1/jorge1/590.ts
-#EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/galavision_320.jpg" group-title="21- USA LATINO",Galavision (UMMO)
+
+#EXTINF:-1 tvg-logo="http://wowlarevista.com/wp-content/uploads/2016/08/americateve.jpg" group-title="21- USA LATINO",America TeVe (UMMO2)
+http://ummodigital.com:2082/live/Orlando1/Orlando1/590.ts
+
+#EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/galavision_320.jpg" group-title="21- USA LATINO",Galavision (UMMO1)
 http://ummodigital.com:8000/live/jorge1/jorge1/77.ts
 
-#EXTINF:-1 tvg-logo="http://www.nbcuniverso.com/now/sites/nbcutve-nbcuniverso/files/modal_windows/images.png" group-title="21- USA LATINO",NBC Universo (UMMO)
+#EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/galavision_320.jpg" group-title="21- USA LATINO",Galavision (UMMO2)
+http://ummodigital.com:2082/live/Orlando1/Orlando1/77.ts
+
+#EXTINF:-1 tvg-logo="http://www.nbcuniverso.com/now/sites/nbcutve-nbcuniverso/files/modal_windows/images.png" group-title="21- USA LATINO",NBC Universo (UMMO1)
 http://ummodigital.com:8000/live/jorge1/jorge1/78.ts
-#EXTINF:-1 tvg-logo="https://www.trzcacak.rs/myfile/detail/386-3865585_logo-univision-univision-logo.png" group-title="21- USA LATINO",Univision (UMMO)
+
+#EXTINF:-1 tvg-logo="http://www.nbcuniverso.com/now/sites/nbcutve-nbcuniverso/files/modal_windows/images.png" group-title="21- USA LATINO",NBC Universo (UMMO2)
+http://ummodigital.com:2082/live/Orlando1/Orlando1/78.ts
+
+#EXTINF:-1 tvg-logo="https://www.trzcacak.rs/myfile/detail/386-3865585_logo-univision-univision-logo.png" group-title="21- USA LATINO",Univision (UMMO1)
 http://ummodigital.com:8000/live/jorge1/jorge1/72.ts
-#EXTINF:-1 tvg-logo="http://static-cdn2.ustream.tv/i/channel/picture/1/7/4/0/17406211/17406211,640x360,b:2.jpg" group-title="21- USA LATINO",Unimas (UMMO)
+
+#EXTINF:-1 tvg-logo="https://www.trzcacak.rs/myfile/detail/386-3865585_logo-univision-univision-logo.png" group-title="21- USA LATINO",Univision (UMMO2)
+http://ummodigital.com:2082/live/Orlando1/Orlando1/72.ts
+
+#EXTINF:-1 tvg-logo="http://static-cdn2.ustream.tv/i/channel/picture/1/7/4/0/17406211/17406211,640x360,b:2.jpg" group-title="21- USA LATINO",Unimas (UMMO1)
 http://ummodigital.com:8000/live/jorge1/jorge1/76.ts
-#EXTINF:-1 tvg-logo="https://s23657.pcdn.co/wp-content/uploads/2017/07/Univision_tlnovelas_logo_image-768x529.jpg" group-title="21- USA LATINO",Univision Telenovelas (UMMO)
+
+#EXTINF:-1 tvg-logo="http://static-cdn2.ustream.tv/i/channel/picture/1/7/4/0/17406211/17406211,640x360,b:2.jpg" group-title="21- USA LATINO",Unimas (UMMO2)
+http://ummodigital.com:2082/live/Orlando1/Orlando1/76.ts
+
+#EXTINF:-1 tvg-logo="https://s23657.pcdn.co/wp-content/uploads/2017/07/Univision_tlnovelas_logo_image-768x529.jpg" group-title="21- USA LATINO",Univision Telenovelas (UMMO1)
 http://ummodigital.com:8000/live/jorge1/jorge1/75.ts
-#EXTINF:-1 tvg-logo="https://www.telemundo.com/sites/nbcutelemundo/themes/aurora_tlmd/images/telemundo_logo.png" group-title="21- USA LATINO",Telemundo (UMMO)
+
+#EXTINF:-1 tvg-logo="https://s23657.pcdn.co/wp-content/uploads/2017/07/Univision_tlnovelas_logo_image-768x529.jpg" group-title="21- USA LATINO",Univision Telenovelas (UMMO2)
+http://ummodigital.com:2082/live/Orlando1/Orlando1/75.ts
+
+#EXTINF:-1 tvg-logo="https://www.telemundo.com/sites/nbcutelemundo/themes/aurora_tlmd/images/telemundo_logo.png" group-title="21- USA LATINO",Telemundo (UMMO1)
 http://ummodigital.com:8000/live/jorge1/jorge1/84.ts
+
+#EXTINF:-1 tvg-logo="https://www.telemundo.com/sites/nbcutelemundo/themes/aurora_tlmd/images/telemundo_logo.png" group-title="21- USA LATINO",Telemundo (UMMO2)
+http://ummodigital.com:2082/live/Orlando1/Orlando1/84.ts
 
 #####################################################################################################################################
 ####################################### VENEZUELA
