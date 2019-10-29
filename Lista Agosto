@@ -640,8 +640,8 @@ http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8?GrupoTopIptv
 https://stream.vagalume.fm/hls/146411300413492499/aac.m3u8
 #######################################
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ATPWac1.jpg" group-title="10- ECUADOR",Canal 7 Ecuador TV
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ATPWac1.jpg" group-title="10- ECUADOR",Canal 7 Ecuador TV (UMMO)
+http://ummodigital.com:8000/live/jorge1/jorge1/619.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LckvbDi.png" group-title="10- ECUADOR",Ecotel TV
 http://192.99.56.185/ecotel/live.m3u8?GrupoTopIptv
@@ -655,11 +655,11 @@ http://37.187.7.106/hechostv/live.m3u8?GrupoTopIptv
 #EXTINF:-1 tvg-logo="http://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="10- ECUADOR",Oromar TV 
 http://videos.oromartv.com:8082/hls/oromartv_hi/index.m3u8?GrupoTopIptv
 
-#EXTINF:-1 tvg-logo="https://historiadelatvecuatoriana.files.wordpress.com/2015/07/tc.jpg" group-title="10- ECUADOR",TC Ecuador (5)
+#EXTINF:-1 tvg-logo="https://historiadelatvecuatoriana.files.wordpress.com/2015/07/tc.jpg" group-title="10- ECUADOR",TC Ecuador (UMMO)
+http://ummodigital.com:8000/live/jorge1/jorge1/623.ts
 
-
-#EXTINF:-1 tvg-logo="http://televisionecuatoriana.tv/wp-content/uploads/2018/11/cropped-LOGO-NORMAL-ESPANO-tegido-colores-solidosL-01-1-e1542291082262.png" group-title="10- ECUADOR",Television Ecuatoriana (5)
-
+#EXTINF:-1 tvg-logo="http://televisionecuatoriana.tv/wp-content/uploads/2018/11/cropped-LOGO-NORMAL-ESPANO-tegido-colores-solidosL-01-1-e1542291082262.png" group-title="10- ECUADOR",Television Ecuatoriana (UMMO)
+http://ummodigital.com:8000/live/jorge1/jorge1/624.ts
 
 #EXTINF:-1 tvg-logo="https://www15.ucsg.edu.ec/biblioteca/buscadorOPAC/images/LOGO.png" group-title="10- ECUADOR",UCSG
 http://ecuastream.net:1935/UCSGHQ/UCSGHQ/playlist.m3u8?GrupoTopIptv
@@ -844,8 +844,11 @@ http://174.138.118.252/live/canal13stream_src.m3u8?GrupoTopIptv
 https://stream.vagalume.fm/hls/1507663468882713/aac.m3u8
 #######################################
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_america-television_m.png" group-title="17- PERU",America tv (2)
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_america-television_m.png" group-title="17- PERU",America tv (UMMO)
+http://ummodigital.com:8000/live/jorge1/jorge1/63.ts
 
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_america-television_m.png" group-title="17- PERU",America tv (UMMO)
+http://ummodigital.com:8000/live/jorge1/jorge1/64.ts
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_america-television_m.png" group-title="17- PERU",America tv SD
 http://ecdn-mediastream.cdn.mdstrm.com/live-stream-secure/5c51e67df4d3c6698b02bbee/publish/media_2500.m3u8?GrupoTopIptv
@@ -853,11 +856,11 @@ http://ecdn-mediastream.cdn.mdstrm.com/live-stream-secure/5c51e67df4d3c6698b02bb
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7I13BUc.png" group-title="17- PERU",Antares
 http://173.192.105.252:1935/iptvantares/liveantarestv/playlist.m3u8?GrupoTopIptv
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/atv-peru-logo-5506CAAD40-seeklogo.com.png" group-title="17- PERU",Atv (2)
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/atv-peru-logo-5506CAAD40-seeklogo.com.png" group-title="17- PERU",Atv (UMMO)
+http://ummodigital.com:8000/live/jorge1/jorge1/616.ts
 
-
-#EXTINF:-1 tvg-logo="https://peru.mom-rsf.org/typo3temp/_processed_/4/7/csm_2013-205_import_95c305c25d.png" group-title="17- PERU",Atv Noticias (2)
-
+#EXTINF:-1 tvg-logo="https://peru.mom-rsf.org/typo3temp/_processed_/4/7/csm_2013-205_import_95c305c25d.png" group-title="17- PERU",Atv Noticias (UMMO)
+http://ummodigital.com:8000/live/jorge1/jorge1/615.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7hP4nps.png" group-title="17- PERU",BHtv
 http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/.m3u8?GrupoTopIptv
@@ -874,8 +877,23 @@ http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8?GrupoTopIptv
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/565018162916114432/7h5k-iqC_400x400.png" group-title="17- PERU",JN19
 http://movil.mediastream.pe/vv_manosdios/livestream/playlist.m3u8?GrupoTopIptv
 
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_frecuencia-latina_m.png" group-title="17- PERU",Latina (UMMO)
+http://ummodigital.com:8000/live/jorge1/jorge1/61.ts
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_frecuencia-latina_m.png" group-title="17- PERU",Latina (UMMO)
+http://ummodigital.com:8000/live/jorge1/jorge1/62.ts
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_frecuencia-latina_m.png" group-title="17- PERU",Latina (UMMO)
+http://ummodigital.com:8000/live/jorge1/jorge1/67.ts
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="17- PERU",Panamericana TV
 http://cdnhd.iblups.com/hls/ptv2.m3u8?GrupoTopIptv
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="17- PERU",Panamericana TV (UMMO)
+http://ummodigital.com:8000/live/jorge1/jorge1/65.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="17- PERU",Panamericana TV (UMMO)
+http://ummodigital.com:8000/live/jorge1/jorge1/66.ts
 
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-zONwKyIGEe8/US6GONLKNMI/AAAAAAAAH50/PXQ17OgMMAg/s1600/paxtv.png" group-title="17- PERU",Pax TV
 http://d2fxrfbiedz1tm.cloudfront.net/livepaxtv/smil:PC.smil/playlist.m3u8?GrupoTopIptv
@@ -889,13 +907,17 @@ http://d2fxrfbiedz1tm.cloudfront.net/livepaxtv/smil:PC.smil/playlist.m3u8?GrupoT
 #EXTINF:-1 tvg-logo="https://www.neourbe.pe/wp-content/uploads/2019/02/tv-noticias.png" group-title="17- PERU",TV Noticias 7.3
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIPE0002&mode=12?GrupoTopIptv
 
+#EXTINF:-1 tvg-logo="https://www.neourbe.pe/wp-content/uploads/2019/02/tv-noticias.png" group-title="17- PERU",TV Noticias 7.3 (UMMO)
+http://ummodigital.com:8000/live/jorge1/jorge1/618.ts
+
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-Mcc2xCpSKWQ/UF6PxaiQZYI/AAAAAAAACQU/BLm5ZUhxzfs/s1600/LOGOTVPERU.jpg" group-title="17- PERU",TV Perú HD
 http://cdnh15.iblups.com/hls/R9WtilpKKB.m3u8?GrupoTopIptv
 
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-Mcc2xCpSKWQ/UF6PxaiQZYI/AAAAAAAACQU/BLm5ZUhxzfs/s1600/LOGOTVPERU.jpg" group-title="17- PERU",TV Perú SD
 http://cdnh4.iblups.com/hls/irtp.m3u8?GrupoTopIptv
 
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-Mcc2xCpSKWQ/UF6PxaiQZYI/AAAAAAAACQU/BLm5ZUhxzfs/s1600/LOGOTVPERU.jpg" group-title="17- PERU",TV Perú (2)
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-Mcc2xCpSKWQ/UF6PxaiQZYI/AAAAAAAACQU/BLm5ZUhxzfs/s1600/LOGOTVPERU.jpg" group-title="17- PERU",TV Perú (UMMO)
+http://ummodigital.com:8000/live/jorge1/jorge1/617.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PjzOrx7.png" group-title="17- PERU",Vision Noticias
 http://v8.ciclano.io:1935/visionnoticias/_definst_/visionnoticias/playlist.m3u8?GrupoTopIptv
@@ -1053,6 +1075,9 @@ http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/413.ts
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1107997180311281665/c72fyy_F_400x400.png" group-title="20- URUGUAY",Montecarlo (4*)
 http://158.69.228.135:8000/live/sNlMZixCFU/t0eTiJm4JD/413.ts
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1107997180311281665/c72fyy_F_400x400.png" group-title="20- URUGUAY",Montecarlo (UMMO)
+http://ummodigital.com:8000/live/jorge1/jorge1/54.ts
+
 #EXTINF:-1 tvg-logo="http://www.canalm.tv/plantillas/temas/canalm/imagenes/canalm.png" group-title="20- URUGUAY",Montevideo Portal
 http://wowza.montevideo.com.uy:1936/live/_definst_/mvdstrem/chunklist.m3u8?GrupoTopIptv
 
@@ -1065,20 +1090,29 @@ http://158.69.228.135:8000/live/sNlMZixCFU/t0eTiJm4JD/8969.ts
 #EXTINF:-1 tvg-logo="https://media.tvalacarta.info/canales/256x256/canal10.png" group-title="20- URUGUAY",Saeta Canal 10 (5)
 http://infinity.ddns.me:25461/live/cesar.vera85/zbO9UOGgl7/14080.ts
 
+#EXTINF:-1 tvg-logo="https://media.tvalacarta.info/canales/256x256/canal10.png" group-title="20- URUGUAY",Saeta Canal 10 (UMMO)
+http://ummodigital.com:8000/live/jorge1/jorge1/52.ts
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1136710475868229633/p2S0PMG8_400x400.jpg" group-title="20- URUGUAY",Teledoce (4)
 http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/9558.ts
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1136710475868229633/p2S0PMG8_400x400.jpg" group-title="20- URUGUAY",Teledoce (4*)
 http://158.69.228.135:8000/live/sNlMZixCFU/t0eTiJm4JD/9558.ts
 
-#EXTINF:-1 tvg-logo="http://www.tnu.com.uy/image/1024x1024.png" group-title="20- URUGUAY",TNU (4)
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1136710475868229633/p2S0PMG8_400x400.jpg" group-title="20- URUGUAY",Teledoce (UMMO)
+http://ummodigital.com:8000/live/jorge1/jorge1/53.ts
 
+#EXTINF:-1 tvg-logo="http://www.tnu.com.uy/image/1024x1024.png" group-title="20- URUGUAY",TNU (UMMO)
+http://ummodigital.com:8000/live/jorge1/jorge1/58.ts
 
 #EXTINF:-1 tvg-logo="http://montevideo.gub.uy/sites/default/files/styles/galeriaslideshowcontenido/public/biblioteca/tvciudad.png?itok=GWUByEQp" group-title="20- URUGUAY",Tv Ciudad (4)
 http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/1601.ts
 
 #EXTINF:-1 tvg-logo="http://montevideo.gub.uy/sites/default/files/styles/galeriaslideshowcontenido/public/biblioteca/tvciudad.png?itok=GWUByEQp" group-title="20- URUGUAY",Tv Ciudad (4*)
 http://158.69.228.135:8000/live/sNlMZixCFU/t0eTiJm4JD/1601.ts
+
+#EXTINF:-1 tvg-logo="http://montevideo.gub.uy/sites/default/files/styles/galeriaslideshowcontenido/public/biblioteca/tvciudad.png?itok=GWUByEQp" group-title="20- URUGUAY",Tv Ciudad (UMMO)
+http://ummodigital.com:8000/live/jorge1/jorge1/57.ts
 
 #EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/imgs/7/2/3/7233eada0394020f9e0250a059896578_icon.png" group-title="20- URUGUAY",Vera + (4)
 http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/1600.ts
@@ -1221,17 +1255,65 @@ http://stmv2.srvstm.com:1935/tvjsid/tvjsid/playlist.m3u8?GrupoTopIptv
 http://ic7.101.ru:8000/a8
 #######################################
 
-#EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/020/original/pic_a_e.png?1522180692" group-title="26- PREMIUM USA",A&E (Plex)
+#EXTINF:-1 tvg-logo="https://pmcdeadline2.files.wordpress.com/2012/07/abc-logo__120510210044-200x194.jpg" group-title="26- PREMIUM USA",ABC (UMMO)
+http://ummodigital.com:8000/live/jorge1/jorge1/632.ts
 
+#EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/020/original/pic_a_e.png?1522180692" group-title="26- PREMIUM USA",A&E (UMMO)
+http://ummodigital.com:8000/live/jorge1/jorge1/636.ts
+
+#EXTINF:-1 tvg-logo="https://www.tvlatino.net/img/logos-canales/AHC.png" group-title="26- PREMIUM USA",AHC (UMMO)
+http://ummodigital.com:8000/live/jorge1/jorge1/660.ts
 
 #EXTINF:-1 tvg-logo="http://www.horrorchannel.co.uk/grfx/stuff/horror-channel-logo.png" group-title="26- PREMIUM USA",American Horror
 http://170.178.189.66:1935/live/Stream1/.m3u8?GrupoTopIptv
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/AnimalPlanet.uk.png" group-title="26- PREMIUM USA",Animal Planet
+#EXTINF:-1 tvg-logo="https://www.directv.com/images/logos/channels/dark/large/313.png" group-title="26- PREMIUM USA",AMC (UMMO)
+http://ummodigital.com:8000/live/jorge1/jorge1/661.ts
 
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/AnimalPlanet.uk.png" group-title="26- PREMIUM USA",Animal Planet (UMMO)
+http://ummodigital.com:8000/live/jorge1/jorge1/638.ts
 
-#EXTINF:-1 tvg-logo="http://www.provocare.com.au/wp-content/uploads/2018/06/cnn-logo-original-hd-png-transparent.png"  group-title="26- PREMIUM USA",CNN (Plex)
+#EXTINF:-1 tvg-logo="http://www.bbcamerica.com/wp-content/plugins/bbca-app-banner/img/app-icon.png" group-title="26- PREMIUM USA",BBC America (UMMO)
+http://ummodigital.com:8000/live/jorge1/jorge1/662.ts
 
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_bbc-world_m.png" group-title="26- PREMIUM USA",BBC World News (UMMO)
+http://ummodigital.com:8000/live/jorge1/jorge1/663.ts
+
+#EXTINF:-1 tvg-logo="https://www.clipartwiki.com/clipimg/detail/158-1584432_bravo-tv-bravo-tv-logo-png.png" group-title="26- PREMIUM USA",Bravo (UMMO)
+http://ummodigital.com:8000/live/jorge1/jorge1/664.ts
+
+#EXTINF:-1 tvg-logo="https://www.chillglobal.com/images/channels/68-cbs-1432161478.jpg" group-title="26- PREMIUM USA",CBS (UMMO)
+http://ummodigital.com:8000/live/jorge1/jorge1/633.ts
+
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cine/16.png" group-title="26- PREMIUM USA",Cinemax East (UMMO)
+http://ummodigital.com:8000/live/jorge1/jorge1/654.ts
+
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cine/16.png" group-title="26- PREMIUM USA",Cinemax West (UMMO)
+http://ummodigital.com:8000/live/jorge1/jorge1/655.ts
+
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cine/16.png" group-title="26- PREMIUM USA",Cinemax Prime (UMMO)
+http://ummodigital.com:8000/live/jorge1/jorge1/656.ts
+
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cine/16.png" group-title="26- PREMIUM USA",Cinemax Up (UMMO)
+http://ummodigital.com:8000/live/jorge1/jorge1/657.ts
+
+#EXTINF:-1 tvg-logo="http://new.lamac.org/system/channels/logos/000/000/044/original/pic_comedycentral.png?1522177270" group-title="26- PREMIUM USA",Comedy Central (UMMO)
+http://ummodigital.com:8000/live/jorge1/jorge1/665.ts
+
+#EXTINF:-1 tvg-logo="https://sevensreport.com/wp-content/uploads/2019/04/CNBC-logo-300x250.jpg" group-title="26- PREMIUM USA",CNBC (UMMO)
+http://ummodigital.com:8000/live/jorge1/jorge1/82.ts
+
+#EXTINF:-1 tvg-logo="http://www.logotypes101.com/logos/538/4F8C3E23787629681494F66BBE700345/CNBC_World.png" group-title="26- PREMIUM USA",CNBC World (UMMO)
+http://ummodigital.com:8000/live/jorge1/jorge1/83.ts
+
+#EXTINF:-1 tvg-logo="http://www.provocare.com.au/wp-content/uploads/2018/06/cnn-logo-original-hd-png-transparent.png"  group-title="26- PREMIUM USA",CNN (UMMO)
+http://ummodigital.com:8000/live/jorge1/jorge1/107.ts
+
+#EXTINF:-1 tvg-logo="http://www.provocare.com.au/wp-content/uploads/2018/06/cnn-logo-original-hd-png-transparent.png"  group-title="26- PREMIUM USA",CNN Int (UMMO)
+http://ummodigital.com:8000/live/jorge1/jorge1/109.ts
+
+#EXTINF:-1 tvg-logo="https://hcil.umd.edu/wp-content/uploads/2015/12/Discovery-Channel-logo.png"  group-title="26- PREMIUM USA",Discovery Channel (UMMO)
+http://ummodigital.com:8000/live/jorge1/jorge1/637.ts
 
 #EXTINF:-1 tvg-logo="https://www.bellmedia.ca/wp-content/uploads/2014/02/tv1_e-490x490.png"  group-title="26- PREMIUM USA",E!
 http://210.210.155.35/uq2663/h/h10/01.m3u8?GrupoTopIptv
@@ -1242,23 +1324,56 @@ http://210.210.155.35/uq2663/h/h10/01.m3u8?GrupoTopIptv
 #EXTINF:-1 tvg-logo="https://bestofsno.com/wp-content/uploads/2019/03/3.18-culinary.png"  group-title="26- PREMIUM USA",Food Network (Plex)
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Al6Y2.png"  group-title="26- PREMIUM USA",Fox (UMMO)
+http://ummodigital.com:8000/live/jorge1/jorge1/635.ts
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/918480715158716419/4X8oCbge_400x400.jpg"  group-title="26- PREMIUM USA",Fox News (UMMO)
+http://ummodigital.com:8000/live/jorge1/jorge1/106.ts
+
 #EXTINF:-1 tvg-logo="https://www.telecablecr.com/wp-content/uploads/2018/11/LOGO-FOXPREMIUM_CINEMA.png"  group-title="26- PREMIUM USA",Fox Cinema
 http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8?GrupoTopIptv
+
+#EXTINF:-1 tvg-logo="https://vectors.pro/wp-content/uploads/2017/10/hbo-logo-vector.png"  group-title="26- PREMIUM USA",HBO East (UMMO)
+http://ummodigital.com:8000/live/jorge1/jorge1/648.ts
+
+#EXTINF:-1 tvg-logo="https://vectors.pro/wp-content/uploads/2017/10/hbo-logo-vector.png"  group-title="26- PREMIUM USA",HBO West (UMMO)
+http://ummodigital.com:8000/live/jorge1/jorge1/649.ts
 
 #EXTINF:-1 tvg-logo="http://aux4.iconspalace.com/uploads/797638582344877408.png"  group-title="26- PREMIUM USA",Hbo 2
 http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?GrupoTopIptv
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/InvestigationDiscovery.uk.png"  group-title="26- PREMIUM USA",Investigation Discovery 
+#EXTINF:-1 tvg-logo="http://aux4.iconspalace.com/uploads/797638582344877408.png"  group-title="26- PREMIUM USA",Hbo 2 (UMMO)
+http://ummodigital.com:8000/live/jorge1/jorge1/650.ts
 
+#EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/hbo-family-logo-320x320-745790760.png"  group-title="26- PREMIUM USA",HBO Family (UMMO)
+http://ummodigital.com:8000/live/jorge1/jorge1/651.ts
+
+#EXTINF:-1 tvg-logo="http://contenidos.cablevision.com.mx/guia_programacion/channels/634.png"  group-title="26- PREMIUM USA",HBO Plus (UMMO)
+http://ummodigital.com:8000/live/jorge1/jorge1/652.ts
+
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/mx/HBOSignature.mx.png"  group-title="26- PREMIUM USA",HBO Signature (UMMO)
+http://ummodigital.com:8000/live/jorge1/jorge1/653.ts
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/InvestigationDiscovery.uk.png"  group-title="26- PREMIUM USA",Investigation Discovery (UMMO)
+http://ummodigital.com:8000/live/jorge1/jorge1/639.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/COQM8bM.png"  group-title="26- PREMIUM USA",Kool
 http://173.199.158.79:1935/roku/myStream/playlist.m3u8?GrupoTopIptv
 
-#EXTINF:-1 tvg-logo="https://diylogodesigns.com/wp-content/uploads/2017/07/national-geographic-logo-vector-768x768.png"  group-title="26- PREMIUM USA",Nat Geo (Plex)
+#EXTINF:-1 tvg-logo="https://media1.s-nbcnews.com/i/newscms/2018_21/2442291/msnbc-og-image_c986de7e1bb6ad2281723b692aa61990.png"  group-title="26- PREMIUM USA",MSNBC (UMMO)
+http://ummodigital.com:8000/live/jorge1/jorge1/81.ts
 
+#EXTINF:-1 tvg-logo="https://diylogodesigns.com/wp-content/uploads/2017/07/national-geographic-logo-vector-768x768.png"  group-title="26- PREMIUM USA",Nat Geo (UMMO)
+http://ummodigital.com:8000/live/jorge1/jorge1/640.ts
 
-#EXTINF:-1 tvg-logo="http://www.lettreaudiovisuel.com/wp-content/uploads/2014/12/Nat-Geo-Wild.png"  group-title="26- PREMIUM USA",Nat Geo Wild (Plex)
+#EXTINF:-1 tvg-logo="http://www.lettreaudiovisuel.com/wp-content/uploads/2014/12/Nat-Geo-Wild.png"  group-title="26- PREMIUM USA",Nat Geo Wild (UMMO)
+http://ummodigital.com:8000/live/jorge1/jorge1/641.ts
 
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/gt_nbc_m.png"  group-title="26- PREMIUM USA",NBC (UMMO)
+http://ummodigital.com:8000/live/jorge1/jorge1/79.ts
+
+#EXTINF:-1 tvg-logo="https://tvbtn.files.wordpress.com/2012/05/own_hero_lo-res-350x218.jpg"  group-title="26- PREMIUM USA",Own Tv (UMMO)
+http://ummodigital.com:8000/live/jorge1/jorge1/645.ts
 
 #EXTINF:-1 tvg-logo="http://www.notclosed.com/assets/images/wemake/large/work_planetgreen_b.gif"  group-title="26- PREMIUM USA",Planet Green
 
@@ -1269,6 +1384,9 @@ http://173.199.158.79:1935/roku/myStream/playlist.m3u8?GrupoTopIptv
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkyNews.uk.png"  group-title="26- PREMIUM USA",Sky News
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8?GrupoTopIptv
 
+#EXTINF:-1 tvg-logo="https://www.directv.com/images/logos/channels/dark/large/743.png"  group-title="26- PREMIUM USA",Smithsonian Channel (UMMO)
+http://ummodigital.com:8000/live/jorge1/jorge1/642.ts
+
 #EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/011/original/pic_tbs.png?1522176341" group-title="26- PREMIUM USA",Tbs (Plex)
 
 
@@ -1278,11 +1396,14 @@ https://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8?GrupoTopIptv
 #EXTINF:-1 tvg-logo="http://www.tctkids.tv/images/TCTKids/TCTKidslogo.png" group-title="26- PREMIUM USA",Tct Kids
 http://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/FamilyHLS/FamilyHLS_Live_1200.m3u8?GrupoTopIptv
 
-#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/tlc-logo-01.png" group-title="26- PREMIUM USA",Tlc (Plex)
-http://plexonline.club:25461/live/APOYAESTALISTA/IPTVACTIVADOR/164.ts
+#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/tlc-logo-01.png" group-title="26- PREMIUM USA",Tlc (UMMO)
+http://ummodigital.com:8000/live/jorge1/jorge1/643.ts
 
-#EXTINF:-1 tvg-logo="http://mareatvcable.com/wp-content/uploads/2017/12/44-tntlogo.png" group-title="26- PREMIUM USA",Tnt (Plex)
+#EXTINF:-1 tvg-logo="http://mareatvcable.com/wp-content/uploads/2017/12/44-tntlogo.png" group-title="26- PREMIUM USA",Tnt (UMMO)
+http://ummodigital.com:8000/live/jorge1/jorge1/659.ts
 
+#EXTINF:-1 tvg-logo="https://tvnotiblog.com/wp-content/uploads/2012/04/trutv.png" group-title="26- PREMIUM USA",Trutv (UMMO)
+http://ummodigital.com:8000/live/jorge1/jorge1/644.ts
 
 ######################################################################################################################################
 ####################################### PREMIUM ESPAÑA
@@ -4334,7 +4455,14 @@ http://infinity.ddns.me:25461/live/cesar.vera85/zbO9UOGgl7/13309.ts
 #EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/goltv.png" group-title="41- DEPORTES LATINO",Gol Ecuador
 http://trinity-lh.akamaihd.net/i/GolTVModel4A_d@422865/index_500_av-p.m3u8?GrupoTopIptv
 
-#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/goltv.png" group-title="41- DEPORTES LATINO",Gol Ecuador (NC)
+#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/goltv.png" group-title="41- DEPORTES LATINO",Gol Ecuador (UMMO)
+http://ummodigital.com:8000/live/jorge1/jorge1/620.ts
+
+#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/goltv.png" group-title="41- DEPORTES LATINO",Gol Ecuador (UMMO)
+http://ummodigital.com:8000/live/jorge1/jorge1/621.ts
+
+#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/goltv.png" group-title="41- DEPORTES LATINO",Gol Ecuador (UMMO)
+http://ummodigital.com:8000/live/jorge1/jorge1/622.ts
 
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/yK8g6N8.png" group-title="41- DEPORTES LATINO",Gol Peru (4)
