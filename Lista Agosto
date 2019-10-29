@@ -1120,17 +1120,20 @@ http://infinity.ddns.me:25461/live/cesar.vera85/zbO9UOGgl7/16312.ts
 https://stream.vagalume.fm/hls/1475776167864381/aac.m3u8
 #######################################
 
-#EXTINF:-1 tvg-logo="http://wowlarevista.com/wp-content/uploads/2016/08/americateve.jpg" group-title="21- USA LATINO",America TeVe
+#EXTINF:-1 tvg-logo="http://wowlarevista.com/wp-content/uploads/2016/08/americateve.jpg" group-title="21- USA LATINO",America TeVe (UMMO)
 http://ummodigital.com:8000/live/jorge1/jorge1/590.ts
-#EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/galavision_320.jpg" group-title="21- USA LATINO",Galavision
+#EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/galavision_320.jpg" group-title="21- USA LATINO",Galavision (UMMO)
 http://ummodigital.com:8000/live/jorge1/jorge1/77.ts
-#EXTINF:-1 tvg-logo="https://www.trzcacak.rs/myfile/detail/386-3865585_logo-univision-univision-logo.png" group-title="21- USA LATINO",Univision
+
+#EXTINF:-1 tvg-logo="http://www.nbcuniverso.com/now/sites/nbcutve-nbcuniverso/files/modal_windows/images.png" group-title="21- USA LATINO",NBC Universo (UMMO)
+http://ummodigital.com:8000/live/jorge1/jorge1/78.ts
+#EXTINF:-1 tvg-logo="https://www.trzcacak.rs/myfile/detail/386-3865585_logo-univision-univision-logo.png" group-title="21- USA LATINO",Univision (UMMO)
 http://ummodigital.com:8000/live/jorge1/jorge1/72.ts
-#EXTINF:-1 tvg-logo="http://static-cdn2.ustream.tv/i/channel/picture/1/7/4/0/17406211/17406211,640x360,b:2.jpg" group-title="21- USA LATINO",Unimas
+#EXTINF:-1 tvg-logo="http://static-cdn2.ustream.tv/i/channel/picture/1/7/4/0/17406211/17406211,640x360,b:2.jpg" group-title="21- USA LATINO",Unimas (UMMO)
 http://ummodigital.com:8000/live/jorge1/jorge1/76.ts
-#EXTINF:-1 tvg-logo="https://s23657.pcdn.co/wp-content/uploads/2017/07/Univision_tlnovelas_logo_image-768x529.jpg" group-title="21- USA LATINO",Univision Telenovelas
+#EXTINF:-1 tvg-logo="https://s23657.pcdn.co/wp-content/uploads/2017/07/Univision_tlnovelas_logo_image-768x529.jpg" group-title="21- USA LATINO",Univision Telenovelas (UMMO)
 http://ummodigital.com:8000/live/jorge1/jorge1/75.ts
-#EXTINF:-1 tvg-logo="https://www.telemundo.com/sites/nbcutelemundo/themes/aurora_tlmd/images/telemundo_logo.png" group-title="21- USA LATINO",Telemundo
+#EXTINF:-1 tvg-logo="https://www.telemundo.com/sites/nbcutelemundo/themes/aurora_tlmd/images/telemundo_logo.png" group-title="21- USA LATINO",Telemundo (UMMO)
 http://ummodigital.com:8000/live/jorge1/jorge1/84.ts
 
 #####################################################################################################################################
@@ -4378,8 +4381,8 @@ http://51.77.53.181:9090/live/927302/03573c354236/19.rtmp
 #EXTINF:-1 tvg-logo="https://4e0ow51f67h221f1ggcbe9m4-wpengine.netdna-ssl.com/wp-content/uploads/2016/08/ESPN-logo.png" group-title="41- DEPORTES LATINO",Espn Deportes (4)
 http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/3990.ts
 
-#EXTINF:-1 tvg-logo="https://comcastspotlight.com/sites/default/files/networks/FOX_Deportes.png" group-title="41- DEPORTES LATINO",Fox Deportes
-
+#EXTINF:-1 tvg-logo="https://comcastspotlight.com/sites/default/files/networks/FOX_Deportes.png" group-title="41- DEPORTES LATINO",Fox Deportes (UMMO)
+http://ummodigital.com:8000/live/jorge1/jorge1/104.ts
 
 #EXTINF:-1 tvg-logo="https://i.ya-webdesign.com/images/fox-sports-1-png-5.png" group-title="41- DEPORTES LATINO",Fox Sports (1)
 http://nitro.ltd:25461/live/sauce/sauce/31615.rtmp
@@ -4768,17 +4771,44 @@ http://ic.imusicaradios.com.br:8000/brasil.stream.http?url=tunein
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ae/AbuDhabiSports1.ae.png" group-title="43- DEPORTES INTERNACIONAL",Abu Dhabi Sports 1
 http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8?GrupoTopIptv
 
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-QnsbGgKZh98/Vk9aSUtu0YI/AAAAAAAAC28/GQGb4b9vmuk/s1600/BeinSportHDusa.png" group-title="43- DEPORTES INTERNACIONAL",Bein Eng (UMMO)
+http://ummodigital.com:8000/live/jorge1/jorge1/70.ts
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/836319515679993856/o21RFHuA_400x400.jpg" group-title="43- DEPORTES INTERNACIONAL",Bein Ñ Esp (UMMO)
+http://ummodigital.com:8000/live/jorge1/jorge1/71.ts
+
+#EXTINF:-1 tvg-logo="http://content.sportslogos.net/news/2015/11/cbs-sports-new-logo-200x200.jpg" group-title="43- DEPORTES INTERNACIONAL",CBS Sports (UMMO)
+http://ummodigital.com:8000/live/jorge1/jorge1/634.ts
+
+#EXTINF:-1 tvg-logo="https://i.ya-webdesign.com/images/espn-2-logo-png-1.png" group-title="43- DEPORTES INTERNACIONAL",Espn 2 USA (UMMO)
+http://ummodigital.com:8000/live/jorge1/jorge1/630.ts
+
 #EXTINF:-1 tvg-logo="https://i.ya-webdesign.com/images/espn-2-logo-png-1.png" group-title="43- DEPORTES INTERNACIONAL",Espn 2 USA
 http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8?GrupoTopIptv
 
 #EXTINF:-1 tvg-logo="http://www.fightbox.com/images/stories/menu_fb_roll.png" group-title="43- DEPORTES INTERNACIONAL",FightBox
 http://92.43.140.249/s86/04.m3u8?GrupoTopIptv
 
+#EXTINF:-1 tvg-logo="https://hd-report.com/wp-content/uploads/2013/02/fox-soccer-plus-logo.jpg" group-title="43- DEPORTES INTERNACIONAL",Fox Soccer Plus USA (UMMO)
+http://ummodigital.com:8000/live/jorge1/jorge1/105.ts
+
+#EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2019/02/FS1-White-Logo-480x480.jpg" group-title="43- DEPORTES INTERNACIONAL",Fox Sports USA 1 (UMMO)
+http://ummodigital.com:8000/live/jorge1/jorge1/646.ts
+
+#EXTINF:-1 tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/2400x2400_1578/Source/12472/fs2_2400_color_light.png" group-title="43- DEPORTES INTERNACIONAL",Fox Sports USA 2 (UMMO)
+http://ummodigital.com:8000/live/jorge1/jorge1/647.ts
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2a/Fox_Sports_Racing.jpg.png" group-title="43- DEPORTES INTERNACIONAL",Fox Sports Racing
 
 
+#EXTINF:-1 tvg-logo="https://www.directv.com/images/logos/channels/dark/large/852.png" group-title="43- DEPORTES INTERNACIONAL",Golf Channel (UMMO)
+http://ummodigital.com:8000/live/jorge1/jorge1/628.ts
+
 #EXTINF:-1 tvg-logo="http://www.freelogovectors.net/wp-content/uploads/2018/08/mlb_major_league_baseball_logo.png" group-title="43- DEPORTES INTERNACIONAL",MLB USA
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8?GrupoTopIptv
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/837340035091353600/28SdmRTr_400x400.jpg" group-title="43- DEPORTES INTERNACIONAL",NBC Sports Network (UMMO)
+http://ummodigital.com:8000/live/jorge1/jorge1/80.ts
 
 #EXTINF:-1 tvg-logo="http://www.nbcuniversal.com/sites/default/files/Rev-OlyChannel.png" group-title="43- DEPORTES INTERNACIONAL",Olympic Channel USA
 http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8?GrupoTopIptv
@@ -4788,6 +4818,9 @@ http://iptv.matthuisman.nz/nz/tv.redbull.tv.m3u8?GrupoTopIptv
 
 #EXTINF:-1 tvg-logo="https://www.killthecablebill.com/images/cancelcable/ZqtDHeTe_400x400.jpg" group-title="43- DEPORTES INTERNACIONAL",Stadium Sports USA
 https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/0.m3u8?GrupoTopIptv
+
+#EXTINF:-1 tvg-logo="http://www.direct-vs-dish.com/media/channel_logos/TennisChannelLogo1.jpg.300x300_q85.jpg" group-title="43- DEPORTES INTERNACIONAL",Tennis Channel (UMMO)
+http://ummodigital.com:8000/live/jorge1/jorge1/631.ts
 
 ######################################################################################################################################
 #######################################  MUSICA
