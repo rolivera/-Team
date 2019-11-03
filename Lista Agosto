@@ -1204,12 +1204,6 @@ http://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/FamilyHLS/Famil
 http://ic7.101.ru:8000/a15
 #######################################
 
-#EXTINF:-1 tvg-logo="http://ayovega.com/wp-content/uploads/2017/10/cero.png" group-title="27- PREMIUM ESPAÑA",#0 (*)
-http://vergratis.ddns.net:25461/live/GRATIS/GRATIS/583.rtmp
-
-#EXTINF:-1 tvg-logo="https://www.comparaiso.es/sites/comparaiso.es/files/images/logos/vamos-movistar-200x300.png" group-title="27- PREMIUM ESPAÑA",#Vamos (*)
-http://vergratis.ddns.net:25461/live/GRATIS/GRATIS/512.rtmp
-
 #EXTINF:-1 tvg-logo="http://diretele.com/wp-content/uploads/2018/09/alcarria-tv-en-directo.png" group-title="27- PREMIUM ESPAÑA",Alcarria TV
 http://217.182.77.27/live/alcarriatv-livestream.m3u8?GrupoTopIptv
 
@@ -1240,8 +1234,11 @@ http://vergratis.ddns.net:25461/live/GRATIS/GRATIS/611.rtmp
 #EXTINF:-1 tvg-logo="http://www.brandemia.org/wp-content/uploads/2011/03/calle131.jpg" group-title="27- PREMIUM ESPAÑA",Calle 13 (*)
 http://vergratis.ddns.net:25461/live/GRATIS/GRATIS/572.rtmp
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/899531826238296064/VQHzZFKD_400x400.jpg" group-title="27- PREMIUM ESPAÑA",Canal #0
+#EXTINF:-1 tvg-logo="http://ayovega.com/wp-content/uploads/2017/10/cero.png" group-title="27- PREMIUM ESPAÑA",Canal #0 (*)
+http://vergratis.ddns.net:25461/live/GRATIS/GRATIS/583.rtmp
 
+#EXTINF:-1 tvg-logo="https://www.comparaiso.es/sites/comparaiso.es/files/images/logos/vamos-movistar-200x300.png" group-title="27- PREMIUM ESPAÑA",Canal #Vamos (*)
+http://vergratis.ddns.net:25461/live/GRATIS/GRATIS/512.rtmp
 
 #EXTINF:-1 tvg-logo="http://trecetv.es/images/logo-og.png" group-title="27- PREMIUM ESPAÑA",Canal 13
 http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/chunklist.m3u8?GrupoTopIptv
@@ -1390,7 +1387,7 @@ http://vergratis.ddns.net:25461/live/GRATIS/GRATIS/484.rtmp
 #EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-drama.jpg.pagespeed.ic.2pLss6-3MZ.jpg" group-title="27- PREMIUM ESPAÑA",M. Drama
 
 
-#EXTINF:-1 tvg-logo="https://satcesc.com/web/wp-content/uploads/2017/09/Movistar_Estrenos.jpg" group-title="27- PREMIUM ESPAÑA",M. Estrenos (*)
+#EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-estrenos.jpg.pagespeed.ic.0N8z3R8Y9H.jpg" group-title="27- PREMIUM ESPAÑA",M. Estrenos (*)
 http://vergratis.ddns.net:25461/live/GRATIS/GRATIS/561.rtmp
 
 #EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-formula-1.jpg.pagespeed.ic.gTD88kNap4.jpg" group-title="27- PREMIUM ESPAÑA",M. Formula 1 (*)
@@ -1495,7 +1492,7 @@ http://america-crtvg.flumotion.com/playlist.m3u8?GrupoTopIptv
 #EXTINF:-1 tvg-logo="http://www.clusteraudiovisualgalego.com/2018_img/tvg-logo.jpg" group-title="27- PREMIUM ESPAÑA",TV Galicia Europa
 http://europa-crtvg.flumotion.com/playlist.m3u8?GrupoTopIptv
 
-#EXTINF:-1 tvg-logo="http://www.laocho.tv/wp-content/themes/mediterra_V1.0/images/logo_TVMed_cabecera.png" group-title="27- PREMIUM ESPAÑA",TV Mediterraneo
+#EXTINF:-1 tvg-logo="http://opccv.es/wp-content/uploads/tvmediterraneo.png" group-title="27- PREMIUM ESPAÑA",TV Mediterraneo
 http://streaming.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/smil:live.smil/master.m3u8?GrupoTopIptv
 
 #EXTINF:-1 tvg-logo="https://www.programacion.tv/images/viajar.PNG" group-title="27- PREMIUM ESPAÑA",Viajar (*)
