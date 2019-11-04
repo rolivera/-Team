@@ -219,20 +219,23 @@ https://59f1cbe63db89.streamlock.net:1443/redeatividade/_definst_/redeatividade/
 #EXTINF:-1 tvg-logo="https://studiosol-a.akamaihd.net/uploadfile/letras/fotos/5/2/b/9/52b943caf2678a6a8cd401470782be46.jpg" group-title="04- BRASIL",Rede Pampa
 https://v8.ciclano.io:1443/rafael926/_definst_/rafael926/playlist.m3u8?GrupoTopIptv
 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="04- BRASIL",Record (1)
+http://painel.ebanonet.com.br:25461/456123/456123/4423
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="04- BRASIL",Record (2)
+http://painel.ebanonet.com.br:25461/Renato/123456/4423
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="04- BRASIL",Record (3)
+http://tv.factoryiptv.com:80/live/HkZwrR1cM/factoryiptv/37051.rtmp
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/k4haEx6.png" group-title="04- BRASIL",Rede TV (1)
 http://painel.ebanonet.com.br:25461/456123/456123/4420
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/k4haEx6.png" group-title="04- BRASIL",Rede TV (2)
 http://painel.ebanonet.com.br:25461/Renato/123456/4420
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/k4haEx6.png" group-title="04- BRASIL",Rede TV (2)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/k4haEx6.png" group-title="04- BRASIL",Rede TV (3)
 http://tv.factoryiptv.com:80/live/HkZwrR1cM/factoryiptv/51024.rtmp
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="04- BRASIL",Record (1)
-http://painel.ebanonet.com.br:25461/456123/456123/4423
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="04- BRASIL",Record (3)
-http://painel.ebanonet.com.br:25461/Renato/123456/4423
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" group-title="04- BRASIL",SBT Pioneira
 http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8?GrupoTopIptv
@@ -243,8 +246,8 @@ http://painel.ebanonet.com.br:25461/456123/456123/4331
 #EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="04- BRASIL",SBT (2)
 http://painel.ebanonet.com.br:25461/Renato/123456/4331
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="04- BRASIL",SBT (3)
-http://tv.factoryiptv.com:80/live/HkZwrR1cM/factoryiptv/51044.rtmp
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="04- BRASIL",SBT (3) Interior
+http://tv.factoryiptv.com:80/live/HkZwrR1cM/factoryiptv/42912.rtmp
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="04- BRASIL",SBT PE
 http://evpp.mm.uol.com.br/ne10/ne10_720.sdp/chunklist_w322427533.m3u8?GrupoTopIptv
@@ -1991,7 +1994,7 @@ http://painel.ebanonet.com.br:25461/456123/456123/4365
 http://painel.ebanonet.com.br:25461/Renato/123456/4365
 
 #EXTINF:-1 tvg-logo="http://aux4.iconspalace.com/uploads/797638582344877408.png" group-title="29- PREMIUM BRASIL",Hbo 2 (3)
-http://tv.factoryiptv.com:80/live/HkZwrR1cM/factoryiptv/50789.rtmp
+http://tv.factoryiptv.com:80/live/HkZwrR1cM/factoryiptv/37086.rtmp
 
 #EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/hbo-family-logo-320x320-745790760.png" group-title="29- PREMIUM BRASIL",Hbo Family (1)
 http://painel.ebanonet.com.br:25461/456123/456123/4364
@@ -1999,11 +2002,17 @@ http://painel.ebanonet.com.br:25461/456123/456123/4364
 #EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/hbo-family-logo-320x320-745790760.png" group-title="29- PREMIUM BRASIL",Hbo Family (2)
 http://painel.ebanonet.com.br:25461/Renato/123456/4364
 
+#EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/hbo-family-logo-320x320-745790760.png" group-title="29- PREMIUM BRASIL",Hbo Family (3)
+http://tv.factoryiptv.com:80/live/HkZwrR1cM/factoryiptv/37085.rtmp
+
 #EXTINF:-1 tvg-logo="http://contenidos.cablevision.com.mx/guia_programacion/channels/634.png" group-title="29- PREMIUM BRASIL",Hbo Plus (1)
 http://painel.ebanonet.com.br:25461/456123/456123/4363
 
 #EXTINF:-1 tvg-logo="http://contenidos.cablevision.com.mx/guia_programacion/channels/634.png" group-title="29- PREMIUM BRASIL",Hbo Plus (2)
 http://painel.ebanonet.com.br:25461/Renato/123456/4363
+
+#EXTINF:-1 tvg-logo="http://contenidos.cablevision.com.mx/guia_programacion/channels/634.png" group-title="29- PREMIUM BRASIL",Hbo Plus (3)
+http://tv.factoryiptv.com:80/live/HkZwrR1cM/factoryiptv/37084.rtmp
 
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/mx/HBOSignature.mx.png" group-title="29- PREMIUM BRASIL",Hbo Signature (1)
 http://painel.ebanonet.com.br:25461/456123/456123/4361
@@ -2011,11 +2020,17 @@ http://painel.ebanonet.com.br:25461/456123/456123/4361
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/mx/HBOSignature.mx.png" group-title="29- PREMIUM BRASIL",Hbo Signature (2)
 http://painel.ebanonet.com.br:25461/Renato/123456/4361
 
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/mx/HBOSignature.mx.png" group-title="29- PREMIUM BRASIL",Hbo Signature (3)
+http://tv.factoryiptv.com:80/live/HkZwrR1cM/factoryiptv/37082.rtmp
+
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-I_y7DS7ckN4/U2Au0ohgyEI/AAAAAAAACRI/UUmABBsgA2A/s1600/Max_HD-fullcaleta.biz.png" group-title="29- PREMIUM BRASIL",Max (1)
 http://painel.ebanonet.com.br:25461/456123/456123/4358
 
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-I_y7DS7ckN4/U2Au0ohgyEI/AAAAAAAACRI/UUmABBsgA2A/s1600/Max_HD-fullcaleta.biz.png" group-title="29- PREMIUM BRASIL",Max (2)
 http://painel.ebanonet.com.br:25461/Renato/123456/4358
+
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-I_y7DS7ckN4/U2Au0ohgyEI/AAAAAAAACRI/UUmABBsgA2A/s1600/Max_HD-fullcaleta.biz.png" group-title="29- PREMIUM BRASIL",Max (3)
+http://tv.factoryiptv.com:80/live/HkZwrR1cM/factoryiptv/37076.rtmp
 
 #EXTINF:-1 tvg-logo="http://sky.vteximg.com.br/arquivos/ids/156096/maxprime-hd.png?v=636446344633130000" group-title="29- PREMIUM BRASIL",Max Prime (1)
 http://painel.ebanonet.com.br:25461/456123/456123/4357
@@ -2023,11 +2038,17 @@ http://painel.ebanonet.com.br:25461/456123/456123/4357
 #EXTINF:-1 tvg-logo="http://sky.vteximg.com.br/arquivos/ids/156096/maxprime-hd.png?v=636446344633130000" group-title="29- PREMIUM BRASIL",Max Prime (2)
 http://painel.ebanonet.com.br:25461/Renato/123456/4357
 
+#EXTINF:-1 tvg-logo="http://sky.vteximg.com.br/arquivos/ids/156096/maxprime-hd.png?v=636446344633130000" group-title="29- PREMIUM BRASIL",Max Prime (3)
+http://tv.factoryiptv.com:80/live/HkZwrR1cM/factoryiptv/36912.rtmp
+
 #EXTINF:-1 tvg-logo="https://www.totalplay.com.mx/images/logos/canales/hbomax/max-up.png" group-title="29- PREMIUM BRASIL",Max Up (1)
 http://painel.ebanonet.com.br:25461/456123/456123/4355
 
 #EXTINF:-1 tvg-logo="https://www.totalplay.com.mx/images/logos/canales/hbomax/max-up.png" group-title="29- PREMIUM BRASIL",Max Up (2)
 http://painel.ebanonet.com.br:25461/Renato/123456/4355
+
+#EXTINF:-1 tvg-logo="https://www.totalplay.com.mx/images/logos/canales/hbomax/max-up.png" group-title="29- PREMIUM BRASIL",Max Up (3)
+http://tv.factoryiptv.com:80/live/HkZwrR1cM/factoryiptv/37073.rtmp
 
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/megapix-logo-png-7.png" group-title="29- PREMIUM BRASIL",Megapix (1)
 http://painel.ebanonet.com.br:25461/456123/456123/4354
@@ -2035,11 +2056,17 @@ http://painel.ebanonet.com.br:25461/456123/456123/4354
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/megapix-logo-png-7.png" group-title="29- PREMIUM BRASIL",Megapix (2)
 http://painel.ebanonet.com.br:25461/Renato/123456/4354
 
+#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/megapix-logo-png-7.png" group-title="29- PREMIUM BRASIL",Megapix (3)
+http://tv.factoryiptv.com:80/live/HkZwrR1cM/factoryiptv/50854.rtmp
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1153200946740174848/X4RlVPAc_400x400.png" group-title="29- PREMIUM BRASIL",Paramount (1)
 http://painel.ebanonet.com.br:25461/456123/456123/6946
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1153200946740174848/X4RlVPAc_400x400.png" group-title="29- PREMIUM BRASIL",Paramount (2)
 http://painel.ebanonet.com.br:25461/Renato/123456/6946
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1153200946740174848/X4RlVPAc_400x400.png" group-title="29- PREMIUM BRASIL",Paramount (3)
+http://tv.factoryiptv.com:80/live/HkZwrR1cM/factoryiptv/37062.rtmp
 
 #EXTINF:-1 tvg-logo="https://www.totalplay.com.mx/images/logos/canales/entretenimiento/canal-sony.png" group-title="29- PREMIUM BRASIL",Sony (1)
 http://painel.ebanonet.com.br:25461/456123/456123/4395
@@ -2047,11 +2074,17 @@ http://painel.ebanonet.com.br:25461/456123/456123/4395
 #EXTINF:-1 tvg-logo="https://www.totalplay.com.mx/images/logos/canales/entretenimiento/canal-sony.png" group-title="29- PREMIUM BRASIL",Sony (2)
 http://painel.ebanonet.com.br:25461/Renato/123456/4395
 
+#EXTINF:-1 tvg-logo="https://www.totalplay.com.mx/images/logos/canales/entretenimiento/canal-sony.png" group-title="29- PREMIUM BRASIL",Sony (3)
+http://tv.factoryiptv.com:80/live/HkZwrR1cM/factoryiptv/37007.rtmp
+
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8.png" group-title="29- PREMIUM BRASIL",Space (1)
 http://painel.ebanonet.com.br:25461/456123/456123/4328
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8.png" group-title="29- PREMIUM BRASIL",Space (2)
 http://painel.ebanonet.com.br:25461/Renato/123456/4328
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8.png" group-title="29- PREMIUM BRASIL",Space (3)
+http://tv.factoryiptv.com:80/live/HkZwrR1cM/factoryiptv/37046.rtmp
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/04/9e/d4/049ed43cd66568e2061b7bb44a00a925.png" group-title="29- PREMIUM BRASIL",Studio Universal (1)
 http://painel.ebanonet.com.br:25461/456123/456123/4324
@@ -2059,11 +2092,17 @@ http://painel.ebanonet.com.br:25461/456123/456123/4324
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/04/9e/d4/049ed43cd66568e2061b7bb44a00a925.png" group-title="29- PREMIUM BRASIL",Studio Universal (2)
 http://painel.ebanonet.com.br:25461/Renato/123456/4324
 
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/04/9e/d4/049ed43cd66568e2061b7bb44a00a925.png" group-title="29- PREMIUM BRASIL",Studio Universal (3)
+http://tv.factoryiptv.com:80/live/HkZwrR1cM/factoryiptv/36904.rtmp
+
 #EXTINF:-1 tvg-logo="https://www.programacion.tv/images/syfy.png" group-title="29- PREMIUM BRASIL",Syfy (1)
 http://painel.ebanonet.com.br:25461/456123/456123/4323
 
 #EXTINF:-1 tvg-logo="https://www.programacion.tv/images/syfy.png" group-title="29- PREMIUM BRASIL",Syfy (2)
 http://painel.ebanonet.com.br:25461/Renato/123456/4323
+
+#EXTINF:-1 tvg-logo="https://www.programacion.tv/images/syfy.png" group-title="29- PREMIUM BRASIL",Syfy (3)
+http://tv.factoryiptv.com:80/live/HkZwrR1cM/factoryiptv/37042.rtmp
 
 #EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/011/original/pic_tbs.png?1522176341" group-title="29- PREMIUM BRASIL",Tbs (1)
 http://painel.ebanonet.com.br:25461/456123/456123/4322
@@ -2071,11 +2110,17 @@ http://painel.ebanonet.com.br:25461/456123/456123/4322
 #EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/011/original/pic_tbs.png?1522176341" group-title="29- PREMIUM BRASIL",Tbs (2)
 http://painel.ebanonet.com.br:25461/Renato/123456/4322
 
+#EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/011/original/pic_tbs.png?1522176341" group-title="29- PREMIUM BRASIL",Tbs (3)
+http://tv.factoryiptv.com:80/live/HkZwrR1cM/factoryiptv/37041.rtmp
+
 #EXTINF:-1 tvg-logo="https://gartel.es/canales/tcm.png" group-title="29- PREMIUM BRASIL",Tcm (1)
 http://painel.ebanonet.com.br:25461/456123/456123/4321
 
 #EXTINF:-1 tvg-logo="https://gartel.es/canales/tcm.png" group-title="29- PREMIUM BRASIL",Tcm (2)
 http://painel.ebanonet.com.br:25461/Renato/123456/4321
+
+#EXTINF:-1 tvg-logo="https://gartel.es/canales/tcm.png" group-title="29- PREMIUM BRASIL",Tcm (3)
+http://tv.factoryiptv.com:80/live/HkZwrR1cM/factoryiptv/37037.rtmp
 
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/telecine-action-png-2.png" group-title="29- PREMIUM BRASIL",Telecine Action (1)
 http://painel.ebanonet.com.br:25461/456123/456123/4320
@@ -2083,11 +2128,23 @@ http://painel.ebanonet.com.br:25461/456123/456123/4320
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/telecine-action-png-2.png" group-title="29- PREMIUM BRASIL",Telecine Action (2)
 http://painel.ebanonet.com.br:25461/Renato/123456/4320
 
+#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/telecine-action-png-2.png" group-title="29- PREMIUM BRASIL",Telecine Action (3)
+http://tv.factoryiptv.com:80/live/HkZwrR1cM/factoryiptv/37040.rtmp
+
+#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/telecine-action-png-2.png" group-title="29- PREMIUM BRASIL",Telecine Action (3) HD
+http://tv.factoryiptv.com:80/live/HkZwrR1cM/factoryiptv/36939.rtmp
+
 #EXTINF:-1 tvg-logo="https://skytvplanos.com.br/img/channels/lg-66-canal-tc-cult.png" group-title="29- PREMIUM BRASIL",Telecine Cult (1)
 http://painel.ebanonet.com.br:25461/456123/456123/4319
 
 #EXTINF:-1 tvg-logo="https://skytvplanos.com.br/img/channels/lg-66-canal-tc-cult.png" group-title="29- PREMIUM BRASIL",Telecine Cult (2)
 http://painel.ebanonet.com.br:25461/Renato/123456/4319
+
+#EXTINF:-1 tvg-logo="https://skytvplanos.com.br/img/channels/lg-66-canal-tc-cult.png" group-title="29- PREMIUM BRASIL",Telecine Cult (3)
+http://tv.factoryiptv.com:80/live/HkZwrR1cM/factoryiptv/37039.rtmp
+
+#EXTINF:-1 tvg-logo="https://skytvplanos.com.br/img/channels/lg-66-canal-tc-cult.png" group-title="29- PREMIUM BRASIL",Telecine Cult (3) HD
+http://tv.factoryiptv.com:80/live/HkZwrR1cM/factoryiptv/36901.rtmp
 
 #EXTINF:-1 tvg-logo="https://skytvplanos.com.br/img/channels/lg-65-canal-tc-fun.png" group-title="29- PREMIUM BRASIL",Telecine Fun (1)
 http://painel.ebanonet.com.br:25461/456123/456123/4318
@@ -2095,11 +2152,23 @@ http://painel.ebanonet.com.br:25461/456123/456123/4318
 #EXTINF:-1 tvg-logo="https://skytvplanos.com.br/img/channels/lg-65-canal-tc-fun.png" group-title="29- PREMIUM BRASIL",Telecine Fun (2)
 http://painel.ebanonet.com.br:25461/Renato/123456/4318
 
+#EXTINF:-1 tvg-logo="https://skytvplanos.com.br/img/channels/lg-65-canal-tc-fun.png" group-title="29- PREMIUM BRASIL",Telecine Fun (3)
+http://tv.factoryiptv.com:80/live/HkZwrR1cM/factoryiptv/37005.rtmp
+
+#EXTINF:-1 tvg-logo="https://skytvplanos.com.br/img/channels/lg-65-canal-tc-fun.png" group-title="29- PREMIUM BRASIL",Telecine Fun (3) HD
+http://tv.factoryiptv.com:80/live/HkZwrR1cM/factoryiptv/36938.rtmp
+
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_telecine-pipoca-hd_m.png" group-title="29- PREMIUM BRASIL",Telecine Pipoca (1)
 http://painel.ebanonet.com.br:25461/456123/456123/4317
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_telecine-pipoca-hd_m.png" group-title="29- PREMIUM BRASIL",Telecine Pipoca (2)
 http://painel.ebanonet.com.br:25461/Renato/123456/4317
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_telecine-pipoca-hd_m.png" group-title="29- PREMIUM BRASIL",Telecine Pipoca (3)
+http://tv.factoryiptv.com:80/live/HkZwrR1cM/factoryiptv/37038.rtmp
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_telecine-pipoca-hd_m.png" group-title="29- PREMIUM BRASIL",Telecine Pipoca (3) HD
+http://tv.factoryiptv.com:80/live/HkZwrR1cM/factoryiptv/51089.rtmp
 
 #EXTINF:-1 tvg-logo="http://logowiki.net/wp-content/uploads/2018/01/Telecine-Premium-Logo-1-9853.png" group-title="29- PREMIUM BRASIL",Telecine Premium (1)
 http://painel.ebanonet.com.br:25461/456123/456123/4316
@@ -2107,11 +2176,23 @@ http://painel.ebanonet.com.br:25461/456123/456123/4316
 #EXTINF:-1 tvg-logo="http://logowiki.net/wp-content/uploads/2018/01/Telecine-Premium-Logo-1-9853.png" group-title="29- PREMIUM BRASIL",Telecine Premium (2)
 http://painel.ebanonet.com.br:25461/Renato/123456/4316
 
+#EXTINF:-1 tvg-logo="http://logowiki.net/wp-content/uploads/2018/01/Telecine-Premium-Logo-1-9853.png" group-title="29- PREMIUM BRASIL",Telecine Premium (3)
+http://tv.factoryiptv.com:80/live/HkZwrR1cM/factoryiptv/36994.rtmp
+
+#EXTINF:-1 tvg-logo="http://logowiki.net/wp-content/uploads/2018/01/Telecine-Premium-Logo-1-9853.png" group-title="29- PREMIUM BRASIL",Telecine Premium (3) HD
+http://tv.factoryiptv.com:80/live/HkZwrR1cM/factoryiptv/51104.rtmp
+
 #EXTINF:-1 tvg-logo="https://skytvplanos.com.br/img/channels/lg-263-canal-tc-touch-hd.png" group-title="29- PREMIUM BRASIL",Telecine Touch (1)
 http://painel.ebanonet.com.br:25461/456123/456123/4315
 
 #EXTINF:-1 tvg-logo="https://skytvplanos.com.br/img/channels/lg-263-canal-tc-touch-hd.png" group-title="29- PREMIUM BRASIL",Telecine Touch (2)
 http://painel.ebanonet.com.br:25461/Renato/123456/4315
+
+#EXTINF:-1 tvg-logo="https://skytvplanos.com.br/img/channels/lg-263-canal-tc-touch-hd.png" group-title="29- PREMIUM BRASIL",Telecine Touch (3)
+http://tv.factoryiptv.com:80/live/HkZwrR1cM/factoryiptv/36995.rtmp
+
+#EXTINF:-1 tvg-logo="https://skytvplanos.com.br/img/channels/lg-263-canal-tc-touch-hd.png" group-title="29- PREMIUM BRASIL",Telecine Touch (3) HD
+http://tv.factoryiptv.com:80/live/HkZwrR1cM/factoryiptv/36935.rtmp
 
 #EXTINF:-1 tvg-logo="http://mareatvcable.com/wp-content/uploads/2017/12/44-tntlogo.png" group-title="29- PREMIUM BRASIL",Tnt (1)
 http://painel.ebanonet.com.br:25461/456123/456123/4312
@@ -2119,11 +2200,17 @@ http://painel.ebanonet.com.br:25461/456123/456123/4312
 #EXTINF:-1 tvg-logo="http://mareatvcable.com/wp-content/uploads/2017/12/44-tntlogo.png" group-title="29- PREMIUM BRASIL",Tnt (2)
 http://painel.ebanonet.com.br:25461/Renato/123456/4312
 
+#EXTINF:-1 tvg-logo="http://mareatvcable.com/wp-content/uploads/2017/12/44-tntlogo.png" group-title="29- PREMIUM BRASIL",Tnt (3)
+http://tv.factoryiptv.com:80/live/HkZwrR1cM/factoryiptv/37035.rtmp
+
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/tnt-series-logo-01.png" group-title="29- PREMIUM BRASIL",Tnt Series (1)
 http://painel.ebanonet.com.br:25461/456123/456123/4311
 
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/tnt-series-logo-01.png" group-title="29- PREMIUM BRASIL",Tnt Series (2)
 http://painel.ebanonet.com.br:25461/Renato/123456/4311
+
+#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/tnt-series-logo-01.png" group-title="29- PREMIUM BRASIL",Tnt Series (3)
+http://tv.factoryiptv.com:80/live/HkZwrR1cM/factoryiptv/37034.rtmp
 
 #EXTINF:-1 tvg-logo="http://www.temporadafinal.com/gallery/5400ebfa0cc26universal-channel-.png" group-title="29- PREMIUM BRASIL",Universal Channel (1)
 http://painel.ebanonet.com.br:25461/456123/456123/4308
@@ -2131,11 +2218,17 @@ http://painel.ebanonet.com.br:25461/456123/456123/4308
 #EXTINF:-1 tvg-logo="http://www.temporadafinal.com/gallery/5400ebfa0cc26universal-channel-.png" group-title="29- PREMIUM BRASIL",Universal Channel (2)
 http://painel.ebanonet.com.br:25461/Renato/123456/4308
 
+#EXTINF:-1 tvg-logo="http://www.temporadafinal.com/gallery/5400ebfa0cc26universal-channel-.png" group-title="29- PREMIUM BRASIL",Universal Channel (3)
+http://tv.factoryiptv.com:80/live/HkZwrR1cM/factoryiptv/37027.rtmp
+
 #EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/08/d3e81-wb-hd-2011.png" group-title="29- PREMIUM BRASIL",Warner Channel (1)
 http://painel.ebanonet.com.br:25461/456123/456123/4307
 
 #EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/08/d3e81-wb-hd-2011.png" group-title="29- PREMIUM BRASIL",Warner Channel (2)
 http://painel.ebanonet.com.br:25461/Renato/123456/4307
+
+#EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/08/d3e81-wb-hd-2011.png" group-title="29- PREMIUM BRASIL",Warner Channel (3)
+http://tv.factoryiptv.com:80/live/HkZwrR1cM/factoryiptv/36996.rtmp
 
 ######################################################################################################################################
 #######################################
