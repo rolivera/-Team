@@ -27,8 +27,8 @@ https://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
 #EXTINF:-1 tvg-logo="http://futbolhoy.com.ar/wp-content/uploads/2019/03/A24.png" group-title="03- ARGENTINA",A24 (4)
 
 
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/America-TV.png" group-title="03- ARGENTINA",America (UMMO1)
-
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/America-TV.png" group-title="03- ARGENTINA",America
+http://extremo.dyndns.ws:25461/live/Alexis/Alexis/3360.rtmp
 
 #EXTINF:-1 tvg-logo="https://img3.androidappsapk.co/300/7/0/6/net.coninfo.admin.trecemaxtelevisin.png" group-title="03- ARGENTINA",13 Max
 http://coninfo.net:1935/13maxhd/live_720p/chunklist.m3u8?GrupoTopIptv
@@ -96,11 +96,14 @@ http://dcunilive28-lh.akamaihd.net/i/dclive_1@533583/index_150_av-p.m3u8?GrupoTo
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-garage_m.png" group-title="03- ARGENTINA",El Garage
 http://186.0.233.76:1935/Garage/garage.smil/playlist.m3u8?GrupoTopIptv
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/canal-9-m.jpg" group-title="03- ARGENTINA",El Nueve (4)
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/canal-9-m.jpg" group-title="03- ARGENTINA",El Nueve
+http://extremo.dyndns.ws:25461/live/Alexis/Alexis/3364.rtmp
 
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/canal-9-m.jpg" group-title="03- ARGENTINA",El Nueve
+http://extremo.dyndns.ws:25461/live/Alexis/Alexis/4646.rtmp
 
 #EXTINF:-1 tvg-logo="http://ipuntotv.com/IMAGES/ElTreceHD2012.jpg" group-title="03- ARGENTINA",El Trece
-
+http://extremo.dyndns.ws:25461/live/Alexis/Alexis/3361.rtmp
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1171440347508920320/7pwThQbq_400x400.jpg" group-title="03- ARGENTINA",KZO (4)
 
@@ -471,7 +474,7 @@ https://stream.vagalume.fm/hls/14647977281792658143/aac.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/24-Horas-Chile.png" group-title="06- CHILE",24 Horas
-
+http://extremo.dyndns.ws:25461/live/Alexis/Alexis/3731.rtmp
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m70PUPf.jpg" group-title="06- CHILE",Antofagasta TV
 http://unlimited1-us.dps.live/atv/atv.smil/atv/livestream2/chunks.m3u8?GrupoTopIptv
@@ -677,8 +680,8 @@ https://stream.vagalume.fm/hls/146411300413492499/aac.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ATPWac1.jpg" group-title="10- ECUADOR",Ecuador TV (UMMO1)
 
 
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/ecuavisa.png" group-title="10- ECUADOR",Ecuavisa (4)
-
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/ecuavisa.png" group-title="10- ECUADOR",Ecuavisa
+http://extremo.dyndns.ws:25461/live/Alexis/Alexis/3348.rtmp
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/FXqG3LnBX_A/hqdefault_live.jpg" group-title="10- ECUADOR",Hechos Ecuador
 http://37.187.7.106/hechostv/live.m3u8?GrupoTopIptv
@@ -790,7 +793,7 @@ http://extremo.dyndns.ws:25461/live/Alexis/Alexis/1889.rtmp
 http://extremo.dyndns.ws:25461/live/Alexis/Alexis/2809.rtmp
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_canal-de-las-estrellas_m.png" group-title="13- MEXICO",Canal de las Estrellas (1)
-
+http://extremo.dyndns.ws:25461/live/Alexis/Alexis/3341.rtmp
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/canal10cancum.png" group-title="13- MEXICO",Canal 10 Cancún
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8?GrupoTopIptv
@@ -833,6 +836,12 @@ http://extremo.dyndns.ws:25461/live/Alexis/Alexis/1445.rtmp
 
 #EXTINF:-1 tvg-logo="http://afiliados.televisa-networks.com/wp-content/uploads/2018/08/televisa-afiliados-canales-unicable.jpg" group-title="13- MEXICO",Unicable
 http://extremo.dyndns.ws:25461/live/Alexis/Alexis/1892.rtmp
+
+#EXTINF:-1 tvg-logo="https://tejanonation.files.wordpress.com/2015/06/unimas.png" group-title="13- MEXICO",Unimas
+http://extremo.dyndns.ws:25461/live/Alexis/Alexis/3816.rtmp
+
+#EXTINF:-1 tvg-logo="https://sc.dish.com/shared/images/station-logos/UNVSO.PNG" group-title="13- MEXICO",Universo
+http://extremo.dyndns.ws:25461/live/Alexis/Alexis/3338.rtmp
 
 #EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/univision-logo-png-transparent.png" group-title="13- MEXICO",Univision
 http://extremo.dyndns.ws:25461/live/Alexis/Alexis/1446.rtmp
@@ -1134,14 +1143,38 @@ https://stream.vagalume.fm/hls/147396460892793/aac.m3u8
 #EXTINF:-1 tvg-logo="https://omgdominicana.com.imgeng.in/https://storage.googleapis.com/mmc-cdn-bucket/logo-cdn-white.png" group-title="19- R.DOMINICANA",CDN37
 http://extremo.dyndns.ws:25461/123456/123456/1536
 
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-cN_Pd3ew6mA/Vh_r1k0ylvI/AAAAAAAD5Fw/FnB_ReZxRQY/s1600/logovision.png" group-title="19- R.DOMINICANA",Color Vision
+http://extremo.dyndns.ws:25461/live/Alexis/Alexis/3827.rtmp
+
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/06/digital-15.png" group-title="19- R.DOMINICANA",Digital 15
+http://extremo.dyndns.ws:25461/live/Alexis/Alexis/3820.rtmp
+
 #EXTINF:-1 tvg-logo="http://microvision.com.do/wp-content/uploads/Microvision_567-150.png" group-title="19- R.DOMINICANA",MicroVision
 
 
 #EXTINF:-1 tvg-logo="http://www.orbit.net/admin/upload/news/ygn35g.png" group-title="19- R.DOMINICANA",Orbit tv
 http://ss6.domint.net:2082/202_str/orbittv/media_w29206476_playlist.m3u8?GrupoTopIptv
 
-#EXTINF:-1 tvg-logo="http://www.noticiassin.com/wp-content/uploads/2014/06/photo.jpg" group-title="19- R.DOMINICANA",Telenord
+#EXTINF:-1 tvg-logo="http://dominicanchannels.net/wp-content/uploads/2013/07/logo_teleantillas.jpg" group-title="19- R.DOMINICANA",Teleantillas
+http://extremo.dyndns.ws:25461/live/Alexis/Alexis/3830.rtmp
 
+#EXTINF:-1 tvg-logo="https://cristalycolores.net/wp-content/uploads/2018/06/Telecentro_RD_1999-300x260.png" group-title="19- R.DOMINICANA",Telecentro
+http://extremo.dyndns.ws:25461/live/Alexis/Alexis/3824.rtmp
+
+#EXTINF:-1 tvg-logo="http://www.noticiassin.com/wp-content/uploads/2014/06/photo.jpg" group-title="19- R.DOMINICANA",Telenord
+http://extremo.dyndns.ws:25461/live/Alexis/Alexis/3822.rtmp
+
+#EXTINF:-1 tvg-logo="http://www.noticiassin.com/wp-content/uploads/2014/06/photo.jpg" group-title="19- R.DOMINICANA",Telenord
+http://extremo.dyndns.ws:25461/live/Alexis/Alexis/3828.rtmp
+
+#EXTINF:-1 tvg-logo="http://dominicanchannels.com/wp-content/uploads/2013/07/telesistema.png" group-title="19- R.DOMINICANA",Telesistema
+http://extremo.dyndns.ws:25461/live/Alexis/Alexis/3825.rtmp
+
+#EXTINF:-1 tvg-logo="http://emisoradominicana.net/television/wp-content/uploads/2015/06/teleunion-16.jpg" group-title="19- R.DOMINICANA",Teleunion
+http://extremo.dyndns.ws:25461/live/Alexis/Alexis/3808.rtmp
+
+#EXTINF:-1 tvg-logo="https://teleuniversotv.com/wp-content/uploads/2018/11/logo_teleuniverso_400px.png" group-title="19- R.DOMINICANA",Teleuniverso
+http://extremo.dyndns.ws:25461/live/Alexis/Alexis/3823.rtmp
 
 #EXTINF:-1 tvg-logo="http://www.tvs.com.do/tvs/wp-content/uploads/2018/09/top-main.png" group-title="19- R.DOMINICANA",TVS tv
 
@@ -1172,6 +1205,9 @@ http://wohuogai.com:37000/live/paratodos_arsat.7654FDUHG/fgxhfdjkhFXJGCtuy/67812
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1107997180311281665/c72fyy_F_400x400.png" group-title="20- URUGUAY",Montecarlo (4)
 http://wohuogai.com:37000/live/redcol_hgciy75rifyktfiy/gfxutrd65rythfgfdUF/67812.ts
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1107997180311281665/c72fyy_F_400x400.png" group-title="20- URUGUAY",Montecarlo (6)
+http://extremo.dyndns.ws:25461/live/Alexis/Alexis/15246.rtmp
 
 #EXTINF:-1 tvg-logo="http://www.canalm.tv/plantillas/temas/canalm/imagenes/canalm.png" group-title="20- URUGUAY",Montevideo Portal
 http://wowza.montevideo.com.uy:1936/live/_definst_/mvdstrem/chunklist.m3u8?GrupoTopIptv
@@ -1460,6 +1496,9 @@ http://extremo.dyndns.ws:25461/live/Alexis/Alexis/2841.rtmp
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/mx/HBOSignature.mx.png"  group-title="26- PREMIUM USA",HBO Signature (UMMO)
 
 
+#EXTINF:-1 tvg-logo="https://www.cabletv.com/app/uploads/HGTV-Logo-1.png"  group-title="26- PREMIUM USA",HGTV
+http://extremo.dyndns.ws:25461/live/Alexis/Alexis/3005.rtmp
+
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/InvestigationDiscovery.uk.png"  group-title="26- PREMIUM USA",Investigation Discovery (UMMO)
 
 
@@ -1472,11 +1511,11 @@ http://extremo.dyndns.ws:25461/live/Alexis/Alexis/2556.rtmp
 #EXTINF:-1 tvg-logo="https://s3.amazonaws.com/ok2logo/MSG%2B+logo.jpg"  group-title="26- PREMIUM USA",MSG +
 http://extremo.dyndns.ws:25461/live/Alexis/Alexis/2558.rtmp
 
-#EXTINF:-1 tvg-logo="https://media1.s-nbcnews.com/i/newscms/2018_21/2442291/msnbc-og-image_c986de7e1bb6ad2281723b692aa61990.png"  group-title="26- PREMIUM USA",MSNBC (UMMO)
+#EXTINF:-1 tvg-logo="https://media1.s-nbcnews.com/i/newscms/2018_21/2442291/msnbc-og-image_c986de7e1bb6ad2281723b692aa61990.png"  group-title="26- PREMIUM USA",MSNBC
+http://extremo.dyndns.ws:25461/live/Alexis/Alexis/3833.rtmp
 
-
-#EXTINF:-1 tvg-logo="https://diylogodesigns.com/wp-content/uploads/2017/07/national-geographic-logo-vector-768x768.png"  group-title="26- PREMIUM USA",Nat Geo (UMMO)
-
+#EXTINF:-1 tvg-logo="https://diylogodesigns.com/wp-content/uploads/2017/07/national-geographic-logo-vector-768x768.png"  group-title="26- PREMIUM USA",Nat Geo
+http://extremo.dyndns.ws:25461/live/Alexis/Alexis/5986.rtmp
 
 #EXTINF:-1 tvg-logo="http://www.lettreaudiovisuel.com/wp-content/uploads/2014/12/Nat-Geo-Wild.png"  group-title="26- PREMIUM USA",Nat Geo Wild
 http://extremo.dyndns.ws:25461/live/Alexis/Alexis/2335.rtmp
@@ -2187,7 +2226,7 @@ http://extremo.dyndns.ws:25461/live/123456/123456/17569.rtmp
 #EXTINF:-1 tvg-logo="https://www.telecablecr.com/wp-content/uploads/2018/11/LOGO-FOXPREMIUM_FAMILYHD.png" group-title="28- PREMIUM LATINO",Fox Family (5)*
 http://extremo.dyndns.ws:25461/live/470077/470077/17569.rtmp
 
-#EXTINF:-1 tvg-logo="https://www.telecablecr.com/wp-content/uploads/2018/11/LOGO-FOXPREMIUM_FAMILYHD.png" group-title="28- PREMIUM LATINO",Fox Family (6) HD
+#EXTINF:-1 tvg-logo="https://www.telecablecr.com/wp-content/uploads/2018/11/LOGO-FOXPREMIUM_FAMILYHD.png" group-title="28- PREMIUM LATINO",Fox Family (6)
 http://extremo.dyndns.ws:25461/live/Alexis/Alexis/17569.rtmp
 
 #EXTINF:-1 tvg-logo="http://neurads.com/wp-content/uploads/foxlife-2.png" group-title="28- PREMIUM LATINO",Fox Life (1)
@@ -2255,6 +2294,9 @@ http://extremo.dyndns.ws:25461/live/123456/123456/17570.rtmp
 
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_SERIES.png" group-title="28- PREMIUM LATINO",Fox Series (5)*
 http://extremo.dyndns.ws:25461/live/470077/470077/17570.rtmp
+
+#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_SERIES.png" group-title="28- PREMIUM LATINO",Fox Series (6)
+http://extremo.dyndns.ws:25461/live/Alexis/Alexis/17570.rtmp
 
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_SERIES.png" group-title="28- PREMIUM LATINO",Fox Series (7) TEMP
 http://extremo.dyndns.ws:25461/live/Alexis/Alexis/17570.rtmp
@@ -2482,7 +2524,7 @@ http://wohuogai.com:37000/live/redcol_hgciy75rifyktfiy/gfxutrd65rythfgfdUF/4997.
 
 
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/mx/HBOSignature.mx.png" group-title="28- PREMIUM LATINO",Hbo Signature (6)
-
+http://extremo.dyndns.ws:25461/live/Alexis/Alexis/3133.rtmp
 
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/mx/HBOSignature.mx.png" group-title="28- PREMIUM LATINO",Hbo Signature (7) TEMP
 http://disfruta.net:80/live/tani/tani/112.rtmp
@@ -2784,8 +2826,8 @@ http://wohuogai.com:37000/live/paratodos_arsat.7654FDUHG/fgxhfdjkhFXJGCtuy/58668
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/tnt-series-logo-01.png" group-title="28- PREMIUM LATINO",Tnt Series (4)
 http://wohuogai.com:37000/live/redcol_hgciy75rifyktfiy/gfxutrd65rythfgfdUF/58668.ts
 
-#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/tnt-series-logo-01.png" group-title="28- PREMIUM LATINO",Tnt Series (5)
-
+#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/tnt-series-logo-01.png" group-title="28- PREMIUM LATINO",Tnt Series (6)
+http://extremo.dyndns.ws:25461/live/Alexis/Alexis/8794.rtmp
 
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/tnt-series-logo-01.png" group-title="28- PREMIUM LATINO",Tnt Series (7) TEMP
 http://disfruta.net:80/live/tani/tani/23461.rtmp
@@ -3845,6 +3887,9 @@ http://wohuogai.com:37000/live/paratodos_arsat.7654FDUHG/fgxhfdjkhFXJGCtuy/10849
 #EXTINF:-1 tvg-logo="http://liveitkodi.com/Logos/BabyTV.png" group-title="32- INFANTIL LATINO",Baby TV (4)
 http://wohuogai.com:37000/live/redcol_hgciy75rifyktfiy/gfxutrd65rythfgfdUF/10849.ts
 
+#EXTINF:-1 tvg-logo="http://liveitkodi.com/Logos/BabyTV.png" group-title="32- INFANTIL LATINO",Baby TV (6)
+http://extremo.dyndns.ws:25461/live/Alexis/Alexis/17545.rtmp
+
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/boing-logo-png.png" group-title="32- INFANTIL LATINO",Boing
 http://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8?GrupoTopIptv
 
@@ -3882,7 +3927,7 @@ http://wohuogai.com:37000/live/paratodos_arsat.7654FDUHG/fgxhfdjkhFXJGCtuy/4938.
 http://wohuogai.com:37000/live/redcol_hgciy75rifyktfiy/gfxutrd65rythfgfdUF/4938.ts
 
 #EXTINF:-1 tvg-logo="https://orig00.deviantart.net/1354/f/2016/129/2/d/untitled_drawing_by_jared33-da1wdty.png" group-title="32- INFANTIL LATINO",Cartoon Network (6)
-
+http://extremo.dyndns.ws:25461/live/Alexis/Alexis/17546.rtmp
 
 #EXTINF:-1 tvg-logo="https://www.canalipe.tv/sites/default/files/web/programas/logoipeplay/logo_chicosipe.png" group-title="32- INFANTIL LATINO",Chicos Ipe
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8?GrupoTopIptv
@@ -3924,7 +3969,7 @@ http://wohuogai.com:37000/live/paratodos_arsat.7654FDUHG/fgxhfdjkhFXJGCtuy/4863.
 http://wohuogai.com:37000/live/redcol_hgciy75rifyktfiy/gfxutrd65rythfgfdUF/4863.ts
 
 #EXTINF:-1 tvg-logo="http://logosvector.net/wp-content/uploads/2014/07/new-disney-channel-logo.png" group-title="32- INFANTIL LATINO",Disney Channel (6)
-
+http://extremo.dyndns.ws:25461/live/Alexis/Alexis/17547.rtmp
 
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/disney-junior-logo-01.png" group-title="32- INFANTIL LATINO",Disney Junior (1)
 
@@ -3942,7 +3987,7 @@ http://wohuogai.com:37000/live/paratodos_arsat.7654FDUHG/fgxhfdjkhFXJGCtuy/4953.
 http://wohuogai.com:37000/live/redcol_hgciy75rifyktfiy/gfxutrd65rythfgfdUF/4953.ts
 
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/disney-junior-logo-01.png" group-title="32- INFANTIL LATINO",Disney Junior (6)
-
+http://extremo.dyndns.ws:25461/live/Alexis/Alexis/17548.rtmp
 
 #EXTINF:-1 tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2015/10/Disney_XD_-_2015.svg_.png" group-title="32- INFANTIL LATINO",Disney XD (1)
 
@@ -3960,7 +4005,7 @@ http://wohuogai.com:37000/live/paratodos_arsat.7654FDUHG/fgxhfdjkhFXJGCtuy/4954.
 http://wohuogai.com:37000/live/redcol_hgciy75rifyktfiy/gfxutrd65rythfgfdUF/4954.ts
 
 #EXTINF:-1 tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2015/10/Disney_XD_-_2015.svg_.png" group-title="32- INFANTIL LATINO",Disney XD (6)
-
+http://extremo.dyndns.ws:25461/live/Alexis/Alexis/17549.rtmp
 
 #EXTINF:-1 tvg-logo="http://funboxchannel.com/wp-content/uploads/2018/12/funbox-2.png" group-title="32- INFANTIL LATINO",Fun Box
 
@@ -3976,6 +4021,9 @@ http://wohuogai.com:37000/live/paratodos_arsat.7654FDUHG/fgxhfdjkhFXJGCtuy/10589
 
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/natgeo-kids-logo-01.png" group-title="32- INFANTIL LATINO",Nat Geo Kids (4)
 http://wohuogai.com:37000/live/redcol_hgciy75rifyktfiy/gfxutrd65rythfgfdUF/10589.ts
+
+#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/natgeo-kids-logo-01.png" group-title="32- INFANTIL LATINO",Nat Geo Kids (6)
+http://extremo.dyndns.ws:25461/live/Alexis/Alexis/17550.rtmp
 
 #EXTINF:-1 tvg-logo="https://www.e-channel.ec/blog/wp-content/uploads/2015/09/NICK.png" group-title="32- INFANTIL LATINO",Nickelodeon (1)
 
@@ -4035,7 +4083,7 @@ http://wohuogai.com:37000/live/paratodos_arsat.7654FDUHG/fgxhfdjkhFXJGCtuy/58696
 http://wohuogai.com:37000/live/redcol_hgciy75rifyktfiy/gfxutrd65rythfgfdUF/58696.ts
 
 #EXTINF:-1 tvg-logo="http://www.arrecifesciudad.com/muluni/imagenes/logos-tv/nicktoons.png" group-title="32- INFANTIL LATINO",NickToons (6)
-
+http://extremo.dyndns.ws:25461/live/Alexis/Alexis/17551.rtmp
 
 #EXTINF:-1 tvg-logo="http://startvmexico.com/wp-content/uploads/2018/10/tiin.png" group-title="32- INFANTIL LATINO",Tiin
 
@@ -4053,7 +4101,7 @@ http://wohuogai.com:37000/live/paratodos_arsat.7654FDUHG/fgxhfdjkhFXJGCtuy/58667
 http://wohuogai.com:37000/live/redcol_hgciy75rifyktfiy/gfxutrd65rythfgfdUF/58667.ts
 
 #EXTINF:-1 tvg-logo="https://t3.kn3.net/taringa/A/7/E/6/A/C/RevolucionCN/83A.png" group-title="32- INFANTIL LATINO",Tooncast (6)
-
+http://extremo.dyndns.ws:25461/live/Alexis/Alexis/17552.rtmp
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/EBEhFwUXoAMSYue.png" group-title="32- INFANTIL LATINO",Vme Kids
 
@@ -4380,7 +4428,7 @@ http://wohuogai.com:37000/live/paratodos_arsat.7654FDUHG/fgxhfdjkhFXJGCtuy/4933.
 http://wohuogai.com:37000/live/redcol_hgciy75rifyktfiy/gfxutrd65rythfgfdUF/4933.ts
 
 #EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/020/original/pic_a_e.png?1522180692" group-title="38- DOCUMENTALES LATINOS",A&E (6)
-
+http://extremo.dyndns.ws:25461/live/Alexis/Alexis/8707.rtmp
 
 #EXTINF:-1 tvg-logo="https://comcastspotlight.com/sites/default/files/networks/Animal%20Planet%20Large%20Stacked.png" group-title="38- DOCUMENTALES LATINOS",Animal Planet (1)
 
@@ -4395,7 +4443,7 @@ http://wohuogai.com:37000/live/paratodos_arsat.7654FDUHG/fgxhfdjkhFXJGCtuy/4843.
 http://wohuogai.com:37000/live/redcol_hgciy75rifyktfiy/gfxutrd65rythfgfdUF/4843.ts
 
 #EXTINF:-1 tvg-logo="https://comcastspotlight.com/sites/default/files/networks/Animal%20Planet%20Large%20Stacked.png" group-title="38- DOCUMENTALES LATINOS",Animal Planet (6)
-
+http://extremo.dyndns.ws:25461/live/Alexis/Alexis/16394.rtmp
 
 #EXTINF:-1 tvg-logo="https://hcil.umd.edu/wp-content/uploads/2015/12/Discovery-Channel-logo.png" group-title="38- DOCUMENTALES LATINOS",Discovery Channel (1)
 
@@ -4424,8 +4472,8 @@ http://wohuogai.com:37000/live/paratodos_arsat.7654FDUHG/fgxhfdjkhFXJGCtuy/58763
 #EXTINF:-1 tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/60431_logo_discovery_civilization.png" group-title="38- DOCUMENTALES LATINOS",Discovery Civilization (4)
 http://wohuogai.com:37000/live/redcol_hgciy75rifyktfiy/gfxutrd65rythfgfdUF/58763.ts
 
-#EXTINF:-1 tvg-logo="https://static.brandfolder.com/discoveryfamilia/logo/discoveryfamilia-primary-logo.png" group-title="38- DOCUMENTALES LATINOS",Discovery Familia (1)
-
+#EXTINF:-1 tvg-logo="https://static.brandfolder.com/discoveryfamilia/logo/discoveryfamilia-primary-logo.png" group-title="38- DOCUMENTALES LATINOS",Discovery Familia (6)
+http://extremo.dyndns.ws:25461/live/Alexis/Alexis/17655.rtmp
 
 #EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/027/original/pic_investigactiondisc.png?1522177058" group-title="38- DOCUMENTALES LATINOS",Discovery Investigation (1)
 
@@ -4470,7 +4518,7 @@ http://wohuogai.com:37000/live/paratodos_arsat.7654FDUHG/fgxhfdjkhFXJGCtuy/4948.
 http://wohuogai.com:37000/live/redcol_hgciy75rifyktfiy/gfxutrd65rythfgfdUF/4948.ts
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logos2/images/f/f2/Discovery_Science_logo.png/revision/latest?cb=20180514182753" group-title="38- DOCUMENTALES LATINOS",Discovery Science (6)
-
+http://extremo.dyndns.ws:25461/live/Alexis/Alexis/4972.rtmp
 
 #EXTINF:-1 tvg-logo="https://www.cotes.net.bo/appCotes/public/appWeb_/assets/images/canales/17.2.png" group-title="38- DOCUMENTALES LATINOS",Discovery Theater (1)
 
@@ -4483,6 +4531,9 @@ http://wohuogai.com:37000/live/paratodos_arsat.7654FDUHG/fgxhfdjkhFXJGCtuy/58563
 
 #EXTINF:-1 tvg-logo="https://www.cotes.net.bo/appCotes/public/appWeb_/assets/images/canales/17.2.png" group-title="38- DOCUMENTALES LATINOS",Discovery Theater (4)
 http://wohuogai.com:37000/live/redcol_hgciy75rifyktfiy/gfxutrd65rythfgfdUF/58563.ts
+
+#EXTINF:-1 tvg-logo="https://www.cotes.net.bo/appCotes/public/appWeb_/assets/images/canales/17.2.png" group-title="38- DOCUMENTALES LATINOS",Discovery Theater (6)
+http://extremo.dyndns.ws:25461/live/Alexis/Alexis/3132.rtmp
 
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/discovery-turbo-logo-01.png" group-title="38- DOCUMENTALES LATINOS",Discovery Turbo (1)
 
@@ -4515,7 +4566,7 @@ http://wohuogai.com:37000/live/paratodos_arsat.7654FDUHG/fgxhfdjkhFXJGCtuy/58755
 http://wohuogai.com:37000/live/redcol_hgciy75rifyktfiy/gfxutrd65rythfgfdUF/58755.ts
 
 #EXTINF:-1 tvg-logo="https://www.skytvporassinatura.com.br/wp-content/uploads/2018/01/canal-discovery-world-hd-sky-1.png" group-title="38- DOCUMENTALES LATINOS",Discovery World (6)
-
+http://extremo.dyndns.ws:25461/live/Alexis/Alexis/4941.rtmp
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/35/13/17/35131727c2635cec3274d9bd93868db2.png" group-title="38- DOCUMENTALES LATINOS",History Channel (1)
 
@@ -4566,7 +4617,7 @@ http://wohuogai.com:37000/live/paratodos_arsat.7654FDUHG/fgxhfdjkhFXJGCtuy/4975.
 http://wohuogai.com:37000/live/redcol_hgciy75rifyktfiy/gfxutrd65rythfgfdUF/4975.ts
 
 #EXTINF:-1 tvg-logo="https://diylogodesigns.com/wp-content/uploads/2017/07/national-geographic-logo-vector-768x768.png" group-title="38- DOCUMENTALES LATINOS",Nat Geo (6)
-
+http://extremo.dyndns.ws:25461/live/Alexis/Alexis/14937.rtmp
 
 #EXTINF:-1 tvg-logo="https://www.directv.com/images/logos/channels/dark/large/354.png" group-title="38- DOCUMENTALES LATINOS",Nat Geo Mundo (1)
 
@@ -4608,7 +4659,7 @@ http://wohuogai.com:37000/live/paratodos_arsat.7654FDUHG/fgxhfdjkhFXJGCtuy/58671
 http://wohuogai.com:37000/live/redcol_hgciy75rifyktfiy/gfxutrd65rythfgfdUF/58671.ts
 
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/tlc-logo-01.png" group-title="38- DOCUMENTALES LATINOS",Tlc (6)
-
+http://extremo.dyndns.ws:25461/live/Alexis/Alexis/4942.rtmp
 
 ######################################################################################################################################
 #######################################
@@ -4856,7 +4907,7 @@ http://wohuogai.com:37000/live/paratodos_arsat.7654FDUHG/fgxhfdjkhFXJGCtuy/5001.
 http://wohuogai.com:37000/live/redcol_hgciy75rifyktfiy/gfxutrd65rythfgfdUF/5001.ts
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_cdf-premium_m.png" group-title="41- DEPORTES LATINO",Cdf Premium (6)
-
+http://extremo.dyndns.ws:25461/live/Alexis/Alexis/16303.rtmp
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/06/cdo.png" group-title="41- DEPORTES LATINO",Cdo
 http://edge1.cl.grupoz.cl/cdofree/live/chunklist_w822432298.m3u8?GrupoTopIptv
@@ -4991,7 +5042,7 @@ http://wohuogai.com:37000/live/paratodos_arsat.7654FDUHG/fgxhfdjkhFXJGCtuy/58743
 http://wohuogai.com:37000/live/redcol_hgciy75rifyktfiy/gfxutrd65rythfgfdUF/58743.ts
 
 #EXTINF:-1 tvg-logo="https://imgs.clipartwiki.com/clipimg/small/121-1216642_mls-live-on-espn-espn-logo.png" group-title="41- DEPORTES LATINO",Espn Plus (6)
-
+http://extremo.dyndns.ws:25461/live/Alexis/Alexis/3003.rtmp
 
 #EXTINF:-1 tvg-logo="https://www.directv.com/images/logos/channels/dark/large/462.png" group-title="41- DEPORTES LATINO",Espn Deportes (1)
 
@@ -5032,6 +5083,9 @@ http://wohuogai.com:37000/live/redcol_hgciy75rifyktfiy/gfxutrd65rythfgfdUF/58726
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_fox-sports-2_m.png" group-title="41- DEPORTES LATINO",Fox Sports 2 (6)
 http://extremo.dyndns.ws:25461/live/Alexis/Alexis/2173.rtmp
 
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_fox-sports-2_m.png" group-title="41- DEPORTES LATINO",Fox Sports 2 (6)
+http://extremo.dyndns.ws:25461/live/Alexis/Alexis/3954.rtmp
+
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-sports-3_m.png" group-title="41- DEPORTES LATINO",Fox Sports 3 (1)
 
 
@@ -5045,7 +5099,7 @@ http://wohuogai.com:37000/live/paratodos_arsat.7654FDUHG/fgxhfdjkhFXJGCtuy/58725
 http://wohuogai.com:37000/live/redcol_hgciy75rifyktfiy/gfxutrd65rythfgfdUF/58725.ts
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-sports-3_m.png" group-title="41- DEPORTES LATINO",Fox Sports 3 (6)
-
+http://extremo.dyndns.ws:25461/live/Alexis/Alexis/3964.rtmp
 
 #EXTINF:-1 tvg-logo="https://s3-assets1.flowics.com/web/uploads/production/generic-resources/asset/20429/versioned_b9b117b2abb9cab316bdabfe18b654dc_small.png" group-title="41- DEPORTES LATINO",Fox Sports Premium (2)
 
@@ -5083,8 +5137,8 @@ http://trinity-lh.akamaihd.net/i/GolTVModel4A_d@422865/index_500_av-p.m3u8?Grupo
 #EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/goltv.png" group-title="41- DEPORTES LATINO",GolTV Ecuador (3)
 
 
-#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/goltv.png" group-title="41- DEPORTES LATINO",GolTV Ecuador (6)
-
+#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/goltv.png" group-title="41- DEPORTES LATINO",GolTV Latino (6)
+http://extremo.dyndns.ws:25461/live/Alexis/Alexis/3339.rtmp
 
 #EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/goltv.png" group-title="41- DEPORTES LATINO",GolTV Uruguay (2)
 
@@ -5095,8 +5149,8 @@ http://trinity-lh.akamaihd.net/i/GolTVModel4A_d@422865/index_500_av-p.m3u8?Grupo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7KCBnxD.png" group-title="41- DEPORTES LATINO",Izzi Afizzionados (2)
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7KCBnxD.png" group-title="41- DEPORTES LATINO",Izzi Afizzionados (3)
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7KCBnxD.png" group-title="41- DEPORTES LATINO",Izzi Afizzionados (6)
+http://extremo.dyndns.ws:25461/live/Alexis/Alexis/6386.rtmp
 
 #EXTINF:-1 tvg-logo="http://static.plustv.pe/assets/images/movistardeportes-220x147.png" group-title="41- DEPORTES LATINO",Movistar Deportes Peru (2)
 
@@ -5117,7 +5171,7 @@ http://wohuogai.com:37000/live/paratodos_arsat.7654FDUHG/fgxhfdjkhFXJGCtuy/67807
 http://wohuogai.com:37000/live/redcol_hgciy75rifyktfiy/gfxutrd65rythfgfdUF/67807.ts
 
 #EXTINF:-1 tvg-logo="https://ayuda.tigo.co.cr/hc/article_attachments/360037602474/tigo_sports.png" group-title="41- DEPORTES LATINO",Tigo Sports (6)
-
+http://extremo.dyndns.ws:25461/live/Alexis/Alexis/3900.rtmp
 
 #EXTINF:-1 tvg-logo="https://ayuda.tigo.co.cr/hc/article_attachments/360037602474/tigo_sports.png" group-title="41- DEPORTES LATINO",Tigo Sports 2 (2)
 
@@ -5154,6 +5208,9 @@ http://wohuogai.com:37000/live/redcol_hgciy75rifyktfiy/gfxutrd65rythfgfdUF/60486
 
 #EXTINF:-1 tvg-logo="http://budtv.ottmex.com/posters/1529007557436.png" group-title="41- DEPORTES LATINO",Tnt Sports (6)
 http://extremo.dyndns.ws:25461/live/Alexis/Alexis/2627.rtmp
+
+#EXTINF:-1 tvg-logo="http://budtv.ottmex.com/posters/1529007557436.png" group-title="41- DEPORTES LATINO",Tnt Sports (6)
+http://extremo.dyndns.ws:25461/live/Alexis/Alexis/4117.rtmp
 
 #EXTINF:-1 tvg-logo="https://s22958.pcdn.co/wp-content/uploads/2017/04/TUDN_824x568.png" group-title="41- DEPORTES LATINO",Tudn (1)
 
@@ -5194,6 +5251,9 @@ http://wohuogai.com:37000/live/redcol_hgciy75rifyktfiy/gfxutrd65rythfgfdUF/60480
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_tyc-sports-hd_m.png" group-title="41- DEPORTES LATINO",TyC (6)
 http://extremo.dyndns.ws:25461/live/Alexis/Alexis/2803.rtmp
 
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_tyc-sports-hd_m.png" group-title="41- DEPORTES LATINO",TyC (6)
+http://extremo.dyndns.ws:25461/live/Alexis/Alexis/3366.rtmp
+
 #EXTINF:-1 tvg-logo="http://www.logoteca.uy/uploads/imagenes/file_2da07aaf6d.png" group-title="41- DEPORTES LATINO",VTV (1)
 
 
@@ -5229,6 +5289,9 @@ http://wohuogai.com:37000/live/redcol_hgciy75rifyktfiy/gfxutrd65rythfgfdUF/5010.
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png" group-title="41- DEPORTES LATINO",Win Sports (6)
 http://extremo.dyndns.ws:25461/live/Alexis/Alexis/1329.rtmp
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png" group-title="41- DEPORTES LATINO",Win Sports (6)
+http://extremo.dyndns.ws:25461/live/Alexis/Alexis/7314.rtmp
 
 ######################################################################################################################################
 ####################################### ESPORTES BRASIL
