@@ -609,6 +609,9 @@ http://extremo.dyndns.ws:25461/live/Alexis/Alexis/1327.rtmp
 
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/telecaribe.png" group-title="07- COLOMBIA",Telecaribe
+http://extremo.dyndns.ws:25461/live/Alexis/Alexis/7980.rtmp
+
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/telecaribe.png" group-title="07- COLOMBIA",Telecaribe
 http://telecaribe-hd.gcdn.anvato.net/hls/live/telecaribehd/2196k/index.m3u8?GrupoTopIptv
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/telecaribe.png" group-title="07- COLOMBIA",Telecaribe
@@ -813,6 +816,9 @@ http://23.227.189.81/ciudadtv/abr_ciudadtv/playlist.m3u8?GrupoTopIptv
 #EXTINF:-1 tvg-logo="https://hispanicmarketworks.org/wp-content/uploads/2015/05/20150518-PG15-Estrella.jpg" group-title="13- MEXICO",Estrella tv
 http://extremo.dyndns.ws:25461/live/Alexis/Alexis/2596.rtmp
 
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/forotv.png" group-title="13- MEXICO",Foro tv
+http://extremo.dyndns.ws:25461/live/Alexis/Alexis/7399.rtmp
+
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/11/milenio-TV.png" group-title="13- MEXICO",Milenio
 http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8?GrupoTopIptv
 
@@ -825,6 +831,9 @@ http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?GrupoTopIpt
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DHOocZiU0AE30ro.png" group-title="13- MEXICO",Multimedios +
 http://live.gvstream.net:1935/e-tv-video/play.stream/playlist.m3u8?GrupoTopIptv
 
+#EXTINF:-1 tvg-logo="http://www.laetv.tv/images/pasiones.png" group-title="13- MEXICO",Pasiones
+http://extremo.dyndns.ws:25461/live/Alexis/Alexis/7381.rtmp
+
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/cb973f_4cb07abd906a4ecb89a09c031a6f6f54~mv2_d_3658_1973_s_2.png/v1/fill/w_399,h_215,al_c,usm_0.66_1.00_0.01/cb973f_4cb07abd906a4ecb89a09c031a6f6f54~mv2_d_3658_1973_s_2.png" group-title="13- MEXICO",RTQ
 http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8?GrupoTopIptv
 
@@ -833,6 +842,9 @@ http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u?GrupoTopIptv
 
 #EXTINF:-1 tvg-logo="https://media.telemundo47.com/images/1200*675/T47+logo+black1.jpg" group-title="13- MEXICO",Telemundo 47
 http://extremo.dyndns.ws:25461/live/Alexis/Alexis/1445.rtmp
+
+#EXTINF:-1 tvg-logo="https://www.newslinereport.com/online/nota_distincin-para-telemundo-internacional-durante-los-dari-awards.jpg" group-title="13- MEXICO",Telemundo Int
+http://extremo.dyndns.ws:25461/live/Alexis/Alexis/7398.rtmp
 
 #EXTINF:-1 tvg-logo="http://afiliados.televisa-networks.com/wp-content/uploads/2018/08/televisa-afiliados-canales-unicable.jpg" group-title="13- MEXICO",Unicable
 http://extremo.dyndns.ws:25461/live/Alexis/Alexis/1892.rtmp
@@ -1397,8 +1409,8 @@ http://ic7.101.ru:8000/a8
 #EXTINF:-1 tvg-logo="https://pmcdeadline2.files.wordpress.com/2012/07/abc-logo__120510210044-200x194.jpg" group-title="26- PREMIUM USA",ABC
 http://extremo.dyndns.ws:25461/live/Alexis/Alexis/2326.rtmp
 
-#EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/020/original/pic_a_e.png?1522180692" group-title="26- PREMIUM USA",A&E (UMMO)
-
+#EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/020/original/pic_a_e.png?1522180692" group-title="26- PREMIUM USA",A&E
+http://extremo.dyndns.ws:25461/live/Alexis/Alexis/7450.rtmp
 
 #EXTINF:-1 tvg-logo="https://www.tvlatino.net/img/logos-canales/AHC.png" group-title="26- PREMIUM USA",AHC (UMMO)
 
@@ -1418,8 +1430,11 @@ http://170.178.189.66:1935/live/Stream1/.m3u8?GrupoTopIptv
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_bbc-world_m.png" group-title="26- PREMIUM USA",BBC World News (UMMO)
 
 
-#EXTINF:-1 tvg-logo="https://www.clipartwiki.com/clipimg/detail/158-1584432_bravo-tv-bravo-tv-logo-png.png" group-title="26- PREMIUM USA",Bravo (UMMO)
+#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/bettv.png" group-title="26- PREMIUM USA",Bet
+http://extremo.dyndns.ws:25461/live/Alexis/Alexis/7369.rtmp
 
+#EXTINF:-1 tvg-logo="https://www.clipartwiki.com/clipimg/detail/158-1584432_bravo-tv-bravo-tv-logo-png.png" group-title="26- PREMIUM USA",Bravo
+http://extremo.dyndns.ws:25461/live/Alexis/Alexis/7367.rtmp
 
 #EXTINF:-1 tvg-logo="https://www.chillglobal.com/images/channels/68-cbs-1432161478.jpg" group-title="26- PREMIUM USA",CBS
 http://extremo.dyndns.ws:25461/live/Alexis/Alexis/2325.rtmp
@@ -1463,17 +1478,29 @@ http://210.210.155.35/uq2663/h/h10/01.m3u8?GrupoTopIptv
 #EXTINF:-1 tvg-logo="https://www.bellmedia.ca/wp-content/uploads/2014/02/tv1_e-490x490.png"  group-title="26- PREMIUM USA",E! (Plex)
 
 
-#EXTINF:-1 tvg-logo="https://bestofsno.com/wp-content/uploads/2019/03/3.18-culinary.png"  group-title="26- PREMIUM USA",Food Network (Plex)
-
+#EXTINF:-1 tvg-logo="https://bestofsno.com/wp-content/uploads/2019/03/3.18-culinary.png"  group-title="26- PREMIUM USA",Food Network
+http://extremo.dyndns.ws:25461/live/Alexis/Alexis/7440.rtmp
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Al6Y2.png"  group-title="26- PREMIUM USA",Fox (UMMO)
 
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/875384861736841217/j4vwsisS.jpg"  group-title="26- PREMIUM USA",Fox Business
+http://extremo.dyndns.ws:25461/live/Alexis/Alexis/7401.rtmp
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/918480715158716419/4X8oCbge_400x400.jpg"  group-title="26- PREMIUM USA",Fox News (UMMO)
 
 
 #EXTINF:-1 tvg-logo="https://www.telecablecr.com/wp-content/uploads/2018/11/LOGO-FOXPREMIUM_CINEMA.png"  group-title="26- PREMIUM USA",Fox Cinema
 http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8?GrupoTopIptv
+
+#EXTINF:-1 tvg-logo="https://sc.dish.com/shared/images/station-logos/FYI.png"  group-title="26- PREMIUM USA",Fyi
+http://extremo.dyndns.ws:25461/live/Alexis/Alexis/8021.rtmp
+
+#EXTINF:-1 tvg-logo="https://www.multichannel.com/.image/t_share/MTU0MDY0OTk1NDgyNDc3NjUw/screen-shot-2014-08-25-at-53357-pmpng.png"  group-title="26- PREMIUM USA",Golf Channel
+http://extremo.dyndns.ws:25461/live/Alexis/Alexis/8415.rtmp
+
+#EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/f4/f45c367086fdf2095a9fda53ebc1ea55.png"  group-title="26- PREMIUM USA",Hallmark Channel
+http://extremo.dyndns.ws:25461/live/Alexis/Alexis/7403.rtmp
 
 #EXTINF:-1 tvg-logo="https://vectors.pro/wp-content/uploads/2017/10/hbo-logo-vector.png"  group-title="26- PREMIUM USA",HBO East (UMMO)
 
@@ -1496,14 +1523,23 @@ http://extremo.dyndns.ws:25461/live/Alexis/Alexis/2841.rtmp
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/mx/HBOSignature.mx.png"  group-title="26- PREMIUM USA",HBO Signature (UMMO)
 
 
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/35/13/17/35131727c2635cec3274d9bd93868db2.png"  group-title="26- PREMIUM USA",History
+http://extremo.dyndns.ws:25461/live/Alexis/Alexis/7449.rtmp
+
 #EXTINF:-1 tvg-logo="https://www.cabletv.com/app/uploads/HGTV-Logo-1.png"  group-title="26- PREMIUM USA",HGTV
 http://extremo.dyndns.ws:25461/live/Alexis/Alexis/3005.rtmp
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/InvestigationDiscovery.uk.png"  group-title="26- PREMIUM USA",Investigation Discovery (UMMO)
-
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/InvestigationDiscovery.uk.png"  group-title="26- PREMIUM USA",Investigation Discovery
+http://extremo.dyndns.ws:25461/live/Alexis/Alexis/7437.rtmp
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/COQM8bM.png"  group-title="26- PREMIUM USA",Kool
 http://173.199.158.79:1935/roku/myStream/playlist.m3u8?GrupoTopIptv
+
+#EXTINF:-1 tvg-logo="https://assets.corusent.com/wp-content/uploads/2017/06/logo_tv_lifetime_june2017-500x250.png"  group-title="26- PREMIUM USA",Lifetime
+http://extremo.dyndns.ws:25461/live/Alexis/Alexis/7392.rtmp
+
+#EXTINF:-1 tvg-logo="http://www.logotypes101.com/logos/64/E14396CCFEC232F591FEB888C31CBCED/lifetime-movies-2017.png"  group-title="26- PREMIUM USA",Lifetime Movies
+http://extremo.dyndns.ws:25461/live/Alexis/Alexis/8006.rtmp
 
 #EXTINF:-1 tvg-logo="https://images.saymedia-content.com/.image/MTY3NDk1NjA0MTA1Mzg5OTY2/msgn.png"  group-title="26- PREMIUM USA",MSG
 http://extremo.dyndns.ws:25461/live/Alexis/Alexis/2556.rtmp
@@ -1529,11 +1565,17 @@ http://extremo.dyndns.ws:25461/live/Alexis/Alexis/2800.rtmp
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/804389193241665536/iqeQJW6v_400x400.jpg"  group-title="26- PREMIUM USA",NFL Network
 http://extremo.dyndns.ws:25461/live/Alexis/Alexis/2830.rtmp
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/804389193241665536/iqeQJW6v_400x400.jpg"  group-title="26- PREMIUM USA",NFL Network
+http://extremo.dyndns.ws:25461/live/Alexis/Alexis/7455.rtmp
+
 #EXTINF:-1 tvg-logo="https://tvbtn.files.wordpress.com/2012/05/own_hero_lo-res-350x218.jpg"  group-title="26- PREMIUM USA",Own Tv (UMMO)
 
 
 #EXTINF:-1 tvg-logo="http://www.notclosed.com/assets/images/wemake/large/work_planetgreen_b.gif"  group-title="26- PREMIUM USA",Planet Green
 
+
+#EXTINF:-1 tvg-logo="https://www.combsenterprises.com/wp-content/uploads/2015/08/revolt.jpg"  group-title="26- PREMIUM USA",Revolt
+http://extremo.dyndns.ws:25461/live/Alexis/Alexis/8007.rtmp
 
 #EXTINF:-1 tvg-logo="https://i2.wp.com/www.yourentertainmentcorner.com/wp-content/uploads/2017/03/Science-Channel-logo-e1537323969393.png"  group-title="26- PREMIUM USA",Sci (Plex)
 
@@ -1550,6 +1592,9 @@ http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8?GrupoTopIp
 #EXTINF:-1 tvg-logo="https://www.directv.com/images/logos/channels/dark/large/743.png"  group-title="26- PREMIUM USA",Smithsonian Channel (UMMO)
 
 
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/7c/15/ec/7c15ec7e2f9997151364cbfc369e0f77.png"  group-title="26- PREMIUM USA",Syfy
+http://extremo.dyndns.ws:25461/live/Alexis/Alexis/7423.rtmp
+
 #EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/011/original/pic_tbs.png?1522176341" group-title="26- PREMIUM USA",Tbs (Plex)
 
 
@@ -1559,14 +1604,23 @@ http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8?GrupoTopIp
 #EXTINF:-1 tvg-logo="http://www.tctkids.tv/images/TCTKids/TCTKidslogo.png" group-title="26- PREMIUM USA",Tct Kids
 http://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/FamilyHLS/FamilyHLS_Live_1200.m3u8?GrupoTopIptv
 
-#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/tlc-logo-01.png" group-title="26- PREMIUM USA",Tlc (UMMO)
-
+#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/tlc-logo-01.png" group-title="26- PREMIUM USA",Tlc
+http://extremo.dyndns.ws:25461/live/Alexis/Alexis/7434.rtmp
 
 #EXTINF:-1 tvg-logo="http://mareatvcable.com/wp-content/uploads/2017/12/44-tntlogo.png" group-title="26- PREMIUM USA",Tnt (UMMO)
 
 
 #EXTINF:-1 tvg-logo="https://tvnotiblog.com/wp-content/uploads/2012/04/trutv.png" group-title="26- PREMIUM USA",Trutv
 
+
+#EXTINF:-1 tvg-logo="https://www.ufcespanol.com/themes/custom/ufc/assets/img/ufc-fight-pass-logo.png" group-title="26- PREMIUM USA",UFC Pass
+http://extremo.dyndns.ws:25461/live/Alexis/Alexis/7452.rtmp
+
+#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/usa-logo-png-4.png" group-title="26- PREMIUM USA",USA Network
+http://extremo.dyndns.ws:25461/live/Alexis/Alexis/7430.rtmp
+
+#EXTINF:-1 tvg-logo="https://www.bellmedia.ca/wp-content/uploads/2014/02/tv2_discovery-velocity-490x490.png" group-title="26- PREMIUM USA",Velocity
+http://extremo.dyndns.ws:25461/live/Alexis/Alexis/7429.rtmp
 
 #EXTINF:-1 tvg-logo="https://www.tvtechnology.com/.image/t_share/MTU2OTE0Nzg1MjAyNDgwNTg5/wlny-logo2.jpg" group-title="26- PREMIUM USA",WLNY
 http://extremo.dyndns.ws:25461/live/Alexis/Alexis/2825.rtmp
