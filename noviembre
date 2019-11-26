@@ -623,6 +623,9 @@ http://66.240.236.25:1936/ranchenato/ranchenato/playlist.m3u8?GrupoTopIptv
 #EXTINF:-1 tvg-logo="http://html.canalrcn.com/CanalRCN/react/images/RCN-RCNTELEVISION-logo21.png" group-title="07- COLOMBIA",RCN (MX)
 http://23.237.122.154:25461/BUDTV/DFGHJ/622
 
+#EXTINF:-1 tvg-logo="http://html.canalrcn.com/CanalRCN/react/images/RCN-RCNTELEVISION-logo21.png" group-title="07- COLOMBIA",RCN (MX)
+http://23.237.122.154:25461/BUDTV/DFGHJ/118
+
 #EXTINF:-1 tvg-logo="http://html.canalrcn.com/CanalRCN/react/images/RCN-RCNTELEVISION-logo21.png" group-title="07- COLOMBIA",RCN
 http://extremo.dyndns.ws:25461/live/Alexis/Alexis/1327.rtmp
 
@@ -673,6 +676,9 @@ http://cdn.logicideas.media/canaltrece-live/smil:canal13.smil/chunklist_b4500000
 
 #EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/co-tv-agro.jpg" group-title="07- COLOMBIA",Tv Agro (UMMO1)
 
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_tvc_m.png" group-title="07- COLOMBIA",Tvc (MX)
+http://23.237.122.154:25461/BUDTV/DFGHJ/146
 
 #####################################################################################################################################
 ####################################### COSTA RICA
@@ -849,8 +855,14 @@ http://23.237.122.154:25461/BUDTV/DFGHJ/554
 #EXTINF:-1 tvg-logo="https://roku-zapopan8.webnode.mx/_files/200000035-3711338065/mx_azteca-7_m.png" group-title="13- MEXICO",Azteca 7 (MX)
 http://23.237.122.154:25461/BUDTV/DFGHJ/15
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/C80W69PVwAAy6mF.jpg:large" group-title="13- MEXICO",Azteca +  (MX)
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/C80W69PVwAAy6mF.jpg:large" group-title="13- MEXICO",Azteca + (MX)
 http://23.237.122.154:25461/BUDTV/DFGHJ/3
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/C80W69PVwAAy6mF.jpg:large" group-title="13- MEXICO",Azteca + (MX)
+http://23.237.122.154:25461/BUDTV/DFGHJ/615
+
+#EXTINF:-1 tvg-logo="http://afiliados.televisa-networks.com/wp-content/uploads/2017/08/televisa-networks-bandamax-logo.jpg" group-title="13- MEXICO",Bandamax (MX)
+http://23.237.122.154:25461/BUDTV/DFGHJ/18
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Aqk-8qwAEas/hqdefault.jpg" group-title="13- MEXICO",Canal 5
 http://23.237.122.154:25461/BUDTV/DFGHJ/561
@@ -951,6 +963,12 @@ http://extremo.dyndns.ws:25461/live/Alexis/Alexis/7381.rtmp
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/cb973f_4cb07abd906a4ecb89a09c031a6f6f54~mv2_d_3658_1973_s_2.png/v1/fill/w_399,h_215,al_c,usm_0.66_1.00_0.01/cb973f_4cb07abd906a4ecb89a09c031a6f6f54~mv2_d_3658_1973_s_2.png" group-title="13- MEXICO",RTQ
 http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8?GrupoTopIptv
 
+#EXTINF:-1 tvg-logo="http://supercabledelsureste.com.mx/wp-content/uploads/2018/12/sures-tv-300x202.png" group-title="13- MEXICO",Sures tv (MX)
+http://23.237.122.154:25461/BUDTV/DFGHJ/128
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/TB2dJz7.png" group-title="13- MEXICO",Teleformula (MX)
+http://23.237.122.154:25461/BUDTV/DFGHJ/132
+
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/telemar.png" group-title="13- MEXICO",Telemar
 http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u?GrupoTopIptv
 
@@ -965,6 +983,9 @@ http://extremo.dyndns.ws:25461/live/Alexis/Alexis/8963.rtmp
 
 #EXTINF:-1 tvg-logo="https://www.newslinereport.com/online/nota_distincin-para-telemundo-internacional-durante-los-dari-awards.jpg" group-title="13- MEXICO",Telemundo Int
 http://extremo.dyndns.ws:25461/live/Alexis/Alexis/7398.rtmp
+
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/teleritmo.png" group-title="13- MEXICO",Teleritmo (MX)
+http://23.237.122.154:25461/BUDTV/DFGHJ/134
 
 #EXTINF:-1 tvg-logo="https://novobloglimpinhoecheiroso.files.wordpress.com/2014/03/televisa01.jpg" group-title="13- MEXICO",Televisa Monterrey (MX)
 http://23.237.122.154:25461/BUDTV/DFGHJ/135
@@ -981,6 +1002,9 @@ http://23.237.122.154:25461/BUDTV/DFGHJ/640
 #EXTINF:-1 tvg-logo="http://www.onlinetv.planetfools.com/imagenes/tlnovelas.png" group-title="13- MEXICO",Tlnovelas
 http://extremo.dyndns.ws:25461/live/Alexis/Alexis/8756.rtmp
 
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/tvcuatro2.png" group-title="13- MEXICO",Tv4 (MX)
+http://23.237.122.154:25461/BUDTV/DFGHJ/144
+
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/tvmas.png" group-title="13- MEXICO",TvMas (MX)
 http://23.237.122.154:25461/BUDTV/DFGHJ/148
 
@@ -990,11 +1014,20 @@ http://23.237.122.154:25461/BUDTV/DFGHJ/149
 #EXTINF:-1 tvg-logo="http://afiliados.televisa-networks.com/wp-content/uploads/2018/08/televisa-afiliados-canales-unicable.jpg" group-title="13- MEXICO",Unicable
 http://extremo.dyndns.ws:25461/live/Alexis/Alexis/1892.rtmp
 
+#EXTINF:-1 tvg-logo="https://tejanonation.files.wordpress.com/2015/06/unimas.png" group-title="13- MEXICO",Unimas (MX)
+http://23.237.122.154:25461/BUDTV/DFGHJ/257
+
+#EXTINF:-1 tvg-logo="https://tejanonation.files.wordpress.com/2015/06/unimas.png" group-title="13- MEXICO",Unimas (MX)
+http://23.237.122.154:25461/BUDTV/DFGHJ/297
+
 #EXTINF:-1 tvg-logo="https://tejanonation.files.wordpress.com/2015/06/unimas.png" group-title="13- MEXICO",Unimas
 http://extremo.dyndns.ws:25461/live/Alexis/Alexis/3816.rtmp
 
 #EXTINF:-1 tvg-logo="https://sc.dish.com/shared/images/station-logos/UNVSO.PNG" group-title="13- MEXICO",Universo
 http://extremo.dyndns.ws:25461/live/Alexis/Alexis/3338.rtmp
+
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/univision-logo-png-transparent.png" group-title="13- MEXICO",Univision (MX)
+http://23.237.122.154:25461/BUDTV/DFGHJ/252
 
 #EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/univision-logo-png-transparent.png" group-title="13- MEXICO",Univision
 http://extremo.dyndns.ws:25461/live/Alexis/Alexis/1446.rtmp
@@ -1544,6 +1577,9 @@ http://ic7.101.ru:8000/a8
 #EXTINF:-1 tvg-logo="https://pmcdeadline2.files.wordpress.com/2012/07/abc-logo__120510210044-200x194.jpg" group-title="26- PREMIUM USA",ABC
 http://extremo.dyndns.ws:25461/live/Alexis/Alexis/2326.rtmp
 
+#EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/020/original/pic_a_e.png?1522180692" group-title="26- PREMIUM USA",A&E (MX)
+http://23.237.122.154:25461/BUDTV/DFGHJ/2
+
 #EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/020/original/pic_a_e.png?1522180692" group-title="26- PREMIUM USA",A&E
 http://extremo.dyndns.ws:25461/live/Alexis/Alexis/7450.rtmp
 
@@ -1601,17 +1637,23 @@ http://extremo.dyndns.ws:25461/live/Alexis/Alexis/2338.rtmp
 #EXTINF:-1 tvg-logo="http://www.logotypes101.com/logos/538/4F8C3E23787629681494F66BBE700345/CNBC_World.png" group-title="26- PREMIUM USA",CNBC World (UMMO)
 
 
-#EXTINF:-1 tvg-logo="http://www.provocare.com.au/wp-content/uploads/2018/06/cnn-logo-original-hd-png-transparent.png"  group-title="26- PREMIUM USA",CNN
+#EXTINF:-1 tvg-logo="http://www.provocare.com.au/wp-content/uploads/2018/06/cnn-logo-original-hd-png-transparent.png"  group-title="26- PREMIUM USA",CNN (MX)
+http://23.237.122.154:25461/BUDTV/DFGHJ/32
+
+#EXTINF:-1 tvg-logo="http://www.provocare.com.au/wp-content/uploads/2018/06/cnn-logo-original-hd-png-transparent.png"  group-title="26- PREMIUM USA",CNN (MX)
+http://23.237.122.154:25461/BUDTV/DFGHJ/31
+
+#EXTINF:-1 tvg-logo="https://hcil.umd.edu/wp-content/uploads/2015/12/Discovery-Channel-logo.png"  group-title="26- PREMIUM USA",Discovery Channel ()
 
 
-#EXTINF:-1 tvg-logo="https://hcil.umd.edu/wp-content/uploads/2015/12/Discovery-Channel-logo.png"  group-title="26- PREMIUM USA",Discovery Channel (UMMO)
-
+#EXTINF:-1 tvg-logo="https://www.cotes.net.bo/appCotes/public/appWeb_/assets/images/canales/17.2.png"  group-title="26- PREMIUM USA",Discovery Theater (MX)
+http://23.237.122.154:25461/BUDTV/DFGHJ/41
 
 #EXTINF:-1 tvg-logo="https://www.bellmedia.ca/wp-content/uploads/2014/02/tv1_e-490x490.png"  group-title="26- PREMIUM USA",E!
 http://210.210.155.35/uq2663/h/h10/01.m3u8?GrupoTopIptv
 
-#EXTINF:-1 tvg-logo="https://www.bellmedia.ca/wp-content/uploads/2014/02/tv1_e-490x490.png"  group-title="26- PREMIUM USA",E! (Plex)
-
+#EXTINF:-1 tvg-logo="https://bestofsno.com/wp-content/uploads/2019/03/3.18-culinary.png"  group-title="26- PREMIUM USA",Food Network (MX)
+http://23.237.122.154:25461/BUDTV/DFGHJ/60
 
 #EXTINF:-1 tvg-logo="https://bestofsno.com/wp-content/uploads/2019/03/3.18-culinary.png"  group-title="26- PREMIUM USA",Food Network
 http://extremo.dyndns.ws:25461/live/Alexis/Alexis/7440.rtmp
@@ -1772,8 +1814,17 @@ http://extremo.dyndns.ws:25461/live/Alexis/Alexis/2810.rtmp
 http://ic7.101.ru:8000/a15
 #######################################
 
+#EXTINF:-1 tvg-logo="https://www.audiovisual451.com/wp-content/uploads/atreseries-logo-h.jpg" group-title="27- PREMIUM ESPAÑA",A3Series (MX)
+http://23.237.122.154:25461/BUDTV/DFGHJ/4
+
 #EXTINF:-1 tvg-logo="http://diretele.com/wp-content/uploads/2018/09/alcarria-tv-en-directo.png" group-title="27- PREMIUM ESPAÑA",Alcarria TV
 http://217.182.77.27/live/alcarriatv-livestream.m3u8?GrupoTopIptv
+
+#EXTINF:-1 tvg-logo="https://www.miwuki.com/wp-content/uploads/2016/10/logo-antena-3.png" group-title="27- PREMIUM ESPAÑA",Antena 3 (MX)
+http://23.237.122.154:25461/BUDTV/DFGHJ/8
+
+#EXTINF:-1 tvg-logo="https://www.miwuki.com/wp-content/uploads/2016/10/logo-antena-3.png" group-title="27- PREMIUM ESPAÑA",Antena 3 (MX)
+http://23.237.122.154:25461/BUDTV/DFGHJ/555
 
 #EXTINF:-1 tvg-logo="https://www.miwuki.com/wp-content/uploads/2016/10/logo-antena-3.png" group-title="27- PREMIUM ESPAÑA",Antena 3
 http://iptv4.premium-stv.com:8000/live/ESPCHPRO1/YzNiCJZsIA/40.ts
@@ -5043,6 +5094,9 @@ http://extremo.dyndns.ws:25461/live/6942/6942/2834.rtmp
 #EXTINF:-1 tvg-logo="https://www.directv.com/images/logos/channels/dark/large/462.png" group-title="41- DEPORTES LATINO",Espn Deportes (6)
 http://extremo.dyndns.ws:25461/live/Alexis/Alexis/2834.rtmp
 
+#EXTINF:-1 tvg-logo="https://comcastspotlight.com/sites/default/files/networks/FOX_Deportes.png" group-title="41- DEPORTES LATINO",Fox Deportes (MX)
+http://23.237.122.154:25461/BUDTV/DFGHJ/304
+
 #EXTINF:-1 tvg-logo="https://comcastspotlight.com/sites/default/files/networks/FOX_Deportes.png" group-title="41- DEPORTES LATINO",Fox Deportes (1)
 http://extremo.dyndns.ws:25461/live/1005/1005/2784.rtmp
 
@@ -5163,8 +5217,8 @@ http://extremo.dyndns.ws:25461/live/6942/6942/3339.rtmp
 #EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/goltv.png" group-title="41- DEPORTES LATINO",GolTV Latino (6)
 http://extremo.dyndns.ws:25461/live/Alexis/Alexis/3339.rtmp
 
-#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/goltv.png" group-title="41- DEPORTES LATINO",GolTV Uruguay (2)
-
+#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/goltv.png" group-title="41- DEPORTES LATINO",GolTV Uruguay (MX)
+http://23.237.122.154:25461/BUDTV/DFGHJ/306
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7KCBnxD.png" group-title="41- DEPORTES LATINO",Izzi Afizzionados (1)
 http://extremo.dyndns.ws:25461/live/1005/1005/6386.rtmp
@@ -5217,6 +5271,9 @@ http://wohuogai.com:37000/live/redcol_hgciy75rifyktfiy/gfxutrd65rythfgfdUF/70213
 #EXTINF:-1 tvg-logo="http://televisiongratisenvivo.com/wp-content/uploads/2019/03/TIGO-SPORTS-COSTA-RICA-EN-VIVO-ONLINE-LIVE-EN-DIRECTO.png" group-title="41- DEPORTES LATINO",Tigo Sports C.Rica (1)
 
 
+#EXTINF:-1 tvg-logo="http://budtv.ottmex.com/posters/1529007557436.png" group-title="41- DEPORTES LATINO",Tnt Sports (MX)
+http://23.237.122.154:25461/BUDTV/DFGHJ/309
+
 #EXTINF:-1 tvg-logo="http://budtv.ottmex.com/posters/1529007557436.png" group-title="41- DEPORTES LATINO",Tnt Sports (1)
 http://extremo.dyndns.ws:25461/live/1005/1005/2627.rtmp
 
@@ -5265,6 +5322,9 @@ http://23.237.122.154:25461/BUDTV/DFGHJ/145
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_tyc-sports-hd_m.png" group-title="41- DEPORTES LATINO",TyC (MX)
 http://23.237.122.154:25461/BUDTV/DFGHJ/626
 
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_tyc-sports-hd_m.png" group-title="41- DEPORTES LATINO",TyC (MX)
+http://23.237.122.154:25461/BUDTV/DFGHJ/308
+
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_tyc-sports-hd_m.png" group-title="41- DEPORTES LATINO",TyC (1)
 http://extremo.dyndns.ws:25461/live/1005/1005/2803.rtmp
 
@@ -5303,6 +5363,9 @@ http://wohuogai.com:37000/live/redcol_hgciy75rifyktfiy/gfxutrd65rythfgfdUF/67607
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png" group-title="41- DEPORTES LATINO",Win Sports (MX)
 http://23.237.122.154:25461/BUDTV/DFGHJ/154
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png" group-title="41- DEPORTES LATINO",Win Sports (MX)
+http://23.237.122.154:25461/BUDTV/DFGHJ/305
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png" group-title="41- DEPORTES LATINO",Win Sports (1)
 http://extremo.dyndns.ws:25461/live/1005/1005/7314.rtmp
