@@ -792,26 +792,38 @@ http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8?GrupoTopIptv
 https://stream.vagalume.fm/hls/147015499779090/aac.m3u8
 #######################################
 
+#EXTINF:-1 tvg-logo="https://media.tvalacarta.info/canales/256x256/adn40.png" group-title="13- MEXICO",Adn 40 (MX)
+http://23.237.122.154:25461/BUDTV/DFGHJ/5
+
 #EXTINF:-1 tvg-logo="https://media.tvalacarta.info/canales/256x256/adn40.png" group-title="13- MEXICO",Adn 40
 http://extremo.dyndns.ws:25461/live/Alexis/Alexis/8763.rtmp
 
 #EXTINF:-1 tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/400x300_1845/Source/9519/americatevepuertorico.png" group-title="13- MEXICO",America teve
 http://extremo.dyndns.ws:25461/live/Alexis/Alexis/10222.rtmp
 
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_az-cinema_m.png" group-title="13- MEXICO",Az Cinema (MX)
+http://23.237.122.154:25461/BUDTV/DFGHJ/11
+
 #EXTINF:-1 tvg-logo="http://www.tvcomsahagun.com/img/canales/az_clic.png" group-title="13- MEXICO",Az Clic (1)
 
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_az-corazon_m.png" group-title="13- MEXICO",Az Corazon (1)
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_az-corazon_m.png" group-title="13- MEXICO",Az Corazon (MX)
+http://23.237.122.154:25461/BUDTV/DFGHJ/13
 
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_az-mundo-hd_m.png" group-title="13- MEXICO",Az Mundo (MX)
+http://23.237.122.154:25461/BUDTV/DFGHJ/14
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_az-mundo-hd_m.png" group-title="13- MEXICO",Az Mundo (2)
+#EXTINF:-1 tvg-logo="https://www.nssoaxaca.com/wp-content/uploads/2018/01/Azteca.jpg" group-title="13- MEXICO",Azteca 1 (MX)
+http://23.237.122.154:25461/BUDTV/DFGHJ/16
 
-
-#EXTINF:-1 tvg-logo="https://www.nssoaxaca.com/wp-content/uploads/2018/01/Azteca.jpg" group-title="13- MEXICO",Azteca 1 MX
+#EXTINF:-1 tvg-logo="https://www.nssoaxaca.com/wp-content/uploads/2018/01/Azteca.jpg" group-title="13- MEXICO",Azteca 1
 http://extremo.dyndns.ws:25461/live/Alexis/Alexis/1891.rtmp
 
-#EXTINF:-1 tvg-logo="https://roku-zapopan8.webnode.mx/_files/200000035-3711338065/mx_azteca-7_m.png" group-title="13- MEXICO",Azteca 7 (1)
+#EXTINF:-1 tvg-logo="https://roku-zapopan8.webnode.mx/_files/200000035-3711338065/mx_azteca-7_m.png" group-title="13- MEXICO",Azteca 7 (MX)
+http://23.237.122.154:25461/BUDTV/DFGHJ/554
 
+#EXTINF:-1 tvg-logo="https://roku-zapopan8.webnode.mx/_files/200000035-3711338065/mx_azteca-7_m.png" group-title="13- MEXICO",Azteca 7 (MX)
+http://23.237.122.154:25461/BUDTV/DFGHJ/15
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/C80W69PVwAAy6mF.jpg:large" group-title="13- MEXICO",Azteca + 
 
@@ -819,11 +831,26 @@ http://extremo.dyndns.ws:25461/live/Alexis/Alexis/1891.rtmp
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_az-cinema_m.png" group-title="13- MEXICO",Azteca Cinema
 
 
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Aqk-8qwAEas/hqdefault.jpg" group-title="13- MEXICO",Canal 5 (MX)
+http://23.237.122.154:25461/BUDTV/DFGHJ/561
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Aqk-8qwAEas/hqdefault.jpg" group-title="13- MEXICO",Canal 5 (MX)
+http://23.237.122.154:25461/BUDTV/DFGHJ/21
+
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Aqk-8qwAEas/hqdefault.jpg" group-title="13- MEXICO",Canal 5
 http://extremo.dyndns.ws:25461/live/Alexis/Alexis/1889.rtmp
 
+#EXTINF:-1 tvg-logo="http://www.logotypes101.com/logos/623/BD32DF8A73347264C23B3DE5FA8A92B3/nueve_canal_9_mexico.png" group-title="13- MEXICO",Canal 9 (MX)
+http://23.237.122.154:25461/BUDTV/DFGHJ/22
+
 #EXTINF:-1 tvg-logo="http://www.logotypes101.com/logos/623/BD32DF8A73347264C23B3DE5FA8A92B3/nueve_canal_9_mexico.png" group-title="13- MEXICO",Canal 9
 http://extremo.dyndns.ws:25461/live/Alexis/Alexis/2809.rtmp
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_canal-de-las-estrellas_m.png" group-title="13- MEXICO",Canal de las Estrellas (MX)
+http://23.237.122.154:25461/BUDTV/DFGHJ/582
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_canal-de-las-estrellas_m.png" group-title="13- MEXICO",Canal de las Estrellas (MX)
+http://23.237.122.154:25461/BUDTV/DFGHJ/93
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_canal-de-las-estrellas_m.png" group-title="13- MEXICO",Canal de las Estrellas (1)
 http://extremo.dyndns.ws:25461/live/Alexis/Alexis/3341.rtmp
@@ -837,17 +864,38 @@ http://pontismmd.mmdlive.lldns.net/pontismmd/18c15984af7d4ec6ba1a3d13f2263608/ch
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/943986668670894080/a3769um2_400x400.jpg" group-title="13- MEXICO",Canal 15 Zacatecas
 http://wowza.zuperdns.net:1935/zuperhosting.live.grupob.canal20zacatecas/smil:livestream.smil/playlist.m3u8?GrupoTopIptv
 
-#EXTINF:-1 tvg-logo="https://tvnotiblog.com/wp-content/uploads/2013/11/logo-canal-once-1024x791.png" group-title="13- MEXICO",Canal Once
-
+#EXTINF:-1 tvg-logo="https://tvnotiblog.com/wp-content/uploads/2013/11/logo-canal-once-1024x791.png" group-title="13- MEXICO",Canal Once (MX)
+http://23.237.122.154:25461/BUDTV/DFGHJ/24
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/Capital21.png" group-title="13- MEXICO",Capital 21
 http://23.227.189.81/ciudadtv/abr_ciudadtv/playlist.m3u8?GrupoTopIptv
 
+#EXTINF:-1 tvg-logo="https://hispanicmarketworks.org/wp-content/uploads/2015/05/20150518-PG15-Estrella.jpg" group-title="13- MEXICO",Estrella tv (MX)
+http://23.237.122.154:25461/BUDTV/DFGHJ/58
+
 #EXTINF:-1 tvg-logo="https://hispanicmarketworks.org/wp-content/uploads/2015/05/20150518-PG15-Estrella.jpg" group-title="13- MEXICO",Estrella tv
 http://extremo.dyndns.ws:25461/live/Alexis/Alexis/2596.rtmp
 
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/forotv.png" group-title="13- MEXICO",Foro tv (MX)
+http://23.237.122.154:25461/BUDTV/DFGHJ/581
+
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/forotv.png" group-title="13- MEXICO",Foro tv (MX)
+http://23.237.122.154:25461/BUDTV/DFGHJ/61
+
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/forotv.png" group-title="13- MEXICO",Foro tv
 http://extremo.dyndns.ws:25461/live/Alexis/Alexis/7399.rtmp
+
+#EXTINF:-1 tvg-logo="http://www.cablevida.com.mx/assets/img/canales/Galavision-logo.jpg" group-title="13- MEXICO",Galavision (MX)
+http://23.237.122.154:25461/BUDTV/DFGHJ/576
+
+#EXTINF:-1 tvg-logo="https://multipress.com.mx/wp-content/uploads/2016/09/interna-imagen.jpg" group-title="13- MEXICO",Imagen tv (MX)
+http://23.237.122.154:25461/BUDTV/DFGHJ/89
+
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/tvmexiquense.png" group-title="13- MEXICO",Mexiquense (MX)
+http://23.237.122.154:25461/BUDTV/DFGHJ/99
+
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/11/milenio-TV.png" group-title="13- MEXICO",Milenio (MX)
+http://23.237.122.154:25461/BUDTV/DFGHJ/100
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/11/milenio-TV.png" group-title="13- MEXICO",Milenio
 http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8?GrupoTopIptv
@@ -861,11 +909,20 @@ http://extremo.dyndns.ws:25461/live/Alexis/Alexis/8773.rtmp
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DHOocZiU0AE30ro.png" group-title="13- MEXICO",Multimedios
 http://mdstrm.com/live-stream-playlist_400/57b4dbf5dbbfc8f16bb63ce1.m3u8?GrupoTopIptv
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DHOocZiU0AE30ro.png" group-title="13- MEXICO",Multimedios Monterrey (MX)
+http://23.237.122.154:25461/BUDTV/DFGHJ/105
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DHOocZiU0AE30ro.png" group-title="13- MEXICO",Multimedios Monterrey
 http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?GrupoTopIptv
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DHOocZiU0AE30ro.png" group-title="13- MEXICO",Multimedios + (MX)
+http://23.237.122.154:25461/BUDTV/DFGHJ/106
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DHOocZiU0AE30ro.png" group-title="13- MEXICO",Multimedios +
 http://live.gvstream.net:1935/e-tv-video/play.stream/playlist.m3u8?GrupoTopIptv
+
+#EXTINF:-1 tvg-logo="http://www.laetv.tv/images/pasiones.png" group-title="13- MEXICO",Pasiones (MX)
+http://23.237.122.154:25461/BUDTV/DFGHJ/116
 
 #EXTINF:-1 tvg-logo="http://www.laetv.tv/images/pasiones.png" group-title="13- MEXICO",Pasiones
 http://extremo.dyndns.ws:25461/live/Alexis/Alexis/7381.rtmp
@@ -888,8 +945,26 @@ http://extremo.dyndns.ws:25461/live/Alexis/Alexis/8963.rtmp
 #EXTINF:-1 tvg-logo="https://www.newslinereport.com/online/nota_distincin-para-telemundo-internacional-durante-los-dari-awards.jpg" group-title="13- MEXICO",Telemundo Int
 http://extremo.dyndns.ws:25461/live/Alexis/Alexis/7398.rtmp
 
+#EXTINF:-1 tvg-logo="https://novobloglimpinhoecheiroso.files.wordpress.com/2014/03/televisa01.jpg" group-title="13- MEXICO",Televisa Monterrey (MX)
+http://23.237.122.154:25461/BUDTV/DFGHJ/135
+
+#EXTINF:-1 tvg-logo="https://novobloglimpinhoecheiroso.files.wordpress.com/2014/03/televisa01.jpg" group-title="13- MEXICO",Televisa Puebla (MX)
+http://23.237.122.154:25461/BUDTV/DFGHJ/136
+
+#EXTINF:-1 tvg-logo="http://www.onlinetv.planetfools.com/imagenes/tlnovelas.png" group-title="13- MEXICO",Tlnovelas (MX)
+http://23.237.122.154:25461/BUDTV/DFGHJ/139
+
+#EXTINF:-1 tvg-logo="http://www.onlinetv.planetfools.com/imagenes/tlnovelas.png" group-title="13- MEXICO",Tlnovelas (MX)
+http://23.237.122.154:25461/BUDTV/DFGHJ/640
+
 #EXTINF:-1 tvg-logo="http://www.onlinetv.planetfools.com/imagenes/tlnovelas.png" group-title="13- MEXICO",Tlnovelas
 http://extremo.dyndns.ws:25461/live/Alexis/Alexis/8756.rtmp
+
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/tvmas.png" group-title="13- MEXICO",TvMas (MX)
+http://23.237.122.154:25461/BUDTV/DFGHJ/148
+
+#EXTINF:-1 tvg-logo="http://afiliados.televisa-networks.com/wp-content/uploads/2018/08/televisa-afiliados-canales-unicable.jpg" group-title="13- MEXICO",Unicable (MX)
+http://23.237.122.154:25461/BUDTV/DFGHJ/149
 
 #EXTINF:-1 tvg-logo="http://afiliados.televisa-networks.com/wp-content/uploads/2018/08/televisa-afiliados-canales-unicable.jpg" group-title="13- MEXICO",Unicable
 http://extremo.dyndns.ws:25461/live/Alexis/Alexis/1892.rtmp
