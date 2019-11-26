@@ -906,6 +906,9 @@ http://23.227.189.81/ciudadtv/abr_ciudadtv/playlist.m3u8?GrupoTopIptv
 #EXTINF:-1 tvg-logo="https://hispanicmarketworks.org/wp-content/uploads/2015/05/20150518-PG15-Estrella.jpg" group-title="13- MEXICO",Estrella tv (MX)
 http://23.237.122.154:25461/BUDTV/DFGHJ/58
 
+#EXTINF:-1 tvg-logo="https://hispanicmarketworks.org/wp-content/uploads/2015/05/20150518-PG15-Estrella.jpg" group-title="13- MEXICO",Estrella tv (MX)
+http://23.237.122.154:25461/BUDTV/DFGHJ/614
+
 #EXTINF:-1 tvg-logo="https://hispanicmarketworks.org/wp-content/uploads/2015/05/20150518-PG15-Estrella.jpg" group-title="13- MEXICO",Estrella tv
 http://extremo.dyndns.ws:25461/live/Alexis/Alexis/2596.rtmp
 
@@ -1550,6 +1553,25 @@ http://fmhot.04.cl.cdnz.cl/fmhot/smil:cdn.smil/chunklist_b1800000_slesp.m3u8?Gru
 #EXTINF:-1 tvg-logo="https://okdiario.com/img/2018/04/28/distrito-655x368.jpg" group-title="22- CINE LATINO",Distrito TV
 https://cdn01.yowi.tv/KQRSDA7GDB/live-1000.m3u8?GrupoTopIptv
 
+#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraTainmentLogoBlack.png" group-title="22- CINE LATINO",ULTRA TAINMENT
+http://23.237.122.154:25461/BUDTV/DFGHJ/164
+#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraMex_NLogo.png" group-title="22- CINE LATINO",ULTRA MEX
+http://23.237.122.154:25461/BUDTV/DFGHJ/163
+#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraMachoLogoBlack.png" group-title="22- CINE LATINO",ULTRA MACHO
+http://23.237.122.154:25461/BUDTV/DFGHJ/162
+#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraFilmLogoBlack.png" group-title="22- CINE LATINO",ULTRA FILM
+http://23.237.122.154:25461/BUDTV/DFGHJ/161
+#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraFiestaLogoBlack.png" group-title="22- CINE LATINO",ULTRA FIESTA
+http://23.237.122.154:25461/BUDTV/DFGHJ/160
+#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraFamiliaLogoBlack.png" group-title="22- CINE LATINO",ULTRA FAMILIA
+http://23.237.122.154:25461/BUDTV/DFGHJ/159
+#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraDocuLogoBlack.png" group-title="22- CINE LATINO",ULTRA DOCU
+http://23.237.122.154:25461/BUDTV/DFGHJ/158
+#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraClasicoLogoBlack.png" group-title="22- CINE LATINO",ULTRA CLÁSICO
+http://23.237.122.154:25461/BUDTV/DFGHJ/157
+#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraCineLogoBlack.png" group-title="22- CINE LATINO",ULTRA CINE
+http://23.237.122.154:25461/BUDTV/DFGHJ/156
+
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/wow-tv.png" group-title="22- CINE LATINO",Wow!
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8?GrupoTopIptv
 
@@ -1610,11 +1632,20 @@ http://extremo.dyndns.ws:25461/live/Alexis/Alexis/7369.rtmp
 #EXTINF:-1 tvg-logo="https://www.clipartwiki.com/clipimg/detail/158-1584432_bravo-tv-bravo-tv-logo-png.png" group-title="26- PREMIUM USA",Bravo
 http://extremo.dyndns.ws:25461/live/Alexis/Alexis/7367.rtmp
 
+#EXTINF:-1 tvg-logo="https://orig00.deviantart.net/1354/f/2016/129/2/d/untitled_drawing_by_jared33-da1wdty.png" group-title="26- PREMIUM USA",Cartoon Network (MX)
+http://23.237.122.154:25461/BUDTV/DFGHJ/593
+
 #EXTINF:-1 tvg-logo="https://www.chillglobal.com/images/channels/68-cbs-1432161478.jpg" group-title="26- PREMIUM USA",CBS
 http://extremo.dyndns.ws:25461/live/Alexis/Alexis/2325.rtmp
 
 #EXTINF:-1 tvg-logo="https://www.chillglobal.com/images/channels/68-cbs-1432161478.jpg" group-title="26- PREMIUM USA",CBS
 http://extremo.dyndns.ws:25461/live/Alexis/Alexis/2839.rtmp
+
+#EXTINF:-1 tvg-logo="https://www.wwaytv3.com/wp-content/uploads/2017/08/CBSSPORTS_SEC-e1496172145696.jpg" group-title="26- PREMIUM USA",CBS Sec (MX)
+http://23.237.122.154:25461/BUDTV/DFGHJ/56
+
+#EXTINF:-1 tvg-logo="https://www.wwaytv3.com/wp-content/uploads/2017/08/CBSSPORTS_SEC-e1496172145696.jpg" group-title="26- PREMIUM USA",CBS Sec (MX)
+http://23.237.122.154:25461/BUDTV/DFGHJ/596
 
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cine/16.png" group-title="26- PREMIUM USA",Cinemax East
 http://extremo.dyndns.ws:25461/live/Alexis/Alexis/16817.rtmp
@@ -1649,11 +1680,23 @@ http://23.237.122.154:25461/BUDTV/DFGHJ/31
 #EXTINF:-1 tvg-logo="https://www.cotes.net.bo/appCotes/public/appWeb_/assets/images/canales/17.2.png"  group-title="26- PREMIUM USA",Discovery Theater (MX)
 http://23.237.122.154:25461/BUDTV/DFGHJ/41
 
+#EXTINF:-1 tvg-logo="http://logosvector.net/wp-content/uploads/2014/07/new-disney-channel-logo.png"  group-title="26- PREMIUM USA",Disney Channel (MX)
+http://23.237.122.154:25461/BUDTV/DFGHJ/595
+
 #EXTINF:-1 tvg-logo="https://www.bellmedia.ca/wp-content/uploads/2014/02/tv1_e-490x490.png"  group-title="26- PREMIUM USA",E!
 http://210.210.155.35/uq2663/h/h10/01.m3u8?GrupoTopIptv
 
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_espn_m.png"  group-title="26- PREMIUM USA",ESPN (MX)
+http://23.237.122.154:25461/BUDTV/DFGHJ/597
+
+#EXTINF:-1 tvg-logo="http://www.direct-vs-dish.com/media/channel_logos/espn_u.png.300x300_q85.png"  group-title="26- PREMIUM USA",ESPN U (MX)
+http://23.237.122.154:25461/BUDTV/DFGHJ/57
+
 #EXTINF:-1 tvg-logo="https://bestofsno.com/wp-content/uploads/2019/03/3.18-culinary.png"  group-title="26- PREMIUM USA",Food Network (MX)
 http://23.237.122.154:25461/BUDTV/DFGHJ/60
+
+#EXTINF:-1 tvg-logo="https://bestofsno.com/wp-content/uploads/2019/03/3.18-culinary.png"  group-title="26- PREMIUM USA",Food Network (MX)
+http://23.237.122.154:25461/BUDTV/DFGHJ/598
 
 #EXTINF:-1 tvg-logo="https://bestofsno.com/wp-content/uploads/2019/03/3.18-culinary.png"  group-title="26- PREMIUM USA",Food Network
 http://extremo.dyndns.ws:25461/live/Alexis/Alexis/7440.rtmp
@@ -1664,8 +1707,8 @@ http://extremo.dyndns.ws:25461/live/Alexis/Alexis/7440.rtmp
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/875384861736841217/j4vwsisS.jpg"  group-title="26- PREMIUM USA",Fox Business
 http://extremo.dyndns.ws:25461/live/Alexis/Alexis/7401.rtmp
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/918480715158716419/4X8oCbge_400x400.jpg"  group-title="26- PREMIUM USA",Fox News (UMMO)
-
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/918480715158716419/4X8oCbge_400x400.jpg"  group-title="26- PREMIUM USA",Fox News (MX)
+http://23.237.122.154:25461/BUDTV/DFGHJ/599
 
 #EXTINF:-1 tvg-logo="https://www.telecablecr.com/wp-content/uploads/2018/11/LOGO-FOXPREMIUM_CINEMA.png"  group-title="26- PREMIUM USA",Fox Cinema
 http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8?GrupoTopIptv
@@ -1787,8 +1830,8 @@ http://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/FamilyHLS/Famil
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/tlc-logo-01.png" group-title="26- PREMIUM USA",Tlc
 http://extremo.dyndns.ws:25461/live/Alexis/Alexis/7434.rtmp
 
-#EXTINF:-1 tvg-logo="http://mareatvcable.com/wp-content/uploads/2017/12/44-tntlogo.png" group-title="26- PREMIUM USA",Tnt (UMMO)
-
+#EXTINF:-1 tvg-logo="http://mareatvcable.com/wp-content/uploads/2017/12/44-tntlogo.png" group-title="26- PREMIUM USA",Tnt (MX)
+http://23.237.122.154:25461/BUDTV/DFGHJ/611
 
 #EXTINF:-1 tvg-logo="https://tvnotiblog.com/wp-content/uploads/2012/04/trutv.png" group-title="26- PREMIUM USA",Trutv
 
