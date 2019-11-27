@@ -732,7 +732,7 @@ http://extremo.dyndns.ws:25461/live/Alexis/Alexis/16410.rtmp
 
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/FXqG3LnBX_A/hqdefault_live.jpg" group-title="10- ECUADOR",Hechos Ecuador
-http://37.187.7.106/hechostv/live.m3u8?GrupoTopIptv
+
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/gamavision-en-vivo-768x480.png" group-title="10- ECUADOR",Gamavision
 
@@ -2758,9 +2758,6 @@ http://disfruta.net:80/live/1981/1981/83.rtmp
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-I_y7DS7ckN4/U2Au0ohgyEI/AAAAAAAACRI/UUmABBsgA2A/s1600/Max_HD-fullcaleta.biz.png" group-title="28- PREMIUM LATINO",Max (4)
 http://wohuogai.com:37000/live/redcol_hgciy75rifyktfiy/gfxutrd65rythfgfdUF/10348.ts
 
-#EXTINF:-1 tvg-logo="http://sky.vteximg.com.br/arquivos/ids/156096/maxprime-hd.png?v=636446344633130000" group-title="28- PREMIUM LATINO",Max Prime (MX)
-http://23.237.122.154:25461/BUDTV/DFGHJ/97
-
 #EXTINF:-1 tvg-logo="http://sky.vteximg.com.br/arquivos/ids/156096/maxprime-hd.png?v=636446344633130000" group-title="28- PREMIUM LATINO",Max Prime (1)
 http://extremo.dyndns.ws:25461/live/1005/1005/14940.rtmp
 
@@ -3757,19 +3754,13 @@ http://disfruta.net:80/live/1981/1981/23496.rtmp
 #EXTINF:-1 tvg-logo="http://www.fundacionelangel.org/wp-content/uploads/2019/02/WAPALogo.png" group-title="30- VARIEDADES LATINO",Wapa (2)
 http://extremo.dyndns.ws:25461/live/randall/randall/2182.rtmp
 
-#EXTINF:-1 tvg-logo="http://www.fundacionelangel.org/wp-content/uploads/2019/02/WAPALogo.png" group-title="30- VARIEDADES LATINO",Wapa (3)
-http://disfruta.net:80/live/david1/david1/13496.rtmp
-
 #EXTINF:-1 tvg-logo="http://www.fundacionelangel.org/wp-content/uploads/2019/02/WAPALogo.png" group-title="30- VARIEDADES LATINO",Wapa (6)
 http://extremo.dyndns.ws:25461/live/Alexis/Alexis/2182.rtmp
-
-#EXTINF:-1 tvg-logo="http://www.fundacionelangel.org/wp-content/uploads/2019/02/WAPALogo.png" group-title="30- VARIEDADES LATINO",Wapa (7)
-http://disfruta.net:80/live/1981/1981/13496.rtmp
 
 ######################################################################################################################################
 #######################################
 #EXTINF:-1 tvg-logo="https://i2.wp.com/www.elandino.cl/wp-content/uploads/2016/10/Senza-titolo-4.png?fit=3490%2C2545" group-title="31- VARIEDADES BRASIL",31- VARIEDADES BRASIL
-http://ams2.dtcompany.com.br:1935/live/joiasvip.stream/livestream.m3u8
+http://antena1.newradio.it/stream?1519462006844
 #######################################
 ######################################################################################################################################
 
@@ -3826,9 +3817,6 @@ http://tv.factoryiptv.com:80/live/1968/1968/37103.rtmp
 
 #EXTINF:-1 tvg-logo="http://sky.vteximg.com.br/arquivos/ids/156050/fish-tv.png" group-title="31- VARIEDADES BRASIL",Fish TV (2)
 http://tv.factoryiptv.com:80/live/corinna/corinna/37103.rtmp
-
-#EXTINF:-1 tvg-logo="http://sky.vteximg.com.br/arquivos/ids/156050/fish-tv.png" group-title="31- VARIEDADES BRASIL",Fish TV (3)
-http://tv.factoryiptv.com:80/live/0123/0123/37103.rtmp
 
 #EXTINF:-1 tvg-logo="http://sky.vteximg.com.br/arquivos/ids/156050/fish-tv.png" group-title="31- VARIEDADES BRASIL",Fish TV (4)
 http://tv.factoryiptv.com:80/live/wendell/wendell/37103.rtmp
@@ -3995,7 +3983,7 @@ http://tv.factoryiptv.com:80/live/wendell/wendell/36899.rtmp
 ######################################################################################################################################
 #######################################
 #EXTINF:-1 tvg-logo="http://es.fordesigner.com/imguploads/Image/cjbc/zcool/png20080526/1211804902.png" group-title="32- INFANTIL LATINO",32- INFANTIL LATINO
-http://cdn-01.bonus-tv.ru:8080/shop24_edge/index.m3u8
+http://antena1.newradio.it/stream?1519462006844
 #######################################
 ######################################################################################################################################
 
@@ -4460,7 +4448,7 @@ http://caikron.com.br:1935/tvaparecida/tvaparecida.stream/playlist.m3u8?GrupoTop
 #####################################################################################################################################
 ####################################### NOTICIAS LATINO
 #EXTINF:-1 tvg-logo="http://www.logospng.com/images/152/blue-globe-iconsvg-wikimedia-commons-152167.png" group-title="36- NOTICIAS LATINO",36- NOTICIAS LATINO
-http://216.245.204.227:8054/live
+http://shoppinglive.mediacdn.ru/sr1/shoppinglive/playlist.m3u8
 #######################################
 ######################################################################################################################################
 
@@ -4500,7 +4488,7 @@ https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/480p/chunklist.m3u8?GrupoTopIpt
 #####################################################################################################################################
 ####################################### NOTICIAS BRASIL
 #EXTINF:-1 tvg-logo="http://www.logospng.com/images/152/blue-globe-iconsvg-wikimedia-commons-152167.png" group-title="37- NOTICIAS BRASIL",37- NOTICIAS BRASIL
-http://216.245.204.227:8054/live
+http://shoppinglive.mediacdn.ru/sr1/shoppinglive/playlist.m3u8
 #######################################
 ######################################################################################################################################
 
@@ -4710,7 +4698,7 @@ http://extremo.dyndns.ws:25461/live/randall/randall/2178.rtmp
 
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/35/13/17/35131727c2635cec3274d9bd93868db2.png" group-title="38- DOCUMENTALES LATINOS",History Channel (4)
-http://wohuogai.com:37000/live/redcol_hgciy75rifyktfiy/gfxutrd65rythfgfdUF/58718.ts
+
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/35/13/17/35131727c2635cec3274d9bd93868db2.png" group-title="38- DOCUMENTALES LATINOS",History Channel (6)
 http://extremo.dyndns.ws:25461/live/Alexis/Alexis/2178.rtmp
@@ -4737,7 +4725,7 @@ http://extremo.dyndns.ws:25461/live/randall/randall/14937.rtmp
 
 
 #EXTINF:-1 tvg-logo="https://diylogodesigns.com/wp-content/uploads/2017/07/national-geographic-logo-vector-768x768.png" group-title="38- DOCUMENTALES LATINOS",Nat Geo (4)
-http://wohuogai.com:37000/live/redcol_hgciy75rifyktfiy/gfxutrd65rythfgfdUF/4975.ts
+
 
 #EXTINF:-1 tvg-logo="https://diylogodesigns.com/wp-content/uploads/2017/07/national-geographic-logo-vector-768x768.png" group-title="38- DOCUMENTALES LATINOS",Nat Geo (6)
 http://extremo.dyndns.ws:25461/live/Alexis/Alexis/14937.rtmp
@@ -4984,7 +4972,7 @@ http://23.237.122.154:25461/BUDTV/DFGHJ/90
 ######################################################################################################################################
 ####################################### DEPORTES LATINO
 #EXTINF:-1 tvg-logo="https://www.sccpre.cat/mypng/full/152-1523896_deportes-los-pies-bola-jugador-persona-ftbol-background.png" group-title="41- DEPORTES LATINO",41- DEPORTES LATINO
-http://ic.imusicaradios.com.br:8000/brasil.stream.http?url=tunein
+http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
 #######################################
 ######################################################################################################################################
 
@@ -5378,10 +5366,7 @@ http://extremo.dyndns.ws:25461/live/randall/randall/2803.rtmp
 
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_tyc-sports-hd_m.png" group-title="41- DEPORTES LATINO",TyC (4)
-http://wohuogai.com:37000/live/redcol_hgciy75rifyktfiy/gfxutrd65rythfgfdUF/55795.ts
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_tyc-sports-hd_m.png" group-title="41- DEPORTES LATINO",TyC (4)
-http://wohuogai.com:37000/live/redcol_hgciy75rifyktfiy/gfxutrd65rythfgfdUF/60480.ts
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_tyc-sports-hd_m.png" group-title="41- DEPORTES LATINO",TyC (6)
 http://extremo.dyndns.ws:25461/live/Alexis/Alexis/2803.rtmp
@@ -5588,7 +5573,7 @@ http://tv.factoryiptv.com:80/live/wendell/wendell/37006.rtmp
 ######################################################################################################################################
 ####################################### DEPORTES INTERNACIONAL
 #EXTINF:-1 tvg-logo="https://www.sccpre.cat/mypng/full/152-1523896_deportes-los-pies-bola-jugador-persona-ftbol-background.png" group-title="43- DEPORTES INTERNACIONAL",43- DEPORTES INTERNACIONAL
-http://ic.imusicaradios.com.br:8000/brasil.stream.http?url=tunein
+http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8
 #######################################
 ######################################################################################################################################
 
