@@ -892,6 +892,9 @@ http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?GrupoTopIpt
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DHOocZiU0AE30ro.png" group-title="13- MEXICO",Multimedios +
 http://live.gvstream.net:1935/e-tv-video/play.stream/playlist.m3u8?GrupoTopIptv
 
+#EXTINF:-1 tvg-logo="http://www.mvs-marketing.com/wp-content/uploads/2019/05/Logo_MVS_TV_Color_sitio.png" group-title="13- MEXICO",MVS tv
+http://62.210.139.229:25461/live/ott-tv/gangatv/83.rtmp
+
 #EXTINF:-1 tvg-logo="https://lodehoy166.files.wordpress.com/2017/06/pasiones-nuevo-logo-2015.jpg" group-title="13- MEXICO",Pasiones
 http://extremo.dyndns.ws:25461/live/0000/0000/7381.rtmp
 
@@ -933,6 +936,9 @@ http://62.210.139.229:25461/live/ott-tv/gangatv/48.rtmp
 
 #EXTINF:-1 tvg-logo="http://www.onlinetv.planetfools.com/imagenes/tlnovelas.png" group-title="13- MEXICO",Tlnovelas
 http://extremo.dyndns.ws:25461/live/0000/0000/8756.rtmp
+
+#EXTINF:-1 tvg-logo="http://www.pctv.com.mx/Portals/_default/Skins/Incredible/css/tvc/canales/tvc-89472.png" group-title="13- MEXICO",TVC
+http://62.210.139.229:25461/live/ott-tv/gangatv/81.rtmp
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/tvcuatro2.png" group-title="13- MEXICO",Tv Cuatro
 
@@ -2535,6 +2541,9 @@ http://extremo.dyndns.ws:25461/live/0000/0000/14941.rtmp
 
 #EXTINF:-1 tvg-logo="https://www.totalplay.com.mx/images/logos/canales/hbomax/max-up.png" group-title="28- PREMIUM LATINO",Max Up (8)
 http://mylatinotv.com:25461/live/josh/josh/23529.rtmp
+
+#EXTINF:-1 tvg-logo="https://darhj8vyknqca.cloudfront.net//site/assets/files/337364/m_rbido_tv.png" group-title="28- PREMIUM LATINO",Morbido tv
+http://62.210.139.229:25461/live/ott-tv/gangatv/16.rtmp
 
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/multipremier-logo-01.png" group-title="28- PREMIUM LATINO",Multipremier (8)
 http://mylatinotv.com:25461/live/josh/josh/19436.rtmp
