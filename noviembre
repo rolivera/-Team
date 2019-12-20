@@ -10,7 +10,7 @@ https://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 #####################################################################################################################################
 
 ######################################################################################################################################
-#EXTINF:-1 tvg-logo="https://avatars1.githubusercontent.com/u/45984933?s=180&v=4" group-title="02- Actualizada 05/12/19",02- Actualizada 05/12/19
+#EXTINF:-1 tvg-logo="https://avatars1.githubusercontent.com/u/45984933?s=180&v=4" group-title="02- Actualizada 20/12/19",02- Actualizada 20/12/19
 https://stream.vagalume.fm/hls/1470155259220668/aac.m3u8
 #####################################################################################################################################
 ######################################################################################################################################
@@ -166,9 +166,6 @@ http://tv.factoryiptv.com:80/live/1080/1080/41530.rtmp
 
 #EXTINF:0 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/band-logo-png-6.png" group-title="04- BRASIL",Band (4) HD
 http://tv.factoryiptv.com:80/live/1080/1080/36990.rtmp
-
-#EXTINF:0 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/band-logo-png-6.png" group-title="04- BRASIL",Band (5)
-http://dragoniptv.club:8080/iptv23736887/KM8sXDqyNC/7976
 
 #EXTINF:-1 tvg-logo="https://www.wtvision.com/wp-content/uploads/Canal-Rural-570x570.jpg" group-title="04- BRASIL",Canal Rural -OFF-
 
@@ -1042,11 +1039,8 @@ http://movil.mediastream.pe/vv_manosdios/livestream/playlist.m3u8?GrupoTopIptv
 #EXTINF:-1 tvg-logo="http://images.uncyclomedia.co/inciclopedia/es/6/6e/Latina.png" group-title="17- PERU",Latina
 http://extremo.dyndns.ws:25461/live/0000/0000/17323.rtmp
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="17- PERU",Panamericana TV
-http://cdnhd.iblups.com/hls/ptv2.m3u8?GrupoTopIptv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="17- PERU",Panamericana TV -OFF-
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="17- PERU",Panamericana TV
-http://extremo.dyndns.ws:25461/live/0000/0000/17320.rtmp
 
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-zONwKyIGEe8/US6GONLKNMI/AAAAAAAAH50/PXQ17OgMMAg/s1600/paxtv.png" group-title="17- PERU",Pax TV
 http://d2fxrfbiedz1tm.cloudfront.net/livepaxtv/smil:PC.smil/playlist.m3u8?GrupoTopIptv
@@ -1082,22 +1076,13 @@ http://62.203.143.51:9981/play/BolaTV
 http://hdsj.info:8080/Jorge.LoboLobo/Telegram061219/24
 
 #EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/AMCHD.png" group-title="18- PORTUGAL",Amc
-http://46.166.142.124:8000/andrew1/andrew1/542
-
-#EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/AMCHD.png" group-title="18- PORTUGAL",Amc
 http://62.203.143.51:9981/play/AMC
 
 #EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/AMCHD.png" group-title="18- PORTUGAL",Amc
 http://hdsj.info:8080/Jorge.LoboLobo/Telegram061219/75
 
 #EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/AXNHD.png" group-title="18- PORTUGAL",Axn
-http://46.166.142.124:8000/andrew1/andrew1/588
-
-#EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/AXNHD.png" group-title="18- PORTUGAL",Axn
 http://62.203.143.51:9981/play/AXNHD
-
-#EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/AXWHD.png" group-title="18- PORTUGAL",Axn White
-http://46.166.142.124:8000/andrew1/andrew1/587
 
 #EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/AXWHD.png" group-title="18- PORTUGAL",Axn White
 http://62.203.143.51:9981/play/WhiteHD
@@ -1115,16 +1100,10 @@ http://hdsj.info:8080/Jorge.LoboLobo/Telegram061219/93
 http://hdsj.info:8080/Jorge.LoboLobo/Telegram061219/57
 
 #EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/CACAP.png" group-title="18- PORTUGAL",Caça e Pesca
-http://46.166.142.124:8000/andrew1/andrew1/604
-
-#EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/CACAP.png" group-title="18- PORTUGAL",Caça e Pesca
 http://hdsj.info:8080/Jorge.LoboLobo/Telegram061219/153
 
 #EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/CACAV.png" group-title="18- PORTUGAL",Caçavision
 http://hdsj.info:8080/Jorge.LoboLobo/Telegram061219/154
-
-#EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/PANDA.png" group-title="18- PORTUGAL",Canal Panda
-http://46.166.142.124:8000/andrew1/andrew1/543
 
 #EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/PANDA.png" group-title="18- PORTUGAL",Canal Panda
 http://62.203.143.51:9981/play/CanalPan
@@ -1139,16 +1118,10 @@ http://62.203.143.51:9981/play/CartNet
 http://hdsj.info:8080/Jorge.LoboLobo/Telegram061219/61
 
 #EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/CINE.png" group-title="18- PORTUGAL",Cinemundo
-http://46.166.142.124:8000/andrew1/andrew1/596
-
-#EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/CINE.png" group-title="18- PORTUGAL",Cinemundo
 http://62.203.143.51:9981/play/Cinem
 
 #EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/CINE.png" group-title="18- PORTUGAL",Cinemundo
 http://hdsj.info:8080/Jorge.LoboLobo/Telegram061219/79
-
-#EXTINF:-1 tvg-logo="https://filmspot.com.pt/images/media/9610.jpg" group-title="18- PORTUGAL",CMtv
-http://46.166.142.124:8000/andrew1/andrew1/614
 
 #EXTINF:-1 tvg-logo="https://filmspot.com.pt/images/media/9610.jpg" group-title="18- PORTUGAL",CMtv
 http://62.203.143.51:9981/play/CMTV
@@ -1166,22 +1139,13 @@ http://hdsj.info:8080/Jorge.LoboLobo/Telegram061219/100
 http://hdsj.info:8080/Jorge.LoboLobo/Telegram061219/186
 
 #EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/DISCV.png" group-title="18- PORTUGAL",Discovery Channel
-http://46.166.142.124:8000/andrew1/andrew1/583
-
-#EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/DISCV.png" group-title="18- PORTUGAL",Discovery Channel
 http://hdsj.info:8080/Jorge.LoboLobo/Telegram061219/127
-
-#EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/DISNY.png" group-title="18- PORTUGAL",Disney Channel
-http://46.166.142.124:8000/andrew1/andrew1/563
 
 #EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/DISNY.png" group-title="18- PORTUGAL",Disney Channel
 http://62.203.143.51:9981/play/a0on
 
 #EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/DISNY.png" group-title="18- PORTUGAL",Disney Channel
 http://hdsj.info:8080/Jorge.LoboLobo/Telegram061219/54
-
-#EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/DISNYJ.png" group-title="18- PORTUGAL",Disney Junior
-http://46.166.142.124:8000/andrew1/andrew1/562
 
 #EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/DISNYJ.png" group-title="18- PORTUGAL",Disney Junior
 http://hdsj.info:8080/Jorge.LoboLobo/Telegram061219/58
@@ -1208,16 +1172,10 @@ http://hdsj.info:8080/Jorge.LoboLobo/Telegram061219/148
 http://62.203.143.51:9981/play/FOXHD
 
 #EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/FOXCOM.png" group-title="18- PORTUGAL",Fox Comedy
-http://46.166.142.124:8000/andrew1/andrew1/589
-
-#EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/FOXCOM.png" group-title="18- PORTUGAL",Fox Comedy
 http://62.203.143.51:9981/play/FOXCom
 
 #EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/FOXCOM.png" group-title="18- PORTUGAL",Fox Comedy
 http://hdsj.info:8080/Jorge.LoboLobo/Telegram061219/83
-
-#EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/FOXCR.png" group-title="18- PORTUGAL",Fox Crime
-http://46.166.142.124:8000/andrew1/andrew1/591
 
 #EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/FOXCR.png" group-title="18- PORTUGAL",Fox Crime
 http://62.203.143.51:9981/play/CrimeH
@@ -1226,28 +1184,16 @@ http://62.203.143.51:9981/play/CrimeH
 http://hdsj.info:8080/Jorge.LoboLobo/Telegram061219/89
 
 #EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/FLIFE.png" group-title="18- PORTUGAL",Fox Life
-http://46.166.142.124:8000/andrew1/andrew1/592
-
-#EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/FLIFE.png" group-title="18- PORTUGAL",Fox Life
 http://62.203.143.51:9981/play/LifeHD
 
 #EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/FLIFE.png" group-title="18- PORTUGAL",Fox Life
 http://hdsj.info:8080/Jorge.LoboLobo/Telegram061219/87
 
 #EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/FOXMH.png" group-title="18- PORTUGAL",Fox Movies
-http://46.166.142.124:8000/andrew1/andrew1/590
-
-#EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/FOXMH.png" group-title="18- PORTUGAL",Fox Movies
 http://hdsj.info:8080/Jorge.LoboLobo/Telegram061219/85
 
 #EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/HIST.png" group-title="18- PORTUGAL",Historia
-http://46.166.142.124:8000/andrew1/andrew1/574
-
-#EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/HIST.png" group-title="18- PORTUGAL",Historia
 http://hdsj.info:8080/Jorge.LoboLobo/Telegram061219/137
-
-#EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/HOLHD.png" group-title="18- PORTUGAL",Hollywood
-http://46.166.142.124:8000/andrew1/andrew1/81598
 
 #EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/HOLHD.png" group-title="18- PORTUGAL",Hollywood
 http://62.203.143.51:9981/play/Holly
@@ -1274,25 +1220,16 @@ http://62.203.143.51:9981/play/NationalGeo
 http://hdsj.info:8080/Jorge.LoboLobo/Telegram061219/133
 
 #EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/NGWIL.png" group-title="18- PORTUGAL",Nat Geo Wild
-http://46.166.142.124:8000/andrew1/andrew1/581
-
-#EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/NGWIL.png" group-title="18- PORTUGAL",Nat Geo Wild
 http://62.203.143.51:9981/play/NatiGeog
 
 #EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/NGWIL.png" group-title="18- PORTUGAL",Nat Geo Wild
 http://hdsj.info:8080/Jorge.LoboLobo/Telegram061219/131
 
 #EXTINF:-1 tvg-logo="https://www.e-channel.ec/blog/wp-content/uploads/2015/09/NICK.png" group-title="18- PORTUGAL",Nickelodeon
-http://46.166.142.124:8000/andrew1/andrew1/561
-
-#EXTINF:-1 tvg-logo="https://www.e-channel.ec/blog/wp-content/uploads/2015/09/NICK.png" group-title="18- PORTUGAL",Nickelodeon
 http://hdsj.info:8080/Jorge.LoboLobo/Telegram061219/55
 
 #EXTINF:-1 tvg-logo="http://nickjr-intl.mtvnimages.com/img/nickjr-logo-200x200.png" group-title="18- PORTUGAL",Nick Junior
 http://hdsj.info:8080/Jorge.LoboLobo/Telegram061219/63
-
-#EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/ODISS.png" group-title="18- PORTUGAL",Odisseia
-http://46.166.142.124:8000/andrew1/andrew1/573
 
 #EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/ODISS.png" group-title="18- PORTUGAL",Odisseia
 http://62.203.143.51:9981/play/Odiss
@@ -1307,16 +1244,10 @@ http://62.203.143.51:9981/play/RTP1
 http://hdsj.info:8080/Jorge.LoboLobo/Telegram061219/309
 
 #EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/RTP2.png" group-title="18- PORTUGAL",RTP 2
-http://46.166.142.124:8000/andrew1/andrew1/525
-
-#EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/RTP2.png" group-title="18- PORTUGAL",RTP 2
 http://62.203.143.51:9981/play/RTP2
 
 #EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/RTP2.png" group-title="18- PORTUGAL",RTP 2
 http://hdsj.info:8080/Jorge.LoboLobo/Telegram061219/310
-
-#EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/RTP3H.png" group-title="18- PORTUGAL",RTP 3
-http://46.166.142.124:8000/andrew1/andrew1/527
 
 #EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/RTP3H.png" group-title="18- PORTUGAL",RTP 3
 http://hdsj.info:8080/Jorge.LoboLobo/Telegram061219/13
@@ -1324,11 +1255,8 @@ http://hdsj.info:8080/Jorge.LoboLobo/Telegram061219/13
 #EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/RTPAC.png" group-title="18- PORTUGAL",RTP Acores
 http://hdsj.info:8080/Jorge.LoboLobo/Telegram061219/25
 
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/04/RTP-%C3%81frica-324x235.png" group-title="18- PORTUGAL",RTP Africa
-http://46.166.142.124:8000/andrew1/andrew1/4794
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/04/RTP-%C3%81frica-324x235.png" group-title="18- PORTUGAL",RTP Africa -OFF-
 
-#EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/RTPMD.png" group-title="18- PORTUGAL",RTP Madeira
-http://46.166.142.124:8000/andrew1/andrew1/81597
 
 #EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/RTPMD.png" group-title="18- PORTUGAL",RTP Madeira
 http://62.203.143.51:9981/play/Madeira
@@ -1337,13 +1265,7 @@ http://62.203.143.51:9981/play/Madeira
 http://hdsj.info:8080/Jorge.LoboLobo/Telegram061219/26
 
 #EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/RTPM.png" group-title="18- PORTUGAL",RTP Memoria
-http://46.166.142.124:8000/andrew1/andrew1/528
-
-#EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/RTPM.png" group-title="18- PORTUGAL",RTP Memoria
 http://hdsj.info:8080/Jorge.LoboLobo/Telegram061219/142
-
-#EXTINF:-1 tvg-logo="https://www.atelevisao.com/wp-content/uploads/2013/01/logo-sic.jpg" group-title="18- PORTUGAL",SIC
-http://46.166.142.124:8000/andrew1/andrew1/535
 
 #EXTINF:-1 tvg-logo="https://www.atelevisao.com/wp-content/uploads/2013/01/logo-sic.jpg" group-title="18- PORTUGAL",SIC
 http://62.203.143.51:9981/play/SIC
@@ -1352,34 +1274,19 @@ http://62.203.143.51:9981/play/SIC
 http://hdsj.info:8080/Jorge.LoboLobo/Telegram061219/5
 
 #EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/SICC.png" group-title="18- PORTUGAL",SIC Caras
-http://46.166.142.124:8000/andrew1/andrew1/537
-
-#EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/SICC.png" group-title="18- PORTUGAL",SIC Caras
 http://62.203.143.51:9981/play/SICCa
 
 #EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/SICC.png" group-title="18- PORTUGAL",SIC Caras
 http://hdsj.info:8080/Jorge.LoboLobo/Telegram061219/20
 
 #EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/SICK.png" group-title="18- PORTUGAL",SIC K
-http://46.166.142.124:8000/andrew1/andrew1/540
-
-#EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/SICK.png" group-title="18- PORTUGAL",SIC K
 http://hdsj.info:8080/Jorge.LoboLobo/Telegram061219/59
-
-#EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/SICMHD.png" group-title="18- PORTUGAL",SIC Mulher
-http://46.166.142.124:8000/andrew1/andrew1/538
 
 #EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/SICMHD.png" group-title="18- PORTUGAL",SIC Mulher
 http://hdsj.info:8080/Jorge.LoboLobo/Telegram061219/11
 
 #EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/SICN.png" group-title="18- PORTUGAL",SIC Noticias
-http://46.166.142.124:8000/andrew1/andrew1/536
-
-#EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/SICN.png" group-title="18- PORTUGAL",SIC Noticias
 http://hdsj.info:8080/Jorge.LoboLobo/Telegram061219/9
-
-#EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/SICR.png" group-title="18- PORTUGAL",SIC Radical
-http://46.166.142.124:8000/andrew1/andrew1/539
 
 #EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/SICR.png" group-title="18- PORTUGAL",SIC Radical
 http://62.203.143.51:9981/play/SICRad
@@ -1412,13 +1319,7 @@ http://hdsj.info:8080/Jorge.LoboLobo/Telegram061219/40
 http://hdsj.info:8080/Jorge.LoboLobo/Telegram061219/129
 
 #EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/TLC.png" group-title="18- PORTUGAL",TLC
-http://46.166.142.124:8000/andrew1/andrew1/579
-
-#EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/TLC.png" group-title="18- PORTUGAL",TLC
 http://hdsj.info:8080/Jorge.LoboLobo/Telegram061219/119
-
-#EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/TRAV.png" group-title="18- PORTUGAL",Travel Channel
-http://46.166.142.124:8000/andrew1/andrew1/577
 
 #EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/TRAV.png" group-title="18- PORTUGAL",Travel Channel
 http://hdsj.info:8080/Jorge.LoboLobo/Telegram061219/143
@@ -1430,16 +1331,10 @@ http://62.203.143.51:9981/play/TVCi1
 http://hdsj.info:8080/Jorge.LoboLobo/Telegram061219/331
 
 #EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/TVC2.png" group-title="18- PORTUGAL",TVCine 2
-http://46.166.142.124:8000/andrew1/andrew1/601
-
-#EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/TVC2.png" group-title="18- PORTUGAL",TVCine 2
 http://62.203.143.51:9981/play/TVCi2
 
 #EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/TVC2.png" group-title="18- PORTUGAL",TVCine 2
 http://hdsj.info:8080/Jorge.LoboLobo/Telegram061219/332
-
-#EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/TVC3.png" group-title="18- PORTUGAL",TVCine 3
-http://46.166.142.124:8000/andrew1/andrew1/600
 
 #EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/TVC3.png" group-title="18- PORTUGAL",TVCine 3
 http://62.203.143.51:9981/play/TVCi3
@@ -1448,16 +1343,10 @@ http://62.203.143.51:9981/play/TVCi3
 http://hdsj.info:8080/Jorge.LoboLobo/Telegram061219/333
 
 #EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/TVC4.png" group-title="18- PORTUGAL",TVCine 4
-http://46.166.142.124:8000/andrew1/andrew1/599
-
-#EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/TVC4.png" group-title="18- PORTUGAL",TVCine 4
 http://62.203.143.51:9981/play/TVCi4
 
 #EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/TVC4.png" group-title="18- PORTUGAL",TVCine 4
 http://hdsj.info:8080/Jorge.LoboLobo/Telegram061219/334
-
-#EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/TVI.png" group-title="18- PORTUGAL",TVI
-http://46.166.142.124:8000/andrew1/andrew1/531
 
 #EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/TVI.png" group-title="18- PORTUGAL",TVI
 http://62.203.143.51:9981/play/TVI
@@ -1465,20 +1354,17 @@ http://62.203.143.51:9981/play/TVI
 #EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/TVI.png" group-title="18- PORTUGAL",TVI
 http://hdsj.info:8080/Jorge.LoboLobo/Telegram061219/7
 
-#EXTINF:-1 tvg-logo="https://cdn.iol.pt/img/logostvi/branco/tvi24.png" group-title="18- PORTUGAL",TVI 24
-http://46.166.142.124:8000/andrew1/andrew1/532
+#EXTINF:-1 tvg-logo="https://cdn.iol.pt/img/logostvi/branco/tvi24.png" group-title="18- PORTUGAL",TVI 24 -OFF-
 
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2019/11/tvi-ficcao-218x150.png" group-title="18- PORTUGAL",TVI Ficçao
-http://46.166.142.124:8000/andrew1/andrew1/533
 
-#EXTINF:-1 tvg-logo="http://rodrigoleal.com/wp-content/uploads/2015/10/tvireality-423x237.jpg" group-title="18- PORTUGAL",TVI Reality
-http://46.166.142.124:8000/andrew1/andrew1/534
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2019/11/tvi-ficcao-218x150.png" group-title="18- PORTUGAL",TVI Ficçao -OFF-
+
 
 #EXTINF:-1 tvg-logo="http://rodrigoleal.com/wp-content/uploads/2015/10/tvireality-423x237.jpg" group-title="18- PORTUGAL",TVI Reality
 http://hdsj.info:8080/Jorge.LoboLobo/Telegram061219/22
 
-#EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/TVSER.png" group-title="18- PORTUGAL",TVSeries
-http://46.166.142.124:8000/andrew1/andrew1/598
+#EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/TVSER.png" group-title="18- PORTUGAL",TVSeries -OFF-
+
 
 ######################################################################################################################################
 ####################################### R.DOMINICANA
@@ -1556,12 +1442,6 @@ http://wohuogai.com:37000/live/876iuhiu/asia877kjkjhj/67812.ts
 
 
 #EXTINF:-1 tvg-logo="https://media.tvalacarta.info/canales/256x256/canal10.png" group-title="20- URUGUAY",Saeta Canal 10
-http://api.nerdtv.xyz:2095/pablo2019/pablo2019/173
-
-#EXTINF:-1 tvg-logo="https://media.tvalacarta.info/canales/256x256/canal10.png" group-title="20- URUGUAY",Saeta Canal 10
-http://api.nerdtv.xyz:2095/mandy/mandy/173
-
-#EXTINF:-1 tvg-logo="https://media.tvalacarta.info/canales/256x256/canal10.png" group-title="20- URUGUAY",Saeta Canal 10
 http://extremo.dyndns.ws:25461/live/1005/1005/15227.rtmp
 
 #EXTINF:-1 tvg-logo="https://media.tvalacarta.info/canales/256x256/canal10.png" group-title="20- URUGUAY",Saeta Canal 10
@@ -1581,9 +1461,6 @@ http://wohuogai.com:37000/live/876iuhiu/asia877kjkjhj/66273.ts
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1136710475868229633/p2S0PMG8_400x400.jpg" group-title="20- URUGUAY",Teledoce
 http://extremo.dyndns.ws:25461/live/1005/1005/15229.rtmp
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1136710475868229633/p2S0PMG8_400x400.jpg" group-title="20- URUGUAY",Teledoce
-http://extremo.dyndns.ws:25461/live/aaaa/aaaa/15229.rtmp
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1136710475868229633/p2S0PMG8_400x400.jpg" group-title="20- URUGUAY",Teledoce
 http://extremo.dyndns.ws:25461/live/006642/006642/15229.rtmp
@@ -1620,12 +1497,6 @@ http://wohuogai.com:37000/live/876iuhiu/asia877kjkjhj/66276.ts
 
 #EXTINF:-1 tvg-logo="https://media.tvalacarta.info/canales/256x256/vera.png" group-title="20- URUGUAY",Vera +
 http://wohuogai.com:37000/live/876iuhiu/asia877kjkjhj/66277.ts
-
-#EXTINF:-1 tvg-logo="http://www.logoteca.uy/uploads/imagenes/file_2da07aaf6d.png" group-title="20- URUGUAY",VTV
-http://api.nerdtv.xyz:2095/pablo2019/pablo2019/177
-
-#EXTINF:-1 tvg-logo="http://www.logoteca.uy/uploads/imagenes/file_2da07aaf6d.png" group-title="20- URUGUAY",VTV
-http://api.nerdtv.xyz:2095/mandy/mandy/177
 
 #EXTINF:-1 tvg-logo="http://www.logoteca.uy/uploads/imagenes/file_2da07aaf6d.png" group-title="20- URUGUAY",VTV
 http://extremo.dyndns.ws:25461/live/1005/1005/15254.rtmp
@@ -1795,7 +1666,7 @@ http://extremo.dyndns.ws:25461/live/0000/0000/2338.rtmp
 
 
 #EXTINF:-1 tvg-logo="http://www.provocare.com.au/wp-content/uploads/2018/06/cnn-logo-original-hd-png-transparent.png"  group-title="26- PREMIUM USA",CNN
-http://urutv.online:25461/FranciscoSalvador/e9oYPieSvq/791
+http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/791.rtmp
 
 #EXTINF:-1 tvg-logo="https://hcil.umd.edu/wp-content/uploads/2015/12/Discovery-Channel-logo.png"  group-title="26- PREMIUM USA",Discovery Channel -OFF-
 
@@ -2231,9 +2102,6 @@ http://wohuogai.com:37000/live/876iuhiu/asia877kjkjhj/70237.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MVFRKTv.png" group-title="27- PREMIUM ESPAÑA",M. Liga de Campeones
 http://wohuogai.com:37000/live/876iuhiu/asia877kjkjhj/48984.ts
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MVFRKTv.png" group-title="27- PREMIUM ESPAÑA",M. Liga de Campeones
-http://wohuogai.com:37000/live/876iuhiu/asia877kjkjhj/70235.ts
 
 #EXTINF:-1 tvg-logo="https://www.airnetwifi.es/wp-content/uploads/2019/03/Logo-Movistar-Series.png" group-title="27- PREMIUM ESPAÑA",M. Series
 http://wohuogai.com:37000/live/876iuhiu/asia877kjkjhj/891.ts
