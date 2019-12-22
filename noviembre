@@ -25,11 +25,14 @@ https://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/5tv-Corrientes.png" group-title="03- ARGENTINA",5TV Corrientes -OFF-
 
 
-#EXTINF:-1 tvg-logo="http://futbolhoy.com.ar/wp-content/uploads/2019/03/A24.png" group-title="03- ARGENTINA",A24 -OFF-
-
+#EXTINF:-1 tvg-logo="http://futbolhoy.com.ar/wp-content/uploads/2019/03/A24.png" group-title="03- ARGENTINA",A24 (U)
+http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/735.rtmp
 
 #EXTINF:-1 tvg-logo="http://www.radionacional.gov.py/wp-content/uploads/2018/04/ar_america-2-capital_m.png" group-title="03- ARGENTINA",America
 http://extremo.dyndns.ws:25461/live/0000/0000/3360.rtmp
+
+#EXTINF:-1 tvg-logo="http://www.radionacional.gov.py/wp-content/uploads/2018/04/ar_america-2-capital_m.png" group-title="03- ARGENTINA",America (U)
+http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/721.rtmp
 
 #EXTINF:-1 tvg-logo="https://tvonlinegratis.com/wp-content/uploads/2014/08/13MaxTV-Logo.jpg" group-title="03- ARGENTINA",13 Max
 http://coninfo.net:1935/13maxhd/live_720p/chunklist.m3u8?GrupoTopIptv
@@ -79,11 +82,11 @@ http://coninfo.net:1935/chacodxdtv/live/chunklist_w1251301598.m3u8?GrupoTopIptv
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-uRO7cQF9i4g/XCKOsAGqYZI/AAAAAAAAB1U/icLyv19C1g0ksCUbC2GqnSqrbHzsdTbJACLcBGAs/w1200-h630-p-k-no-nu/cl3-argentina.jpg" group-title="03- ARGENTINA",CL3
 http://stream02.shockmedia.com.ar:1935/cl3cable/cl3cable/chunklist_w503758088.m3u8?GrupoTopIptv
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/677195098405412864/w1GSVqNs_400x400.png" group-title="03- ARGENTINA",CN3 -OFF-
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/677195098405412864/w1GSVqNs_400x400.png" group-title="03- ARGENTINA",CN3 (U)
+http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/732.rtmp
 
-
-#EXTINF:-1 tvg-logo="http://forounivers.com/uploads/monthly_2017_09/large.cronica-hd.png.5157c554666f425202f0ccac19729180.png" group-title="03- ARGENTINA",Cronica tv -OFF-
-
+#EXTINF:-1 tvg-logo="http://forounivers.com/uploads/monthly_2017_09/large.cronica-hd.png.5157c554666f425202f0ccac19729180.png" group-title="03- ARGENTINA",Cronica tv (U)
+http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/731.rtmp
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/75UgF.png" group-title="03- ARGENTINA",CPEtv
 http://dcunilive28-lh.akamaihd.net/i/dclive_1@533583/index_150_av-p.m3u8?GrupoTopIptv
@@ -103,8 +106,20 @@ http://extremo.dyndns.ws:25461/live/0000/0000/3364.rtmp
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/canal-9-m.jpg" group-title="03- ARGENTINA",El Nueve
 http://extremo.dyndns.ws:25461/live/0000/0000/4646.rtmp
 
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/canal-9-m.jpg" group-title="03- ARGENTINA",El Nueve (U)
+http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/725.rtmp
+
 #EXTINF:-1 tvg-logo="http://ipuntotv.com/IMAGES/ElTreceHD2012.jpg" group-title="03- ARGENTINA",El Trece
 http://extremo.dyndns.ws:25461/live/0000/0000/3361.rtmp
+
+#EXTINF:-1 tvg-logo="http://ipuntotv.com/IMAGES/ElTreceHD2012.jpg" group-title="03- ARGENTINA",El Trece (U)
+http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/717.rtmp
+
+#EXTINF:-1 tvg-logo="http://ipuntotv.com/IMAGES/ElTreceHD2012.jpg" group-title="03- ARGENTINA",El Trece (U)
+http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/718.rtmp
+
+#EXTINF:-1 tvg-logo="http://ipuntotv.com/IMAGES/ElTreceHD2012.jpg" group-title="03- ARGENTINA",El Trece (U)
+http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/720.rtmp
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1171440347508920320/7pwThQbq_400x400.jpg" group-title="03- ARGENTINA",KZO -OFF-
 
@@ -112,8 +127,8 @@ http://extremo.dyndns.ws:25461/live/0000/0000/3361.rtmp
 #EXTINF:-1 tvg-logo="http://www.mundou.edu.ar/img/canales/a1v2ltjc.png" group-title="03- ARGENTINA",Litus
 http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8?GrupoTopIptv
 
-#EXTINF:-1 tvg-logo="https://directoriolegislativo.org/dl-content/uploads/new/2017/05/ln-default-facebook.jpg" group-title="03- ARGENTINA",LN+ -OFF-
-
+#EXTINF:-1 tvg-logo="https://directoriolegislativo.org/dl-content/uploads/new/2017/05/ln-default-facebook.jpg" group-title="03- ARGENTINA",LN+ (U)
+http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/729.rtmp
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/09/canal-9-multivision.png" group-title="03- ARGENTINA",Multivision
 http://panel.dattalive.com:1935/8250/8250/chunklist_w1392684176.m3u8?GrupoTopIptv
@@ -121,8 +136,17 @@ http://panel.dattalive.com:1935/8250/8250/chunklist_w1392684176.m3u8?GrupoTopIpt
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/08/NETargentina.png/revision/latest?cb=20180702162652" group-title="03- ARGENTINA",Net TV
 http://unlimited2-us.dps.live/nettv/nettv.smil/playlist.m3u8?GrupoTopIptv
 
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/Paka-Paka.png" group-title="03- ARGENTINA",Paka Paka (U)
+http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/728.rtmp
+
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="03- ARGENTINA",Telefe
 http://extremo.dyndns.ws:25461/live/0000/0000/17544.rtmp
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="03- ARGENTINA",Telefe (U)
+http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/722.rtmp
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="03- ARGENTINA",Telefe (U)
+http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/723.rtmp
 
 #EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/11/e455d-tlx.png" group-title="03- ARGENTINA",Telemax
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?GrupoTopIptv
@@ -130,8 +154,8 @@ http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/506483696065449984/BATn-jAe.png" group-title="03- ARGENTINA",Telpin -OFF-
 
 
-#EXTINF:-1 tvg-logo="https://bucket1.glanacion.com/anexos/fotos/82/2433282w380.jpg" group-title="03- ARGENTINA",TN -OFF-
-
+#EXTINF:-1 tvg-logo="https://bucket1.glanacion.com/anexos/fotos/82/2433282w380.jpg" group-title="03- ARGENTINA",TN (U)
+http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/738.rtmp
 
 #EXTINF:-1 tvg-logo="http://www.partedelshow.com.ar/sites/default/files/imagecache/img_nodo/PUBLICA.jpg" group-title="03- ARGENTINA",Tv Publica -OFF-
 
