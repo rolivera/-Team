@@ -4344,11 +4344,14 @@ http://shoppinglive.mediacdn.ru/sr1/shoppinglive/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/3.png" group-title="36- NOTICIAS LATINO",Canal 26
 http://200.115.193.177/live/26hd-180/playlist.m3u8?GrupoTopIptv
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_cnn-chile_m.png" group-title="36- NOTICIAS LATINO",CNN Chile -OFF-
-
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_cnn-chile_m.png" group-title="36- NOTICIAS LATINO",CNN Chile (3)
+http://45.235.39.2:8000/play/a00k
 
 #EXTINF:-1 tvg-logo="http://television.com.ar/wp-content/uploads/2016/05/cnn-alla.jpg" group-title="36- NOTICIAS LATINO",CÑN (1)
 https://tucine.xyz:2087/live/CineClub/dDsdsdSDsd/14.m3u8
+
+#EXTINF:-1 tvg-logo="http://television.com.ar/wp-content/uploads/2016/05/cnn-alla.jpg" group-title="36- NOTICIAS LATINO",CÑN (3)
+http://45.235.39.2:8000/play/a00u
 
 #EXTINF:-1 tvg-logo="http://television.com.ar/wp-content/uploads/2016/05/cnn-alla.jpg" group-title="36- NOTICIAS LATINO",CÑN (4)
 http://62.210.139.229:25461/ott-tv1/gangatv/113
@@ -4436,9 +4439,6 @@ http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
 #EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/020/original/pic_a_e.png?1522180692" group-title="38- DOCUMENTALES LATINOS",A&E (1)
 https://tucine.xyz:2087/live/CineClub/dDsdsdSDsd/1.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/020/original/pic_a_e.png?1522180692" group-title="38- DOCUMENTALES LATINOS",A&E (3)
-http://extremo.dyndns.ws:25461/live/470077/470077/8707.rtmp
-
 #EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/020/original/pic_a_e.png?1522180692" group-title="38- DOCUMENTALES LATINOS",A&E (6)
 http://extremo.dyndns.ws:25461/live/0000/0000/8707.rtmp
 
@@ -4449,7 +4449,7 @@ https://tucine.xyz:2087/live/CineClub/dDsdsdSDsd/3.m3u8
 http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/840.rtmp
 
 #EXTINF:-1 tvg-logo="https://comcastspotlight.com/sites/default/files/networks/Animal%20Planet%20Large%20Stacked.png" group-title="38- DOCUMENTALES LATINOS",Animal Planet (3)
-http://extremo.dyndns.ws:25461/live/470077/470077/16394.rtmp
+http://45.235.39.2:8000/play/a01f
 
 #EXTINF:-1 tvg-logo="https://comcastspotlight.com/sites/default/files/networks/Animal%20Planet%20Large%20Stacked.png" group-title="38- DOCUMENTALES LATINOS",Animal Planet (6)
 http://extremo.dyndns.ws:25461/live/0000/0000/16394.rtmp
@@ -4460,6 +4460,9 @@ https://tucine.xyz:2087/live/CineClub/dDsdsdSDsd/39.m3u8
 #EXTINF:-1 tvg-logo="https://hcil.umd.edu/wp-content/uploads/2015/12/Discovery-Channel-logo.png" group-title="38- DOCUMENTALES LATINOS",Discovery Channel (2)
 http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/826.rtmp
 
+#EXTINF:-1 tvg-logo="https://hcil.umd.edu/wp-content/uploads/2015/12/Discovery-Channel-logo.png" group-title="38- DOCUMENTALES LATINOS",Discovery Channel (3)
+http://45.235.39.2:8000/play/a01e
+
 #EXTINF:-1 tvg-logo="https://hcil.umd.edu/wp-content/uploads/2015/12/Discovery-Channel-logo.png" group-title="38- DOCUMENTALES LATINOS",Discovery Channel (4)
 http://wohuogai.com:37000/live/876iuhiu/asia877kjkjhj/10357.ts
 
@@ -4468,12 +4471,6 @@ http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/832.rtmp
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_discovery-civilization_m.png" group-title="38- DOCUMENTALES LATINOS",Discovery Civilization (4)
 http://wohuogai.com:37000/live/876iuhiu/asia877kjkjhj/58763.ts
-
-#EXTINF:-1 tvg-logo="https://static.brandfolder.com/discoveryfamilia/logo/discoveryfamilia-primary-logo.png" group-title="38- DOCUMENTALES LATINOS",Discovery Familia (1)
-
-
-#EXTINF:-1 tvg-logo="https://static.brandfolder.com/discoveryfamilia/logo/discoveryfamilia-primary-logo.png" group-title="38- DOCUMENTALES LATINOS",Discovery Familia (3)
-http://extremo.dyndns.ws:25461/live/470077/470077/17655.rtmp
 
 #EXTINF:-1 tvg-logo="https://static.brandfolder.com/discoveryfamilia/logo/discoveryfamilia-primary-logo.png" group-title="38- DOCUMENTALES LATINOS",Discovery Familia (6)
 http://extremo.dyndns.ws:25461/live/0000/0000/17655.rtmp
@@ -4485,13 +4482,16 @@ https://tucine.xyz:2087/live/CineClub/dDsdsdSDsd/96.m3u8
 http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/830.rtmp
 
 #EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/027/original/pic_investigactiondisc.png?1522177058" group-title="38- DOCUMENTALES LATINOS",Discovery Investigation (3)
-http://extremo.dyndns.ws:25461/live/470077/470077/2306.rtmp
+http://45.235.39.2:8000/play/a01x
 
 #EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/027/original/pic_investigactiondisc.png?1522177058" group-title="38- DOCUMENTALES LATINOS",Discovery Investigation (6)
 http://extremo.dyndns.ws:25461/live/0000/0000/2306.rtmp
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/b0d27efc-174d-41f6-851b-e125fba0dce7_m.jpg" group-title="38- DOCUMENTALES LATINOS",Discovery H&H (1)
 https://tucine.xyz:2087/live/CineClub/dDsdsdSDsd/40.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/b0d27efc-174d-41f6-851b-e125fba0dce7_m.jpg" group-title="38- DOCUMENTALES LATINOS",Discovery H&H (3)
+http://45.235.39.2:8000/play/a021
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/b0d27efc-174d-41f6-851b-e125fba0dce7_m.jpg" group-title="38- DOCUMENTALES LATINOS",Discovery H&H (4)
 http://wohuogai.com:37000/live/876iuhiu/asia877kjkjhj/4943.ts
@@ -4501,9 +4501,6 @@ https://tucine.xyz:2087/live/CineClub/dDsdsdSDsd/42.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logos2/images/f/f2/Discovery_Science_logo.png/revision/latest?cb=20180514182753" group-title="38- DOCUMENTALES LATINOS",Discovery Science (2)
 http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/833.rtmp
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logos2/images/f/f2/Discovery_Science_logo.png/revision/latest?cb=20180514182753" group-title="38- DOCUMENTALES LATINOS",Discovery Science (3)
-http://extremo.dyndns.ws:25461/live/470077/470077/4972.rtmp
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logos2/images/f/f2/Discovery_Science_logo.png/revision/latest?cb=20180514182753" group-title="38- DOCUMENTALES LATINOS",Discovery Science (4)
 http://wohuogai.com:37000/live/876iuhiu/asia877kjkjhj/4948.ts
@@ -4517,9 +4514,6 @@ https://tucine.xyz:2087/live/CineClub/dDsdsdSDsd/43.m3u8
 #EXTINF:-1 tvg-logo="https://www.cotes.net.bo/appCotes/public/appWeb_/assets/images/canales/17.2.png" group-title="38- DOCUMENTALES LATINOS",Discovery Theater (2)
 http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/813.rtmp
 
-#EXTINF:-1 tvg-logo="https://www.cotes.net.bo/appCotes/public/appWeb_/assets/images/canales/17.2.png" group-title="38- DOCUMENTALES LATINOS",Discovery Theater (3)
-http://extremo.dyndns.ws:25461/live/470077/470077/3132.rtmp
-
 #EXTINF:-1 tvg-logo="https://www.cotes.net.bo/appCotes/public/appWeb_/assets/images/canales/17.2.png" group-title="38- DOCUMENTALES LATINOS",Discovery Theater (6)
 http://extremo.dyndns.ws:25461/live/0000/0000/3132.rtmp
 
@@ -4530,7 +4524,7 @@ https://tucine.xyz:2087/live/CineClub/dDsdsdSDsd/44.m3u8
 http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/814.rtmp
 
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/discovery-turbo-logo-01.png" group-title="38- DOCUMENTALES LATINOS",Discovery Turbo (3)
-http://extremo.dyndns.ws:25461/live/470077/470077/2192.rtmp
+http://45.235.39.2:8000/play/a03f
 
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/discovery-turbo-logo-01.png" group-title="38- DOCUMENTALES LATINOS",Discovery Turbo (4)
 http://wohuogai.com:37000/live/876iuhiu/asia877kjkjhj/29282.ts
@@ -4543,9 +4537,6 @@ https://tucine.xyz:2087/live/CineClub/dDsdsdSDsd/45.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.skytvporassinatura.com.br/wp-content/uploads/2018/01/canal-discovery-world-hd-sky-1.png" group-title="38- DOCUMENTALES LATINOS",Discovery World (2)
 http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/836.rtmp
-
-#EXTINF:-1 tvg-logo="https://www.skytvporassinatura.com.br/wp-content/uploads/2018/01/canal-discovery-world-hd-sky-1.png" group-title="38- DOCUMENTALES LATINOS",Discovery World (3)
-http://extremo.dyndns.ws:25461/live/470077/470077/4941.rtmp
 
 #EXTINF:-1 tvg-logo="https://www.skytvporassinatura.com.br/wp-content/uploads/2018/01/canal-discovery-world-hd-sky-1.png" group-title="38- DOCUMENTALES LATINOS",Discovery World (4)
 http://wohuogai.com:37000/live/876iuhiu/asia877kjkjhj/58755.ts
@@ -4560,7 +4551,7 @@ https://tucine.xyz:2087/live/CineClub/dDsdsdSDsd/92.m3u8
 http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/823.rtmp
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/35/13/17/35131727c2635cec3274d9bd93868db2.png" group-title="38- DOCUMENTALES LATINOS",History Channel (3)
-http://extremo.dyndns.ws:25461/live/470077/470077/2178.rtmp
+http://45.235.39.2:8000/play/a00c
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/35/13/17/35131727c2635cec3274d9bd93868db2.png" group-title="38- DOCUMENTALES LATINOS",History Channel (4)
 http://wohuogai.com:37000/live/876iuhiu/asia877kjkjhj/4887.ts
@@ -4581,7 +4572,7 @@ https://tucine.xyz:2087/live/CineClub/dDsdsdSDsd/109.m3u8
 https://tucine.xyz:2087/live/CineClub/dDsdsdSDsd/106.m3u8
 
 #EXTINF:-1 tvg-logo="https://diylogodesigns.com/wp-content/uploads/2017/07/national-geographic-logo-vector-768x768.png" group-title="38- DOCUMENTALES LATINOS",Nat Geo (3)
-http://extremo.dyndns.ws:25461/live/470077/470077/14937.rtmp
+http://45.235.39.2:8000/play/a00b
 
 #EXTINF:-1 tvg-logo="https://diylogodesigns.com/wp-content/uploads/2017/07/national-geographic-logo-vector-768x768.png" group-title="38- DOCUMENTALES LATINOS",Nat Geo (4)
 http://wohuogai.com:37000/live/876iuhiu/asia877kjkjhj/4975.ts
@@ -4606,9 +4597,6 @@ https://tucine.xyz:2087/live/CineClub/dDsdsdSDsd/123.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/tlc-logo-01.png" group-title="38- DOCUMENTALES LATINOS",Tlc (2)
 http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/838.rtmp
-
-#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/tlc-logo-01.png" group-title="38- DOCUMENTALES LATINOS",Tlc (3)
-http://extremo.dyndns.ws:25461/live/470077/470077/4942.rtmp
 
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/tlc-logo-01.png" group-title="38- DOCUMENTALES LATINOS",Tlc (6)
 http://extremo.dyndns.ws:25461/live/0000/0000/4942.rtmp
@@ -4878,7 +4866,7 @@ https://tucine.xyz:2087/live/CineClub/dDsdsdSDsd/221.m3u8
 http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/1011.rtmp
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_cdf-premium_m.png" group-title="41- DEPORTES LATINO",Cdf Premium (3)
-http://extremo.dyndns.ws:25461/live/470077/470077/16310.rtmp
+http://45.235.39.2:8000/play/a011
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_cdf-premium_m.png" group-title="41- DEPORTES LATINO",Cdf Premium (6)
 http://extremo.dyndns.ws:25461/live/0000/0000/16303.rtmp
@@ -4940,11 +4928,17 @@ https://tucine.xyz:2087/live/CineClub/dDsdsdSDsd/51.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_espn_m.png" group-title="41- DEPORTES LATINO",Espn (2)
 http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/985.rtmp
 
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_espn_m.png" group-title="41- DEPORTES LATINO",Espn (3)
+http://45.235.39.2:8000/play/a01j
+
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_espn-2_m.png" group-title="41- DEPORTES LATINO",Espn 2 (1)
 https://tucine.xyz:2087/live/CineClub/dDsdsdSDsd/52.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_espn-2_m.png" group-title="41- DEPORTES LATINO",Espn 2 (2)
 http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/986.rtmp
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_espn-2_m.png" group-title="41- DEPORTES LATINO",Espn 2 (3)
+http://45.235.39.2:8000/play/a01k
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_espn-3_m.png" group-title="41- DEPORTES LATINO",Espn 3 (1)
 https://tucine.xyz:2087/live/CineClub/dDsdsdSDsd/53.m3u8
@@ -4952,29 +4946,17 @@ https://tucine.xyz:2087/live/CineClub/dDsdsdSDsd/53.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_espn-3_m.png" group-title="41- DEPORTES LATINO",Espn 3 (2)
 http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/987.rtmp
 
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_espn-3_m.png" group-title="41- DEPORTES LATINO",Espn 3 (3)
+http://45.235.39.2:8000/play/a03h
+
 #EXTINF:-1 tvg-logo="https://imgs.clipartwiki.com/clipimg/small/121-1216642_mls-live-on-espn-espn-logo.png" group-title="41- DEPORTES LATINO",Espn Plus (1)
 https://tucine.xyz:2087/live/CineClub/dDsdsdSDsd/54.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgs.clipartwiki.com/clipimg/small/121-1216642_mls-live-on-espn-espn-logo.png" group-title="41- DEPORTES LATINO",Espn Plus (3)
-http://extremo.dyndns.ws:25461/live/470077/470077/3003.rtmp
 
 #EXTINF:-1 tvg-logo="https://imgs.clipartwiki.com/clipimg/small/121-1216642_mls-live-on-espn-espn-logo.png" group-title="41- DEPORTES LATINO",Espn Plus (6)
 http://extremo.dyndns.ws:25461/live/0000/0000/3003.rtmp
 
-#EXTINF:-1 tvg-logo="https://www.directv.com/images/logos/channels/dark/large/462.png" group-title="41- DEPORTES LATINO",Espn Deportes (1)
-
-
-#EXTINF:-1 tvg-logo="https://www.directv.com/images/logos/channels/dark/large/462.png" group-title="41- DEPORTES LATINO",Espn Deportes (3)
-http://extremo.dyndns.ws:25461/live/470077/470077/2834.rtmp
-
 #EXTINF:-1 tvg-logo="https://www.directv.com/images/logos/channels/dark/large/462.png" group-title="41- DEPORTES LATINO",Espn Deportes (6)
 http://extremo.dyndns.ws:25461/live/0000/0000/2834.rtmp
-
-#EXTINF:-1 tvg-logo="https://comcastspotlight.com/sites/default/files/networks/FOX_Deportes.png" group-title="41- DEPORTES LATINO",Fox Deportes (1)
-
-
-#EXTINF:-1 tvg-logo="https://comcastspotlight.com/sites/default/files/networks/FOX_Deportes.png" group-title="41- DEPORTES LATINO",Fox Deportes (3)
-http://extremo.dyndns.ws:25461/live/470077/470077/2784.rtmp
 
 #EXTINF:-1 tvg-logo="https://comcastspotlight.com/sites/default/files/networks/FOX_Deportes.png" group-title="41- DEPORTES LATINO",Fox Deportes (6)
 http://extremo.dyndns.ws:25461/live/0000/0000/2784.rtmp
@@ -4986,7 +4968,7 @@ https://tucine.xyz:2087/live/CineClub/dDsdsdSDsd/72.m3u8
 http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/997.rtmp
 
 #EXTINF:-1 tvg-logo="https://skydivepuebla.com/wp-content/uploads/2017/10/Fox-sports-logo-300x300.png" group-title="41- DEPORTES LATINO",Fox Sports (3)
-http://extremo.dyndns.ws:25461/live/470077/470077/2172.rtmp
+http://45.235.39.2:8000/play/a01i
 
 #EXTINF:-1 tvg-logo="https://skydivepuebla.com/wp-content/uploads/2017/10/Fox-sports-logo-300x300.png" group-title="41- DEPORTES LATINO",Fox Sports (6)
 http://extremo.dyndns.ws:25461/live/0000/0000/2172.rtmp
@@ -5001,7 +4983,7 @@ https://tucine.xyz:2087/live/CineClub/dDsdsdSDsd/73.m3u8
 http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/998.rtmp
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_fox-sports-2_m.png" group-title="41- DEPORTES LATINO",Fox Sports 2 (3)
-http://extremo.dyndns.ws:25461/live/470077/470077/2173.rtmp
+http://45.235.39.2:8000/play/a01t
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_fox-sports-2_m.png" group-title="41- DEPORTES LATINO",Fox Sports 2 (6)
 http://extremo.dyndns.ws:25461/live/0000/0000/2173.rtmp
@@ -5016,7 +4998,7 @@ https://tucine.xyz:2087/live/CineClub/dDsdsdSDsd/76.m3u8
 http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/1002.rtmp
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-sports-3_m.png" group-title="41- DEPORTES LATINO",Fox Sports 3 (3)
-http://extremo.dyndns.ws:25461/live/470077/470077/3964.rtmp
+http://45.235.39.2:8000/play/a01u
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-sports-3_m.png" group-title="41- DEPORTES LATINO",Fox Sports 3 (6)
 http://extremo.dyndns.ws:25461/live/0000/0000/3964.rtmp
@@ -5025,7 +5007,7 @@ http://extremo.dyndns.ws:25461/live/0000/0000/3964.rtmp
 https://tucine.xyz:2087/live/CineClub/dDsdsdSDsd/228.m3u8
 
 #EXTINF:-1 tvg-logo="https://s3-assets1.flowics.com/web/uploads/production/generic-resources/asset/20429/versioned_b9b117b2abb9cab316bdabfe18b654dc_small.png" group-title="41- DEPORTES LATINO",Fox Sports Premium (3)
-http://extremo.dyndns.ws:25461/live/470077/470077/2628.rtmp
+http://45.235.39.2:8000/play/a012
 
 #EXTINF:-1 tvg-logo="https://s3-assets1.flowics.com/web/uploads/production/generic-resources/asset/20429/versioned_b9b117b2abb9cab316bdabfe18b654dc_small.png" group-title="41- DEPORTES LATINO",Fox Sports Premium (6)
 http://extremo.dyndns.ws:25461/live/0000/0000/2628.rtmp
@@ -5040,19 +5022,13 @@ http://trinity-lh.akamaihd.net/i/GolTVModel4A_d@422865/index_500_av-p.m3u8?Grupo
 http://tucine.xyz:8080/TVEcuador/YtEwQzX7/243
 
 #EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/goltv.png" group-title="41- DEPORTES LATINO",GolTV Latino (3)
-http://extremo.dyndns.ws:25461/live/470077/470077/3339.rtmp
+http://45.235.39.2:8000/play/a01l
 
 #EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/goltv.png" group-title="41- DEPORTES LATINO",GolTV Latino (6)
 http://extremo.dyndns.ws:25461/live/0000/0000/3339.rtmp
 
 #EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/goltv.png" group-title="41- DEPORTES LATINO",GolTV Uruguay -OFF-
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7KCBnxD.png" group-title="41- DEPORTES LATINO",Izzi Afizzionados (1)
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7KCBnxD.png" group-title="41- DEPORTES LATINO",Izzi Afizzionados (3)
-http://extremo.dyndns.ws:25461/live/470077/470077/6386.rtmp
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7KCBnxD.png" group-title="41- DEPORTES LATINO",Izzi Afizzionados (6)
 http://extremo.dyndns.ws:25461/live/0000/0000/6386.rtmp
@@ -5065,12 +5041,6 @@ https://tucine.xyz:2087/live/CineClub/dDsdsdSDsd/198.m3u8
 
 #EXTINF:-1 tvg-logo="http://pxsports.com/wp-content/uploads/2017/01/PX-Retina.png" group-title="41- DEPORTES LATINO",PX Sports -OFF-
 
-
-#EXTINF:-1 tvg-logo="https://ayuda.tigo.co.cr/hc/article_attachments/360037602474/tigo_sports.png" group-title="41- DEPORTES LATINO",Tigo Sports (1)
-
-
-#EXTINF:-1 tvg-logo="https://ayuda.tigo.co.cr/hc/article_attachments/360037602474/tigo_sports.png" group-title="41- DEPORTES LATINO",Tigo Sports (3)
-http://extremo.dyndns.ws:25461/live/470077/470077/3900.rtmp
 
 #EXTINF:-1 tvg-logo="https://ayuda.tigo.co.cr/hc/article_attachments/360037602474/tigo_sports.png" group-title="41- DEPORTES LATINO",Tigo Sports (6)
 http://extremo.dyndns.ws:25461/live/0000/0000/3900.rtmp
@@ -5099,9 +5069,6 @@ http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/988.rtmp
 #EXTINF:-1 tvg-logo="https://s22958.pcdn.co/wp-content/uploads/2017/04/TUDN_824x568.png" group-title="41- DEPORTES LATINO",Tudn (1)
 https://tucine.xyz:2087/live/CineClub/dDsdsdSDsd/194.m3u8
 
-#EXTINF:-1 tvg-logo="https://s22958.pcdn.co/wp-content/uploads/2017/04/TUDN_824x568.png" group-title="41- DEPORTES LATINO",Tudn (3)
-http://extremo.dyndns.ws:25461/live/470077/470077/2806.rtmp
-
 #EXTINF:-1 tvg-logo="https://s22958.pcdn.co/wp-content/uploads/2017/04/TUDN_824x568.png" group-title="41- DEPORTES LATINO",Tudn (6)
 http://extremo.dyndns.ws:25461/live/0000/0000/2806.rtmp
 
@@ -5121,7 +5088,7 @@ http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/993.rtmp
 http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/994.rtmp
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_tyc-sports-hd_m.png" group-title="41- DEPORTES LATINO",TyC (3)
-http://extremo.dyndns.ws:25461/live/470077/470077/2803.rtmp
+http://45.235.39.2:8000/play/a01m
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_tyc-sports-hd_m.png" group-title="41- DEPORTES LATINO",TyC (6)
 http://extremo.dyndns.ws:25461/live/0000/0000/2803.rtmp
@@ -5131,9 +5098,6 @@ https://tucine.xyz:2087/live/CineClub/dDsdsdSDsd/222.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.logoteca.uy/uploads/imagenes/file_2da07aaf6d.png" group-title="41- DEPORTES LATINO",VTV (2)
 http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/713.rtmp
-
-#EXTINF:-1 tvg-logo="http://www.logoteca.uy/uploads/imagenes/file_2da07aaf6d.png" group-title="41- DEPORTES LATINO",VTV
-http://extremo.dyndns.ws:25461/live/006642/006642/15254.rtmp
 
 #EXTINF:-1 tvg-logo="http://www.logoteca.uy/uploads/imagenes/file_2da07aaf6d.png" group-title="41- DEPORTES LATINO",VTV
 http://extremo.dyndns.ws:25461/live/470077/470077/15254.rtmp
@@ -5152,9 +5116,6 @@ https://tucine.xyz:2087/live/CineClub/dDsdsdSDsd/136.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png" group-title="41- DEPORTES LATINO",Win Sports (2)
 http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/1012.rtmp
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png" group-title="41- DEPORTES LATINO",Win Sports (3)
-http://extremo.dyndns.ws:25461/live/470077/470077/1329.rtmp
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png" group-title="41- DEPORTES LATINO",Win Sports (6)
 http://extremo.dyndns.ws:25461/live/0000/0000/1329.rtmp
