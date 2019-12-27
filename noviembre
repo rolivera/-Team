@@ -97,9 +97,6 @@ http://dcunilive28-lh.akamaihd.net/i/dclive_1@533583/index_150_av-p.m3u8?GrupoTo
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-garage_m.png" group-title="03- ARGENTINA",El Garage
 http://186.0.233.76:1935/Garage/garage.smil/playlist.m3u8?GrupoTopIptv
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-garage_m.png" group-title="03- ARGENTINA",El Garage (1)
-https://tucine.xyz:2087/live/CineClub/dDsdsdSDsd/156.m3u8
-
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-garage_m.png" group-title="03- ARGENTINA",El Garage (4)
 http://62.210.139.229:25461/live/5020350884/gangatv/53.rtmp
 
@@ -114,9 +111,6 @@ https://tucine.xyz:2087/live/CineClub/dDsdsdSDsd/231.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/canal-9-m.jpg" group-title="03- ARGENTINA",El Nueve (2)
 http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/725.rtmp
-
-#EXTINF:-1 tvg-logo="http://ipuntotv.com/IMAGES/ElTreceHD2012.jpg" group-title="03- ARGENTINA",El Trece (1)
-https://tucine.xyz:2087/live/CineClub/dDsdsdSDsd/230.m3u8
 
 #EXTINF:-1 tvg-logo="http://ipuntotv.com/IMAGES/ElTreceHD2012.jpg" group-title="03- ARGENTINA",El Trece (2)
 http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/717.rtmp
@@ -521,8 +515,8 @@ http://edge1.cl.grupoz.cl/canal21tv/live/playlist.m3u8?GrupoTopIptv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/S0OCpjV.png" group-title="06- CHILE",Cachipum -OFF-
 
 
-#EXTINF:-1 tvg-logo="https://elfiltrador.com/wp-content/uploads/2018/10/foto_0000001320180216144941.png" group-title="06- CHILE",Chilevision (1)
-https://tucine.xyz:2087/live/CineClub/dDsdsdSDsd/216.m3u8
+#EXTINF:-1 tvg-logo="https://elfiltrador.com/wp-content/uploads/2018/10/foto_0000001320180216144941.png" group-title="06- CHILE",Chilevision -OFF-
+
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/VhOolgs.png" group-title="06- CHILE",El Pingüino
 http://streaming.elpinguino.com:1935/live/pinguinotv_720p/hasbahca.m3u8?GrupoTopIptv
@@ -536,11 +530,11 @@ http://unlimited5-cl.dps.live/holvoettv/holvoettv.smil/playlist.m3u8?GrupoTopIpt
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9sKGsmt.png" group-title="06- CHILE",ITV
 http://unlimited1-us.dps.live/itv/itv.smil/itv/livestream1/chunks.m3u8?GrupoTopIptv
 
-#EXTINF:-1 tvg-logo="https://blogvecindad.com/wp-content/uploads/2015/11/Mega_Chile_Alternate_Logo.png" group-title="06- CHILE",Mega (3)
-http://45.235.39.2:8000/play/a00x
+#EXTINF:-1 tvg-logo="https://blogvecindad.com/wp-content/uploads/2015/11/Mega_Chile_Alternate_Logo.png" group-title="06- CHILE",Mega -OFF-
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/PixQwsD.png" group-title="06- CHILE",La Red (3)
-http://45.235.39.2:8000/play/a00v
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/PixQwsD.png" group-title="06- CHILE",La Red -OFF-
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/umdJ2mP.jpg" group-title="06- CHILE",Portalfoxmix
 http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8?GrupoTopIptv
@@ -551,8 +545,8 @@ http://c13-ply.janus.cl/playlist/stream.m3u8?s=c13hd?GrupoTopIptv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6J8xRah.png" group-title="06- CHILE",Teletrak
 http://unlimited1-us.dps.live/teletrak/teletrak.smil/teletrak/livestream1/chunks.m3u8?GrupoTopIptv
 
-#EXTINF:-1 tvg-logo="https://grandesmarcas.cl/wp-content/uploads/2016/06/logo-TVN-1.jpg" group-title="06- CHILE",TVN (3)
-http://45.235.39.2:8000/play/a00w
+#EXTINF:-1 tvg-logo="https://grandesmarcas.cl/wp-content/uploads/2016/06/logo-TVN-1.jpg" group-title="06- CHILE",TVN -OFF-
+
 
 #EXTINF:-1 tvg-logo="https://www.tvr.cl/wp-content/uploads/2018/10/cropped-logo-tvr-3.png" group-title="06- CHILE",TVR
 https://unlimited4-cl.dps.live/tvr/tvr.smil/playlist.m3u8?GrupoTopIptv
@@ -617,14 +611,11 @@ http://66.240.236.25:1936/canalcnc/canalcnc/chunklist.m3u8?GrupoTopIptv
 #EXTINF:-1 tvg-logo="http://www.ranchenatotv.co/wp-content/uploads/2018/10/500PX.png" group-title="07- COLOMBIA",Ranchenato
 http://66.240.236.25:1936/ranchenato/ranchenato/playlist.m3u8?GrupoTopIptv
 
-#EXTINF:-1 tvg-logo="http://html.canalrcn.com/CanalRCN/react/images/RCN-RCNTELEVISION-logo21.png" group-title="07- COLOMBIA",RCN (1)
-https://tucine.xyz:2087/live/CineClub/dDsdsdSDsd/205.m3u8
-
 #EXTINF:-1 tvg-logo="http://html.canalrcn.com/CanalRCN/react/images/RCN-RCNTELEVISION-logo21.png" group-title="07- COLOMBIA",RCN (6)
 https://iptvbad.000webhostapp.com/sky/master.php?id=140&f=.rtmp
 
-#EXTINF:-1 tvg-logo="http://217.182.175.40/logo/Pzh1qyZs.png" group-title="07- COLOMBIA",RCN Novelas (3)
-http://45.235.39.2:8000/play/a01w
+#EXTINF:-1 tvg-logo="http://217.182.175.40/logo/Pzh1qyZs.png" group-title="07- COLOMBIA",RCN Novelas -OFF-
+
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/281e2a_0961b75b14424e788e73ad827bb4561d~mv2.jpg" group-title="07- COLOMBIA",Red + -OFF-
 
@@ -643,9 +634,6 @@ http://telecaribe-hd.gcdn.anvato.net/hls/live/telecaribehd/2196k/index.m3u8?Grup
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/telecaribe.png" group-title="07- COLOMBIA",Telecaribe
 http://telecaribe-deportes.gcdn.anvato.net/hls/live/telecaribedeporteshd2/2196k/index.m3u8?GrupoTopIptv
-
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/telecaribe.png" group-title="07- COLOMBIA",Telecaribe (3)
-http://45.235.39.2:8000/play/a03i
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4xNgb8H.png" group-title="07- COLOMBIA",Teleislas
 http://vbox2.cehis.net/live-teleislas/smil:teleislas.smil/playlist.m3u8?GrupoTopIptv
@@ -689,8 +677,8 @@ http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?GrupoTopIpt
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/telered.png" group-title="08- COSTA RICA",Telered
 http://k4.usastreams.com/Telesistemas/Telesistemas/playlist.m3u8?GrupoTopIptv
 
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/ticavision.png" group-title="08- COSTA RICA",Ticavision
-http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8?GrupoTopIptv
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/ticavision.png" group-title="08- COSTA RICA",Ticavision -OFF-
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YqW3o4z.png" group-title="08- COSTA RICA",Tv Sur -OFF-
 
@@ -813,26 +801,17 @@ http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8?GrupoTopIptv
 https://stream.vagalume.fm/hls/147015499779090/aac.m3u8
 #######################################
 
-#EXTINF:-1 tvg-logo="https://media.tvalacarta.info/canales/256x256/adn40.png" group-title="13- MEXICO",Adn 40 (1)
-https://tucine.xyz:2087/live/CineClub/dDsdsdSDsd/139.m3u8
-
 #EXTINF:-1 tvg-logo="https://media.tvalacarta.info/canales/256x256/adn40.png" group-title="13- MEXICO",Adn 40 (6)
 https://iptvbad.000webhostapp.com/sky/master.php?id=42&f=.rtmp
 
 #EXTINF:-1 tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/400x300_1845/Source/9519/americatevepuertorico.png" group-title="13- MEXICO",America teve -OFF-
 
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_az-cinema_m.png" group-title="13- MEXICO",Az Cinema (1)
-https://tucine.xyz:2087/live/CineClub/dDsdsdSDsd/143.m3u8
-
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_az-cinema_m.png" group-title="13- MEXICO",Az Cinema (6)
 https://iptvbad.000webhostapp.com/sky/master.php?id=50&f=.rtmp
 
-#EXTINF:-1 tvg-logo="http://www.tvcomsahagun.com/img/canales/az_clic.png" group-title="13- MEXICO",Az Clic (1)
-https://tucine.xyz:2087/live/CineClub/dDsdsdSDsd/142.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvcomsahagun.com/img/canales/az_clic.png" group-title="13- MEXICO",Az Clic -OFF-
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_az-corazon_m.png" group-title="13- MEXICO",Az Corazon (1)
-https://tucine.xyz:2087/live/CineClub/dDsdsdSDsd/4.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_az-corazon_m.png" group-title="13- MEXICO",Az Corazon (4)
 http://62.210.139.229:25461/live/5020350884/gangatv/57.rtmp
@@ -843,9 +822,6 @@ http://62.210.139.229:25461/live/9115059399/4414261712/57.rtmp
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_az-corazon_m.png" group-title="13- MEXICO",Az Corazon (6)
 https://iptvbad.000webhostapp.com/sky/master.php?id=51&f=.rtmp
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_az-mundo-hd_m.png" group-title="13- MEXICO",Az Mundo (1)
-https://tucine.xyz:2087/live/CineClub/dDsdsdSDsd/5.m3u8
-
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_az-mundo-hd_m.png" group-title="13- MEXICO",Az Mundo (4)
 http://62.210.139.229:25461/live/5020350884/gangatv/47.rtmp
 
@@ -854,9 +830,6 @@ http://62.210.139.229:25461/live/9115059399/4414261712/47.rtmp
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_az-mundo-hd_m.png" group-title="13- MEXICO",Az Mundo (6)
 https://iptvbad.000webhostapp.com/sky/master.php?id=52&f=.rtmp
-
-#EXTINF:-1 tvg-logo="http://tvpremiumhd.com/channels/img/hd-aztecauno.png" group-title="13- MEXICO",Azteca 1 (1)
-https://tucine.xyz:2087/live/CineClub/dDsdsdSDsd/138.m3u8
 
 #EXTINF:-1 tvg-logo="http://tvpremiumhd.com/channels/img/hd-aztecauno.png" group-title="13- MEXICO",Azteca 1 (4)
 http://62.210.139.229:25461/live/5020350884/gangatv/115.rtmp
@@ -984,8 +957,8 @@ https://iptvbad.000webhostapp.com/sky/master.php?id=154&f=.rtmp
 #EXTINF:-1 tvg-logo="https://novobloglimpinhoecheiroso.files.wordpress.com/2014/03/televisa01.jpg" group-title="13- MEXICO",Televisa Puebla -OFF-
 
 
-#EXTINF:-1 tvg-logo="http://www.onlinetv.planetfools.com/imagenes/tlnovelas.png" group-title="13- MEXICO",Tlnovelas (6)
-https://iptvbad.000webhostapp.com/sky/master.php?id=155&f=.rtmp
+#EXTINF:-1 tvg-logo="http://www.onlinetv.planetfools.com/imagenes/tlnovelas.png" group-title="13- MEXICO",Tlnovelas -OFF-
+
 
 #EXTINF:-1 tvg-logo="http://www.pctv.com.mx/Portals/_default/Skins/Incredible/css/tvc/canales/tvc-89472.png" group-title="13- MEXICO",TVC -OFF-
 
@@ -1407,17 +1380,11 @@ http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/673.rtmp
 #EXTINF:-1 tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/34839/240/default.jpg" group-title="20- URUGUAY",Pantalla IMPO (2)
 http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/707.rtmp
 
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/04/rtv-uruguay.png" group-title="20- URUGUAY",Rtv (2)
-http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/696.rtmp
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/04/rtv-uruguay.png" group-title="20- URUGUAY",Rtv -OFF-
 
-#EXTINF:-1 tvg-logo="https://media.tvalacarta.info/canales/256x256/canal10.png" group-title="20- URUGUAY",Saeta Canal 10 (2)
-http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/675.rtmp
 
 #EXTINF:-1 tvg-logo="https://media.tvalacarta.info/canales/256x256/canal10.png" group-title="20- URUGUAY",Saeta Canal 10 (2)
 http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/676.rtmp
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1136710475868229633/p2S0PMG8_400x400.jpg" group-title="20- URUGUAY",Teledoce (2)
-http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/678.rtmp
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1136710475868229633/p2S0PMG8_400x400.jpg" group-title="20- URUGUAY",Teledoce (2)
 http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/679.rtmp
@@ -1446,14 +1413,8 @@ http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/709.rtmp
 #EXTINF:-1 tvg-logo="http://www.logoteca.uy/uploads/imagenes/file_2da07aaf6d.png" group-title="20- URUGUAY",VTV (2)
 http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/711.rtmp
 
-#EXTINF:-1 tvg-logo="http://www.logoteca.uy/uploads/imagenes/file_2da07aaf6d.png" group-title="20- URUGUAY",VTV (2)
-http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/712.rtmp
-
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-2A5wJVTgb4Y/UPFifoWY2TI/AAAAAAAAAV8/g_Lasd6u1LI/s1600/VTV+.jpg" group-title="20- URUGUAY",VTV + (2)
 http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/710.rtmp
-
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-2A5wJVTgb4Y/UPFifoWY2TI/AAAAAAAAAV8/g_Lasd6u1LI/s1600/VTV+.jpg" group-title="20- URUGUAY",VTV + (2)
-http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/714.rtmp
 
 #####################################################################################################################################
 ####################################### VENEZUELA
