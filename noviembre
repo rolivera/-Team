@@ -3863,11 +3863,17 @@ http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
 #######################################
 ######################################################################################################################################
 
-#EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/020/original/pic_a_e.png?1522180692" group-title="38- DOCUMENTALES LATINOS",A&E -OFF-
+#EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/020/original/pic_a_e.png?1522180692" group-title="38- DOCUMENTALES LATINOS",A&E (1)
+http://alltvpremiere.online:8000/live/RokuAllTv/Q5SRJ1fbha/1.ts
 
+#EXTINF:-1 tvg-logo="https://comcastspotlight.com/sites/default/files/networks/Animal%20Planet%20Large%20Stacked.png" group-title="38- DOCUMENTALES LATINOS",Animal Planet (1)
+http://alltvpremiere.online:8000/live/RokuAllTv/Q5SRJ1fbha/4.ts
 
 #EXTINF:-1 tvg-logo="https://comcastspotlight.com/sites/default/files/networks/Animal%20Planet%20Large%20Stacked.png" group-title="38- DOCUMENTALES LATINOS",Animal Planet (2)
 http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/840.rtmp
+
+#EXTINF:-1 tvg-logo="https://hcil.umd.edu/wp-content/uploads/2015/12/Discovery-Channel-logo.png" group-title="38- DOCUMENTALES LATINOS",Discovery Channel (1)
+http://alltvpremiere.online:8000/live/RokuAllTv/Q5SRJ1fbha/27.ts
 
 #EXTINF:-1 tvg-logo="https://hcil.umd.edu/wp-content/uploads/2015/12/Discovery-Channel-logo.png" group-title="38- DOCUMENTALES LATINOS",Discovery Channel (2)
 http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/826.rtmp
@@ -3877,6 +3883,9 @@ http://62.210.139.229:25461/live/5020350884/gangatv/32.rtmp
 
 #EXTINF:-1 tvg-logo="https://hcil.umd.edu/wp-content/uploads/2015/12/Discovery-Channel-logo.png" group-title="38- DOCUMENTALES LATINOS",Discovery Channel (5)
 http://62.210.139.229:25461/live/9115059399/4414261712/32.rtmp
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_discovery-civilization_m.png" group-title="38- DOCUMENTALES LATINOS",Discovery Civilization (1)
+http://alltvpremiere.online:8000/live/RokuAllTv/Q5SRJ1fbha/28.ts
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_discovery-civilization_m.png" group-title="38- DOCUMENTALES LATINOS",Discovery Civilization (2)
 http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/832.rtmp
@@ -3890,6 +3899,9 @@ http://62.210.139.229:25461/live/9115059399/4414261712/27.rtmp
 #EXTINF:-1 tvg-logo="https://static.brandfolder.com/discoveryfamilia/logo/discoveryfamilia-primary-logo.png" group-title="38- DOCUMENTALES LATINOS",Discovery Familia -OFF-
 https://iptvbad.000webhostapp.com/sky/master.php?id=73&f=.rtmp
 
+#EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/027/original/pic_investigactiondisc.png?1522177058" group-title="38- DOCUMENTALES LATINOS",Discovery Investigation (1)
+http://alltvpremiere.online:8000/live/RokuAllTv/Q5SRJ1fbha/69.ts
+
 #EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/027/original/pic_investigactiondisc.png?1522177058" group-title="38- DOCUMENTALES LATINOS",Discovery Investigation (2)
 http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/830.rtmp
 
@@ -3899,11 +3911,17 @@ http://62.210.139.229:25461/live/5020350884/gangatv/62.rtmp
 #EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/027/original/pic_investigactiondisc.png?1522177058" group-title="38- DOCUMENTALES LATINOS",Discovery Investigation (5)
 http://62.210.139.229:25461/live/9115059399/4414261712/62.rtmp
 
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/b0d27efc-174d-41f6-851b-e125fba0dce7_m.jpg" group-title="38- DOCUMENTALES LATINOS",Discovery H&H (1)
+http://alltvpremiere.online:8000/live/RokuAllTv/Q5SRJ1fbha/29.ts
+
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/b0d27efc-174d-41f6-851b-e125fba0dce7_m.jpg" group-title="38- DOCUMENTALES LATINOS",Discovery H&H (4)
 http://62.210.139.229:25461/live/5020350884/gangatv/31.rtmp
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/b0d27efc-174d-41f6-851b-e125fba0dce7_m.jpg" group-title="38- DOCUMENTALES LATINOS",Discovery H&H (5)
 http://62.210.139.229:25461/live/9115059399/4414261712/31.rtmp
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logos2/images/f/f2/Discovery_Science_logo.png/revision/latest?cb=20180514182753" group-title="38- DOCUMENTALES LATINOS",Discovery Science (1)
+http://alltvpremiere.online:8000/live/RokuAllTv/Q5SRJ1fbha/31.ts
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logos2/images/f/f2/Discovery_Science_logo.png/revision/latest?cb=20180514182753" group-title="38- DOCUMENTALES LATINOS",Discovery Science (2)
 http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/833.rtmp
@@ -3914,8 +3932,14 @@ http://62.210.139.229:25461/live/5020350884/gangatv/28.rtmp
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logos2/images/f/f2/Discovery_Science_logo.png/revision/latest?cb=20180514182753" group-title="38- DOCUMENTALES LATINOS",Discovery Science (5)
 http://62.210.139.229:25461/live/9115059399/4414261712/28.rtmp
 
+#EXTINF:-1 tvg-logo="https://www.cotes.net.bo/appCotes/public/appWeb_/assets/images/canales/17.2.png" group-title="38- DOCUMENTALES LATINOS",Discovery Theater (1)
+http://alltvpremiere.online:8000/live/RokuAllTv/Q5SRJ1fbha/32.ts
+
 #EXTINF:-1 tvg-logo="https://www.cotes.net.bo/appCotes/public/appWeb_/assets/images/canales/17.2.png" group-title="38- DOCUMENTALES LATINOS",Discovery Theater (2)
 http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/813.rtmp
+
+#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/discovery-turbo-logo-01.png" group-title="38- DOCUMENTALES LATINOS",Discovery Turbo (1)
+http://alltvpremiere.online:8000/live/RokuAllTv/Q5SRJ1fbha/34.ts
 
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/discovery-turbo-logo-01.png" group-title="38- DOCUMENTALES LATINOS",Discovery Turbo (2)
 http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/814.rtmp
@@ -3926,6 +3950,9 @@ http://62.210.139.229:25461/live/5020350884/gangatv/60.rtmp
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/discovery-turbo-logo-01.png" group-title="38- DOCUMENTALES LATINOS",Discovery Turbo (5)
 http://62.210.139.229:25461/live/9115059399/4414261712/60.rtmp
 
+#EXTINF:-1 tvg-logo="https://www.skytvporassinatura.com.br/wp-content/uploads/2018/01/canal-discovery-world-hd-sky-1.png" group-title="38- DOCUMENTALES LATINOS",Discovery World (1)
+http://alltvpremiere.online:8000/live/RokuAllTv/Q5SRJ1fbha/35.ts
+
 #EXTINF:-1 tvg-logo="https://www.skytvporassinatura.com.br/wp-content/uploads/2018/01/canal-discovery-world-hd-sky-1.png" group-title="38- DOCUMENTALES LATINOS",Discovery World (2)
 http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/836.rtmp
 
@@ -3934,6 +3961,9 @@ http://62.210.139.229:25461/live/5020350884/gangatv/33.rtmp
 
 #EXTINF:-1 tvg-logo="https://www.skytvporassinatura.com.br/wp-content/uploads/2018/01/canal-discovery-world-hd-sky-1.png" group-title="38- DOCUMENTALES LATINOS",Discovery World (5)
 http://62.210.139.229:25461/live/9115059399/4414261712/33.rtmp
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/35/13/17/35131727c2635cec3274d9bd93868db2.png" group-title="38- DOCUMENTALES LATINOS",History (1)
+http://alltvpremiere.online:8000/live/RokuAllTv/Q5SRJ1fbha/66.ts
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/35/13/17/35131727c2635cec3274d9bd93868db2.png" group-title="38- DOCUMENTALES LATINOS",History (2)
 http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/823.rtmp
@@ -3944,11 +3974,17 @@ http://62.210.139.229:25461/live/5020350884/gangatv/35.rtmp
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/35/13/17/35131727c2635cec3274d9bd93868db2.png" group-title="38- DOCUMENTALES LATINOS",History (5)
 http://62.210.139.229:25461/live/9115059399/4414261712/35.rtmp
 
+#EXTINF:-1 tvg-logo="https://i0.wp.com/cineframe.mx/wp-content/uploads/2017/08/H2.png" group-title="38- DOCUMENTALES LATINOS",History 2 (1)
+http://alltvpremiere.online:8000/live/RokuAllTv/Q5SRJ1fbha/1402.ts
+
 #EXTINF:-1 tvg-logo="https://i0.wp.com/cineframe.mx/wp-content/uploads/2017/08/H2.png" group-title="38- DOCUMENTALES LATINOS",History 2 (2)
 http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/825.rtmp
 
 #EXTINF:-1 tvg-logo="https://s26311.pcdn.co/wp-content/uploads/2017/08/logosolo.png" group-title="38- DOCUMENTALES LATINOS",HITN -OFF-
 
+
+#EXTINF:-1 tvg-logo="https://diylogodesigns.com/wp-content/uploads/2017/07/national-geographic-logo-vector-768x768.png" group-title="38- DOCUMENTALES LATINOS",Nat Geo (1)
+http://alltvpremiere.online:8000/live/RokuAllTv/Q5SRJ1fbha/78.ts
 
 #EXTINF:-1 tvg-logo="https://diylogodesigns.com/wp-content/uploads/2017/07/national-geographic-logo-vector-768x768.png" group-title="38- DOCUMENTALES LATINOS",Nat Geo (4)
 http://62.210.139.229:25461/live/5020350884/gangatv/30.rtmp
@@ -3959,6 +3995,9 @@ http://62.210.139.229:25461/live/9115059399/4414261712/30.rtmp
 #EXTINF:-1 tvg-logo="https://www.directv.com/images/logos/channels/dark/large/354.png" group-title="38- DOCUMENTALES LATINOS",Nat Geo Mundo -OFF-
 
 
+#EXTINF:-1 tvg-logo="http://www.lettreaudiovisuel.com/wp-content/uploads/2014/12/Nat-Geo-Wild.png" group-title="38- DOCUMENTALES LATINOS",Nat Geo Wild (1)
+http://alltvpremiere.online:8000/live/RokuAllTv/Q5SRJ1fbha/79.ts
+
 #EXTINF:-1 tvg-logo="http://www.lettreaudiovisuel.com/wp-content/uploads/2014/12/Nat-Geo-Wild.png" group-title="38- DOCUMENTALES LATINOS",Nat Geo Wild (2)
 http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/837.rtmp
 
@@ -3967,6 +4006,9 @@ http://62.210.139.229:25461/live/5020350884/gangatv/34.rtmp
 
 #EXTINF:-1 tvg-logo="http://www.lettreaudiovisuel.com/wp-content/uploads/2014/12/Nat-Geo-Wild.png" group-title="38- DOCUMENTALES LATINOS",Nat Geo Wild (5)
 http://62.210.139.229:25461/live/9115059399/4414261712/34.rtmp
+
+#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/tlc-logo-01.png" group-title="38- DOCUMENTALES LATINOS",Tlc (1)
+http://alltvpremiere.online:8000/live/RokuAllTv/Q5SRJ1fbha/33.ts
 
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/tlc-logo-01.png" group-title="38- DOCUMENTALES LATINOS",Tlc (2)
 http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/838.rtmp
@@ -4226,14 +4268,14 @@ http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
 #######################################
 ######################################################################################################################################
 
-#EXTINF:-1  tvg-logo="http://www.megacable.com.mx/images/canales/74_aym-sports.png" group-title="41- DEPORTES LATINO",Aym Sports -OFF-
-https://iptvbad.000webhostapp.com/sky/master.php?id=49&f=.rtmp
+#EXTINF:-1  tvg-logo="http://www.megacable.com.mx/images/canales/74_aym-sports.png" group-title="41- DEPORTES LATINO",Aym Sports (1)
+http://alltvpremiere.online:8000/live/RokuAllTv/Q5SRJ1fbha/6.ts
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/02/bolivia-deportes.png" group-title="41- DEPORTES LATINO",Bolivia Deportes
 http://btvboliviatv.srfms.com:6568/live/livestream/playlist.m3u8?GrupoTopIptv
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_cdf-premium_m.png" group-title="41- DEPORTES LATINO",Cdf Premium -OFF-
-https://tucine.xyz:2087/live/CineClub/dDsdsdSDsd/221.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/06/cdo.png" group-title="41- DEPORTES LATINO",Cdo
 http://edge1.cl.grupoz.cl/cdofree/live/chunklist_w822432298.m3u8?GrupoTopIptv
@@ -4244,50 +4286,71 @@ http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8?GrupoTopIptv
 #EXTINF:-1 tvg-logo="http://www.chilenotas.com/img/cdo.png" group-title="41- DEPORTES LATINO",Cdo Premium -OFF-
 
 
-#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/claro-sports.png" group-title="41- DEPORTES LATINO",Claro Sports -OFF-
-
-
-#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/claro-sports.png" group-title="41- DEPORTES LATINO",Claro Sports Latinoamerica -OFF-
-
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/claro-sports.png" group-title="41- DEPORTES LATINO",Claro Sports (1)
+http://alltvpremiere.online:8000/live/RokuAllTv/Q5SRJ1fbha/180.ts
 
 #EXTINF:-1 tvg-logo="http://inda.tv/wp-content/uploads/2018/09/deportv1.jpg" group-title="41- DEPORTES LATINO",Deportv -OFF-
 
 
+#EXTINF:-1 tvg-logo="https://www.reporterosasociados.com.co/wp/wp-content/uploads/2019/01/DIRECTV-Sports.png" group-title="41- DEPORTES LATINO",Directv Sports (1)
+http://alltvpremiere.online:8000/live/RokuAllTv/Q5SRJ1fbha/2286.ts
+
 #EXTINF:-1 tvg-logo="https://www.reporterosasociados.com.co/wp/wp-content/uploads/2019/01/DIRECTV-Sports.png" group-title="41- DEPORTES LATINO",Directv Sports (2)
 http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/989.rtmp
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/DirecTV_Sports_2_Argentina.png" group-title="41- DEPORTES LATINO",Directv Sports 2 (1)
+http://alltvpremiere.online:8000/live/RokuAllTv/Q5SRJ1fbha/2285.ts
 
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/DirecTV_Sports_2_Argentina.png" group-title="41- DEPORTES LATINO",Directv Sports 2 (2)
 http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/990.rtmp
 
+#EXTINF:-1 tvg-logo="https://www.reporterosasociados.com.co/wp/wp-content/uploads/2019/01/DIRECTV-Sports.png" group-title="41- DEPORTES LATINO",Directv Sports Plus (1)
+http://alltvpremiere.online:8000/live/RokuAllTv/Q5SRJ1fbha/2289.ts
+
 #EXTINF:-1 tvg-logo="https://www.reporterosasociados.com.co/wp/wp-content/uploads/2019/01/DIRECTV-Sports.png" group-title="41- DEPORTES LATINO",Directv Sports Plus (2)
 http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/991.rtmp
 
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_espn_m.png" group-title="41- DEPORTES LATINO",Espn (1)
+http://alltvpremiere.online:8000/live/RokuAllTv/Q5SRJ1fbha/40.ts
+
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_espn_m.png" group-title="41- DEPORTES LATINO",Espn (2)
 http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/985.rtmp
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_espn-2_m.png" group-title="41- DEPORTES LATINO",Espn 2 (1)
+http://alltvpremiere.online:8000/live/RokuAllTv/Q5SRJ1fbha/41.ts
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_espn-2_m.png" group-title="41- DEPORTES LATINO",Espn 2 (2)
 http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/986.rtmp
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_espn-3_m.png" group-title="41- DEPORTES LATINO",Espn 3 (1)
-https://tucine.xyz:2087/live/CineClub/dDsdsdSDsd/53.m3u8
+http://alltvpremiere.online:8000/live/RokuAllTv/Q5SRJ1fbha/42.ts
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_espn-3_m.png" group-title="41- DEPORTES LATINO",Espn 3 (2)
 http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/987.rtmp
 
-#EXTINF:-1 tvg-logo="https://imgs.clipartwiki.com/clipimg/small/121-1216642_mls-live-on-espn-espn-logo.png" group-title="41- DEPORTES LATINO",Espn Plus -OFF-
-https://iptvbad.000webhostapp.com/sky/master.php?id=93&f=.rtmp
+#EXTINF:-1 tvg-logo="https://imgs.clipartwiki.com/clipimg/small/121-1216642_mls-live-on-espn-espn-logo.png" group-title="41- DEPORTES LATINO",Espn Plus (1)
+http://alltvpremiere.online:8000/live/RokuAllTv/Q5SRJ1fbha/43.ts
 
 #EXTINF:-1 tvg-logo="https://www.directv.com/images/logos/channels/dark/large/462.png" group-title="41- DEPORTES LATINO",Espn Deportes -OFF-
-https://iptvbad.000webhostapp.com/sky/master.php?id=92&f=.rtmp
+
 
 #EXTINF:-1 tvg-logo="https://comcastspotlight.com/sites/default/files/networks/FOX_Deportes.png" group-title="41- DEPORTES LATINO",Fox Deportes -OFF-
 
 
+#EXTINF:-1 tvg-logo="https://skydivepuebla.com/wp-content/uploads/2017/10/Fox-sports-logo-300x300.png" group-title="41- DEPORTES LATINO",Fox Sports (1)
+http://alltvpremiere.online:8000/live/RokuAllTv/Q5SRJ1fbha/58.ts
+
 #EXTINF:-1 tvg-logo="https://skydivepuebla.com/wp-content/uploads/2017/10/Fox-sports-logo-300x300.png" group-title="41- DEPORTES LATINO",Fox Sports (2)
 http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/997.rtmp
 
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_fox-sports-2_m.png" group-title="41- DEPORTES LATINO",Fox Sports 2 (1)
+http://alltvpremiere.online:8000/live/RokuAllTv/Q5SRJ1fbha/59.ts
+
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_fox-sports-2_m.png" group-title="41- DEPORTES LATINO",Fox Sports 2 (2)
 http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/998.rtmp
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-sports-3_m.png" group-title="41- DEPORTES LATINO",Fox Sports 3 (1)
+http://alltvpremiere.online:8000/live/RokuAllTv/Q5SRJ1fbha/1634.ts
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-sports-3_m.png" group-title="41- DEPORTES LATINO",Fox Sports 3 (2)
 http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/1002.rtmp
@@ -4301,20 +4364,20 @@ http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/1002.rtmp
 #EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/goltv.png" group-title="41- DEPORTES LATINO",GolTV Ecuador
 http://trinity-lh.akamaihd.net/i/GolTVModel4A_d@422865/index_500_av-p.m3u8?GrupoTopIptv
 
-#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/goltv.png" group-title="41- DEPORTES LATINO",GolTV Latino -OFF-
-
+#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/goltv.png" group-title="41- DEPORTES LATINO",GolTV Latino (1)
+http://alltvpremiere.online:8000/live/RokuAllTv/Q5SRJ1fbha/189.ts
 
 #EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/goltv.png" group-title="41- DEPORTES LATINO",GolTV Uruguay -OFF-
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7KCBnxD.png" group-title="41- DEPORTES LATINO",Izzi Afizzionados -OFF-
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7KCBnxD.png" group-title="41- DEPORTES LATINO",Izzi Afizzionados (1)
+http://alltvpremiere.online:8000/live/RokuAllTv/Q5SRJ1fbha/209.ts
 
 #EXTINF:-1 tvg-logo="https://www.thematv.us/images/channels/latin-american-sports.png" group-title="41- DEPORTES LATINO",Latin America Sports -OFF-
 
 
-#EXTINF:-1 tvg-logo="http://static.plustv.pe/assets/images/movistardeportes-220x147.png" group-title="41- DEPORTES LATINO",Movistar Deportes Peru -OFF-
-
+#EXTINF:-1 tvg-logo="http://static.plustv.pe/assets/images/movistardeportes-220x147.png" group-title="41- DEPORTES LATINO",Movistar Deportes Peru (1)
+http://alltvpremiere.online:8000/live/RokuAllTv/Q5SRJ1fbha/227.ts
 
 #EXTINF:-1 tvg-logo="http://pxsports.com/wp-content/uploads/2017/01/PX-Retina.png" group-title="41- DEPORTES LATINO",PX Sports -OFF-
 
@@ -4337,11 +4400,11 @@ http://trinity-lh.akamaihd.net/i/GolTVModel4A_d@422865/index_500_av-p.m3u8?Grupo
 #EXTINF:-1 tvg-logo="http://budtv.ottmex.com/posters/1529007557436.png" group-title="41- DEPORTES LATINO",Tnt Sports (2)
 http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/988.rtmp
 
-#EXTINF:-1 tvg-logo="https://s22958.pcdn.co/wp-content/uploads/2017/04/TUDN_824x568.png" group-title="41- DEPORTES LATINO",Tudn -OFF-
+#EXTINF:-1 tvg-logo="https://s22958.pcdn.co/wp-content/uploads/2017/04/TUDN_824x568.png" group-title="41- DEPORTES LATINO",Tudn (1)
+http://alltvpremiere.online:8000/live/RokuAllTv/Q5SRJ1fbha/1392.ts
 
-
-#EXTINF:-1 tvg-logo="http://www.torosdetijuana.com/toros2018/wp-content/uploads/2019/04/673_tvc-deportes-1.png" group-title="41- DEPORTES LATINO",Tvc Deportes -OFF-
-
+#EXTINF:-1 tvg-logo="http://www.torosdetijuana.com/toros2018/wp-content/uploads/2019/04/673_tvc-deportes-1.png" group-title="41- DEPORTES LATINO",Tvc Deportes (1)
+http://alltvpremiere.online:8000/live/RokuAllTv/Q5SRJ1fbha/208.ts
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_tyc-sports-hd_m.png" group-title="41- DEPORTES LATINO",TyC (2)
 http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/993.rtmp
@@ -4349,8 +4412,14 @@ http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/993.rtmp
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_tyc-sports-hd_m.png" group-title="41- DEPORTES LATINO",TyC (2)
 http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/994.rtmp
 
+#EXTINF:-1 tvg-logo="http://www.logoteca.uy/uploads/imagenes/file_2da07aaf6d.png" group-title="41- DEPORTES LATINO",VTV (1)
+http://alltvpremiere.online:8000/live/RokuAllTv/Q5SRJ1fbha/1323.ts
+
 #EXTINF:-1 tvg-logo="http://www.logoteca.uy/uploads/imagenes/file_2da07aaf6d.png" group-title="41- DEPORTES LATINO",VTV (2)
 http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/713.rtmp
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png" group-title="41- DEPORTES LATINO",Win Sports (1)
+http://alltvpremiere.online:8000/live/RokuAllTv/Q5SRJ1fbha/229.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png" group-title="41- DEPORTES LATINO",Win Sports (2)
 http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/1012.rtmp
