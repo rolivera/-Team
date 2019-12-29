@@ -2,15 +2,15 @@
 
 #EXTM3U
 
-#PLAYLISTV: pltv-logo="https://avatars1.githubusercontent.com/u/45984933?s=180&v=4" pltv-name="TOP.tv" pltv-description="CANALES IPTV" pltv-cover="https://avatars1.githubusercontent.com/u/45984933?s=180&v=4" pltv-author="TOP.tv"
+#PLAYLISTV: pltv-logo="https://avatars1.githubusercontent.com/u/45984933?s=180&v=4" pltv-name="TOP.tv" pltv-description="CANALES IPTV" pltv-cover="https://scontent.fmvd3-1.fna.fbcdn.net/v/t1.0-9/s960x960/81387565_2692268890839508_3626927575974019072_o.jpg?_nc_cat=104&_nc_oc=AQlCio2Vk8uuHmoX3HGp0sy1sqqMfPvg_yloodhvjZ8u9tzjKZNdOiK67W6Sr2AO5uo&_nc_ht=scontent.fmvd3-1.fna&oh=02d30b45177e79da0eb11961e6d48bb8&oe=5EAEFF5C" pltv-author="TOP.tv"
 ######################################################################################################################################
 ######################################################################################################################################
-#EXTINF:-1 tvg-logo="https://avatars1.githubusercontent.com/u/45984933?s=180&v=4" group-title="01- LISTA GRATUITA",01- LISTA GRATUITA
+#EXTINF:-1 tvg-logo="https://scontent.fmvd3-1.fna.fbcdn.net/v/t1.0-9/s960x960/81387565_2692268890839508_3626927575974019072_o.jpg?_nc_cat=104&_nc_oc=AQlCio2Vk8uuHmoX3HGp0sy1sqqMfPvg_yloodhvjZ8u9tzjKZNdOiK67W6Sr2AO5uo&_nc_ht=scontent.fmvd3-1.fna&oh=02d30b45177e79da0eb11961e6d48bb8&oe=5EAEFF5C" group-title="01- LISTA GRATUITA",01- LISTA GRATUITA
 https://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 #####################################################################################################################################
 
 ######################################################################################################################################
-#EXTINF:-1 tvg-logo="https://avatars1.githubusercontent.com/u/45984933?s=180&v=4" group-title="02- Actualizada 27/12/19",02- Actualizada 27/12/19
+#EXTINF:-1 tvg-logo="https://scontent.fmvd3-1.fna.fbcdn.net/v/t1.0-9/s960x960/81387565_2692268890839508_3626927575974019072_o.jpg?_nc_cat=104&_nc_oc=AQlCio2Vk8uuHmoX3HGp0sy1sqqMfPvg_yloodhvjZ8u9tzjKZNdOiK67W6Sr2AO5uo&_nc_ht=scontent.fmvd3-1.fna&oh=02d30b45177e79da0eb11961e6d48bb8&oe=5EAEFF5C" group-title="02- Actualizada 27/12/19",02- Actualizada 27/12/19
 https://stream.vagalume.fm/hls/1470155259220668/aac.m3u8
 #####################################################################################################################################
 ######################################################################################################################################
@@ -2001,11 +2001,17 @@ http://ic7.101.ru:8000/a16
 #######################################
 #######################################################################################################################################################################################
 
+#EXTINF:-1 tvg-logo="https://www.directv.com/images/logos/channels/dark/large/313.png" group-title="28- PREMIUM LATINO",Amc (1)
+http://alltvpremiere.online:8000/live/RokuAllTv/Q5SRJ1fbha/2.ts
+
 #EXTINF:-1 tvg-logo="https://www.directv.com/images/logos/channels/dark/large/313.png" group-title="28- PREMIUM LATINO",Amc (4)
 http://62.210.139.229:25461/live/5020350884/gangatv/14.rtmp
 
 #EXTINF:-1 tvg-logo="https://www.directv.com/images/logos/channels/dark/large/313.png" group-title="28- PREMIUM LATINO",Amc (5)
 http://62.210.139.229:25461/live/9115059399/4414261712/14.rtmp
+
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/axn.png" group-title="28- PREMIUM LATINO",Axn (1)
+http://alltvpremiere.online:8000/live/RokuAllTv/Q5SRJ1fbha/5.ts
 
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/axn.png" group-title="28- PREMIUM LATINO",Axn (2)
 http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/857.rtmp
@@ -2019,6 +2025,9 @@ http://62.210.139.229:25461/live/5020350884/gangatv/87.rtmp
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/axn.png" group-title="28- PREMIUM LATINO",Axn (5)
 http://62.210.139.229:25461/live/9115059399/4414261712/87.rtmp
 
+#EXTINF:-1 tvg-logo="http://comcab.mx/images/canales/comcab-cinecanal.png" group-title="28- PREMIUM LATINO",Cinecanal (1)
+http://alltvpremiere.online:8000/live/RokuAllTv/Q5SRJ1fbha/21.ts
+
 #EXTINF:-1 tvg-logo="http://comcab.mx/images/canales/comcab-cinecanal.png" group-title="28- PREMIUM LATINO",Cinecanal (2)
 http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/954.rtmp
 
@@ -2028,11 +2037,17 @@ http://62.210.139.229:25461/live/5020350884/gangatv/22.rtmp
 #EXTINF:-1 tvg-logo="http://comcab.mx/images/canales/comcab-cinecanal.png" group-title="28- PREMIUM LATINO",Cinecanal (5)
 http://62.210.139.229:25461/live/9115059399/4414261712/22.rtmp
 
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a6f875_75d296c703cd4c2dbf9f6474ff4802b5.png" group-title="28- PREMIUM LATINO",Cinecanal Plus (1)
+http://alltvpremiere.online:8000/live/RokuAllTv/Q5SRJ1fbha/24.ts
+
 #EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/12/52a34-cl.png" group-title="28- PREMIUM LATINO",Cine Latino -OFF-
 
 
-#EXTINF:-1 tvg-logo="http://www.cinemadinamita.com/img/logos/Inicio.png" group-title="28- PREMIUM LATINO",Cine Dinamita -OFF-
+#EXTINF:-1 tvg-logo="http://www.cinemadinamita.com/img/logos/Inicio.png" group-title="28- PREMIUM LATINO",Cine Dinamita (1)
+http://alltvpremiere.online:8000/live/RokuAllTv/Q5SRJ1fbha/1401.ts
 
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cine/16.png" group-title="28- PREMIUM LATINO",Cinemax (1)
+http://alltvpremiere.online:8000/live/RokuAllTv/Q5SRJ1fbha/25.ts
 
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cine/16.png" group-title="28- PREMIUM LATINO",Cinemax (2)
 http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/953.rtmp
@@ -2046,11 +2061,17 @@ http://62.210.139.229:25461/live/9115059399/4414261712/15.rtmp
 #EXTINF:-1 tvg-logo="http://newprinter.com.ar/wp-content/uploads/2019/02/claro-pb-logo-vector-400x400.png" group-title="28- PREMIUM LATINO",Claro Cinema -OFF-
 
 
+#EXTINF:-1 tvg-logo="http://new.lamac.org/system/channels/logos/000/000/044/original/pic_comedycentral.png?1522177270" group-title="28- PREMIUM LATINO",Comedy Central (1)
+http://alltvpremiere.online:8000/live/RokuAllTv/Q5SRJ1fbha/22.ts
+
 #EXTINF:-1 tvg-logo="http://new.lamac.org/system/channels/logos/000/000/044/original/pic_comedycentral.png?1522177270" group-title="28- PREMIUM LATINO",Comedy Central (4)
 http://62.210.139.229:25461/live/5020350884/gangatv/79.rtmp
 
 #EXTINF:-1 tvg-logo="http://new.lamac.org/system/channels/logos/000/000/044/original/pic_comedycentral.png?1522177270" group-title="28- PREMIUM LATINO",Comedy Central (5)
 http://62.210.139.229:25461/live/9115059399/4414261712/79.rtmp
+
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/de_pelicula_hd-mediano.png" group-title="28- PREMIUM LATINO",De Película (1)
+http://alltvpremiere.online:8000/live/RokuAllTv/Q5SRJ1fbha/26.ts
 
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/de_pelicula_hd-mediano.png" group-title="28- PREMIUM LATINO",De Película (4)
 http://62.210.139.229:25461/live/5020350884/gangatv/1791.rtmp
@@ -2064,6 +2085,9 @@ http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/974.rtmp
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_dhe_m.png" group-title="28- PREMIUM LATINO",Dhe (2)
 http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/906.rtmp
 
+#EXTINF:-1 tvg-logo="http://www.multicanalcatamayo.com/cablevisiondondiego/images/74.png" group-title="28- PREMIUM LATINO",Distrito Comedia (1)
+http://alltvpremiere.online:8000/live/RokuAllTv/Q5SRJ1fbha/39.ts
+
 #EXTINF:-1 tvg-logo="http://www.multicanalcatamayo.com/cablevisiondondiego/images/74.png" group-title="28- PREMIUM LATINO",Distrito Comedia (4)
 http://62.210.139.229:25461/live/5020350884/gangatv/50.rtmp
 
@@ -2076,20 +2100,29 @@ http://62.210.139.229:25461/live/9115059399/4414261712/50.rtmp
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_europa-europa_m.png" group-title="28- PREMIUM LATINO",Europa Europa -OFF-
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Al6Y2.png" group-title="28- PREMIUM LATINO",Fox (1)
+http://alltvpremiere.online:8000/live/RokuAllTv/Q5SRJ1fbha/50.ts
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Al6Y2.png" group-title="28- PREMIUM LATINO",Fox (2)
 http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/940.rtmp
+
+#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_ACTION.png" group-title="28- PREMIUM LATINO",Fox Action (1)
+http://alltvpremiere.online:8000/live/RokuAllTv/Q5SRJ1fbha/1405.ts
 
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_ACTION.png" group-title="28- PREMIUM LATINO",Fox Action (2)
 http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/917.rtmp
 
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_CLASSIC.png" group-title="28- PREMIUM LATINO",Fox Classics (1)
-https://tucine.xyz:2087/live/CineClub/dDsdsdSDsd/62.m3u8
+http://alltvpremiere.online:8000/live/RokuAllTv/Q5SRJ1fbha/54.ts
 
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_CLASSIC.png" group-title="28- PREMIUM LATINO",Fox Classics (4)
 http://62.210.139.229:25461/live/5020350884/gangatv/1782.rtmp
 
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_CLASSIC.png" group-title="28- PREMIUM LATINO",Fox Classics (5)
 http://62.210.139.229:25461/live/9115059399/4414261712/1782.rtmp
+
+#EXTINF:-1 tvg-logo="https://www.telecablecr.com/wp-content/uploads/2018/11/LOGO-FOXPREMIUM_CINEMA.png" group-title="28- PREMIUM LATINO",Fox Cinema (1)
+http://alltvpremiere.online:8000/live/RokuAllTv/Q5SRJ1fbha/53.ts
 
 #EXTINF:-1 tvg-logo="https://www.telecablecr.com/wp-content/uploads/2018/11/LOGO-FOXPREMIUM_CINEMA.png" group-title="28- PREMIUM LATINO",Fox Cinema (2)
 http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/918.rtmp
@@ -2103,6 +2136,9 @@ http://62.210.139.229:25461/live/9115059399/4414261712/1781.rtmp
 #EXTINF:-1 tvg-logo="https://www.telecablecr.com/wp-content/uploads/2018/11/LOGO-FOXPREMIUM_FAMILYHD.png" group-title="28- PREMIUM LATINO",Fox Family (2)
 http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/919.rtmp
 
+#EXTINF:-1 tvg-logo="http://neurads.com/wp-content/uploads/foxlife-2.png" group-title="28- PREMIUM LATINO",Fox Life (1)
+http://alltvpremiere.online:8000/live/RokuAllTv/Q5SRJ1fbha/56.ts
+
 #EXTINF:-1 tvg-logo="http://neurads.com/wp-content/uploads/foxlife-2.png" group-title="28- PREMIUM LATINO",Fox Life (2)
 http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/947.rtmp
 
@@ -2111,6 +2147,9 @@ http://62.210.139.229:25461/live/5020350884/gangatv/51.rtmp
 
 #EXTINF:-1 tvg-logo="http://neurads.com/wp-content/uploads/foxlife-2.png" group-title="28- PREMIUM LATINO",Fox Life (5)
 http://62.210.139.229:25461/live/9115059399/4414261712/51.rtmp
+
+#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_MOVIES.png" group-title="28- PREMIUM LATINO",Fox Movies (1)
+http://alltvpremiere.online:8000/live/RokuAllTv/Q5SRJ1fbha/57.ts
 
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_MOVIES.png" group-title="28- PREMIUM LATINO",Fox Movies (2)
 http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/920.rtmp
@@ -2121,6 +2160,9 @@ http://62.210.139.229:25461/live/5020350884/gangatv/1780.rtmp
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_MOVIES.png" group-title="28- PREMIUM LATINO",Fox Movies (5)
 http://62.210.139.229:25461/live/9115059399/4414261712/1780.rtmp
 
+#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_SERIES.png" group-title="28- PREMIUM LATINO",Fox Series (1)
+http://alltvpremiere.online:8000/live/RokuAllTv/Q5SRJ1fbha/203.ts
+
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_SERIES.png" group-title="28- PREMIUM LATINO",Fox Series (2)
 http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/942.rtmp
 
@@ -2129,6 +2171,9 @@ http://62.210.139.229:25461/live/5020350884/gangatv/24.rtmp
 
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_SERIES.png" group-title="28- PREMIUM LATINO",Fox Series (5)
 http://62.210.139.229:25461/live/9115059399/4414261712/24.rtmp
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-JBwoh8YDdKY/TyztsSnAnTI/AAAAAAAAAMc/UHfWADlmytY/s1600/fx_hd.png" group-title="28- PREMIUM LATINO",Fx (1)
+http://alltvpremiere.online:8000/live/RokuAllTv/Q5SRJ1fbha/60.ts
 
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-JBwoh8YDdKY/TyztsSnAnTI/AAAAAAAAAMc/UHfWADlmytY/s1600/fx_hd.png" group-title="28- PREMIUM LATINO",Fx (2)
 http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/955.rtmp
@@ -2148,6 +2193,9 @@ http://62.210.139.229:25461/live/9115059399/4414261712/19.rtmp
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/684114566863687680/kFo0-1O3.jpg" group-title="28- PREMIUM LATINO",Gran Cine -OFF-
 
 
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-JnaRqfsfRf0/VVJ222hRX7I/AAAAAAAAAbw/svcXPJkGr5E/s1600/golden.png" group-title="28- PREMIUM LATINO",Golden (1)
+http://alltvpremiere.online:8000/live/RokuAllTv/Q5SRJ1fbha/65.ts
+
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-JnaRqfsfRf0/VVJ222hRX7I/AAAAAAAAAbw/svcXPJkGr5E/s1600/golden.png" group-title="28- PREMIUM LATINO",Golden (2)
 http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/957.rtmp
 
@@ -2156,6 +2204,9 @@ http://62.210.139.229:25461/live/5020350884/gangatv/1790.rtmp
 
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-JnaRqfsfRf0/VVJ222hRX7I/AAAAAAAAAbw/svcXPJkGr5E/s1600/golden.png" group-title="28- PREMIUM LATINO",Golden (5)
 http://62.210.139.229:25461/live/9115059399/4414261712/1790.rtmp
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_golden-edge_m.png" group-title="28- PREMIUM LATINO",Golden Edge (1)
+http://alltvpremiere.online:8000/live/RokuAllTv/Q5SRJ1fbha/64.ts
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_golden-edge_m.png" group-title="28- PREMIUM LATINO",Golden Edge (2)
 http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/958.rtmp
@@ -2172,8 +2223,11 @@ https://iptvbad.000webhostapp.com/sky/master.php?id=116&f=.rtmp
 #EXTINF:-1 tvg-logo="http://www.totalplay.com/images/logos/canales/alacarta/10.png" group-title="28- PREMIUM LATINO",Golden Premier 2 -OFF-
 
 
-#EXTINF:-1 tvg-logo="https://vectors.pro/wp-content/uploads/2017/10/hbo-logo-vector.png" group-title="28- PREMIUM LATINO",Hbo -OFF-
+#EXTINF:-1 tvg-logo="https://vectors.pro/wp-content/uploads/2017/10/hbo-logo-vector.png" group-title="28- PREMIUM LATINO",Hbo (1)
+http://alltvpremiere.online:8000/live/RokuAllTv/Q5SRJ1fbha/108.ts
 
+#EXTINF:-1 tvg-logo="http://aux4.iconspalace.com/uploads/797638582344877408.png" group-title="28- PREMIUM LATINO",Hbo 2 (1)
+http://alltvpremiere.online:8000/live/RokuAllTv/Q5SRJ1fbha/118.ts
 
 #EXTINF:-1 tvg-logo="http://aux4.iconspalace.com/uploads/797638582344877408.png" group-title="28- PREMIUM LATINO",Hbo 2 (2)
 http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/961.rtmp
@@ -2181,11 +2235,14 @@ http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/961.rtmp
 #EXTINF:-1 tvg-logo="https://www.directhd.tv/wp-content/uploads/2018/09/hbo-comedy-200.png" group-title="28- PREMIUM LATINO",Hbo Comedy -OFF-
 
 
+#EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/hbo-family-logo-320x320-745790760.png" group-title="28- PREMIUM LATINO",Hbo Family (1)
+http://alltvpremiere.online:8000/live/RokuAllTv/Q5SRJ1fbha/119.ts
+
 #EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/hbo-family-logo-320x320-745790760.png" group-title="28- PREMIUM LATINO",Hbo Family (2)
 http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/962.rtmp
 
-#EXTINF:-1 tvg-logo="http://contenidos.cablevision.com.mx/guia_programacion/channels/634.png" group-title="28- PREMIUM LATINO",Hbo Plus -OFF-
-
+#EXTINF:-1 tvg-logo="http://contenidos.cablevision.com.mx/guia_programacion/channels/634.png" group-title="28- PREMIUM LATINO",Hbo Plus (1)
+http://alltvpremiere.online:8000/live/RokuAllTv/Q5SRJ1fbha/121.ts
 
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/mx/HBOSignature.mx.png" group-title="28- PREMIUM LATINO",Hbo Signature (2)
 http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/964.rtmp
@@ -2220,6 +2277,9 @@ http://62.210.139.229:25461/live/9115059399/4414261712/16.rtmp
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1153200946740174848/X4RlVPAc_400x400.png" group-title="28- PREMIUM LATINO",Paramount (2)
 http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/966.rtmp
 
+#EXTINF:-1 tvg-logo="https://www.totalplay.com.mx/images/logos/canales/entretenimiento/canal-sony.png" group-title="28- PREMIUM LATINO",Sony (1)
+http://alltvpremiere.online:8000/live/RokuAllTv/Q5SRJ1fbha/87.ts
+
 #EXTINF:-1 tvg-logo="https://www.totalplay.com.mx/images/logos/canales/entretenimiento/canal-sony.png" group-title="28- PREMIUM LATINO",Sony (2)
 http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/866.rtmp
 
@@ -2229,8 +2289,11 @@ http://62.210.139.229:25461/live/5020350884/gangatv/97.rtmp
 #EXTINF:-1 tvg-logo="https://www.totalplay.com.mx/images/logos/canales/entretenimiento/canal-sony.png" group-title="28- PREMIUM LATINO",Sony (5)
 http://62.210.139.229:25461/live/9115059399/4414261712/97.rtmp
 
-#EXTINF:-1 tvg-logo="https://img.trzcacak.rs/myfile/small/18-183618_cine-sony-nalip-announce-first-annual-short-film.png" group-title="28- PREMIUM LATINO",Sony Cine -OFF-
+#EXTINF:-1 tvg-logo="https://img.trzcacak.rs/myfile/small/18-183618_cine-sony-nalip-announce-first-annual-short-film.png" group-title="28- PREMIUM LATINO",Sony Cine (1)
+http://alltvpremiere.online:8000/live/RokuAllTv/Q5SRJ1fbha/1659.ts
 
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8.png" group-title="28- PREMIUM LATINO",Space (1)
+http://alltvpremiere.online:8000/live/RokuAllTv/Q5SRJ1fbha/88.ts
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8.png" group-title="28- PREMIUM LATINO",Space (2)
 http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/938.rtmp
@@ -2244,8 +2307,15 @@ http://62.210.139.229:25461/live/9115059399/4414261712/13.rtmp
 #EXTINF:-1 tvg-logo="https://s3.cine3.com/2014/01/Starz.png" group-title="28- PREMIUM LATINO",Starz -OFF-
 https://iptvbad.000webhostapp.com/sky/master.php?id=145&f=.rtmp
 
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/04/9e/d4/049ed43cd66568e2061b7bb44a00a925.png" group-title="28- PREMIUM LATINO",Studio Universal (1)
+http://alltvpremiere.online:8000/live/RokuAllTv/Q5SRJ1fbha/93.ts
+
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/04/9e/d4/049ed43cd66568e2061b7bb44a00a925.png" group-title="28- PREMIUM LATINO",Studio Universal (2)
 http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/949.rtmp
+
+#EXTINF:-1 tvg-logo="https://www.programacion.tv/images/syfy.png" group-title="28- PREMIUM LATINO",Syfy (1)
+http://alltvpremiere.online:8000/live/RokuAllTv/Q5SRJ1fbha/90.ts
 
 #EXTINF:-1 tvg-logo="https://www.programacion.tv/images/syfy.png" group-title="28- PREMIUM LATINO",Syfy (4)
 http://62.210.139.229:25461/live/5020350884/gangatv/55.rtmp
@@ -2253,11 +2323,17 @@ http://62.210.139.229:25461/live/5020350884/gangatv/55.rtmp
 #EXTINF:-1 tvg-logo="https://www.programacion.tv/images/syfy.png" group-title="28- PREMIUM LATINO",Syfy (5)
 http://62.210.139.229:25461/live/9115059399/4414261712/55.rtmp
 
+#EXTINF:-1 tvg-logo="http://www.graphis.com/media/uploads/cfe/entry/0c396b4d-8379-4797-ab9b-0c9cc41b19d4/tbs_logo.png" group-title="28- PREMIUM LATINO",Tbs (1)
+http://alltvpremiere.online:8000/live/RokuAllTv/Q5SRJ1fbha/91.ts
+
 #EXTINF:-1 tvg-logo="http://www.graphis.com/media/uploads/cfe/entry/0c396b4d-8379-4797-ab9b-0c9cc41b19d4/tbs_logo.png" group-title="28- PREMIUM LATINO",Tbs (4)
 http://62.210.139.229:25461/live/5020350884/gangatv/49.rtmp
 
 #EXTINF:-1 tvg-logo="http://www.graphis.com/media/uploads/cfe/entry/0c396b4d-8379-4797-ab9b-0c9cc41b19d4/tbs_logo.png" group-title="28- PREMIUM LATINO",Tbs (5)
 http://62.210.139.229:25461/live/9115059399/4414261712/49.rtmp
+
+#EXTINF:-1 tvg-logo="https://gartel.es/canales/tcm.png" group-title="28- PREMIUM LATINO",Tcm (1)
+http://alltvpremiere.online:8000/live/RokuAllTv/Q5SRJ1fbha/94.ts
 
 #EXTINF:-1 tvg-logo="https://gartel.es/canales/tcm.png" group-title="28- PREMIUM LATINO",Tcm (4)
 http://62.210.139.229:25461/live/5020350884/gangatv/11.rtmp
@@ -2265,8 +2341,11 @@ http://62.210.139.229:25461/live/5020350884/gangatv/11.rtmp
 #EXTINF:-1 tvg-logo="https://gartel.es/canales/tcm.png" group-title="28- PREMIUM LATINO",Tcm (5)
 http://62.210.139.229:25461/live/9115059399/4414261712/11.rtmp
 
-#EXTINF:-1 tvg-logo="http://mareatvcable.com/wp-content/uploads/2017/12/44-tntlogo.png" group-title="28- PREMIUM LATINO",Tnt -OFF-
-https://iptvbad.000webhostapp.com/sky/master.php?id=156&f=.rtmp
+#EXTINF:-1 tvg-logo="http://mareatvcable.com/wp-content/uploads/2017/12/44-tntlogo.png" group-title="28- PREMIUM LATINO",Tnt (1)
+http://alltvpremiere.online:8000/live/RokuAllTv/Q5SRJ1fbha/99.ts
+
+#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/tnt-series-logo-01.png" group-title="28- PREMIUM LATINO",Tnt Series (1)
+http://alltvpremiere.online:8000/live/RokuAllTv/Q5SRJ1fbha/101.ts
 
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/tnt-series-logo-01.png" group-title="28- PREMIUM LATINO",Tnt Series (2)
 http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/864.rtmp
@@ -2277,6 +2356,9 @@ http://62.210.139.229:25461/live/5020350884/gangatv/54.rtmp
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/tnt-series-logo-01.png" group-title="28- PREMIUM LATINO",Tnt Series (5)
 http://62.210.139.229:25461/live/9115059399/4414261712/54.rtmp
 
+#EXTINF:-1 tvg-logo="http://www.temporadafinal.com/gallery/5400ebfa0cc26universal-channel-.png" group-title="28- PREMIUM LATINO",Universal Channel (1)
+http://alltvpremiere.online:8000/live/RokuAllTv/Q5SRJ1fbha/107.ts
+
 #EXTINF:-1 tvg-logo="http://www.temporadafinal.com/gallery/5400ebfa0cc26universal-channel-.png" group-title="28- PREMIUM LATINO",Universal Channel (2)
 http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/922.rtmp
 
@@ -2285,6 +2367,9 @@ http://62.210.139.229:25461/live/5020350884/gangatv/92.rtmp
 
 #EXTINF:-1 tvg-logo="http://www.temporadafinal.com/gallery/5400ebfa0cc26universal-channel-.png" group-title="28- PREMIUM LATINO",Universal Channel (5)
 http://62.210.139.229:25461/live/9115059399/4414261712/92.rtmp
+
+#EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/08/d3e81-wb-hd-2011.png" group-title="28- PREMIUM LATINO",Warner Channel (1)
+http://alltvpremiere.online:8000/live/RokuAllTv/Q5SRJ1fbha/111.ts
 
 #EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/08/d3e81-wb-hd-2011.png" group-title="28- PREMIUM LATINO",Warner Channel (4)
 http://62.210.139.229:25461/live/5020350884/gangatv/96.rtmp
