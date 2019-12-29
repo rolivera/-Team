@@ -1853,8 +1853,8 @@ http://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8?GrupoTo
 #EXTINF:-1 tvg-logo="https://www.siguenza-guadalajara.org/images/noticias/2019/septiembre/la-2.png" group-title="27- PREMIUM ESPAÑA",La 2 -OFF-
 
 
-#EXTINF:-1 tvg-logo="https://cdn.domestika.org/c_fill,dpr_1.0,f_auto,h_1200,q_auto,w_1200/v1505164439/project-covers/000/353/863/353863-original.jpg?1505164439" group-title="27- PREMIUM ESPAÑA",LaLiga TV -OFF-
-
+#EXTINF:-1 tvg-logo="https://cdn.domestika.org/c_fill,dpr_1.0,f_auto,h_1200,q_auto,w_1200/v1505164439/project-covers/000/353/863/353863-original.jpg?1505164439" group-title="27- PREMIUM ESPAÑA",LaLiga TV
+http://158.69.228.135:8000/live/de-2019/7rd565te3/460.m3u8
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/01/Lancelot-tv.png" group-title="27- PREMIUM ESPAÑA",Lancelot TV -OFF-
 
@@ -4647,6 +4647,9 @@ http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8?GrupoTopIptv
 
 #EXTINF:-1 tvg-logo="https://www.directv.com/images/logos/channels/dark/large/852.png" group-title="43- DEPORTES INTERNACIONAL",Golf Channel -OFF-
 
+
+#EXTINF:-1 tvg-logo="https://cdn.domestika.org/c_fill,dpr_1.0,f_auto,h_1200,q_auto,w_1200/v1505164439/project-covers/000/353/863/353863-original.jpg?1505164439" group-title="43- DEPORTES INTERNACIONAL",LaLiga TV
+http://158.69.228.135:8000/live/de-2019/7rd565te3/460.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.freelogovectors.net/wp-content/uploads/2018/08/mlb_major_league_baseball_logo.png" group-title="43- DEPORTES INTERNACIONAL",MLB USA
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8?GrupoTopIptv
