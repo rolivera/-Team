@@ -1239,29 +1239,56 @@ https://stream.vagalume.fm/hls/1470169276225492/aac.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1153150302603894784/MUFOdCa3_400x400.jpg" group-title="20- URUGUAY",A+V (2)
 http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/700.rtmp
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1153150302603894784/MUFOdCa3_400x400.jpg" group-title="20- URUGUAY",A+V (4)
+http://shacktv.com:8080/live/201918/201918/105613.rtmp
+
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/04/artigas-tv.png" group-title="20- URUGUAY",Artigas tv (2)
 http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/687.rtmp
+
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/04/artigas-tv.png" group-title="20- URUGUAY",Artigas tv (4)
+http://shacktv.com:8080/live/201918/201918/105612.rtmp
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/04/canal-5-noticias-y-deportes-324x160.png" group-title="20- URUGUAY",C5ND Colonia (2)
 http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/702.rtmp
 
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/04/canal-5-noticias-y-deportes-324x160.png" group-title="20- URUGUAY",C5ND Colonia (4)
+http://shacktv.com:8080/live/201918/201918/105581.rtmp
+
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/04/1000xhora-324x160.png" group-title="20- URUGUAY",Canal 1000 X Hora (2)
 http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/699.rtmp
+
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/04/1000xhora-324x160.png" group-title="20- URUGUAY",Canal 1000 X Hora (4)
+http://shacktv.com:8080/live/201918/201918/105614.rtmp
 
 #EXTINF:-1 tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6090/240/default.jpg" group-title="20- URUGUAY",Canal 2 Lascano (2)
 http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/685.rtmp
 
+#EXTINF:-1 tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6090/240/default.jpg" group-title="20- URUGUAY",Canal 2 Lascano (4)
+http://shacktv.com:8080/live/201918/201918/105609.rtmp
+
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/04/canal-2-san-carlos.png" group-title="20- URUGUAY",Canal 2 S. Carlos (2)
 http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/686.rtmp
+
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/04/canal-2-san-carlos.png" group-title="20- URUGUAY",Canal 2 S. Carlos (4)
+http://shacktv.com:8080/live/201918/201918/105608.rtmp
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/04/canal4-1.png" group-title="20- URUGUAY",Canal 4 Paysandu (2)
 http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/688.rtmp
 
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/04/canal4-1.png" group-title="20- URUGUAY",Canal 4 Paysandu (4)
+http://shacktv.com:8080/live/201918/201918/105607.rtmp
+
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/04/canal-4-salto-uruagua-1.png" group-title="20- URUGUAY",Canal 4 Salto (2)
 http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/689.rtmp
 
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/04/canal-4-salto-uruagua-1.png" group-title="20- URUGUAY",Canal 4 Salto (4)
+http://shacktv.com:8080/live/201918/201918/105606.rtmp
+
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-Ulx59aFBavA/VUq3Y5Q6gqI/AAAAAAAAACM/0e6CW97xhhs/s1600/canal%2B7.jpg" group-title="20- URUGUAY",Canal 7 Punta (2)
 http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/691.rtmp
+
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-Ulx59aFBavA/VUq3Y5Q6gqI/AAAAAAAAACM/0e6CW97xhhs/s1600/canal%2B7.jpg" group-title="20- URUGUAY",Canal 7 Punta (4)
+http://shacktv.com:8080/live/201918/201918/105603.rtmp
 
 #EXTINF:-1 tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6853/240/default.jpg" group-title="20- URUGUAY",Canal 11 T. Tres (2)
 http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/683.rtmp
@@ -1272,14 +1299,26 @@ http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/684.rtmp
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1179026592506494982/gUpI_aKb_400x400.jpg" group-title="20- URUGUAY",Canal U (2)
 http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/703.rtmp
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1179026592506494982/gUpI_aKb_400x400.jpg" group-title="20- URUGUAY",Canal U (4)
+http://shacktv.com:8080/live/201918/201918/105600.rtmp
+
 #EXTINF:-1 tvg-logo="http://www.ipuntotv.com/IMAGES/CardinalTV-logo.jpg" group-title="20- URUGUAY",Cardinal tv (2)
 http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/705.rtmp
+
+#EXTINF:-1 tvg-logo="http://www.ipuntotv.com/IMAGES/CardinalTV-logo.jpg" group-title="20- URUGUAY",Cardinal tv (4)
+http://shacktv.com:8080/live/201918/201918/105598.rtmp
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/04/charrua-tv.png" group-title="20- URUGUAY",Charrua tv (2)
 http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/706.rtmp
 
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/04/charrua-tv.png" group-title="20- URUGUAY",Charrua tv (4)
+http://shacktv.com:8080/live/201918/201918/105597.rtmp
+
 #EXTINF:-1 tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/34373/240/default.jpg" group-title="20- URUGUAY",Latina tv Paysandu (2)
 http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/694.rtmp
+
+#EXTINF:-1 tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/34373/240/default.jpg" group-title="20- URUGUAY",Latina tv Paysandu (4)
+http://shacktv.com:8080/live/201918/201918/105595.rtmp
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/917845075522129925/wJHXMdOl.jpg" group-title="20- URUGUAY",Maroñas (2)
 http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/695.rtmp
@@ -1296,11 +1335,17 @@ http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/673.rtmp
 #EXTINF:-1 tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/34839/240/default.jpg" group-title="20- URUGUAY",Pantalla IMPO (2)
 http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/707.rtmp
 
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/04/rtv-uruguay.png" group-title="20- URUGUAY",Rtv -OFF-
-
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/04/rtv-uruguay.png" group-title="20- URUGUAY",Rtv (4)
+http://shacktv.com:8080/live/201918/201918/105591.rtmp
 
 #EXTINF:-1 tvg-logo="https://media.tvalacarta.info/canales/256x256/canal10.png" group-title="20- URUGUAY",Saeta Canal 10 (2)
 http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/676.rtmp
+
+#EXTINF:-1 tvg-logo="https://media.tvalacarta.info/canales/256x256/canal10.png" group-title="20- URUGUAY",Saeta Canal 10 (4)
+http://shacktv.com:8080/live/201918/201918/105583.rtmp
+
+#EXTINF:-1 tvg-logo="https://media.tvalacarta.info/canales/256x256/canal10.png" group-title="20- URUGUAY",Saeta Canal 10 (4)
+http://shacktv.com:8080/live/201918/201918/105580.rtmp
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1136710475868229633/p2S0PMG8_400x400.jpg" group-title="20- URUGUAY",Teledoce (2)
 http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/679.rtmp
@@ -1314,8 +1359,14 @@ http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/680.rtmp
 #EXTINF:-1 tvg-logo="http://montevideo.gub.uy/sites/default/files/styles/galeriaslideshowcontenido/public/biblioteca/tvciudad.png?itok=GWUByEQp" group-title="20- URUGUAY",Tv Ciudad (2)
 http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/708.rtmp
 
+#EXTINF:-1 tvg-logo="http://montevideo.gub.uy/sites/default/files/styles/galeriaslideshowcontenido/public/biblioteca/tvciudad.png?itok=GWUByEQp" group-title="20- URUGUAY",Tv Ciudad (4)
+http://shacktv.com:8080/live/201918/201918/105589.rtmp
+
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/04/uruguay-natural.png" group-title="20- URUGUAY",Uruguay Natural (2)
 http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/698.rtmp
+
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/04/uruguay-natural.png" group-title="20- URUGUAY",Uruguay Natural (4)
+http://shacktv.com:8080/live/201918/201918/105588.rtmp
 
 #EXTINF:-1 tvg-logo="https://media.tvalacarta.info/canales/256x256/vera.png" group-title="20- URUGUAY",Vera + -OFF-
 
@@ -1328,6 +1379,12 @@ http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/709.rtmp
 
 #EXTINF:-1 tvg-logo="http://www.logoteca.uy/uploads/imagenes/file_2da07aaf6d.png" group-title="20- URUGUAY",VTV (2)
 http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/711.rtmp
+
+#EXTINF:-1 tvg-logo="http://www.logoteca.uy/uploads/imagenes/file_2da07aaf6d.png" group-title="20- URUGUAY",VTV (4)
+http://shacktv.com:8080/live/201918/201918/105584.rtmp
+
+#EXTINF:-1 tvg-logo="http://www.logoteca.uy/uploads/imagenes/file_2da07aaf6d.png" group-title="20- URUGUAY",VTV (4)
+http://shacktv.com:8080/live/201918/201918/105585.rtmp
 
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-2A5wJVTgb4Y/UPFifoWY2TI/AAAAAAAAAV8/g_Lasd6u1LI/s1600/VTV+.jpg" group-title="20- URUGUAY",VTV + (1)
 http://alltvpremiere.online:8000/live/RokuAllTv/Q5SRJ1fbha/1323.ts
