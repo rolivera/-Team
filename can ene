@@ -1556,8 +1556,8 @@ http://ic7.101.ru:8000/a8
 #EXTINF:-1 tvg-logo="http://tvonline.linkscomdo.netdna-cdn.com/images/sobipro/entries/122/img_abc-logo-tv-online.jpg" group-title="21- USA",ABC -OFF-
 
 
-#EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/020/original/pic_a_e.png?1522180692" group-title="21- USA",A&E -OFF-
-
+#EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/020/original/pic_a_e.png?1522180692" group-title="21- USA",A&E
+http://0n1y7v.xyz:2095/live/eduardo0807/62726edu1/225.rtmp
 
 #EXTINF:-1 tvg-logo="https://www.tvlatino.net/img/logos-canales/AHC.png" group-title="21- USA",AHC -OFF-
 
@@ -1628,6 +1628,9 @@ http://0n1y7v.xyz:2095/live/eduardo0807/62726edu1/258.rtmp
 #EXTINF:-1 tvg-logo="https://hcil.umd.edu/wp-content/uploads/2015/12/Discovery-Channel-logo.png"  group-title="21- USA",Discovery Channel
 http://0n1y7v.xyz:2095/live/eduardo0807/62726edu1/247.rtmp
 
+#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/full/134-1341779_discovery-life-channel-us-logo-discovery-life-channel.png"  group-title="21- USA",Discovery Life
+http://0n1y7v.xyz:2095/live/eduardo0807/62726edu1/253.rtmp
+
 #EXTINF:-1 tvg-logo="https://www.cotes.net.bo/appCotes/public/appWeb_/assets/images/canales/17.2.png"  group-title="21- USA",Discovery Theater -OFF-
 
 
@@ -1636,6 +1639,9 @@ http://0n1y7v.xyz:2095/live/eduardo0807/62726edu1/236.rtmp
 
 #EXTINF:-1 tvg-logo="https://www.bellmedia.ca/wp-content/uploads/2014/02/tv1_e-490x490.png"  group-title="21- USA",E!
 
+
+#EXTINF:-1 tvg-logo="https://www.numeroservicioalcliente.com/wp-content/uploads/2018/02/unnamed-2.png"  group-title="21- USA",Epix
+http://0n1y7v.xyz:2095/live/eduardo0807/62726edu1/257.rtmp
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_espn_m.png"  group-title="21- USA",ESPN -OFF-
 
@@ -1658,8 +1664,17 @@ http://0n1y7v.xyz:2095/live/eduardo0807/62726edu1/244.rtmp
 #EXTINF:-1 tvg-logo="https://www.telecablecr.com/wp-content/uploads/2018/11/LOGO-FOXPREMIUM_CINEMA.png"  group-title="21- USA",Fox Cinema
 http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8?GrupoTopIptv
 
+#EXTINF:-1 tvg-logo="http://nothingbutgeek.com/wp-content/uploads/2018/11/FreeformLogo.jpg"  group-title="21- USA",Freeform
+http://0n1y7v.xyz:2095/live/eduardo0807/62726edu1/266.rtmp
+
 #EXTINF:-1 tvg-logo="https://sc.dish.com/shared/images/station-logos/FYI.png"  group-title="21- USA",Fyi -OFF-
 
+
+#EXTINF:-1 tvg-logo="https://www.rbr.com/wp-content/uploads/FXX.jpg"  group-title="21- USA",Fxx
+http://0n1y7v.xyz:2095/live/eduardo0807/62726edu1/269.rtmp
+
+#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/gettv.png"  group-title="21- USA",Get tv
+http://0n1y7v.xyz:2095/live/eduardo0807/62726edu1/226.rtmp
 
 #EXTINF:-1 tvg-logo="https://www.multichannel.com/.image/t_share/MTU0MDY0OTk1NDgyNDc3NjUw/screen-shot-2014-08-25-at-53357-pmpng.png"  group-title="21- USA",Golf Channel -OFF-
 
@@ -1685,10 +1700,13 @@ http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?GrupoTopIptv
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/mx/HBOSignature.mx.png"  group-title="21- USA",HBO Signature
 http://0n1y7v.xyz:2095/live/eduardo0807/62726edu1/343.rtmp
 
+#EXTINF:-1 tvg-logo="https://logodix.com/logo/1111252.png"  group-title="21- USA",HBO Zone
+http://0n1y7v.xyz:2095/live/eduardo0807/62726edu1/342.rtmp
+
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/35/13/17/35131727c2635cec3274d9bd93868db2.png"  group-title="21- USA",History
 http://0n1y7v.xyz:2095/live/eduardo0807/62726edu1/215.rtmp
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/35/13/17/35131727c2635cec3274d9bd93868db2.png"  group-title="21- USA",History 2
+#EXTINF:-1 tvg-logo="https://i0.wp.com/cineframe.mx/wp-content/uploads/2017/08/H2.png"  group-title="21- USA",History 2
 http://0n1y7v.xyz:2095/live/eduardo0807/62726edu1/349.rtmp
 
 #EXTINF:-1 tvg-logo="https://www.cabletv.com/app/uploads/HGTV-Logo-1.png"  group-title="21- USA",HGTV -OFF-
