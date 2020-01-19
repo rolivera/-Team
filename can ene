@@ -691,6 +691,9 @@ http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/chunk
 #EXTINF:-1 tvg-logo="http://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="11- ESPAÑA",Canal 24 Horas
 http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve01_lv3_aosv4_gl0/irtve01_lv3_aosv4_gl0.isml/irtve01_lv3_aosv4_gl0-audio=128000-video=400000.m3u8?GrupoTopIptv
 
+#EXTINF:-1 tvg-logo="http://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="11- ESPAÑA",Canal 24 Horas
+http://ok2.se:8000/9021F7UhtOckyU0wR/36d3F9UgP4w6YlaQq/4786
+
 #EXTINF:-1 tvg-logo="https://static.programacion-tdt.com/imgAPP/3_24.min.png" group-title="11- ESPAÑA",Canal 3/24 -OFF-
 
 
@@ -941,6 +944,9 @@ http://video.telesafor.com/hls/video_low.m3u8?GrupoTopIptv
 
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_tve_m.png" group-title="11- ESPAÑA",TVE
+http://ok2.se:8000/9021F7UhtOckyU0wR/36d3F9UgP4w6YlaQq/557
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_tve_m.png" group-title="11- ESPAÑA",TVE
 http://200.73.59.84:8000/play/a020
 
 #EXTINF:-1 tvg-logo="http://www.videoluctv.net/wp-content/uploads/2016/09/TVG.jpg" group-title="11- ESPAÑA",TV Galicia
@@ -1055,8 +1061,8 @@ http://beastiptv.tv:25461/live/deshawnmiller180@yahoo.com/YcR10k6y4j/4688.ts
 #EXTINF:-1 tvg-logo="http://www.logotypes101.com/logos/623/BD32DF8A73347264C23B3DE5FA8A92B3/nueve_canal_9_mexico.png" group-title="14- MEXICO",Canal 9 -OFF-
 
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_canal-de-las-estrellas_m.png" group-title="14- MEXICO",Canal de las Estrellas (1)
-http://beastiptv.tv:25461/live/deshawnmiller180@yahoo.com/YcR10k6y4j/4740.ts
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_canal-de-las-estrellas_m.png" group-title="14- MEXICO",Canal de las Estrellas
+http://ok2.se:8000/9021F7UhtOckyU0wR/36d3F9UgP4w6YlaQq/428
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_canal-de-las-estrellas_m.png" group-title="14- MEXICO",Canal de las Estrellas (alt)
 http://200.73.59.84:8000/play/a00r
@@ -1085,11 +1091,17 @@ http://wohuogai.com:37000/live/6tgvjgd567tygjvcgerrt7u765t/trd5454587tffgdtryt67
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/forotv.png" group-title="14- MEXICO",Foro tv (1)
 http://beastiptv.tv:25461/live/deshawnmiller180@yahoo.com/YcR10k6y4j/4717.ts
 
-#EXTINF:-1 tvg-logo="http://www.cablevida.com.mx/assets/img/canales/Galavision-logo.jpg" group-title="14- MEXICO",Galavision (1)
-http://beastiptv.tv:25461/live/deshawnmiller180@yahoo.com/YcR10k6y4j/6433.ts
+#EXTINF:-1 tvg-logo="http://www.cablevida.com.mx/assets/img/canales/Galavision-logo.jpg" group-title="14- MEXICO",Galavision East
+http://ok2.se:8000/9021F7UhtOckyU0wR/36d3F9UgP4w6YlaQq/414
+
+#EXTINF:-1 tvg-logo="http://www.cablevida.com.mx/assets/img/canales/Galavision-logo.jpg" group-title="14- MEXICO",Galavision West
+http://ok2.se:8000/9021F7UhtOckyU0wR/36d3F9UgP4w6YlaQq/42673
 
 #EXTINF:-1 tvg-logo="https://multipress.com.mx/wp-content/uploads/2016/09/interna-imagen.jpg" group-title="14- MEXICO",Imagen tv -OFF-
 
+
+#EXTINF:-1 tvg-logo="http://www.spanishbroadcasting.com/wp-content/uploads/sites/5/2016/11/megatv-thumbs-350x350.jpg" group-title="14- MEXICO",Mega tv
+http://ok2.se:8000/9021F7UhtOckyU0wR/36d3F9UgP4w6YlaQq/418
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/tvmexiquense.png" group-title="14- MEXICO",Mexiquense (1)
 http://beastiptv.tv:25461/live/deshawnmiller180@yahoo.com/YcR10k6y4j/4741.ts
@@ -1112,8 +1124,8 @@ http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?GrupoTopIpt
 #EXTINF:-1 tvg-logo="http://www.mvs-marketing.com/wp-content/uploads/2019/05/Logo_MVS_TV_Color_sitio.png" group-title="14- MEXICO",MVS tv -OFF-
 
 
-#EXTINF:-1 tvg-logo="https://lodehoy166.files.wordpress.com/2017/06/pasiones-nuevo-logo-2015.jpg" group-title="14- MEXICO",Pasiones -OFF-
-
+#EXTINF:-1 tvg-logo="https://lodehoy166.files.wordpress.com/2017/06/pasiones-nuevo-logo-2015.jpg" group-title="14- MEXICO",Pasiones
+http://ok2.se:8000/9021F7UhtOckyU0wR/36d3F9UgP4w6YlaQq/426
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/rtq.png" group-title="14- MEXICO",RTQ
 http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8?GrupoTopIptv
@@ -1133,6 +1145,12 @@ http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u?GrupoTopIptv
 #EXTINF:-1 tvg-logo="https://www.mediamoves.com/wp-content/uploads/2012/11/Telemundo-logo-2012-e1358145354448.jpg" group-title="14- MEXICO",Telemundo
 http://200.73.59.84:8000/play/a00u
 
+#EXTINF:-1 tvg-logo="https://www.mediamoves.com/wp-content/uploads/2012/11/Telemundo-logo-2012-e1358145354448.jpg" group-title="14- MEXICO",Telemundo East
+http://ok2.se:8000/9021F7UhtOckyU0wR/36d3F9UgP4w6YlaQq/415
+
+#EXTINF:-1 tvg-logo="https://www.mediamoves.com/wp-content/uploads/2012/11/Telemundo-logo-2012-e1358145354448.jpg" group-title="14- MEXICO",Telemundo West
+http://ok2.se:8000/9021F7UhtOckyU0wR/36d3F9UgP4w6YlaQq/416
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/770996446913069056/T4wPuZ4v_400x400.jpg" group-title="14- MEXICO",Telemundo 51 -OFF-
 
 
@@ -1148,8 +1166,8 @@ http://200.73.59.84:8000/play/a00u
 #EXTINF:-1 tvg-logo="https://novobloglimpinhoecheiroso.files.wordpress.com/2014/03/televisa01.jpg" group-title="14- MEXICO",Televisa Puebla -OFF-
 
 
-#EXTINF:-1 tvg-logo="http://www.onlinetv.planetfools.com/imagenes/tlnovelas.png" group-title="14- MEXICO",Tlnovelas -OFF-
-
+#EXTINF:-1 tvg-logo="http://www.onlinetv.planetfools.com/imagenes/tlnovelas.png" group-title="14- MEXICO",Tlnovelas
+http://ok2.se:8000/9021F7UhtOckyU0wR/36d3F9UgP4w6YlaQq/427
 
 #EXTINF:-1 tvg-logo="http://www.pctv.com.mx/Portals/_default/Skins/Incredible/css/tvc/canales/tvc-89472.png" group-title="14- MEXICO",TVC -OFF-
 
@@ -1163,14 +1181,20 @@ http://beastiptv.tv:25461/live/deshawnmiller180@yahoo.com/YcR10k6y4j/4759.ts
 #EXTINF:-1 tvg-logo="http://afiliados.televisa-networks.com/wp-content/uploads/2018/08/televisa-afiliados-canales-unicable.jpg" group-title="14- MEXICO",Unicable (1)
 http://beastiptv.tv:25461/live/deshawnmiller180@yahoo.com/YcR10k6y4j/4760.ts
 
-#EXTINF:-1 tvg-logo="https://tejanonation.files.wordpress.com/2015/06/unimas.png" group-title="14- MEXICO",Unimas -OFF-
+#EXTINF:-1 tvg-logo="https://tejanonation.files.wordpress.com/2015/06/unimas.png" group-title="14- MEXICO",Unimas
+http://ok2.se:8000/9021F7UhtOckyU0wR/36d3F9UgP4w6YlaQq/425
 
+#EXTINF:-1 tvg-logo="https://sc.dish.com/shared/images/station-logos/UNVSO.PNG" group-title="14- MEXICO",Universo Nbc
+http://ok2.se:8000/9021F7UhtOckyU0wR/36d3F9UgP4w6YlaQq/417
 
-#EXTINF:-1 tvg-logo="https://sc.dish.com/shared/images/station-logos/UNVSO.PNG" group-title="14- MEXICO",Universo -OFF-
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/hn_univision_m.png" group-title="14- MEXICO",Univision East
+http://ok2.se:8000/9021F7UhtOckyU0wR/36d3F9UgP4w6YlaQq/8253
 
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/hn_univision_m.png" group-title="14- MEXICO",Univision Cdn
+http://ok2.se:8000/9021F7UhtOckyU0wR/36d3F9UgP4w6YlaQq/66070
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/hn_univision_m.png" group-title="14- MEXICO",Univision (1)
-http://beastiptv.tv:25461/live/deshawnmiller180@yahoo.com/YcR10k6y4j/5552.ts
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/hn_univision_m.png" group-title="14- MEXICO",Univision West
+http://ok2.se:8000/9021F7UhtOckyU0wR/36d3F9UgP4w6YlaQq/413
 
 ######################################################################################################################################
 ####################################### NICARAGUA
@@ -2043,11 +2067,20 @@ http://200.73.59.84:8000/play/a01k
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a6f875_75d296c703cd4c2dbf9f6474ff4802b5.png" group-title="28- PREMIUM LATINO",Cinecanal Plus (1)
 
 
+#EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/12/52a34-cl.png" group-title="28- PREMIUM LATINO",Cine Latino
+http://ok2.se:8000/9021F7UhtOckyU0wR/36d3F9UgP4w6YlaQq/30862
+
 #EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/12/52a34-cl.png" group-title="28- PREMIUM LATINO",Cine Latino (2)
 http://wohuogai.com:37000/live/6tgvjgd567tygjvcgerrt7u765t/trd5454587tffgdtryt67rtfhgfFF/10579.ts
 
+#EXTINF:-1 tvg-logo="http://www.cinemadinamita.com/img/logos/Inicio.png" group-title="28- PREMIUM LATINO",Cine Dinamita
+http://ok2.se:8000/9021F7UhtOckyU0wR/36d3F9UgP4w6YlaQq/65730
+
 #EXTINF:-1 tvg-logo="http://www.cinemadinamita.com/img/logos/Inicio.png" group-title="28- PREMIUM LATINO",Cine Dinamita (2)
 http://wohuogai.com:37000/live/6tgvjgd567tygjvcgerrt7u765t/trd5454587tffgdtryt67rtfhgfFF/10580.ts
+
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cine/16.png" group-title="28- PREMIUM LATINO",Cinemax
+http://ok2.se:8000/9021F7UhtOckyU0wR/36d3F9UgP4w6YlaQq/419
 
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cine/16.png" group-title="28- PREMIUM LATINO",Cinemax (1)
 http://tv5full.xyz:25461/live/Linea4/Isnfbsjk/1522.ts
@@ -2315,6 +2348,9 @@ http://tv5full.xyz:25461/live/King2020/King202001/1538.ts
 
 #EXTINF:-1 tvg-logo="http://www.totalplay.com/images/logos/canales/alacarta/10.png" group-title="28- PREMIUM LATINO",Golden Premier 2 -OFF-
 
+
+#EXTINF:-1 tvg-logo="https://vectors.pro/wp-content/uploads/2017/10/hbo-logo-vector.png" group-title="28- PREMIUM LATINO",Hbo
+http://ok2.se:8000/9021F7UhtOckyU0wR/36d3F9UgP4w6YlaQq/420
 
 #EXTINF:-1 tvg-logo="https://vectors.pro/wp-content/uploads/2017/10/hbo-logo-vector.png" group-title="28- PREMIUM LATINO",Hbo (2)
 http://wohuogai.com:37000/live/6tgvjgd567tygjvcgerrt7u765t/trd5454587tffgdtryt67rtfhgfFF/4994.ts
@@ -3741,6 +3777,9 @@ http://200.73.59.84:8000/play/a01r
 #EXTINF:-1 tvg-logo="https://www.marketingdirecto.com/wp-content/uploads/2013/06/cnninternational.jpg" group-title="36- NOTICIAS LATINO",CNN Internacional (2)
 http://wohuogai.com:37000/live/6tgvjgd567tygjvcgerrt7u765t/trd5454587tffgdtryt67rtfhgfFF/10305.ts
 
+#EXTINF:-1 tvg-logo="http://television.com.ar/wp-content/uploads/2016/05/cnn-alla.jpg" group-title="36- NOTICIAS LATINO",CÑN
+http://ok2.se:8000/9021F7UhtOckyU0wR/36d3F9UgP4w6YlaQq/429
+
 #EXTINF:-1 tvg-logo="http://television.com.ar/wp-content/uploads/2016/05/cnn-alla.jpg" group-title="36- NOTICIAS LATINO",CÑN (1)
 http://beastiptv.tv:25461/live/deshawnmiller180@yahoo.com/YcR10k6y4j/4695.ts
 
@@ -3839,6 +3878,9 @@ http://roedor.xyz/SrRegioOficial/sp.php?c=528&f=.rtmp
 #EXTINF:-1 tvg-logo="https://comcastspotlight.com/sites/default/files/networks/Animal%20Planet%20Large%20Stacked.png" group-title="38- DOCUMENTALES LATINOS",Animal Planet (alt)
 http://200.73.59.84:8000/play/a00e
 
+#EXTINF:-1 tvg-logo="https://hcil.umd.edu/wp-content/uploads/2015/12/Discovery-Channel-logo.png" group-title="38- DOCUMENTALES LATINOS",Discovery Channel
+http://ok2.se:8000/9021F7UhtOckyU0wR/36d3F9UgP4w6YlaQq/430
+
 #EXTINF:-1 tvg-logo="https://hcil.umd.edu/wp-content/uploads/2015/12/Discovery-Channel-logo.png" group-title="38- DOCUMENTALES LATINOS",Discovery Channel (1)
 http://beastiptv.tv:25461/live/deshawnmiller180@yahoo.com/YcR10k6y4j/4795.ts
 
@@ -3929,6 +3971,9 @@ http://wohuogai.com:37000/live/6tgvjgd567tygjvcgerrt7u765t/trd5454587tffgdtryt67
 #EXTINF:-1 tvg-logo="https://www.skytvporassinatura.com.br/wp-content/uploads/2018/01/canal-discovery-world-hd-sky-1.png" group-title="38- DOCUMENTALES LATINOS",Discovery World (3)
 http://roedor.xyz/SrRegioOficial/sp.php?c=526&f=.rtmp
 
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/35/13/17/35131727c2635cec3274d9bd93868db2.png" group-title="38- DOCUMENTALES LATINOS",History
+http://ok2.se:8000/9021F7UhtOckyU0wR/36d3F9UgP4w6YlaQq/431
+
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/35/13/17/35131727c2635cec3274d9bd93868db2.png" group-title="38- DOCUMENTALES LATINOS",History (1)
 http://beastiptv.tv:25461/live/deshawnmiller180@yahoo.com/YcR10k6y4j/4736.ts
 
@@ -3946,6 +3991,12 @@ http://beastiptv.tv:25461/live/deshawnmiller180@yahoo.com/YcR10k6y4j/4731.ts
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/cineframe.mx/wp-content/uploads/2017/08/H2.png" group-title="38- DOCUMENTALES LATINOS",History 2 (2)
 http://wohuogai.com:37000/live/6tgvjgd567tygjvcgerrt7u765t/trd5454587tffgdtryt67rtfhgfFF/4970.ts
+
+#EXTINF:-1 tvg-logo="https://s26311.pcdn.co/wp-content/uploads/2017/08/logosolo.png" group-title="38- DOCUMENTALES LATINOS",Hitn
+http://ok2.se:8000/9021F7UhtOckyU0wR/36d3F9UgP4w6YlaQq/31461
+
+#EXTINF:-1 tvg-logo="https://s26311.pcdn.co/wp-content/uploads/2017/08/logosolo.png" group-title="38- DOCUMENTALES LATINOS",Hitn
+http://ok2.se:8000/9021F7UhtOckyU0wR/36d3F9UgP4w6YlaQq/65731
 
 #EXTINF:-1 tvg-logo="https://diylogodesigns.com/wp-content/uploads/2017/07/national-geographic-logo-vector-768x768.png" group-title="38- DOCUMENTALES LATINOS",Nat Geo (2)
 http://wohuogai.com:37000/live/6tgvjgd567tygjvcgerrt7u765t/trd5454587tffgdtryt67rtfhgfFF/4975.ts
