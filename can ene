@@ -166,6 +166,9 @@ http://51.79.79.240:80/039456/039456/4400
 #EXTINF:0 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/band-logo-png-6.png" group-title="04- BRASIL",Band (4)
 http://lista.serverpower.me:80/live/019379/019379/37096.ts
 
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_canal-brasil_m.png" group-title="04- BRASIL",Canal Brasil
+http://ok2.se:8000/9021F7UhtOckyU0wR/36d3F9UgP4w6YlaQq/8052
+
 #EXTINF:-1 tvg-logo="https://www.wtvision.com/wp-content/uploads/Canal-Rural-570x570.jpg" group-title="04- BRASIL",Canal Rural -OFF-
 
 
@@ -1415,6 +1418,9 @@ http://livego.club:8080/NKvfjmhEmK/dmy6tn2Ftj/12621
 #EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/EURSP.png" group-title="18- PORTUGAL",Eurosport 1
 http://livego.club:8080/NKvfjmhEmK/dmy6tn2Ftj/1520
 
+#EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/EURSP.png" group-title="18- PORTUGAL",Eurosport 1
+http://ok2.se:8000/9021F7UhtOckyU0wR/36d3F9UgP4w6YlaQq/4707
+
 #EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/EURS2.png" group-title="18- PORTUGAL",Eurosport 2
 http://livego.club:8080/NKvfjmhEmK/dmy6tn2Ftj/12367
 
@@ -1463,23 +1469,44 @@ http://livego.club:8080/NKvfjmhEmK/dmy6tn2Ftj/1517
 #EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/RTP1.png" group-title="18- PORTUGAL",RTP 1
 http://livego.club:8080/NKvfjmhEmK/dmy6tn2Ftj/3643
 
+#EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/RTP1.png" group-title="18- PORTUGAL",RTP 1
+http://ok2.se:8000/9021F7UhtOckyU0wR/36d3F9UgP4w6YlaQq/42672
+
 #EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/RTP2.png" group-title="18- PORTUGAL",RTP 2
 http://livego.club:8080/NKvfjmhEmK/dmy6tn2Ftj/3654
+
+#EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/RTP2.png" group-title="18- PORTUGAL",RTP 2
+http://ok2.se:8000/9021F7UhtOckyU0wR/36d3F9UgP4w6YlaQq/525
 
 #EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/RTP3H.png" group-title="18- PORTUGAL",RTP 3
 http://livego.club:8080/NKvfjmhEmK/dmy6tn2Ftj/3642
 
+#EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/RTP3H.png" group-title="18- PORTUGAL",RTP 3
+http://ok2.se:8000/9021F7UhtOckyU0wR/36d3F9UgP4w6YlaQq/527
+
 #EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/RTPAC.png" group-title="18- PORTUGAL",RTP Acores
 http://livego.club:8080/NKvfjmhEmK/dmy6tn2Ftj/4481
+
+#EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/RTPAC.png" group-title="18- PORTUGAL",RTP Acores
+http://ok2.se:8000/9021F7UhtOckyU0wR/36d3F9UgP4w6YlaQq/80473
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/04/RTP-%C3%81frica-324x235.png" group-title="18- PORTUGAL",RTP Africa
 http://livego.club:8080/NKvfjmhEmK/dmy6tn2Ftj/4480
 
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/04/RTP-%C3%81frica-324x235.png" group-title="18- PORTUGAL",RTP Africa
+http://ok2.se:8000/9021F7UhtOckyU0wR/36d3F9UgP4w6YlaQq/4794
+
 #EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/RTPMD.png" group-title="18- PORTUGAL",RTP Madeira
 http://livego.club:8080/NKvfjmhEmK/dmy6tn2Ftj/3653
 
+#EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/RTPMD.png" group-title="18- PORTUGAL",RTP Madeira
+http://ok2.se:8000/9021F7UhtOckyU0wR/36d3F9UgP4w6YlaQq/81597
+
 #EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/RTPM.png" group-title="18- PORTUGAL",RTP Memoria
 http://livego.club:8080/NKvfjmhEmK/dmy6tn2Ftj/3652
+
+#EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/RTPM.png" group-title="18- PORTUGAL",RTP Memoria
+http://ok2.se:8000/9021F7UhtOckyU0wR/36d3F9UgP4w6YlaQq/528
 
 #EXTINF:-1 tvg-logo="https://www.atelevisao.com/wp-content/uploads/2013/01/logo-sic.jpg" group-title="18- PORTUGAL",SIC
 http://livego.club:8080/NKvfjmhEmK/dmy6tn2Ftj/4476
@@ -1520,6 +1547,9 @@ http://livego.club:8080/NKvfjmhEmK/dmy6tn2Ftj/6496
 #EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/SPTV3.png" group-title="18- PORTUGAL",Sport Tv 3
 http://ok2.se:8000/9021F7UhtOckyU0wR/36d3F9UgP4w6YlaQq/4646
 
+#EXTINF:-1 tvg-logo="http://www.nos.pt/particulares/televisao/canais/PublishingImages/alteracoes-grelha/setembro2017/large_sporttvmaishd.jpg" group-title="18- PORTUGAL",Sport Tv Plus
+http://ok2.se:8000/9021F7UhtOckyU0wR/36d3F9UgP4w6YlaQq/553
+
 #EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/NBATVHD.png" group-title="18- PORTUGAL",Sport Tv NBA
 http://livego.club:8080/NKvfjmhEmK/dmy6tn2Ftj/12603
 
@@ -1550,14 +1580,26 @@ http://livego.club:8080/NKvfjmhEmK/dmy6tn2Ftj/4477
 #EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/TVI.png" group-title="18- PORTUGAL",TVI
 http://ok2.se:8000/9021F7UhtOckyU0wR/36d3F9UgP4w6YlaQq/8221
 
+#EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/TVI.png" group-title="18- PORTUGAL",TVI
+http://ok2.se:8000/9021F7UhtOckyU0wR/36d3F9UgP4w6YlaQq/531
+
 #EXTINF:-1 tvg-logo="https://cdn.iol.pt/img/logostvi/branco/tvi24.png" group-title="18- PORTUGAL",TVI 24
 http://livego.club:8080/NKvfjmhEmK/dmy6tn2Ftj/3647
+
+#EXTINF:-1 tvg-logo="https://cdn.iol.pt/img/logostvi/branco/tvi24.png" group-title="18- PORTUGAL",TVI 24
+http://ok2.se:8000/9021F7UhtOckyU0wR/36d3F9UgP4w6YlaQq/532
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2019/11/tvi-ficcao-218x150.png" group-title="18- PORTUGAL",TVI Ficçao
 http://livego.club:8080/NKvfjmhEmK/dmy6tn2Ftj/3646
 
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2019/11/tvi-ficcao-218x150.png" group-title="18- PORTUGAL",TVI Ficçao
+http://ok2.se:8000/9021F7UhtOckyU0wR/36d3F9UgP4w6YlaQq/533
+
 #EXTINF:-1 tvg-logo="http://rodrigoleal.com/wp-content/uploads/2015/10/tvireality-423x237.jpg" group-title="18- PORTUGAL",TVI Reality
 http://livego.club:8080/NKvfjmhEmK/dmy6tn2Ftj/4478
+
+#EXTINF:-1 tvg-logo="http://rodrigoleal.com/wp-content/uploads/2015/10/tvireality-423x237.jpg" group-title="18- PORTUGAL",TVI Reality
+http://ok2.se:8000/9021F7UhtOckyU0wR/36d3F9UgP4w6YlaQq/534
 
 #EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/TVSER.png" group-title="18- PORTUGAL",TVSeries
 http://livego.club:8080/NKvfjmhEmK/dmy6tn2Ftj/6503
