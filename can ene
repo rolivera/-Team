@@ -172,8 +172,14 @@ http://lista.serverpower.me:80/live/183270/183270/37096.ts
 #EXTINF:0 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/band-logo-png-6.png" group-title="04- BRASIL",Band (alt) HD
 http://144.217.7.203:25461/red/red/14
 
-#EXTINF:0 tvg-logo="https://famosidades.com.br/wp-content/uploads/2018/09/Big-Brother-Brasil.png" group-title="04- BRASIL",BBB 20
+#EXTINF:0 tvg-logo="https://famosidades.com.br/wp-content/uploads/2018/09/Big-Brother-Brasil.png" group-title="04- BRASIL",BBB 20 (4)
+http://lista.serverpower.me:80/live/183270/183270/50493.ts
+
+#EXTINF:0 tvg-logo="https://famosidades.com.br/wp-content/uploads/2018/09/Big-Brother-Brasil.png" group-title="04- BRASIL",BBB 20 (alt)
 http://canais.servidor.tv:8080/live/Araci123/Araci123/3975.m3u8
+
+#EXTINF:0 tvg-logo="https://famosidades.com.br/wp-content/uploads/2018/09/Big-Brother-Brasil.png" group-title="04- BRASIL",BBB 20 (alt)
+http://canais.servidor.tv:8080/live/magno123/magno123/3975.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_canal-brasil_m.png" group-title="04- BRASIL",Canal Brasil (alt) HD
 http://144.217.7.203:25461/red/red/16
