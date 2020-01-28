@@ -460,6 +460,9 @@ http://play.streaminghd.cl:80/claudio441/claudio441/playlist.m3u8?GrupoTopIptv
 #EXTINF:-1 tvg-logo="https://img2.freepng.es/20180525/ry/kisspng-canal-13-logo-chile-television-front-and-back-covers-5b07ff0f65b977.0616481915272507034167.jpg" group-title="06- CHILE",Canal 13
 http://200.73.59.84:8000/play/a011
 
+#EXTINF:-1 tvg-logo="https://img2.freepng.es/20180525/ry/kisspng-canal-13-logo-chile-television-front-and-back-covers-5b07ff0f65b977.0616481915272507034167.jpg" group-title="06- CHILE",Canal 13
+http://mylatinotv.com:25461/live/MOrrBfUvEe/1osDE1dIpF/15311.rtmp
+
 #EXTINF:-1 tvg-logo="http://www.canal21tv.cl/wp/wp-content/uploads/2017/06/Logo720-1.png" group-title="06- CHILE",Canal 21
 http://edge1.cl.grupoz.cl/canal21tv/live/playlist.m3u8?GrupoTopIptv
 
@@ -471,6 +474,9 @@ http://
 
 #EXTINF:-1 tvg-logo="https://elfiltrador.com/wp-content/uploads/2018/10/foto_0000001320180216144941.png" group-title="06- CHILE",Chilevision
 http://200.73.59.84:8000/play/a010
+
+#EXTINF:-1 tvg-logo="https://elfiltrador.com/wp-content/uploads/2018/10/foto_0000001320180216144941.png" group-title="06- CHILE",Chilevision
+http://mylatinotv.com:25461/live/MOrrBfUvEe/1osDE1dIpF/1121385.rtmp
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/VhOolgs.png" group-title="06- CHILE",El Pingüino *OFF*
 http://
@@ -523,8 +529,8 @@ http://200.73.59.84:8000/play/a01p
 https://stream.vagalume.fm/hls/147015501223418/aac.m3u8
 #######################################
 
-#EXTINF:-1 tvg-logo="https://colombia.mom-rsf.org/typo3temp/_processed_/4/c/csm_515-941_import_1f4f07e98e.png" group-title="07- COLOMBIA",Cable Noticias *OFF*
-http://
+#EXTINF:-1 tvg-logo="https://colombia.mom-rsf.org/typo3temp/_processed_/4/c/csm_515-941_import_1f4f07e98e.png" group-title="07- COLOMBIA",Cable Noticias
+http://mylatinotv.com:25461/live/MOrrBfUvEe/1osDE1dIpF/1125099.rtmp
 
 #EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/11/4265b-ca-2014.png" group-title="07- COLOMBIA",Canal Antiestres *OFF*
 http://
@@ -541,14 +547,17 @@ http://
 #EXTINF:-1 tvg-logo="https://www.ecured.cu/images/thumb/7/73/Canal1Col2017.png/260px-Canal1Col2017.png" group-title="07- COLOMBIA",Canal Uno *OFF*
 http://
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/874398170146643968/5lII2Wbl_400x400.jpg" group-title="07- COLOMBIA",Caracol *OFF*
-http://
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/874398170146643968/5lII2Wbl_400x400.jpg" group-title="07- COLOMBIA",Caracol
+http://mylatinotv.com:25461/live/MOrrBfUvEe/1osDE1dIpF/14206.rtmp
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/874398170146643968/5lII2Wbl_400x400.jpg" group-title="07- COLOMBIA",Caracol Int
+http://mylatinotv.com:25461/live/MOrrBfUvEe/1osDE1dIpF/103518.rtmp
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/386408609/cnc2_400x400.png" group-title="07- COLOMBIA",CNC 
 http://66.240.236.25:1936/canalcnc/canalcnc/chunklist.m3u8?GrupoTopIptv
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/gt_citytv_m.png" group-title="07- COLOMBIA",City Tv *OFF*
-http://
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/gt_citytv_m.png" group-title="07- COLOMBIA",City Tv
+http://mylatinotv.com:25461/live/MOrrBfUvEe/1osDE1dIpF/14199.rtmp
 
 #EXTINF:-1 tvg-logo="https://clipground.com/images/claro-musica-logo-png-3.png" group-title="07- COLOMBIA",Claro Musica
 http://200.73.59.84:8000/play/a02h
@@ -565,11 +574,17 @@ http://
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CREs19T.png" group-title="07- COLOMBIA",Mundo Mas *OFF*
 http://
 
-#EXTINF:-1 tvg-logo="https://uploads.concordia.net/2017/08/31182503/NTN24.png" group-title="07- COLOMBIA",NTN24 *OFF*
-http://
+#EXTINF:-1 tvg-logo="https://uploads.concordia.net/2017/08/31182503/NTN24.png" group-title="07- COLOMBIA",NTN24
+http://mylatinotv.com:25461/live/MOrrBfUvEe/1osDE1dIpF/81800.rtmp
 
-#EXTINF:-1 tvg-logo="https://images.zetatv.com.uy/getimageurl/800x1200/center/zpapi.zetatv.com.uy/media/images/pasiones_XBS7OEf.png" group-title="07- COLOMBIA",Pasiones *OFF*
-http://
+#EXTINF:-1 tvg-logo="https://images.zetatv.com.uy/getimageurl/800x1200/center/zpapi.zetatv.com.uy/media/images/pasiones_XBS7OEf.png" group-title="07- COLOMBIA",Pasiones
+http://mylatinotv.com:25461/live/MOrrBfUvEe/1osDE1dIpF/103565.rtmp
+
+#EXTINF:-1 tvg-logo="https://images.zetatv.com.uy/getimageurl/800x1200/center/zpapi.zetatv.com.uy/media/images/pasiones_XBS7OEf.png" group-title="07- COLOMBIA",Pasiones
+http://mylatinotv.com:25461/live/MOrrBfUvEe/1osDE1dIpF/23515.rtmp
+
+#EXTINF:-1 tvg-logo="https://images.zetatv.com.uy/getimageurl/800x1200/center/zpapi.zetatv.com.uy/media/images/pasiones_XBS7OEf.png" group-title="07- COLOMBIA",Pasiones
+http://mylatinotv.com:25461/live/MOrrBfUvEe/1osDE1dIpF/19433.rtmp
 
 #EXTINF:-1 tvg-logo="http://www.ranchenatotv.co/wp-content/uploads/2018/10/500PX.png" group-title="07- COLOMBIA",Ranchenato
 http://66.240.236.25:1936/ranchenato/ranchenato/playlist.m3u8?GrupoTopIptv
@@ -586,8 +601,8 @@ http://
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/e53834ab-c4ff-4b88-8845-bf89f4552332_m.jpg" group-title="07- COLOMBIA",Señal Colombia *OFF*
 http://
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eoxHmyO.jpg" group-title="07- COLOMBIA",Teleantioquia *OFF*
-http://
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eoxHmyO.jpg" group-title="07- COLOMBIA",Teleantioquia
+http://mylatinotv.com:25461/live/MOrrBfUvEe/1osDE1dIpF/70390.rtmp
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r4wZZb4.jpg" group-title="07- COLOMBIA",Telecafe *OFF*
 http://
@@ -644,7 +659,7 @@ http://
 http://
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YqW3o4z.png" group-title="08- COSTA RICA",Tv Sur *OFF*
-http://
+
 
 ######################################################################################################################################
 ####################################### CUBA
@@ -655,8 +670,8 @@ https://stream.vagalume.fm/hls/1478199774246251/aac.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvcubana.icrt.cu/images/2019-4/clave.jpg" group-title="09- CUBA",Clave *OFF*
 http://
 
-#EXTINF:-1 tvg-logo="https://todocubaonline.com/wp-content/uploads/2016/01/cubavisi%C3%B3n-internacional.png" group-title="09- CUBA",Cubavision *OFF*
-http://
+#EXTINF:-1 tvg-logo="https://todocubaonline.com/wp-content/uploads/2016/01/cubavisi%C3%B3n-internacional.png" group-title="09- CUBA",Cubavision
+http://mylatinotv.com:25461/live/MOrrBfUvEe/1osDE1dIpF/36461.rtmp
 
 #EXTINF:-1 tvg-logo="https://www.radiotelevisionmarti.com/Content/responsive/OCB/es-CU/img/logo-compact.png" group-title="09- CUBA",TV Martí
 http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8?GrupoTopIptv
@@ -668,28 +683,31 @@ https://stream.vagalume.fm/hls/146411300413492499/aac.m3u8
 #######################################
 
 #EXTINF:-1 tvg-logo="http://blixtv.com/wp-content/uploads/2015/03/uno.png" group-title="10- ECUADOR",Canal Uno
-http://
+http://mylatinotv.com:25461/live/MOrrBfUvEe/1osDE1dIpF/22610.rtmp
 
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/Canela-TV.png" group-title="10- ECUADOR",Canela TV *OFF*
-http://
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/Canela-TV.png" group-title="10- ECUADOR",Canela TV
+http://mylatinotv.com:25461/live/MOrrBfUvEe/1osDE1dIpF/65224.rtmp
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LckvbDi.png" group-title="10- ECUADOR",Ecotel TV *OFF*
 http://
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ATPWac1.jpg" group-title="10- ECUADOR",Ecuador TV *OFF*
-http://
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ATPWac1.jpg" group-title="10- ECUADOR",Ecuador TV
+http://mylatinotv.com:25461/live/MOrrBfUvEe/1osDE1dIpF/84540.rtmp
 
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/ecuavisa.png" group-title="10- ECUADOR",Ecuavisa *OFF*
-http://
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/ecuavisa.png" group-title="10- ECUADOR",Ecuavisa
+http://mylatinotv.com:25461/live/MOrrBfUvEe/1osDE1dIpF/18713.rtmp
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/FXqG3LnBX_A/hqdefault_live.jpg" group-title="10- ECUADOR",Hechos Ecuador *OFF*
 http://
 
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/gamavision-en-vivo-768x480.png" group-title="10- ECUADOR",Gamavision *OFF*
-http://
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/gamavision-en-vivo-768x480.png" group-title="10- ECUADOR",Gamavision
+http://mylatinotv.com:25461/live/MOrrBfUvEe/1osDE1dIpF/84539.rtmp
 
-#EXTINF:-1 tvg-logo="http://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="10- ECUADOR",Oromar TV *OFF*
-http://
+#EXTINF:-1 tvg-logo="http://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="10- ECUADOR",Oromar TV
+http://mylatinotv.com:25461/live/MOrrBfUvEe/1osDE1dIpF/1124940.rtmp
+
+#EXTINF:-1 tvg-logo="http://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="10- ECUADOR",Oromar TV
+http://mylatinotv.com:25461/live/MOrrBfUvEe/1osDE1dIpF/65212.rtmp
 
 #EXTINF:-1 tvg-logo="https://historiadelatvecuatoriana.files.wordpress.com/2015/07/tc.jpg" group-title="10- ECUADOR",TC Ecuador *OFF*
 http://
@@ -1042,8 +1060,8 @@ http://livegopanel.club:8080/rjn55KutBp/XuTbqguuq0/3390
 https://stream.vagalume.fm/hls/1506975770142563/aac.m3u8
 #######################################
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/43/TVAzteca_Honduras_2013.png/revision/latest?cb=20170701214353" group-title="12- HONDURAS",Azteca Honduras *OFF*
-http://
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/43/TVAzteca_Honduras_2013.png/revision/latest?cb=20170701214353" group-title="12- HONDURAS",Azteca Honduras
+http://mylatinotv.com:25461/live/MOrrBfUvEe/1osDE1dIpF/14274.rtmp
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/canal-5-el-lider-honduras-2019-present-logo-1EEE1B9DDA-seeklogo.com.png" group-title="12- HONDURAS",5 Lider
 http://trinity-lh.akamaihd.net/i/TelevicentroLive1_d@17977/master.m3u8?GrupoTopIptv
@@ -1057,8 +1075,8 @@ http://
 #EXTINF:-1 tvg-logo="http://www.globotvhonduras.com/GLOBO%20TV.png" group-title="12- HONDURAS",Globo TV *OFF*
 http://
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/hn_hch-hable-como-habla_m.png" group-title="12- HONDURAS",HCH *OFF*
-http://
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/hn_hch-hable-como-habla_m.png" group-title="12- HONDURAS",HCH
+http://mylatinotv.com:25461/live/MOrrBfUvEe/1osDE1dIpF/14280.rtmp
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tzqCSrl.png" group-title="12- HONDURAS",Hondured Canal 13 *OFF*
 http://
@@ -1103,11 +1121,11 @@ http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8?GrupoTopIptv
 https://stream.vagalume.fm/hls/147015499779090/aac.m3u8
 #######################################
 
-#EXTINF:-1 tvg-logo="https://media.tvalacarta.info/canales/256x256/adn40.png" group-title="14- MEXICO",Adn 40 *OFF*
-http://
+#EXTINF:-1 tvg-logo="https://media.tvalacarta.info/canales/256x256/adn40.png" group-title="14- MEXICO",Adn 40
+http://mylatinotv.com:25461/live/MOrrBfUvEe/1osDE1dIpF/81825.rtmp
 
-#EXTINF:-1 tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/400x300_1845/Source/9519/americatevepuertorico.png" group-title="14- MEXICO",America teve *OFF*
-http://
+#EXTINF:-1 tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/400x300_1845/Source/9519/americatevepuertorico.png" group-title="14- MEXICO",America teve
+http://mylatinotv.com:25461/live/MOrrBfUvEe/1osDE1dIpF/1119914.rtmp
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_az-cinema_m.png" group-title="14- MEXICO",Az Cinema *OFF*
 http://
