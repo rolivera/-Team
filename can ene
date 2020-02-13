@@ -268,17 +268,11 @@ http://lista.serverpower.me:80/Julia/Julia/41094
 #EXTINF:-1 tvg-logo="https://www.hedex.tv/uploads/images/clip_155_1556042983_thumb.png" group-title="04- BRASIL",Itú TV⁻ˢᵈ⁻
 http://tv02.logicahost.com.br:1935/itutv/itutv/live.m3u8?GrupoTopIptv
 
-#EXTINF:-1 tvg-logo="http://www.megatv.com.br/u/og-mega.png" group-title="04- BRASIL",Mega TV⁽ᵃˡᵗ⁾
-http://144.217.7.203:25461/italia/italia/28
-
 #EXTINF:-1 tvg-logo="http://i.imgur.com/if82162.png" group-title="04- BRASIL",NBR⁻ᴼᶠᶠ⁻
 http://
 
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s128243q.png" group-title="04- BRASIL",Rede Minas⁻ˢᵈ⁻
 https://59f1cbe63db89.streamlock.net:1443/redeatividade/_definst_/redeatividade/playlist.m3u8?GrupoTopIptv
-
-#EXTINF:-1 tvg-logo="https://studiosol-a.akamaihd.net/uploadfile/letras/fotos/5/2/b/9/52b943caf2678a6a8cd401470782be46.jpg" group-title="04- BRASIL",Rede Pampa⁻ˢᵈ⁻
-https://v8.ciclano.io:1443/rafael926/_definst_/rafael926/playlist.m3u8?GrupoTopIptv
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="04- BRASIL",Record (1)
 http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/40474
@@ -315,8 +309,7 @@ https://59e4b6c1beddc.streamlock.net/pioneira-tv3/pioneira-tv3/chunklist_w164378
 http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w2099085578_b216000_sleng.m3u8?GrupoTopIptv
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" group-title="04- BRASIL",SBT⁻ˢᵈ⁻
 http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w965605121_b131000_sleng.m3u8?GrupoTopIptv
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" group-title="04- BRASIL",SBT⁻ˢᵈ⁻
-https://origin.canaismax.com/mylive/sbtsd/video.m3u8
+
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/11/tv-jornal.png" group-title="04- BRASIL",SBT TV Jornal PE⁻ˢᵈ⁻
 http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8?GrupoTopIptv
 #EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="04- BRASIL",SBT PE⁻ˢᵈ⁻
@@ -377,34 +370,19 @@ http://
 http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8?GrupoTopIptv
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pawDMnQ.jpg" group-title="05- BOLIVIA",Bolivision
-http://mylatinotv.com:25461/live/MOrrBfUvEe/1osDE1dIpF/23930.rtmp
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pawDMnQ.jpg" group-title="05- BOLIVIA",Bolivision
-http://mylatinotv.com:25461/live/MOrrBfUvEe/1osDE1dIpF/1116352.rtmp
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pawDMnQ.jpg" group-title="05- BOLIVIA",Bolivision
-http://mylatinotv.com:25461/live/MOrrBfUvEe/1osDE1dIpF/1121411.rtmp
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pawDMnQ.jpg" group-title="05- BOLIVIA",Bolivision
-http://mylatinotv.com:25461/live/MOrrBfUvEe/1osDE1dIpF/1121412.rtmp
 
 #EXTINF:-1  tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/pattv.png" group-title="05- BOLIVIA",PAT La Paz
-http://mylatinotv.com:25461/live/MOrrBfUvEe/1osDE1dIpF/77996.rtmp
+
 
 #EXTINF:-1 tvg-logo="https://rec-onlinebolivia.com/wp-content/uploads/2019/08/cropped-peque%C3%B1o-1.png" group-title="05- BOLIVIA",Rec Online
-http://mylatinotv.com:25461/live/MOrrBfUvEe/1osDE1dIpF/77569.rtmp
 
-#EXTINF:-1 tvg-logo="https://rec-onlinebolivia.com/wp-content/uploads/2019/08/cropped-peque%C3%B1o-1.png" group-title="05- BOLIVIA",Rec Online
-http://mylatinotv.com:25461/live/MOrrBfUvEe/1osDE1dIpF/77985.rtmp
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XAgQE1z.png" group-title="05- BOLIVIA",Red Uno
-http://mylatinotv.com:25461/live/MOrrBfUvEe/1osDE1dIpF/1121421.rtmp
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XAgQE1z.png" group-title="05- BOLIVIA",Red Uno
-http://mylatinotv.com:25461/live/MOrrBfUvEe/1osDE1dIpF/77922.rtmp
 
 #EXTINF:-1  tvg-logo="http://tvmi.com.bo/wp-content/uploads/sites/2/2017/10/rtp.png" group-title="05- BOLIVIA",RTP
-http://mylatinotv.com:25461/live/MOrrBfUvEe/1osDE1dIpF/23924.rtmp
+
 
 ######################################################################################################################################
 ####################################### CHILE
@@ -424,9 +402,6 @@ http://play.streaminghd.cl:80/claudio441/claudio441/playlist.m3u8?GrupoTopIptv
 #EXTINF:-1 tvg-logo="https://img2.freepng.es/20180525/ry/kisspng-canal-13-logo-chile-television-front-and-back-covers-5b07ff0f65b977.0616481915272507034167.jpg" group-title="06- CHILE",Canal 13
 http://200.73.59.84:8000/play/a011
 
-#EXTINF:-1 tvg-logo="https://img2.freepng.es/20180525/ry/kisspng-canal-13-logo-chile-television-front-and-back-covers-5b07ff0f65b977.0616481915272507034167.jpg" group-title="06- CHILE",Canal 13
-http://mylatinotv.com:25461/live/MOrrBfUvEe/1osDE1dIpF/15311.rtmp
-
 #EXTINF:-1 tvg-logo="http://www.canal21tv.cl/wp/wp-content/uploads/2017/06/Logo720-1.png" group-title="06- CHILE",Canal 21⁻ˢᵈ⁻
 http://edge1.cl.grupoz.cl/canal21tv/live/playlist.m3u8?GrupoTopIptv
 
@@ -438,9 +413,6 @@ http://
 
 #EXTINF:-1 tvg-logo="https://elfiltrador.com/wp-content/uploads/2018/10/foto_0000001320180216144941.png" group-title="06- CHILE",Chilevision
 http://200.73.59.84:8000/play/a010
-
-#EXTINF:-1 tvg-logo="https://elfiltrador.com/wp-content/uploads/2018/10/foto_0000001320180216144941.png" group-title="06- CHILE",Chilevision
-http://mylatinotv.com:25461/live/MOrrBfUvEe/1osDE1dIpF/1121385.rtmp
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/VhOolgs.png" group-title="06- CHILE",El Pingüino⁻ᴼᶠᶠ⁻
 http://
@@ -456,9 +428,6 @@ http://200.73.59.84:8000/play/a00z
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/PixQwsD.png" group-title="06- CHILE",La Red
 http://200.73.59.84:8000/play/a00x
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/PixQwsD.png" group-title="06- CHILE",La Red (4)
-http://158.69.228.135:8000/live/nataren/5ihvz77x/1049.rtmp
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/umdJ2mP.jpg" group-title="06- CHILE",Portalfoxmix⁻ˢᵈ⁻
 http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8?GrupoTopIptv
@@ -499,8 +468,8 @@ http://200.73.59.84:8000/play/a01p
 https://stream.vagalume.fm/hls/147015501223418/aac.m3u8
 #######################################
 
-#EXTINF:-1 tvg-logo="https://colombia.mom-rsf.org/typo3temp/_processed_/4/c/csm_515-941_import_1f4f07e98e.png" group-title="07- COLOMBIA",Cable Noticias
-http://mylatinotv.com:25461/live/MOrrBfUvEe/1osDE1dIpF/1125099.rtmp
+#EXTINF:-1 tvg-logo="https://colombia.mom-rsf.org/typo3temp/_processed_/4/c/csm_515-941_import_1f4f07e98e.png" group-title="07- COLOMBIA",Cable Noticias⁻ᴼᶠᶠ⁻
+http://
 
 #EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/11/4265b-ca-2014.png" group-title="07- COLOMBIA",Canal Antiestres⁻ᴼᶠᶠ⁻
 http://
@@ -517,17 +486,14 @@ http://
 #EXTINF:-1 tvg-logo="https://www.ecured.cu/images/thumb/7/73/Canal1Col2017.png/260px-Canal1Col2017.png" group-title="07- COLOMBIA",Canal Uno⁻ᴼᶠᶠ⁻
 http://
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/874398170146643968/5lII2Wbl_400x400.jpg" group-title="07- COLOMBIA",Caracol
-http://mylatinotv.com:25461/live/MOrrBfUvEe/1osDE1dIpF/14206.rtmp
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/874398170146643968/5lII2Wbl_400x400.jpg" group-title="07- COLOMBIA",Caracol Int
-http://mylatinotv.com:25461/live/MOrrBfUvEe/1osDE1dIpF/103518.rtmp
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/874398170146643968/5lII2Wbl_400x400.jpg" group-title="07- COLOMBIA",Caracol⁻ᴼᶠᶠ⁻
+http://
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/386408609/cnc2_400x400.png" group-title="07- COLOMBIA",CNC⁻ˢᵈ⁻
 http://66.240.236.25:1936/canalcnc/canalcnc/chunklist.m3u8?GrupoTopIptv
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/gt_citytv_m.png" group-title="07- COLOMBIA",City Tv
-http://mylatinotv.com:25461/live/MOrrBfUvEe/1osDE1dIpF/14199.rtmp
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/gt_citytv_m.png" group-title="07- COLOMBIA",City Tv⁻ᴼᶠᶠ⁻
+http://
 
 #EXTINF:-1 tvg-logo="https://clipground.com/images/claro-musica-logo-png-3.png" group-title="07- COLOMBIA",Claro Musica
 http://200.73.59.84:8000/play/a02h
@@ -544,17 +510,11 @@ http://
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CREs19T.png" group-title="07- COLOMBIA",Mundo Mas⁻ᴼᶠᶠ⁻
 http://
 
-#EXTINF:-1 tvg-logo="https://uploads.concordia.net/2017/08/31182503/NTN24.png" group-title="07- COLOMBIA",NTN24
-http://mylatinotv.com:25461/live/MOrrBfUvEe/1osDE1dIpF/81800.rtmp
+#EXTINF:-1 tvg-logo="https://uploads.concordia.net/2017/08/31182503/NTN24.png" group-title="07- COLOMBIA",NTN24⁻ᴼᶠᶠ⁻
+http://
 
-#EXTINF:-1 tvg-logo="https://images.zetatv.com.uy/getimageurl/800x1200/center/zpapi.zetatv.com.uy/media/images/pasiones_XBS7OEf.png" group-title="07- COLOMBIA",Pasiones
-http://mylatinotv.com:25461/live/MOrrBfUvEe/1osDE1dIpF/103565.rtmp
-
-#EXTINF:-1 tvg-logo="https://images.zetatv.com.uy/getimageurl/800x1200/center/zpapi.zetatv.com.uy/media/images/pasiones_XBS7OEf.png" group-title="07- COLOMBIA",Pasiones
-http://mylatinotv.com:25461/live/MOrrBfUvEe/1osDE1dIpF/23515.rtmp
-
-#EXTINF:-1 tvg-logo="https://images.zetatv.com.uy/getimageurl/800x1200/center/zpapi.zetatv.com.uy/media/images/pasiones_XBS7OEf.png" group-title="07- COLOMBIA",Pasiones
-http://mylatinotv.com:25461/live/MOrrBfUvEe/1osDE1dIpF/19433.rtmp
+#EXTINF:-1 tvg-logo="https://images.zetatv.com.uy/getimageurl/800x1200/center/zpapi.zetatv.com.uy/media/images/pasiones_XBS7OEf.png" group-title="07- COLOMBIA",Pasiones⁻ᴼᶠᶠ⁻
+http://
 
 #EXTINF:-1 tvg-logo="http://www.ranchenatotv.co/wp-content/uploads/2018/10/500PX.png" group-title="07- COLOMBIA",Ranchenato⁻ˢᵈ⁻
 http://66.240.236.25:1936/ranchenato/ranchenato/playlist.m3u8?GrupoTopIptv
@@ -571,8 +531,8 @@ http://
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/e53834ab-c4ff-4b88-8845-bf89f4552332_m.jpg" group-title="07- COLOMBIA",Señal Colombia⁻ᴼᶠᶠ⁻
 http://
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eoxHmyO.jpg" group-title="07- COLOMBIA",Teleantioquia
-http://mylatinotv.com:25461/live/MOrrBfUvEe/1osDE1dIpF/70390.rtmp
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eoxHmyO.jpg" group-title="07- COLOMBIA",Teleantioquia⁻ᴼᶠᶠ⁻
+http://
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r4wZZb4.jpg" group-title="07- COLOMBIA",Telecafe⁻ᴼᶠᶠ⁻
 http://
@@ -595,11 +555,8 @@ http://cdn.logicideas.media/telepacifico-live/smil:live.smil/chunklist_b4500000.
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eg47wmv.jpg" group-title="07- COLOMBIA",Televid⁻ᴼᶠᶠ⁻
 http://
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ndR9t9o.jpg" group-title="07- COLOMBIA",Trece⁻ˢᵈ⁻
-http://cdn.logicideas.media/canaltrece-live/smil:canal13.smil/playlist.m3u8?GrupoTopIptv
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ndR9t9o.jpg" group-title="07- COLOMBIA",Trece⁻ˢᵈ⁻
-http://cdn.logicideas.media/canaltrece-live/smil:canal13.smil/chunklist_b4500000.m3u8?GrupoTopIptv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ndR9t9o.jpg" group-title="07- COLOMBIA",Trece⁻ᴼᶠᶠ⁻
+http://
 
 #EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/co-tv-agro.jpg" group-title="07- COLOMBIA",Tv Agro⁻ᴼᶠᶠ⁻
 http://
@@ -637,8 +594,8 @@ https://stream.vagalume.fm/hls/1478199774246251/aac.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvcubana.icrt.cu/images/2019-4/clave.jpg" group-title="09- CUBA",Clave⁻ᴼᶠᶠ⁻
 http://
 
-#EXTINF:-1 tvg-logo="https://todocubaonline.com/wp-content/uploads/2016/01/cubavisi%C3%B3n-internacional.png" group-title="09- CUBA",Cubavision
-http://mylatinotv.com:25461/live/MOrrBfUvEe/1osDE1dIpF/36461.rtmp
+#EXTINF:-1 tvg-logo="https://todocubaonline.com/wp-content/uploads/2016/01/cubavisi%C3%B3n-internacional.png" group-title="09- CUBA",Cubavision⁻ᴼᶠᶠ⁻
+http://
 
 #EXTINF:-1 tvg-logo="https://www.radiotelevisionmarti.com/Content/responsive/OCB/es-CU/img/logo-compact.png" group-title="09- CUBA",TV Martí⁻ˢᵈ⁻
 http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8?GrupoTopIptv
@@ -649,32 +606,32 @@ http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8?GrupoTopIptv
 https://stream.vagalume.fm/hls/146411300413492499/aac.m3u8
 #######################################
 
-#EXTINF:-1 tvg-logo="http://blixtv.com/wp-content/uploads/2015/03/uno.png" group-title="10- ECUADOR",Canal Uno
-http://mylatinotv.com:25461/live/MOrrBfUvEe/1osDE1dIpF/22610.rtmp
-
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/Canela-TV.png" group-title="10- ECUADOR",Canela TV
-http://mylatinotv.com:25461/live/MOrrBfUvEe/1osDE1dIpF/65224.rtmp
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LckvbDi.png" group-title="10- ECUADOR",Ecotel TV *OFF*
+#EXTINF:-1 tvg-logo="http://blixtv.com/wp-content/uploads/2015/03/uno.png" group-title="10- ECUADOR",Canal Uno⁻ᴼᶠᶠ⁻
 http://
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ATPWac1.jpg" group-title="10- ECUADOR",Ecuador TV
-http://mylatinotv.com:25461/live/MOrrBfUvEe/1osDE1dIpF/84540.rtmp
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/Canela-TV.png" group-title="10- ECUADOR",Canela TV⁻ᴼᶠᶠ⁻
+http://
 
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/ecuavisa.png" group-title="10- ECUADOR",Ecuavisa
-http://mylatinotv.com:25461/live/MOrrBfUvEe/1osDE1dIpF/18713.rtmp
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LckvbDi.png" group-title="10- ECUADOR",Ecotel TV⁻ᴼᶠᶠ⁻
+http://
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ATPWac1.jpg" group-title="10- ECUADOR",Ecuador TV⁻ᴼᶠᶠ⁻
+http://
+
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/ecuavisa.png" group-title="10- ECUADOR",Ecuavisa⁻ᴼᶠᶠ⁻
+http://
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/FXqG3LnBX_A/hqdefault_live.jpg" group-title="10- ECUADOR",Hechos Ecuador⁻ᴼᶠᶠ⁻
 http://
 
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/gamavision-en-vivo-768x480.png" group-title="10- ECUADOR",Gamavision
-http://mylatinotv.com:25461/live/MOrrBfUvEe/1osDE1dIpF/84539.rtmp
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/gamavision-en-vivo-768x480.png" group-title="10- ECUADOR",Gamavision⁻ᴼᶠᶠ⁻
+http://
 
-#EXTINF:-1 tvg-logo="http://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="10- ECUADOR",Oromar TV
-http://mylatinotv.com:25461/live/MOrrBfUvEe/1osDE1dIpF/1124940.rtmp
+#EXTINF:-1 tvg-logo="http://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="10- ECUADOR",Oromar TV⁻ᴼᶠᶠ⁻
+http://
 
-#EXTINF:-1 tvg-logo="http://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="10- ECUADOR",Oromar TV
-http://mylatinotv.com:25461/live/MOrrBfUvEe/1osDE1dIpF/65212.rtmp
+#EXTINF:-1 tvg-logo="http://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="10- ECUADOR",Oromar TV⁻ᴼᶠᶠ⁻
+http://
 
 #EXTINF:-1 tvg-logo="https://historiadelatvecuatoriana.files.wordpress.com/2015/07/tc.jpg" group-title="10- ECUADOR",TC Ecuador⁻ᴼᶠᶠ⁻
 http://
@@ -1036,8 +993,8 @@ http://livegopanel.club:8080/rjn55KutBp/XuTbqguuq0/3390
 https://stream.vagalume.fm/hls/1506975770142563/aac.m3u8
 #######################################
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/43/TVAzteca_Honduras_2013.png/revision/latest?cb=20170701214353" group-title="12- HONDURAS",Azteca Honduras
-http://mylatinotv.com:25461/live/MOrrBfUvEe/1osDE1dIpF/14274.rtmp
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/43/TVAzteca_Honduras_2013.png/revision/latest?cb=20170701214353" group-title="12- HONDURAS",Azteca Honduras⁻ᴼᶠᶠ⁻
+http://
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/canal-5-el-lider-honduras-2019-present-logo-1EEE1B9DDA-seeklogo.com.png" group-title="12- HONDURAS",5 Lider⁻ˢᵈ⁻
 http://trinity-lh.akamaihd.net/i/TelevicentroLive1_d@17977/master.m3u8?GrupoTopIptv
@@ -1051,8 +1008,8 @@ http://
 #EXTINF:-1 tvg-logo="http://www.globotvhonduras.com/GLOBO%20TV.png" group-title="12- HONDURAS",Globo TV⁻ᴼᶠᶠ⁻
 http://
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/hn_hch-hable-como-habla_m.png" group-title="12- HONDURAS",HCH
-http://mylatinotv.com:25461/live/MOrrBfUvEe/1osDE1dIpF/14280.rtmp
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/hn_hch-hable-como-habla_m.png" group-title="12- HONDURAS",HCH⁻ᴼᶠᶠ⁻
+http://
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tzqCSrl.png" group-title="12- HONDURAS",Hondured Canal 13⁻ᴼᶠᶠ⁻
 http://
@@ -1103,11 +1060,8 @@ http://ch.iptvmate.net/bed20fe07d9d7cde0ee784f3dd7e3116.m3u8?GrupoTopIptv
 #EXTINF:-1 tvg-logo="https://media.tvalacarta.info/canales/256x256/adn40.png" group-title="14- MEXICO",Adn 40⁻ˢᵈ⁻
 http://ch.iptvmate.net/897487de1836d18cad238b98e5852c3e.m3u8?GrupoTopIptv
 
-#EXTINF:-1 tvg-logo="https://media.tvalacarta.info/canales/256x256/adn40.png" group-title="14- MEXICO",Adn 40
-http://mylatinotv.com:25461/live/MOrrBfUvEe/1osDE1dIpF/81825.rtmp
-
-#EXTINF:-1 tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/400x300_1845/Source/9519/americatevepuertorico.png" group-title="14- MEXICO",America teve
-http://mylatinotv.com:25461/live/MOrrBfUvEe/1osDE1dIpF/1119914.rtmp
+#EXTINF:-1 tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/400x300_1845/Source/9519/americatevepuertorico.png" group-title="14- MEXICO",America teve⁻ᴼᶠᶠ⁻
+http://
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_az-cinema_m.png" group-title="14- MEXICO",Az Cinema⁻ᴼᶠᶠ⁻
 http://
@@ -1538,7 +1492,7 @@ http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/57046
 #EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/SPTV3.png" group-title="18- PORTUGAL",Sport Tv 3
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/57048
 
-#EXTINF:-1 tvg-logo="http://www.nos.pt/particulares/televisao/canais/PublishingImages/alteracoes-grelha/setembro2017/large_sporttvmaishd.jpg" group-title="18- PORTUGAL",Sport Tv Plus *OFF*
+#EXTINF:-1 tvg-logo="http://www.nos.pt/particulares/televisao/canais/PublishingImages/alteracoes-grelha/setembro2017/large_sporttvmaishd.jpg" group-title="18- PORTUGAL",Sport Tv Plus⁻ᴼᶠᶠ⁻
 http://
 
 #EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/NBATVHD.png" group-title="18- PORTUGAL",Sport Tv NBA
@@ -1634,134 +1588,71 @@ http://tv-prime.tv:8080/live/o2QiLZ1ps9/xneqrrPm3l/404.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1153150302603894784/MUFOdCa3_400x400.jpg" group-title="20- URUGUAY",A+V (5)
 http://tv-prime.tv:8080/live/SANTIAGOCELI2020/G5QKdrgSZ6/404.rtmp
 
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/04/artigas-tv.png" group-title="20- URUGUAY",Artigas tv (2)
-http://tv-prime.tv:8080/live/o2QiLZ1ps9/xneqrrPm3l/405.m3u8
-
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/04/artigas-tv.png" group-title="20- URUGUAY",Artigas tv (5)
-http://tv-prime.tv:8080/live/SANTIAGOCELI2020/G5QKdrgSZ6/405.rtmp
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/04/artigas-tv.png" group-title="20- URUGUAY",Artigas tv⁻ᴼᶠᶠ⁻
+http://
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/04/canal-5-noticias-y-deportes-324x160.png" group-title="20- URUGUAY",C5ND Colonia⁻ᴼᶠᶠ⁻
 http://
 
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/04/1000xhora-324x160.png" group-title="20- URUGUAY",Canal 1000 X Hora (2)
-http://tv-prime.tv:8080/live/o2QiLZ1ps9/xneqrrPm3l/403.m3u8
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/04/1000xhora-324x160.png" group-title="20- URUGUAY",Canal 1000 X Hora⁻ᴼᶠᶠ⁻
+http://
 
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/04/1000xhora-324x160.png" group-title="20- URUGUAY",Canal 1000 X Hora (4)
+#EXTINF:-1 tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6090/240/default.jpg" group-title="20- URUGUAY",Canal 2 Lascano⁻ᴼᶠᶠ⁻
+http://
 
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/04/canal-2-san-carlos.png" group-title="20- URUGUAY",Canal 2 S. Carlos⁻ᴼᶠᶠ⁻
+http://
 
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/04/1000xhora-324x160.png" group-title="20- URUGUAY",Canal 1000 X Hora (5)
-http://tv-prime.tv:8080/live/SANTIAGOCELI2020/G5QKdrgSZ6/403.rtmp
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/04/canal4-1.png" group-title="20- URUGUAY",Canal 4 Paysandu⁻ᴼᶠᶠ⁻
+http://
 
-#EXTINF:-1 tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6090/240/default.jpg" group-title="20- URUGUAY",Canal 2 Lascano (2)
-http://tv-prime.tv:8080/live/o2QiLZ1ps9/xneqrrPm3l/408.m3u8
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/04/canal-4-salto-uruagua-1.png" group-title="20- URUGUAY",Canal 4 Salto⁻ᴼᶠᶠ⁻
+http://
 
-#EXTINF:-1 tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6090/240/default.jpg" group-title="20- URUGUAY",Canal 2 Lascano (5)
-http://tv-prime.tv:8080/live/SANTIAGOCELI2020/G5QKdrgSZ6/408.rtmp
+#EXTINF:-1 tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6070/240/default.jpg" group-title="20- URUGUAY",Canal 6 Durazno⁻ᴼᶠᶠ⁻
+http://
 
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/04/canal-2-san-carlos.png" group-title="20- URUGUAY",Canal 2 S. Carlos (2)
-http://tv-prime.tv:8080/live/o2QiLZ1ps9/xneqrrPm3l/409.m3u8
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-Ulx59aFBavA/VUq3Y5Q6gqI/AAAAAAAAACM/0e6CW97xhhs/s1600/canal%2B7.jpg" group-title="20- URUGUAY",Canal 7 Punta⁻ᴼᶠᶠ⁻
+http://
 
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/04/canal-2-san-carlos.png" group-title="20- URUGUAY",Canal 2 S. Carlos (5)
-http://tv-prime.tv:8080/live/SANTIAGOCELI2020/G5QKdrgSZ6/409.rtmp
+#EXTINF:-1 tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6853/240/default.jpg" group-title="20- URUGUAY",Canal 11 T. Tres⁻ᴼᶠᶠ⁻
+http://
 
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/04/canal4-1.png" group-title="20- URUGUAY",Canal 4 Paysandu (2)
-http://tv-prime.tv:8080/live/o2QiLZ1ps9/xneqrrPm3l/410.m3u8
+#EXTINF:-1 tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6074/240/default.jpg" group-title="20- URUGUAY",Canal 12 Melo⁻ᴼᶠᶠ⁻
+http://
 
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/04/canal4-1.png" group-title="20- URUGUAY",Canal 4 Paysandu (5)
-http://tv-prime.tv:8080/live/SANTIAGOCELI2020/G5QKdrgSZ6/410.rtmp
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1179026592506494982/gUpI_aKb_400x400.jpg" group-title="20- URUGUAY",Canal U⁻ᴼᶠᶠ⁻
+http://
 
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/04/canal-4-salto-uruagua-1.png" group-title="20- URUGUAY",Canal 4 Salto (2)
-http://tv-prime.tv:8080/live/o2QiLZ1ps9/xneqrrPm3l/412.m3u8
+#EXTINF:-1 tvg-logo="http://www.ipuntotv.com/IMAGES/CardinalTV-logo.jpg" group-title="20- URUGUAY",Cardinal tv⁻ᴼᶠᶠ⁻
+http://
 
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/04/canal-4-salto-uruagua-1.png" group-title="20- URUGUAY",Canal 4 Salto (5)
-http://tv-prime.tv:8080/live/antonio1/SANTIAGOCELI2020/G5QKdrgSZ6/412.rtmp
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/04/charrua-tv.png" group-title="20- URUGUAY",Charrua tv⁻ᴼᶠᶠ⁻
+http://
 
-#EXTINF:-1 tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6070/240/default.jpg" group-title="20- URUGUAY",Canal 6 Durazno (2)
-http://tv-prime.tv:8080/live/o2QiLZ1ps9/xneqrrPm3l/413.m3u8
+#EXTINF:-1 tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/30455/240/default.jpg" group-title="20- URUGUAY",FTC⁻ᴼᶠᶠ⁻
+http://
 
-#EXTINF:-1 tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6070/240/default.jpg" group-title="20- URUGUAY",Canal 6 Durazno (5)
-http://tv-prime.tv:8080/live/SANTIAGOCELI2020/G5QKdrgSZ6/413.rtmp
+#EXTINF:-1 tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/34373/240/default.jpg" group-title="20- URUGUAY",Latina tv Paysandu⁻ᴼᶠᶠ⁻
+http://
 
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-Ulx59aFBavA/VUq3Y5Q6gqI/AAAAAAAAACM/0e6CW97xhhs/s1600/canal%2B7.jpg" group-title="20- URUGUAY",Canal 7 Punta (2)
-http://tv-prime.tv:8080/live/o2QiLZ1ps9/xneqrrPm3l/414.m3u8
-
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-Ulx59aFBavA/VUq3Y5Q6gqI/AAAAAAAAACM/0e6CW97xhhs/s1600/canal%2B7.jpg" group-title="20- URUGUAY",Canal 7 Punta (5)
-http://tv-prime.tv:8080/live/SANTIAGOCELI2020/G5QKdrgSZ6/414.rtmp
-
-#EXTINF:-1 tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6853/240/default.jpg" group-title="20- URUGUAY",Canal 11 T. Tres (2)
-http://tv-prime.tv:8080/live/o2QiLZ1ps9/xneqrrPm3l/406.m3u8
-
-#EXTINF:-1 tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6853/240/default.jpg" group-title="20- URUGUAY",Canal 11 T. Tres (5)
-http://tv-prime.tv:8080/live/SANTIAGOCELI2020/G5QKdrgSZ6/406.rtmp
-
-#EXTINF:-1 tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6074/240/default.jpg" group-title="20- URUGUAY",Canal 12 Melo (2)
-http://tv-prime.tv:8080/live/o2QiLZ1ps9/xneqrrPm3l/407.m3u8
-
-#EXTINF:-1 tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6074/240/default.jpg" group-title="20- URUGUAY",Canal 12 Melo (5)
-http://tv-prime.tv:8080/live/SANTIAGOCELI2020/G5QKdrgSZ6/407.rtmp
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1179026592506494982/gUpI_aKb_400x400.jpg" group-title="20- URUGUAY",Canal U (2)
-http://tv-prime.tv:8080/live/o2QiLZ1ps9/xneqrrPm3l/415.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1179026592506494982/gUpI_aKb_400x400.jpg" group-title="20- URUGUAY",Canal U (5)
-http://tv-prime.tv:8080/live/SANTIAGOCELI2020/G5QKdrgSZ6/415.rtmp
-
-#EXTINF:-1 tvg-logo="http://www.ipuntotv.com/IMAGES/CardinalTV-logo.jpg" group-title="20- URUGUAY",Cardinal tv (2)
-http://tv-prime.tv:8080/live/o2QiLZ1ps9/xneqrrPm3l/417.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.ipuntotv.com/IMAGES/CardinalTV-logo.jpg" group-title="20- URUGUAY",Cardinal tv (5)
-http://tv-prime.tv:8080/live/SANTIAGOCELI2020/G5QKdrgSZ6/417.rtmp
-
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/04/charrua-tv.png" group-title="20- URUGUAY",Charrua tv (2)
-http://tv-prime.tv:8080/live/o2QiLZ1ps9/xneqrrPm3l/418.m3u8
-
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/04/charrua-tv.png" group-title="20- URUGUAY",Charrua tv (5)
-http://tv-prime.tv:8080/live/SANTIAGOCELI2020/G5QKdrgSZ6/418.rtmp
-
-#EXTINF:-1 tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/30455/240/default.jpg" group-title="20- URUGUAY",FTC (2)
-http://tv-prime.tv:8080/live/o2QiLZ1ps9/xneqrrPm3l/420.m3u8
-
-#EXTINF:-1 tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/30455/240/default.jpg" group-title="20- URUGUAY",FTC (5)
-http://tv-prime.tv:8080/live/SANTIAGOCELI2020/G5QKdrgSZ6/420.rtmp
-
-#EXTINF:-1 tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/34373/240/default.jpg" group-title="20- URUGUAY",Latina tv Paysandu (2)
-http://tv-prime.tv:8080/live/o2QiLZ1ps9/xneqrrPm3l/421.m3u8
-
-#EXTINF:-1 tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/34373/240/default.jpg" group-title="20- URUGUAY",Latina tv Paysandu (5)
-http://tv-prime.tv:8080/live/SANTIAGOCELI2020/G5QKdrgSZ6/421.rtmp
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/917845075522129925/wJHXMdOl.jpg" group-title="20- URUGUAY",Maroñas (2)
-http://tv-prime.tv:8080/live/o2QiLZ1ps9/xneqrrPm3l/422.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/917845075522129925/wJHXMdOl.jpg" group-title="20- URUGUAY",Maroñas (5)
-http://tv-prime.tv:8080/live/SANTIAGOCELI2020/G5QKdrgSZ6/422.rtmp
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/917845075522129925/wJHXMdOl.jpg" group-title="20- URUGUAY",Maroñas⁻ᴼᶠᶠ⁻
+http://
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1107997180311281665/c72fyy_F_400x400.png" group-title="20- URUGUAY",Montecarlo (2)
 http://tv-prime.tv:8080/live/o2QiLZ1ps9/xneqrrPm3l/431.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1107997180311281665/c72fyy_F_400x400.png" group-title="20- URUGUAY",Montecarlo (4)
-
-
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1107997180311281665/c72fyy_F_400x400.png" group-title="20- URUGUAY",Montecarlo (5)
 http://tv-prime.tv:8080/live/SANTIAGOCELI2020/G5QKdrgSZ6/431.rtmp
 
-#EXTINF:-1 tvg-logo="http://www.canalm.tv/plantillas/temas/canalm/imagenes/canalm.png" group-title="20- URUGUAY",Montevideo Portal (2)
-http://tv-prime.tv:8080/live/o2QiLZ1ps9/xneqrrPm3l/416.m3u8
+#EXTINF:-1 tvg-logo="http://www.canalm.tv/plantillas/temas/canalm/imagenes/canalm.png" group-title="20- URUGUAY",Montevideo Portal⁻ᴼᶠᶠ⁻
+http://
 
-#EXTINF:-1 tvg-logo="http://www.canalm.tv/plantillas/temas/canalm/imagenes/canalm.png" group-title="20- URUGUAY",Montevideo Portal (5)
-http://tv-prime.tv:8080/live/SANTIAGOCELI2020/G5QKdrgSZ6/416.rtmp
+#EXTINF:-1 tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/34839/240/default.jpg" group-title="20- URUGUAY",Pantalla IMPO⁻ᴼᶠᶠ⁻
+http://
 
-#EXTINF:-1 tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/34839/240/default.jpg" group-title="20- URUGUAY",Pantalla IMPO (2)
-http://tv-prime.tv:8080/live/o2QiLZ1ps9/xneqrrPm3l/423.m3u8
-
-#EXTINF:-1 tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/34839/240/default.jpg" group-title="20- URUGUAY",Pantalla IMPO (5)
-http://tv-prime.tv:8080/live/SANTIAGOCELI2020/G5QKdrgSZ6/423.rtmp
-
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/04/rtv-uruguay.png" group-title="20- URUGUAY",Rtv (2)
-http://tv-prime.tv:8080/live/o2QiLZ1ps9/xneqrrPm3l/425.m3u8
-
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/04/rtv-uruguay.png" group-title="20- URUGUAY",Rtv (5)
-http://tv-prime.tv:8080/live/SANTIAGOCELI2020/G5QKdrgSZ6/425.rtmp
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/04/rtv-uruguay.png" group-title="20- URUGUAY",Rtv⁻ᴼᶠᶠ⁻
+http://
 
 #EXTINF:-1 tvg-logo="https://media.tvalacarta.info/canales/256x256/canal10.png" group-title="20- URUGUAY",Saeta Canal 10 (2)
 http://tv-prime.tv:8080/live/o2QiLZ1ps9/xneqrrPm3l/428.m3u8
@@ -1782,29 +1673,17 @@ http://tv-prime.tv:8080/live/o2QiLZ1ps9/xneqrrPm3l/430.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1136710475868229633/p2S0PMG8_400x400.jpg" group-title="20- URUGUAY",Teledoce (5)
 http://tv-prime.tv:8080/live/SANTIAGOCELI2020/G5QKdrgSZ6/430.rtmp
 
-#EXTINF:-1 tvg-logo="http://www.tnu.com.uy/image/1024x1024.png" group-title="20- URUGUAY",TNU (2)
-http://tv-prime.tv:8080/live/o2QiLZ1ps9/xneqrrPm3l/429.m3u8
+#EXTINF:-1 tvg-logo="http://www.tnu.com.uy/image/1024x1024.png" group-title="20- URUGUAY",TNU⁻ᴼᶠᶠ⁻
+http://
 
-#EXTINF:-1 tvg-logo="http://www.tnu.com.uy/image/1024x1024.png" group-title="20- URUGUAY",TNU (5)
-http://tv-prime.tv:8080/live/SANTIAGOCELI2020/G5QKdrgSZ6/429.rtmp
+#EXTINF:-1 tvg-logo="http://montevideo.gub.uy/sites/default/files/styles/galeriaslideshowcontenido/public/biblioteca/tvciudad.png?itok=GWUByEQp" group-title="20- URUGUAY",Tv Ciudad⁻ᴼᶠᶠ⁻
+http://
 
-#EXTINF:-1 tvg-logo="http://montevideo.gub.uy/sites/default/files/styles/galeriaslideshowcontenido/public/biblioteca/tvciudad.png?itok=GWUByEQp" group-title="20- URUGUAY",Tv Ciudad (2)
-http://tv-prime.tv:8080/live/o2QiLZ1ps9/xneqrrPm3l/426.m3u8
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/04/uruguay-natural.png" group-title="20- URUGUAY",Uruguay Natural⁻ᴼᶠᶠ⁻
+http://
 
-#EXTINF:-1 tvg-logo="http://montevideo.gub.uy/sites/default/files/styles/galeriaslideshowcontenido/public/biblioteca/tvciudad.png?itok=GWUByEQp" group-title="20- URUGUAY",Tv Ciudad (4)
-
-
-#EXTINF:-1 tvg-logo="http://montevideo.gub.uy/sites/default/files/styles/galeriaslideshowcontenido/public/biblioteca/tvciudad.png?itok=GWUByEQp" group-title="20- URUGUAY",Tv Ciudad (5)
-http://tv-prime.tv:8080/live/SANTIAGOCELI2020/G5QKdrgSZ6/426.rtmp
-
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/04/uruguay-natural.png" group-title="20- URUGUAY",Uruguay Natural (2)
-http://tv-prime.tv:8080/live/o2QiLZ1ps9/xneqrrPm3l/427.m3u8
-
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/04/uruguay-natural.png" group-title="20- URUGUAY",Uruguay Natural (5)
-http://tv-prime.tv:8080/live/SANTIAGOCELI2020/G5QKdrgSZ6/427.rtmp
-
-#EXTINF:-1 tvg-logo="https://media.tvalacarta.info/canales/256x256/vera.png" group-title="20- URUGUAY",Vera + (4)
-
+#EXTINF:-1 tvg-logo="https://media.tvalacarta.info/canales/256x256/vera.png" group-title="20- URUGUAY",Vera +⁻ᴼᶠᶠ⁻
+http://
 
 #EXTINF:-1 tvg-logo="http://www.logoteca.uy/uploads/imagenes/file_2da07aaf6d.png" group-title="20- URUGUAY",VTV (2)
 http://tv-prime.tv:8080/live/o2QiLZ1ps9/xneqrrPm3l/1805.m3u8
@@ -2202,9 +2081,6 @@ http://186.103.228.50:8000/play/a03e
 http://200.73.59.84:8000/play/a03e
 
 #EXTINF:-1 tvg-logo="http://comcab.mx/images/canales/comcab-cinecanal.png" group-title="28- PREMIUM LATINO",Cinecanal (1)
-http://tv5full.xyz:25461/live/jesuschoque/12345/1585.ts
-
-#EXTINF:-1 tvg-logo="http://comcab.mx/images/canales/comcab-cinecanal.png" group-title="28- PREMIUM LATINO",Cinecanal (1)
 http://tv5full.xyz:25461/live/jesuschoque/12345/1521.ts
 
 #EXTINF:-1 tvg-logo="http://comcab.mx/images/canales/comcab-cinecanal.png" group-title="28- PREMIUM LATINO",Cinecanal (2)
@@ -2417,9 +2293,6 @@ http://tv-prime.tv:8080/live/SANTIAGOCELI2020/G5QKdrgSZ6/905.rtmp
 #EXTINF:-1 tvg-logo="http://neurads.com/wp-content/uploads/foxlife-2.png" group-title="28- PREMIUM LATINO",Fox Life (1)
 http://tv5full.xyz:25461/live/jesuschoque/12345/1525.ts
 
-#EXTINF:-1 tvg-logo="http://neurads.com/wp-content/uploads/foxlife-2.png" group-title="28- PREMIUM LATINO",Fox Life (1)
-http://tv5full.xyz:25461/live/Linea4/Isnfbsjk/1575.ts
-
 #EXTINF:-1 tvg-logo="http://neurads.com/wp-content/uploads/foxlife-2.png" group-title="28- PREMIUM LATINO",Fox Life (2)
 http://tv-prime.tv:8080/live/o2QiLZ1ps9/xneqrrPm3l/871.m3u8
 
@@ -2501,17 +2374,8 @@ http://186.103.228.50:8000/play/a03g
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-JBwoh8YDdKY/TyztsSnAnTI/AAAAAAAAAMc/UHfWADlmytY/s1600/fx_hd.png" group-title="28- PREMIUM LATINO",Fx LAT (MEX)
 http://200.73.59.84:8000/play/a03g
 
-#EXTINF:-1 tvg-logo="http://cdd657a867bca3d5084e-b68367b7dbe633942cc09bdd6fb9eaea.r58.cf2.rackcdn.com/fxmoviechannel.png" group-title="28- PREMIUM LATINO",Fxm (1)
-http://tv5full.xyz:25461/live/jesuschoque/12345/1535.ts
-
 #EXTINF:-1 tvg-logo="http://cdd657a867bca3d5084e-b68367b7dbe633942cc09bdd6fb9eaea.r58.cf2.rackcdn.com/fxmoviechannel.png" group-title="28- PREMIUM LATINO",Fxm (2)
 http://tv-prime.tv:8080/live/o2QiLZ1ps9/xneqrrPm3l/867.m3u8
-
-#EXTINF:-1 tvg-logo="http://cdd657a867bca3d5084e-b68367b7dbe633942cc09bdd6fb9eaea.r58.cf2.rackcdn.com/fxmoviechannel.png" group-title="28- PREMIUM LATINO",Fxm (3)
-http://tv5full.xyz:25461/live/DeiVidChiPaNa/MaMaNi/1535.ts
-
-#EXTINF:-1 tvg-logo="http://cdd657a867bca3d5084e-b68367b7dbe633942cc09bdd6fb9eaea.r58.cf2.rackcdn.com/fxmoviechannel.png" group-title="28- PREMIUM LATINO",Fxm (4)
-http://tv5full.xyz:25461/live/Marjorie.ceballos/TeEpgnEFB8/1535.ts
 
 #EXTINF:-1 tvg-logo="http://cdd657a867bca3d5084e-b68367b7dbe633942cc09bdd6fb9eaea.r58.cf2.rackcdn.com/fxmoviechannel.png" group-title="28- PREMIUM LATINO",Fxm (5)
 http://tv-prime.tv:8080/live/SANTIAGOCELI2020/G5QKdrgSZ6/867.rtmp
@@ -2539,9 +2403,6 @@ http://tv-prime.tv:8080/live/SANTIAGOCELI2020/G5QKdrgSZ6/866.rtmp
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_golden-edge_m.png" group-title="28- PREMIUM LATINO",Golden Edge (1)
 http://tv5full.xyz:25461/live/jesuschoque/12345/1536.ts
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_golden-edge_m.png" group-title="28- PREMIUM LATINO",Golden Edge (2)
-http://tv-prime.tv:8080/live/ao2QiLZ1ps9/xneqrrPm3l/865.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_golden-edge_m.png" group-title="28- PREMIUM LATINO",Golden Edge (3)
 http://tv5full.xyz:25461/live/DeiVidChiPaNa/MaMaNi/1536.ts
@@ -2657,9 +2518,6 @@ http://tv-prime.tv:8080/live/SANTIAGOCELI2020/G5QKdrgSZ6/893.rtmp
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/mx/HBOSignature.mx.png" group-title="28- PREMIUM LATINO",Hbo Signature (1)
 http://tv5full.xyz:25461/live/jesuschoque/12345/1541.ts
 
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/mx/HBOSignature.mx.png" group-title="28- PREMIUM LATINO",Hbo Signature (1)
-http://tv5full.xyz:25461/live/jesuschoque/12345/1592.ts
-
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/mx/HBOSignature.mx.png" group-title="28- PREMIUM LATINO",Hbo Signature (2)
 http://tv-prime.tv:8080/live/o2QiLZ1ps9/xneqrrPm3l/895.m3u8
 
@@ -2708,26 +2566,14 @@ http://200.73.59.84:8000/play/a01n
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/multipremier-logo-01.png" group-title="28- PREMIUM LATINO",Multipremier (4)
 
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1153200946740174848/X4RlVPAc_400x400.png" group-title="28- PREMIUM LATINO",Paramount (1)
-http://tv5full.xyz:25461/live/jesuschoque/12345/1544.ts
-
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1153200946740174848/X4RlVPAc_400x400.png" group-title="28- PREMIUM LATINO",Paramount (2)
 http://tv-prime.tv:8080/live/o2QiLZ1ps9/xneqrrPm3l/862.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1153200946740174848/X4RlVPAc_400x400.png" group-title="28- PREMIUM LATINO",Paramount (3)
-http://tv5full.xyz:25461/live/DeiVidChiPaNa/MaMaNi/1544.ts
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1153200946740174848/X4RlVPAc_400x400.png" group-title="28- PREMIUM LATINO",Paramount (4)
-http://tv5full.xyz:25461/live/Marjorie.ceballos/TeEpgnEFB8/1544.ts
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1153200946740174848/X4RlVPAc_400x400.png" group-title="28- PREMIUM LATINO",Paramount (5)
 http://tv-prime.tv:8080/live/SANTIAGOCELI2020/G5QKdrgSZ6/862.rtmp
 
 #EXTINF:-1 tvg-logo="https://www.totalplay.com.mx/images/logos/canales/entretenimiento/canal-sony.png" group-title="28- PREMIUM LATINO",Sony LAT (1)
 http://tv5full.xyz:25461/live/jesuschoque/12345/1545.ts
-
-#EXTINF:-1 tvg-logo="https://www.totalplay.com.mx/images/logos/canales/entretenimiento/canal-sony.png" group-title="28- PREMIUM LATINO",Sony LAT (1)
-http://tv5full.xyz:25461/live/Linea4/Isnfbsjk/1567.ts
 
 #EXTINF:-1 tvg-logo="https://www.totalplay.com.mx/images/logos/canales/entretenimiento/canal-sony.png" group-title="28- PREMIUM LATINO",Sony LAT (2)
 http://tv-prime.tv:8080/live/o2QiLZ1ps9/xneqrrPm3l/860.m3u8
@@ -2826,19 +2672,16 @@ http://186.103.228.50:8000/play/a026
 http://200.73.59.84:8000/play/a026
 
 #EXTINF:-1 tvg-logo="https://gartel.es/canales/tcm.png" group-title="28- PREMIUM LATINO",Tcm (1)
-http://tv5full.xyz:25461/live/jesuschoque/12345/1553.ts
-
-#EXTINF:-1 tvg-logo="https://gartel.es/canales/tcm.png" group-title="28- PREMIUM LATINO",Tcm (1)
 http://tv5full.xyz:25461/live/jesuschoque/12345/1554.ts
 
 #EXTINF:-1 tvg-logo="https://gartel.es/canales/tcm.png" group-title="28- PREMIUM LATINO",Tcm (2)
 http://tv-prime.tv:8080/live/o2QiLZ1ps9/xneqrrPm3l/886.m3u8
 
 #EXTINF:-1 tvg-logo="https://gartel.es/canales/tcm.png" group-title="28- PREMIUM LATINO",Tcm (3)
-http://tv5full.xyz:25461/live/DeiVidChiPaNa/MaMaNi/1553.ts
+http://tv5full.xyz:25461/live/DeiVidChiPaNa/MaMaNi/1554.ts
 
 #EXTINF:-1 tvg-logo="https://gartel.es/canales/tcm.png" group-title="28- PREMIUM LATINO",Tcm (4)
-http://tv5full.xyz:25461/live/Marjorie.ceballos/TeEpgnEFB8/1553.ts
+http://tv5full.xyz:25461/live/Marjorie.ceballos/TeEpgnEFB8/1554.ts
 
 #EXTINF:-1 tvg-logo="https://gartel.es/canales/tcm.png" group-title="28- PREMIUM LATINO",Tcm (5)
 http://tv-prime.tv:8080/live/SANTIAGOCELI2020/G5QKdrgSZ6/886.rtmp
@@ -2850,19 +2693,16 @@ http://186.103.228.50:8000/play/a01s
 http://200.73.59.84:8000/play/a01s
 
 #EXTINF:-1 tvg-logo="http://mareatvcable.com/wp-content/uploads/2017/12/44-tntlogo.png" group-title="28- PREMIUM LATINO",Tnt LAT (1)
-http://tv5full.xyz:25461/live/jesuschoque/12345/1555.ts
-
-#EXTINF:-1 tvg-logo="http://mareatvcable.com/wp-content/uploads/2017/12/44-tntlogo.png" group-title="28- PREMIUM LATINO",Tnt LAT (1)
 http://tv5full.xyz:25461/live/jesuschoque/12345/1556.ts
 
 #EXTINF:-1 tvg-logo="http://mareatvcable.com/wp-content/uploads/2017/12/44-tntlogo.png" group-title="28- PREMIUM LATINO",Tnt LAT (2)
 http://tv-prime.tv:8080/live/o2QiLZ1ps9/xneqrrPm3l/855.m3u8
 
 #EXTINF:-1 tvg-logo="http://mareatvcable.com/wp-content/uploads/2017/12/44-tntlogo.png" group-title="28- PREMIUM LATINO",Tnt LAT (3)
-http://tv5full.xyz:25461/live/DeiVidChiPaNa/MaMaNi/1555.ts
+http://tv5full.xyz:25461/live/DeiVidChiPaNa/MaMaNi/1556.ts
 
 #EXTINF:-1 tvg-logo="http://mareatvcable.com/wp-content/uploads/2017/12/44-tntlogo.png" group-title="28- PREMIUM LATINO",Tnt LAT (4)
-http://tv5full.xyz:25461/live/Marjorie.ceballos/TeEpgnEFB8/1555.ts
+http://tv5full.xyz:25461/live/Marjorie.ceballos/TeEpgnEFB8/1556.ts
 
 #EXTINF:-1 tvg-logo="http://mareatvcable.com/wp-content/uploads/2017/12/44-tntlogo.png" group-title="28- PREMIUM LATINO",Tnt LAT (5)
 http://tv-prime.tv:8080/live/SANTIAGOCELI2020/G5QKdrgSZ6/855.rtmp
@@ -3001,12 +2841,6 @@ http://lista.serverpower.me:80/William/William/37069
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Al6Y2.png" group-title="29- PREMIUM BRASIL",Fox BR (4)
 http://lista.serverpower.me:80/Julia/Julia/37069
 
-#EXTINF:-1 tvg-logo="http://neurads.com/wp-content/uploads/foxlife-2.png" group-title="29- PREMIUM BRASIL",Fox Life (1)
-http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/37081
-
-#EXTINF:-1 tvg-logo="http://neurads.com/wp-content/uploads/foxlife-2.png" group-title="29- PREMIUM BRASIL",Fox Life (2)
-http://lista.serverpower.me:80/smart1/smart1/37081
-
 #EXTINF:-1 tvg-logo="http://neurads.com/wp-content/uploads/foxlife-2.png" group-title="29- PREMIUM BRASIL",Fox Life (3)
 http://lista.serverpower.me:80/William/William/37081
 
@@ -3142,17 +2976,8 @@ http://lista.serverpower.me:80/William/William/37052
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1153200946740174848/X4RlVPAc_400x400.png" group-title="29- PREMIUM BRASIL",Paramount (4)
 http://lista.serverpower.me:80/Julia/Julia/37052
 
-#EXTINF:-1 tvg-logo="https://www.totalplay.com.mx/images/logos/canales/entretenimiento/canal-sony.png" group-title="29- PREMIUM BRASIL",Sony (1)
-http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/46835
-
-#EXTINF:-1 tvg-logo="https://www.totalplay.com.mx/images/logos/canales/entretenimiento/canal-sony.png" group-title="29- PREMIUM BRASIL",Sony (2)
-http://lista.serverpower.me:80/smart1/smart1/46835
-
-#EXTINF:-1 tvg-logo="https://www.totalplay.com.mx/images/logos/canales/entretenimiento/canal-sony.png" group-title="29- PREMIUM BRASIL",Sony (3)
-http://lista.serverpower.me:80/William/William/46835
-
-#EXTINF:-1 tvg-logo="https://www.totalplay.com.mx/images/logos/canales/entretenimiento/canal-sony.png" group-title="29- PREMIUM BRASIL",Sony (4)
-http://lista.serverpower.me:80/Julia/Julia/46835
+#EXTINF:-1 tvg-logo="https://www.totalplay.com.mx/images/logos/canales/entretenimiento/canal-sony.png" group-title="29- PREMIUM BRASIL",Sony⁻ᴼᶠᶠ⁻
+http://
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8.png" group-title="29- PREMIUM BRASIL",Space (1)
 http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/37037
@@ -3341,7 +3166,7 @@ http://antena1.newradio.it/stream?1519462006844
 #######################################
 ######################################################################################################################################
 
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/concert_channel_hd-mediano.png" group-title="30- VARIEDADES LATINO",Concert Channel -OFF-
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/concert_channel_hd-mediano.png" group-title="30- VARIEDADES LATINO",Concert Channel⁻ᴼᶠᶠ⁻
 http://
 
 #EXTINF:-1 tvg-logo="https://www.bellmedia.ca/wp-content/uploads/2014/02/tv1_e-490x490.png" group-title="30- VARIEDADES LATINO",E! (2)
@@ -3389,14 +3214,8 @@ http://tv-prime.tv:8080/live/o2QiLZ1ps9/xneqrrPm3l/994.m3u8
 #EXTINF:-1 tvg-logo="https://bestofsno.com/wp-content/uploads/2019/03/3.18-culinary.png" group-title="30- VARIEDADES LATINO",Food Network (5)
 http://tv-prime.tv:8080/live/SANTIAGOCELI2020/G5QKdrgSZ6/994.rtmp
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/22/53/ef/2253eff0b7164502c402c73e98ef9417.png" group-title="30- VARIEDADES LATINO",Glitz (1)
-http://tv5full.xyz:25461/live/jesuschoque/12345/1265.ts
-
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/22/53/ef/2253eff0b7164502c402c73e98ef9417.png" group-title="30- VARIEDADES LATINO",Glitz (2)
 http://tv-prime.tv:8080/live/o2QiLZ1ps9/xneqrrPm3l/528.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/22/53/ef/2253eff0b7164502c402c73e98ef9417.png" group-title="30- VARIEDADES LATINO",Glitz (4)
-http://tv5full.xyz:25461/live/Marjorie.ceballos/TeEpgnEFB8/1265.ts
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/22/53/ef/2253eff0b7164502c402c73e98ef9417.png" group-title="30- VARIEDADES LATINO",Glitz (5)
 http://tv-prime.tv:8080/live/SANTIAGOCELI2020/G5QKdrgSZ6/528.rtmp
@@ -3421,15 +3240,6 @@ http://tv-prime.tv:8080/live/SANTIAGOCELI2020/G5QKdrgSZ6/983.rtmp
 
 #EXTINF:-1 tvg-logo="https://www.totalplay.com.mx/images/logos/canales/entretenimiento/mas-chic.png" group-title="30- VARIEDADES LATINO",Mas Chic (4)
 
-
-#EXTINF:-1 tvg-logo="https://www.trzcacak.rs/myfile/detail/303-3036839_mtv-music-television-logo-vector-mtv-logo-vector.png" group-title="30- VARIEDADES LATINO",Mtv (2)
-http://tv-prime.tv:8080/live/o2QiLZ1ps9/xneqrrPm3l/224.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.trzcacak.rs/myfile/detail/303-3036839_mtv-music-television-logo-vector-mtv-logo-vector.png" group-title="30- VARIEDADES LATINO",Mtv (4)
-
-
-#EXTINF:-1 tvg-logo="https://www.trzcacak.rs/myfile/detail/303-3036839_mtv-music-television-logo-vector-mtv-logo-vector.png" group-title="30- VARIEDADES LATINO",Mtv (5)
-http://tv-prime.tv:8080/live/SANTIAGOCELI2020/G5QKdrgSZ6/224.rtmp
 
 #EXTINF:-1 tvg-logo="https://www.trzcacak.rs/myfile/detail/303-3036839_mtv-music-television-logo-vector-mtv-logo-vector.png" group-title="30- VARIEDADES LATINO",Mtv (CHI)
 http://186.103.228.50:8000/play/a01o
@@ -3464,26 +3274,14 @@ http://tv-prime.tv:8080/live/o2QiLZ1ps9/xneqrrPm3l/171.m3u8
 #EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2011/09/c0552-sundancetv-la.png" group-title="30- VARIEDADES LATINO",Sundance (5)
 http://tv-prime.tv:8080/live/SANTIAGOCELI2020/G5QKdrgSZ6/171.rtmp
 
-#EXTINF:-1 tvg-logo="http://afiliados.televisa-networks.com/wp-content/uploads/2017/07/televisa-afiliados-telehit-logo.jpg" group-title="30- VARIEDADES LATINO",Telehit (1)
-http://tv5full.xyz:25461/live/jesuschoque/12345/1219.ts
-
 #EXTINF:-1 tvg-logo="http://afiliados.televisa-networks.com/wp-content/uploads/2017/07/televisa-afiliados-telehit-logo.jpg" group-title="30- VARIEDADES LATINO",Telehit (2)
 http://tv-prime.tv:8080/live/o2QiLZ1ps9/xneqrrPm3l/239.m3u8
-
-#EXTINF:-1 tvg-logo="http://afiliados.televisa-networks.com/wp-content/uploads/2017/07/televisa-afiliados-telehit-logo.jpg" group-title="30- VARIEDADES LATINO",Telehit (4)
-http://tv5full.xyz:25461/live/Marjorie.ceballos/TeEpgnEFB8/1219.ts
 
 #EXTINF:-1 tvg-logo="http://afiliados.televisa-networks.com/wp-content/uploads/2017/07/televisa-afiliados-telehit-logo.jpg" group-title="30- VARIEDADES LATINO",Telehit (5)
 http://tv-prime.tv:8080/live/SANTIAGOCELI2020/G5QKdrgSZ6/239.rtmp
 
-#EXTINF:-1 tvg-logo="https://tvnotiblog.com/wp-content/uploads/2012/04/trutv.png" group-title="30- VARIEDADES LATINO",Trutv (1)
-http://tv5full.xyz:25461/live/jesuschoque/12345/1493.ts
-
 #EXTINF:-1 tvg-logo="https://tvnotiblog.com/wp-content/uploads/2012/04/trutv.png" group-title="30- VARIEDADES LATINO",Trutv (2)
 http://tv-prime.tv:8080/live/o2QiLZ1ps9/xneqrrPm3l/988.m3u8
-
-#EXTINF:-1 tvg-logo="https://tvnotiblog.com/wp-content/uploads/2012/04/trutv.png" group-title="30- VARIEDADES LATINO",Trutv (4)
-http://tv5full.xyz:25461/live/Marjorie.ceballos/TeEpgnEFB8/1493.ts
 
 #EXTINF:-1 tvg-logo="https://tvnotiblog.com/wp-content/uploads/2012/04/trutv.png" group-title="30- VARIEDADES LATINO",Trutv (5)
 http://tv-prime.tv:8080/live/SANTIAGOCELI2020/G5QKdrgSZ6/988.rtmp
@@ -3561,17 +3359,8 @@ http://lista.serverpower.me:80/William/William/37034
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/fashion-tv-logo-png-3.png" group-title="31- VARIEDADES BRASIL",Fashion TV (4)
 http://lista.serverpower.me:80/Julia/Julia/37034
 
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/film_and_arts-mediano.png" group-title="31- VARIEDADES BRASIL",Film & Arts (1)
-http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/46841
-
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/film_and_arts-mediano.png" group-title="31- VARIEDADES BRASIL",Film & Arts (2)
-http://lista.serverpower.me:80/smart1/smart1/46841
-
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/film_and_arts-mediano.png" group-title="31- VARIEDADES BRASIL",Film & Arts (3)
-http://lista.serverpower.me:80/William/William/46841
-
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/film_and_arts-mediano.png" group-title="31- VARIEDADES BRASIL",Film & Arts (4)
-http://lista.serverpower.me:80/Julia/Julia/46841
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/film_and_arts-mediano.png" group-title="31- VARIEDADES BRASIL",Film & Arts⁻ᴼᶠᶠ⁻
+http://
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_fishtv_m.png" group-title="31- VARIEDADES BRASIL",Fish TV (1)
 http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/37126
@@ -3790,14 +3579,8 @@ http://tv-prime.tv:8080/live/o2QiLZ1ps9/xneqrrPm3l/55.m3u8
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/boing-logo-png.png" group-title="32- INFANTIL LATINO",Boing (5)
 http://tv-prime.tv:8080/live/SANTIAGOCELI2020/G5QKdrgSZ6/55.rtmp
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_boomerang-cartoon_m.png" group-title="32- INFANTIL LATINO",Boomerang (1)
-http://tv5full.xyz:25461/live/jesuschoque/12345/1458.ts
-
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_boomerang-cartoon_m.png" group-title="32- INFANTIL LATINO",Boomerang (2)
 http://tv-prime.tv:8080/live/o2QiLZ1ps9/xneqrrPm3l/1068.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_boomerang-cartoon_m.png" group-title="32- INFANTIL LATINO",Boomerang (4)
-http://tv5full.xyz:25461/live/Marjorie.ceballos/TeEpgnEFB8/1458.ts
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_boomerang-cartoon_m.png" group-title="32- INFANTIL LATINO",Boomerang (5)
 http://tv-prime.tv:8080/live/SANTIAGOCELI2020/G5QKdrgSZ6/1068.rtmp
@@ -3919,14 +3702,8 @@ http://186.103.228.50:8000/play/a01t
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/natgeo-kids-logo-01.png" group-title="32- INFANTIL LATINO",Nat Geo Kids (MEX)
 http://200.73.59.84:8000/play/a01t
 
-#EXTINF:-1 tvg-logo="https://www.e-channel.ec/blog/wp-content/uploads/2015/09/NICK.png" group-title="32- INFANTIL LATINO",Nick LAT (1)
-http://tv5full.xyz:25461/live/jesuschoque/12345/1462.ts
-
 #EXTINF:-1 tvg-logo="https://www.e-channel.ec/blog/wp-content/uploads/2015/09/NICK.png" group-title="32- INFANTIL LATINO",Nick LAT (2)
 http://tv-prime.tv:8080/live/o2QiLZ1ps9/xneqrrPm3l/1094.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.e-channel.ec/blog/wp-content/uploads/2015/09/NICK.png" group-title="32- INFANTIL LATINO",Nick LAT (4)
-http://tv5full.xyz:25461/live/Marjorie.ceballos/TeEpgnEFB8/1462.ts
 
 #EXTINF:-1 tvg-logo="https://www.e-channel.ec/blog/wp-content/uploads/2015/09/NICK.png" group-title="32- INFANTIL LATINO",Nick LAT (5)
 http://tv-prime.tv:8080/live/SANTIAGOCELI2020/G5QKdrgSZ6/1094.rtmp
@@ -3976,8 +3753,8 @@ http://tv5full.xyz:25461/live/Marjorie.ceballos/TeEpgnEFB8/1463.ts
 #EXTINF:-1 tvg-logo="http://www.arrecifesciudad.com/muluni/imagenes/logos-tv/nicktoons.png" group-title="32- INFANTIL LATINO",NickToons (5)
 http://tv-prime.tv:8080/live/SANTIAGOCELI2020/G5QKdrgSZ6/1058.rtmp
 
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/Paka-Paka.png" group-title="32- INFANTIL LATINO",Paka Paka
-http://mylatinotv.com:25461/live/MOrrBfUvEe/1osDE1dIpF/14211.rtmp
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/Paka-Paka.png" group-title="32- INFANTIL LATINO",Paka Paka⁻ᴼᶠᶠ⁻
+http://
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_tiin_m.png" group-title="32- INFANTIL LATINO",Tiin⁻ᴼᶠᶠ⁻
 http://
@@ -4638,8 +4415,8 @@ http://mixaac.crossradio.com.br:1100/live
 #######################################
 ######################################################################################################################################
 
-#EXTINF:-1 tvg-logo="https://startvmexico.com/wp-content/uploads/2018/10/INGENIO.jpg" group-title="40- EDUCATIVOS",Ingenio TV²
-http://mylatinotv.com:25461/live/MOrrBfUvEe/1osDE1dIpF/81707.rtmp
+#EXTINF:-1 tvg-logo="https://startvmexico.com/wp-content/uploads/2018/10/INGENIO.jpg" group-title="40- EDUCATIVOS",Ingenio TV⁻ᴼᶠᶠ⁻
+http://
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CkGoWvx.png" group-title="40- EDUCATIVOS",Aprende Tv⁻ᴼᶠᶠ⁻
 http://
@@ -4653,8 +4430,8 @@ http://
 #EXTINF:-1 tvg-logo="https://t1.kn3.net/taringa/C/8/B/4/8/F/gabriel1194/E10.png" group-title="40- EDUCATIVOS",Tec TV⁻ᴼᶠᶠ⁻
 http://
 
-#EXTINF:-1 tvg-logo="https://www.redtal.tv/image/145xa91f2/tv-escola.png" group-title="40- EDUCATIVOS",Tv Escola⁽ᵃˡᵗ⁾
-http://144.217.7.203:25461/red/red/41
+#EXTINF:-1 tvg-logo="https://www.redtal.tv/image/145xa91f2/tv-escola.png" group-title="40- EDUCATIVOS",Tv Escola⁻ᴼᶠᶠ⁻
+http://
 
 ######################################################################################################################################
 ####################################### DEPORTES LATINO
@@ -4702,14 +4479,8 @@ http://200.73.59.84:8000/play/a013
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_cdf-premium_m.png" group-title="41- DEPORTES LATINO",Cdf Premium (MEX)
 http://200.73.59.84:8000/play/a00m
 
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/06/cdo.png" group-title="41- DEPORTES LATINO",Cdo (2)
-http://tv-prime.tv:8080/live/o2QiLZ1ps9/xneqrrPm3l/5408.m3u8
-
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/06/cdo.png" group-title="41- DEPORTES LATINO",Cdo (4)
-
-
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/06/cdo.png" group-title="41- DEPORTES LATINO",Cdo (5)
-http://tv-prime.tv:8080/live/SANTIAGOCELI2020/G5QKdrgSZ6/5408.rtmp
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/06/cdo.png" group-title="41- DEPORTES LATINO",Cdo⁻ᴼᶠᶠ⁻
+http://
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/06/cdo.png" group-title="41- DEPORTES LATINO",Cdo Premium (2)
 http://tv-prime.tv:8080/live/o2QiLZ1ps9/xneqrrPm3l/1840.m3u8
@@ -4735,7 +4506,7 @@ http://186.103.228.50:8000/play/a01w
 #EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/claro-sports.png" group-title="41- DEPORTES LATINO",Claro Sports (MEX)
 http://200.73.59.84:8000/play/a01w
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TifsGlB.png" group-title="41- DEPORTES LATINO",Claro Sports 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TifsGlB.png" group-title="41- DEPORTES LATINO",Claro Sports 2⁻ᴼᶠᶠ⁻
 http://
 
 #EXTINF:-1 tvg-logo="http://inda.tv/wp-content/uploads/2018/09/deportv1.jpg" group-title="41- DEPORTES LATINO",Deportv (2)
@@ -4834,7 +4605,7 @@ http://tv-prime.tv:8080/live/o2QiLZ1ps9/xneqrrPm3l/1794.m3u8
 #EXTINF:-1 tvg-logo="https://imgs.clipartwiki.com/clipimg/small/121-1216642_mls-live-on-espn-espn-logo.png" group-title="41- DEPORTES LATINO",Espn Plus (5)
 http://tv-prime.tv:8080/live/SANTIAGOCELI2020/G5QKdrgSZ6/1794.rtmp
 
-#EXTINF:-1 tvg-logo="https://www.directv.com/images/logos/channels/dark/large/462.png" group-title="41- DEPORTES LATINO",Espn Deportes
+#EXTINF:-1 tvg-logo="https://www.directv.com/images/logos/channels/dark/large/462.png" group-title="41- DEPORTES LATINO",Espn Deportes⁻ᴼᶠᶠ⁻
 http://
 
 #EXTINF:-1 tvg-logo="https://www.effectv.com/sites/default/files/networks/FOX_Deportes.png" group-title="41- DEPORTES LATINO",Fox Deportes (2)
@@ -4954,14 +4725,8 @@ http://tv-prime.tv:8080/live/o2QiLZ1ps9/xneqrrPm3l/1820.m3u8
 #EXTINF:-1 tvg-logo="https://ayuda.tigo.co.cr/hc/article_attachments/360037602474/tigo_sports.png" group-title="41- DEPORTES LATINO",Tigo Sports (5) Bol
 http://tv-prime.tv:8080/live/SANTIAGOCELI2020/G5QKdrgSZ6/1820.rtmp
 
-#EXTINF:-1 tvg-logo="http://televisiongratisenvivo.com/wp-content/uploads/2019/03/TIGO-SPORTS-COSTA-RICA-EN-VIVO-ONLINE-LIVE-EN-DIRECTO.png" group-title="41- DEPORTES LATINO",Tigo Sports (2) C.Rica
-http://tv-prime.tv:8080/live/o2QiLZ1ps9/xneqrrPm3l/1818.m3u8
-
-#EXTINF:-1 tvg-logo="http://televisiongratisenvivo.com/wp-content/uploads/2019/03/TIGO-SPORTS-COSTA-RICA-EN-VIVO-ONLINE-LIVE-EN-DIRECTO.png" group-title="41- DEPORTES LATINO",Tigo Sports (4) C.Rica
-
-
-#EXTINF:-1 tvg-logo="http://televisiongratisenvivo.com/wp-content/uploads/2019/03/TIGO-SPORTS-COSTA-RICA-EN-VIVO-ONLINE-LIVE-EN-DIRECTO.png" group-title="41- DEPORTES LATINO",Tigo Sports (5) C.Rica
-http://tv-prime.tv:8080/live/SANTIAGOCELI2020/G5QKdrgSZ6/1818.rtmp
+#EXTINF:-1 tvg-logo="http://televisiongratisenvivo.com/wp-content/uploads/2019/03/TIGO-SPORTS-COSTA-RICA-EN-VIVO-ONLINE-LIVE-EN-DIRECTO.png" group-title="41- DEPORTES LATINO",Tigo Sports⁻ᴼᶠᶠ⁻ C.Rica
+http://
 
 #EXTINF:-1 tvg-logo="https://ayuda.tigo.co.cr/hc/article_attachments/360037602474/tigo_sports.png" group-title="41- DEPORTES LATINO",Tigo Sports (2) Par
 http://tv-prime.tv:8080/live/o2QiLZ1ps9/xneqrrPm3l/1819.m3u8
@@ -5005,14 +4770,8 @@ http://tv-prime.tv:8080/live/SANTIAGOCELI2020/G5QKdrgSZ6/1813.rtmp
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_tyc-sports-hd_m.png" group-title="41- DEPORTES LATINO",TyC (2)
 http://tv-prime.tv:8080/live/o2QiLZ1ps9/xneqrrPm3l/17274.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_tyc-sports-hd_m.png" group-title="41- DEPORTES LATINO",TyC (4)
-
-
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_tyc-sports-hd_m.png" group-title="41- DEPORTES LATINO",TyC (5)
 http://tv-prime.tv:8080/live/SANTIAGOCELI2020/G5QKdrgSZ6/17274.rtmp
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_tyc-sports-hd_m.png" group-title="41- DEPORTES LATINO",TyC (CHI)
-http://186.103.228.50:8000/play/a001
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_tyc-sports-hd_m.png" group-title="41- DEPORTES LATINO",TyC (MEX)
 http://200.73.59.84:8000/play/a00l
@@ -5020,17 +4779,8 @@ http://200.73.59.84:8000/play/a00l
 #EXTINF:-1 tvg-logo="http://www.logoteca.uy/uploads/imagenes/file_2da07aaf6d.png" group-title="41- DEPORTES LATINO",VTV URU⁻ˢᵈ⁻
 http://trinity-lh.akamaihd.net/i/GolTVModel4A_d@422865/index_500_av-p.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.logoteca.uy/uploads/imagenes/file_2da07aaf6d.png" group-title="41- DEPORTES LATINO",VTV URU (2)
-http://tv-prime.tv:8080/live/o2QiLZ1ps9/xneqrrPm3l/1805.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.logoteca.uy/uploads/imagenes/file_2da07aaf6d.png" group-title="41- DEPORTES LATINO",VTV URU (4)
-
-
 #EXTINF:-1 tvg-logo="http://www.logoteca.uy/uploads/imagenes/file_2da07aaf6d.png" group-title="41- DEPORTES LATINO",VTV URU (5)
 http://tv-prime.tv:8080/live/SANTIAGOCELI2020/G5QKdrgSZ6/1805.rtmp
-
-#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2018_04/large.5ac30d68dee4e_VTVUtuguay.png.821948d652e1b27afa5cf5c7a71dba78.png" group-title="41- DEPORTES LATINO",VTV Plus (2)
-http://tv-prime.tv:8080/live/o2QiLZ1ps9/xneqrrPm3l/17333.m3u8
 
 #EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2018_04/large.5ac30d68dee4e_VTVUtuguay.png.821948d652e1b27afa5cf5c7a71dba78.png" group-title="41- DEPORTES LATINO",VTV Plus (5)
 http://tv-prime.tv:8080/live/SANTIAGOCELI2020/G5QKdrgSZ6/17333.rtmp
@@ -5178,8 +4928,8 @@ http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/p
 #######################################
 ######################################################################################################################################
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ae/AbuDhabiSports1.ae.png" group-title="43- DEPORTES INTERNACIONAL",Abu Dhabi Sports 1⁻ˢᵈ⁻
-http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8?GrupoTopIptv
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ae/AbuDhabiSports1.ae.png" group-title="43- DEPORTES INTERNACIONAL",Abu Dhabi Sports 1⁻ᴼᶠᶠ⁻
+http://
 
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-QnsbGgKZh98/Vk9aSUtu0YI/AAAAAAAAC28/GQGb4b9vmuk/s1600/BeinSportHDusa.png" group-title="43- DEPORTES INTERNACIONAL",Bein Eng⁻ᴼᶠᶠ⁻
 http://
@@ -5248,7 +4998,7 @@ http://stm41.srvstm.com:12648/live.mp3
 #######################################
 ######################################################################################################################################
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/879677753645309952/G2vqlMxX_400x400.jpg" group-title="44- MUSICA",1 Music Channel *OFF*
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/879677753645309952/G2vqlMxX_400x400.jpg" group-title="44- MUSICA",1 Music Channel⁻ᴼᶠᶠ⁻
 http://
 
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s10749d.png" group-title="44- MUSICA",88 Stereo⁻ˢᵈ⁻
@@ -5260,8 +5010,8 @@ http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/playlist.m3u8?Gru
 #EXTINF:-1 tvg-logo="https://www.freeetv.com/images/01_logo/hit_tv.jpg" group-title="44- MUSICA",H!T Music Channel⁻ᴼᶠᶠ⁻
 http://
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l79_BfoNGeCuxTFKtegzZbfjhz6Sx_dC-s9llQ=s240-mo-c-c0xffffffff-rj-k-no" group-title="44- MUSICA",Q-Music
-http://ch.iptvmate.net/03310815e12a181733532f7ccea0289e.m3u8?GrupoTopIptv
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l79_BfoNGeCuxTFKtegzZbfjhz6Sx_dC-s9llQ=s240-mo-c-c0xffffffff-rj-k-no" group-title="44- MUSICA",Q-Music⁻ᴼᶠᶠ⁻
+http://
 
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71FYUSjvHLL._SY355_.png" group-title="44- MUSICA",Latinos Up⁻ˢᵈ⁻
 https://5b38ce71f1f00.streamlock.net/8080/8080/chunklist_w956830983.m3u8?GrupoTopIptv
@@ -5269,8 +5019,8 @@ https://5b38ce71f1f00.streamlock.net/8080/8080/chunklist_w956830983.m3u8?GrupoTo
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Radio_m2o_-_Logo_2019.svg/1200px-Radio_m2o_-_Logo_2019.svg.png" group-title="44- MUSICA",M2O⁻ˢᵈ⁻
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on?GrupoTopIptv
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/Music_Choice_logo.png" group-title="44- MUSICA",Music Choice
-http://mylatinotv.com:25461/live/MOrrBfUvEe/1osDE1dIpF/109929.rtmp
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/Music_Choice_logo.png" group-title="44- MUSICA",Music Choice⁻ᴼᶠᶠ⁻
+http://
 
 #EXTINF:-1 tvg-logo="https://telecentro.com.ar/cm/channels/musictop.png" group-title="44- MUSICA",Music Top⁻ˢᵈ⁻
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w538311571_b364000_sleng.m3u8?GrupoTopIptv
