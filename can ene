@@ -28,20 +28,41 @@ http://
 #EXTINF:-1 tvg-logo="http://futbolhoy.com.ar/wp-content/uploads/2019/03/A24.png" group-title="03- ARGENTINA",A24⁻ᴼᶠᶠ⁻
 http://
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/684035098228948992/SHdn39ah_400x400.jpg" group-title="03- ARGENTINA",Acqua⁻ˢᵈ⁻
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0071
+
 #EXTINF:-1 tvg-logo="http://www.radionacional.gov.py/wp-content/uploads/2018/04/ar_america-2-capital_m.png" group-title="03- ARGENTINA",America TV⁻ᴼᶠᶠ⁻
 http://
 
 #EXTINF:-1 tvg-logo="https://tvonlinegratis.com/wp-content/uploads/2014/08/13MaxTV-Logo.jpg" group-title="03- ARGENTINA",13 Max⁻ˢᵈ⁻
 http://coninfo.net:1935/13maxhd/live_720p/chunklist.m3u8?GrupoTopIptv
 
+#EXTINF:-1 tvg-logo="https://vivotvhd.com/img/cha/807.gif" group-title="03- ARGENTINA",BVC⁻ˢᵈ⁻
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0062
+
 #EXTINF:-1 tvg-logo="http://www.lapostanoticias.com.ar/wp-content/uploads/2018/03/C5N_logo_1color_SinBajada-01-2.jpg" group-title="03- ARGENTINA",C5N⁻ᴼᶠᶠ⁻
 http://
+
+#EXTINF:-1 tvg-logo=" " group-title="03- ARGENTINA",Canal 2 Digital⁻ˢᵈ⁻
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0109
+
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-3-Pinamar.png" group-title="03- ARGENTINA",Canal 3 Pinamar⁻ˢᵈ⁻
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0088
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/732661005952618496/5pxo5q9h_400x400.jpg" group-title="03- ARGENTINA",Canal 4 Jujuy⁻ˢᵈ⁻
 http://190.52.32.13:1935/canal4/smil:manifest.smil/playlist.m3u8?GrupoTopIptv
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JqIPc.png" group-title="03- ARGENTINA",Canal 4 La Matanza⁻ˢᵈ⁻
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0056
+
 #EXTINF:-1 tvg-logo="http://www.canal4sanjuan.com.ar/movil/reproductor/canal4sanjuan.jpg" group-title="03- ARGENTINA",Canal 4 San Juan⁻ᴼᶠᶠ⁻
 http://
+
+#EXTINF:-1 tvg-logo="https://www.freeetv.com/images/reydddd/6mdp.jpg" group-title="03- ARGENTINA",Canal 6 Mar del Plata⁻ˢᵈ⁻
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0073
+
+#EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2009/07/5560d-resistencia-c9.png" group-title="03- ARGENTINA",Canal 9 Chaco⁻ˢᵈ⁻
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0099
 
 #EXTINF:-1 tvg-logo="http://partidodelatierra.org/wp-content/uploads/2016/10/9comodoro.jpg" group-title="03- ARGENTINA",Canal 9 Comodoro Rivadavia⁻ˢᵈ⁻
 http://live.canalnueve.tv/canal.m3u8?GrupoTopIptv
@@ -52,6 +73,12 @@ http://
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/09/Canal-10-C%C3%B3rdoba-en-vivo-Online.png" group-title="03- ARGENTINA",Canal 10 Cordoba⁻ˢᵈ⁻
 http://wowzaprod169-i.akamaihd.net/hls/live/630337/59e4c1ec/playlist.m3u8?GrupoTopIptv
 
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/09/Canal-10-C%C3%B3rdoba-en-vivo-Online.png" group-title="03- ARGENTINA",Canal 10 TVP⁻ˢᵈ⁻
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0108
+
+#EXTINF:-1 tvg-logo=" " group-title="03- ARGENTINA",Canal 10 GRAL ROCA⁻ˢᵈ⁻
+https://59c5c86e10038.streamlock.net/8204/8204/chunklist_w47008160.m3u8
+
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7e/Tv-rionegrina-lu92-tv-canal-10-logo.png" group-title="03- ARGENTINA",Canal 10 Rio Negro⁻ˢᵈ⁻
 http://panel.dattalive.com:1935/8204/8204/playlist.m3u8?GrupoTopIptv
 
@@ -61,19 +88,40 @@ http://live-edge01.telecentro.net.ar/live/26hd-360/playlist.m3u8?GrupoTopIptv
 #EXTINF:-1 tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/3.png" group-title="03- ARGENTINA",Canal 26⁻ˢᵈ⁻
 http://200.115.193.177/live/26hd-720/.m3u8?GrupoTopIptv
 
+#EXTINF:-1 tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/3.png" group-title="03- ARGENTINA",Canal 26⁻ˢᵈ⁻
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0036
+
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-79-Mar-de-Plata.png" group-title="03- ARGENTINA",Canal 79⁻ˢᵈ⁻
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0075
+
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_ciudad-abierta_m.png" group-title="03- ARGENTINA",Canal de la Ciudad⁻ᴼᶠᶠ⁻
 http://
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/canal-local-324x160.png" group-title="03- ARGENTINA",Canal Local Buenos Aires⁻ˢᵈ⁻
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0089?GrupoTopIptv
 
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/canal-local-324x160.png" group-title="03- ARGENTINA",Canal Local Buenos Aires⁻ˢᵈ⁻
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0081
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1017835856411971584/Q2dVZVUA_400x400.jpg" group-title="03- ARGENTINA",Canal Provincial⁻ˢᵈ⁻
 http://www.trimi.com.ar/provincial/streaming/mystream.m3u8?GrupoTopIptv
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1017835856411971584/Q2dVZVUA_400x400.jpg" group-title="03- ARGENTINA",Canal Provincial⁻ˢᵈ⁻
+http://www.trimi.com.ar/provincial/streaming/mystreamProvincialHSMed.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1204377212348186627/XEPjlkpm_400x400.jpg" group-title="03- ARGENTINA",CHTV⁻ˢᵈ⁻
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0100
+
+#EXTINF:-1 tvg-logo="https://canal5tigretv.com.ar/download/multimedia.normal.aeae3db3ae515888.4c4f474f20545749545445522030315f6e6f726d616c2e706e67.png" group-title="03- ARGENTINA",Cinco TV⁻ˢᵈ⁻
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0059
 
 #EXTINF:-1 tvg-logo="http://www.cableaudiovision.com.ar/grilla-web/canales/ciudadmagazine.png" group-title="03- ARGENTINA",Ciudad Magazine⁻ᴼᶠᶠ⁻
 http://
 
-#EXTINF:-1 tvg-logo="http://www.ciudadtv.com.ar/es/images/logo.png" group-title="03- ARGENTINA",Ciudad TV Chaco⁻ˢᵈ⁻
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/969209126470455297/vLw5LpAB_400x400.jpg" group-title="03- ARGENTINA",Ciudad TV Chaco⁻ˢᵈ⁻
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0098
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/969209126470455297/vLw5LpAB_400x400.jpg" group-title="03- ARGENTINA",Ciudad TV Chaco⁻ˢᵈ⁻
 http://coninfo.net:1935/chacodxdtv/live/chunklist_w1251301598.m3u8?GrupoTopIptv
 
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-uRO7cQF9i4g/XCKOsAGqYZI/AAAAAAAAB1U/icLyv19C1g0ksCUbC2GqnSqrbHzsdTbJACLcBGAs/w1200-h630-p-k-no-nu/cl3-argentina.jpg" group-title="03- ARGENTINA",CL3⁻ˢᵈ⁻
@@ -103,6 +151,9 @@ http://
 #EXTINF:-1 tvg-logo="http://ipuntotv.com/IMAGES/ElTreceHD2012.jpg" group-title="03- ARGENTINA",El Trece Internacional⁻ᴼᶠᶠ⁻
 http://
 
+#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLmdlbnR2b2ZpY2lhbF9zY3JlZW5fMF8xNTQ4MDQ4OTUzXzA2MQ/screen-0.jpg?fakeurl=1&type=.jpg" group-title="03- ARGENTINA",Gen TV⁻ˢᵈ⁻
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0030
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1171440347508920320/7pwThQbq_400x400.jpg" group-title="03- ARGENTINA",KZO⁻ᴼᶠᶠ⁻
 http://
 
@@ -115,11 +166,17 @@ http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8?GrupoTopIptv
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/09/canal-9-multivision.png" group-title="03- ARGENTINA",Multivision⁻ˢᵈ⁻
 http://panel.dattalive.com:1935/8250/8250/chunklist_w1392684176.m3u8?GrupoTopIptv
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/08/NETargentina.png/revision/latest?cb=20180702162652" group-title="03- ARGENTINA",Net TV⁻ᴼᶠᶠ⁻
-http://
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/08/NETargentina.png/revision/latest?cb=20180702162652" group-title="03- ARGENTINA",Net TV⁻ˢᵈ⁻
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0044
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/Paka-Paka.png" group-title="03- ARGENTINA",Paka Paka⁻ᴼᶠᶠ⁻
 http://
+
+#EXTINF:-1 tvg-logo="https://tv.wurtlitzer.info/imagenes/canales/musica/powerhd.png" group-title="03- ARGENTINA",Power⁻ˢᵈ⁻
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0090
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/tPlVRpfUcpg/hqdefault.jpg" group-title="03- ARGENTINA",Santa Maria TV⁻ˢᵈ⁻
+http://www.trimi.com.ar/santa_maria/streaming/mystreamSantaMariaHSMed.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="03- ARGENTINA",Telefe⁻ᴼᶠᶠ⁻
 http://
@@ -127,11 +184,20 @@ http://
 #EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/11/e455d-tlx.png" group-title="03- ARGENTINA",Telemax⁻ˢᵈ⁻
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?GrupoTopIptv
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/506483696065449984/BATn-jAe.png" group-title="03- ARGENTINA",Telpin⁻ᴼᶠᶠ⁻
-http://
+#EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/11/e455d-tlx.png" group-title="03- ARGENTINA",Telemax⁻ˢᵈ⁻
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0043
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/506483696065449984/BATn-jAe.png" group-title="03- ARGENTINA",Telpin⁻ˢᵈ⁻
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0083
+
+#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2018_09/small.Logo_TierramiaTV.png.52a0b19eb1a7425c43898d0766558d1a.png" group-title="03- ARGENTINA",Tierramia TV⁻ˢᵈ⁻
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0028
 
 #EXTINF:-1 tvg-logo="https://bucket1.glanacion.com/anexos/fotos/82/2433282w380.jpg" group-title="03- ARGENTINA",TN⁻ᴼᶠᶠ⁻
 http://
+
+#EXTINF:-1 tvg-logo="https://vivotvhd.com/img/cha/2564.gif" group-title="03- ARGENTINA",Tv Mana⁻ˢᵈ⁻
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0105
 
 #EXTINF:-1 tvg-logo="http://www.partedelshow.com.ar/sites/default/files/imagecache/img_nodo/PUBLICA.jpg" group-title="03- ARGENTINA",Tv Publica⁻ᴼᶠᶠ⁻
 http://
@@ -3615,6 +3681,9 @@ http://shacktv.com:8080/live/667462/667462/111192.rtmp
 #EXTINF:-1 tvg-logo="https://i.imgur.com/68ztlZE.png" group-title="30- VARIEDADES LATINO",El Gourmet (6)
 http://shacktv.com:8080/live/271626/271626/111192.rtmp
 
+#EXTINF:-1 tvg-logo="https://static.filmon.com/assets/channels/21/extra_big_logo.png" group-title="30- VARIEDADES LATINO",Fashion TV⁻ˢᵈ⁻
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0014
+
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/film_and_arts-mediano.png" group-title="30- VARIEDADES LATINO",Film & Arts (1)
 http://tv5full.xyz:25461/live/miranda/miranda/1524.ts
 
@@ -4554,6 +4623,9 @@ http://
 
 #EXTINF:-1 tvg-logo="https://www.ecured.cu/images/thumb/c/c0/Emblema_de_TeleSur.png/250px-Emblema_de_TeleSur.png" group-title="36- NOTICIAS LATINO",Telesur⁻ˢᵈ⁻
 https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/480p/chunklist.m3u8?GrupoTopIptv
+
+#EXTINF:-1 tvg-logo="https://www.ecured.cu/images/thumb/c/c0/Emblema_de_TeleSur.png/250px-Emblema_de_TeleSur.png" group-title="36- NOTICIAS LATINO",Telesur⁻ˢᵈ⁻
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0027
 
 #####################################################################################################################################
 ####################################### NOTICIAS BRASIL
