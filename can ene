@@ -19,6 +19,12 @@ https://stream.vagalume.fm/hls/1470155259220668/aac.m3u8
 https://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
 #######################################
 
+#EXTINF:-1 tvg-logo="https://futbolhoy.com.ar/wp-content/uploads/2019/03/A24.png" group-title="03- ARGENTINA",A24
+http://tv.latintvweb.com:25461/live/OmarCruz/foev3rRNU2/3206.m3u8
+
+#EXTINF:-1 tvg-logo="https://futbolhoy.com.ar/wp-content/uploads/2019/03/A24.png" group-title="03- ARGENTINA",A24
+http://tv.latintvweb.com:25461/live/OmarCruz/foev3rRNU2/22090.m3u8
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/684035098228948992/SHdn39ah_400x400.jpg" group-title="03- ARGENTINA",Acqua⁻ˢᵈ⁻
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0071
 
@@ -30,6 +36,9 @@ http://coninfo.net:1935/13maxhd/live_720p/chunklist.m3u8?GrupoTopIptv
 
 #EXTINF:-1 tvg-logo="https://vivotvhd.com/img/cha/807.gif" group-title="03- ARGENTINA",BVC⁻ˢᵈ⁻
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0062
+
+#EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/11/9558b-c5n-2017.png" group-title="03- ARGENTINA",C5N
+http://tv.latintvweb.com:25461/live/OmarCruz/foev3rRNU2/22097.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/732661005952618496/5pxo5q9h_400x400.jpg" group-title="03- ARGENTINA",Canal 4 Jujuy⁻ˢᵈ⁻
 http://190.52.32.13:1935/canal4/smil:manifest.smil/playlist.m3u8?GrupoTopIptv
@@ -54,6 +63,9 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0108
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7e/Tv-rionegrina-lu92-tv-canal-10-logo.png" group-title="03- ARGENTINA",Canal 10 Rio Negro⁻ˢᵈ⁻
 http://panel.dattalive.com:1935/8204/8204/playlist.m3u8?GrupoTopIptv
+
+#EXTINF:-1 tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/3.png" group-title="03- ARGENTINA",Canal 26
+http://tv.latintvweb.com:25461/live/OmarCruz/foev3rRNU2/22091.m3u8
 
 #EXTINF:-1 tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/3.png" group-title="03- ARGENTINA",Canal 26⁻ˢᵈ⁻
 http://live-edge01.telecentro.net.ar/live/26hd-360/playlist.m3u8?GrupoTopIptv
@@ -94,8 +106,14 @@ http://coninfo.net:1935/chacodxdtv/live/chunklist_w1251301598.m3u8?GrupoTopIptv
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-uRO7cQF9i4g/XCKOsAGqYZI/AAAAAAAAB1U/icLyv19C1g0ksCUbC2GqnSqrbHzsdTbJACLcBGAs/w1200-h630-p-k-no-nu/cl3-argentina.jpg" group-title="03- ARGENTINA",CL3⁻ˢᵈ⁻
 http://stream02.shockmedia.com.ar:1935/cl3cable/cl3cable/chunklist_w503758088.m3u8?GrupoTopIptv
 
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/cronicatv.png" group-title="03- ARGENTINA",Cronica tv
+http://tv.latintvweb.com:25461/live/OmarCruz/foev3rRNU2/22108.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-garage_m.png" group-title="03- ARGENTINA",El Garage⁻ˢᵈ⁻
 http://186.0.233.76:1935/Garage/garage.smil/playlist.m3u8?GrupoTopIptv
+
+#EXTINF:-1 tvg-logo="https://mareatvcable.com/wp-content/uploads/2017/12/12-canal9.jpg" group-title="03- ARGENTINA",El Nueve
+http://tv.latintvweb.com:25461/live/OmarCruz/foev3rRNU2/22101.m3u8
 
 #EXTINF:-1 tvg-logo="http://ipuntotv.com/IMAGES/ElTreceHD2012.jpg" group-title="03- ARGENTINA",El Trece
 http://tv.latintvweb.com:25461/live/OmarCruz/foev3rRNU2/21238.m3u8
@@ -115,6 +133,9 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0044
 #EXTINF:-1 tvg-logo="https://tv.wurtlitzer.info/imagenes/canales/musica/powerhd.png" group-title="03- ARGENTINA",Power⁻ˢᵈ⁻
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0090
 
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_quiero_m.png" group-title="03- ARGENTINA",Quiero Musica
+http://tv.latintvweb.com:25461/live/OmarCruz/foev3rRNU2/22118.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/tPlVRpfUcpg/hqdefault.jpg" group-title="03- ARGENTINA",Santa Maria TV⁻ˢᵈ⁻
 http://www.trimi.com.ar/santa_maria/streaming/mystreamSantaMariaHSMed.m3u8
 
@@ -130,11 +151,23 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0043
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/506483696065449984/BATn-jAe.png" group-title="03- ARGENTINA",Telpin⁻ˢᵈ⁻
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0083
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/506483696065449984/BATn-jAe.png" group-title="03- ARGENTINA",Telpin
+http://tv.latintvweb.com:25461/live/OmarCruz/foev3rRNU2/21237.m3u8
+
 #EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2018_09/small.Logo_TierramiaTV.png.52a0b19eb1a7425c43898d0766558d1a.png" group-title="03- ARGENTINA",Tierramia TV⁻ˢᵈ⁻
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0028
 
+#EXTINF:-1 tvg-logo="https://cdn.tn.com.ar/sites/default/files/styles/720x720/public/2018/08/16/tn_vivo1.png" group-title="03- ARGENTINA",TN
+http://tv.latintvweb.com:25461/live/OmarCruz/foev3rRNU2/22124.m3u8
+
 #EXTINF:-1 tvg-logo="https://vivotvhd.com/img/cha/2564.gif" group-title="03- ARGENTINA",Tv Mana⁻ˢᵈ⁻
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0105
+
+#EXTINF:-1 tvg-logo="https://www.baraderoteinforma.com.ar/wp-content/uploads/2019/12/COSAS-Copy-68.jpg" group-title="03- ARGENTINA",Tv Publica
+http://tv.latintvweb.com:25461/live/OmarCruz/foev3rRNU2/21245.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.funcinema.com.ar/wp-content/uploads/2018/04/volver_uno.jpg" group-title="03- ARGENTINA",Volver
+http://tv.latintvweb.com:25461/live/OmarCruz/foev3rRNU2/22128.m3u8
 
 ######################################################################################################################################
 ####################################### BRASIL
@@ -322,6 +355,9 @@ https://stream.vagalume.fm/hls/1465840912218182609/aac.m3u8
 #EXTINF:-1  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ad/Bolivia_TV_2016.png/revision/latest?cb=20160622170105" group-title="05- BOLIVIA",Bolivia TV⁻ˢᵈ⁻
 http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8?GrupoTopIptv
 
+#EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/987331113831018496/qQEsqWcs_400x400.jpg" group-title="05- BOLIVIA",Bolivision
+http://tv.latintvweb.com:25461/live/OmarCruz/foev3rRNU2/3751.m3u8
+
 ######################################################################################################################################
 ####################################### CHILE
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2016/06/16/01/25/chile-1460323_960_720.jpg" group-title="06- CHILE",06- CHILE
@@ -337,11 +373,17 @@ http://unlimited5-cl.dps.live/canal2/canal2.smil/playlist.m3u8?GrupoTopIptv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EAj2nzu.jpg" group-title="06- CHILE",Canal 11 Cabrero⁻ˢᵈ⁻
 http://play.streaminghd.cl:80/claudio441/claudio441/playlist.m3u8?GrupoTopIptv
 
+#EXTINF:-1 tvg-logo="https://lisa.zapping.live/uploads/canales/color/13cable.jpg" group-title="06- CHILE",Canal 13
+http://tv.latintvweb.com:25461/live/OmarCruz/foev3rRNU2/3197.m3u8
+
 #EXTINF:-1 tvg-logo="https://elfiltrador.com/wp-content/uploads/2018/10/foto_0000001320180216144941.png" group-title="06- CHILE",Chilevision
 http://tv.latintvweb.com:25461/live/OmarCruz/foev3rRNU2/1013.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/VhOolgs.png" group-title="06- CHILE",El Pingüino⁻ᴼᶠᶠ⁻
 http://
+
+#EXTINF:-1 tvg-logo="https://k60.kn3.net/taringa/1/6/E/2/0/7/DanielAmad1/705.jpg" group-title="06- CHILE",Etc
+http://tv.latintvweb.com:25461/live/OmarCruz/foev3rRNU2/1029.m3u8
 
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1080966471730159616/02VhbJeN_400x400.jpg" group-title="06- CHILE",Holvoet TV⁻ˢᵈ⁻
 http://unlimited5-cl.dps.live/holvoettv/holvoettv.smil/playlist.m3u8?GrupoTopIptv
@@ -367,6 +409,9 @@ http://unlimited1-us.dps.live/teletrak/teletrak.smil/teletrak/livestream1/chunks
 #EXTINF:-1 tvg-logo="https://grandesmarcas.cl/wp-content/uploads/2016/06/logo-TVN-1.jpg" group-title="06- CHILE",TVN
 http://tv.latintvweb.com:25461/live/OmarCruz/foev3rRNU2/1019.m3u8
 
+#EXTINF:-1 tvg-logo="https://grandesmarcas.cl/wp-content/uploads/2016/06/logo-TVN-1.jpg" group-title="06- CHILE",TVN
+http://tv.latintvweb.com:25461/live/OmarCruz/foev3rRNU2/3203.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.tvr.cl/wp-content/uploads/2018/10/cropped-logo-tvr-3.png" group-title="06- CHILE",TVR⁻ˢᵈ⁻
 https://unlimited4-cl.dps.live/tvr/tvr.smil/playlist.m3u8?GrupoTopIptv
 
@@ -379,17 +424,50 @@ http://cl.origin.grupoz.cl:1935/uestv/live/playlist.m3u8?GrupoTopIptv
 https://stream.vagalume.fm/hls/147015501223418/aac.m3u8
 #######################################
 
+#EXTINF:-1 tvg-logo="https://colombia.mom-rsf.org/typo3temp/_processed_/4/c/csm_515-941_import_1f4f07e98e.png" group-title="07- COLOMBIA",Cable Noticias
+http://tv.latintvweb.com:25461/live/OmarCruz/foev3rRNU2/21254.m3u8
+
+#EXTINF:-1 tvg-logo="https://boom82.com/wp-content/uploads/2019/05/imLavL3o.png" group-title="07- COLOMBIA",Canal Uno
+http://tv.latintvweb.com:25461/live/OmarCruz/foev3rRNU2/22143.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/874398170146643968/5lII2Wbl_400x400.jpg" group-title="07- COLOMBIA",Caracol
+http://tv.latintvweb.com:25461/live/OmarCruz/foev3rRNU2/21265.m3u8
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/874398170146643968/5lII2Wbl_400x400.jpg" group-title="07- COLOMBIA",Caracol
 http://tv.latintvweb.com:25461/live/OmarCruz/foev3rRNU2/22144.m3u8
 
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/06/city-tv.png" group-title="07- COLOMBIA",City tv
+http://tv.latintvweb.com:25461/live/OmarCruz/foev3rRNU2/21261.m3u8
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/386408609/cnc2_400x400.png" group-title="07- COLOMBIA",CNC⁻ˢᵈ⁻
 http://66.240.236.25:1936/canalcnc/canalcnc/chunklist.m3u8?GrupoTopIptv
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/0a057f6d-f43c-4384-af72-8276c8545859_m.jpg" group-title="07- COLOMBIA",NTN24
+http://tv.latintvweb.com:25461/live/OmarCruz/foev3rRNU2/21255.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.ranchenatotv.co/wp-content/uploads/2018/10/500PX.png" group-title="07- COLOMBIA",Ranchenato⁻ˢᵈ⁻
 http://66.240.236.25:1936/ranchenato/ranchenato/playlist.m3u8?GrupoTopIptv
 
 #EXTINF:-1 tvg-logo="http://html.canalrcn.com/CanalRCN/react/images/RCN-RCNTELEVISION-logo21.png" group-title="07- COLOMBIA",RCN
 http://tv.latintvweb.com:25461/live/OmarCruz/foev3rRNU2/22135.m3u8
+
+#EXTINF:-1 tvg-logo="http://html.canalrcn.com/CanalRCN/react/images/RCN-RCNTELEVISION-logo21.png" group-title="07- COLOMBIA",RCN Int
+http://tv.latintvweb.com:25461/live/OmarCruz/foev3rRNU2/22138.m3u8
+
+#EXTINF:-1 tvg-logo="https://vivoplaysbtv.s3.amazonaws.com/image/235837990596/medium/100/1473534756d0cc352b16d02c63bc227c251054d876.jpg" group-title="07- COLOMBIA",RCN Novelas
+http://tv.latintvweb.com:25461/live/OmarCruz/foev3rRNU2/22133.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/e53834ab-c4ff-4b88-8845-bf89f4552332_m.jpg" group-title="07- COLOMBIA",Señal Colombia
+http://tv.latintvweb.com:25461/live/OmarCruz/foev3rRNU2/21266.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_teleantioquia-hd_m.png" group-title="07- COLOMBIA",Teleantioquia
+http://tv.latintvweb.com:25461/live/OmarCruz/foev3rRNU2/21259.m3u8
+
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Telecaf%C3%A9.png" group-title="07- COLOMBIA",Telecafe
+http://tv.latintvweb.com:25461/live/OmarCruz/foev3rRNU2/5359.m3u8
+
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/telecaribe.png" group-title="07- COLOMBIA",Telecaribe
+http://tv.latintvweb.com:25461/live/OmarCruz/foev3rRNU2/21257.m3u8
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/telecaribe.png" group-title="07- COLOMBIA",Telecaribe⁻ˢᵈ⁻
 http://telecaribe-hd.gcdn.anvato.net/hls/live/telecaribehd/2196k/index.m3u8?GrupoTopIptv
@@ -402,6 +480,9 @@ http://vbox2.cehis.net/live-teleislas/smil:teleislas.smil/playlist.m3u8?GrupoTop
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h7osX79.png" group-title="07- COLOMBIA",Telepacifico⁻ˢᵈ⁻
 http://cdn.logicideas.media/telepacifico-live/smil:live.smil/chunklist_b4500000.m3u8?GrupoTopIptv
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/24c3fcd6-b74a-4b71-a23b-58b36d0a93f6_m.jpg" group-title="07- COLOMBIA",Tv Agro
+http://tv.latintvweb.com:25461/live/OmarCruz/foev3rRNU2/21251.m3u8
 
 #####################################################################################################################################
 ####################################### COSTA RICA
@@ -1219,6 +1300,9 @@ http://
 #EXTINF:-1 tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/30455/240/default.jpg" group-title="20- URUGUAY",FTC⁻ᴼᶠᶠ⁻
 http://
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/LogoLaRed2018.png/200px-LogoLaRed2018.png" group-title="20- URUGUAY",La Red
+http://tv.latintvweb.com:25461/live/OmarCruz/foev3rRNU2/3200.m3u8
+
 #EXTINF:-1 tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/34373/240/default.jpg" group-title="20- URUGUAY",Latina tv Paysandu⁻ᴼᶠᶠ⁻
 http://
 
@@ -1431,6 +1515,9 @@ https://stream.vagalume.fm/hls/1475776167864381/aac.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Af6z5hL.png" group-title="22- VENEZUELA",Telesur⁻ˢᵈ⁻
 https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/480p/chunklist.m3u8?GrupoTopIptv
+
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/07/venevision.png" group-title="22- VENEZUELA",Venevision
+http://tv.latintvweb.com:25461/live/OmarCruz/foev3rRNU2/22139.m3u8
 
 #######################################################################################################################################################################################
 #######################################
