@@ -4510,14 +4510,11 @@ http://shacktv.com:8080/live/667462/667462/61223.rtmp
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_cnn-chile_m.png" group-title="36- NOTICIAS LATINO",CNN Chile (6)
 http://shacktv.com:8080/live/638296/638296/61223.rtmp
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_cnn-chile_m.png" group-title="36- NOTICIAS LATINO",CNN Chile (CHI)
-http://186.103.228.50:8000/play/a01r
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_cnn-chile_m.png" group-title="36- NOTICIAS LATINO",CNN Chile (MEX)
-http://200.73.59.84:8000/play/a01r
-
 #EXTINF:-1 tvg-logo="https://www.marketingdirecto.com/wp-content/uploads/2013/06/cnninternational.jpg" group-title="36- NOTICIAS LATINO",CNN Internacional (2)
 http://tv.latintvweb.com:25461/live/OmarCruz/foev3rRNU2/1879.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.marketingdirecto.com/wp-content/uploads/2013/06/cnninternational.jpg" group-title="36- NOTICIAS LATINO",CNN Internacional (3)
+http://tv.latintvweb.com:25461/live/Donfelipe/Donfelipe213/1879.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.marketingdirecto.com/wp-content/uploads/2013/06/cnninternational.jpg" group-title="36- NOTICIAS LATINO",CNN Internacional (4)
 http://shacktv.com:8080/live/201919/201919/104911.rtmp
@@ -4531,6 +4528,9 @@ http://shacktv.com:8080/live/638296/638296/104911.rtmp
 #EXTINF:-1 tvg-logo="http://television.com.ar/wp-content/uploads/2016/05/cnn-alla.jpg" group-title="36- NOTICIAS LATINO",CÑN (2)
 http://tv.latintvweb.com:25461/live/OmarCruz/foev3rRNU2/1289.m3u8
 
+#EXTINF:-1 tvg-logo="http://television.com.ar/wp-content/uploads/2016/05/cnn-alla.jpg" group-title="36- NOTICIAS LATINO",CÑN (3)
+http://tv.latintvweb.com:25461/live/Donfelipe/Donfelipe213/1289.m3u8
+
 #EXTINF:-1 tvg-logo="http://television.com.ar/wp-content/uploads/2016/05/cnn-alla.jpg" group-title="36- NOTICIAS LATINO",CÑN (4)
 http://shacktv.com:8080/live/201919/201919/59.rtmp
 
@@ -4539,12 +4539,6 @@ http://shacktv.com:8080/live/667462/667462/59.rtmp
 
 #EXTINF:-1 tvg-logo="http://television.com.ar/wp-content/uploads/2016/05/cnn-alla.jpg" group-title="36- NOTICIAS LATINO",CÑN (6)
 http://shacktv.com:8080/live/638296/638296/59.rtmp
-
-#EXTINF:-1 tvg-logo="http://television.com.ar/wp-content/uploads/2016/05/cnn-alla.jpg" group-title="36- NOTICIAS LATINO",CÑN (CHI)
-http://186.103.228.50:8000/play/a00w
-
-#EXTINF:-1 tvg-logo="http://television.com.ar/wp-content/uploads/2016/05/cnn-alla.jpg" group-title="36- NOTICIAS LATINO",CÑN (MEX)
-http://200.73.59.84:8000/play/a00w
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_deutsche-welle-espanol_m.png" group-title="36- NOTICIAS LATINO",DW⁻ˢᵈ⁻
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_5_av-p.m3u8?sd=10&rebase=on?GrupoTopIptv
@@ -4626,6 +4620,9 @@ http://tv5full.xyz:25461/live/miranda/miranda/1588.ts
 #EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/020/original/pic_a_e.png?1522180692" group-title="38- DOCUMENTALES LATINOS",A&E (2)
 http://tv.latintvweb.com:25461/live/OmarCruz/foev3rRNU2/26749.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/020/original/pic_a_e.png?1522180692" group-title="38- DOCUMENTALES LATINOS",A&E (3)
+http://tv.latintvweb.com:25461/live/Donfelipe/Donfelipe213/26749.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/020/original/pic_a_e.png?1522180692" group-title="38- DOCUMENTALES LATINOS",A&E (4)
 http://shacktv.com:8080/live/201919/201919/111204.rtmp
 
@@ -4634,12 +4631,6 @@ http://shacktv.com:8080/live/667462/667462/111204.rtmp
 
 #EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/020/original/pic_a_e.png?1522180692" group-title="38- DOCUMENTALES LATINOS",A&E (6)
 http://shacktv.com:8080/live/638296/638296/111204.rtmp
-
-#EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/020/original/pic_a_e.png?1522180692" group-title="38- DOCUMENTALES LATINOS",A&E (CHI)
-http://186.103.228.50:8000/play/a00n
-
-#EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/020/original/pic_a_e.png?1522180692" group-title="38- DOCUMENTALES LATINOS",A&E (MEX)
-http://200.73.59.84:8000/play/a00n
 
 #EXTINF:-1 tvg-logo="https://www.effectv.com/sites/default/files/networks/Animal%20Planet%20Large%20Stacked.png" group-title="38- DOCUMENTALES LATINOS",Animal Planet (1)
 http://tv5full.xyz:25461/live/miranda/miranda/1514.ts
@@ -4650,6 +4641,9 @@ http://tv5full.xyz:25461/live/miranda/miranda/1515.ts
 #EXTINF:-1 tvg-logo="https://www.effectv.com/sites/default/files/networks/Animal%20Planet%20Large%20Stacked.png" group-title="38- DOCUMENTALES LATINOS",Animal Planet (2)
 http://tv.latintvweb.com:25461/live/OmarCruz/foev3rRNU2/1072.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.effectv.com/sites/default/files/networks/Animal%20Planet%20Large%20Stacked.png" group-title="38- DOCUMENTALES LATINOS",Animal Planet (3)
+http://tv.latintvweb.com:25461/live/Donfelipe/Donfelipe213/1072.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.effectv.com/sites/default/files/networks/Animal%20Planet%20Large%20Stacked.png" group-title="38- DOCUMENTALES LATINOS",Animal Planet (4)
 http://shacktv.com:8080/live/201919/201919/111169.rtmp
 
@@ -4658,12 +4652,6 @@ http://shacktv.com:8080/live/667462/667462/111169.rtmp
 
 #EXTINF:-1 tvg-logo="https://www.effectv.com/sites/default/files/networks/Animal%20Planet%20Large%20Stacked.png" group-title="38- DOCUMENTALES LATINOS",Animal Planet (6)
 http://shacktv.com:8080/live/638296/638296/111169.rtmp
-
-#EXTINF:-1 tvg-logo="https://www.effectv.com/sites/default/files/networks/Animal%20Planet%20Large%20Stacked.png" group-title="38- DOCUMENTALES LATINOS",Animal Planet (CHI)
-http://186.103.228.50:8000/play/a00e
-
-#EXTINF:-1 tvg-logo="https://www.effectv.com/sites/default/files/networks/Animal%20Planet%20Large%20Stacked.png" group-title="38- DOCUMENTALES LATINOS",Animal Planet (MEX)
-http://200.73.59.84:8000/play/a00e
 
 #EXTINF:-1 tvg-logo="https://hcil.umd.edu/wp-content/uploads/2015/12/Discovery-Channel-logo.png" group-title="38- DOCUMENTALES LATINOS",Discovery Channel (1)
 http://tv5full.xyz:25461/live/miranda/miranda/1512.ts
@@ -4674,6 +4662,9 @@ http://tv5full.xyz:25461/live/miranda/miranda/1513.ts
 #EXTINF:-1 tvg-logo="https://hcil.umd.edu/wp-content/uploads/2015/12/Discovery-Channel-logo.png" group-title="38- DOCUMENTALES LATINOS",Discovery Channel (2)
 http://tv.latintvweb.com:25461/live/OmarCruz/foev3rRNU2/1069.m3u8
 
+#EXTINF:-1 tvg-logo="https://hcil.umd.edu/wp-content/uploads/2015/12/Discovery-Channel-logo.png" group-title="38- DOCUMENTALES LATINOS",Discovery Channel (3)
+http://tv.latintvweb.com:25461/live/Donfelipe/Donfelipe213/1069.m3u8
+
 #EXTINF:-1 tvg-logo="https://hcil.umd.edu/wp-content/uploads/2015/12/Discovery-Channel-logo.png" group-title="38- DOCUMENTALES LATINOS",Discovery Channel (4)
 http://shacktv.com:8080/live/201919/201919/111170.rtmp
 
@@ -4683,19 +4674,16 @@ http://shacktv.com:8080/live/667462/667462/111170.rtmp
 #EXTINF:-1 tvg-logo="https://hcil.umd.edu/wp-content/uploads/2015/12/Discovery-Channel-logo.png" group-title="38- DOCUMENTALES LATINOS",Discovery Channel (6)
 http://shacktv.com:8080/live/638296/638296/111170.rtmp
 
-#EXTINF:-1 tvg-logo="https://hcil.umd.edu/wp-content/uploads/2015/12/Discovery-Channel-logo.png" group-title="38- DOCUMENTALES LATINOS",Discovery Channel (CHI)
-http://186.103.228.50:8000/play/a00d
-
-#EXTINF:-1 tvg-logo="https://hcil.umd.edu/wp-content/uploads/2015/12/Discovery-Channel-logo.png" group-title="38- DOCUMENTALES LATINOS",Discovery Channel (MEX)
-http://200.73.59.84:8000/play/a00d
-
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_discovery-civilization_m.png" group-title="38- DOCUMENTALES LATINOS",Discovery Civilization (1)
 http://tv5full.xyz:25461/live/miranda/miranda/1511.ts
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_discovery-civilization_m.png" group-title="38- DOCUMENTALES LATINOS",Discovery Civilization (2)
 http://tv.latintvweb.com:25461/live/OmarCruz/foev3rRNU2/1417.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Discovery_Familia.png" group-title="38- DOCUMENTALES LATINOS",Discovery Familia (1)
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_discovery-civilization_m.png" group-title="38- DOCUMENTALES LATINOS",Discovery Civilization (3)
+http://tv.latintvweb.com:25461/live/Donfelipe/Donfelipe213/1417.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.merca20.com/wp-content/uploads/2008/02/discovery_familia.jpg" group-title="38- DOCUMENTALES LATINOS",Discovery Familia (1)
 http://tv5full.xyz:25461/live/miranda/miranda/3789.ts
 
 #EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/027/original/pic_investigactiondisc.png?1522177058" group-title="38- DOCUMENTALES LATINOS",Discovery Investigation (1)
@@ -4707,6 +4695,9 @@ http://tv5full.xyz:25461/live/miranda/miranda/1500.ts
 #EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/027/original/pic_investigactiondisc.png?1522177058" group-title="38- DOCUMENTALES LATINOS",Discovery Investigation (2)
 http://tv.latintvweb.com:25461/live/OmarCruz/foev3rRNU2/1428.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/027/original/pic_investigactiondisc.png?1522177058" group-title="38- DOCUMENTALES LATINOS",Discovery Investigation (3)
+http://tv.latintvweb.com:25461/live/Donfelipe/Donfelipe213/1428.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/027/original/pic_investigactiondisc.png?1522177058" group-title="38- DOCUMENTALES LATINOS",Discovery Investigation (4)
 http://shacktv.com:8080/live/201919/201919/111193.rtmp
 
@@ -4716,17 +4707,14 @@ http://shacktv.com:8080/live/667462/667462/111193.rtmp
 #EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/027/original/pic_investigactiondisc.png?1522177058" group-title="38- DOCUMENTALES LATINOS",Discovery Investigation (6)
 http://shacktv.com:8080/live/638296/638296/111193.rtmp
 
-#EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/027/original/pic_investigactiondisc.png?1522177058" group-title="38- DOCUMENTALES LATINOS",Discovery Investigation (CHI)
-http://186.103.228.50:8000/play/a023
-
-#EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/027/original/pic_investigactiondisc.png?1522177058" group-title="38- DOCUMENTALES LATINOS",Discovery Investigation (MEX)
-http://200.73.59.84:8000/play/a023
-
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/b0d27efc-174d-41f6-851b-e125fba0dce7_m.jpg" group-title="38- DOCUMENTALES LATINOS",Discovery H&H (1)
 http://tv5full.xyz:25461/live/miranda/miranda/1510.ts
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/b0d27efc-174d-41f6-851b-e125fba0dce7_m.jpg" group-title="38- DOCUMENTALES LATINOS",Discovery H&H (2)
 http://tv.latintvweb.com:25461/live/OmarCruz/foev3rRNU2/1081.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/b0d27efc-174d-41f6-851b-e125fba0dce7_m.jpg" group-title="38- DOCUMENTALES LATINOS",Discovery H&H (3)
+http://tv.latintvweb.com:25461/live/Donfelipe/Donfelipe213/1081.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/b0d27efc-174d-41f6-851b-e125fba0dce7_m.jpg" group-title="38- DOCUMENTALES LATINOS",Discovery H&H (4)
 http://shacktv.com:8080/live/201919/201919/111168.rtmp
@@ -4737,17 +4725,14 @@ http://shacktv.com:8080/live/667462/667462/111168.rtmp
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/b0d27efc-174d-41f6-851b-e125fba0dce7_m.jpg" group-title="38- DOCUMENTALES LATINOS",Discovery H&H (6)
 http://shacktv.com:8080/live/638296/638296/111168.rtmp
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/b0d27efc-174d-41f6-851b-e125fba0dce7_m.jpg" group-title="38- DOCUMENTALES LATINOS",Discovery H&H (CHI)
-http://186.103.228.50:8000/play/a027
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/b0d27efc-174d-41f6-851b-e125fba0dce7_m.jpg" group-title="38- DOCUMENTALES LATINOS",Discovery H&H (MEX)
-http://200.73.59.84:8000/play/a027
-
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logos2/images/f/f2/Discovery_Science_logo.png/revision/latest?cb=20180514182753" group-title="38- DOCUMENTALES LATINOS",Discovery Science (1)
 http://tv5full.xyz:25461/live/miranda/miranda/1509.ts
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logos2/images/f/f2/Discovery_Science_logo.png/revision/latest?cb=20180514182753" group-title="38- DOCUMENTALES LATINOS",Discovery Science (2)
 http://tv.latintvweb.com:25461/live/OmarCruz/foev3rRNU2/1418.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logos2/images/f/f2/Discovery_Science_logo.png/revision/latest?cb=20180514182753" group-title="38- DOCUMENTALES LATINOS",Discovery Science (3)
+http://tv.latintvweb.com:25461/live/Donfelipe/Donfelipe213/1418.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cotes.net.bo/appCotes/public/appWeb_/assets/images/canales/17.2.png" group-title="38- DOCUMENTALES LATINOS",Discovery Theater (1)
 http://tv5full.xyz:25461/live/miranda/miranda/1507.ts
@@ -4758,11 +4743,17 @@ http://tv5full.xyz:25461/live/miranda/miranda/1508.ts
 #EXTINF:-1 tvg-logo="https://www.cotes.net.bo/appCotes/public/appWeb_/assets/images/canales/17.2.png" group-title="38- DOCUMENTALES LATINOS",Discovery Theater (2)
 http://tv.latintvweb.com:25461/live/OmarCruz/foev3rRNU2/1420.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.cotes.net.bo/appCotes/public/appWeb_/assets/images/canales/17.2.png" group-title="38- DOCUMENTALES LATINOS",Discovery Theater (3)
+http://tv.latintvweb.com:25461/live/Donfelipe/Donfelipe213/1420.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/discovery-turbo-logo-01.png" group-title="38- DOCUMENTALES LATINOS",Discovery Turbo (1)
 http://tv5full.xyz:25461/live/miranda/miranda/1506.ts
 
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/discovery-turbo-logo-01.png" group-title="38- DOCUMENTALES LATINOS",Discovery Turbo (2)
 http://tv.latintvweb.com:25461/live/OmarCruz/foev3rRNU2/1405.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/discovery-turbo-logo-01.png" group-title="38- DOCUMENTALES LATINOS",Discovery Turbo (3)
+http://tv.latintvweb.com:25461/live/Donfelipe/Donfelipe213/1405.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/discovery-turbo-logo-01.png" group-title="38- DOCUMENTALES LATINOS",Discovery Turbo (4)
 http://shacktv.com:8080/live/201919/201919/111166.rtmp
@@ -4773,12 +4764,6 @@ http://shacktv.com:8080/live/667462/667462/111166.rtmp
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/discovery-turbo-logo-01.png" group-title="38- DOCUMENTALES LATINOS",Discovery Turbo (6)
 http://shacktv.com:8080/live/638296/638296/111166.rtmp
 
-#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/discovery-turbo-logo-01.png" group-title="38- DOCUMENTALES LATINOS",Discovery Turbo (CHI)
-http://186.103.228.50:8000/play/a03p
-
-#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/discovery-turbo-logo-01.png" group-title="38- DOCUMENTALES LATINOS",Discovery Turbo (MEX)
-http://200.73.59.84:8000/play/a03p
-
 #EXTINF:-1 tvg-logo="https://www.skytvporassinatura.com.br/wp-content/uploads/2018/01/canal-discovery-world-hd-sky-1.png" group-title="38- DOCUMENTALES LATINOS",Discovery World (1)
 http://tv5full.xyz:25461/live/miranda/miranda/1504.ts
 
@@ -4788,35 +4773,38 @@ http://tv5full.xyz:25461/live/miranda/miranda/1505.ts
 #EXTINF:-1 tvg-logo="https://www.skytvporassinatura.com.br/wp-content/uploads/2018/01/canal-discovery-world-hd-sky-1.png" group-title="38- DOCUMENTALES LATINOS",Discovery World (2)
 http://tv.latintvweb.com:25461/live/OmarCruz/foev3rRNU2/1424.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/35/13/17/35131727c2635cec3274d9bd93868db2.png" group-title="38- DOCUMENTALES LATINOS",History LAT (1)
+#EXTINF:-1 tvg-logo="https://www.skytvporassinatura.com.br/wp-content/uploads/2018/01/canal-discovery-world-hd-sky-1.png" group-title="38- DOCUMENTALES LATINOS",Discovery World (3)
+http://tv.latintvweb.com:25461/live/Donfelipe/Donfelipe213/1424.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/35/13/17/35131727c2635cec3274d9bd93868db2.png" group-title="38- DOCUMENTALES LATINOS",History (1)
 http://tv5full.xyz:25461/live/miranda/miranda/1501.ts
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/35/13/17/35131727c2635cec3274d9bd93868db2.png" group-title="38- DOCUMENTALES LATINOS",History LAT (1)
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/35/13/17/35131727c2635cec3274d9bd93868db2.png" group-title="38- DOCUMENTALES LATINOS",History (1)
 http://tv5full.xyz:25461/live/miranda/miranda/1502.ts
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/35/13/17/35131727c2635cec3274d9bd93868db2.png" group-title="38- DOCUMENTALES LATINOS",History LAT (2)
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/35/13/17/35131727c2635cec3274d9bd93868db2.png" group-title="38- DOCUMENTALES LATINOS",History (2)
 http://tv.latintvweb.com:25461/live/OmarCruz/foev3rRNU2/1075.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/35/13/17/35131727c2635cec3274d9bd93868db2.png" group-title="38- DOCUMENTALES LATINOS",History LAT (4)
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/35/13/17/35131727c2635cec3274d9bd93868db2.png" group-title="38- DOCUMENTALES LATINOS",History (2)
+http://tv.latintvweb.com:25461/live/Donfelipe/Donfelipe213/1075.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/35/13/17/35131727c2635cec3274d9bd93868db2.png" group-title="38- DOCUMENTALES LATINOS",History (4)
 http://shacktv.com:8080/live/201919/201919/111173.rtmp
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/35/13/17/35131727c2635cec3274d9bd93868db2.png" group-title="38- DOCUMENTALES LATINOS",History LAT (5)
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/35/13/17/35131727c2635cec3274d9bd93868db2.png" group-title="38- DOCUMENTALES LATINOS",History (5)
 http://shacktv.com:8080/live/667462/667462/111173.rtmp
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/35/13/17/35131727c2635cec3274d9bd93868db2.png" group-title="38- DOCUMENTALES LATINOS",History LAT (6)
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/35/13/17/35131727c2635cec3274d9bd93868db2.png" group-title="38- DOCUMENTALES LATINOS",History (6)
 http://shacktv.com:8080/live/638296/638296/111173.rtmp
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/35/13/17/35131727c2635cec3274d9bd93868db2.png" group-title="38- DOCUMENTALES LATINOS",History LAT (CHI)
-http://186.103.228.50:8000/play/a01j
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/35/13/17/35131727c2635cec3274d9bd93868db2.png" group-title="38- DOCUMENTALES LATINOS",History LAT (MEX)
-http://200.73.59.84:8000/play/a01j
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/cineframe.mx/wp-content/uploads/2017/08/H2.png" group-title="38- DOCUMENTALES LATINOS",History 2 (1)
 http://tv5full.xyz:25461/live/miranda/miranda/1503.ts
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/cineframe.mx/wp-content/uploads/2017/08/H2.png" group-title="38- DOCUMENTALES LATINOS",History 2 (2)
 http://tv.latintvweb.com:25461/live/OmarCruz/foev3rRNU2/1408.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/cineframe.mx/wp-content/uploads/2017/08/H2.png" group-title="38- DOCUMENTALES LATINOS",History 2 (3)
+http://tv.latintvweb.com:25461/live/Donfelipe/Donfelipe213/1408.m3u8
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/cineframe.mx/wp-content/uploads/2017/08/H2.png" group-title="38- DOCUMENTALES LATINOS",History 2 (4)
 http://shacktv.com:8080/live/201919/201919/111172.rtmp
@@ -4830,25 +4818,28 @@ http://shacktv.com:8080/live/638296/638296/111172.rtmp
 #EXTINF:-1 tvg-logo="https://s26311.pcdn.co/wp-content/uploads/2017/08/logosolo.png" group-title="38- DOCUMENTALES LATINOS",Hitn⁻ᴼᶠᶠ⁻
 http://
 
-#EXTINF:-1 tvg-logo="https://diylogodesigns.com/wp-content/uploads/2017/07/national-geographic-logo-vector-768x768.png" group-title="38- DOCUMENTALES LATINOS",Nat Geo LAT (1)
+#EXTINF:-1 tvg-logo="https://diylogodesigns.com/wp-content/uploads/2017/07/national-geographic-logo-vector-768x768.png" group-title="38- DOCUMENTALES LATINOS",Nat Geo (1)
 http://tv5full.xyz:25461/live/miranda/miranda/1496.ts
 
-#EXTINF:-1 tvg-logo="https://diylogodesigns.com/wp-content/uploads/2017/07/national-geographic-logo-vector-768x768.png" group-title="38- DOCUMENTALES LATINOS",Nat Geo LAT (1)
+#EXTINF:-1 tvg-logo="https://diylogodesigns.com/wp-content/uploads/2017/07/national-geographic-logo-vector-768x768.png" group-title="38- DOCUMENTALES LATINOS",Nat Geo (1)
 http://tv5full.xyz:25461/live/miranda/miranda/1495.ts
 
-#EXTINF:-1 tvg-logo="https://diylogodesigns.com/wp-content/uploads/2017/07/national-geographic-logo-vector-768x768.png" group-title="38- DOCUMENTALES LATINOS",Nat Geo LAT (2)
+#EXTINF:-1 tvg-logo="https://diylogodesigns.com/wp-content/uploads/2017/07/national-geographic-logo-vector-768x768.png" group-title="38- DOCUMENTALES LATINOS",Nat Geo (2)
 http://tv.latintvweb.com:25461/live/OmarCruz/foev3rRNU2/1066.m3u8
 
-#EXTINF:-1 tvg-logo="https://diylogodesigns.com/wp-content/uploads/2017/07/national-geographic-logo-vector-768x768.png" group-title="38- DOCUMENTALES LATINOS",Nat Geo LAT (4)
+#EXTINF:-1 tvg-logo="https://diylogodesigns.com/wp-content/uploads/2017/07/national-geographic-logo-vector-768x768.png" group-title="38- DOCUMENTALES LATINOS",Nat Geo (3)
+http://tv.latintvweb.com:25461/live/Donfelipe/Donfelipe213/1066.m3u8
+
+#EXTINF:-1 tvg-logo="https://diylogodesigns.com/wp-content/uploads/2017/07/national-geographic-logo-vector-768x768.png" group-title="38- DOCUMENTALES LATINOS",Nat Geo (4)
 http://shacktv.com:8080/live/201919/201919/111167.rtmp
 
-#EXTINF:-1 tvg-logo="https://diylogodesigns.com/wp-content/uploads/2017/07/national-geographic-logo-vector-768x768.png" group-title="38- DOCUMENTALES LATINOS",Nat Geo LAT (5)
+#EXTINF:-1 tvg-logo="https://diylogodesigns.com/wp-content/uploads/2017/07/national-geographic-logo-vector-768x768.png" group-title="38- DOCUMENTALES LATINOS",Nat Geo (5)
 http://shacktv.com:8080/live/667462/667462/111167.rtmp
 
-#EXTINF:-1 tvg-logo="https://diylogodesigns.com/wp-content/uploads/2017/07/national-geographic-logo-vector-768x768.png" group-title="38- DOCUMENTALES LATINOS",Nat Geo LAT (6)
+#EXTINF:-1 tvg-logo="https://diylogodesigns.com/wp-content/uploads/2017/07/national-geographic-logo-vector-768x768.png" group-title="38- DOCUMENTALES LATINOS",Nat Geo (6)
 http://shacktv.com:8080/live/638296/638296/111167.rtmp
 
-#EXTINF:-1 tvg-logo="https://www.directv.com/images/logos/channels/dark/large/354.png" group-title="38- DOCUMENTALES LATINOS",Nat Geo Mundo⁻ᴼᶠᶠ⁻
+#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/nat-geo-mundo.png" group-title="38- DOCUMENTALES LATINOS",Nat Geo Mundo⁻ᴼᶠᶠ⁻
 http://
 
 #EXTINF:-1 tvg-logo="http://www.lettreaudiovisuel.com/wp-content/uploads/2014/12/Nat-Geo-Wild.png" group-title="38- DOCUMENTALES LATINOS",Nat Geo Wild (1)
@@ -4859,6 +4850,9 @@ http://tv5full.xyz:25461/live/miranda/miranda/1498.ts
 
 #EXTINF:-1 tvg-logo="http://www.lettreaudiovisuel.com/wp-content/uploads/2014/12/Nat-Geo-Wild.png" group-title="38- DOCUMENTALES LATINOS",Nat Geo Wild (2)
 http://tv.latintvweb.com:25461/live/OmarCruz/foev3rRNU2/1414.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.lettreaudiovisuel.com/wp-content/uploads/2014/12/Nat-Geo-Wild.png" group-title="38- DOCUMENTALES LATINOS",Nat Geo Wild (3)
+http://tv.latintvweb.com:25461/live/Donfelipe/Donfelipe213/1414.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.lettreaudiovisuel.com/wp-content/uploads/2014/12/Nat-Geo-Wild.png" group-title="38- DOCUMENTALES LATINOS",Nat Geo Wild (4)
 http://shacktv.com:8080/live/201919/201919/111171.rtmp
@@ -4872,6 +4866,9 @@ http://shacktv.com:8080/live/638296/638296/111171.rtmp
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/tlc-logo-01.png" group-title="38- DOCUMENTALES LATINOS",Tlc (2)
 http://tv.latintvweb.com:25461/live/OmarCruz/foev3rRNU2/1893.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/tlc-logo-01.png" group-title="38- DOCUMENTALES LATINOS",Tlc (3)
+http://tv.latintvweb.com:25461/live/Donfelipe/Donfelipe213/1893.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/tlc-logo-01.png" group-title="38- DOCUMENTALES LATINOS",Tlc (4)
 http://shacktv.com:8080/live/201919/201919/111165.rtmp
 
@@ -4880,12 +4877,6 @@ http://shacktv.com:8080/live/667462/667462/111165.rtmp
 
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/tlc-logo-01.png" group-title="38- DOCUMENTALES LATINOS",Tlc (6)
 http://shacktv.com:8080/live/638296/638296/111165.rtmp
-
-#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/tlc-logo-01.png" group-title="38- DOCUMENTALES LATINOS",Tlc (CHI)
-http://186.103.228.50:8000/play/a00p
-
-#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/tlc-logo-01.png" group-title="38- DOCUMENTALES LATINOS",Tlc (MEX)
-http://200.73.59.84:8000/play/a00p
 
 ######################################################################################################################################
 #######################################
