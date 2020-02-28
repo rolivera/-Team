@@ -1094,8 +1094,14 @@ http://tv.latintvweb.com:25461/live/OmarCruz/foev3rRNU2/1254.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/latele_m.jpg" group-title="16- PARAGUAY",La Tele
 http://tv.latintvweb.com:25461/live/OmarCruz/foev3rRNU2/1252.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.mitic.gov.py/application/files/thumbnails/small/1715/5008/5555/PYTV-3.png" group-title="16- PARAGUAY",Paraguay tv
+http://tv.latintvweb.com:25461/live/OmarCruz/foev3rRNU2/1248.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tdgaw2m.png" group-title="16- PARAGUAY",RPC⁻ˢᵈ⁻
 http://174.138.118.252/live/canal13stream_src.m3u8?GrupoTopIptv
+
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/06/Unicanal.png" group-title="16- PARAGUAY",Unicanal
+http://tv.latintvweb.com:25461/live/OmarCruz/foev3rRNU2/1234.m3u8
 
 ######################################################################################################################################
 ####################################### PERU
@@ -1104,10 +1110,16 @@ https://stream.vagalume.fm/hls/1507663468882713/aac.m3u8
 #######################################
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_america-television_m.png" group-title="17- PERU",America tv
+http://tv.latintvweb.com:25461/live/OmarCruz/foev3rRNU2/5275.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_america-television_m.png" group-title="17- PERU",America tv
 http://tv.latintvweb.com:25461/live/OmarCruz/foev3rRNU2/22167.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7I13BUc.png" group-title="17- PERU",Antares⁻ᴼᶠᶠ⁻
 http://
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/atv-peru-logo-5506CAAD40-seeklogo.com.png" group-title="17- PERU",Atv
+http://tv.latintvweb.com:25461/live/OmarCruz/foev3rRNU2/5276.m3u8
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/atv-peru-logo-5506CAAD40-seeklogo.com.png" group-title="17- PERU",Atv
 http://tv.latintvweb.com:25461/live/OmarCruz/foev3rRNU2/22169.m3u8
@@ -1347,13 +1359,52 @@ http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/56945
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/56947
 
 ######################################################################################################################################
+####################################### PUERTO RICO
+#EXTINF:-1 tvg-logo="https://image.freepik.com/foto-gratis/bandera-puerto-rico_1401-272.jpg" group-title="19- PUERTO RICO",19- PUERTO RICO
+https://stream.vagalume.fm/hls/147396460892793/aac.m3u8
+#######################################
+
+#EXTINF:-1 tvg-logo="https://www.thematv.com/images/channels/telemicro-internacional.png" group-title="19- PUERTO RICO",Telemicro
+http://tv.latintvweb.com:25461/live/OmarCruz/foev3rRNU2/3268.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.adweek.com/tvspy/wp-content/uploads/sites/4/2015/02/WKAQ_telemundo-PR.jpg" group-title="19- PUERTO RICO",Telemundo
+http://tv.latintvweb.com:25461/live/OmarCruz/foev3rRNU2/1228.m3u8
+
+#EXTINF:-1 tvg-logo="https://arc-anglerfish-arc2-prod-gfrmedia.s3.amazonaws.com/public/GF7ARYBMQZAADHOBNHA3NBEJXY.png" group-title="19- PUERTO RICO",Univision
+http://tv.latintvweb.com:25461/live/OmarCruz/foev3rRNU2/1225.m3u8
+
+######################################################################################################################################
 ####################################### R.DOMINICANA
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2016/06/16/04/31/dominican-republic-1460624_960_720.jpg" group-title="19- R.DOMINICANA",19- R.DOMINICANA
 https://stream.vagalume.fm/hls/147396460892793/aac.m3u8
 #######################################
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/940654137267535872/7Cr-uWeQ.jpg" group-title="19- R.DOMINICANA",Canal del Sol
+http://tv.latintvweb.com:25461/live/OmarCruz/foev3rRNU2/3652.m3u8
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/EF3hX0nXkAIOwCr.png" group-title="19- R.DOMINICANA",Orbit tv⁻ˢᵈ⁻
 http://ss6.domint.net:2082/202_str/orbittv/media_w29206476_playlist.m3u8?GrupoTopIptv
+
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/06/telecentro.png" group-title="19- R.DOMINICANA",Telecentro
+http://tv.latintvweb.com:25461/live/OmarCruz/foev3rRNU2/3647.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/780827633734983680/T-6k4RMI.jpg" group-title="19- R.DOMINICANA",Teleimpacto
+http://tv.latintvweb.com:25461/live/OmarCruz/foev3rRNU2/3654.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/fdd89bf50b5f11bcbb951a05e6b24313.jpg" group-title="19- R.DOMINICANA",Teleislas
+http://tv.latintvweb.com:25461/live/OmarCruz/foev3rRNU2/3649.m3u8
+
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/11/telemicro.png" group-title="19- R.DOMINICANA",Telemicro
+http://tv.latintvweb.com:25461/live/OmarCruz/foev3rRNU2/3648.m3u8
+
+#EXTINF:-1 tvg-logo="https://vivotvhd.com/img/cha/1950.gif" group-title="19- R.DOMINICANA",Teleunion
+http://tv.latintvweb.com:25461/live/OmarCruz/foev3rRNU2/3650.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/b7ba67_1823fc9598cb4a358a14a3b2c2de7d27~mv2.jpg" group-title="19- R.DOMINICANA",Teleuniverso
+http://tv.latintvweb.com:25461/live/OmarCruz/foev3rRNU2/3651.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.broadcastingcable.com/.image/t_share/MTU0MjAzMzI4ODc1OTMwOTkw/tvdominicana-16x9jpg.jpg" group-title="19- R.DOMINICANA",Television Dominicana
+http://tv.latintvweb.com:25461/live/OmarCruz/foev3rRNU2/3646.m3u8
 
 ######################################################################################################################################
 ####################################### URUGUAY
