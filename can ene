@@ -568,6 +568,8 @@ http://158.69.127.36:25461/Daniel123/Daniel123/10271
 
 #EXTINF:-1 tvg-logo="https://prod-cdn-aenetworks-tv.s3.amazonaws.com/network-images/BLAZE.png" group-title="11- ESPAÑA",Blaze
 http://m3ulink.com:7899/live/Farias1782-restream/Farias21*/5414.rtmp
+#EXTINF:-1 tvg-logo="https://prod-cdn-aenetworks-tv.s3.amazonaws.com/network-images/BLAZE.png" group-title="11- ESPAÑA",Blaze
+http://m3ulink.com:7899/live/Farias1782-restream/Farias21*/6722.rtmp
 
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/boing-logo-png.png" group-title="11- ESPAÑA",Boing
 http://m3ulink.com:7899/live/Farias1782-restream/Farias21*/5420.rtmp
@@ -676,6 +678,9 @@ http://m3ulink.com:7899/live/Farias1782-restream/Farias21*/2728.rtmp
 #EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/HOLHD.png" group-title="11- ESPAÑA",Hollywood
 http://m3ulink.com:7899/live/Farias1782-restream/Farias21*/2725.rtmp
 
+#EXTINF:-1 tvg-logo="https://tvalcolea.com/wp-content/uploads/2018/03/iberalia.jpg" group-title="11- ESPAÑA",Iberalia
+http://m3ulink.com:7899/live/Farias1782-restream/Farias21*/5427.rtmp
+
 #EXTINF:-1 tvg-logo="http://telecalasparra.com/wp-content/uploads/2016/09/1.La_1.png" group-title="11- ESPAÑA",La 1
 http://m3ulink.com:7899/live/Farias1782-restream/Farias21*/2699.rtmp
 
@@ -722,8 +727,8 @@ http://
 #EXTINF:-1 tvg-logo="https://movilexplora.es/sites/default/files/images/logos/movistar-200x300.png" group-title="11- ESPAÑA",M. Alquiler 6_OFF_
 http://
 
-#EXTINF:-1 tvg-logo="http://51.68.70.69/picons/M.CineDoc&Roll_HD.png" group-title="11- ESPAÑA",M. Cinedoc&roll_OFF_
-http://
+#EXTINF:-1 tvg-logo="http://51.68.70.69/picons/M.CineDoc&Roll_HD.png" group-title="11- ESPAÑA",M. Cinedoc&roll
+http://m3ulink.com:7899/live/Farias1782-restream/Farias21*/2715.rtmp
 
 #EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-comedia.jpg.pagespeed.ic.deMbrDoiNj.jpg" group-title="11- ESPAÑA",M. Comedia
 http://m3ulink.com:7899/live/Farias1782-restream/Farias21*/2720.rtmp
@@ -737,8 +742,8 @@ http://
 #EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/472-4726704_movistar-disney-logo-de-canal-movistar-disney.png" group-title="11- ESPAÑA",M. Disney_OFF_
 http://
 
-#EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-drama.jpg.pagespeed.ic.2pLss6-3MZ.jpg" group-title="11- ESPAÑA",M. Drama_OFF_
-http://
+#EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-drama.jpg.pagespeed.ic.2pLss6-3MZ.jpg" group-title="11- ESPAÑA",M. Drama
+http://m3ulink.com:7899/live/Farias1782-restream/Farias21*/2719.rtmp
 
 #EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-estrenos.jpg.pagespeed.ic.0N8z3R8Y9H.jpg" group-title="11- ESPAÑA",M. Estrenos
 http://m3ulink.com:7899/live/Farias1782-restream/Farias21*/2718.rtmp
@@ -749,14 +754,17 @@ http://m3ulink.com:7899/live/Farias1782-restream/Farias21*/3067.rtmp
 #EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-golf.jpg.pagespeed.ic.lKGt5sk6A_.jpg" group-title="11- ESPAÑA",M. Golf
 http://m3ulink.com:7899/live/Farias1782-restream/Farias21*/2716.rtmp
 
+#EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads/2019/07/movistar-laliga-logo.jpg" group-title="11- ESPAÑA",M. La Liga
+http://m3ulink.com:7899/live/Farias1782-restream/Farias21*/2692.rtmp
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MVFRKTv.png" group-title="11- ESPAÑA",M. Liga de Campeones
 http://m3ulink.com:7899/live/Farias1782-restream/Farias21*/5423.rtmp
 
 #EXTINF:-1 tvg-logo="https://www.airnetwifi.es/wp-content/uploads/2019/03/Logo-Movistar-Series.png" group-title="11- ESPAÑA",M. Series
 http://m3ulink.com:7899/live/Farias1782-restream/Farias21*/2711.rtmp
 
-#EXTINF:-1 tvg-logo="https://www.andorratelecom.ad/documents/33347/1934305/Mask-Group-8@2x.png" group-title="11- ESPAÑA",M. Seriesmania_OFF_
-http://
+#EXTINF:-1 tvg-logo="https://www.andorratelecom.ad/documents/33347/1934305/Mask-Group-8@2x.png" group-title="11- ESPAÑA",M. Seriesmania
+http://m3ulink.com:7899/live/Farias1782-restream/Farias21*/2712.rtmp
 
 #EXTINF:-1 tvg-logo="http://cibercom.es/wp-content/uploads/2014/01/mtv_logo.jpg" group-title="11- ESPAÑA",MTV España
 http://m3ulink.com:7899/live/Farias1782-restream/Farias21*/6985.rtmp
