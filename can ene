@@ -400,11 +400,30 @@ http://173.236.10.10:1935/webtvminas/webtvminas/live.m3u8?GrupoTopIptv
 https://stream.vagalume.fm/hls/1465840912218182609/aac.m3u8
 #######################################
 
+#EXTINF:-1  tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/ATB.png" group-title="05- BOLIVIA",ATB (1)
+http://tvla.xyz:25461/tgialici/1Y6vMxml89/35549
+
 #EXTINF:-1  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ad/Bolivia_TV_2016.png/revision/latest?cb=20160622170105" group-title="05- BOLIVIA",Bolivia TV⁻ˢᵈ⁻
 http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8?GrupoTopIptv
+#EXTINF:-1  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ad/Bolivia_TV_2016.png/revision/latest?cb=20160622170105" group-title="05- BOLIVIA",Bolivia TV (1)
+http://tvla.xyz:25461/tgialici/1Y6vMxml89/35550
 
-#EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/987331113831018496/qQEsqWcs_400x400.jpg" group-title="05- BOLIVIA",Bolivision
-http://tv.latintvweb.com:25461/live/OmarCruz/foev3rRNU2/3751.m3u8
+#EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/987331113831018496/qQEsqWcs_400x400.jpg" group-title="05- BOLIVIA",Bolivision (1)
+http://tvla.xyz:25461/tgialici/1Y6vMxml89/35536
+#EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/987331113831018496/qQEsqWcs_400x400.jpg" group-title="05- BOLIVIA",Bolivision (3)
+http://tv.latintvweb.com:25461/live/Abrilandrea/qlmdSmF9x4/3751.m3u8
+
+#EXTINF:-1  tvg-logo="https://tvmi.com.bo/wp-content/uploads/sites/2/2018/10/logocadenaa.png" group-title="05- BOLIVIA",Cadena A (1)
+http://tvla.xyz:25461/tgialici/1Y6vMxml89/35551
+
+#EXTINF:-1  tvg-logo="https://www.cotes.net.bo/appCotes/public/appWeb_/assets/images/canales/27.png" group-title="05- BOLIVIA",Gigavision (1)
+http://tvla.xyz:25461/tgialici/1Y6vMxml89/35553
+
+#EXTINF:-1  tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/bo-rtp-bolivia-1178.jpg" group-title="05- BOLIVIA",RTP (1)
+http://tvla.xyz:25461/tgialici/1Y6vMxml89/35555
+
+#EXTINF:-1  tvg-logo="https://tvmi.com.bo/wp-content/uploads/sites/2/2018/04/unitel.png" group-title="05- BOLIVIA",Unitel (1)
+http://tvla.xyz:25461/tgialici/1Y6vMxml89/35559
 
 ######################################################################################################################################
 ####################################### CHILE
