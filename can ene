@@ -2807,11 +2807,7 @@ http://antena1.newradio.it/stream?1519462006844
 #######################################
 ######################################################################################################################################
 
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/concert_channel_hd-mediano.png" group-title="30- VARIEDADES LATINO",Concert Channel (1)
-http://tvla.xyz:25461/tgialici/1Y6vMxml89/35022
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/concert_channel_hd-mediano.png" group-title="30- VARIEDADES LATINO",Concert Channel (2)
-http://tvla.xyz:25461/imnvwqgm/h0g40F9ssB/35022
-
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/concert_channel_hd-mediano.png" group-title="30- VARIEDADES LATINO",Concert Channel (VLC)
 http://163.172.83.49:25461/live/cfa3598f5c7a45d19a06dccc61c85f29/271aea3a7f3341aaa83abd9877cf2433/60.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.bellmedia.ca/wp-content/uploads/2014/02/tv1_e-490x490.png" group-title="30- VARIEDADES LATINO",E! (1)
@@ -2860,7 +2856,7 @@ http://dl.dropbox.com/s/6j5ivrbr341lcbe/video_watermark1585548378221.mp4
 http://tvla.xyz:25461/tgialici/1Y6vMxml89/35038
 #EXTINF:-1 tvg-logo="https://assets.corusent.com/wp-content/uploads/2017/06/logo_tv_lifetime_june2017-500x250.png" group-title="30- VARIEDADES LATINO",Lifetime (2)
 http://tvla.xyz:25461/imnvwqgm/h0g40F9ssB/35038
-
+#EXTINF:-1 tvg-logo="https://assets.corusent.com/wp-content/uploads/2017/06/logo_tv_lifetime_june2017-500x250.png" group-title="30- VARIEDADES LATINO",Lifetime (VLC)
 http://158.69.116.209:25500/live/32e223dea9f349849acce0ee3b8157cd/946909e4ce6b4a33aa0d94b56486d2bc/55.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.totalplay.com.mx/images/logos/canales/entretenimiento/mas-chic.png" group-title="30- VARIEDADES LATINO",Mas Chic (1)
@@ -2870,11 +2866,9 @@ http://tvla.xyz:25461/imnvwqgm/h0g40F9ssB/35055
 
 #EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/112-1126076_old-music-mtv-png-logo-mtv-logo-transparent.png" group-title="30- VARIEDADES LATINO",Mtv (1)
 http://tvla.xyz:25461/tgialici/1Y6vMxml89/35014
-#EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/112-1126076_old-music-mtv-png-logo-mtv-logo-transparent.png" group-title="30- VARIEDADES LATINO",Mtv (1)
-http://tvla.xyz:25461/tgialici/1Y6vMxml89/35016
 #EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/112-1126076_old-music-mtv-png-logo-mtv-logo-transparent.png" group-title="30- VARIEDADES LATINO",Mtv (2)
 http://tvla.xyz:25461/imnvwqgm/h0g40F9ssB/35014
-
+#EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/112-1126076_old-music-mtv-png-logo-mtv-logo-transparent.png" group-title="30- VARIEDADES LATINO",Mtv (VLC)
 http://163.172.83.49:25461/live/f9bba7fc33714c958e2fdf9ed0959f99/e6c84081c7a24deb90cb92d65c4399f8/55.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.itizaps.net/zapper/logo/b/mtv-hits-2014.png" group-title="30- VARIEDADES LATINO",Mtv Hits (1)
