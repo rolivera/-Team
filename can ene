@@ -5,7 +5,7 @@
 #PLAYLISTV: pltv-logo="https://scontent.fmvd3-1.fna.fbcdn.net/v/t1.0-9/s960x960/87775504_2820213388045057_6738077563073069056_o.jpg?_nc_cat=111&_nc_sid=0be424&_nc_eui2=AeHCqMF8a3L5yFJCzuF5e0RSNE9Dp9heTmU0T0On2F5OZZo-GSAB1r5o2jxZDvQHeFIdueGh55uGzi0UMQ_1YuTJ&_nc_oc=AQmnFD3bAKtpJGWYXFsJwbk2_acL6yM70196HgmOZPk_v4Z8U4LnyM0Ay8flKOphqlI&_nc_ht=scontent.fmvd3-1.fna&_nc_tp=7&oh=210787c5140d383222603496adbd9d70&oe=5EB586B2" pltv-name="Team Iptv Canales" pltv-description="CANALES IPTV" pltv-cover="https://scontent.fmvd2-1.fna.fbcdn.net/v/t1.0-9/cp0/e15/q65/s851x315/87775504_2820213388045057_6738077563073069056_o.jpg?_nc_cat=111&_nc_sid=0be424&efg=eyJpIjoidCJ9&_nc_oc=AQmjvBsI_80jUPGfZ0mUrq4Mw7-a9llxgd3oYRvJMEXYTzpmL7efgdis4Tm4UoGB01w&_nc_ht=scontent.fmvd2-1.fna&_nc_tp=9&oh=f969facc857fcd45732c80afb0ac9cc2&oe=5EF40AD4" pltv-author="TOP.tv"
 ######################################################################################################################################
 ######################################################################################################################################
-#EXTINF:-1 tvg-logo="https://scontent.fmvd4-1.fna.fbcdn.net/v/t1.0-9/89691416_2854385601294502_1406986193307959296_n.jpg?_nc_cat=110&_nc_sid=e007fa&_nc_oc=AQli7_sy4yL-TB4OK4smw4VaGWZ_TotC2rlHioK8kScDjN-weIlZciPo6sNQSWfJ3K4&_nc_ht=scontent.fmvd4-1.fna&oh=176b4e4efba5af723b370200b4e3943f&oe=5E91D316" group-title="02- Actualizada MARZO",02- Actualizada ABRIL
+#EXTINF:-1 tvg-logo="https://scontent.fmvd4-1.fna.fbcdn.net/v/t1.0-9/89691416_2854385601294502_1406986193307959296_n.jpg?_nc_cat=110&_nc_sid=e007fa&_nc_oc=AQli7_sy4yL-TB4OK4smw4VaGWZ_TotC2rlHioK8kScDjN-weIlZciPo6sNQSWfJ3K4&_nc_ht=scontent.fmvd4-1.fna&oh=176b4e4efba5af723b370200b4e3943f&oe=5E91D316" group-title="02- Actualizada ABRIL",02- Actualizada ABRIL
 https://stream.vagalume.fm/hls/1470155259220668/aac.m3u8
 #####################################################################################################################################
 ######################################################################################################################################
@@ -1727,10 +1727,10 @@ http://dl.dropbox.com/s/6j5ivrbr341lcbe/video_watermark1585548378221.mp4
 #EXTINF:-1 tvg-logo="https://media.tvalacarta.info/canales/256x256/vera.png" group-title="20- URUGUAY",Vera +_OFF_
 http://dl.dropbox.com/s/6j5ivrbr341lcbe/video_watermark1585548378221.mp4
 
-#EXTINF:-1 tvg-logo="http://www.logoteca.uy/uploads/imagenes/file_2da07aaf6d.png" group-title="20- URUGUAY",VTV (1)
-http://tvla.xyz:25461/tgialici/1Y6vMxml89/43425
-#EXTINF:-1 tvg-logo="http://www.logoteca.uy/uploads/imagenes/file_2da07aaf6d.png" group-title="20- URUGUAY",VTV (1)
-http://tvla.xyz:25461/tgialici/1Y6vMxml89/43414
+#EXTINF:-1 tvg-logo="http://www.logoteca.uy/uploads/imagenes/file_2da07aaf6d.png" group-title="20- URUGUAY",VTV (3)
+http://158.69.127.36:25461/Manuel1/Manuel1/202185
+#EXTINF:-1 tvg-logo="http://www.logoteca.uy/uploads/imagenes/file_2da07aaf6d.png" group-title="20- URUGUAY",VTV (4)
+http://158.69.127.36:25461/Hernandez/Hernandez/202185
 
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-2A5wJVTgb4Y/UPFifoWY2TI/AAAAAAAAAV8/g_Lasd6u1LI/s1600/VTV+.jpg" group-title="20- URUGUAY",VTV + (1)
 http://tvla.xyz:25461/tgialici/1Y6vMxml89/43426
@@ -4175,6 +4175,10 @@ http://158.69.127.36:25461/Hernandez/Hernandez/119484
 
 #EXTINF:-1 tvg-logo="http://www.logoteca.uy/uploads/imagenes/file_2da07aaf6d.png" group-title="41- DEPORTES LATINO",VTV (1)
 http://nitro.ltd:25461/live/StevenD2020/StevFr2019/5471.m3u8
+#EXTINF:-1 tvg-logo="http://www.logoteca.uy/uploads/imagenes/file_2da07aaf6d.png" group-title="41- DEPORTES LATINO",VTV (3)
+http://158.69.127.36:25461/Manuel1/Manuel1/202185
+#EXTINF:-1 tvg-logo="http://www.logoteca.uy/uploads/imagenes/file_2da07aaf6d.png" group-title="41- DEPORTES LATINO",VTV (4)
+http://158.69.127.36:25461/Hernandez/Hernandez/202185
 
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-2A5wJVTgb4Y/UPFifoWY2TI/AAAAAAAAAV8/g_Lasd6u1LI/s1600/VTV+.jpg" group-title="41- DEPORTES LATINO",VTV Plus_OFF_
 http://dl.dropbox.com/s/6j5ivrbr341lcbe/video_watermark1585548378221.mp4
