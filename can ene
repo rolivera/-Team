@@ -5,7 +5,7 @@
 #PLAYLISTV: pltv-logo="https://scontent.fmvd3-1.fna.fbcdn.net/v/t1.0-9/s960x960/87775504_2820213388045057_6738077563073069056_o.jpg?_nc_cat=111&_nc_sid=0be424&_nc_eui2=AeHCqMF8a3L5yFJCzuF5e0RSNE9Dp9heTmU0T0On2F5OZZo-GSAB1r5o2jxZDvQHeFIdueGh55uGzi0UMQ_1YuTJ&_nc_oc=AQmnFD3bAKtpJGWYXFsJwbk2_acL6yM70196HgmOZPk_v4Z8U4LnyM0Ay8flKOphqlI&_nc_ht=scontent.fmvd3-1.fna&_nc_tp=7&oh=210787c5140d383222603496adbd9d70&oe=5EB586B2" pltv-name="Team Iptv Canales" pltv-description="CANALES IPTV" pltv-cover="https://scontent.fmvd2-1.fna.fbcdn.net/v/t1.0-9/cp0/e15/q65/s851x315/87775504_2820213388045057_6738077563073069056_o.jpg?_nc_cat=111&_nc_sid=0be424&efg=eyJpIjoidCJ9&_nc_oc=AQmjvBsI_80jUPGfZ0mUrq4Mw7-a9llxgd3oYRvJMEXYTzpmL7efgdis4Tm4UoGB01w&_nc_ht=scontent.fmvd2-1.fna&_nc_tp=9&oh=f969facc857fcd45732c80afb0ac9cc2&oe=5EF40AD4" pltv-author="TOP.tv"
 ######################################################################################################################################
 ######################################################################################################################################
-#EXTINF:-1 tvg-logo="https://scontent.fmvd4-1.fna.fbcdn.net/v/t1.0-9/89691416_2854385601294502_1406986193307959296_n.jpg?_nc_cat=110&_nc_sid=e007fa&_nc_oc=AQli7_sy4yL-TB4OK4smw4VaGWZ_TotC2rlHioK8kScDjN-weIlZciPo6sNQSWfJ3K4&_nc_ht=scontent.fmvd4-1.fna&oh=176b4e4efba5af723b370200b4e3943f&oe=5E91D316" group-title="02- Actualizada ABRIL",02- Actualizada ABRIL
+#EXTINF:-1 tvg-logo="https://image.freepik.com/psd-gratis/psd-icono-actualizar_30-899.jpg" group-title="02- Actualizada ABRIL",02- Actualizada ABRIL
 https://stream.vagalume.fm/hls/1470155259220668/aac.m3u8
 #####################################################################################################################################
 ######################################################################################################################################
@@ -487,26 +487,32 @@ http://173.236.10.10:1935/webtvminas/webtvminas/live.m3u8?GrupoTopIptv
 https://stream.vagalume.fm/hls/1465840912218182609/aac.m3u8
 #######################################
 
-#EXTINF:-1  tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/ATB.png" group-title="05- BOLIVIA",ATB_OFF_
-http://dl.dropbox.com/s/6j5ivrbr341lcbe/video_watermark1585548378221.mp4
+#EXTINF:-1  tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/ATB.png" group-title="05- BOLIVIA",ATB (2)
+http://amigotv.online:8080/faucontv/2c248b3e1d35/8764
+#EXTINF:-1  tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/ATB.png" group-title="05- BOLIVIA",ATB (2)
+http://amigotv.online:8080/faucontv/2c248b3e1d35/76307
 
 #EXTINF:-1  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ad/Bolivia_TV_2016.png/revision/latest?cb=20160622170105" group-title="05- BOLIVIA",Bolivia TV⁻ˢᵈ⁻
 http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8?GrupoTopIptv
+#EXTINF:-1  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ad/Bolivia_TV_2016.png/revision/latest?cb=20160622170105" group-title="05- BOLIVIA",Bolivia TV (2)
+http://amigotv.online:8080/faucontv/2c248b3e1d35/8765
 
-#EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/987331113831018496/qQEsqWcs_400x400.jpg" group-title="05- BOLIVIA",Bolivision_OFF_
-http://dl.dropbox.com/s/6j5ivrbr341lcbe/video_watermark1585548378221.mp4
+#EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/987331113831018496/qQEsqWcs_400x400.jpg" group-title="05- BOLIVIA",Bolivision (2)
+http://amigotv.online:8080/faucontv/2c248b3e1d35/121689
+#EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/987331113831018496/qQEsqWcs_400x400.jpg" group-title="05- BOLIVIA",Bolivision (2)
+http://amigotv.online:8080/faucontv/2c248b3e1d35/8766
 
-#EXTINF:-1  tvg-logo="https://www.gomedia.com.bo/images/clientes/cadena-a.png" group-title="05- BOLIVIA",Cadena A_OFF_
-http://dl.dropbox.com/s/6j5ivrbr341lcbe/video_watermark1585548378221.mp4
+#EXTINF:-1  tvg-logo="https://www.gomedia.com.bo/images/clientes/cadena-a.png" group-title="05- BOLIVIA",Cadena A (2)
+http://amigotv.online:8080/faucontv/2c248b3e1d35/48274
 
-#EXTINF:-1  tvg-logo="https://www.cotes.net.bo/appCotes/public/appWeb_/assets/images/canales/27.png" group-title="05- BOLIVIA",Gigavision_OFF_
-http://dl.dropbox.com/s/6j5ivrbr341lcbe/video_watermark1585548378221.mp4
+#EXTINF:-1  tvg-logo="https://www.cotes.net.bo/appCotes/public/appWeb_/assets/images/canales/27.png" group-title="05- BOLIVIA",Gigavision (2)
+http://amigotv.online:8080/faucontv/2c248b3e1d35/48273
 
-#EXTINF:-1  tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/bo-rtp-bolivia-1178.jpg" group-title="05- BOLIVIA",RTP_OFF_
-http://dl.dropbox.com/s/6j5ivrbr341lcbe/video_watermark1585548378221.mp4
+#EXTINF:-1  tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/bo-rtp-bolivia-1178.jpg" group-title="05- BOLIVIA",RTP (2)
+http://amigotv.online:8080/faucontv/2c248b3e1d35/10922
 
-#EXTINF:-1  tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/unitel.png" group-title="05- BOLIVIA",Unitel_OFF_
-http://dl.dropbox.com/s/6j5ivrbr341lcbe/video_watermark1585548378221.mp4
+#EXTINF:-1  tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/unitel.png" group-title="05- BOLIVIA",Unitel (2)
+http://amigotv.online:8080/faucontv/2c248b3e1d35/8775
 
 ######################################################################################################################################
 ####################################### CHILE
@@ -517,38 +523,45 @@ https://stream.vagalume.fm/hls/14647977281792658143/aac.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m70PUPf.jpg" group-title="06- CHILE",Antofagasta TV⁻ˢᵈ⁻
 http://unlimited1-us.dps.live/atv/atv.smil/atv/livestream2/chunks.m3u8?GrupoTopIptv
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lt6eQkt.jpg" group-title="06- CHILE",Canal 2 San Antonio⁻ˢᵈ⁻
-http://unlimited5-cl.dps.live/canal2/canal2.smil/playlist.m3u8?GrupoTopIptv
+#EXTINF:-1 tvg-logo="https://lisa.zapping.live/uploads/canales/color/13cable.jpg" group-title="06- CHILE",Canal 13 (2)
+http://amigotv.online:8080/faucontv/2c248b3e1d35/8957
+#EXTINF:-1 tvg-logo="https://lisa.zapping.live/uploads/canales/color/13cable.jpg" group-title="06- CHILE",Canal 13 (2)
+http://amigotv.online:8080/faucontv/2c248b3e1d35/76329
 
-#EXTINF:-1 tvg-logo="https://lisa.zapping.live/uploads/canales/color/13cable.jpg" group-title="06- CHILE",Canal 13_OFF_
-http://dl.dropbox.com/s/6j5ivrbr341lcbe/video_watermark1585548378221.mp4
-
-#EXTINF:-1 tvg-logo="https://elfiltrador.com/wp-content/uploads/2018/10/foto_0000001320180216144941.png" group-title="06- CHILE",Chilevision_OFF_
-http://dl.dropbox.com/s/6j5ivrbr341lcbe/video_watermark1585548378221.mp4
+#EXTINF:-1 tvg-logo="https://elfiltrador.com/wp-content/uploads/2018/10/foto_0000001320180216144941.png" group-title="06- CHILE",Chilevision (2)
+http://amigotv.online:8080/faucontv/2c248b3e1d35/8966
+#EXTINF:-1 tvg-logo="https://elfiltrador.com/wp-content/uploads/2018/10/foto_0000001320180216144941.png" group-title="06- CHILE",Chilevision (2)
+http://amigotv.online:8080/faucontv/2c248b3e1d35/76331
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/VhOolgs.png" group-title="06- CHILE",El Pingüino_OFF_
 http://dl.dropbox.com/s/6j5ivrbr341lcbe/video_watermark1585548378221.mp4
 
-#EXTINF:-1 tvg-logo="https://k60.kn3.net/taringa/1/6/E/2/0/7/DanielAmad1/705.jpg" group-title="06- CHILE",Etc_OFF_
-http://dl.dropbox.com/s/6j5ivrbr341lcbe/video_watermark1585548378221.mp4
+#EXTINF:-1 tvg-logo="https://k60.kn3.net/taringa/1/6/E/2/0/7/DanielAmad1/705.jpg" group-title="06- CHILE",Etc (2)
+http://amigotv.online:8080/faucontv/2c248b3e1d35/8969
+#EXTINF:-1 tvg-logo="https://k60.kn3.net/taringa/1/6/E/2/0/7/DanielAmad1/705.jpg" group-title="06- CHILE",Etc (2)
+http://amigotv.online:8080/faucontv/2c248b3e1d35/76248
 
-#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1080966471730159616/02VhbJeN_400x400.jpg" group-title="06- CHILE",Holvoet TV⁻ˢᵈ⁻
-http://unlimited5-cl.dps.live/holvoettv/holvoettv.smil/playlist.m3u8?GrupoTopIptv
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1080966471730159616/02VhbJeN_400x400.jpg" group-title="06- CHILE",Holvoet TV_OFF_
+http://dl.dropbox.com/s/6j5ivrbr341lcbe/video_watermark1585548378221.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9sKGsmt.png" group-title="06- CHILE",ITV⁻ˢᵈ⁻
 http://unlimited1-us.dps.live/itv/itv.smil/itv/livestream1/chunks.m3u8?GrupoTopIptv
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/PixQwsD.png" group-title="06- CHILE",La Red_OFF_
-http://dl.dropbox.com/s/6j5ivrbr341lcbe/video_watermark1585548378221.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/PixQwsD.png" group-title="06- CHILE",La Red (2)
+http://amigotv.online:8080/faucontv/2c248b3e1d35/49486
 
-#EXTINF:-1 tvg-logo="https://blogvecindad.com/wp-content/uploads/2015/11/Mega_Chile_Alternate_Logo.png" group-title="06- CHILE",Mega_OFF_
-http://dl.dropbox.com/s/6j5ivrbr341lcbe/video_watermark1585548378221.mp4
+#EXTINF:-1 tvg-logo="https://blogvecindad.com/wp-content/uploads/2015/11/Mega_Chile_Alternate_Logo.png" group-title="06- CHILE",Mega (2)
+http://amigotv.online:8080/faucontv/2c248b3e1d35/76274
+#EXTINF:-1 tvg-logo="https://blogvecindad.com/wp-content/uploads/2015/11/Mega_Chile_Alternate_Logo.png" group-title="06- CHILE",Mega (2)
+http://amigotv.online:8080/faucontv/2c248b3e1d35/8971
+#EXTINF:-1 tvg-logo="https://blogvecindad.com/wp-content/uploads/2015/11/Mega_Chile_Alternate_Logo.png" group-title="06- CHILE",Mega (2)
+http://amigotv.online:8080/faucontv/2c248b3e1d35/90116
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/umdJ2mP.jpg" group-title="06- CHILE",Portalfoxmix⁻ˢᵈ⁻
 http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8?GrupoTopIptv
 
-#EXTINF:-1 tvg-logo="https://static.13.cl/7/sites/all/themes/rec_v2/images/default_2018.jpg" group-title="06- CHILE",Rec TV_OFF_
-http://dl.dropbox.com/s/6j5ivrbr341lcbe/video_watermark1585548378221.mp4
+#EXTINF:-1 tvg-logo="https://static.13.cl/7/sites/all/themes/rec_v2/images/default_2018.jpg" group-title="06- CHILE",Rec TV (2)
+http://amigotv.online:8080/faucontv/2c248b3e1d35/8975
 
 #EXTINF:-1 tvg-logo="https://www.fundacionmiranos.org/wp-content/uploads/2019/02/avatar_66.png" group-title="06- CHILE",T13⁻ˢᵈ⁻
 http://c13-ply.janus.cl/playlist/stream.m3u8?s=c13hd?GrupoTopIptv
@@ -556,12 +569,16 @@ http://c13-ply.janus.cl/playlist/stream.m3u8?s=c13hd?GrupoTopIptv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6J8xRah.png" group-title="06- CHILE",Teletrak⁻ˢᵈ⁻
 http://unlimited1-us.dps.live/teletrak/teletrak.smil/teletrak/livestream1/chunks.m3u8?GrupoTopIptv
 
-#EXTINF:-1 tvg-logo="https://bulb.cl/wp-content/uploads/2018/11/Captura-de-pantalla-2018-11-12-a-las-14.17.22.png" group-title="06- CHILE",TV+_OFF_
-http://dl.dropbox.com/s/6j5ivrbr341lcbe/video_watermark1585548378221.mp4
+#EXTINF:-1 tvg-logo="https://bulb.cl/wp-content/uploads/2018/11/Captura-de-pantalla-2018-11-12-a-las-14.17.22.png" group-title="06- CHILE",TV+ (2)
+http://amigotv.online:8080/faucontv/2c248b3e1d35/76339
 
-#EXTINF:-1 tvg-logo="https://grandesmarcas.cl/wp-content/uploads/2016/06/logo-TVN-1.jpg" group-title="06- CHILE",TVN_OFF_
-http://dl.dropbox.com/s/6j5ivrbr341lcbe/video_watermark1585548378221.mp4
+#EXTINF:-1 tvg-logo="https://grandesmarcas.cl/wp-content/uploads/2016/06/logo-TVN-1.jpg" group-title="06- CHILE",TVN (2)
+http://amigotv.online:8080/faucontv/2c248b3e1d35/76280
+#EXTINF:-1 tvg-logo="https://grandesmarcas.cl/wp-content/uploads/2016/06/logo-TVN-1.jpg" group-title="06- CHILE",TVN (2)
+http://amigotv.online:8080/faucontv/2c248b3e1d35/8976
 
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/TV-Chile-en-vivo-Online.png" group-title="06- CHILE",Tv Chile (2)
+http://amigotv.online:8080/faucontv/2c248b3e1d35/84374
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/TV-Chile-en-vivo-Online.png" group-title="06- CHILE",Tv Chile (3)
 http://158.69.127.36:25461/bron/bron/185734
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/TV-Chile-en-vivo-Online.png" group-title="06- CHILE",Tv Chile (4)
@@ -1687,8 +1704,8 @@ http://dl.dropbox.com/s/6j5ivrbr341lcbe/video_watermark1585548378221.mp4
 #EXTINF:-1 tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/30455/240/default.jpg" group-title="20- URUGUAY",FTC_OFF_
 http://dl.dropbox.com/s/6j5ivrbr341lcbe/video_watermark1585548378221.mp4
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/LogoLaRed2018.png/200px-LogoLaRed2018.png" group-title="20- URUGUAY",La Red_OFF_
-http://dl.dropbox.com/s/6j5ivrbr341lcbe/video_watermark1585548378221.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/LogoLaRed2018.png/200px-LogoLaRed2018.png" group-title="20- URUGUAY",La Red (2)
+http://amigotv.online:8080/faucontv/2c248b3e1d35/148622
 
 #EXTINF:-1 tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/34373/240/default.jpg" group-title="20- URUGUAY",Latina tv Paysandu
 http://66.northerniptv.ca:8000/cottage/cottage/86891
