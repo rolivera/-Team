@@ -66,8 +66,11 @@ http://186.33.168.33:8000/play/a02w
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/cronicatv.png" group-title="02- INTERNET LENTO",Cronica (AR)
 http://186.33.168.33:8000/play/a01g
 
+#EXTINF:-1 tvg-logo="https://hcil.umd.edu/wp-content/uploads/2015/12/Discovery-Channel-logo.png" group-title="02- INTERNET LENTO",Discovery Channel (LA)
+http://186.33.168.33:8000/play/a056
 
-
+#EXTINF:-1 tvg-logo="http://logosvector.net/wp-content/uploads/2014/07/new-disney-channel-logo.png" group-title="02- INTERNET LENTO",Disney Channel (LA)
+http://186.33.168.33:8000/play/a04k
 
 
 
@@ -133,9 +136,6 @@ http://186.33.168.33:8000/play/a050
 #EXTINF:-1 tvg-logo="https://" group-title="02- INTERNET LENTO",Fox Sports AR
 http://186.33.168.33:8000/play/a052
 
-#EXTINF:-1 tvg-logo="https://" group-title="02- INTERNET LENTO",Discovery Channel
-http://186.33.168.33:8000/play/a056
-
 #EXTINF:-1 tvg-logo="https://" group-title="02- INTERNET LENTO",Warner
 http://186.33.168.33:8000/play/a058
 
@@ -162,9 +162,6 @@ http://186.33.168.33:8000/play/a01q
 
 #EXTINF:-1 tvg-logo="https://" group-title="02- INTERNET LENTO",Quiero Musica AR
 http://186.33.168.33:8000/play/a01r
-
-#EXTINF:-1 tvg-logo="https://" group-title="02- INTERNET LENTO",Disney Channel
-http://186.33.168.33:8000/play/a01s
 
 #EXTINF:-1 tvg-logo="https://" group-title="02- INTERNET LENTO",TyC AR
 http://186.33.168.33:8000/play/a01t
@@ -204,12 +201,6 @@ http://186.33.168.33:8000/play/a02k
 
 #EXTINF:-1 tvg-logo="https://" group-title="02- INTERNET LENTO",TBS
 http://186.33.168.33:8000/play/a02m
-
-#EXTINF:-1 tvg-logo="https://" group-title="02- INTERNET LENTO",Discovery H&H
-http://186.33.168.33:8000/play/a02n
-
-#EXTINF:-1 tvg-logo="https://" group-title="02- INTERNET LENTO",Discovery Channel
-http://186.33.168.33:8000/play/a02o
 
 #EXTINF:-1 tvg-logo="https://" group-title="02- INTERNET LENTO",SNT PY
 http://186.33.168.33:8000/play/a02x
@@ -267,9 +258,6 @@ http://186.33.168.33:8000/play/a04e
 
 #EXTINF:-1 tvg-logo="https://" group-title="02- INTERNET LENTO",Disney XD
 http://186.33.168.33:8000/play/a04j
-
-#EXTINF:-1 tvg-logo="https://" group-title="02- INTERNET LENTO",Disney Channel
-http://186.33.168.33:8000/play/a04k
 
 #EXTINF:-1 tvg-logo="https://" group-title="02- INTERNET LENTO",Nat Geo
 http://186.33.168.33:8000/play/a04t
